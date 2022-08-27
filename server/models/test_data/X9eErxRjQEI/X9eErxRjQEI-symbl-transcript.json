@@ -1,0 +1,967 @@
+{
+    "name": "new_processed_test_data\\X9eErxRjQEI\\X9eErxRjQEI",
+    "messages": [
+        {
+            "payload": {
+                "content": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. "
+            },
+            "from": {
+                "userId": "AI_NARRATOR",
+                "name": "AI_NARRATOR"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:16.921222",
+                "endTime": "2022-08-27 14:58:39.701222"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK, let's get started. Last time we looked at a variety of ways to analyze sums and to find closed-form expressions for the sums. And today we're going to use those methods to solve a variety of famous problems, one of them involving center of mass and stacking blocks. We saw a version of that yesterday in recitation, where you solved the problem of figuring out how many L's you need to make something like this balance perfectly. Now in this case I didn't actually get an integer number of L's-- which is possible-- because I didn't quite get it stacked right at the bottom. So I got 10 and 1/2 L's here. There's an extra vertical here. Now in theory there are two integer ways of doing it. And you proved that yesterday in recitation. So in theory, 10 and 11 should work, but in practice the blocks aren't perfect. I didn't get them perfectly lined up. And so 10 wouldn't quite work, and 11 tended to pitch it the other way. And of course in theory, as long as the center of mass is just anywhere over this block, it's going to be stable. In practice there's air moving around, and bouncing and stuff. And so if you're close to the edge, it's going over. OK. So now if you want to build one of these yourself, it's not hard to do. You just start with an extra block here, all right, and then you build up. And that's easy. And then you notice when it's about right. And you can just start wiggling this block out. And then it looks pretty cool at that point. Actually it was a student in the class showed me this a couple of years ago, because we were doing the blocks. The next thing we're going to do-- we were doing that-- and he said, hey, there's this thing. And yeah, pretty cool. So today we're going to look at a different problem, and that's the problem of getting the blocks stacked up so they go out over the edge of the table-- if that's doable. So the goal is to stack the blocks up like this. We go farther and farther out. And the question we're going to look at is is it possible-- whoa. Almost. Is it possible to get a block all the way off the table? That's the question we're going to look at. And here I got close. And you can see it's getting a little tipsy. It's not going to go. It's going to fall over. So I didn't do it this time. You're only allowed one block per level. So you can't do anything like this. That's not allowed. You can go backwards, if that helps you. Well it's got to be stable on both sides. But you can go back and forth. So the question is, can you get out one block totally out over the table? How many people think it can't be done? All right. A few doubters. More doubters. How many think it can be done? Oh, a lot of people think it can be done. OK. Well all right. How many people think you can get a block two blocks out over the table? A few of you. How many think you can get it three blocks out? You're believers. OK. How many people think I can reach that wall? Well I got to tell you I can't reach the wall because-- "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:39.711222",
+                "endTime": "2022-08-27 15:02:13.451222"
+            }
+        },
+        {
+            "payload": {
+                "content": " The ceiling gets in the way. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:02:13.461222",
+                "endTime": "2022-08-27 15:02:15.034222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. That's going to be hard to do. But this is what we're going to try to figure out. And we're going to do it with a little competition. So we're going to have a team of you go up against the TAs. And the winner gets candy to share. The losing team gets the infamous 6042 Nerd Pride pocket protectors. Very nice. Shiny plastic. Has the MIT logo on them. Very handy. All right. So I need four volunteers. So come on down if you'd like to volunteer. You can win some candy for the class-- or at least win yourself a pocket protector. And we'll put the class over there. And we get the TAs to come down. So come on down. I got a couple of people. Who else wants to join them? All right. Come on down. We've got a fourth volunteer out there? All right. We got some people coming down. All right, come on over. All right. You got all the blocks you want. We could even take this thing down. So here's your supply. All right. Now the TAs have a little bit of an advantage, because they've done this before, some of them. So you can give some advice to your colleagues here. So you got to get some blocks out of the block supply. Maybe we should take this down. It's about to fall over anyway. So yeah, how do we get this down? I'm not sure. All right, I got this end. Whoa! There we go. Whoa! [CRASHING BLOCKS] Oops! All right. There we go. So whoever gets a block out over the farthest wins. One block per level. You can't do two blocks on a level. Believe me it's a lot easier if you can do multiple blocks per level. You can go back and forth. Go ahead and give them some advice. They look like they need it. They're only about half a block out so far. How are the TAs doing here? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:02:15.044222",
+                "endTime": "2022-08-27 15:04:35.502222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Three steps forward, two steps back? Something like that? [INTERPOSING VOICES] This is an interesting idea I think is to go out as far as possible and then just weight it back. Does that change anything? Like this you're saying? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:35.512222",
+                "endTime": "2022-08-27 15:04:52.006222"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. The TAs are getting scientific here. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:52.016222",
+                "endTime": "2022-08-27 15:04:55.365222"
+            }
+        },
+        {
+            "payload": {
+                "content": " It need to be at least half. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:55.375222",
+                "endTime": "2022-08-27 15:04:57.131222"
+            }
+        },
+        {
+            "payload": {
+                "content": " You know it's not looking good for you guys to get the candy today. I got to tell you. Ooh. TAs are close. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:57.141222",
+                "endTime": "2022-08-27 15:05:10.273222"
+            }
+        },
+        {
+            "payload": {
+                "content": " No, that's too far. Too far. Look at the distance between this and this. [INTERPOSING VOICES] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:10.283222",
+                "endTime": "2022-08-27 15:05:22.876222"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. Oh, you're about 2/3 of the way over. We've got one 2/3. You've got an inch to go. Yeah. Maybe it's not doable. It's not the first time we've done this and the problem has not been solvable. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:22.886222",
+                "endTime": "2022-08-27 15:05:37.496222"
+            }
+        },
+        {
+            "payload": {
+                "content": " The TAs are doing pretty well. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:37.506222",
+                "endTime": "2022-08-27 15:05:39.191222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh. TAs are close. they're definitely within an inch. Maybe an inch and a half. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:39.201222",
+                "endTime": "2022-08-27 15:05:50.721222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh, yeah, the top one should do [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:50.731222",
+                "endTime": "2022-08-27 15:05:57.815222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. You can't hold it. It's got to stand up by itself. Now the bottom block can go out over the edge if you want. Oh, they're getting close. Oh, I think you might have the top block out over. Maybe. How are you guys doing? Not good. This is trouble for the-- "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:57.825222",
+                "endTime": "2022-08-27 15:06:35.061222"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's out. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:35.071222",
+                "endTime": "2022-08-27 15:06:35.881222"
+            }
+        },
+        {
+            "payload": {
+                "content": " You've got it? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:35.891222",
+                "endTime": "2022-08-27 15:06:36.922222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:36.932222",
+                "endTime": "2022-08-27 15:06:37.731222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Ooh. All right. You've got to work fast now if you're going to beat that. TAs got it out over the edge. You see that? They're out over the edge. All right. I think they did it. [INTERPOSING VOICES] We're going to have a hard time analyzing that one. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:37.741222",
+                "endTime": "2022-08-27 15:06:56.014222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Uh, we're-- I think we're actually there. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:56.024222",
+                "endTime": "2022-08-27 15:06:58.875222"
+            }
+        },
+        {
+            "payload": {
+                "content": " No. All right. Well try another block or two, and then we'll vote. See? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:58.885222",
+                "endTime": "2022-08-27 15:07:09.491222"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's on the edge. Right there. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:09.501222",
+                "endTime": "2022-08-27 15:07:11.871222"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:11.881222",
+                "endTime": "2022-08-27 15:07:13.608222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Looks like the Stata Center. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:13.618222",
+                "endTime": "2022-08-27 15:07:15.191222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah that's it. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:15.201222",
+                "endTime": "2022-08-27 15:07:17.301222"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'm holding it. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:17.311222",
+                "endTime": "2022-08-27 15:07:18.661222"
+            }
+        },
+        {
+            "payload": {
+                "content": " You're close. [INTERPOSING VOICES] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:18.671222",
+                "endTime": "2022-08-27 15:07:27.065222"
+            }
+        },
+        {
+            "payload": {
+                "content": " You're not the most efficient, that's for sure. Yeah the TAs are already munching down here. [INTERPOSING VOICES] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:27.075222",
+                "endTime": "2022-08-27 15:07:46.321222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Copy the TAs' solution. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:46.331222",
+                "endTime": "2022-08-27 15:07:47.821222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Now there's an idea. All right. Well I think it's time for a vote. But let the class see what you did. Yeah you got to take your hands off. That's you know. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:47.831222",
+                "endTime": "2022-08-27 15:08:02.181222"
+            }
+        },
+        {
+            "payload": {
+                "content": " We can. We're just choosing not to. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:08:02.191222",
+                "endTime": "2022-08-27 15:08:06.251222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Get some good top balancing on there. I don't know. All right. Can you let it go? All right. They let it go. Let's see. Did you get one out? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:08:06.261222",
+                "endTime": "2022-08-27 15:08:21.764222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. This one right here. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:08:21.774222",
+                "endTime": "2022-08-27 15:08:23.251222"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. We're going to do a vote. Who thinks they got the one farthest out? Oh it's close. Ah! Look at that. We need some glasses out there. Who thinks the TAs got it farther out? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:08:23.261222",
+                "endTime": "2022-08-27 15:08:38.097222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Boo. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:08:38.107222",
+                "endTime": "2022-08-27 15:08:39.093222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh man. All right. All right. So you guys. Here you go. Your very nice pocket protectors. A good effort. There you are. Well done. And I'm afraid they get the candy here. So you can take these out and share them with the class. Oh, leave it that way. Leave it there. I mean, we're going to analyze yours, because I can't begin to analyze that. All right. Now watching this, how many people still think we can get it all the way to the wall? Ah, a few people. In fact, if you stack this high enough-- and we're going to analyze how high it has to go-- you could reach the wall. Now in fact we're going to find that you probably got to go out to the stars to get that high before you can reach the wall. So it's not too practical. Now what I want to do is analyze this strategy. And this sort of looks like a nice design. They got out there with just five. And they did a particular approach using what we could call as the greedy algorithm. We've seen greedy algorithms before. And they used another greedy algorithm here. Now what their greedy strategy did-- and I'm going to redo it here-- is stack all the blocks right at the edge. Line it up here and, starting at the top, push it out as far as you can go. Now in this case, we can get it out about halfway, because the center of mass of this block is at halfway point. And that better be sitting over this block, or it's going to tip. So the top block goes out here. Now I'm going to slide the top two blocks out as far as they go. All right. That's about the tip. Then I slide the top three out as far as they go. Whoa! Almost. Oops. Theory is always easier than practice. And now we do the top four blocks. And they did a better job than I did. But that's the algorithm, OK, the greedy algorithm. The top i blocks-- when i goes 1 to n-- push it out as far as you can go. All right. And we're going to analyze that strategy and see how far it goes. So we're given n blocks. And let's say they all have length 1, to make it easy. And we're going to define r sub i to be the amount by which the i'th block hangs out over the edge. and we're going to count from the top. All right. So let's see this on a picture. So I got the table here. And then I'm stacking the blocks out in some way like this. And with a greedy strategy, you don't ever go backwards. All right. So I'm defining this distance. This is block one. This distance here is r 1. This distance is r 2. This one is r 3-- and so forth, until you get down to here. This is r n, because this is the n'th block, and it extends out r n from the table. And this is 0 here, which the table-- we'll consider the table to be the n plus first block. So r n plus 1 is 0. OK. And so using the strategy-- the greedy strategy-- we want to know what's r 1? We want to compute that-- if I keep pushing the blocks out in a topward fashion as far as they'll go. Now the constraint is the stability constraint so it won't fall over. The stability constraint says that the center of mass-- we'll call it C k-- of the top k blocks must lie on the k plus first block. Otherwise it'll tip over. And of course the table is block n plus 1 in this context. OK. So if at any point we've got k blocks, and their center of mass is out here, they'll fall over at that point. Or if you are building it this way, they would fall over that way. All right. So for each set of the top k blocks, the center of mass has to be on the block below. And if it is, we're fine. It won't fall over. Now for the greedy stacking. Where is the center of mass of the top k blocks in the greedy stacking, the way we defined them in terms of these variables. What is C k? All right. So I got the top k blocks r k plus 1. The center of mass of the top k blocks by the greedy strategy is right at the edge of the k'th block. So if this is a block k here, then this is r k plus 1. That's where the center of mass has to be of all these blocks-- the top k blocks. If it's a little bit more, it's going to fall over. If it's less, then it's not greedy. We didn't push it out as far as it could go. All right. So for the greedy stacking, C k is equal to r k plus 1. And r n plus 1 of course is the edge of the table. That's zero. Any questions so far? What we're doing? OK. All right. So let's figure out where the center of mass of the top k blocks is-- a formula for that-- a recursive formula. So to do that we look at the center of mass of the k'th block by itself, and then average it in with the center of mass of the top k minus 1 blocks. OK. So we're going to set up a recursion to compute C k. Where is the center of mass of the k'th block just by itself? The center of mass of the k'th block. This guy. Where is its center of mass? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:08:39.103222",
+                "endTime": "2022-08-27 15:16:46.881222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:16:46.891222",
+                "endTime": "2022-08-27 15:16:49.581222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, r k plus 1 minus 0.5. Because the center of mass of this block is 1/2 from the right edge. And the right edge is-- oh, it's r k. Sorry. All right? The top. Yeah this is. What? What did I do here? Oh, the top k. Sorry. This is the k'th block, the way I had it. Here's the k'th. So it is r k minus a half. That's right. This is r k plus 1 down here. All right. Because the right edge of the k'th block is at r k, the center of mass is 1/2 left of that. All right. So we know that the center of mass of the k'th block is at r k minus 1/2. All right. Now we can compute another expression for C k. The center of mass of the top k blocks is C k equals-- well there's k minus 1 block centered at C k minus 1, because the center of mass of the top k minus 1 block's by definition is C k minus 1. And they have weight k minus 1. And then we average that with a k'th block that has weight 1 at position r k minus 1/2. And the total weight of this is k minus 1 here, and one for this block. So this equals KC k minus 1 minus-- let me write it better here. k minus 1. C k minus 1 plus R k minus 1/2 all over k. All right. So now we've got an expression-- a recursive expression-- for C k. And to simplify it, we're going to plug in that-- C k as r k plus 1 for the greedy strategy. Yeah? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:16:49.591222",
+                "endTime": "2022-08-27 15:19:09.015222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:09.025222",
+                "endTime": "2022-08-27 15:19:11.481222"
+            }
+        },
+        {
+            "payload": {
+                "content": " L is 1. The length of the blocks is 1, here to make it simpler. Otherwise it would have been a half L. So yesterday we talked about length L blocks. Today they're length 1, to be simple. All right. So now for the greedy strategy, I'm just going to plug in C k as r k plus 1. So let's do that. So I got C k as r k plus 1 equals zero k minus 1. Well C k minus 1 is just R k plus R k minus 1/2 over K. And this simplifies to k r k minus r k plus r k-- they cancel-- minus 1/2 over k. This equals r k minus 1/2. So getting very simple now. And I'm just going to rewrite this to look at the difference between r k and r k plus 1. So r k minus r k plus 1 Oops. I made a mistake. That's 1 over 2 k. Half over k is 1 over 2K. Any questions about the math we did? Interesting. This is one of those problems where the math this way is easy. There are other ways to try to solve this problem and the math gets pretty hairy. But this one's a simple approach. What's the meaning of this? What's an interpretation of r k minus r k plus 1? Yeah. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:11.491222",
+                "endTime": "2022-08-27 15:20:56.614222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:20:56.624222",
+                "endTime": "2022-08-27 15:20:59.835222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. This is how much further the k'th block sticks out over the k plus first block. So let's see that. All right. So here's r 1. Here's r 2. r 1 minus r 2 is the amount by which the first block sticks out over the second. Here's r 2 two minus r 3. It's that distance. All right. So we've gotten a formula for the greedy strategy of how much the k'th block sticks out over the k plus first block. And it's pretty simple. All right. So now we can write down this expression for all the values of k. So what's r 1 minus r 2 going to be in the greedy strategy? How much is the top block sticking out over the second block in the greedy strategy? 1/2. Just plug in k equals 1. r 2 minus r 3 equals-- "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:20:59.845222",
+                "endTime": "2022-08-27 15:22:03.669222"
+            }
+        },
+        {
+            "payload": {
+                "content": " A quarter. One quarter. r 3 minus r 4 is what? 6. All right. So now you can start to see what the TAs did, how it got smaller each step going down all the way to the end here. You get r n-- the n'th block-- minus the table is 1 over 2 n. All right. Now there's a very easy way to figure out what r 1 is, which is what we're after. How far out is the top block? What do I do? Add them all together. And everything cancels. So I get r 1 minus r n plus 1 equals 1/2 plus 1/4 plus 1/6 out to 1 over 2 n. All right. So that's just equal to the sum i equal 1 to n 1 over 2 1. All right. Now I got r 1 minus r n plus 1. But what's r n plus 1? 0. That's the table. The table doesn't hang out over itself. So in fact r 1 equals a half of the sum of the inverses of the first n integers. OK? And so now all we have to do is to compute this sum to know how far out it is. In fact, this sum comes up so often in mathematics and computer science, it has a special name. It's called the harmonic sum. And the numbers are called the harmonic numbers. And in particular, the n'th harmonic number is typically denoted H n just equals the sum of the n reciprocals. All right. So for example, the first harmonic number is 1. The second is 1 plus 1/2 equals 3/2. The third is 3/2 plus 1/3, which is 11/6. The fourth harmonic number is that plus 1/4. 22 plus 3/12 is 25/12. That's sort of an interesting number, because it's bigger than 2. What does that tell us? Why is that interesting from this perspective of what we're doing here? Now you can get a block off the table. Because R1, the distance that the top block hangs out off the table, is half the harmonic number. Half of H 4 is a little bit bigger than 1. Which means with four blocks the top block can be off the table. Now the TAs did it using five. I didn't even get it to work with five. In theory it'll work with 12. You can hang one out there just a 24th beyond the edge of the table in theory. All right. If we kept on going, h of a million-- the millionth harmonic number, if you were to go compute it, is 14.3927 and some other stuff. So if I had a million blocks stacked up, in theory how far would I get the top block off the table? Seven blocks. All right. So that gives you an idea. You have to do a lot of work to get seven. And in fact it's hard, because the bottom block would be hanging out one two millionth of a block. All right? So you're adding up a lot of tiny things to get to seven out there. Now it turns out that the harmonic numbers grow to infinity. And we'll see that. But they grow very, very slowly. And to see that, we need to get a closed-form expression for this sum. Now does anybody know a closed-form expression for the sum of 1 over i? I don't think so, because I don't know anybody who knows that. In fact it's [? probably ?] believed that it doesn't exist. So what do we do to get a good estimation of that sum? What do we do? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:22:03.679222",
+                "endTime": "2022-08-27 15:26:52.763222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Integration bounds. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:26:52.773222",
+                "endTime": "2022-08-27 15:26:53.971222"
+            }
+        },
+        {
+            "payload": {
+                "content": " The integration bounds. Yeah. Because we're not going to get a closed form. At least I don't know of anybody who knows how to do it. So we'll use the integration bounds. And what kind of function are we summing? Is it increasing or decreasing? Decreasing. Yep. So we'll use the formula we did last time. All right. And that formula is that the sum i equals 1 to n of f of i is, at most, the first term plus the integral. And it's at least the last term plus the integral. All right. In this case we have f of i as 1 over i. So the first step is to compute the integral. And that's pretty easy. That's just the natural log of x evaluated at n and 1. And that's easy. That's just the natural log of n. So the integral is very easy here. And now we actually can just plug in and get really good bounds. Maybe I'll save that just in case. OK so plugging in into the bounds f of n is 1 over n plus the integral is log of n is less than or equal to the n'th harmonic number. And it's upper bounded by f of 1, which is 1 plus the integral. All right. So that's really good. We got very tight bounds. And now you can see that the n'th harmonic number-- how fast is it growing? If I were to use tilde notation, what would I write? As log n. Yeah. So this means that h of n is tilde log of n. Now this is such an important function that people have gone to a lot of extra work-- which we can't do in this class-- to really nail down the value-- get it much closer. And in fact it's now known that it's the natural log of n plus 1 over 2n plus 1 over 12n squared plus epsilon of n over 120n to the fourth where for all n epsilon n is between 0 and 1. Oop. And I left one piece out. Actually there's a constant term in here-- delta-- that's called Euler's constant. Delta is called Euler's constant, and equals 0.577215664 and some other stuff. And in fact to this day people don't know if this constant is rational or irrational. But they know it to a lot of decimal places. So basically H n is the log of n plus some fixed value between 0 and 1-- as we knew it had to be-- plus even some tail terms here that get very small as n gets large. All right. So say I wanted to using this greedy strategy. How many blocks I would need to get a block 100 blocks out over the end of the table. So I want to go 100 blocks out. How many blocks do I need using this strategy, roughly? What is it? I think somebody said it. So I want to get r 1 to be 100. So I need the harmonic number to be 200. And what does this tell me about n to get this to be 200? e to the 200. All right. So you're going to need an exponential in 200 number of blocks, which now we're past the stars, all right, to get that many. All right. Now we won't prove it in class, but this strategy-- the TA greedy strategy-- is optimal. There is no way to get a block farther out over the edge. That said, there is a second way to get there. And in the second way, the top block is not the optimal block. In the second way, it's the second block that goes out. So it looks something like that. So there's a counterweight on it. And in the text, when you read chapter nine, you will see the proof that shows that there's two solutions that are optimal. One's a greedy, and one's this other one that sort of is mostly the greedy, except the top couple of blocks are different. And it proves that's optimal. We won't cover that in class. Now actually in the literature today people have been studying how far a block can go out if you're allowed to do more than one block per level, like one of the students wanted to do. So if you're allowed to have multiple blocks on the same level, it turns out you can get much farther out with n blocks. And right now it's known that it's something like n to the third is how far you can get out, which is much better than log of n. And so mathematicians have been studying that problem. Any questions about the block stacking? OK. All right. So that's basically it for sums. I do want to spend a little time talking about products. And that may get us back into sums pretty quick. The most famous product out there is n factorial. And once we get to counting and probability, probably every lecture we're going to be looking at n factorial one way or another. Just comes up all the time. n factorial is the product of i equals 1 to n of i. It's the product of the first n natural numbers after zero. Now we'd like to be able to get a closed-form expression for this, because factorial is really not closed form, because it's hiding this thing. And if I ask you how big is n factorial, sort of hard to say how big it is, how fast it grows. Any ideas about how we might go about doing a product to get a closed-form expression? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:26:53.981222",
+                "endTime": "2022-08-27 15:34:43.587222"
+            }
+        },
+        {
+            "payload": {
+                "content": " If you take a logarithm of a product, you get a sum. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:43.597222",
+                "endTime": "2022-08-27 15:34:46.681222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, good. Take the log of it. Well, let's write that out-- 1 times 2 times 3 to n. That equals the log of 1 plus the log of 2. Whoops. All right. So I've now got a sum. And now that I've got a sum we can use all the tools we had for sums. So really, products look hairy, but they're no different than sums. Because we're going to get an approximation or get an answer for [? login ?] n factorial. Then we'll exponentiate it, and we'll have the answer. All right. So we're looking at this sum. And so how do I get a closed form for that? Turns out nobody knows the closed form. But we do know a method that approximates it very well, which is the integration bounce. Only in this case, it's an increasing function. So let's do that. OK. So let's do that. And the formula is easy. It's basically the same formula we had there-- that the sum i equals 1 to n of f of i is at most the n'th term plus the integral. And it's at least the first term plus the integral. All right. Now in this case f of i is the log of i. And so we need to compute the integral of log of x. And that's easy. That's x ln of x minus x evaluated at n and 1. And that's just n log of n minus n. If I plug in 1, I get a 0 here, and I'm subtracting negative 1 there. All right. And so now we'll just plug this into the integral and we'll get our bounce. So f of 1. What is f of 1 in this case? Yeah, 0. Plus n ln n minus n plus 1 less than equal to log of n factorial, less than or equal to f of n is log of n. OK. So to get bounds on n factorial, we just exponentiate both sides. So I take e to this, gives me-- well, that's going to give n to the n here. And this is negative. That'll be e to the n minus 1. And here I've got n plus 1 times the log of n. So it's n to the n plus 1 over the same thing-- e to the n minus 1. So we got very close bounds. They're within a factor of n-- which sounds like a lot, but compared to how big n factorial is, not so bad. Pretty good bounds there. OK. So n factorial's about n over e to the n'th power. Now this is so important that-- even more important than harmonic numbers-- people have gone to a lot of effort to get very tight bounds on n factorial. So let me tell you what those are. It's called Stirling's formula. And that says that n factorial equals n over e to the n'th power times the square root of 2 pi n times e to the epsilon n where epsilon n is between 1 over 12n plus 1 and 1 over 12n. So it's epsilon n is going to 0 as n gets big. So e to something going to 0 is going to 1. All right. So another way of looking at this is you could put a tilde here, all right, and ignore that term. And that's called Stirling's formula. This is a good thing to have on your crib sheet for the midterm. So very likely there'll be something where you've got to have some kind of analysis of n factorial, and to know how fast it's growing. Now these bounds you get here are very tight. For example, 100 factorial is at least 100 over e to 100 times square root 200 pi, times e to the 1 over 1,201. This thing is just really tiny. This thing here is 1.0008329 and something. And 100 factorial is lower-bounded by the same things, only here it's e to the 1 over 1,200. And that is very close to 1-- 1.00083368. So the difference in these bounds is a tiny fraction of 1%. So the bound you get from Stirling's formula is very, very close to the right answer. Any questions on Stirling's formula? We won't derive it. You can derive that in a graduate math class. They do that sometimes. More typically you'll see it without that e to the error term. And you just see n factorial written as tilde, and over e to the n, square root 2 pi n. All right? Because that e to the epsilon n goes to 1 in the limit. So it sort of disappears when you go to the tilde notation. And this in fact is a lower bound on n factorial, and very close to the right answer. Now this is sort of an amazing formula. I mean who would think that when you look at n factorial that the expression would have e and pi in the expression for it? Maybe e. Maybe. But what's pi doing in n factorial? It's sort of a bizarre thing. OK. That's it for products. We're just going to do the one example, because really any product just becomes a sum through the log. And that makes it really easy. Any questions on sums and products? Because I'm going to totally change gears now and talk about more things like tilde. OK. So we're going to talk today and tomorrow in recitation about asymptotic notation. It is used all over the place in computer science. We've already seen one example, which is the tilde notation. And it turns out there's five more things like that which we're going to learn what they are and how they work. They're used to explain or describe how a function grows in the limit. So for example, we had the tilde notation. And we wrote f of x is tilde g of x if the limit as x goes to infinity of f over g is 1. Now the next one-- and most commonly used one in computer science-- is called the O notation, or the big O. And it's written like this. f of x equals O of g of x. And it means that the limit as x goes to infinity of the absolute value of f of x over g of x is convergence-- is less than infinity. So it's finite, and it can't diverge. The interpretation is that this function is up to constant factors upper-bounded by this one, that this grows the same rate or slower than this one grows as x gets large. Because if f was growing a lot faster than g in the limit, then the limit would be the ratio is infinity. And we're saying that doesn't happen. All right. I'm not going to do a lot of examples for this. In fact, let's go over here. There's several other ways you'll see it written. For example, you'll see people write f of x is less than or equal to O of g of x, because the natural interpretation is f is not growing faster than g-- sort of upper-bounded by g. You'll see people write f of x is O of g of x. And the formal math way that people don't use, but it's the formally correct one, is f of x is an element of O of g of x. And the interpretation there is that O of g of x is a set of functions that don't grow any faster than g. And f is one of them. You can use any of these and that's fine. People will know what you mean, and it'll be fine for the class. All right. Let's see some examples, and see how to prove a big O relation. Let f of x be the function x, and g of x be the function x squared. Then in this case f of x is O of g of x-- because x doesn't grow any faster than x squared as x gets large. To prove it, we take the limit as x goes to infinity of x over x squared. That is equal to what? What is the limit of x over x squared as x goes to infinity? 0. And that is less than infinity. So we proved it. So if you get asked to prove f is O of g, what you do is you take the limit of f over g as x goes to infinity and show that it doesn't diverge. All right. Let's do another example. In this case we'll show that f is not O of g. x squared is not O of x. Of course, x squared grows faster than x, but let's see why not. Well we take the limit as x goes to infinity of x squared over x. And what is that limit? Infinity. And so it can't be true that it's x squared is O of x, because it has to be less than infinity. Yeah? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:46.691222",
+                "endTime": "2022-08-27 15:48:49.207222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Sorry. I missed it. What's alpha? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:48:49.217222",
+                "endTime": "2022-08-27 15:48:54.138222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Infinity. Sorry. Infinity. There we go. That's important in the definition. Yep. Good. All right. What about this? Is x squared equal O of a million times x? Yes? No? What do you think? This looks pretty darn big. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:48:54.148222",
+                "endTime": "2022-08-27 15:49:31.077222"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's a constant. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:49:31.087222",
+                "endTime": "2022-08-27 15:49:32.381222"
+            }
+        },
+        {
+            "payload": {
+                "content": " That a constant. So in the limit, as x goes to infinity, this over that is infinite. All right. So no. Because the limit of x goes to infinity of x squared over 10 to the sixth x, that equals infinity. So the thing with this big O notation is you just ignore our constant factors. They don't do anything. Just forget about them. What about this? Is 10 to the sixth x equal O of x squared? Yes. Because you just ignore the constant. That's what the big O is for, and why it's used all the time in computer science. So yes, that's true. The proof is very simple. The limit as x goes to infinity of 100 x squared-- whoops. I could even put a square there. 10 to the sixth x squared over x squared is 10 to the sixth. That's less than infinity. In fact, I could take any quadratic polynomial. x squared plus 100x plus 10 to the seventh is O of x squared. Because smaller order terms don't matter. The limit of this here over that in that case is 1. So it's less than infinity as x gets big. All right let's do a few more. This really is not so hard. It's a little dull. But you've got to know it for later. OK. I could take classes like 6046, and you'll never see any constants, because everything is things like big O and the other notation we'll talk about. What about this? X to the 10th equal O of e to the x. Is x to the 10 O of e to the x? Yeah, it is. So this is a theorem. Proof. Limit as x goes to infinity. x to the 10 over e to the x. That equals 0, which is certainly less than infinity. All right. Now the reason this stuff is useful when you're doing the analysis of algorithms is because when you're talking about things like matrix multiplication algorithms or things like that, the actual running time depends on the machine you're dealing with-- the machine characteristics-- details in how you count steps of the algorithm. For example, doing matrix multiplication, do you count multiply different than you count plus addition? And if you start getting caught up in all those details you lose the important fact of the algorithm. For example, matrix multiplication-- the elementary algorithm takes order O of n cubed steps. And that's the important fact. And it tells you that if you double the size of the matrix the running time will increase by at most a factor of eight in the limit as n gets large. And so you might write things like the time to multiply n by n matrices. You might call that t of n, and then state that is O of n cubed. All right. And you don't have to worry about what computer it's running on, exactly how you're counting the details of what a step is or what time is. The important thing is that it's growing at most as a cubic of the size of the matrices. And so in 6046 and 6006 you will spend lots of time proving that things are the running time, or the size is O of some function of the input size. All right. Any questions? Yeah. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:49:32.391222",
+                "endTime": "2022-08-27 15:54:12.756222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:54:12.766222",
+                "endTime": "2022-08-27 15:54:22.395222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. It gets all dicey if you do oscillatory things. And it depends how you define it. So we're going to stay away from that and just stick with this definition. So if this guy oscillates-- like f is a sine of x, sine of x is O of x. All right. It doesn't have to converge. But as long as the ratio is less than infinity. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:54:22.405222",
+                "endTime": "2022-08-27 15:54:44.291222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:54:44.301222",
+                "endTime": "2022-08-27 15:54:46.355222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. Everything you do. Maybe you'll see sine functions sometimes. But everything you do in algorithms is going to be growing monotonically. Yeah. Nothing-- no wacky stuff in math usually. Any other questions? Yeah. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:54:46.365222",
+                "endTime": "2022-08-27 15:55:00.466222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] sort of comparing something that's the same magnitude that you go off into infinity. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:55:00.476222",
+                "endTime": "2022-08-27 15:55:06.695222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. It's upper bounded. So it's not the same. We'll get to the same in a minute. But it's upper bounded. f is upper bounded by g up to a fixed constant as you go to infinity. And all constants get washed away by O. Yeah. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:55:06.705222",
+                "endTime": "2022-08-27 15:55:21.860222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:55:21.870222",
+                "endTime": "2022-08-27 15:55:25.761222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Ah, why is this true? Well technically we'd have to go back to calculus and use L'Hopital's rule or something like that, because this function exponential grows a lot faster than x to the tenth. So L'Hopital's rule is you take the derivative of this over the derivative of that. Then you'd have x to the ninth over e to the x. You do it nine more times. And you'd get 10 factorial over e to the x. And that limit is zero. So that's how you'd actually do it using L'Hopital's rule. Yep. Any polynomial grows slower than any exponential. All right. Let's now do some examples that can get you screwed up. What about this one? Is 4 to the x O to 2 to the x? Is that true? No, it's not true. I mean, the mistake you might make is say, oh, 4 and 2, 4 is only double 2. Big O wipes out constant factors. So the answer is yes. That would be bad. Better to look at the limit. So we'll state the correct theorem-- 4 to the x is not O of 2 to the x. And the proof is obtained by looking at the limit as x goes to infinity of 4 to the x over 2 to the x. That is just the limit 4 to the x over 2 to the x is 2 to the x. That's infinity. So the limit is not bounded. All right? So it is not big O there. All right. Here is one. Is 10 O of 1? I've purposely written it this way. Yes, it is. And in fact the interpretation here is that you've got some function f of x that's just always equal to 10, and some function g of x that's always equal to 1. And then it is true in this case that f of x is O of g of x. All right. But any constant function is O of any other constant function. We're going to revisit this in a nastier scenario in a little bit. OK. Sometimes you'll see notation like this. H of n-- in fact, we saw this earlier-- is the log of n plus delta plus O of 1 over n. When we wrote out the formula for the n'th harmonic number, it was log of n plus Euler's constant plus something like 1 over n, constant times 1 over n. And then some even smaller terms. And so people will write it like this. And it tells you that the error terms grow no faster than a constant times 1 over n. Technically this is the wrong way to write it. But everybody does it, so you can too. What it means is this. H of n minus ln of n minus delta is O of 1 over n. All right. That's the correct way to write it, because you're taking the ratio of this over that. This is how people will do it. All right. So just make sure you understand that, what it means when you put it over there. Same thing with tilde notation. People will write this-- H of n is tilde ln of n plus Euler's constant. The right way to write it is Hn minus Euler's constant is tilde ln of n. Now can anybody tell me why this is really not a good thing to do? And you think of how things get really screwed up if you allow to start doing this? Can you think of anything that--? What if I did this? Is this true? 10. The n'th harmonic is harmonic number is tilde of log of n plus 10. Is that true? Think about that. People are shaking their heads. I mean how can it be true? Because we know this is. We know that's what it is. In fact, this is true. I can even make it a million. 10 to the sixth here. It's true. Because the ratio of this over that in the limit is what? 1. And that's all I need for tilde. All right. So when I wrote this, everybody knew what I meant. But I could write this and be just as true mathematically. And so you've got to be sort of careful about this. Really, the right way to do it is this, because now we're taking off that term, and then it's-- actually I did this wrong. I should've put the [INAUDIBLE]. Whoops. I should've done it this way. Let me rewrite that. The right way to do it is H of n-- yeah-- is this. You put the small term out over here. That's the right way. Because now it's not true that it's 10 to the sixth out here-- all right-- for the ratio of that over this guy. All right. So you can do it. But be careful, because you might write wrong things that technically would fit the definition. Same thing with big O. Same problem there. Any questions about that? All right. All right. Now one thing that people do all the time that you cannot do is to use big O as a lower bound. All right. So that's one abuse that we won't-- you'll get marked wrong for doing that, even though famous researchers will do it, and you'll probably even have a professor do it sometime. So you may not do this. f of x is bigger than or equal to O of g of x. That is meaningless. Because the whole point of big O is that it's an upper bound. So you can't use it as a lower bound. And the reason you can't do it is because there is another symbol to do what you want to do. And that's called the omega symbol. And it's written like this. It's a capital omega. And it's if the limit as x goes to infinity of f of x over g of x is greater than zero. OK. So now we're getting the lower bound version. In fact it's just the opposite of big O. In fact, we'll state a theorem. Not hard to prove. We won't do it. f of x equals O of g of x if and only if g of x equals big omega of f of x. In other words, f grows no faster than g if and only if g grows at least as fast as f. One's an upper bound one. One's a lower bound. And you've just got to use the symbol the right way. Now you can do this. You can write f of x bigger than or equal to omega g of x. That's OK. All right? That's all right to do. All right. Let's do some examples. So x squared is omega of x, because it grows faster than x. 2 to the x is omega of x squared. All right. x over 100 is omega of 100x plus 25, because constants don't matter. x over 100 grows at least as fast as 100x does in terms, because we're measuring the growth. So constants go away. If you want to say the running time of that algorithm is at least quadratic, you would write T of n is omega n squared. All right. And that says that the running time is at least n squared. Any questions on big omega? Not too hard once you have big O. It's just the opposite. All right the next symbol is the version of equality, where you're bigger-- at least as big as, and at most as big as. There's a special symbol for that. So in that case we use theta. And we say that f of x equals theta of g of x if the limit is both bigger than 0 and less than infinity. All right. So it's just a shorthand way of saying big O and big omega. That's what theta means. It just both hold true. All right. And that's a theorem which is not hard to prove, but we won't do it. f of x equals theta of g of x if and only f of the x equals O of g of x and f of x equals omega g of x. All right. So let's do some examples of theta. So for example, 10x cubed minus 20x plus 1 is more easily written as theta of x cubed-- because the constants don't matter. The low order terms don't matter. What about this? Is x over log of x, is that theta of x? x over log of x. Is that theta of x? People are nodding their heads. Hmm. Let's see. Let's check. The limit as x goes to infinity of x over log of x divided by x. Well, the x's cancel. That's the limit as x goes to infinity of 1 over log of x. What's that? 0. Uh-oh. it is not theta. I got to be bigger than zero. In fact, this grows more slowly than that-- strictly more slowly. All right. A little more slowly, but strictly more slowly. All right. If I use for an algorithm, if you want to say the algorithm runs in quadratic time-- namely at least quadratic time, and at most quadratic time-- then you'd say t of n is theta of n squared. So let me write that. So t of n equals theta n squared means t grows quadratically in n-- both upper and lower bound. OK? So for these three guys, to summarize-- sort of you can keep track of them pretty simply-- O means less than or equal. Omega means greater than or equal. Theta means equal up to constant factors. Now there's two more symbols here. And they correspond very naturally to this set-up. What two symbols are missing from here that would you naturally add to here? Yeah. Less than and greater than. So less than is little o. Greater than is little omega. And less than means it's less than or equal, but not equal. And this means greater than or equal, not equal. And let me put them up over here and give you the formal definitions. Eraser. OK. So little o. as we have f of x equals little o of g x if the limit of f of x over g of x equals 0. So f is growing strictly smaller than g, so that when I take the ratio, the limit goes to 0. And the reverse is little omega. And we say that f of x is little omega-- whoops-- of g of x if this is infinity. Because now f is growing strictly faster than g, so I take the limit of the ratio, and it goes to infinity. All right so we can do some simple examples. Then we're almost done with all this notation. What about this one? x over ln of x-- we just looked at it-- and x. What symbol do I put there? What symbol's missing here? Little o. This grows strictly smaller than that. If I took the ratio, and I took the limit, we got 0. So that's a little o. OK. Is this true? x over 100-- is that little o of x? No. The limit of the ratio is 1 over 100. That's bigger than 0. Constants don't matter. All right. So what symbol would go here? Theta goes here. Good. Also big O and big omega. But theta captures everything. All right. What symbol goes here? x squared equals something x. What symbol goes there? Little omega. It would also be true to put big omega, but little omega tells you more. Because the limit of x squared over x goes to infinity. OK. Any questions about these things? So a natural thing on the midterm is we do some of that, for example. All right? And you'll certainly see some of that on homework. You might see some of that on the test. You'll certainly see all this stuff-- little omega not very often in 6046 and later algorithms courses. But all the rest you'll see there. Any questions? All right. Now I'm going to show you something that is sort of scary. Yeah. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:55:25.771222",
+                "endTime": "2022-08-27 16:13:09.473222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Why do you say that it's equal to zero when you said it's less than [INAUDIBLE] equals sign. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:13:09.483222",
+                "endTime": "2022-08-27 16:13:18.361222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Which equals? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:13:18.371222",
+                "endTime": "2022-08-27 16:13:19.731222"
+            }
+        },
+        {
+            "payload": {
+                "content": " You said little omega is less than. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:13:19.741222",
+                "endTime": "2022-08-27 16:13:22.491222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Little omega, it corresponds to a greater than, which means a greater than or equal to, but not an equal to. And the way we can see that is looking at the definitions here in the greater than or equal to is the big omega. And that just says you're bigger than 0. Ah. Let's see. All right. So I'm bigger than or equal to is omega. But I'm not equal to, which is theta. So if I know that I'm this but not that, the only conclusion is that I'm infinity in the ratio. All right? So that's another way of saying it. That's why. Any other questions? All right. Now I'm going to show you something that is commonly done, and that many students will attempt to do after seeing this notation, because the notation is pretty simple. Take your limits. Everything goes fine. Then you start cruising along with it. So now I'm going to show you how to prove something that's false using this notation in a way that people often do. And the hope is by showing you, you won't do it. It will confuse you, which is why sometimes we worry about showing you. But let f of i-- f of n-- equal the sum i equals 1 to n of i. Now we all know what that is, right? All right. So I'm going to prove to you that f of n is O of n. Now what really-- what should be here instead of n? n squared. So n squared can't be O of n. So this can't be true. All right. Well let's see how we do it. All right. So the false proof is by induction on n. My induction hypothesis is p of n is going to be that f of n is O of n. All right? That's what we, when we want to prove something by induction, typically that's what you do. Becomes the induction hypothesis. Let's look at the base case. Well f of 1 is 1, and 1 is O of 1 surely. Right? Even 10 was O of 1. OK. All right. Now we do the inductive step. We assume p n is true to prove that p n plus 1 is true. Well p n means that f of n is O of n. Now I look at f of n plus 1. That equals the sum of the first n plus 1 number. So that will be f of n plus n plus 1. The induction hypothesis says this is O of n. Clearly this is O of n. Well I got O of n plus O of n. That's at most twice O of n. And constants don't matter. So that's O of n. All right. This should begin to cause panic. Is induction wrong? What's going on with the big O? You will see this done all the time. People would do this kind of an argument. Looks pretty good, right? Can anybody see where I got off track? This is a really hard one to figure out where things went wrong. Yeah? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:13:22.501222",
+                "endTime": "2022-08-27 16:18:09.165222"
+            }
+        },
+        {
+            "payload": {
+                "content": " One of them might be that you might be applying O of n to numbers which really you really apply asymptotic notation to functions. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:18:09.175222",
+                "endTime": "2022-08-27 16:18:21.951222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Great. That's a great observation. Asymptotic notation only works for functions. Now here when we say 1 is O of 1, well, you could think of it as f of x being 1-- the function-- and so forth. So that's OK. That's a great point. Now let's figure out using that how we got in trouble. We're not quite done yet. That's a great observation. But where's the step that's wrong? Oh, no. 2 times O of n is O of n. If I have a function that's f is O of g, twice f is O of g. Yeah? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:18:21.961222",
+                "endTime": "2022-08-27 16:19:00.989222"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's the end of n equals 1 [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:19:00.999222",
+                "endTime": "2022-08-27 16:19:04.663222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Is it? So what's the problem now? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:19:04.673222",
+                "endTime": "2022-08-27 16:19:07.282222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:19:07.292222",
+                "endTime": "2022-08-27 16:19:09.741222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well f of n plus 1-- this statement is true, because f of n plus 1 is the sum of i equals 1 to n plus 1 of i. That's 1 plus 2 plus n plus n plus 1. And this is f of n. So that's OK. Yeah. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:19:09.751222",
+                "endTime": "2022-08-27 16:19:36.881222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] that function. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:19:36.891222",
+                "endTime": "2022-08-27 16:19:41.315222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. You know, you're getting closer. Yeah that's a little flaky, because I've just got a single value saying it's O of one. But we sort of argued before that 10 was O of 1. Now realize a function behind here that matters. So you're on the right trail. But there's an even bigger whopper hiding. Yeah. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:19:41.325222",
+                "endTime": "2022-08-27 16:20:01.895222"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:20:01.905222",
+                "endTime": "2022-08-27 16:20:03.070222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh yeah. This is really, really bad. All right. So now explain to me why this is really bad what I did here. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:20:03.080222",
+                "endTime": "2022-08-27 16:20:13.681222"
+            }
+        },
+        {
+            "payload": {
+                "content": " You didn't need the function [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:20:13.691222",
+                "endTime": "2022-08-27 16:20:16.815222"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. And why isn't-- this looks like a function. Why isn't it a function? It's not. But it looks like one. f of n sure looks like one. Why is it not a function when it's sitting in this thing? This P of n, right? Because I've fixed the value of n here. And so this is now just a scalar. In fact, you know, I could state the following-- f of a million, right, is O of 1, because this is really some function H of x that always is this value. So the difference between a scalar and a function. And this is just so nasty looking, because we see f of n. That's a function. But you can never use big O in a predicate, all right, because we've lost the function here. This is just f valued at n period. That single instance is all that's happened here. It's not a function anymore. All right. If we had f n of x or something, that might be OK. But there's no function left. All right. So never ever use asymptotic notation with inductive proofs, because you will just invariably stick big O into your predicate. And you could prove all sorts of false things once you do that. OK? All right. Never use asymptotic notation in induction or predicates. Thanks."
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:20:16.825222",
+                "endTime": "2022-08-27 16:21:51.871222"
+            }
+        }
+    ]
+}

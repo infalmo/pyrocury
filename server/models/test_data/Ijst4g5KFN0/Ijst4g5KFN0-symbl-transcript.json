@@ -1,0 +1,889 @@
+{
+    "name": "new_processed_test_data\\Ijst4g5KFN0\\Ijst4g5KFN0",
+    "messages": [
+        {
+            "payload": {
+                "content": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or to view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. "
+            },
+            "from": {
+                "userId": "AI_NARRATOR",
+                "name": "AI_NARRATOR"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:15.400646",
+                "endTime": "2022-08-27 14:58:37.468646"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. So like I told you guys, Friday marked the end of the hardest part of the course. And Monday marked the end of the hardest Pset. So because the rest of your classes are going full throttle, this one's going to wind down a little bit. So today, I'd say, sit back, relax, and enjoy a nuclear catastrophe because we are going to explain what happened at Chernobyl now that you've got the physics and intuitive background to understand the actual sequence of events. To kick it off, I want to show you guys some actual footage of the Chernobyl reactor as it was burning. So this is the part that most folks know about. [VIDEO PLAYBACK] - [NON-ENGLISH SPEECH] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:37.478646",
+                "endTime": "2022-08-27 14:59:24.070646"
+            }
+        },
+        {
+            "payload": {
+                "content": " This is footage taken from a helicopter from folks that were either surveying or dropping materials onto the reactor. - [NON-ENGLISH SPEECH] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:59:24.080646",
+                "endTime": "2022-08-27 14:59:41.310646"
+            }
+        },
+        {
+            "payload": {
+                "content": " That was probably a bad idea. \"Hold where the smoke is.\" We'll get into what the smoke was. - [NON-ENGLISH SPEECH] [END PLAYBACK] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:59:41.320646",
+                "endTime": "2022-08-27 15:00:07.270646"
+            }
+        },
+        {
+            "payload": {
+                "content": " So that red stuff right there, that's actually glowing graphite amongst other materials from the graphite fire that resulted from the RBMK reactor burning after the Chernobyl accident, caused by both flaws in the physical design of the RBMK reactor and absolute operator of stupidity and neglect of any sort of safety systems or safety culture. We're lucky to live here in the US where our worst accident at Three Mile Island was not actually really that much of an accident. There was a partial meltdown. There was not that much of a release of radio nuclides into the atmosphere because we do things like build containments on our reactors. If you think of what a typical reactor looks like, like if you consider the MIT reactor as a scaled-down version of a normal reactor-- let's say you have a commercial power reactor. You've got the core here. You've got a bunch of shielding around it. And you've got a dome that's rather thick that comprises the containment. That would be the core. This would be some shielding. So this is what you find in US and most other reactors. For the RBMK reactors, there was no containment because it was thought that nothing could happen. And boy, were they wrong. So I want to walk you guys through a chronology of what actually happened at that the Chernobyl reactor, which you guys can read on the NEA, or Nuclear Energy Agency, website, the same place that you find JANIS. And we're going to refer to a lot of the JANIS cross sections to explain why these sorts of events happened. So the whole point of what happened at Chernobyl was it was desire to see if you could use the spinning down turbine after you shut down the reactor to power the emergency systems at the reactor. This would be following something, what's called a loss of off-site power. If the off-site power or the grid was disconnected from the reactor, the reactor automatically shuts down. But the turbine, like I showed you a couple weeks ago, is this enormous spinning hulk of metal and machinery that coasts down over a long period of, let's say, hours. And as it's spinning, the generator coils are still spinning and still producing electricity, or they could be. So it was desire to find out, can we use the spinning down turbine to power the emergency equipment if we lose off-site power? So they had to simulate this event. So what they actually decided to do is coast down the reactor to a moderate power level or very low power and see what comes out of the turbine itself, or out of the generator rather. Now, there were a lot of flaws in the RBMK design. And I'd like to bring it up here so we can talk about what it looks like and what was wrong with it. So the RBMK is unlike any of the United States light water reactors that you may have seen before. Many of the components are the same. There's still a light water reactor coolant loop where water flows around fuel rods, goes into a steam separator, better known as a big heat exchanger. And the steam drives a turbine, which produces energy. And then this coolant pump keeps it going. And then the water circulates. What makes it different, though, is that each of these fuel rods was inside its own pressure tube. So the coolant was pressurized. And out here, this stuff right here was the moderator composed of graphite. Unlike light water reactors in the US, the coolant was not the only moderator in the reactor. Graphite also existed, which meant that, if the water went away, which would normally shut down a light water reactor from lack of moderation, graphite was still there to slow the neutrons down into the high-fission cross-section area. And I'd like to pull up JANIS and show you what I mean with the uranium cross section. So let's go again to uranium-235 and pull up its fission cross section. Let's see fission. I can make it a little thicker too. So again, the goal of the moderator is to take neutrons from high energies like 1 to 10 MeV where the fission cross section is relatively low and slow them down into this region where fission is, let's say, 1,000 times more likely. And in a light water reactor in the US, if the coolant goes away, so does the moderation. And there's nothing left to slow those neutrons down to make fission more likely. In the RBMK, that's not the case. The graphite is still there. The graphite is cooled by a helium-nitrogen mixture because the neutron interactions in the graphite that's slowing down-- we've always talked about what happens from the point of view of the neutron. But what about the point of view of the other material? Any energy lost by the neutrons is gained by the moderating material. So the graphite gets really hot. And you have to flow some non-oxygen-containing gas mixture like helium and nitrogen, which is pretty inert, to keep that graphite cool. And then in between the graphite moderator were control rods, about 200 of them or so, 30 of which were required to be down in the reactor at any given time in order to control power. And that was a design rule. That was broken during the actual experiment. And then on top of here, on top of this biological shield, you could walk on top of it. So the tops of those pressure tubes, despite being about 350 kilo chunks of concrete, you could walk on top of them. That's pretty cool, kind of scary too. So what happened in chronological order was, around midnight, the decision was made to undergo this test and start spinning down the turbine. But the grid operator came back and said, no, you can't just cut the reactor power to nothing. You have to maintain at a rather high power for a while, about 500 megawatts electric or half the rated power of the reactor. And what that had the effect of doing is continuing to create fission products, including xenon-135. We haven't mentioned this one yet. You'll talk about it quite a lot in 22.05 in neutron physics. Black shirt really shows chalk well. What xenon-135 does is it just sits there. It's a noble gas. It has a half-life of a few days. So it decays on the slow side for as fission products go. But it also absorbs lots and lots and lots of neutrons. Let's see if I could find which one is the xenon one. There we go. So here, I've plotted the total cross-section for xenon-135 and the absorption cross-section. And notice how, for low energies, pretty much the entire cross section of xenon is made up of absorption. Did you guys in your homework see anything that reached about 10 million barns? No. Xenon-135 is one of the best neutron absorbers there is. And reactors produce it constantly. So as they're operating, you build up xenon-135 that you have to account for in your sigma absorption cross section. Because like you guys saw in the homework, if you want to write what's the sigma absorption cross section of the reactor, it's the sum of every single isotope in the reactor of its number density times its absorption cross section. And so that would include everything for water and let's say the uranium and the xenon that you're building up. When the reactor starts up, the number density of xenon is 0 because you don't have anything to have produced it. When you start operating, you'll reach the xenon equilibrium level where it will build to a certain level that will counteract the reactivity of the reactor. And then your k-effective expression, where it sources over absorption plus leakage, this has the effect of raising sigma absorption and lowering k effective. The trick is it doesn't last for very long. It built decays with a half-life of about five days. And when you try and raise the reactor power, you will also start to burn it out. So if you're operating at a fairly low power level, you'll both be decaying and burning xenon without really knowing what's going on. And that's exactly what happened here. So an hour or so later-- let me pull up the chronology again. A little more than an hour later, so the reactor power stabilized at something like 30 megawatts. And they were like, what is going on? Why is that reactor power so low? We need to increase the reactor power. So what did they do? A couple of things. One was remove all but six or seven of the control rods going way outside the spec of the design because 30 were needed to actually maintain the reactor at a stable power. All the while, the xenon that had been building up is still there keeping the reactor from going critical. It's what was the main reason that the reactor didn't even have very much power. But it was also burning out at the same time. So all the while-- let's say if we were to show a graph of two things, time, xenon inventory, and as a solid line and let's say control rod worth as a dotted line. The xenon inventory at full power would have been at some level. And then it would start to decay and burn out. While at the same time, the control rod worth, as you remove control rods from the reactor-- every time you remove one, you lose some control rod worth, would continue to diminish leading to the point where bad stuff is going to happen. Let me make sure I didn't lose my place. So at any rate, as they started pulling the control rods out, a couple of interesting quirks happened in terms of feedback. So let's look back at this design. Like any reactor, this reactor had what's called a negative fuel temperature coefficient. What that means is that, when you heat up the fuel, two things happen. One, the cross section for anything, absorption or fission, would go up. But the number density would also go down. As the atoms physically spaced out in the fuel, their number density would go down, lowering the macroscopic cross section for fission. And that's arguably a good thing. The problem is, at below about 20% power, of the reactor had what's called a positive void coefficient, which meant that, if you boil the coolant, you increase the reactor power. Because the other thing that-- I think I mentioned this once. And you calculated in the homework the absorption cross section of hydrogen is not 0. It's small, but fairly significant. Let's actually take a look at it. We can always see this in JANIS. Go back down to hydrogen, hydrogen-1. Then we look at the absorption cross section. And of course, it started us with the linear scale. Let's go logarithmic. Oh! OK! So at low energy, at 10 to the minus 8 to 10 to the minus 7, it's around a barn. Not super high, but absolutely not negligible, which meant that part of the normal functionality of the RBMK depended on the absorption of the water to help absorb some of those neutrons. With that water gone, there was less absorption. But there was still a ton of moderation in this graphite moderator. So they still could get slow. But then there'd be more of them. And that would cause the power to increase. And then that caused more of the coolant to boil, which would cause less absorption, which would cause the power to increase. Yeah, Charlie? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:00:07.280646",
+                "endTime": "2022-08-27 15:12:26.360646"
+            }
+        },
+        {
+            "payload": {
+                "content": " So did they remove the water from the reactor? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:12:26.370646",
+                "endTime": "2022-08-27 15:12:29.837646"
+            }
+        },
+        {
+            "payload": {
+                "content": " They did not remove the water from the reactor. However, as the power started to rise, some of the water started to boil. And so you can still have, let's say, steam flowing through and still remove some of the heat. However, you don't have that dense or water to act as an absorber. And that's what really undid this reactor. In addition, they decided to disable the ECCS, or the Emergency Core Cooling System, which you're just not supposed to do. So they shut down a bunch of these systems to see if you could power the other ones from the spinning down turbine. And then, as they noticed that the reactor was getting less and less stable, they had almost all the rods out. Some of these pressure tubes started to bump and jump. These 350-kilogram pressure tube caps were just rattling. I mean, imagine something that weighs 900 pounds or so rattling around. And there's a few hundred of them. So there was someone in the control room that said, the caps are rattling. What the heck? And didn't quite make it down the spiral staircase because, about 10 seconds later, everything went wrong. And so I want to pull up this actual timeline so you can see it splits from minutes to seconds. Because the speed at which this stuff started to go wrong was pretty striking. So for example, the control rods raised at 1:19 in the morning. Two minutes later, when the power starts to become unstable, the caps on the fuel channels-- which, again, are like 350-kilogram blocks-- start jumping in their sockets. And a lot of that was-- we go back to the RBMK reactor. As the coolant started to boil here, well, that boiling force actually creates huge pressure instabilities, which would cause the pressure tubes to jump up and down, eventually rupturing almost every single one of them with enough force to shoot these 350-kilogram caps. And what did they say? I like the language that they used-- jumping in their sockets. So 50 seconds later, pressure fails in the steam drums, which means there's been some sort of containment leak. So all the while, the coolant was boiling. The absorption was going down. The power was going up. Repeat, repeat, repeat. And the power jumped to about 100 times the rated power in something like four seconds. So it was normally 1,000-megawatt electric reactor, which is about 3,200 megawatts thermal. It was producing nearly half a terawatt of thermal power for a very short amount of time until it exploded. Now, it's interesting. A lot of folks call Chernobyl a nuclear explosion. That's actually a misnomer. A nuclear explosion would be a nuclear weapon, something set off by an enormous chain reaction principally heated by fission or fusion. That's not actually what happened at Chernobyl, nor at Fukushima, nor was that the worry at Three Mile Island. Not to say it wasn't a horrible thing, but it wasn't an actual nuclear explosion. At first, what happened was a pressure explosion. So there was an enormous release of steam as the power built up to 100 times normal operating power. The steam force was so large that it actually blew the reactor lid up off of the thing. And I think I have a picture of that somewhere here too. It should be further down. Yeah, to give you a little sense of scale. The reactor cover, which weighed about 1,000 tons, launched into the air and landed above the reactor sending most of the reactor components up to a kilometer up in the air. Four seconds later, that was followed by a hydrogen explosion. Let me get that down to that chronology. So yeah. At 1:23 and 40 seconds in the morning-- oh, yeah. So I should mentioned why this happened-- emergency insertion of all the control rods. The last part that this diagram doesn't mention is these control rods-- and I'll draw this up here-- we're tipped with about six inches of graphite. So if these were two graphite channels-- let's say these are carbon-- and this is your control rod, the goal was to get this control rod all the way into the reactor. One part they didn't mention was they were tipped with about six inches of graphite, which only functions as additional moderator. Graphite is one of the lowest absorbing materials in the periodic table, second, I think, only to oxygen. And if we pull up graphite cross sections, I've plotted here the total cross section, the elastic scattering cross section. And down here, in the 0.001 barn level, is the absorption cross section, about 1,000 times lower than water. So you're shoving more material in the reactor that slows down neutrons even more, bringing them into the high-fission region without absorbing anything. And they jammed about halfway down, about 2 and 1/2 feet down, leaving the extra graphite right in the center of the core where it could do the most damage. And it didn't take that much time. Yeah? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:12:29.847646",
+                "endTime": "2022-08-27 15:17:44.160646"
+            }
+        },
+        {
+            "payload": {
+                "content": " So my understanding is that, also, one of the designs is that the control rods didn't immediately drop down. But they were slowly lowered. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:44.170646",
+                "endTime": "2022-08-27 15:17:50.900646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yep. They took 7 to 10 seconds. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:50.910646",
+                "endTime": "2022-08-27 15:17:53.595646"
+            }
+        },
+        {
+            "payload": {
+                "content": " If they had a system where they did drop, would that have possibly actually set the system down properly? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:53.605646",
+                "endTime": "2022-08-27 15:17:58.563646"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'm not sure. I don't know whether lowering control rods into something that was undergoing steam explosions would have actually helped. I mean, to me, by this point, it was all over. So the extra moderator that was dumped in was the last kick in the pants this thing needed to go absolutely insane. And if we go back to the timeline on the second level, control rods inserted at 1:23 and 40 seconds. Explosion, four seconds later, to 120 times full power, getting towards a terawatt or so. One second later, the 1,000-ton lid launches off from the first explosion. Very shortly after that, second explosion. And that happened because of this reaction. Well, just about anything corroding with water will make pretty much anything oxide plus hydrogen, the same chemical explosion that was the undoing of Fukushima and was the worry at Three Mile Island that there was a hydrogen bubble building because of corrosion reactions with whatever happened to be in the core. This happens with zirconium pretty vigorously. But it happens with other materials too. If you oxidize something with water, you leave behind the hydrogen. And the hydrogen, in a very wide range of concentrations in the air, is explosive. We're actually not allowed to use hydrogen at about 4% in any of the labs here because that reaches the flammability or explosive limit. So for my PhD, we were doing these experiments corroding materials in liquid lead. And we wanted to dump in pure hydrogen to see what happens when there's no oxygen. We were told, absolutely not. We had to drill a hole in the side of the walls that the hydrogen would vent outside and do some calculations to show if the entire bottle of hydrogen emptied into the lab at once, which it could do if the cap of the bottle breaks off, it would not reach 4% concentration. So hydrogen explosions are pretty powerful things. You guys ever seen people making water from scratch? Mix hydrogen and oxygen in a bottle and light a match? We've got a video of it circulating somewhere around here because for RTC, for the Reactor Technology Course, I do this in front of a bunch of CEOs and watch them jump out of their chairs to teach basic chemical reactions. But it's pretty loud. About enough hydrogen and oxygen to just fill this cup or fill a half-liter water bottle makes a bang that gets your ears ringing. Not quite bleeding, but close enough. So that's what happened here, except at a much more massive scale. So there was a steam explosion followed seconds later by a hydrogen explosion from hydrogen liberated from the corrosion reaction of everything with the water that was already there. And that's when this happened. [VIDEO PLAYBACK] - [NON-ENGLISH SPEECH] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:58.573646",
+                "endTime": "2022-08-27 15:21:09.990646"
+            }
+        },
+        {
+            "payload": {
+                "content": " So that smoke right there is from a graphite fire, not normal smoke. - [NON-ENGLISH SPEECH] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:10.000646",
+                "endTime": "2022-08-27 15:21:33.740646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. Spoke too soon. - [NON-ENGLISH SPEECH] [END PLAYBACK] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:33.750646",
+                "endTime": "2022-08-27 15:22:08.590646"
+            }
+        },
+        {
+            "payload": {
+                "content": " This actually provides a perfect conduit to transition from the second to the third parts of this course. A lot of you have been waiting to find out what are the units of dose and what are the biological and chemical effects of radiation. Well, this is where you get them. From neutron physics, you can understand why Chernobyl went wrong. Honestly, you've just been doing this for three or four weeks. But with your knowledge of cross sections, reactor feedback, and criticality, you can start to understand why Chernobyl was flawed in its design. And what we're going to teach you in the rest of the course is what happens next, what happens when radio nuclides are absorbed by animals of the human body, and what was the main fallout, let's say, in the colloquial sense and the actual sense from the Chernobyl reactor. [VIDEO PLAYBACK] Let's look a bit at what they did next though. - [NON-ENGLISH SPEECH] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:22:08.600646",
+                "endTime": "2022-08-27 15:24:01.288646"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's not quite true. You'll see why. - [NON-ENGLISH SPEECH] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:24:01.298646",
+                "endTime": "2022-08-27 15:24:13.963646"
+            }
+        },
+        {
+            "payload": {
+                "content": " That actually did happen. - [NON-ENGLISH SPEECH] [END PLAYBACK] "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:24:13.973646",
+                "endTime": "2022-08-27 15:24:24.000646"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think that pretty much summarizes the state of things now. They built a sarcophagus around this reactor, a gigantic tomb, which, according to some reports, is not that structurally sound and is in danger of partial collapse. So yeah, more difficult efforts are ahead. But let's now talk about what happened next. I'm going to jump to the very end of this. The actual way that the accident was noticed was the spread of the radioactive cloud to not-so-close-by Sweden. So it was noticed that folks entering a reactor in Sweden had contaminants on them, which they thought was coming from their own reactor. Good first assumption. When it was determined that nothing was amiss at the reactor in Sweden, folks started to analyze wind patterns and find out what happened. And then it was clear that the USSR had tried to cover up the Chernobyl accident. But you can't cover up fallout. And it eventually spread pretty wide, covering most of Europe and Russia and surprisingly not Spain, lucky them for the wind patterns that day, or those few days. So what happened is a few days after the actual accident, a graphite fire started to break out. Because graphite, when exposed to air, well, you can do the chemistry. Add graphite plus oxygen, you start making carbon dioxide. So graphite burns when it's hot. And as you can see from the video-- where is that nice still of burning graphite? Yeah. That graphite was pretty hot. So a lot of that smoke included burning graphite and a lot of the materials from the reactor itself. Now, when you build up fission products in a reactor and they get volatilized like this, the ones that tend to get out first would be things like the noble gases. So the whole xenon inventory of the reactor was released. It's estimated at about 100%. And I can actually pull up those figures. When we talk about how much of which radionuclide was released. That's also a typo. If somebody wants to call in, there's no 33 isotope of xenon. It's supposed to be 133. That would be interesting if someone wants to call in and say the NEA has got a mistake. So 100% of the inventory released. That should be pretty obvious because it's a noble gas. And it just kind of floats away. The real dangers, though, came from iodine-131, about 50% of a 3-exabecquerel activity. So we're talking like megacuries. It might be giga. I can't do that math in my head. A lot of radiation. The problem with that is iodine behaves just like any other halogen. It forms salts. It's rather volatile. Have any of you guys played with iodine before? No one does-- oh, you have. OK. What happens when you play with it? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:24:24.010646",
+                "endTime": "2022-08-27 15:27:16.108646"
+            }
+        },
+        {
+            "payload": {
+                "content": " I mean, just throw some stuff-- like, it turns everything yellow and it just reacts with acids and stuff. I haven't really done very much with it. So-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:16.118646",
+                "endTime": "2022-08-27 15:27:28.210646"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK. I happen to have extensive practice playing with iodine in my home because I did all the stuff you're not supposed to do as a kid, kind of build your own chemistry stuff things that somehow leak out to your local high school somehow. Iodine's pretty neat. Yeah, it happens sometimes. If you put iodine in your hand, it actually sublimes. The heat from your hand is enough to directly go from solid to vapor. And so the iodine was also quite volatile. Some of it may have been in the form of other compounds. Some of it may have been elemental-- probably not likely. But there was certainly some iodine vapor. And about half of that was released. The problem is then it condenses out and falls on anything green, anything with surface area. So the biggest danger to the folks living nearby was from eating leafy vegetables because leaves got lots of surface area. Iodine deposits on them. And it's intensely radioactive for a month or so. Or depositing on the grass that cows eat, which led to the problem of radioactive milk. And so that's why milk in the Soviet Union was banned for such a long time because this was one of the major sources of iodine contamination. The other one, which we're worrying about now from Fukushima as well, is cesium, which has similar chemistry to sodium and potassium-- again, a rather salty compound, or rather salty element. But it's got a half-life of 30 years. And if we look it up in the table of nuclides, we'll see what it actually releases. Oh, good. It's back online. Anyone else notice this broken a couple days ago. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:28.220646",
+                "endTime": "2022-08-27 15:29:04.490646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:04.500646",
+                "endTime": "2022-08-27 15:29:05.362646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, luckily, Brookhaven National Lab has a good version up too. But let's grab cesium. Yeah, there's plenty out there. Cesium-137. Beta decays to barium but also gives off gamma rays. And most of the decays end up giving off one of those gamma rays, let's say a 660-keV gamma ray. So it's both a beta and a gamma emitter. Now, which of those types of radiation do you think it's more damaging to biological organisms? The beta or the gamma? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:05.372646",
+                "endTime": "2022-08-27 15:29:38.486646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Gamma? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:38.496646",
+                "endTime": "2022-08-27 15:29:39.442646"
+            }
+        },
+        {
+            "payload": {
+                "content": " You say the gamma. Why do you say so? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:39.452646",
+                "endTime": "2022-08-27 15:29:42.053646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Doesn't beta get stopped by the skin and clothing? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:42.063646",
+                "endTime": "2022-08-27 15:29:45.080646"
+            }
+        },
+        {
+            "payload": {
+                "content": " It does. But if cesium is better known as-- "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:45.090646",
+                "endTime": "2022-08-27 15:29:48.105646"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:48.115646",
+                "endTime": "2022-08-27 15:29:48.980646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yes. That's right. So did I get to tell you guys this question, the four cookies question? Yeah. You eat the gamma cookie because most gammas that are emitted by the cookie simply leave you and irradiate your friend, which is going to be the topic of pset number 8. You'll see. That's why you guys are getting your whole body counts. Speaking of, who's gotten their whole body counts at EHS? Awesome. So that's almost everybody. You will need that data for problem set 8. So do schedule it soon, preferably before Thanksgiving so that you'll be able to take a look at it. Has anyone found anything interesting in your spectra? Good. Glad to hear that. But you do see a potassium peak that you can probably integrate and do some problems with, right? Yeah, because you will. OK. Anyway, yeah. It's the betas. That's the real killer. The gammas are going to leave the cesium, enter your body, and most likely come out the other side. Because the mass attenuation coefficient of 6-- what is it? Water for 660-keV gammas. Let's find that. Table 3. Let's say you're made mostly of water. Water, liquid, that's pretty much humans. 660 keV is right about here leading to about 0.1 centimeter squared per gram. And with a density of 1 gram, that's a pretty low attenuation of gammas. So this chart actually shows why most of the cesium gammas that would be produced from ingestion just get right out. But it's the betas that have an awfully short range. Anyone remember the formula for range in general? So this is going to come back up in our discussion of dose and biological effects. Integral, yep, of stopping power to the negative 1. And that's stopping power is this simple formula. Let's see. What did that come out as? Log minus beta squared. That simple little formula, which I'm not going to expect you guys to memorize. So don't worry about it. But if you integrate this, you find out that the range of electrons, even 1 MeV electrons, in water is not very high. So most of them are stopped near or by the cells that absorb them doing quite a bit of damage to DNA, which is eventually what causes mutagenic effects-- cancer, cell death, what we're going to talk about for the whole third part of the course. There's also a worry about which organs actually absorb these radionuclides. And iodine in particular is preferentially absorbed by the thyroid. So when we started looking at the amount of radioactive substances released-- remember they said, OK, at around the 26th of April or the 2nd of May or so the release was stopped? Not according to our data. That's when the graphite fire picked up again. In addition, the core of Chernobyl, which had undergone a mostly total meltdown, was sitting in a pool on top of this concrete pad. So let's just call this liquid stuff-- the actual word that we use in parlance is called corium. It's our tongue-in-cheek word for every element mixed together in a hot radioactive soup. First of all, it started to redistribute, reacting with any water that was present, flashing it to steam. And the steam caused additional dispersion of radionuclides. And eventually, it burrowed its way through and into the ground, releasing more. It's the worst nuclear thing that's ever happened in the history of nuclear things. Quite a mess. And luckily, it did sort of taper off after this. But let's now look into what happens next. And this is the nice intro to the third part of the course. Iodine is preferentially uptaken by the thyroid gland somewhere right about here. So has anyone ever heard of the idea of taking iodine tablets in the case of a nuclear disaster? Anyone have any idea why? If you saturate your thyroid with iodine, then if you ingest radioactive iodine, it's less likely to be permanently taken by the thyroid. So this actually provided some statistics on the probability of getting thyroid cancer from radioactive iodine ingestion. Luckily, the statistics were quite poor, which means that not many people were exposed. It was somewhere around 1,300 or so, not like millions. Yeah, 1,300 people total. But what I want to jump to is the dose-versus-risk curve. And this is going to belie all of our discussion about the biological long-term effects of radioactivity. What's the most striking thing you see as part of this curve? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:48.990646",
+                "endTime": "2022-08-27 15:35:11.640646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Error bars. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:35:11.650646",
+                "endTime": "2022-08-27 15:35:12.940646"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's right. That's the first thing I saw. There are six different models for how dose an increased risk of cancer proceeds. And they all fall within almost all the error bars of these measurements. I say, again, thank God that the error bars are so high because that means that the sample size was so low. So when folks say we don't really know how much radioactivity causes how much cancer, they're right because, luckily, we don't have enough data from people being exposed to know that really, really well. So some folks say we should be cautious. I kind of agree with them. Some folks say the jury's still out. I also agree with them. But you can start to estimate these sorts of things by knowing how much radiation energy was absorbed and to what organ. So I think the only technical thing I want to go over today is the different units of dose. Because as you start to read things in the reading, which I recommend you do if you haven't been doing yet, you're going to encounter a lot of different units of radiation dose ranging from things like the roentgen, which responds to a number of ionizations. You won't usually see this one given in sort of biological parlance. Because it's the number of ionizations detected by some sort of gaseous ionization detector. So the dosimeters is that you all put on-- did you guys all bring these brass pen dosimeters in through the reactor? Did anyone look through them to see what the unit of dose was? It's going to be in roentgens because that's directly corelatable to the number of ionizations that that dosimeter has experienced. You'll also see four dose units, two of which are just factors of 100 away from each other. There is what's called the rad and the gray. And there's what's called the rem and the sievert. You'll see these approximated as gray. You'll see these as R. And these are just usually written as rem. So a rad is simple. Let's see. 100 rads is the same as 1 gray. And 100 rem is the same as 1 sievert. And for the case of gamma radiation, these units are actually equal. I particularly like this set of units because this is the kind of SI of radiation units because it comes directly from measurable calculatable quantities. Like the gray, for example, the actual unit of gray is joules absorbed per kilogram of absorber. It's a pretty simple unit to understand. If you know how many radioactive particles or gammas or whatever that you have absorbed, you can multiply that number by their energy, divide by the mass of the organ absorbing them, and you get its dose in gray. Sievert is gray times some quality factor for the radiation times some quality factor for the specific type of tissue. What this says is that some types of radiation are more effective at causing damage than others. And some organs are more susceptible to radiation damage than others. Does anyone happen to know some of the organs that are most susceptible to radiation damage? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:35:12.950646",
+                "endTime": "2022-08-27 15:38:50.748646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Soft tissues. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:38:50.758646",
+                "endTime": "2022-08-27 15:38:53.497646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Soft tissues like what? Because there's lots of those. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:38:53.507646",
+                "endTime": "2022-08-27 15:38:57.926646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Stomach lining. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:38:57.936646",
+                "endTime": "2022-08-27 15:38:59.320646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Stomach lining. Yep. Yeah? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:38:59.330646",
+                "endTime": "2022-08-27 15:39:01.590646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Lungs. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:01.600646",
+                "endTime": "2022-08-27 15:39:02.400646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Lungs. Yep. What else? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:02.410646",
+                "endTime": "2022-08-27 15:39:05.433646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Thyroid. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:05.443646",
+                "endTime": "2022-08-27 15:39:06.732646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Thyroid. Yep, there is definitely one for thyroid. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:06.742646",
+                "endTime": "2022-08-27 15:39:09.820646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Bone marrow. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:09.830646",
+                "endTime": "2022-08-27 15:39:11.110646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Bone marrow. What other ones? Brain, actually not so much. The eyes. And where else do you find rapidly dividing cells in your body? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:11.120646",
+                "endTime": "2022-08-27 15:39:25.250646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Skin. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:25.260646",
+                "endTime": "2022-08-27 15:39:26.017646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Skin. Yep, the dermis. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:26.027646",
+                "endTime": "2022-08-27 15:39:28.362646"
+            }
+        },
+        {
+            "payload": {
+                "content": " The liver? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:28.372646",
+                "endTime": "2022-08-27 15:39:29.577646"
+            }
+        },
+        {
+            "payload": {
+                "content": " I don't know about the liver. I would assume so. Yeah, it's a pretty active organ. But when folks are worried about birth defects, reproductive organs. The link here that, for some reason, is not said in the reading, and I've never figured out why, is the more often a cell is dividing, the more susceptible it is to gaining cancer risk. Because every cell division is a copy of its DNA. And any time that radiation goes in and damages or changes that DNA by either causing what's called a thiamine bridge where two thiamine bases get linked together or damaging the structure in some other way, that gene is then replicated. And the faster they're replicating, the more likely cancer is going to become apparent. I guess this brings up a question. When does a rapidly dividing cell become cancer? Is it division number 1 or is it when you notice it? I guess I'll leave that question to the biologists. But if you notice, in the reading, you'll see a bunch of different tissue equivalency factors. And you'll just see them tabulated and say, there they are. Memorize them. I want you to try and think of the pattern between them. The tissues that basically don't matter, like the non-marrow part of the bone, dead skin cells, muscles, things that basically aren't listed that much, they're not dividing very fast. But anywhere where you find stem cells, the lining of your intestine, your lungs which undergo a lot of environmental damage and need to be replenished, gonads, dura, skin-- what was the other one that we said? Eyes. These are places that are either sensitive tissues or they're rapidly dividing. And so the sievert is kind of in a unit of increased equivalent risk so that, if you were to absorb one gray of gamma rays versus one gray of alphas, you'd be about 20 times more likely to incur cancer from the alphas than the gammas because of the amount of localized damage that they do to cells. And we'll be doing all this in detail pretty soon. And then for tissue equivalency factor, if you absorb one gray and your whole body, which means one joule per kilogram of average body mass, versus one gray directly to the lining of your intestine by, let's say, drinking polonium-laced tea like happened to a poor-- who was it? Current or ex-KGB guy or the Russian fellas? No, it was the KGB guys that poisoned him, right? Yeah. Do you guys remember back in 2010 or so? There was a Russian-- was he a journalist? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:29.587646",
+                "endTime": "2022-08-27 15:42:00.423646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Actually, he was ex-KGB. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:00.433646",
+                "endTime": "2022-08-27 15:42:01.840646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Ex-KGB. So the current KGB somehow got into London and slipped polonium into his tea at a Japanese restaurant. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:01.850646",
+                "endTime": "2022-08-27 15:42:09.340646"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:09.350646",
+                "endTime": "2022-08-27 15:42:12.743646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Really? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:12.753646",
+                "endTime": "2022-08-27 15:42:13.660646"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think so, right? [INAUDIBLE] It was unsuccessful. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:13.670646",
+                "endTime": "2022-08-27 15:42:16.455646"
+            }
+        },
+        {
+            "payload": {
+                "content": " What was his name? Let's see. The polonium poisoning. Did he actually die? Poisoning of Alexander Litvinenko. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:16.465646",
+                "endTime": "2022-08-27 15:42:36.070646"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's pretty close to dead. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:36.080646",
+                "endTime": "2022-08-27 15:42:38.525646"
+            }
+        },
+        {
+            "payload": {
+                "content": " He's not doing too well. Illness and poisoning, death, and last statement at the hospital in London. So yeah. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:38.535646",
+                "endTime": "2022-08-27 15:42:50.153646"
+            }
+        },
+        {
+            "payload": {
+                "content": " He probably said something awesome. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:50.163646",
+                "endTime": "2022-08-27 15:42:52.028646"
+            }
+        },
+        {
+            "payload": {
+                "content": " What did he say? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:52.038646",
+                "endTime": "2022-08-27 15:42:53.400646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, interesting. That probably has something to do with it. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:53.410646",
+                "endTime": "2022-08-27 15:42:57.930646"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's a lot of-- a really long last-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:57.940646",
+                "endTime": "2022-08-27 15:43:00.427646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah? Well, we're not going to comment on the politics. But the radiation effect worked, clearly, unfortunately. So polonium is an alpha emitter. And that caused a massive dose of alphas to his entire gastrointestinal tract. And that caused a whole lot of damage to those cells. No time for cancer. It actually killed off a lot of those stem cells. And the way that radiation poisoning would work is that, if you kill off the stem cells, the villi in your intestines die, which are responsible for absorbing nutrition. You can't uptake nutrition. You basically starve. It doesn't matter what you eat. It's messed up. Yeah. That's a really bad way to go. It's called gastrointestinal syndrome. And we'll be talking about the progressive effects of acute radiation exposure where you have immediate effects mostly relating to the death of some organ that is responsible for either cell division to keep you alive or, in extreme cases, your neurological system. And nerve function just stops at the highest levels of dose. And that corresponds to doses of around 4 to 6 gray. 4 to 6 joules per kilogram of villi, or body mass, will kill you pretty quickly with very little chance of survival as what happened here. And so this was the problem. With all the folks living around and near Chernobyl and Ukraine and Belarus and everywhere was the contamination was pretty extensive. About 4,000 people are estimated to have died or contracted cancer from this. I can't believe how low that number is. But it's still 4,000 people that should've never happened to. And effects were felt far away in towns like Gomel and-- can't read that one because there's not enough pixels. Because of the way that, let's say, rainwater-- or let's say the vapor cloud from the reactor was-- the way rainwater caused it to fall on certain places, which still, to this day, can have a really large contamination area. And this brings me a little bit into what should we be worried about from Fukushima-- a whole lot less than Chernobyl. And the reason why is Fukushima did undergo a hydrogen explosion and did and still continues to release cesium-137 into the ocean. Luckily, for us, the ocean is big. And except for fish caught right near around Fukushima, even though concentrations can be measured at hundreds to thousands of times normal concentrations, they can still be hundreds to thousands of times lower than the safe consumption. So a lot of the problems you see in the news today, I'm not going to call them lies. But I'm going to call them half truths. Folks will show the radiation plume of cesium-137 escaping from Fukushima. And that's true. There is radiation escaping. The question is, is it high enough to cause a noticeable increased risk of cancer? That's the question that reporters shouldn't be asking themselves. When they only tell the half of the story that gets them viewers and they don't tell the half of the story to complete the story and tell you, should you be afraid or not? Because unfortunately, fear brings viewers. This is the problem-- and I'm happy to go on camera saying this. This is the problem with the media today is, with a half truth and with a half story, you can incite real panic over non-physical issues that may not actually exist. And so it's important that the media tell the whole story. Yes, it's true that Fukushima's releasing cesium-137. How much though is the question that people and the media should be asking themselves. And in the rest of this course, we're going to answer the question, how much is too much? So I'm going to stop here since it's 2 of 5 of and ask you guys if you have any questions on the whole second part of the course or what happened in Chernobyl. Yeah. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:00.437646",
+                "endTime": "2022-08-27 15:46:53.340646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. Could you explain the quality factor term and how you find that? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:46:53.350646",
+                "endTime": "2022-08-27 15:46:58.000646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. Well, there's two quality factors. There is the quality factor for radiation, which will tell you, let's say, how much more cell damage a given amount of a given type of radiation of the same energy will deposit into a cell. And the tissue equivalency factor tells you, well, what's the added risk of some sort of defect leading to cell death or cancer or some other defect from that radiation absorption. So to me, the tissue equivalency factor is roughly, but not completely, approximated by the cell division rate. And the radiation quality factor is going to be quite proportional to the stopping power. You'll see a term called the Linear Energy Transfer, or LET. This is the stopping power unit used in the biology community. It's stopping power. And luckily, the Turner reading actually says it's somewhere buried in a paragraph. LET is stopping power. So if you start plotting these two together, you might find some striking similarities. I saw two other questions up here. Yeah? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:46:58.010646",
+                "endTime": "2022-08-27 15:48:05.390646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Why is Chernobyl still considered off limits if most the half-lives of these things are on the range of days to two years? I mean, it happened-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:48:05.400646",
+                "endTime": "2022-08-27 15:48:14.683646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Let's answer that with numbers. So most of the half-lives were on the range of days to hours. But still, cesium-137, with a half-life of 30 years, released a third of an exabecquerel. That's one of the major sources of contamination still out there. In addition, if we scroll down a little more, there was quite a bit of plutonium inventory with a half-life of 24,000 years. So on Friday, we're going to have Jake Hecla come in and give his Chernobyl travelogue because one of our seniors has actually been to Chernobyl. And his boots were so contaminated with plutonium that he could never use them again. They've got to stay wrapped up in plastic. So some of these things last tens of thousands of years. And even though there weren't a lot of petabecquerels of plutonium released, they're alpha emitters. And they're extremely dangerous when ingested. So greens and things that uptake radionuclides from the soil like moss and mushrooms are totally off limits in a large range of this area. You will find the video online, if you look, of a mayor from a nearby town saying, oh, they're perfectly safe to eat. Look, I eat them right here. And I just say read the comments for what people have to say about that. Not too smart. Yeah. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:48:14.693646",
+                "endTime": "2022-08-27 15:49:30.680646"
+            }
+        },
+        {
+            "payload": {
+                "content": " So what's the process now for taking care of [INAUDIBLE]? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:49:30.690646",
+                "endTime": "2022-08-27 15:49:36.343646"
+            }
+        },
+        {
+            "payload": {
+                "content": " So the sarcophagus around the reactor has got to be shored up to make sure that nothing else gets out. Because most of the reactor is still there. And let's say rainwater comes in and starts washing away more stuff into the ground or whatever. We don't want that to happen. Soil replacement and disposal as nuclear waste is still going on. Removal of any moss, lichen, mushrooms, or anything with a sort of radiation exposure has got to keep going. But the area that it covers is enormous. I don't know if we're ever going to get rid of all of it. The question is, how much do we have to get rid of to lower our risk of cancer in the area to an acceptable rate? There will likely be parts of this that are inaccessible for thousands to tens of thousands of years unless we hopefully get smarter about how to contain and dispose of this kind of stuff. We're not there yet. So right now, the methods are kind of simple. Get rid of the soil. Fence off the area. Some folks have been returning. And they do get compensation and free medical visits because the background levels there are elevated but not that high. So folks have started to move back to some of these areas. But there's a lot that are still off limits. Any other questions? Yeah. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:49:36.353646",
+                "endTime": "2022-08-27 15:50:49.645646"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's way worse than the atomic bombs dropped on Hiroshima and Nagasaki because those are full-functioning cities at this point. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:50:49.655646",
+                "endTime": "2022-08-27 15:50:58.007646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. The number of deaths from the atomic bombs way outweighed the number of deaths that will ever happen from Chernobyl. "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:50:58.017646",
+                "endTime": "2022-08-27 15:51:05.210646"
+            }
+        },
+        {
+            "payload": {
+                "content": " But why is the radiation from those bombs not-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:51:05.220646",
+                "endTime": "2022-08-27 15:51:09.145646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh, not that much of an issue? There wasn't that much material. There wasn't that much nuclear material in an atomic bomb. What did you guys get for the radius of the critical sphere of plutonium? "
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:51:09.155646",
+                "endTime": "2022-08-27 15:51:20.460646"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] centimeters. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:51:20.470646",
+                "endTime": "2022-08-27 15:51:22.155646"
+            }
+        },
+        {
+            "payload": {
+                "content": " Centimeters? Yeah. It doesn't take a lot. It takes 10, 20 kilos to make a weapon. Now, we're talking about tons or thousands of tons of material released. So an atomic weapon doesn't kill by radiation. It kills by pressure wave, the heat wave. The fallout is not as much of a concern. And we'll actually be looking at the data from Hiroshima and Nagasaki survivors to see who got what dose, what increased cancer risk did they get, and is the idea that every little bit of radiation is a bad thing actually true. The answer is you can't say yes or no. No one can say yes or no because we don't have good enough data. The error bars support either conclusion. So I'm not going to go on record and say a little bit of radiation is OK. They data is not out yet. Hopefully, it never will be. Any other questions? All right. I'll see you guys on Thursday."
+            },
+            "from": {
+                "userId": "MICHAEL SHORT:",
+                "name": "MICHAEL SHORT:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:51:22.165646",
+                "endTime": "2022-08-27 15:52:22.360646"
+            }
+        }
+    ]
+}

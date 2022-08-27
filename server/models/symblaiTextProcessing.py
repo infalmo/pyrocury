@@ -6,6 +6,7 @@ import string
 import copy
 from typing import Union
 from datetime import datetime, timedelta
+import symbl
 
 #url = "https://api.symbl.ai/oauth2/token:generate"
 """
@@ -52,7 +53,7 @@ def mergeAllChunkedTranscripts(inDir:str, outDir:str):
         os.makedirs(os.path.dirname(outFile), exist_ok=True)
         mergeChunkedTranscripts(inFile, outFile)
 
-def splitConversationBySpeaker(transcriptPath:str) -> Union[list, str]:
+def splitConversationBySpeaker(transcriptPath:str) -> Union[list, set]:
     """
     Turns a text file of a conversation in a list of lists divided by speaker.
     Speakers must be clearly delineated by all-caps and a colon at the end.
@@ -65,7 +66,8 @@ def splitConversationBySpeaker(transcriptPath:str) -> Union[list, str]:
     with open(transcriptPath, 'r') as f:
         transcript = f.read()
     #finds all speakers with a single word or two words (e.g. PROFESSOR:, DAVE:, BILLY BOB:)
-    speakers = re.findall(r'[A-Z]{2,} \b[A-Z]{2,}:|[^A-Z] \b[A-Z]{2,}:', transcript)
+    reExpression = r'[A-Z]{2,} [A-Z]{2,} \b[A-Z]{2,}:|[A-Z]{2,} \b[A-Z]{2,}:|[A-Z]{2,} \b[0-9]:|\b[A-Z]{2,}:'
+    speakers = re.findall(reExpression, transcript)
     if len(speakers) > 0: 
         lowerCase = set(string.ascii_lowercase + string.punctuation)
         for speakerIdx in range(len(speakers)):
@@ -78,12 +80,13 @@ def splitConversationBySpeaker(transcriptPath:str) -> Union[list, str]:
         splitConversation = re.split(splitRegex, transcript)
         #check if there is any content before the lecture and remove it.
         if (len(splitConversation) - len(speakers)) == 1:
-            speakers.insert(0, "NARRATOR:")
+            speakers.insert(0, "AI_NARRATOR")
         elif (len(splitConversation) - len(speakers)) > 1:
             raise Exception("Speaker and splitConversation do not match!")     
     else:
         #if there are no speakers, assume only the narrator is speaking
-        speakers.append("NARRATOR")
+        speakers.append("AI_NARRATOR")
+        splitConversation = [transcript]
     #match speaker to the corresponding text
     speakerSpeechMatch = []
     for excerptIdx in range(len(splitConversation)):
@@ -105,33 +108,51 @@ def convertToConversation(fullTranscriptPath:str, timedTranscriptPath:str, outFi
     speakerIdx = 0
     currentTime = datetime.today()
     #adds timestamps to the speakers
-    if uniqueSpeakers == {"NARRATOR:"}:
+    if uniqueSpeakers == {"AI_NARRATOR"}:
         #special case for no speaker in transcript
         splitConversation[0]["startTime"] = currentTime
         finalTime = timedelta(seconds=timedTranscript[-1]["start"] + timedTranscript[-1]["duration"])
         splitConversation[0]["endTime"] = currentTime + finalTime
     else:
-        if "NARRATOR:" in uniqueSpeakers:
+        if "AI_NARRATOR" in uniqueSpeakers:
             #special case for words before any speaker in transcript.
             splitConversation[0]["startTime"] = currentTime
             speakerIdx += 1
         for line in timedTranscript:
-            if any(word in line["text"] for word in uniqueSpeakers):
-                #starttime has to be in datetime format, so add seconds of YT video to the current datetime.
-                splitConversation[speakerIdx]["startTime"] = currentTime + timedelta(seconds=line["start"])
-                #set endtime for the previous entry as a hundredth of a second before the current entry's start time
-                if speakerIdx > 0:
-                    splitConversation[speakerIdx - 1]["endTime"] = currentTime + timedelta(seconds=line["start"]-0.01)
-                #set endTime for the last speaker as the final timestamp plus duration
-                if speakerIdx == len(splitConversation) - 1:
-                    finalTime = timedelta(seconds=timedTranscript[-1]["start"] + timedTranscript[-1]["duration"])
-                    splitConversation[speakerIdx]["endTime"] = currentTime + finalTime
+            line["text"] = re.sub('\n', ' ', line["text"])
+            lineSpeakers = [word for word in uniqueSpeakers if word in line["text"]]
+            if len(lineSpeakers) > 0:
+                if len(lineSpeakers) == 2:
+                    #special case for 2 speakers in a single transcript line
+                    #speaker 1
+                    if speakerIdx > 0:
+                        splitConversation[speakerIdx - 1]["endTime"] = currentTime + timedelta(seconds=line["start"]-0.01)
+                    splitConversation[speakerIdx]["startTime"] = currentTime + timedelta(seconds=line["start"])
+                    speakerIdx += 1
+                    #assume first speaker in transcript is speaking for half the time
+                    splitConversation[speakerIdx]["startTime"] = currentTime + timedelta(seconds=line["start"]+line["duration"]/2)
+                    #endtime for first speaker
+                    splitConversation[speakerIdx - 1]["endTime"] = currentTime + timedelta(seconds=line["start"]+line["duration"]/2-0.01)
+                    splitConversation[speakerIdx]["startTime"] = currentTime + timedelta(seconds=line["start"])
+                    speakerIdx += 1
+                else:
+                    #starttime has to be in datetime format, so add seconds of YT video to the current datetime.
+                    splitConversation[speakerIdx]["startTime"] = currentTime + timedelta(seconds=line["start"])
+                    #set endtime for the previous entry as a hundredth of a second before the current entry's start time
+                    if speakerIdx > 0:
+                        splitConversation[speakerIdx - 1]["endTime"] = currentTime + timedelta(seconds=line["start"]-0.01)
+                    #set endTime for the last speaker as the final timestamp plus duration
+                    if speakerIdx == len(splitConversation) - 1:
+                        finalTime = timedelta(seconds=timedTranscript[-1]["start"] + timedTranscript[-1]["duration"])
+                        splitConversation[speakerIdx]["endTime"] = currentTime + finalTime
+                
                 speakerIdx += 1
     #write to symbl.ai JSON format
     outJSONDict = dict()
     outJSONDict["name"] = id #conversation name
     outJSONDict["messages"] = []
     for part in splitConversation:
+        #print(part)
         messageDict = {
             "payload": {
                 "content": part["content"]
@@ -154,13 +175,17 @@ class symblAITranscript:
     def __init__(self, filepath: str, appId, appSecret, accessToken):
         """
         filepath: the filepath to the transcript to be uploaded (as a properly formatted JSON file)
+        appId,appSecret, accessToken: API credentials
         """
         self.filepath = filepath
         self.appId = appId
         self.appSecret = appSecret
         self.accessToken = accessToken
+        self.processedText = None
     def uploadToSymblAI(self):
-        pass
+        with open(self.filepath) as f:
+            payload = json.loads(f.read())
+            self.processedText = symbl.Text.process(payload=payload)
         
 
 
@@ -170,5 +195,9 @@ if __name__ == "__main__":
         appId = secretsList["appId"]
         appSecret = secretsList["appSecret"]
         accessToken = secretsList["accessToken"]
-    testScriptId = 'uNKDw46_Ev4'
-    convertToConversation('new_processed_test_data\\4RX_lpoGRBg\\4RX_lpoGRBg-wholeTranscript.txt', 'test_data\\4RX_lpoGRBg\\4RX_lpoGRBg-transcript.json','temp.json')
+    #id = 'leXa7EKUPFk'
+    for id in os.listdir('test_data'):
+        print("Processing " + id)
+        convertToConversation(f'new_processed_test_data\\{id}\\{id}-wholeTranscript.txt',
+                                f'test_data\\{id}\\{id}-transcript.json',
+                                f'test_data\\{id}\\{id}-symbl-transcript.json')

@@ -1,0 +1,2215 @@
+{
+    "name": "new_processed_test_data\\ojcOUtUwIe4\\ojcOUtUwIe4",
+    "messages": [
+        {
+            "payload": {
+                "content": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation, or to view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. "
+            },
+            "from": {
+                "userId": "AI_NARRATOR",
+                "name": "AI_NARRATOR"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:15.941416",
+                "endTime": "2022-08-27 14:58:37.981416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Today we're coming back to blockchain and money, Act Three of this course. Now that we've done a little of the basics, a little bit of the economics, and now it's some use cases through the lens of finance. And to say something about one, why I thought it'd be worthwhile to structure the course this way, and what I'm hoping we all get out of these next 10 or 11 lectures is that I thought that it was important after laying some foundation of what blockchain technology might or might not be, and cryptocurrencies, and of course, talking about the economics, is to use one field that's the most dominant field right now about potential blockchain technology use, which is finance. It's not the only area, but finance is completely reliant on ledgers. It's completely reliant on moving property rights around multiple parties. And of course, the first use case was about Bitcoin, which was a peer-to-peer money. So I thought even if you're thinking about this in terms of health care, thinking about it terms of the internet of things, et cetera, many, many other use cases, why not take finance. Now it also happens to be my comparative background. And I've spent the last three or four decades of my life around finance. And so I can be most helpful and dig deep, you know, probably as deep as you want to get in the mortgage market, the payment markets, the exchange markets. I've probably been there at some point in my career, or still have contacts and networks and have studied it. But no doubt, with the 80 of you in this room, or 90 or so, you're going to press me. And that I like that. I will say last weekend was really a joy reading 50-plus papers that it was only about 25 of you that had decided to hand in papers early in classes 2 through 9. But class 10 was 50-plus of you. So I really do have a sense of the class in terms of what you think about finance and blockchain. Of course, you'll probably do the same. I think I might design it differently the next time. But if you all hand in-- if 50 or 60 of you hand in the papers for class 23, it will be-- and you have that right. I'm not taking that away from any of you. But it means I might be delayed getting back all the projects. I want to say two or three other things overall. In terms of where we are, we're halfway through the semester. And Sabrina and Thalita and I did a good job of just saying, how are we doing on class participation? And I've kidded a lot, and I've joked a lot about who's talked and so forth. We're down to about 15 of you that have never talked in this whole 12-- so I want to work with you. I'm not trying to torture anybody. And I really want you to all not to worry too much about your grades. I want you to worry a little bit, but not too much about your grades. But if you've not spoken yet, and you haven't gone online-- two people have gone online, both of whom I've responded to. You know, come see me. Try to figure out how to be part of this community and this discussion, whether it's in class or online in some way. Cause again, I want this to be a positive learning experience for everybody. In terms of the papers and just some overall things, by and large they were good. Some were extraordinarily good, which you'd expect with such a talented group of people. But some really made me think and challenged me and so forth. It is a bell-shaped curve. Some, on the other hand-- not many-- kind of missed the mark. So I just want to say a couple of things. One is, it's not about just answering the three study questions. The study questions are really to spur the dialogue here. There's three questions. Not many of you, but two or three people just sort of just tried to answer those. Think about it as a uniform three-page paper. Five is the limit. One or two of you that did six or seven pages. That's fine, but it's just-- you don't need to, and it's more work, in a sense, for us. Two is, I really did try to give feedback and comments. And overall what we're trying to get to is, what are the economics here? What is there about append-only logs and consensus protocols amongst multiple parties writing to a shared ledger? So multiple parties updating some state of economic-- an economic state, really-- of property rights or something. And what verification costs, what networking costs, could be lowered. And it's unfair, because all of you are going to try to figure out a final project together. And I went back over the weekend looking at the final projects. I think there's some really neat ideas that you're looking at. But at the core is what verification costs, what networking costs, can you lower. Why do append-only logs consensus amongst multiple parties sharing a ledger, and possibly a native token. Because you don't have to do something around permissionless native tokens. But I think some of you will get there. And we'll have some exciting thoughts. So those were my thoughts. If I say in the comments to your paper-- and I only did this two or three times-- come see me, don't be scared. It might just be I want to pursue. I said this on some really excellent papers, and I said this on one or two that just I thought it'd be worthwhile to talk about. But I'm trying to just get through this all with you and have you learn. So there's just some overall thoughts on where we are halfway through. Post SIP week. Today we're going to talk about payments. And Thursday we have a guest, Alin. If you want to get mic'd up, I've got a mic up here somewhere for you, cause I'm going to call on you. Or you can speak from there. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:37.991416",
+                "endTime": "2022-08-27 15:05:24.158416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'll be loud. I'll be very loud. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:24.168416",
+                "endTime": "2022-08-27 15:05:26.249416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. That's not hard, is it? So what are we going to do? We're going to talk about just what are we trying to cover for the rest of this semester? Sort of call it H2 in blockchain and money. The readings, payment systems, ledgers, and credit cards. Just a little bit of history all together. And that's when you're going to meet Alin. Not computer science Alin, but payment Alin. And we're going to talk about mobile payments, which is a very significant change all the way around the globe in payments. Then global and US payments statistics. Bitcoin and blockchain we're going to come back to. And then conclusion. And remember, whether it's this week, next week, or the following week, this is all just to sort of say, well, wait. What are these use cases tell us about blockchain? What are these use cases tell us about cryptocurrencies? My goal isn't that everybody here is an expert in payment. But if your final project is around the payment space, or if you ultimately want to go along and become an entrepreneur and do something successful in this space, hopefully these two lectures today and Thursday will help. And I can't remember exactly what next week is. Next week's central bank and commercial banking. So next week we're going to turn to central bank digital currency and what's going on in Sweden, and why the e-krona project's interesting, but how's Canada looking at it through their Jasper project? What's China kind of thinking about and why they're a little worried about this space? And yes, what's the private sector doing around stable value tokens? So you have sort of a similar thing coming both from central banks and from the private sector. I just came from a meeting where one of Larry's colleagues-- he's from the Harvard Business School-- a professor at Harvard Business School came over because he's got a stable value token project. And so that's kind of next week. We're then going to go and talk about ICOs. You couldn't do a course in blockchain and money if we didn't talk about initial coin offerings with, of course, $25 or $30 billion that's been raised. It's an enormous crowdfunding opportunity for any of you that want to be venture and entrepreneurial after this course. But it's an important, also, test. Are there attributes of certain economies where native token is appropriate? It will spur as an incentive function. I'm not willing to give up. I know some of you are minimalist. I'm still thinking of the Skins and the gamers. Larry, when you weren't here we identified our most avid gamers in the class. And so we always refer to Skins, Shields, and Swords as a form of native token in the gaming sites. But where there might be economics-- token economics. So we'll sort of turn to that. On the 15th of November we've got a couple of guests in Jeff Sprecher and Kelly Loeffler, who run the Intercontinental Exchange and the New York Stock Exchange and others, but have real live payments and crypto exchange. We're going to turn-- oh-- I'm sorry. I got it out of order. Primary markets, ICOs is before and after Thanksgiving, I guess. And then do a little of the back office side. The back of a side is clearing and settlement. I mean, why is the Australian stock exchange using a permissioned system? Might you use something else? Why is the international swap and dealer association using smart contracts now to try to rationalize a lot of their payment flows? So we'll get to real live use cases that are happening around smart contracts and permissioned clearing systems. A little bit of trade finance, digital ID. I know at least one group is doing some-- one of the groups here is doing something on digital ID. So you'll be out ahead of us. So that's kind of a review of H2 for us. So we had a bunch of readings. Some of them were quite short. I don't know, because you're on sip week, whether you were able to go through them. But maybe I should just ask, does anybody want to tell me about some of the major trends in payments? I don't know how sleepy everybody is or whether-- Priya, I saw your hand, or you were scratching your nose. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:26.259416",
+                "endTime": "2022-08-27 15:10:12.151416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Either ways, I'll go. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:12.161416",
+                "endTime": "2022-08-27 15:10:13.443416"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:13.453416",
+                "endTime": "2022-08-27 15:10:14.651416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So digital wallets is a big thing now. All the articles acknowledge how kind of [INAUDIBLE] according to what you see in China where you have a digital wallet, and you pay directly, cutting out all the intermediaries that we can't [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:14.661416",
+                "endTime": "2022-08-27 15:10:30.051416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So one big, big trend. I mean, I've got a bunch of discussion on this, but let's identify them. Digital wallets or mobile wallets. What other big trend? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:30.061416",
+                "endTime": "2022-08-27 15:10:39.111416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Person to person payments, so like, Venmo, Apple Pay, Cash. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:39.121416",
+                "endTime": "2022-08-27 15:10:44.141416"
+            }
+        },
+        {
+            "payload": {
+                "content": " And Zelle. All right. So person to person payments. Stephanie. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:44.151416",
+                "endTime": "2022-08-27 15:10:49.371416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Tokenization, like in Apple Pay, the way you, like, transform your credit card data into a token. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:49.381416",
+                "endTime": "2022-08-27 15:10:54.824416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So tokenization where you can actually transform your identity into a token, in essence, right? Chris. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:10:54.834416",
+                "endTime": "2022-08-27 15:11:04.251416"
+            }
+        },
+        {
+            "payload": {
+                "content": " There's a lot of social aspects of payments going on. Like, for example, in China there's WeChat. They have spending millions of dollars on these red envelopes that used to always be cash. And people spend hours during the new year sending these back and forth to each other. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:11:04.261416",
+                "endTime": "2022-08-27 15:11:22.711416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So you're calling it socialization of payments, so to speak. Any others? Jeff. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:11:22.721416",
+                "endTime": "2022-08-27 15:11:27.771416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Biometrics. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:11:27.781416",
+                "endTime": "2022-08-27 15:11:28.801416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Biometrics. Absolutely. So it's sort of another trend. So lots going on. I'm sorry. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:11:28.811416",
+                "endTime": "2022-08-27 15:11:38.194416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'm going to mention one other thing that caught my eye on the statistics was that the larger-- so checks, the number of checks is going down, but the value is up slightly. So it seems to me that the remote payment or digital payment is not capturing the values of payments of over $1,000 or [INAUDIBLE].. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:11:38.204416",
+                "endTime": "2022-08-27 15:11:58.098416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. And I think part of that is because for small values, by and large, few of us use checks anymore. In fact, I'll ask. How many in this room has written a physical-- any written check in the last month? OK. But how many has written a physical check for less than $100? All right. Some. I can't even remember the last time I wrote a physical check for less than $100. Priya. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:11:58.108416",
+                "endTime": "2022-08-27 15:12:29.581416"
+            }
+        },
+        {
+            "payload": {
+                "content": " If you have a child in schools, and schools do field trips and everything-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:12:29.591416",
+                "endTime": "2022-08-27 15:12:33.681416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh, this was not a judgment. I wasn't trying to-- oh, Priya, I'm sorry. But I think we tend to write them for larger. Rent checks sometimes, even though I now pay my rent online. Yes. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:12:33.691416",
+                "endTime": "2022-08-27 15:12:54.151416"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] like Ripple and Chain. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:12:54.161416",
+                "endTime": "2022-08-27 15:12:58.731416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So one more change. You said Ripple and who? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:12:58.741416",
+                "endTime": "2022-08-27 15:13:01.731416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Chain. Chain. Chaining? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:13:01.741416",
+                "endTime": "2022-08-27 15:13:04.521416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Chaning. And are those really live? Or you're saying those are things that are going to happen? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:13:04.531416",
+                "endTime": "2022-08-27 15:13:09.461416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, Ripple is live, especially in Japan and Korea, [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:13:09.471416",
+                "endTime": "2022-08-27 15:13:17.711416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So then what sort of lessons can people draw? We're going to talk a little bit more about M-Pesa and Alipay and so forth. But what lessons? Kelly. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:13:17.721416",
+                "endTime": "2022-08-27 15:13:26.471416"
+            }
+        },
+        {
+            "payload": {
+                "content": " The thing that I took from quite a few of them. And I liked [INAUDIBLE] article, because it's sort of like, you mentioned the trend in China. It took trends from separate countries and sort of identified their own statistics. You saw a lot of countries that people don't feel that their payment data or their payment identity is secure on a lot of mobile and digital devices. And that lack of security if preventing them from entering the digital retail space. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:13:26.481416",
+                "endTime": "2022-08-27 15:13:54.168416"
+            }
+        },
+        {
+            "payload": {
+                "content": " How many people looked at it that Worldpay article, read your own country, and said, I didn't know that. Like, there was something-- it was just one page per country. So, of course, it didn't say that much. But. Alpha? I don't remember, was there a page on Ethiopia? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:13:54.178416",
+                "endTime": "2022-08-27 15:14:11.471416"
+            }
+        },
+        {
+            "payload": {
+                "content": " There wasn't, unfortunately. No. Not yet. But on M-Pesa, you know, the big success story in Kenya, they've done a tremendous job. And it's billed as a huge success at getting mobile payments and wallet [INAUDIBLE] distributed. But it's interesting to note that they're able to acquire customers by partnering with visible networks of agents. And again, something that going forward for a lot of these companies, we have to be [INAUDIBLE].. You can't be completely decentralized or completely automated. That's [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:14:11.481416",
+                "endTime": "2022-08-27 15:14:37.241416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I mean, initially, M-Pesa, which is in Kenya, and you had a reading on it. But it came out of mobile phones and that the values stored on mobile phones for mobile minutes people were trading, in essence. So the network of users were these shops in Kenya where you could go and get your minutes. Jihee. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:14:37.251416",
+                "endTime": "2022-08-27 15:15:07.421416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Kind of going along with that M-Pesa, in addition to basically, like, in an easy-- I mean, convenient and lower transaction costs, like M-Pesa, for example, were very instrumental in corruption cases and like, keep letting people know that kind of basically cutting the corruption. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:15:07.431416",
+                "endTime": "2022-08-27 15:15:24.908416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. There was the example in Afghanistan. Does anybody remember that from the reading? The police officers all of a sudden realized that they got a 30% pay increase when the government was paying them directly. But it was actually they didn't get a pay increase. It was like cutting out the middle man or middle woman of corruption. I was going to say gender neutral. But whomever was the-- it was probably men. But in that case, in Afghanistan. And then what challenges are there in the cross-border payment? Well, I probably got 50% of the class that has personal challenges with cross-border payments. But what would be the biggest challenges that you took from the readings or your personal life in cross-border payments? Anyone? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:15:24.918416",
+                "endTime": "2022-08-27 15:16:15.084416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'll say the number of [INAUDIBLE] from you that the payment service providers to the other end, there are just so many layers, which was just incredible how money can move seemingly so easy from one country to another-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:16:15.094416",
+                "endTime": "2022-08-27 15:16:26.621416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So a lot of layers of intermediation, tons of them. Anything else in the cross-border? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:16:26.631416",
+                "endTime": "2022-08-27 15:16:31.481416"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:16:31.491416",
+                "endTime": "2022-08-27 15:16:32.921416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Costs. You've probably had that. So let's go through a little bit. So, I'm introducing a guest. There you go. You want to stand up? [APPLAUSE] So Alin , he heads part of the digital currency initiative here at MIT in the Media Lab. All the efforts around lightning network and layer two solutions. But before MIT, he was a vice president of First Data. And First Data is a payment system provider. And he had about 200 people reporting to him and a big business-- $200 million P&L. That's revenues, right? Yeah. I mean, if it was profits, even better for you. And then he spent three years in a startup world. So he's somebody if you're interested in blockchain and digital currency initiative, you should get to know anyway. But if you're even interested in startups outside of payment world, Alin's great. And he's going to be here today and Thursday. And not only when I make mistakes, but a couple of times I'm going to get you up here to say stuff about how payments really works. But he's like, way embedded in the MIT blockchain community. So payment systems. Again, what is a payment system? It is moving money, of course. But on some level it is a way to amend and record entries on ledgers. Because a ledger is how we keep money now. Certainly in the digital world it's always recorded on some ledger somewhere. So there is an authorization phase. There's a clearing phase, and then final settlement. Does anybody want to take a crack other than Alin as to what it means to authorize a payment? Just to authorize a payment. It might not have been in the readings, but it's sort of just use your language skills to tell me what it might mean to authorize a payment. Tom. Your laugh gets you called on. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:16:32.931416",
+                "endTime": "2022-08-27 15:18:33.621416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I am struggling to describe it without using the word to authorize. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:18:33.631416",
+                "endTime": "2022-08-27 15:18:37.411416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It reminds me of when I was, like, a freshman in English class at University of Pennsylvania, and I had to describe a telephone without using the word \"telephone.\" "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:18:37.421416",
+                "endTime": "2022-08-27 15:18:47.391416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So I was thinking about the digital system we're using right now. It's like, when you click Send on Venmo, like, you authorize the account, the money to leave your ledger [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:18:47.401416",
+                "endTime": "2022-08-27 15:18:59.331416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So you just used the word \"authorize\" to define the word \"authorize.\" "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:18:59.341416",
+                "endTime": "2022-08-27 15:19:04.731416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Is it just-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:04.741416",
+                "endTime": "2022-08-27 15:19:05.681416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh, back here. I'm sorry, I don't remember your name. What's that? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:05.691416",
+                "endTime": "2022-08-27 15:19:08.521416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Dan. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:08.531416",
+                "endTime": "2022-08-27 15:19:09.091416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Dan. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:09.101416",
+                "endTime": "2022-08-27 15:19:09.621416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. I just think it's you're approving the actual transfer of the money. You're saying it's OK that the-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:09.631416",
+                "endTime": "2022-08-27 15:19:17.181416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. [INAUDIBLE] I can't-- "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:17.191416",
+                "endTime": "2022-08-27 15:19:20.614416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Aviva. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:20.624416",
+                "endTime": "2022-08-27 15:19:21.281416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Aviva. Good to see you. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:21.291416",
+                "endTime": "2022-08-27 15:19:23.241416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It has to do also with KYC AML And to authorize the source of-- the sender's identity and the source of money, what countries it's coming from. If it's above a certain threshold or a certain amount, financial institutions have further checks to-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:23.251416",
+                "endTime": "2022-08-27 15:19:41.311416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So most systems do what Aviva and Dan said. They have to say, we know who the person is. They have the balance is in some account. So they are who they say they are, or at least digitally they are, and they have a certain set of balances and monies within an account. And they have the legal ability to move that money, all without using the word \"authority\" in essence. Clearing. Anybody know what clearing is? Or am I going to have to call on Alin? James. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:19:41.321416",
+                "endTime": "2022-08-27 15:20:17.456416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Isn't the [INAUDIBLE] that confirms that money, it's getting somewhere, and it's going somewhere. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:20:17.466416",
+                "endTime": "2022-08-27 15:20:23.021416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. And it also has to do with netting, sometimes. Clearing can be-- if the 100 people in this room were all sending 10,000 movements all in the same day at the end of the day, you might net all of those movements down so there's fewer actual movements. So historic clearing, which goes back centuries, was also a way to lower the friction, just taking the 100 people in this room, of all those movements. So authorization-- Aviva. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:20:23.031416",
+                "endTime": "2022-08-27 15:20:54.486416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It also has to do with foreign exchange. So if someone wants to transact in peso versus dollar, so you then also have to net off, like you said, that balance. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:20:54.496416",
+                "endTime": "2022-08-27 15:21:05.508416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. So in foreign exchange, any circumstance-- and this is in the securities world as well-- you'll hear the words \"clearing\" and \"settling.\". God knows, even when I was chairing the Commodity Futures Trading Commission, all of us sometimes got a little bit confused about the two words. But clearing is pre-settlement. Clearing is netting of transactions, arranging the paper when we were still in a paper world, all in together, taking all the physical checks and getting them all in the same place in the right place. And then what's settlement? Sean. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:05.518416",
+                "endTime": "2022-08-27 15:21:43.581416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's to discharge. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:43.591416",
+                "endTime": "2022-08-27 15:21:45.997416"
+            }
+        },
+        {
+            "payload": {
+                "content": " To discharge. I like that. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:46.007416",
+                "endTime": "2022-08-27 15:21:48.251416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Receipt. It's the receipt from [INAUDIBLE].. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:48.261416",
+                "endTime": "2022-08-27 15:21:51.501416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So discharge the receipt. It's basically the final amendment of a record. It's changing a balance from 10 to 11 or 10 to 9. That's settlement. And that's true in securities. Alin. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:51.511416",
+                "endTime": "2022-08-27 15:22:08.161416"
+            }
+        },
+        {
+            "payload": {
+                "content": " To me this is mesmerizing, because there has to be a history behind this authorized clearing and settlement sort of free part movement of money. Because if you think of a computer system, or if you think of a blockchain, if you want, there's no need to do any of this. Right? You just do the damn transaction, and it's atomic. A moves money to B, and you're done. So like, how did this even happen? Like, how do we-- like, to have a computer system that does this is just inane. You don't need any of this in a computer system. So why do we still do this in a computer system? Where did this evolve from? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:22:08.171416",
+                "endTime": "2022-08-27 15:22:39.871416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So Alin's question, I was hoping would come out of the group. So I'm going to go to the other Alin. But there's centuries of history as to why we have these. But this Alin. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:22:39.881416",
+                "endTime": "2022-08-27 15:22:52.543416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Let me say right here, because I think-- so first of all, I'm happy that this came up, because it's excellent. Right? So when I saw the slides, you know, I-- "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:22:52.553416",
+                "endTime": "2022-08-27 15:23:01.461416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I sent this Alin the slides last night. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:23:01.471416",
+                "endTime": "2022-08-27 15:23:04.453416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So I saw that there is a really interesting historical component to all of this, as you rightly pointed out, right. This all came from about four decades' worth of evolution here. So we started-- you know, you started with a very convoluted way, as it would appear now, to actually send out paper-based receipts and have a plastic-based card, if you will, that will have to be recorded and, you know-- first of all, you just say, does the person have the money there? Right. Is the money there? I'm [INAUDIBLE] authorize. Right? I'm gonna get an answer right back, saying, yep. The money's there. OK. I just authorized it. But it's a very simple, like, ping right back and forth. Right? So it needs to be a very small transaction. From there on you can start to say, OK. Now let's batch transactions and do the clearing. And then from there on you actually send on the money. Right? The interesting part about all of this is that it evolved in time. So this technology, if you were to do it now with all of the tools that are at our disposal now, you'd do it differently, entirely. However, payments, as Gary will point out in the next couple of slides, basically evolved organically through decades. And you know, they started with [INAUDIBLE].. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:23:04.463416",
+                "endTime": "2022-08-27 15:24:11.731416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So stay with us. Stay with us just so that-- That is literally a check that Thomas Jefferson wrote to himself in 1809. But that is a payment instruction from one Thomas Jefferson account to another Thomas Jefferson account. But it's a payment instruction. It didn't actually move the money. It's just a payment instruction. This is a Western Union Telegram. The telegraph came along in the 1840's, if I remember. But Western Union took several decades to come along and say, we can send instructions to move value using the telegraph. And the Telex machine, which was post-world War II-- and yes, I'm old enough to say that there were still telex machines at Goldman Sachs when I started in 1979 that you would type in to type in an instruction. So Alin, you're asking where did it come from. It came from technology move from first authorizing. Does that party have the legal rights to move something, move value? Do they have enough of the value? Is there enough in their account? And so forth. That's the authorization phase. Now you'd say, well, can't that all be done simultaneously? And the answer is, yes. Maybe. But most of the payments system is still based on authorization, clearing, and then settlement. Financial ledgers that are also the reason. Ledgers record economic activity. We've talked about this earlier in the semester. They record transactions or accounts. Bitcoin is a transaction ledger. Ethereum and others are account ledgers. But they're both ledgers. They're both forms of recording something that has a right. The data is usually used around some right or a token. But the first ledgers were thousands of years ago. And I think on those ledgers, I don't know how they split authorization, clearing, and settling. But they were a form of a ledger. I like presidents, I like American history. So I pulled-- George Washington used to use a personal ledger, single entry ledger. But the IBM 360 came along in the early 1960s. And it revolutionized the world of finance and ledgers. It still took about 14 years. I think it was in the early 1970s after big paperwork crash on Wall Street, meaning literal, physical pieces of paper were moving around the late 1960s. And they had to shut the New York Stock Exchange down, I think, for a day or two, because they'd gotten weeks or months behind in clearing the paper. They had passed authorization. It was all in clearing securities trends, and was created by an act of Congress that there would be central clearing and settling. And DTCC was in essence created to solve and get out of that huge mess and a problem. But it was on the backs of technology that it could even be done, that there would be a central ledger. Is it helping to answer your question yet? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:24:11.741416",
+                "endTime": "2022-08-27 15:27:38.184416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think my question kind of changed. So I'll talk to you after the class. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:38.194416",
+                "endTime": "2022-08-27 15:27:42.261416"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK. You're good. Do you have a question? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:42.271416",
+                "endTime": "2022-08-27 15:27:45.141416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. So one thing that came out of the readings for me, I guess it's kind of solved by checks. But like, how are cash transfers captured in all of this? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:45.151416",
+                "endTime": "2022-08-27 15:27:55.371416"
+            }
+        },
+        {
+            "payload": {
+                "content": " How are cash-- cash, cash. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:55.381416",
+                "endTime": "2022-08-27 15:27:57.831416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Cash cash. Right. Because now they have digital everything. Everything is really easy to track. And you talked about confidential transactions or private transactions, if you give me $10, nobody else in the world knows that you gave me $10 back. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:57.841416",
+                "endTime": "2022-08-27 15:28:15.411416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, right now this is being recorded. It's being seen. And so you'll give it back to me. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:15.421416",
+                "endTime": "2022-08-27 15:28:20.341416"
+            }
+        },
+        {
+            "payload": {
+                "content": " 100%. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:20.351416",
+                "endTime": "2022-08-27 15:28:21.431416"
+            }
+        },
+        {
+            "payload": {
+                "content": " No, you can take it. You can take it. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:21.441416",
+                "endTime": "2022-08-27 15:28:22.931416"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:22.941416",
+                "endTime": "2022-08-27 15:28:23.806416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Now! Yeah, yeah. Remember. What lawsuit was that? The Scottish lawsuit? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:23.816416",
+                "endTime": "2022-08-27 15:28:31.099416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Can't remember. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:31.109416",
+                "endTime": "2022-08-27 15:28:32.141416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Crawford. But that bill, what's it say on the top? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:32.151416",
+                "endTime": "2022-08-27 15:28:40.009416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Federal Reserve note. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:40.019416",
+                "endTime": "2022-08-27 15:28:41.301416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So it's a Federal Reserve note. It is a Federal Reserve note, which literally means it is a liability of the central bank the US government. Now that's a social construct. We talked about it's not that there is a room full of gold or a room full of wheat behind it. There's some gold in Fort Knox. But that is a form of a ledger transaction. If you read a little bit more closely, can you see on the upper right there's something in there? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:41.311416",
+                "endTime": "2022-08-27 15:29:13.741416"
+            }
+        },
+        {
+            "payload": {
+                "content": " United States of America. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:13.751416",
+                "endTime": "2022-08-27 15:29:15.481416"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. Is there a serial number? There is a unique serial number on every Federal Reserve note. That unique serial number is, in essence, tying it to a ledger, a liability of the Federal Reserve. But it's a tokenized ledger receipt. I've handed it to you. It's anonymous-- well, it's not anonymous, because it was captured on the film. But it was anonymous because it's a tokenized paper. It's actually linen, it's not really paper. Anybody know who is the sole source manufacturer of the linen that goes into Federal Reserve notes? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:15.491416",
+                "endTime": "2022-08-27 15:29:59.711416"
+            }
+        },
+        {
+            "payload": {
+                "content": " [INAUDIBLE]? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:59.721416",
+                "endTime": "2022-08-27 15:30:00.817416"
+            }
+        },
+        {
+            "payload": {
+                "content": " No. Crane. C-R-A-N-E is the name of the company that has the contract. But to answer your question, it's a tokenized form of a specific serialized ledger on the Federal Reserve. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:00.827416",
+                "endTime": "2022-08-27 15:30:15.651416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So that only gets triggered if it goes into and out of institutions. Right? If this bill comes to me, and then goes to somebody else and goes to somebody else-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:15.661416",
+                "endTime": "2022-08-27 15:30:26.791416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Like, James. Yeah. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:26.801416",
+                "endTime": "2022-08-27 15:30:27.741416"
+            }
+        },
+        {
+            "payload": {
+                "content": " --before it goes on to a bank. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:27.751416",
+                "endTime": "2022-08-27 15:30:29.041416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:29.051416",
+                "endTime": "2022-08-27 15:30:29.951416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Then none of those transactions are tracked. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:29.961416",
+                "endTime": "2022-08-27 15:30:32.361416"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's correct. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:32.371416",
+                "endTime": "2022-08-27 15:30:33.251416"
+            }
+        },
+        {
+            "payload": {
+                "content": " But on something like Venmo, they are. So something like Bitcoin, they are too. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:33.261416",
+                "endTime": "2022-08-27 15:30:36.441416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So we're moving. There's a big trend that's happening over these last 50 years. And if you go back 200 years, it was all anonymous. But once you get into the 20th century, it starts to be more or more digitized, even early 20th century, commerce-- big commerce-- was starting to be in the banking system. But in the last 50 years, and certainly the last 20 years, we're almost fully digitized in developed countries, not middle economic countries. But that's correct. But this still ties back to a ledger. I'll get that back later. Credit cards. The first big write-up of credit cards was a book from the 1880s that said, what would the world be like in the year 2000? And 15 or 20 times in the book it used the word \"credit card.\" They fictionalized the future of credit cards. I haven't read the book, but I just love that it was written in the 1880s. But the actual start of the use of credit tokens, if not credit cards, started actually in the late 19th century. And the idea is that you could have a token that was for as particular merchant. And by the 1920s you had them for getting your gasoline when automobiles started to be popular, and so forth. But they were not generalized credit tokens. They were a credit token really by one merchant. So think of them as a merchant-specific token. In the 1940s in Brooklyn, New York, somebody-- in essence the innovation was to have a more generalized token that could give you credit at more than one merchant. And once that happened, of course, credit cards took off. First in the US, Diner's Card. American Express was in the mid '50s. And then Bank of America figured out, maybe we will even extend credit multiple banks. And they created a network. Bank of America was a California bank. It's not the bank you think of now. In those days it was California based. But maybe we can have a network across the whole US. And that network is actually the network that became Visa. It was a shared ownership service amongst a bunch of banks across. But the cards had to be processed. Does anybody even ever see the processing that's in the left, in the middle, any longer in the US and Europe? No, you probably-- "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:36.451416",
+                "endTime": "2022-08-27 15:33:14.936416"
+            }
+        },
+        {
+            "payload": {
+                "content": " The imprinters still exist. There are some cab drivers who will still take out, like, one of those-- one of those machines. So they still exist. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:33:14.946416",
+                "endTime": "2022-08-27 15:33:23.411416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So they still exist. So technology has moved us in advance. So here we're going to do modern payment systems. I think Alin's going to help me out here. You've got a customer. You'll see this play out. But this is complex system. The customer has an issuing bank. I'm going to say it's me. And I'm Gary Gensler, and it's Bank of America. And I might use a credit card to instruct my bank, I might use a check, I might use a debit card. I actually have all three-- credit card, debit card, and checks. I could instruct them in any of those three ways, but there's other ways I can instruct them. I can instruct them and ask Bank of America to send a wire. I can in the US ask them to send an automated clearing house payment-- ACH. Wires are more real time. ACH take up to two days-- is it now? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:33:23.421416",
+                "endTime": "2022-08-27 15:34:17.984416"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's in the longest form. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:17.994416",
+                "endTime": "2022-08-27 15:34:19.651416"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:19.661416",
+                "endTime": "2022-08-27 15:34:20.931416"
+            }
+        },
+        {
+            "payload": {
+                "content": " The ACH has been suffering some pressures, and now they actually offer-- "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:20.941416",
+                "endTime": "2022-08-27 15:34:24.971416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Real time. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:24.981416",
+                "endTime": "2022-08-27 15:34:25.371416"
+            }
+        },
+        {
+            "payload": {
+                "content": " --almost real time [INAUDIBLE].. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:25.381416",
+                "endTime": "2022-08-27 15:34:26.781416"
+            }
+        },
+        {
+            "payload": {
+                "content": " But traditionally, wires were something that you did which were more immediate, and what's called ACH, more slowly. So there's actually five ways I could have my Bank of America send something of value. It has to go through some network. It's too small to see, but the first little blue arrow there is Visa MasterCard. It might be going across a credit card network. The second arrow there is where this guy used to work, First Data stripe. There's dozens and dozens of payment processors or payment system processors-- PSPs. So you have a credit card, but you might also have somebody call it a PSP. Has anybody started a business in this room? A merchant? I'm sure somebody-- has anybody? All right. Did you have to hire a payment system processor? Who'd you hire? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:26.791416",
+                "endTime": "2022-08-27 15:35:22.596416"
+            }
+        },
+        {
+            "payload": {
+                "content": " First Data. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:35:22.606416",
+                "endTime": "2022-08-27 15:35:23.471416"
+            }
+        },
+        {
+            "payload": {
+                "content": " First Data. When I was chief financial officer of the Hillary campaign, we had to hire a payment system processor. It was Stripe. So all the donations that were coming in, somebody could use a MasterCard, could use a Visa, could use an American Express. We didn't have any legal contract. We were a merchant-- I mean, you might think of it as a political campaign, but we were a merchant. You were a merchant, you hired first data. So when you start your businesses, whether it's a grocery store, a bar, a political campaign, or something else, you're a merchant. You don't want to deal with a bunch of credit card companies. You want one payment system processor. And you chose First Data. We chose Stripe in that circumstance. So those are the networks. Then on the other side there's the merchant bank. For the Hillary campaign it was Amalgamated Bank. Who is your bank? Do you care [INAUDIBLE]? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:35:23.481416",
+                "endTime": "2022-08-27 15:36:23.281416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It was in Korea. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:36:23.291416",
+                "endTime": "2022-08-27 15:36:24.441416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It was in Korea? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:36:24.451416",
+                "endTime": "2022-08-27 15:36:25.021416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:36:25.031416",
+                "endTime": "2022-08-27 15:36:25.646416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Korea Bank One, let's call it. Korea Bank One. But the customer is all of a sudden, it's at five layers before it gets to your bank. And then, of course, you have access and so forth, and you're the customer. So all of these steps are in this chain. This is modern payment systems, pretty detailed. Digital wallets we talked about. We're going to say a little bit more about digital wallets. And the big question is whether cryptocurrency is going to have something. But before you get to digital wallets, this is the payment stream. And part of the answer, Alin, too is why you need authorization, clearing, and settlement is there's a lot of steps in this, in the traditional movement of money. And this is just domestic. You can add digital wallets, and you could add Bitcoin. And the question is, does cryptocurrency skip all this stuff in the middle? And can digital wallets jump start over some of these? And the answer is, digital wallets need to do all these things if they're going to jump. They have to store the value; they have to do some authorization; the equivalent of clearing, if there's any clearing; and then move it, which is settlement. So these are the fees. You want to-- "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:36:25.656416",
+                "endTime": "2022-08-27 15:37:46.311416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Can I add a few things? "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:37:46.321416",
+                "endTime": "2022-08-27 15:37:47.971416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, please. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:37:47.981416",
+                "endTime": "2022-08-27 15:37:48.631416"
+            }
+        },
+        {
+            "payload": {
+                "content": " A few minutes. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:37:48.641416",
+                "endTime": "2022-08-27 15:37:49.291416"
+            }
+        },
+        {
+            "payload": {
+                "content": " No, take more. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:37:49.301416",
+                "endTime": "2022-08-27 15:37:50.871416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I wanted to say a couple of things. Right? First of all, you'll have to appreciate the fact that this is a system created by banks for banks. Right? And I think that-- it shows, right? This entire value chain, which we're going to go through right afterwards, basically relies on consumer using this process to pay a recipient. It can be a merchant or another person. Right? Merchants like the fact that they get value. They don't have the type that have to pay a lot of money. So there's an inner intention there. And that intention manifests itself in a number of ways. But it's important. Right. So just the dynamics are [INAUDIBLE] to where this black box out here getting money over here automatically have kind of a [INAUDIBLE] way to the banks for the merchants. Right? The interesting piece here is that this access method is probably the most underrated aspect of this entire bank chain. If you think of anytime you go up to a merchant or to a website or whatever, whoever manages that access point is probably the most important thing. You may have the best solution out there. If you're not in that access method, might as well not have it. And that, I think, is something to import. Cause as you're going to go through [INAUDIBLE] where does value accumulate in this value chain, what you're going to see is more often than not [INAUDIBLE] methods aren't going to [INAUDIBLE] point to actually any meaningful change. Because those are hard changes, right? For a large merchant, changing anything at access point, it's hard. So that's something to keep in mind. Right? The other thing I would say is one of the things where we talked about how exactly to get big change at scale, and you have to have two things. You have to have technology, which is this is OK. It's not great. Right? This is kind of old. It used to be really great about two or three decades ago, but this is not [INAUDIBLE]. But this is an unbelievable business model. And if you look at the way the business model operates, consumer love it. Consumers love it. So consumer gets-- I can pay wherever. It's great. Right? Banks love it. You know, they make a lot of money out of it. They get what's called [INAUDIBLE].. All these other vendors out here exist because of it. Merchants, I would say are kind of neutral to it. They dislike many aspects of it, but then processing cash is also expensive. Right? So if you're trying to understand where do I want to change things here? A lot of the folks in the actual payment space will tell you, well, payments is kind of-- you know-- it kind of works. Right? It really doesn't work if you're on the fringes. But if you're in the middle, it kind of works. It's a pretty good system. And the beauty of the existing model we have right now is actually the business model on the way it works. So I'll pause right there [INAUDIBLE].. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:37:50.881416",
+                "endTime": "2022-08-27 15:40:28.926416"
+            }
+        },
+        {
+            "payload": {
+                "content": " But it's expensive. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:40:28.936416",
+                "endTime": "2022-08-27 15:40:30.301416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's expensive [INAUDIBLE].. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:40:30.311416",
+                "endTime": "2022-08-27 15:40:31.261416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's got a lot of friction. World Bank statistics say payment systems around the globe take a half a percent to 1% of economies. Now economies would be much smaller if we didn't have payment systems, because we would have never probably come out of the dark ages without some form of payment systems. And in the last 50 years I think it's been part of how economic growth has continued in the internet phase. You know, how we all transact on the internet. But if you take nothing other than, it's complicated and there's a lot of points of friction, then I've done my job. You don't need to know all the individual pieces unless you actually personally want to compete with PayPal or Venmo or Zelle or Alipay, which is what you might do one day. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:40:31.271416",
+                "endTime": "2022-08-27 15:41:29.178416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I don't know. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:41:29.188416",
+                "endTime": "2022-08-27 15:41:30.261416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, just a rumor has it. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:41:30.271416",
+                "endTime": "2022-08-27 15:41:32.646416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, the funny thing is, as you'll see, every now and then there comes a player that says, we're going to disrupt payments. And it is one of the hardest products to disrupt. "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:41:32.656416",
+                "endTime": "2022-08-27 15:41:42.921416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's a hard place to disrupt, largely, I think, because of the collective action issues. There's millions of merchants that rely on dozens of payment system providers that, yes, only rely on three to six credit card or debit card companies. In any country there's usually two to three dominant. It's not always Visa and MasterCard, of course, not in China, for instance. But the merchant end has such a huge collective action. And that's why Alin focused on the access points. If you're going to disrupt this, you've got to figure out some way to get adoption-- broad adoption-- on the merchant class. The money. This was from the Bloomberg article, the Bloomberg article that was reviewing China. $2.75 in the US on average comes out of every $100 purchase. And by the way, if you make $1,000 purchase, it's $27. And I used to think when I was on the CFO of the Hillary campaign, if somebody was generous enough to give us $2,700, which was the legal limit to a political candidate during that cycle, we were paying 70 US dollars to this, to that, to help elect a president. Or in a billion dollar campaign, 2.7% is $27 million. Now I'm not saying we spent $27 million on this, because we were able to encourage some donors to give us checks. But I will tell you, even being recorded, in the modern economy it's hard to convince somebody to give you a check, even somebody who is generously giving their support to a political candidate to win the presidency. And you say, well, we actually get $70 more if you give us a check. Yeah, but I got my credit card here. So, yes. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:41:42.931416",
+                "endTime": "2022-08-27 15:43:48.901416"
+            }
+        },
+        {
+            "payload": {
+                "content": " How would that work if say, you gave 27.70? And so the political campaign actually ended up with $2,700 in the bucket. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:48.911416",
+                "endTime": "2022-08-27 15:43:57.676416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So this is a legal question for the Federal Election Commission lawyers. But we asked that question. We did ask that question. And it's not allowed. It's not allowed, because it's going beyond the legal limit under our federal laws for campaign contributions. That would be deemed to be a 2,770 dollar contribution. Even if somehow the donor is paying the $70 directly, we weren't able to solve-- by the way, we were not able to solve that, because the payment system provider, in our case, Stripe or First Data, is actually a vendor for the merchant. And the political campaign in essence is the merchant. You with me? Shawn. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:57.686416",
+                "endTime": "2022-08-27 15:44:44.456416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, when you make a, for instance, $1 million donation, it's not that-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:44.466416",
+                "endTime": "2022-08-27 15:44:48.281416"
+            }
+        },
+        {
+            "payload": {
+                "content": " A what donation? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:48.291416",
+                "endTime": "2022-08-27 15:44:49.531416"
+            }
+        },
+        {
+            "payload": {
+                "content": " If you make a $1 million-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:49.541416",
+                "endTime": "2022-08-27 15:44:50.671416"
+            }
+        },
+        {
+            "payload": {
+                "content": " A million dollars, that's breaking the law right there. But OK. I'm big filmed. I just want to-- "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:50.681416",
+                "endTime": "2022-08-27 15:44:56.501416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. You're not actually making a million, because you get perhaps 1.5% or 2% of the points back on your credit. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:56.511416",
+                "endTime": "2022-08-27 15:45:04.893416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh. Yeah, right. So Sean is just observing that well, actually the donor is getting some points back. So this is just averages, and averages sometimes mask things. But $2.20 of the $2.75 actually goes back to the quote-- \"issuing bank.\" So if you're doing something on Bank of America, Bank of America might then give you points and share generously. And a lot of the bank programs will share maybe up to half of that. You might get $1 per every $100 or one point for every 100. But they're getting $2.20. But you're right. There were some donors that said, well, I'm using my American Express card. I'm getting my points back. And if they gave $1,000-- not a million-- you know, that they would maybe get the equivalent of $10 of points back. That is correct. So merchants aren't enthusiastic about this split. This is the US model. It does not cost this much in India. It does not cost this much in China. So in many other countries the jump started around the credit card payment systems. It costs a lot less. But in the US, our payment system is significantly built on credit card rails-- rails like tracks-- it's called. So cross-border. I'm not going to go through these two charts. These were-- Shimon were you-- "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:45:04.903416",
+                "endTime": "2022-08-27 15:46:36.188416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think the US is somewhat unique in the sense that there's bundling of the payment as a service, and the credit. Right? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:46:36.198416",
+                "endTime": "2022-08-27 15:46:43.811416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:46:43.821416",
+                "endTime": "2022-08-27 15:46:44.291416"
+            }
+        },
+        {
+            "payload": {
+                "content": " And those are being unbundled now. But doesn't have to be the case. And it's not always the case. Right. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:46:44.301416",
+                "endTime": "2022-08-27 15:46:49.971416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So Shimon's point is that we, in this country, have bundled the credit provision with the payment provision. And there are many of us that when the merchant says, give me your payment data, we give him a credit card, even though we might, in fact, regularly pay off our credit card on a monthly. I mean, many Americans don't. But many Americans do. So it's this bundling of payment and credit services. And you're absolutely right, because when the internet came along in our country, we had established credit card payment rails. And most of the internet payments, whether it was for your mortgage-- well, usually not mortgage, but whether it was for your utilities or your small dollar payments were built on top of the credit card rails. Your mortgage-- most mortgage lenders would say, no. I don't want to pay the 2.7%. We didn't have enough market power even as a political campaign to get people to give it to us in checks, or to Zelle payment to us. But this 2.7 is economic rents. This is a form of economic rents. Fraud. Does anybody know the figures for frauds in this country? I went and looked at it in the last two days. So it was not in the readings. Total fraud is about 10 to 20 basis points. So of this 270 basis points-- or 2.7%-- less than 10% of it's really going to pay for fraud. Now fraud is a really big thing, don't get me wrong. But it's a small portion of this. It's not the dominant feature here. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:46:49.981416",
+                "endTime": "2022-08-27 15:48:40.091416"
+            }
+        },
+        {
+            "payload": {
+                "content": " What is the credit risk cost that's covered by that 2.20? So the bank is-- there's typical losses on credit cards, [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:48:40.101416",
+                "endTime": "2022-08-27 15:48:50.441416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So one thing I would say-- I think that point that was just made was-- it was really just right. You do want to just conceptually think about payments-- digital payments-- and credit as different. They're just different products. So typically, extending credit to someone, it's a very personal relationship. Right? You cannot really-- you can look at [INAUDIBLE] and basically make a guess. Right? [INAUDIBLE] there's so-- some type of [INAUDIBLE] called debit payments. Right? When you're using money you already have. Well, that credit risk is much, much smaller than the money that you're not going to pay me back if [INAUDIBLE].. So I would say the big thing that I would encourage everyone is to separate the two. And more to the point of a what is the credit risk. I would say it's probably [? half. ?] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:48:50.451416",
+                "endTime": "2022-08-27 15:49:39.611416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So I don't know the number, and I'll research it. But I would caution to say the compensation for credit doesn't only come out of this. It also comes out of the anywhere from 18% to 27% interest rates they're charging. So when you think about it like, it's a dual model. It's this, which is not solely for the payment, but I'm saying this is largely for using the credit card rails as a payment rail. And then you charge an interest rate spread, which is over 1,000 basis points, usually. The spread versus underlying bank borrowing tends to be anywhere from 1,000 to 1,800 basis points on some of these. But I'm not saying it's separate. It's two business models. Let me churn on. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:49:39.621416",
+                "endTime": "2022-08-27 15:50:36.561416"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'm just going to [INAUDIBLE] a brief question. Is that just for credit cards? Or is it debit cards as well? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:50:36.571416",
+                "endTime": "2022-08-27 15:50:42.451416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So this is for credit cards. Debit cards tended to be about the same. But after the Dodd-Frank Act-- the regulatory reform bill here in the US-- and the Durbin Amendment-- Senator Dick Durbin of Illinois had an amendment where debit cards had to be priced closer to cost plus-- I can't remember if it said reasonable return on capital. And there was a Federal Reserve rule making on that. Debit card numbers came down significantly from this. I just don't know the exact figures. But it's over 100 basis points still on debit cards. But it's not 270. Good question. So I'm not going to go through the details. But cross-border payments have more complexity. I'm not going to go through, but the paym-- this is the what I'll call the front end. You have a payer on the left and a payee on the right. Think of somebody in the US sending money to somebody in the Philippines, maybe. I need on my side a payment system processor. That's the bubble on the top. I need them to have some payment system processor. They're both ends on the front end. So just think more complexity, more friction in the system. And really the reason is, is because you're jumping from one money to another money. Or another way you can think of it as you're usually jumping from one ledger system to another ledger system, if you're thinking like the computers and recording. And the back end-- I should have called this back end, but I labeled both of them front end, sorry-- has a bunch of things inside of it. And the one I'm just going to mention is correspondent banking. It is a feature that came out of centuries of banking. Arguably, you might not need it as much now. But the concept was, I'm a small regional bank in the US. I'm sending something to somebody in the Philippines. The Philippines doesn't recognize this small regional bank, let's say, in Kansas. I need a correspondent bank that they can trust. So it's a cost of trust that it could go from one country's bank through a bank called a correspondent bank, which had trust, to the other country's bank. Or maybe you even had correspondent banks in both countries. But usually you had one international bank in between. Hugo. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:50:42.461416",
+                "endTime": "2022-08-27 15:53:19.411416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Hypothetically, if there became enough trust in the Bitcoin network, could that act as the correspondent bank? Where like you're in the US, you go to a Chase or whatever. They transfer your US dollars to Bitcoin. You go over to the Philippines, they transfer your Bitcoin [INAUDIBLE]. There is no need for that. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:53:19.421416",
+                "endTime": "2022-08-27 15:53:39.361416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So Hugo's asking whether Bitcoin or any cryptocurrency could play that role of a correspondent bank, or effectively play the bridge currency between fiat to crypto, US dollar to Bitcoin, you said. And what was the other country? The Philippines. Which is a peso? What's that? Peso. Yeah. So US dollar fiat to crypto Bitcoin to Philippine peso. That is called a bridge crypto or bridge currency. That's, in fact, what Ripple is trying to do with XRP. So Ripple is a company that started as a payment messaging service to compete with Swift. And that messaging service, which we'll talk about more Thursday, has been adopted by many banks. More recently in 2018 they rolled out a prototype of using a crypto token-- XRP-- as a bridge currency. I would say yes, that is possible. I think there's an issue also about volatility. So if you're moving fiat dollar to crypto Bitcoin XRP to fiat, if you have a lot of volatility, that means it's a less-- it could be costly. But if it's stable value, so you can you can lower the cost two ways-- lowering the volatility of the crypto or lower the time. And XRP believes they have a solution that can be down to seconds. And thus, even if it's volatility, that in seconds it won't move as much. And the friction will be that you have to sell dollars to buy XRP, and then sell XRP to buy peso. Or you can interpose any bridge currency. One of the most significant opportunities for stable value tokens that we'll talk about in a few classes is maybe is what we can call it is a bridge currency for cross-border. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:53:39.371416",
+                "endTime": "2022-08-27 15:55:51.948416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yes. The question is, what will be the fees? And if it makes sense from an economic [INAUDIBLE].. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:55:51.958416",
+                "endTime": "2022-08-27 15:55:59.051416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So Western Union and other remittance companies can sometimes charge as much as 9% or 10%, especially for small dollar remittances. And I don't know if any of you do cross-border remittances, but if it's small dollar, it can be very significant fees. If it's large multi-million dollar transactions, you're getting into corporate treasury functions. So on the blockchain payment solutions side, you have to always think about, is this targeted for the retail small dollar transactional side where you're trying to get inside of an 8% to 10% fee structure? But again, if it's only on $50 to $200 US dollar sort of transactions, you'd have to figure out how to get your cost structure down there. Or is it for the multi-million dollar treasury function, for the Fortune 500 or the World 1,000 or whatever treasury function, where they're really talking about frictions which are in basis points. But still, the bridge currency-- crypto bridge currencies-- might still help in the treasury function side-- I'll call the corporate treasury function side all the way to the retail remittance side. The percentage fees are different. And you just have to be able to say, well, can I get inside of those inefficiencies. And on the retail side it takes two to five days to do a remittance. So can you get inside the timing? Alin. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:55:59.061416",
+                "endTime": "2022-08-27 15:57:31.121416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So one of the things that I think I found useful when I was doing remittances is trying to distinguish between getting remittances from an account to an account. So account to account remittance versus person to person. And I know they sound the same, but they're not. Right. A person means, hey, you know what? My mother out there doesn't have a bank account. She's a person. If she were to have an account, then that would be a fairly easy transaction. Right. But is she doesn't have a bank account, that's not that easy. Right? Most of the value that all of these Western Union or whatever, they've been valued by the fact that they have a lot of locations, that people can walk in, get their money, get out. Right? A lot of the folks that are coming [INAUDIBLE] right now, they're trying to address this account-to-acocunt problem. As in like, hey, you know what? If you have a bank account here and a bank account in South Korea, that's not that complicated, right? And cryptocurrency can probably actually compete fairly well there. However, if you're trying to say, hey, you know what? I have a bank account here. But my mother, who doesn't have a bank account in South Korea, how do I get the money to her? If I send her cryptocurrency, she's like, fine. What am I going to do with this? Right? So the real problem is, you have to think about if you [INAUDIBLE] the remittances, OK, where are the exit ramps on both ends? How exactly are you going to get that to actually use those funds? "
+            },
+            "from": {
+                "userId": "ALIN DRAGOS:",
+                "name": "ALIN DRAGOS:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:57:31.131416",
+                "endTime": "2022-08-27 15:58:46.696416"
+            }
+        },
+        {
+            "payload": {
+                "content": " And also, right now because there's no economy-wide use of crypto, if you're trying to move value around the globe, on the other end it's probably fiat to crypto, crypto to fiat. So it's probably two money exchanges. If it's to be stored value, if it's stored value, a lot of people are still willing to store value in crypto. But until it grows larger it's not a medium of exchange in any economy-wide solution. So this is a slide you've seen before. We're not going to spend much time. But in payments some of these matter and some don't. And I think if I did my little thing-- some will grow. All right. Yeah. There you go. All the illicit activity. Remember in public policy there's something called the Bank Secrecy Act. If you're thinking about anything in the payment space, you're probably moving something of value. And in almost every country you have to comply with some form of anti-money laundering, know your customer, Bank Secrecy type of thing. The US Department Treasury said so in 2013. You probably also have to deal with some consumer protection. That's why that box on the bottom sort of grew. Like, you're just not going to lose their money or steal their money. And maybe something about privacy, whether it's GDPR type of privacy in Europe or elsewhere. You're not worried about investor protection. But in this country, you have to worry about how to register as a money service provider. And other countries similarly register. So I just raise that. And as we go through use cases in H2, I'm going to constantly kind of use this start and say, well, what public policy issues? You don't have to worry about the SEC, probably. But maybe some stable value token might be an exchange traded fund. So it's possible you might be blurring up against that regulatory state. So technology is affecting us. And this is a slide I think I've used before with everybody. But I thought, well, wait a minute. What of these eight-- and there's more technology affecting finance-- but what are these main eight are really hitting payments, when I add payments. Well, I'd say there's kind of four or five of them. Blockchain is affecting payments. But biometrics, we talked about that earlier. Biometrics, definitely. Mobile telephony, open API, which is the UK initiative where they're saying that UK banks must allow merchants an ability to get inside of those bank accounts, basically. It's called open API, because they have an interface directly into the bank accounts. And even robotic scraping of data-- RPA. I think they're all related to payments in some way. Or maybe everything. Maybe cloud and AI and machine learning. But I kind of think-- I think that these five are the ones. So blockchain is amongst the things changing payment. It's not the only thing changing payments. And then remember a bunch of attempts in the '90s? A bunch of ways to do digital cash in the '90s? We talked about this in the first or section lecture of the course. Fundamentally, why did they all fail? Anybody remember why they failed? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:58:46.706416",
+                "endTime": "2022-08-27 16:02:15.041416"
+            }
+        },
+        {
+            "payload": {
+                "content": " They didn't solve the double spend problem. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:02:15.051416",
+                "endTime": "2022-08-27 16:02:17.249416"
+            }
+        },
+        {
+            "payload": {
+                "content": " They didn't solve the double spend problem. So bitcoin and blockchain technology, Nakamoto consensus, is a solution to the double spend. Nothing's 100% solution, it has some challenges too. But it's a solution to the double spend issue. So then before Bitcoin we had a bunch of mobile payment, and now afterwards. And I want to spend our last minutes kind of just chatting about what are the lessons learning. So first, Alipay and WeChat. Who wants to tell me a little bit? There's probably somebody-- who has Alipay and WeChat on their phones? Thalita, you want to tell us about it? No? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:02:17.259416",
+                "endTime": "2022-08-27 16:03:05.273416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Go ahead. [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:05.283416",
+                "endTime": "2022-08-27 16:03:06.577416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Chris. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:06.587416",
+                "endTime": "2022-08-27 16:03:07.576416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. So WeChat was started as just a chat service. So they built out a huge user base, which is the key to the similarity between WeChat and Alipay. And so essentially once they had that chatter base, they wanted to start monetizing it. And that's where the payment system was added on top. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:07.586416",
+                "endTime": "2022-08-27 16:03:27.491416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So when WeChat and Alipay started, they started one, out of communications, basically. Chat, text. Right? And Alipay was off of like-- is it appropriate, Shawn, to call it like, China's mixture of eBay and Amazon. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:27.501416",
+                "endTime": "2022-08-27 16:03:47.981416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. P2P. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:47.991416",
+                "endTime": "2022-08-27 16:03:49.741416"
+            }
+        },
+        {
+            "payload": {
+                "content": " P2P. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:49.751416",
+                "endTime": "2022-08-27 16:03:50.651416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Or B2B. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:50.661416",
+                "endTime": "2022-08-27 16:03:52.054416"
+            }
+        },
+        {
+            "payload": {
+                "content": " B? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:52.064416",
+                "endTime": "2022-08-27 16:03:52.901416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Alibaba is a B2B platform and combines an e-commerce platform. So [INAUDIBLE] combination service. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:52.911416",
+                "endTime": "2022-08-27 16:03:59.771416"
+            }
+        },
+        {
+            "payload": {
+                "content": " And those payment channels-- I don't think it's a surprise. China was not as developed in terms of a credit card rails as the US, and had far fewer banked. So these two companies solved a problem that kind of existed because there was not-- as it developed, banking system and credit card systems. Overall, those systems cost less than in the US then 270 basis points. And you had an article in the readings that maybe the US payment system is going to get shook up. I don't know the answer. But you know, maybe they'll get shaken up by these two. How about the M-Pesa story? Anybody have any M-Pesa on their phones? No. Who wants to give a crack at M-Pesa? It's basically telephone, mobile minutes. In all three of these, the central banks saw a traditional banking function-- payments, and a second traditional banking function-- the store of value, being done by non-banks. What do you think the central banks in the official sector did? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:03:59.781416",
+                "endTime": "2022-08-27 16:05:19.371416"
+            }
+        },
+        {
+            "payload": {
+                "content": " They came in and started to regulate those [INAUDIBLE]. For example, we now are reading, they talk about M-Pesa. Actually, the Kenya government oversaw the trust so that even Vodaphone ran out of the business, people can still use the money stored with the M-Pesa. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:05:19.381416",
+                "endTime": "2022-08-27 16:05:37.539416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So let's break it down. So one is, the official sector said, whoa. We've got to bring this inside the public policy framework. Regulate it. And then two, they said in the Kenya case, it's gotta be set up as a trust. And the value-- the stored value-- has to be in the banking system, literally. So all those little-- Eric? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:05:37.549416",
+                "endTime": "2022-08-27 16:06:07.981416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, I just wanted to add one example to your list that actually is the opposite of what [INAUDIBLE] described. [INAUDIBLE] which is Peru modal. And it's the initiative [INAUDIBLE]---- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:07.991416",
+                "endTime": "2022-08-27 16:06:19.731416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Peru-- "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:19.741416",
+                "endTime": "2022-08-27 16:06:21.021416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Peru modal. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:21.031416",
+                "endTime": "2022-08-27 16:06:22.108416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Modal. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:22.118416",
+                "endTime": "2022-08-27 16:06:22.941416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. And it was tackled or begun by a former production minister in Peru, who actually thought about that potential issue. And she started reaching out to all local banks and all local telcos, brought them all together and created a whole model that's called [SPANISH] which is mobile wallet in Spanish. And it's been growing since 2016 as a means of financial inclusion for underserved populations and people that don't have bank accounts. Because banks see that as an opportunity to get more customers. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:22.951416",
+                "endTime": "2022-08-27 16:07:11.638416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So Eric, can I ask you a couple questions? Do you know, was it a means for just payment? Or did they actually store value in this system? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:07:11.648416",
+                "endTime": "2022-08-27 16:07:20.771416"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's both. Yeah. You can use your mobile to pay to another person, to a merchant, for example, a small store with another mobile. Or you can actually cash it out to a-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:07:20.781416",
+                "endTime": "2022-08-27 16:07:36.452416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Has it been brought inside? Is it now being regulated as a financial firm? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:07:36.462416",
+                "endTime": "2022-08-27 16:07:40.707416"
+            }
+        },
+        {
+            "payload": {
+                "content": " We got them regulated. And begun with a-- it's now a spinoff as a-- what we call sociedad anonima, which is some sort of private company. But it's basically a consortium of all the banks in Peru. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:07:40.717416",
+                "endTime": "2022-08-27 16:07:56.471416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So if you can send me an email with its name, I'd love that. And maybe I'll put something on Canvas about it. But in all these circumstances, they were payments. But they also had-- they started storing value. The other one I want to mention is Starbucks. Starbucks. How many people have Starbucks on their phone? And they have-- right? So wait a minute. Wait. I saw a hand back there. Larry. Geez. I'm going to call on you, then. Who knew? All right. Does it store value? "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:07:56.481416",
+                "endTime": "2022-08-27 16:08:28.626416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. It steals value. Like, you have a minimum amount you have to deposit. So $20, for example. Whenever it goes below the minimum, it kicks another 20 in. So you never-- so they've basically taken $20 and held it permanently. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:08:28.636416",
+                "endTime": "2022-08-27 16:08:42.371416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So they're taking it out of your bank account. Right? You gave them authorization-- back to that word \"authorization\"-- to just take money out of your bank account. So this is a form of what used to be when Larry and I were kids. you could have physical prepaid cards, gift cards. I got them on my birthday. It's a gift card. But now it's sort of prepaid cards on your mobile | I think if Starbucks had billions of dollars in everybody's $20, that the US Federal Reserve might knock on their door and say, you've got to register as a bank, or you've got to-- In China, basically, that's what happened to Alibaba. The largest money market fund in the whole world is at And Financial Alipay. Largest. About $300 billion US dollars. But I think the same would happen with Starbucks, because they're storing value. And Kenya, they said you've got to put it in a trust. And by the way, we want you to make deposits with 100% of this in the banking system. And that official sector said, we don't want to dis-intermediate the commercial banks. Now, they didn't write that in a statement. They probably couched it all in consumer protection. But at the essence, the outcome was, they were keeping their commercial banking system alive by doing it. Starbucks, I don't know what they're doing, Larry, with your $20. But you don't, either. No. But I don't think it's a surprise that Starbucks has partnered with Intercontinental Exchange. And you should ask Jeff and Kelly when they're with us, well, why is that connection? I'm sorry. There were a couple of hands. I saw Jihee And I saw Alin. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:08:42.381416",
+                "endTime": "2022-08-27 16:10:43.359416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, we just wanted to point out that you probably had set-- set the auto subscriber, or-- OK. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:10:43.369416",
+                "endTime": "2022-08-27 16:10:51.704416"
+            }
+        },
+        {
+            "payload": {
+                "content": " You can tell Larry advice. How did he set his auto subscriber? Oh, that's right. I mean, I could physically have to go through every time I want to reload. But obviously, that's just wasting my time. So. It's like the internet. That I'm losing is probably worth my time. So I'm not saying I have [INAUDIBLE].. But it is amazing. There must be an extraordinary amount of money [INAUDIBLE] "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:10:51.714416",
+                "endTime": "2022-08-27 16:11:12.878416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh no. They're doing you a service. I'm not saying they're not doing you a service. Let me take one more, Priya, then I'm going to go to [INAUDIBLE]. "
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:11:12.888416",
+                "endTime": "2022-08-27 16:11:19.441416"
+            }
+        },
+        {
+            "payload": {
+                "content": " Interesting back story to the M-Pesa Safaricom fees. I used to work for one of the NGOs that pioneered the savings and loans concept in all of Africa, really. And what happened in Kenya was that you had these groups, like hundreds of thousands of them, in very remote places. And these groups, you know, they had annual saving cycles. And eventually, you know, they were saving very little money. But they were saving. And they didn't have a way to then move into the formal economy. You know, so the money just stayed there. And it literally was money stored in a box with three locks, and they were-- And you know, it was a way that even without literacy you could do it. At that time, DFID, the British overseas development agency, was sponsoring a few of these NGOs to do this work. And the consortium's biggest problem was, now how did we-- the next step up is to transition them into the formal economy and gain access to credit. It was like the opposite approach of the micro [INAUDIBLE]. And that's the point when in Kenya this breakthrough happened is when these savings groups finally had some money. And the first thing that happened at their villages-- like, no bank was going to open a branch. There was a movement around mobile branches. But even that was very expensive for the amount of money that each of these scripts was saving. And so then these first operators came up. It was almost like an act of frustration, you know. Like, OK. We have this cash in this box that cannot be stored. So now we're just going to move. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:11:19.451416",
+                "endTime": "2022-08-27 16:12:52.841416"
+            }
+        },
+        {
+            "payload": {
+                "content": " So let me capture it. So some of the themes is that where there is a market gap, there is a gap in Kenya with unbanked. And by the way, half of sub-Saharan Africa is still unbanked. But half of that unbanked have mobile phones. But there is a gap in China. And so Alipay and WeChat and so forth started to fill it. What gaps are there today that you all can fill. And then secondly, does a blockchain technology solution help fill that gap? There might be big gaps created by 275 basis points in the US, the 2 and 3/4 percent using the credit card rails for payments. There might be gaps of the unbanked. There might be big gaps in customer user interface, because a lot of the customer user interface in current banking isn't that great as we move to mobile phones. QR codes. There was a nice comment-- see, if you do comment, I remember what you say online. But there was a nice comment about QR codes. Where are QR codes used in payment most dominantly? Two countries. What? China and India. The US, and I would even contend Europe, are no longer at the forefront of payments. Because we're sort of had existing big legacy systems. But that might mean that there is big legacy systems built on the credit card rails dominantly, might be vulnerable. A quick thing just on the methods. This was out of a report you had, but I just thought in 2016, 29% stole credit card. Estimate, five years from now worldwide down to 15%. eWallet is 18% to 46%. Those trends, if they're right, and of course, they won't be exactly right, but those trends creates opportunity. When you have huge changes, and people are changing the way they're doing things, that's usually where business opportunities are. You had-- this is too detailed. But I think it's sort of fascinating that the Federal Reserve puts this out once a year. It's always old, stale data. But the big things I took away is that we've got a huge change that's happening here even in the US. And card payments still growing, of course. But not like they once were. Mobile payments are big changing. Half of all card payments are done online, by the way, not in person now. So those statistics, if you're going to build a real business and not just a business for a final project for Gensler's course, you're going to want to dive into these statistics. You want to see where are the opportunities. What are the trends in the statistics. And then Bitcoin came along. And we're not going to chat more, but I'm going to just say, just as the two minutes left, don't forget the economics. And I say this again coming back to having read 50 papers over the weekend. When you're writing for the rest of the semester, whatever section-- whether you write on payments, whether you write on central bank, whatever you write one, remember about thinking about what are the benefits of block J. What are the real specifics? And particularly, how does it lower verification or networking costs? Like Christian Catalini wrote about, but just we talked about it. Coming to my office. Ask for office hours. Say, wait a minute. How does-- does it really need to happen this way? And most importantly, what are the net benefits? And I keep coming to my friend Brotish. No, don't do a traditional database. You gotta get to a private blockchain. This is not a traditional database course. We're about permission blockchains or permissionless blockchain. And remember, blockchains are about append-only logs with some consensus with multiple parties having the right to change the state of the ledger. So it's sort of like, when does that valuable? I believe there is value to that. But not in every circumstance. And certainly if there is a native token, why do you need a native token? Is it there to jump start a network? Is it to help with token economics? Remembering that there is great network effects to having one currency per jurisdiction. But let's not forget that certain multi-jurisdiction currencies have failed. The history of multi-jurisdiction currencies is they almost always fail. We still have not seen the end or what's going to happen with the URL. I mean, decades from now, I'm saying. And don't forget the skins and the swords as well. So we're back together again on Thursday. We're going to do payments on that day. We're going to dive more into payments-- actual blockchain technology stuff and payments. Thank you, Alin. [APPLAUSE]"
+            },
+            "from": {
+                "userId": "GARY GENSLER:",
+                "name": "GARY GENSLER:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:12:52.851416",
+                "endTime": "2022-08-27 16:18:22.421416"
+            }
+        }
+    ]
+}

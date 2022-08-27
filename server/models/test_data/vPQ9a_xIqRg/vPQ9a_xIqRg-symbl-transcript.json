@@ -1,0 +1,421 @@
+{
+    "name": "new_processed_test_data\\vPQ9a_xIqRg\\vPQ9a_xIqRg",
+    "messages": [
+        {
+            "payload": {
+                "content": " The following content is provided under a Creative Commons License. Your support will help MIT OpenCourseWare continue to offer high-quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. "
+            },
+            "from": {
+                "userId": "AI_NARRATOR",
+                "name": "AI_NARRATOR"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:16.789265",
+                "endTime": "2022-08-27 14:58:37.939265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Let's get started. Settle down. Settle down. Welcome to 3.091. I'm Donald Sadoway and I'm going to be your instructor this semester. So what I want to do today is to introduce my plans. I've got plans for you. Plans for learning. I want to talk a little bit today about those plans, introduce myself, introduce my class curriculum-- the path forward. So let me begin by saying that 3.091 is the most important class you will take at MIT. It's true. But, you know, anybody who stands in front of you to lecture should say the same thing about his or her class. If they don't believe that they shouldn't be standing in front of you lecturing. The difference is when I say it, I'm right. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:37.949265",
+                "endTime": "2022-08-27 14:59:37.639265"
+            }
+        },
+        {
+            "payload": {
+                "content": " And it's not just an opinion, it's because of the content of 3.091. 3.091 is about chemistry. It's about the central science, but it's not just about any old chemistry. This isn't a class that you could take anywhere else in this country. This is the only place that you can take 3.091. 3.091 is solid state chemistry. Now why do we talk about solid state chemistry? Because engineering systems are made of solids. Now I know what you're thinking-- oh, he said solid state, he's going to talk about the chemistry that constitutes his laptop computer or the chemistry that constitutes this laser pointer. And that's true. We will talk about that chemistry. But we will also talk about soft matter. We as human beings are chemical machines. When this hand changes shape, it is a polymer that is changing conformality. These eyes are photodetectors, band gap of about two electron volts. They're not made of gallium nitride. They're made of organic compounds. Inside, what supports us, it's a ceramic skeleton. So solid state chemistry describes life science as well. Well, what we're going to learn in 3.091 is the rudiments. We're going to learn the rudiments. So what I'm going to do today is now go through some of the basic organization. So tomorrow you're going to meet your recitation instructors and get to know each other and get to know the recitation instructor. Today I'll say a few words about myself so you know who's standing in front of you. I graduated from the University of Toronto in chemical metallurgy, came down here in 1977 to spend a year as a postdoctoral fellow and, I guess, I lost track of time. Now what's my research? My research is in electrochemistry. Electrochemistry is the most important branch of chemistry. Do you notice some theme in my professional life? See, I have tenure. So what does that mean? It means you find your passion and pursue it. You don't waste time on trivia, all right? And that's what I urge you to do: Find your passion and pursue it. So what's my passion? My passion is electrochemistry in nonaqueous media. Anything but water. Let the rest of the world work on water. I work on molten salts, ionic liquids, and polymers. And what's the reason for this? There's an application. I'm in the School of Engineering. So I'm interested in environmentally sound technologies for metal production, all right? Right now looking at titanium, iron recycling as well. I'm also interested in electrochemistry as it applies to energy storage, energy storage for mobile power. See this gal here? She's got the cell phone. She's not even looking where she's driving. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:59:37.649265",
+                "endTime": "2022-08-27 15:02:43.569265"
+            }
+        },
+        {
+            "payload": {
+                "content": " So making safe batteries out of earth-abundant, accessible materials for portable power, ultimately to drive the car with electrons, electric fuel, to eliminate this country's dependence on imported petroleum. We can do it. How? By inventing. By inventing. And the way we're going to invent is to learn the lessons in 3.091 that will give us the chemistry we need to invent a battery that can send that car 250 miles on a single charge, and put it in a show room for the same price as a car with an internal combustion engine. The only thing that stands between that image and where we are today is invention, and the requisite material is right here in this class. We're also looking at colossal batteries. Store the grid. Enable renewables, wind, solar. And then, lastly, let's never forget about dreaming. So if we want to dream and imagine that man will return to the moon or maybe even go to Mars, we're going to have to be able to produce oxygen. We'll live like the pioneers, produce oxygen from local resources, produce structural metals, and even produce photovoltaic silicon so they can generate their own energy from local resources. And so electrochemistry is the key enabler for that as well. So now let's turn to the whole underpinning of 3.091. If we take a look at the performance of any engineering system it's a combination of the design and the construction. Now the construction is both the workmanship and the choice of materials. Now how do we choose materials? We choose them on the basis of their properties. So, for example, here's an application: a beverage container. This one I'm holding is made out of an aluminum alloy. It's a metal. When I was your age, they had steel beverage cans. You can take this same beverage and contain it in a glass bottle. You can contain it in a polymer bottle. Why do we make those various choices? Because they have the right mix of properties. Now how do you determine the properties? Properties obviously are determined by the composition. We wouldn't make this thing out of sodium chloride. It would dissolve. So composition is important, but atomic arrangement is important as well. Example is 1/2-inch-thick pine board compared to a 1/2-inch-thick piece of plywood. Both pine, but the 1/2-inch-thick pine board is one solid pine board. I can take that pine board and I can fracture it if I strike it along the grain. But the 1/2-inch-thick plywood, I can't do that because it's 1/8-inch sheet pine cross-laminated. 1/8 inch north-south, 1/8 inch east-west. If I try to cut through that board, I can't advance the fracture. Same composition, different atomic arrangement. So the thesis of 3.091 is that the electronic structure of the elements holds the key to understanding that relationship between composition, atomic arrangement, and properties. And once you have properties that's how you make your selection. And away we go. And that's how we got the syllabus of 3.091. So the syllabus has two major blocks. The first block is general principles of chemistry-- it's going to be about the first five weeks-- and that's the same stuff that you get here, 5.111, 5.112, the basics of electronic structure and bonding. And then we part company and in 3.091 we dig down into solid state chemistry. You don't have to take notes. You can relax. All this is going to be burned to PDF and posted at the website. So everything that you see in this class that goes up on the screen is archived for you. This lecture is being video recorded right now and within an hour will be posted at the website. So in the unlikely event that you can't quite come to class, it is available. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:02:43.579265",
+                "endTime": "2022-08-27 15:07:00.629265"
+            }
+        },
+        {
+            "payload": {
+                "content": " So now what I want to do is introduce some of the operational aspects of the class. And we had some handouts going around. If you didn't get them we can get you extras. But again, this is all posted at the website. So you know who I am. The key person in this operation is my administrative assistant, Hilary Sheldon, and she's just down the hall. You can roll a penny down the hall from here and get to my office. So if you tell me you tried looking for me, you couldn't find me, I know you couldn't have been trying very hard. The text is a two-volume set consisting of the text Chemistry: Principles, Patterns, and Applications by Averill and Eldredge, and then a second volume that consists of miscellaneous readings taken from other Prentice Hall texts. And it's identical in content to the blue book that was used last year and the year before. So if you get a copy of that blue book, you don't have to buy these. I don't work for Prentice Hall, I'm not trying to sell books, but we will take the homeworks out of the books to a great extent. And the page numbering is the same, so anything this year or the last two years will be fine. If you have to buy something, you'll have this. This one will come with a CD that will get you into a mastering chemistry, which is a sort of a tutorial, computerized system to help you with certain homework problems. The lectures, Monday, Wednesday, Friday, here in this room at 11 o'clock. The lecture starts at five minutes after the hour-- gives you five minutes to get in-- and then the lecture stops at five minutes to the next hour-- time for you to leave and then for the next class to arrive. And what I'm going to try to do is establish some plug flow here. So what I'm going to try is to have everybody leave by the exit to the north here to my right, and there's also an exit over the top back. So leave to your left and that way it'll be easier for the next class to come in. And maybe we can persuade the people here before us to do the same and then it'll be easy to change. I don't know why but there's this sort of-- everybody has to charge to this door. And I just stand here and watch people collide. And I don't know. Just interesting social experiment. And there are two doors. I don't understand why people do this, but I'm not in the social sciences. Recitations. Recitations will meet Tuesdays and Thursdays. So you'll go to the same hour on Tuesday and Thursday. The section should be roughly 20 students. And that's where the question and answer occurs. Here it's largely I talk, you listen. I've got time for a question like, hey, shouldn't that be a minus sign? I can take something really quick. But where you get to really interact with the instructor is in recitation. And I've given a direction to my recitation instructors not to give you a fourth and fifth lecture. You control the content of the recitation. So you have to come to the recitation prepared with questions. So they're supposed to walk in and say, good morning, good afternoon, what are your questions? And you can say, I didn't understand the last five minutes of the lecture yesterday. Would you do number five on the homework? Would you go over secondary bonding? That's the sort of thing that's supposed to happen in section. You've been assigned by the Registrar. You are forbidden to change your section on your own. You can't just squat in another section. We do this with the intention of trying to keep the enrollment roughly uniform. We don't want sections growing to 35 because then that limits your ability to interact. If you've changed classes or you've picked up a UROP, or what have you, and your situation has changed, please go down the hall and meet with my assistant Hilary, who will then arrange to move you. And that way we can keep some control over the section size. Again, you may not change simply on your own. And it has to be with cause, academic cause. You can't go in and say, I was assigned to the 9:00 am section and I don't do mornings. That's not going to work. Homework. Homework is very important here. Homework is a little bit different, though, in 3.091. You're not going to be asked to turn in homework for grading. Instead, at the beginning of each unit, you will be given homework with the model solutions right at the beginning. This is a study aid, and you can use the model solutions to help you understand the homework material. Now since we're not asking you to turn anything in and we do want to stimulate interest in the homework, we found a way to stimulate interest. And that is that once a week in section you will have a 10-minute quiz based on the homework. That will ensure that you've at least looked at the homework. And those weekly quizzes will be graded, and the aggregate of all of those quiz scores will constitute your homework grade in the subject. And you must take those quizzes. If you don't take the quiz-- you got sick or some personal emergency came up-- contact your recitation instructor and within a week of the date of the original quiz arrange to take a makeup. If you don't take the makeup, we're going to give you a zero. And there's no dropping of lowest score. Somewhere there's this in the lore here that, oh, you can drop the lowest score, the lowest two scores. People come to me with this proposal and I say no. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:07:00.639265",
+                "endTime": "2022-08-27 15:12:44.999265"
+            }
+        },
+        {
+            "payload": {
+                "content": " So let's get started. This is homework number one. It's assigned today. We're going to save paper-- just go to the website-- and you'll be tested on Tuesday, next Tuesday, September 15, at the beginning of section. At the beginning of section there'll be a 10-minute quiz based on that homework, and you can get the homework and so on. By the way, here's what the homework looks like. Chapter 1, Chapter 3 of Averill. Averill is the major text. We just refer to it by the author's last name. So taken from Averill. By the way, I don't like to use this unpleasant term \"test.\" I like to refer to it as a celebration of learning. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:12:45.009265",
+                "endTime": "2022-08-27 15:13:30.299265"
+            }
+        },
+        {
+            "payload": {
+                "content": " So it's a celebration. We're going to start celebrating on Tuesday. There's the website by the way. You probably want to bookmark that. You're probably going to go to that a lot. We're going to keep celebrating, and so we will have some monthly celebrations, monthly tests, and they've already been scheduled. And you will write those tests during the normal class time. But on those days we will spread you out a bit. I like to see some vacancies. So you will not be sitting one next to another. There'll be at least one human vacancy next to every human, and that way you've got room to spread out, keep your eyes on your own work. So those are the dates and there'll be more of that in time. Now when you take the monthly test, I allow you to use aids. So everyone will be given in recitation tomorrow a Periodic Table of the Elements, very nice one, laminated one. So you take that with you to the test. In fact, you should take this with you everywhere. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:13:30.309265",
+                "endTime": "2022-08-27 15:14:35.619265"
+            }
+        },
+        {
+            "payload": {
+                "content": " If I run into you at Harvard Square, I want to see the Periodic Table, because every educated person has the Periodic Table. You get a table of constants. So you'll have one of these. You'll get that tomorrow as well. Paper copy, and on there are all the constants so you don't have to remember that the permittivity of vacuum is 8.85 times 10 to the minus 12 farads per meter. It's on there. I urge you to use that when you do your homework. So it's always amusing to me during the time of the first monthly celebration, somebody's looking at this as though it's today's newspaper and they're looking, where is that? Sort of revealing about the intensity with which the homework has been embraced. Calculator, something to calculate with, and I don't care if you bring in a graphing calculator or a mainframe. I don't care. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:14:35.629265",
+                "endTime": "2022-08-27 15:15:25.329265"
+            }
+        },
+        {
+            "payload": {
+                "content": " And you're allowed an aid sheet, an 8 1/2-by-11 sheet of paper. And you can write on the front, you can write on the back. You can photoreduce previous exams down to micro-dot size. I don't care what you put on it, but with this, you have then no excuse to say I really understood this stuff, but I couldn't remember a formula. Actually, many students tell me that the act of preparing the aid sheet organizes the subject matter in their minds. They bring this with them to the exam, and they never consult it, but it just soothes the nerves and makes sure that everybody does well on the monthly test. The weekly test, no. The weekly test you bring your Periodic Table and table of constants, but no aid sheet. For the weekly test, it's a very concentrated amount of material. And I'm not going to test your memories, because that doesn't prove anything to me. And then, of course, the celebration of celebrations is the final exam. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:15:25.339265",
+                "endTime": "2022-08-27 15:16:25.509265"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's huge. That's a huge celebration. It's three hours. See, these are really 50 minutes. This is three full hours. The time and location will be set by the Registrar. We should know by October 1. The final exam period is December 14 to 18. And so what I urge you to do is as soon as that schedule comes out and we know when all the final exams are going to be held, then you book your passage for the holidays. Do not get that order reversed. You cannot come to me and say, I got a really good price on a ticket. I'm going Acapulco on the 15th of December, and your exam is on the 16th of December. I'll say, you just got a zero on the final. You have to be here for that. You know why? I have to be here for that, you can be here for that, too. There are about a quarter of a million students in Boston. It's a great college town, but at Christmas time, it's pandemonium at Logan Airport. So you want to book your passage early, but you can't do it until you know what your final exam obligations are. Grading. Freshman, you know, it's pass/no record. Pass/no record. And so that means that if you struggle and things don't go well, you don't have any blemishes on your record. Unfortunately, some of the upperclassmen will tell you as pass/no record, you now, barest pass imaginable/ no record. Well, I hate to let you know this, but increasingly I am being asked by medical schools, law schools, scholarship providers to reveal the scores on the freshman year. So think about that before you call Hilary in late November saying, what do I need to get a 50? I need a 32 on the final? OK. But Lord help you, you get a 31 you go down. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:16:25.519265",
+                "endTime": "2022-08-27 15:18:23.749265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Upperclassmen get the luxury of the entire alphabet: A, B, C, D, F. The final grade composition. 1/6 for homework-- that's the aggregates of the weekly test scores-- and 1/6 for each of the three tests. And then the final is 2/6, or 1/3. I didn't want to get into transcendental numbers, so I made it 33 exact, 16.75 exact. I could have made it 16.77, I could have made it 16.81, I could have made it anything I want. I'm the professor. But I chose 16.75. Bottom line here is it's really dumb to fail the final. If you passed the final, you're pretty much assured that we're going to be favorably disposed to passing you. But you fail the final that says two things. It says, number one, you don't have a grasp of the overall year, but it also sort of indicates that you ran out of steam partway through the semester and stopped working. It's very bad. You get a lot of good advice from upperclassmen, but sometimes-- I'd ignore that one that says, hey, you don't have to do that well on the final. Anyway, so you have to get a C level as a freshmen or greater. And, by the way, we do not grade on a curve. I've seen it in magazines this last year that MIT grades on a curve. I don't where they get that from. I don't grade on a curve. Your success does not come at the expense of your neighbor. As far as I'm concerned everybody in this class can get an A. Again, I'm the professor, all right? So you say, well, how do you know that 50 is the right number? Why isn't it 55? Why isn't it 75? Well, I know. I know. How do I know? Because when we grade, we set up the point scheme so that if the student has the mastery of the barest level of competency of the key concept the point scheme must reflect a passing grade-- 5 out of 10, 5 out of 9-- and you propagate that through. I don't care how much is written, if it doesn't demonstrate basic mastery of the key concept the point scheme must give 4, 3, 2, 0. Maybe a 1. And so that, if you propagate it through the whole semester, means 50 is a pass. There's some wiggle room there. How do I know 49.7 is a fail and 50 is a pass? That's when I call your recitation instructor. [CELL PHONE RINGING] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:18:23.759265",
+                "endTime": "2022-08-27 15:21:01.099265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Let's kill that. We're going to get to that in a second. Let's call the recitation instructor. And what happens? I ask the recitation instructor, well, what can you tell me about this young lady? And, oh, she came to all my classes, she tried really hard, she came to office hours. I don't think the exam is a proper reflection of her understanding. I'll listen to that and maybe we'll promote. If, on the other hand, I get the response, I never saw her, didn't come to class. I repeatedly reached out to her, ignored my entreaties, she's going down. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:01.109265",
+                "endTime": "2022-08-27 15:21:41.499265"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK. Website. This is what the website looks like. There's a number of tabs here. The readings are there, the videos are there archived. The schedule-- what's going to be coming up. So, for example, this is what's going on today. It says what the topic is, roughly what the readings are. I know today you didn't come to class having read. And it's OK, we'll get through it. But from now on I urge you to do the readings. A couple of topics I'm required to talk about. My management requires me to do so. Academic honesty. There's a lot of texts here, but in plain English, this says don't cheat! You know what this means! Now I don't want to hear, well, in my country, the custom is-- I don't care what they do in your country! You're in my class, and if you cheat in my class you will pay for it. Very simple. Accept information of any kind from others-- wrong. Represent somebody else's work as your own-- wrong. You know this. It was Juvenal, the Roman politician, said men need not so much be instructed as reminded. I'm not telling you anything you don't already know, but I'm going to say it so no one can say, well, nobody told us it wasn't OK to erase our answers and hand them back in for more points. I just did. All right? So if in the unlikely-- but it happens every so often. Maybe every two, three years. And people get caught. You know why they get caught? Because for the first time in your life you're being taught by people who are as smart as you are. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:21:41.509265",
+                "endTime": "2022-08-27 15:23:29.369265"
+            }
+        },
+        {
+            "payload": {
+                "content": " My TAs are really smart. And it never ceases to amaze me-- somebody succumbs and does something dishonest, and they get caught! They get busted! And what happens then? Then I get angry. You know why? Because we can't settle that in my office. You can't come and cry in my office. I have to take this episode to a committee here at MIT called the Committee on Discipline. It is staffed by faculty, by administrators, and by students. And the case is brought before the COD at a hearing and a punishment is decided. And it can be anything from suspension to expulsion. And of the three categories, faculty, administrators, students, which category do you think is most severe on infringers? "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:23:29.379265",
+                "endTime": "2022-08-27 15:24:22.689265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Students. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:24:22.699265",
+                "endTime": "2022-08-27 15:24:23.449265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Your peers. You got it. You know, because people my age, old faculty, they'll be like, oh, they're just kids, whatever. The students say, no! Throw them out! [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:24:23.459265",
+                "endTime": "2022-08-27 15:24:38.969265"
+            }
+        },
+        {
+            "payload": {
+                "content": " So it's not going to be me that's going to expel you, it's going to be your peers. So don't do it. And if you're ever in an exam and somebody's pressuring you, just raise your hand and ask to be reseated. For all I know, the guy next to you has got a bad case of B.O., you just want to move. We will not ask any questions, so take yourself out of the situation. Conduct yourself appropriately. Classroom behavior. Now this is the first lecture, there's a whole bunch of violations in here right now. So I'm going to say it now and we'll fix it for next time. We've got 425 seats here, we've probably got 475 people, and there's only one way we can make this system work and we have to observe certain rules of decorum. And I make the rules. So if I want to maintain a fertile learning environment I'm going to ask for these rules to be observed. No talking at all. No talking. Little conversation here, little conversation here-- it disturbs people. I don't want any food or drink. No food, no drink. One exception is the professor. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:24:38.979265",
+                "endTime": "2022-08-27 15:25:47.299265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Because I do not want to have my throat get so dry that I can't finish talking my way through the end of the class. Otherwise, no food or drink and no disruptive behavior. No horseplay or anything like that. And wireless communication devices must be silenced. Cell phone goes off, you get up, you leave the room. That's it. "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:25:47.309265",
+                "endTime": "2022-08-27 15:26:11.530265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Is water OK? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:26:11.540265",
+                "endTime": "2022-08-27 15:26:13.399265"
+            }
+        },
+        {
+            "payload": {
+                "content": " If you need water because it's some kind of a health thing, fine. But I do not want to see a whole bunch of people drawing on water bottles. Don't need it. Don't need it. You can go 50 minutes without your little-- whatever. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:26:13.409265",
+                "endTime": "2022-08-27 15:26:30.559265"
+            }
+        },
+        {
+            "payload": {
+                "content": " You know why? I'll tell you why. It's not because I'm trying to be a control freak. This is a chemistry class, but it's chemistry-centered. You didn't just come to MIT to learn some geeky techno stuff. You're preparing for a professional career, and part of that is how you behave, how to act as a professional. And you cannot learn behavior by doing problem sets. How do you learn behavior? You learn behavior by observation. And how does one teach behavior? By modeling. If you're in some high-level committee meeting and all of a sudden your cell phone goes off and you're scrambling and you can't find the damn thing, it's in the bottom of your briefcase, right? I can't tell you how vulgar that is. You're in a professional setting, you commit professional suicide. And I need to tell you that. If you think it's OK you're wrong. So let's get in the habit. Disable the damn thing. What do you need? You're going to call your stockbroker? What's so important right now? And on an exam, that thing goes off I take the exam in front of everybody and-- [MAKING RIPPING NOISE] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:26:30.569265",
+                "endTime": "2022-08-27 15:27:46.109265"
+            }
+        },
+        {
+            "payload": {
+                "content": " --we introduce a defect, it's called a tear. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:46.119265",
+                "endTime": "2022-08-27 15:27:51.489265"
+            }
+        },
+        {
+            "payload": {
+                "content": " And then I put a zero on it like this, with a circle around it. It's called a donut. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:27:51.499265",
+                "endTime": "2022-08-27 15:28:02.299265"
+            }
+        },
+        {
+            "payload": {
+                "content": " All right. Now let's talk about some lighter things, more upbeat things. Look, I want you to succeed in this class. Now how are we going to succeed? You go to the listing in the bulletin you'll see this, right? And you zoom in here it says 5-0-7. What's this mean? Well the 5 is 5 contact hours. 3 here and 2 with your recitation. The 0 is lab. There's no lab with this class. So what's the 7? The 7 is the reading, the homework, preparation, et cetera. I pledge to you, you give me 7 hours-- you go to the 5 hours contact and 7 hours-- you will not just pass this class, you will flourish in this class. How do I know this? Because I used to chair the committee on admissions and I've read applications. I know the quality of individual in this room. You should have seen, there were 11,000 applications piled up like this, each dossier like this, and they just get copied down on a four-by-six card. We get here on a Presidents' Day weekend and we got stacks and stacks of the cards. We're looking at your whole academic life is on a four-by-six card. And I pick that up and I go, yes. Literally at this speed. About 45 seconds. No. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:28:02.309265",
+                "endTime": "2022-08-27 15:29:25.019265"
+            }
+        },
+        {
+            "payload": {
+                "content": " Hell no! [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:25.029265",
+                "endTime": "2022-08-27 15:29:26.479265"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's how I spent Presidents' Day weekend. And so you got through a very grueling selection process. What's the corollary of that? Listen carefully to this: Everybody in this room has the intellectual apparatus to pass 3.091. The only people who fail 3.091 are people who choose to fail 3.091. They choose not to come to class, they chose not to go to recitation, they chose not to work the homework. I don't know why they make those choices. But I guarantee you if you give me this amount of time, you'll do well. It's straightforward. Number one problem you are going to face this fall is not secondary bonding, it's time management. So I used to call this strategies for-- what did I used to call it? I forgot. I used to have it something like, survival strategies. But I don't want you to survive, I want you to flourish. So I call it recipe for success. There are different venues for learning. OK? So lecture, that's here. That's my responsibility. Recitation, that's Tuesdays and Thursdays. That's my staff. Now reading, that's you. Homework, that'd be you. Weekly quizzes is you, monthly tests is you, final exam is you. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:29:26.489265",
+                "endTime": "2022-08-27 15:30:51.639265"
+            }
+        },
+        {
+            "payload": {
+                "content": " What we have here is a partnership. See? [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:51.649265",
+                "endTime": "2022-08-27 15:30:58.609265"
+            }
+        },
+        {
+            "payload": {
+                "content": " So I'll do my part, you do your part. You know, one of the things beyond the basic learning of the chemistry that we're going to attempt here is a transition. You are going to change in ways you can't imagine. I want you to think about the way you are right now, and I'm going to ask you to think about how you feel about yourself on the last day of class. You will be amazed, and it's not because you know a few more chemical equations. And what one of the things that I want to see happen and to help facilitate is the transition from student, which you are as a high school graduate, to scholar. And the difference between a student and a scholar is a scholar takes ownership of his or her learning. So you're going to take ownership of it. You know, is this going to be on? Are we responsible for this? Go back to high school. Here you're a scholar. You say, how can I learn more about this? That's the difference. So I think we've covered enough. I think we don't want to just have the whole day, welcome to MIT, welcome to MIT. So what we're going to do is we'll get into the lecture, and in the very brief amount of time we have left I'm going to talk about the beginnings of chemistry. We're going to talk about taxonomy, classification, nomenclature. And to help introduce this I'm going to refer to the writings of William Shakespeare. We're going to integrate some humanities here. We're going to read from Romeo and Juliet. Maybe there are people here who were admitted on the strength of the performance in Romeo and Juliet. Maybe one of you was Romeo, one of you was Juliet. Maybe one of you did the lighting. Maybe one of you did the set design. Maybe one of you took the tickets. Somehow you were involved, right? Because we're all involved. So let's take a look. Act 2, Scene 2. Romeo: \"But soft, what light through yonder window breaks? It is the east\"-- that's the east. East Campus is that way, right? [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:30:58.619265",
+                "endTime": "2022-08-27 15:32:55.009265"
+            }
+        },
+        {
+            "payload": {
+                "content": " \"It is the east, and Juliet is the sun.\" That has nothing to do with nomenclature. Maybe photon emission, but-- that's a joke. We'll get to it. Now Juliet: \"O Romeo, Romeo! Wherefore art thou Romeo? Deny thy father and refuse thy name. Or, if thou wilt not, be but sworn my love, and I'll no longer be a Capulet.\" See she's a Capulet, he's a Montague. You know, the Hatfields and the McCoys. And this is a metaphor. It's as old as literature. It's about warring factions, two communities that can't stand each other based on prejudice. And then these two youngsters fall in love, and how love triumphs over hatred, and so on. It's powerful stuff and it's written here. Romeo: \"Shall I hear more, or shall I speak at this?\" Remember, she's up high, he's doing \"Shall I hear more, shall I speak at this?\" Fellows, the answer to that question is don't speak. Don't interrupt her. All right. So now she goes, \"'Tis but thy name that is my enemy. Thou art thyself, though not a Montague. What's Montague? It is nor hand, nor foot, nor arm, nor face, nor any other part belonging to a man. O, be some other name! What's in a name? That which we call a rose by any other word would smell as sweet.\" That's properties, right? \"So Romeo would, were he not Romeo called, retain that dear perfection which he owes without that title. Romeo, doff thy name, and for that name which is no part of thee take all myself.\" Beautiful writing. 400 years ago and it's just fantastic. Well, that's no good. That's not the way it works in science. In science we have to agree-- [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:32:55.019265",
+                "endTime": "2022-08-27 15:34:44.639265"
+            }
+        },
+        {
+            "payload": {
+                "content": " We have to agree on the name. And so this is taken from Chapter 1 of the text, and this is the classification of matter. This is about stuff and the different forms of stuff. Over here we have the simplest form of stuff, which is the element. And we're going to start here in 3.091 and we're going to work our way all the way through this table, starting with electronic structure and how electronic structure governs stuff. So let's start with a history lesson. We'll start with a history lesson. And the history lesson goes like this. What are the origins of chemistry? The ancient Egyptian hieroglyphs refer to khemeia, which was a chemical process for embalming the dead. You know the Egyptians were very fixated on the afterlife. And the chemists, the chemists were revered in that society-- not like here. They were revered in that society because they knew how to prepare the body for the afterlife. Embalming is a chemical process. A few years ago I was in London. I toured the British Museum and came upon this. This is 18 inches tall. It's the mummified cat. It's a fantastic example of mummification. It's a beautiful-- most people go zooming right past it. They're looking at the big dinosaurs and all that other nonsense. But this, this is beautiful. Mummified cat. And then khemeia expanded to other chemical processes: dying of cloth, glassmaking, and metals extraction. The chemist could take dirt and turn it into metal. Sorcery. Some things haven't changed. I'm in that tradition: producing metal from dirt. And they were always looking for an overarching theme, to unite the heavens with the simple elements. So the seven known, naked-to-the-eye, astronomical bodies were associated with the seven known chemical elements. And you could even talk in this priestly language. So if you wanted to make a bronze, which is an alloy of tin and copper, you could say, well let's have the confluence of Jupiter and Venus. It's all there. Mercury. Why do we call it Mercury? Mercury's a metal that's liquid at room temperature. It's fast. Because Mercury is the planet that moves quickest around the sun. Very nice. So this is what we knew 2,400 years ago. We had the seven metals, carbon, and silicon. And the beginning of the shift from practice to theory, or from craft to science, is with the work of Democritus. Democritus, who lived around 400 BCE. Democritus, who was Greek. He described the physical world as consisting of a combination of void plus being. Void plus being. These are lofty words. Listen to this. Void, being not some little equation. It's big, big ideas. And how did he describe void? Void is something that we would recognize, in his language, as akin to what we recognize to be vacuum. And being, he said, was comprised of an infinity of atoms. He coined the term \"atom.\" \"Atom\" comes from the Greek tomoi, which is to slice. And then if you put \"a\" in front of it as in apolitical or amoral, cannot be sliced: indivisible. The atom cannot be sliced, and so to these atoms he attributed these properties. They're indivisible and eternal. I mean, this takes you all the way to E equals m c squared. From 400 BCE, and that's all he had to work with. This is brilliant. Absolutely brilliant. But to show you that things don't always go in a linear fashion for the better, along comes Aristotle. Aristotle, another Greek, and he decided, nah, we don't need all this carbon, sulfur, and so on. He said, we will have four essences that will describe the earthly world. Four essences. And here are the four essences. Earth, water, air, fire. So those are the Aristotelian essences. And there's actually a fifth essence that describes the heavens. That's why we say something is quintessential. It's heavenly, it's et cetera. So these are the four essences. All right? And then it gets even worse because he has compounds, a combination, so you can take fire plus earth and make dry, earth plus water make cold, air plus water make wet, air plus fire make hot. This is nuts. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:34:44.649265",
+                "endTime": "2022-08-27 15:39:58.709265"
+            }
+        },
+        {
+            "payload": {
+                "content": " And it dominated science for a long, long time. Because we know really earth is an aggregate. It's an aggregate of different minerals which are compounds. Water, as you know, is a compound H2O. Fire is the product of combustion. It doesn't even belong in this set. And air is a solution. It's a homogeneous mixture of nitrogen, oxygen, argon, rising levels of carbon dioxide, sulfur dioxide. And if you're next to an aluminum smelter, tetrafluoromethane. And so on and so forth. And finally this thing was knocked down. So we can look at this chart and go back to this one and say, now we can make the connections. All right. Here's the way the elements looked at the time of the American Revolution. The alchemists gave us arsenic, antimony, and bismuth in the 12th, 13th, 14th centuries. In 13th century India, there was zinc isolated. There's a tall zinc pillar still standing there. Platinum is an American metal. It was unknown to the Europeans. It was discovered when the Spanish came to the Americas. Actually, it's kind of ironic because plata is silver, so platina is sort of like a diminutive of silver, which in point of fact is backwards because silver melts at 962 degrees Celsius, platinum melts at 1768. It is nobler than silver. It has catalytic properties. It is even fashionable in jewelry now if you know how to work with it, because gold melts at 1063 and platinum melts at 1762. A lot of jewelers can't work with platinum. It's too high-melting. It's a fantastic metal. It's an American metal. [LAUGHTER] "
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:58.719265",
+                "endTime": "2022-08-27 15:41:40.549265"
+            }
+        },
+        {
+            "payload": {
+                "content": " It really is. I mean it's an American metal. I didn't make this up. It's true. And then we see these other elements. Discovered, discovered, discovered, discovered. Now we see modern science. So what does it mean, discovered 1766? There was no hydrogen before 1766? They found it? No. It means that Cavendish isolated it and documented its properties. Hence, it was discovered. Now I've been cheating here. This is actually lined up in a way that we already know, where the story is going to end with this, with the Periodic Table. I'm just lying them on the table in a way that makes it possible to anticipate. But this was the first table of elements that is of record, and this was by John Dalton, the English chemist, who put these in order of atomic mass. They're organized in ascending order of atomic mass. And he also started a system of chemical symbols. And you can see that iron has an \"I\" with a circle around it, and zinc has a \"Z\" with a circle around it. And the Swedish chemist Berzelius said, you know I don't think the French are going to like to use \"I\" with a circle around it for iron, or Germans aren't going to like that. We better choose something a little bit neutral. So they chose Latin. And that's why iron is \"Fe\" for ferrum, and gold is \"Au\" for arum, and so on. But this was the first attempt. John Dalton actually was a polymath. He was also working on vision, human vision, and he suffered from an affliction that is present in about 10% of men, which is red-green color blindness. And he did the original work on red-green color blindness. In fact, in some circles it is known as Daltonism. It's the same man, John Dalton. Other classifications. Dobereiner in Jena talked about triads. And if you took the atomic mass of chlorine, added it to the atomic massive of iodine divided by two, you get something that's not too far off the atomic mass of bromine. Newlands was a musician and he talked about octaves. So if you start here, if this is a diatonic scale, so this is C, D, E, F, G, A, B, C. So potassium lies an octave away from sodium. He was ridiculed. They said, have you considered perhaps putting the elements in alphabetical order? They were cruel. Scientists can be very cruel to new ideas. And, in fact, in your book this is some of Newlands work, and you can see to what extent it helps understand things. But the first proper organization came in 1869 with Mendeleyev, and also 1870 with Lothar Meyer in Tuebingen, the Periodic table as we know it. And this is the set of elements that were known at the time. And this is a page from the paper in which Mendeleyev published the Periodic Table. And here's the smoking gun right here. It's right here where he says, in this new system, in this proposed system, there are very many missing elements. Very many missing elements-- that was the key. Because he knew that even though arsenic has the atomic mass next highest to that of zinc not to put arsenic under aluminum, not to put it under silicon. It had more in common with phosphorus. So he put it under phosphorus, and so did Meyer. But what Mendeleyev did, which was a first, he said, there are missing elements here. There is an element that lies between silicon and tin, and I predict what it's mass will be. I predict what it's chemical formulation will be, how it will react with oxygen. The predictions. And how did he get this? Because he used to travel by train and he would sit in the train station on his trunk playing solitaire. And he'd be going down one suit, and then there'd be a gap. And he'd go down the other suit and he could go farther. And so the concept of, I know there should be an eight of spades here, but I have to stop at the nine. I've got a seven but there's something in there-- triggered his imagination and led him to have the courage to say, there are elements there and I will predict their properties. And when they were discovered how close he was is shocking. Absolutely shocking. So we'll get to that next day. But before you go I want to leave you with this. This is the portrait of Mendeleyev that you typically see. This man on in years, disheveled, sort of mad scientist look. Don't remember that. Look at this. This is Mendeleyev, age 35, when he proposed the Periodic Table of the Elements. OK. We'll adjourn. We'll see you on Friday."
+            },
+            "from": {
+                "userId": "PROFESSOR:",
+                "name": "PROFESSOR:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:41:40.559265",
+                "endTime": "2022-08-27 15:46:32.879265"
+            }
+        }
+    ]
+}

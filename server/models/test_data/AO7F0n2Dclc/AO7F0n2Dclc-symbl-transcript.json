@@ -1,0 +1,2137 @@
+{
+    "name": "new_processed_test_data\\AO7F0n2Dclc\\AO7F0n2Dclc",
+    "messages": [
+        {
+            "payload": {
+                "content": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or to view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. "
+            },
+            "from": {
+                "userId": "AI_NARRATOR",
+                "name": "AI_NARRATOR"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:14.821679",
+                "endTime": "2022-08-27 14:58:35.863679"
+            }
+        },
+        {
+            "payload": {
+                "content": " If your have any opinions about consciousness. There is one problem in the artificial intelligence people, is there's a lot of pretty smart people like Steve Pinker and others who think that the problem of consciousness is maybe the most important problem no matter what we do in artificial intelligence. Anybody read Pinker? I can't figure out what his basic view is. But there's a feeling that if you can't solve this all important mystery, then maybe whatever we build will be lacking in some important property. There was another family of AI skeptics, like Penrose, who's a physicist and a very good physicist indeed, who wrote more than I think three different books arguing that AI is impossible because-- I'm trying to remember what he thought was missing from machines. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 14:58:35.873679",
+                "endTime": "2022-08-27 15:00:11.535679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Quantum mechanics. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:00:11.545679",
+                "endTime": "2022-08-27 15:00:13.311679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Quantum mechanics was one and Godel's theorem, incompleteness was another. And for example, if you try to prove Godel's theorem in any particular logic, you'll find some sort of paradox appearing where if you try to formalize the proof, you can't prove it in the logical system you're proving it about. I forget what that's called. So there are these strange logical and semi-philosophical problems that bother people. And Pinker's particular problem is, he doesn't see how you could make a machine be conscious. And in particular, he doesn't see how a machine could have a sense called qualia, which is having a different experience from seeing something red and from seeing something green. | you make a machine with two photo cells and put a green filter on one and a red filter in front of the other and show them objects of different colors, then they'll respond differently and you can get the machine to print out green and red and so forth. And he's worried that no matter what you do, the machine will only have some logical descriptions of these things, and it won't have a different experience from the two things. So I'm not going to get into that. I wonder if Word is going to do this all the time until I kill something. What if I put it off screen? That's a good way to deal with philosophical problems, just put them in back where you can't see them. Oh, the picture disappeared. That's really annoying. Everything disappeared. OK, think of a good question while I reboot this. Whoops. Well, how about pressing-- that did it. Whoops. That's the most mysterious problem. Does anybody have an explanation of why computers take the same amount of time to reboot, even though they're 1,000 times faster than they were? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:00:13.321679",
+                "endTime": "2022-08-27 15:03:39.081679"
+            }
+        },
+        {
+            "payload": {
+                "content": " They have to load 1,000 times more stuff nowadays. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:03:39.091679",
+                "endTime": "2022-08-27 15:03:43.161679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yes, but why can't it load the things that were running last time? For some reason, they feel they have to load everything. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:03:43.171679",
+                "endTime": "2022-08-27 15:03:52.971679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Maybe there is a certain amount of time that they think humans are willing to wait, so therefore, they will load as much as they can during that time. Maybe that might be it. I think if they could, they would upload even more, but they can't because that's how the human patience. And so they always run out of that one. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:03:52.981679",
+                "endTime": "2022-08-27 15:04:10.901679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Does the XO take time to do? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:10.911679",
+                "endTime": "2022-08-27 15:04:16.681679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yes, it takes several seconds. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:16.691679",
+                "endTime": "2022-08-27 15:04:20.451679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So it keeps it in memory. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:20.461679",
+                "endTime": "2022-08-27 15:04:24.391679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It doesn't have it organized. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:24.401679",
+                "endTime": "2022-08-27 15:04:29.121679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'm serious. I guess it would. But it doesn't cost much to keep a dynamic memory refreshed for a month or two. If anybody can figure it out, I'd like to know because it seems to me that it should be easy to make Unix remember what state it was in. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:04:29.131679",
+                "endTime": "2022-08-27 15:05:01.841679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, if it remembered exactly what state it was in, it wouldn't be very useful. We'd have to change the statement every time. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:01.851679",
+                "endTime": "2022-08-27 15:05:09.761679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, I mean it could know which applications you've been running or something. Anyway it's a mystery to me. For example, in time sharing systems, you have many users. And the time shared system keeps their state working fine. Let's see if this is actually recovered from its bug. Maybe one of those forms of Word doesn't work. That's a bad-- "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:05:09.771679",
+                "endTime": "2022-08-27 15:06:04.086679"
+            }
+        },
+        {
+            "payload": {
+                "content": " When computers hibernate and stuff, they say if they have to read the disk, it takes generally on a modern system 30 to 45 seconds just to load its entire memory content from disk. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:04.096679",
+                "endTime": "2022-08-27 15:06:16.833679"
+            }
+        },
+        {
+            "payload": {
+                "content": " That could be the trouble. Why can't it load the part that it needs? But never mind. I'm sure that there's something wrong with this all. But now I've got another bug. That one seems better. Nope. Sorry about all this. I might have to use the backup. Anyway, I'll talk about consciousness again. But I'm assuming that you've read all or most of chapter 4. And we could start out with this kind of question, which is I think of evolution as-- is this working? I think of us as part of the result of a 400 million year-- 400 mega year process. And because the first evidence for forms of life occurred about 400 million years ago, which is pretty long. The earth appears to be about 4 billion years. So life didn't start up right away. And so there was a 100 million years of the first one celled animals. Maybe there were some million years of molecules that didn't leave any trace at all. So before there was a cell membrane, you could imagine that there was a lot of evolution. But nobody has posed a plausible theory of what it could have been. There are about five or six pretty good theories of how life might have started. There had to be some way of making a complex molecule that could make copies of itself. And one standard theory is that if you had just the right kind of muddy surface, you could get some structure that would form on that, peel away, and leave an imprint. But it sounds unlikely to me because those molecules would have been much smaller than the grains of mud. But who knows? Anyway that's 100 million years of one celled things. And then there's 100 million years of things leading to the various invertebrates, and 100 million years of fish, reptile like things and mammals. And we're at the very most recent part of that big fourth collection of things. I think there's a-- whoops. Is this not going to work? All right, that's my bug, not MIT's. So humans development, splitting off from something between a chimpanzee and a gorilla, has a history of about 4 Million years. The dolphins developed, which have very large brains somewhat like ours in that they have a big cortex, developed before that. And I forget, does anybody know? My recollection is that they stopped developing about 4 million years ago. So the dolphins brains got to a certain size. The fossil ones of I think about 4 million years ago are comparable to the present ones. So nobody knows why they stopped. But there are a lot of reasons why it's dangerous to make a larger brain. And especially if you're not a fish, because it would be slower and hard to get around and you would have to eat more and that's a bad combination. And other little bugs like taking longer to mature. So if there are any dangers, the danger of being killed before you reproduce is a big hand handicap in evolution. In fact, if you think of the number of generations of humans since presumably they've been living for sort of 20 year lifespan for most of that 4 million years, like other primates. Compare that to bacteria. Some bacteria can reproduce every 20 minutes instead of 20 years or 10 years or whatever it is. So the evolution of smaller animals is vastly faster, in fact, by factors of order of hundreds. And so generally these big slow long-lived animals have huge evolutionary disadvantages. Anyway, here's four major ones. So what made up for that and that's why chapter 4. I don't think I wrote anything about this in chapter 4. But that's why it's interesting to ask why are there so many ways to think and how did we develop them? And a lot of that comes from this evolutionary problem that as you got smarter and heavier, it got more and more difficult to survive. So your collection of resourcefulness had to keep track. Well, in that four billion years this only happened once. Well, the octopuses are pretty smart. And the birds, just consider how much a bird does with its sub pea sized brain. But it seems to me that it's hard to generalize from the evolution of humans to anything else because-- because what? We must have been unbelievably lucky. William Calvin has an interesting book. He's a neurologist who writes pretty interesting things about the development of intelligence. And he attributes a lot of human superiority to a series of dreadful accidents, namely five or six ice ages, in which the human population was knocked down, nobody knows to how small. But it could have been as small as tens of thousands. And we just squeaked by. And only the very, very, very smartest of them managed to get through a few hundred years of terrible weather and shortage of food and so forth. So that's-- anybody remember the title of-- have you read any William Calvin? Interesting neurologist out in California somewhere. There is very small handful of people, including William Calvin, that I think have good ideas about intelligence in general and how it evolved and so forth. And Aaron Sloman is a philosopher at the University of Birmingham in England, who has theories that are maybe the closest to mine. And he's a very good technical philosopher. So if you're interested in anything about AI, if you just search for Aaron Sloman, he's the only one. So Google will find him instantly for you. And he's got dozens of really deep essays about various aspects of intelligence and problem solving. The only other philosopher I think is comparable is Daniel Dennett. But Dennett is more concerned with classical philosophical issues and a little less concerned with exactly how does the human mind work. So to put it another way Aaron Sloman writes programs and Dennett doesn't. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:06:16.843679",
+                "endTime": "2022-08-27 15:17:43.981679"
+            }
+        },
+        {
+            "payload": {
+                "content": " He's basically a classical philosopher. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:43.991679",
+                "endTime": "2022-08-27 15:17:47.741679"
+            }
+        },
+        {
+            "payload": {
+                "content": " What's that? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:47.751679",
+                "endTime": "2022-08-27 15:17:49.324679"
+            }
+        },
+        {
+            "payload": {
+                "content": " If you're in an argument with a classical philosopher about issues in classical philosophy, Dennett's arguments can back you. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:49.334679",
+                "endTime": "2022-08-27 15:17:56.931679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. But I'm not sure we can learn very much. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:17:56.941679",
+                "endTime": "2022-08-27 15:18:00.599679"
+            }
+        },
+        {
+            "payload": {
+                "content": " No. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:18:00.609679",
+                "endTime": "2022-08-27 15:18:03.971679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I love classical philosophy. But the issues they discuss don't make much sense anymore. Philosophy is where science has come from. But philosophy departments keep teaching what they were. What chapter does this story first appear in? Joan is part way across the street. She's thinking about the future. She sees and hears a car coming and makes a quick decision about whether to back up or run across. And she runs across. And I have a little essay about the kinds of issues there, if you ask what was going on in Joan's mind? This is a short version of a even larger list that I just got tired of writing. And I don't know how different all of these 20 or 30 things are. But when you see discussions of consciousness in Pinker and everyone except Dennett and Sloman, they keep insisting that consciousness is a special phenomenon. And my view is that consciousness is-- there certainly a lot of questions to ask. But there isn't one big one. I think Pinker very artistic-- art-- I can't think of the right word. He says this is the big central problem. What is this amazing thing called consciousness. And he calls that the hard question of psychology. But if you look at this and say, how did she select the way to choose among options? Or how did she describe her body's condition? Or how did she describe her three most noticeable recent mental states or whatever? Each of those are different questions. And if you look at it as from the point of view of a programmer, you could say, how could a program that's keeping push down lists and various registers and caches and blah, blah, blah, how would a program do this one? How do you think about what you've recently done? Well, you must have made a representation of it. Maybe you had a push down list and we're able to back up and go to the other state. But then the state of you that's wondering how to describe that other state wouldn't be there anymore. So it looks like you need to have two copies of a process or some way to timeshare the processor or whatever. And so if you dwell on this kind of question for a while, then you say there's something wrong with Pinker. Yes, he's talking about a very hard problem. But he's got blurred maybe 20, 30, 100, I don't know, pretty hard problems. And each of these is fairly hard. But on the other hand, for each of them, you can probably think of a couple of ways to program something that does something a little bit like that. How do you go from a verbal description to block supporting a third block to a visual image if you have one? Well, you could think of a lot of ways those-- I didn't say what shape the blocks were and so forth. And you can think of your mind. One part of your mind can see the other part trying to figure out which way to arrange those blocks. Maybe all three blocks are just vertically like this, this and this. That's two blocks supporting a third block. And so instead of saying consciousness is the hard problem, you could say consciousness is 30 pretty hard problems. And I bet I could make some progress on each of them if I spent two or three years or if I had 30 students spending or whatever. Actually, that's what you really want to do is fool some professors into thinking about your problem when you're a student That's the only way to actually get anything done. Well, I'm being a little dismissive. And another thing that Pinker and the other people of his ilk, the philosophers who try to find a central problem, do is say, well, there's another hard problem which is the problem called qualia, which is what is the psychological difference between something that's red and green? And I usually feel uncomfortable about that because I was in such a conversation when I discovered that Bob Fono who is one of our professors was color blind. And he didn't have that qualia, so sort of embarrassing. In the Exploratorium, how many of you have been at the-- a few. Maybe the best science museum in the world, and somewhere near San Francisco. But one trouble or one feature of it, it was designed by Frank Oppenheimer, who is Robert Oppenheimer's brother. He quite a good physicist. And I used to hang around there when I spent a term at Stanford. And it had a lot of visual exhibits with optical illusions and colored lights doing different things and changes of perspective and a lot of binocular vision tricks. And there's a problem with that kind of exhibit-- we have them here in the science museum too-- which is that about 15% or 20% of people don't see stereo very well. And at least 10% don't view stereo images at all. And some of these is because one eye's vision is very bad. But actually if one eye is 20/20 and the other eye is 20/100, you see stereo fine anyway. It's amazing how blurred one of the images can be. Then some people just can't fuse the images. They don't have separate eye control or whatever. And a certain percentage don't fuse stereo for no reason that anybody can measure and so forth. But that means that if a big family is looking at this exhibit, probably one of them is only pretending that he or she can see the illusion. And I couldn't figure out any way to get out of that. But I thought if you make a museum, you should be sure to include some exhibits for the-- what's the name for a person who only-- is there a name for non-fusers? When you get a pilot's license, you have to pass a binocular vision test, which seems awfully pointless to me, because if you need stereo, which only works for about 30 feet, then you're probably dead anyway, maybe the last half second of landing. So anyway, so much for the idea of consciousness itself. You might figure out something to say about the difference between blue and green and yellow and brown and so forth. But why is that really more important than the difference between vanilla and chocolate? Why do the philosophers pick on these particular perceptual distinctions as being fundamentally hard mysteries whereas they don't seem to-- they're always picking on color. Beats me. So what does it mean to say-- going back to that little story of crossing the street-- to say that Joan is conscious of something? And here's a little diagram of a mind at work. And I picked out four kinds of processes that are self models, mock whatever you're doing. There are probably a few parts of your brain that are telling little stories or making visual representations or whatever, showing what you've been doing mentally or physically or emotionally or whatever distinctions you want to draw. Different parts of your brain are keeping different historical narrations and representations maybe over different time scales. And so I'm imagining. I'm just picking on four different things that are usually happening at any time in your mind. And these two diagrams are describing or representing two mental activities. One of which is actually doing something. You make some decision to get something done and you have to write a program and start carrying it out. And the program involves descriptions of things that you might want to change, and looking at records of what usually happens when you do this so you can avoid accidents. So one side of your mind, which is sort of performing actions, could be having four processes. And I'm using pretty much the same-- they're not quite. Wonder why I changed one and not the others. And then there's another part of your mind that's monitoring the results of these little actions as you're solving a problem. And those involve pretty much the same kinds of different processes, making models of how you've changed yourself or deciding what to remember. As you look at the situation that you're manipulating, you notice some features and you change your descriptions of the parts so that you were-- in other words, in the course of solving a problem, you're making all sorts of temporary records and learning little things, stuffing them away. So the processes that we lump into being conscious involve all sorts of different kinds of activities. Do you feel there's a great difference between the things you're doing that you're conscious of and the often equally complicated things that you're doing that you can say much less about? How do you recognize the two? Do you say I've noticed this interval and that interval, and then in the next four measures we swap those intervals and we put this one before that instead of after? If you look at Twinkle, Twinkle, Little Star, there's a couple of inversions. And if you're a musician, you might, in fact, be thinking geometrically as these sounds are coming in and processing them. Some composers know a great deal about what they're doing. And some don't have the slightest idea, can't even write it down. And I don't know if they produce equally complicated music. What's this slide for? Anyway, when you look at the issues that philosophers discuss like qualia and self-awareness, they usually pick what seem to be very simple examples like red and green. But they don't-- but what am I trying to say? But someone like Pinker a philosopher talking about qualia tend say there's something very different about red and green. What is the difference? I'm just saying, why did I have a slide that mentioned commonsense knowledge? Well, if you've ever cut yourself, it might hurt. And there's this red thing. And you might remember, unconsciously, for the rest of your life that something red signifies pain and uncertainty and anxiety and injury and so forth. And very likely you don't have any really scary associations with green things. So when people say the quality of red, it's so different from green. Well maybe it's like the differences over being stabbed or not. And it's not very subtle. And philosophically it's hard to think of anything puzzling about it. You might ask, why is it so hard to tell the difference between pleasure and pain or to describe it? And the answer is you could go on for hours describing it in sickening and disgusting detail without any philosophical difficulty at all. So what do you think of redness? You think of tomatoes and blood. And what are the 10 most common things? I don't know. But I don't see that in the discussion of qualia. And the qualia of philosophers try to say there's something very simple and indescribable and absolute about these primary sensations. But in fact, if you look at the visual system, there are different cells for those, which are sensitive to different spectra. But the color of a region in the visual field does not depend on the color of that region, so much as the difference between it and other regions near it. So I don't have any slides to show that. But the first time you see some demonstrations of that, it's amazing because you always thought that when you look at a patch of red, you're seeing red. But if the whole visual field is red slightly, you hardly can tell at all after a few seconds what the background color is. So I'm going to stop talking about those things. Who has an idea about consciousness and how we should think about it? Yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:18:03.981679",
+                "endTime": "2022-08-27 15:38:54.381679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Maybe it's just the K-lines that are in our brain, so the K-lines are different for an average person. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:38:54.391679",
+                "endTime": "2022-08-27 15:39:06.751679"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's interesting. If you think of K-lines as gadgets in your brain which-- each K-line turns on a different activity in a lot of different brain centers perhaps. And I'm not sure what-- "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:06.761679",
+                "endTime": "2022-08-27 15:39:31.973679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So like at a moment you have a set of K-lines that are active. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:31.983679",
+                "endTime": "2022-08-27 15:39:37.766679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right, but as you mentioned in different people, they're probably different. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:37.776679",
+                "endTime": "2022-08-27 15:39:41.671679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, yeah. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:41.681679",
+                "endTime": "2022-08-27 15:39:42.901679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So when you say red and I say red, how similar are they? That's a wonderful question. And I don't know what to say. How would we measure that? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:42.911679",
+                "endTime": "2022-08-27 15:39:54.691679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I know I can receive some-- so, for example, a frog can receive some like with his eyes like pixels. And like these structures are the same. Like we can perceive some automatic things. And like this would be the same for us. But when we're growing, we probably create these K-lines for like red or green. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:39:54.701679",
+                "endTime": "2022-08-27 15:40:25.506679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. The frog probably has them built in. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:40:25.516679",
+                "endTime": "2022-08-27 15:40:27.966679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. And probably it's very similar because we have centers in our brain. So, for example, for vision, we have a center. And probably like things that are close by will have a tendency to blend together. And so red would be similar to each one of us because it's very low level concept. But if you go higher, it probably, for example, for numbers to have different representation than red. I think there's started off by learning that we represent numbers by saying, like there is another person that presents just by seeing the number. And then you got to see it. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:40:27.976679",
+                "endTime": "2022-08-27 15:41:19.611679"
+            }
+        },
+        {
+            "payload": {
+                "content": " He has an interesting idea that maybe in the first few layers of visual circuits, we all share. They're pretty similar. And so for the primary-- for the first three or four levels of visual processing, the kinds of events that happen for when red and green are together or blue and yellow. Those are two different kinds of events. But the processes in for most of us are almost identical. The trouble is when you get to the level of words that might be 10 or 20 processes away from that. And when you say the word red, then that has probably closer connections to blood and tomatoes than two patches of-- anyway it's a nice-- "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:41:19.621679",
+                "endTime": "2022-08-27 15:42:25.641679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So like animals still have most of this because they don't have the K-lines. For example, monkeys or dogs, but when you filter, these animals doesn't have the ability to break K-line out of consciousness. And so you will have some kind of-- with the animals you have like less social visualization or linear function representation. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:42:25.651679",
+                "endTime": "2022-08-27 15:43:01.371679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yes, well, I guess if you're make discrimination tests, then people would be very similar in which color patterns. Did I mention that some fraction of women have two sets of red cones? You know, there are three colors. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:01.381679",
+                "endTime": "2022-08-27 15:43:33.151679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's between the red and green. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:33.161679",
+                "endTime": "2022-08-27 15:43:35.301679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I thought it was very close to the red, though. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:35.311679",
+                "endTime": "2022-08-27 15:43:38.111679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Very close to red. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:38.121679",
+                "endTime": "2022-08-27 15:43:40.631679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So some women have four different primary colors. And do you know what fraction it is? I thought it was only about 10% of them. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:40.641679",
+                "endTime": "2022-08-27 15:43:52.421679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, it's 5% of people, 10% of women. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:52.431679",
+                "endTime": "2022-08-27 15:43:57.591679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I thought it's only women. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:57.601679",
+                "endTime": "2022-08-27 15:43:59.591679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It might be. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:43:59.601679",
+                "endTime": "2022-08-27 15:44:00.511679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh, well, "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:00.521679",
+                "endTime": "2022-08-27 15:44:01.611679"
+            }
+        },
+        {
+            "payload": {
+                "content": " We could look it up. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:01.621679",
+                "endTime": "2022-08-27 15:44:08.981679"
+            }
+        },
+        {
+            "payload": {
+                "content": " One of my friends has a 12 color printer. He says it costs hundreds of dollars to replace the ink. And I can't see any difference. On my printer, which is a tectonics phaser, this is supposed to be red. But it doesn't look very red to me. Does that look red to any of you? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:08.991679",
+                "endTime": "2022-08-27 15:44:45.401679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Reddish. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:45.411679",
+                "endTime": "2022-08-27 15:44:46.151679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:46.161679",
+                "endTime": "2022-08-27 15:44:47.168679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Purple brownish. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:47.178679",
+                "endTime": "2022-08-27 15:44:51.741679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's a great printer. It has-- you feed it four bars of wax as your solid and it melts them and puts them on a rotating drum. And the feature is that it stays the same for years. But it's not very good. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:44:51.751679",
+                "endTime": "2022-08-27 15:45:16.381679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It might look red on different paper. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:45:16.391679",
+                "endTime": "2022-08-27 15:45:19.911679"
+            }
+        },
+        {
+            "payload": {
+                "content": " No, I tried it. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:45:19.921679",
+                "endTime": "2022-08-27 15:45:22.721679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'm sure if you put it up to a light bulb, we could make it all sorts of colors. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:45:22.731679",
+                "endTime": "2022-08-27 15:45:27.054679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think what I'll do is-- I saw a phaser on the third floor somewhere. Maybe I'll borrow their red one and see if it's different from mine. Well, let me conclude because I-- I think this really raises lots of wonderful questions. And I wonder if we wouldn't-- does this make things too easy? I think what happens in the discussions of the philosophers like Pinker and most of the others is that they feel there's a really hard problem, which is what is the sense of being? What does it mean to have an experience, to perceive something? And how they want to argue that somehow-- they are saying they can't imagine how anything that has an explanation, how any program or any process or any mechanical system, could feel pain or sorrow or anxiety or any of these things that we call feelings. And I think this is a curious idea that is stuck in our culture, which is that if something is hard to express, it must be because it's so different from anything else, that there's no way to describe it. So if I say, exactly how does it feel to feel pain? Well, if you look at literature, you'll see lots of synonyms like stabbing or griping or aching or you might find 50 or-- I mentioned this in first lecture I think, that there are lots of words about emotional or-- I don't know what to call them-- states. But that doesn't mean that they're simple. That means-- The reason you have so many words for describing simple states, feelings, and so forth is that not that they are simple and a lot of different things that have nothing to do with one another, but that each of those is a very complicated process. What does it mean when something's hurting? It means it's hard to get anything done. I remember when I first got this insight because I was driving down from Dartmouth to Boston and I had a toothache. And it was really getting very bad. That's why I was driving down because I didn't know what to do and I had a dentist here. And after a while, it's sort of fills up my mind. And I'm saying this is very dangerous because maybe I shouldn't be driving. But if I don't drive, it will get worse. So I really should drive very fast. So what is pain? Pain is a reaction of some very smart parts of your mind to the malfunctioning of other very smart parts. And to describe it you would have to have a really big theory of psychology with more parts than in Freud or in my Society Of Mind, book which has only about 300 pages, each of which describes some different aspect of thinking. So if something takes 300 pages to describe, this fools you into thinking, oh, it's indescribable. It must be elemental. It couldn't be mechanical. It's too simple. If pain were like the four gears in a differential. Well, most humans don't-- if you show them a differential, and say what happens if you do this? The average intelligent human being is incapable of saying, oh, I see, this will go that way. A normal person can't understand those four little gears. So, of course, pain seems irreducible, because maybe it involves 30 or 40 parts and another 30 or 40 of your little society of mind processes are looking at them. And none of them know much about how the others work. And so the way you get your PhD in philosophy is by saying, oh, I won't even try. I will give an explanation for why I can't do it, which is that it's too simple to say anything about. That's why the word qualia only appears once in The Emotion Machine book. And a lot of people complained about that. They said, why don't you-- why doesn't he-- they say, you should read, I forget what instead. Anyway. I don't think I have anything else in this beautiful set of-- how did it end? If you look on my web page, which I don't think I can do. Oh, well it will probably-- there. I just realized I could quit Word. Well, there's a paper called \"Causal Diversity.\" And it's an interesting idea of how do you explain-- how do you answer questions? If there's some phenomenon going on and something like being in pain is a phenomenon, what do you want to say about it? And here's a little diagram that occurred to me once, which is what kinds of sciences or what kinds of disciplines or ways of thinking do you use for answering different kinds of questions? So I got this little matrix. And you ask, suppose something happens and think of it in terms of two dimensions. Namely the world is in a certain stage. Something happens and the world gets into a different state. And you want to know why things change? Like if I stand this up-- oh, I can even balance it. I don't know. No I can't. Anyway, what happened there? It fell over. And you know the reason. If it were perfectly centered, it might stand there forever. Or even if it were perfectly balanced, there's a certain quantum probability that its position and momentum are conjugate. So even if I try to position it very precisely, it will have a certain momentum and eventually fall over. It might take a billion years or it might be a few seconds. So if we take any situation, we could ask how many things are affecting the state of this system and how large are they? So how many causes, a few causes or a lot? And what are the effects of each of those? So a good example is a gas, if you add a cylinder and a piston. And if it's this size, then there would probably be a few quadrillion or trillion anyway molecules of air, mostly oxygen and nitrogen and argon there. And every now and then, they would all happen to be going this way instead of this way. And the piston would move out. And it probably wouldn't move noticeably in a billion years. But eventually it would. But anyway, there is a phenomenon where there is a very large number of causes, each of which has a very small effect. And what kind of science or what kind of computer program or whatever would you need to do to predict what will happen in each of those situations? So if there's a very few causes and their effects are small, then you just add them up. Nothing to it. If there is a very large number of causes and each has a large effect, then go home. There's nothing to say because any of those causes might overcome all the others. So I found nine states. And if there are a large number of small causes, then neural networks and fuzzy logic might be a way to handle a situation like that. And if there is a very small number of large causes, then some kind of logic will work. Sometimes there are two causes that are XOR-ed. So if they're both on, nothing happens. If they're both off, nothing happens. And if just one is on, you get a large effect. And you just say it's X or Y, and analogies and example-based reasoning. So these are where AI is good, I think. And for lots of everyday problems like the easy ones or large numbers of small effects, you can use statistics. And small numbers of large effects, you can use common sense reasoning and so forth. So this is the realm of AI. And of course, it changes every year as you get better or worse at handling things like these. If you look at artificial intelligence today, it's mostly stuck up here. There are lots of places you can make money by not using symbolic reasoning. And there are lots of things, which are pretty interesting problems here. And of course, what we want to do is get to this region where the machines start solving problems that people are no good at. So who has a question or a complaint? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 15:45:27.064679",
+                "endTime": "2022-08-27 16:00:50.744679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I have a question. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:00:50.754679",
+                "endTime": "2022-08-27 16:00:51.911679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Great. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:00:51.921679",
+                "endTime": "2022-08-27 16:00:52.831679"
+            }
+        },
+        {
+            "payload": {
+                "content": " That consciousness again. Would it have been easier-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:00:52.841679",
+                "endTime": "2022-08-27 16:00:58.709679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Is this working? No. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:00:58.719679",
+                "endTime": "2022-08-27 16:01:01.231679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It goes to the camera. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:01:01.241679",
+                "endTime": "2022-08-27 16:01:03.281679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:01:03.291679",
+                "endTime": "2022-08-27 16:01:04.467679"
+            }
+        },
+        {
+            "payload": {
+                "content": " You can hand it to him. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:01:04.477679",
+                "endTime": "2022-08-27 16:01:08.641679"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK, well I'll try to repeat it. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:01:08.651679",
+                "endTime": "2022-08-27 16:01:10.824679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Would it have bit easier if we never created the suitcase, as you put it in the papers, the suitcase of consciousness, and just kept those individual concepts? The second part of that question is, how do we know this is what they had in mind when they initially created the word consciousness? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:01:10.834679",
+                "endTime": "2022-08-27 16:01:33.371679"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's a nice question. Where did the word consciousness come from? And would we be better off if nobody had that idea? I think I talked about that a little bit the other day that there's the sort of legal concept of responsibility. And if somebody decided that they would steal something, then they become a thief. And so it's a very useful idea in society for controlling people to recognize which things people do are deliberate and involve some reflection and which things are because they're learnable. It's a very nice question. Would it be better if we had never had the word? I think it might be better if we didn't have it in psychology. But it's hard to get rid of it for social reasons, just because you have to be able to write down a law in some form that people can reproduce. I'm trying to think of a scientific example where there was a wrong term that-- can anybody think of an example of a concept that held science back for a long time? Certainly the idea that astronomical bodies had to go in circles, because the idea of ellipses didn't occur much till Kepler. Are there ellipses-- Euclid knew about ellipses, didn't he? Anybody know? If you take a string and you put your pencil in there and go like that, that's a terrible ellipse. people knew about ellipses. Certainly Kepler knew it, but didn't invent it. So I think the idea of free will is a social idea. And well, we certainly still have it. Most educated people think there is such a thing. It's not quite as-- just as most people think there's such a thing as consciousness, instead of 40 fuzzy sets. How many of you believe in free will? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:01:33.381679",
+                "endTime": "2022-08-27 16:05:15.191679"
+            }
+        },
+        {
+            "payload": {
+                "content": " My free will. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:05:15.201679",
+                "endTime": "2022-08-27 16:05:19.386679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's the uncaused cause. Free will means you can do something for no reason at all. And therefore you're terribly proud of it. It's a very strange concept. But more important, you can blame people for it and punish them. If they couldn't help doing it, then there's no way you can get even. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:05:19.396679",
+                "endTime": "2022-08-27 16:05:59.811679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It has the implication that there is a choice. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:05:59.821679",
+                "endTime": "2022-08-27 16:06:03.078679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. I suppose for each agent in the brain, there's a sort of little choice. But it's it has several inputs. but I don't think the word choice means anything. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:03.088679",
+                "endTime": "2022-08-27 16:06:29.023679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, you have the relationship between free will and randomness. Certainly there are some things that start as random processes and turn out to be causes. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:29.033679",
+                "endTime": "2022-08-27 16:06:42.471679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, random things have lots of small causes. So random is over here, many small causes. And so you can't figure out what will happen, because even if you know 99 of those causes, you don't know what the 100th one is. And if they all got XOR-ed by a very simple deterministic logic, then you're screwed. So but again, it's illegal the freedom of will is. It just doesn't make sense to punish people for things they didn't decide to do, if it happened in a part of the nervous system that can't learn. If they can't learn, then you can put them in jail so that they won't be able to do it again. But you'd have to-- but the chances are it's not going to change the chance that they'll try to do it if it's in fact a random. Did you have-- yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:06:42.481679",
+                "endTime": "2022-08-27 16:08:01.801679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So machine learning has been on for a long time and like processors are really fast right now, like computers are really fast. Do you believe there is some mistake like people that do research should learn? I mean the-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:08:01.811679",
+                "endTime": "2022-08-27 16:08:23.001679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, machine learning is to me it's an empty expression. Do you mean, are they doing some Bayesian reasoning or-- I mean nobody does machine learning. Each person has some particular idea about how to make a machine improve its performance by experience. But it's a terrible expression. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:08:23.011679",
+                "endTime": "2022-08-27 16:08:49.961679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So like, statistical methods like improving methods to machine learning to the machine to infer like what point will belong to a data set or whatever? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:08:49.971679",
+                "endTime": "2022-08-27 16:09:07.001679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Sure. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:09:07.011679",
+                "endTime": "2022-08-27 16:09:10.031679"
+            }
+        },
+        {
+            "payload": {
+                "content": " People that do that, do you think they are doing some mistake? Like do you think there would be more advance into representing intelligence in another way and try to program that? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:09:10.041679",
+                "endTime": "2022-08-27 16:09:26.201679"
+            }
+        },
+        {
+            "payload": {
+                "content": " The problem is this. Suppose you have-- here's some system that has a bunch of gadgets that affect each other, just a lot of interactions and dependencies. And you want to know if it's in a certain state, what will be the next state. So suppose you put a lion and a tiger in a cage. And how do you predict what will happen? Well, what you could do is if you've got a million lions and a million tigers and a million cages, then you could put a lion and a tiger in each cage. And then you could say the chances that the tiger will win is 0.576239 because, that's how many cases the tiger won. And the lion will win-- I don't know-- that many. So to me, that's what statistical learning is. It has no way to make smart hypotheses. So to me, anybody who's working on statistical learning is very smart. And he's doing what we did in 1960 and quit, 50 years out of date. What you need is a smart way to make a hypothesis about what's going on. Now if nothing's going on except rounding and motion, then statistical learning is fine. But if there's an intricate thing like a differential, which is this thing and that thing summing up in a certain way, how do you decide to find the conditional probability of that hypothesis? And so in other words, you can skim the cream off the problem by finding the things that happened with high probability, but you need to have a theory of what's happening in there to conjecture that something of low probability on the surface will happen. And I just-- So here's the thing. If you have a theory of statistical learning, then your job is to find an example that it works on. It's the opposite of what you want for intelligence, which is, how do you make progress on a problem that you don't know the answer to or what kind of answer? So how did they generate? I don't know. Are you up on-- how do the statistical Bayesian people decide which conditional probability to score? Suppose these 10 variables, then there's 2 to the 10th or 1,000 conditional probabilities to consider. If there's 100 variables-- and so you can do it. 2 to the 10th is nothing. And a fast computer can do many times 1,000 things per second. But suppose it is 100 variables 2 the 100 is 10 to the 30. No computer can do that. So I'm saying statistical learning is great. It's so smart. How do-- I'm repeating myself. Anybody have an argument about that? I bet several of you are taking courses in statistical learning. What did they say about that problem? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:09:26.211679",
+                "endTime": "2022-08-27 16:14:07.671679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Trial and error. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:14:07.681679",
+                "endTime": "2022-08-27 16:14:09.753679"
+            }
+        },
+        {
+            "payload": {
+                "content": " What? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:14:09.763679",
+                "endTime": "2022-08-27 16:14:10.586679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Largely trial and error. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:14:10.596679",
+                "endTime": "2022-08-27 16:14:12.003679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, but what do you try when it's 10 to 30th? Yeah. So do they say, I quit, this theory is not going to solve hard problems. So once you admit that, and say I'm working on something that will solve lots of easy problems, more power to you. But please don't teach it to my students. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:14:12.013679",
+                "endTime": "2022-08-27 16:14:41.578679"
+            }
+        },
+        {
+            "payload": {
+                "content": " What do you think about the relationship of statistical inference methods? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:14:41.588679",
+                "endTime": "2022-08-27 16:14:45.678679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I can't hear you. So in other words, the statistical learning people are really in this place, and they're wasting our time. However, they can make billions of dollars solving easy problems. There's nothing wrong with it. It just has no future. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:14:45.688679",
+                "endTime": "2022-08-27 16:15:15.008679"
+            }
+        },
+        {
+            "payload": {
+                "content": " What do you think about the relationship between statistical learning methods? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:15.018679",
+                "endTime": "2022-08-27 16:15:18.121679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Of what? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:18.131679",
+                "endTime": "2022-08-27 16:15:19.321679"
+            }
+        },
+        {
+            "payload": {
+                "content": " The relation between statistical learning method and maybe something-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:19.331679",
+                "endTime": "2022-08-27 16:15:22.641679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I couldn't get the fourth one. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:22.651679",
+                "endTime": "2022-08-27 16:15:24.631679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Relationship of statistical-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:24.641679",
+                "endTime": "2022-08-27 16:15:26.921679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Statistical, oh. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:26.931679",
+                "endTime": "2022-08-27 16:15:28.371679"
+            }
+        },
+        {
+            "payload": {
+                "content": " --to more abstract ideas like boosting or something where the method they are using at one and they-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:28.381679",
+                "endTime": "2022-08-27 16:15:37.541679"
+            }
+        },
+        {
+            "payload": {
+                "content": " There's a very simple answer for that. It's inductive probability. There is a theory. I wonder if anybody could summarize that nicely. Have you tried? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:15:37.551679",
+                "endTime": "2022-08-27 16:16:06.511679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Basically-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:16:06.521679",
+                "endTime": "2022-08-27 16:16:08.091679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I can try it next time. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:16:08.101679",
+                "endTime": "2022-08-27 16:16:10.801679"
+            }
+        },
+        {
+            "payload": {
+                "content": " You should assume that everything is generated by a program. And your prior over the space possible program should be the description length of the program. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:16:10.811679",
+                "endTime": "2022-08-27 16:16:22.816679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Suppose there is a set of data, then what's the shortest description you can make of it? And that will give you a chance of having a very good explanation. Now what Solomonoff did was say, suppose that something's happened, and you make all possible descriptions of what could have happened, and then you take the shortest one, and see if that works and see what it predicts will happen next. And then you take-- say, it's all binary, then there's two possible descriptions that are one bit longer. And maybe one of them fits the data. And the other doesn't. So you give that one half the weight. And so Solomonoff imagines an infinite sum where you take all possible computer programs and see which of them produce that data set. And if they produce that data set, then you run the program one more step and see what it does. In other words, suppose your problem is you see a bunch of data about the history of something, like what was the price of a certain stock for the last billion years, and you want to see will it go up or down tomorrow. Well, you make all possible descriptions of that data set and weight the shortest ones much more than the longer descriptions. So the trouble with that is that you can't actually compute such things because it's sort of an uncomputable. However, you can use heuristics to approximate it. And so there are about a dozen people in the world who are making theories of how to do Solomonoff induction. And that's where-- Now another piece of advice for students is if you see a lot of people doing something, then if you want to be sure that you'll have a job someday, do what's popular, and you've got a good chance. If you want to win a Nobel Prize, or solve an important problem, then don't do what's popular because the chances are you'll just be a frog in a big pond of frogs. So I think there's probably only half a dozen people in the world working on Solomonoff induction, even though it's been around since 1960. Because it needs a few more ideas on how to approximate it. But unless you want to make a living, don't do Bayesian learning. Yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:16:22.826679",
+                "endTime": "2022-08-27 16:19:56.511679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I don't know if this actually works. But if you take like Bayesian learning and we kind of advice sometimes like let's say we see something with very small probability and we type just like this part of that is never considered any good. Would that kind of like be like what we're trying to do with getting representations and things? I mean-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:19:56.521679",
+                "endTime": "2022-08-27 16:20:20.581679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, I think-- "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:20:20.591679",
+                "endTime": "2022-08-27 16:20:21.831679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Would this make it much more discrete and kind of make it much more easier and more attractable? Or is it like-- my question would be, is it really representations for things saying, this chair has this representation. Isn't that kind of doing the same like kind of statistical model, but just throwing away a lot of the stuff that we might not want look at, what we consider as things that shouldn't be looked at? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:20:21.841679",
+                "endTime": "2022-08-27 16:20:50.301679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think-- say there's the statistical thing and there's the question of-- suppose there's a lot of variables x1, x2, x 10 to the ninth, 10 to the fifth. Let's say there's 100,000 variables. Then, there's 2 to the 100,000 Pijs. But it isn't ij, it's ij up to 10,000 subscript. So what you need is a good idea for which things to look at. And that means you want to take commonsense knowledge and jump out of the Bayesian knowledge. The problem with a Bayesian learning system is you're estimating the values of conditional probabilities. But you have to decide which conditional probabilities to estimate the values. And the answer is-- oh, look at it another way. Look at history and you'll see 1,000 years go by, what was the population of the world between 500 AD, between the time of Augustine and the time of Newton, or 1500, like O'Brien, those people, 1,000 years? And I don't know is there 100 million people in the world, anybody know? About how many people were there in 1500? Don't they teach any history? I think history starts-- I changed schools around third grade. So I never-- there was no European history. So to me American history is recent and European history is old. So 1776 is after 1815. That is, to me, history ends with Napoleon, because then I got into fourth grade. Don't you all have that? You've got gaps in your knowledge because the curricula aren't-- somebody should make a map of those. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:20:50.311679",
+                "endTime": "2022-08-27 16:23:45.085679"
+            }
+        },
+        {
+            "payload": {
+                "content": " There were about half a billion people in 1500. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:45.095679",
+                "endTime": "2022-08-27 16:23:47.489679"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's a lot. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:47.499679",
+                "endTime": "2022-08-27 16:23:48.656679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah, I found it on the internet. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:48.666679",
+                "endTime": "2022-08-27 16:23:51.163679"
+            }
+        },
+        {
+            "payload": {
+                "content": " This is from Google? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:51.173679",
+                "endTime": "2022-08-27 16:23:52.621679"
+            }
+        },
+        {
+            "payload": {
+                "content": " This is from Wikipedia. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:52.631679",
+                "endTime": "2022-08-27 16:23:55.421679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:55.431679",
+                "endTime": "2022-08-27 16:23:56.371679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's on the timeline of people. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:56.381679",
+                "endTime": "2022-08-27 16:23:59.171679"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK. So there's half a billion people, not thinking of the planets going in eclipses. So why is that? How is a Bayesian person going to make the right hypothesis if it's not in the algebraic extension of the things they're considering? I mean, it could go and it could look it up in Wikipedia. But Bayesian thing doesn't do that. RAIs will. Yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:23:59.181679",
+                "endTime": "2022-08-27 16:24:43.611679"
+            }
+        },
+        {
+            "payload": {
+                "content": " But when we are kids, don't we learn the common sense knowledge? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:24:43.621679",
+                "endTime": "2022-08-27 16:24:47.511679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well-- I'm saying what happened in the 1,000 years? You actually have to tell people to consider. I'm telling the Bayesians to quit that and do something smart. Somebody has to tell them. I don't meet up with Newton. But they need one. What are they doing? What do they hope to accomplish? How are they going to solve a hard problem. Well, they don't have to. The way you predict the stock market today is Bayesian with the reaction time or the millisecond. And you can get all the money from the poor people that were investing in your bank. It's OK, who cares? But maybe it shouldn't be allowed. I don't know. Yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:24:47.521679",
+                "endTime": "2022-08-27 16:25:56.133679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Do you think the goal is to replace human intelligence that can create a computer that will be able to reason by itself or is there also the ability to create a system-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:25:56.143679",
+                "endTime": "2022-08-27 16:26:07.071679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It have to stop getting sick and dying and becoming senile. Yes. Now there are several ways to fix this. One is to freeze you and just never thaw you out. But we don't want to be stuck with people like us for the rest of all time, because, you know, there isn't much time left. The sun is going to be a red giant in three billion years. So we have to get out of here. And the way to get out of here is make yourself into smart robots. Help. Let's get out of this. We have to get out of these bodies. Yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:26:07.081679",
+                "endTime": "2022-08-27 16:27:03.961679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So you talked a lot about emotions. But emotions you described as like states of mind. And if you have like, for, example n states of mind that represent-- I don't know-- log n bits of information, why should we spend so much time talking about like so new information? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:27:03.971679",
+                "endTime": "2022-08-27 16:27:31.153679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Talking about? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:27:31.163679",
+                "endTime": "2022-08-27 16:27:32.361679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Little information. Like if we had n states or n emotions, they would represents log n bits of information. And like that's very different information that they will see. So for example if I'm happy or sad, like if I had just two states, happy or sad? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:27:32.371679",
+                "endTime": "2022-08-27 16:27:56.533679"
+            }
+        },
+        {
+            "payload": {
+                "content": " If we just had two states, you couldn't compute anything. I'm not sure what you're getting at. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:27:56.543679",
+                "endTime": "2022-08-27 16:28:04.131679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Like emotions seem too little information. They don't represent much information inside our brain. Why should they be so important in intelligence since they-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:28:04.141679",
+                "endTime": "2022-08-27 16:28:20.801679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I don't think-- I think emotions generally are important for lizards. I don't think they're important for humans. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:28:20.811679",
+                "endTime": "2022-08-27 16:28:30.844679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Like if we-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:28:30.854679",
+                "endTime": "2022-08-27 16:28:32.611679"
+            }
+        },
+        {
+            "payload": {
+                "content": " You have to stay alive to think. So you've got a lot of machinery that makes sure that you don't starve to death. So there's gadgets that measure your blood sugar and things like that and make sure that you eat. So those are very nice. On the other hand, if you simplified it, you just need three volts to run the CPU. And then you don't need all that junk. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:28:32.621679",
+                "endTime": "2022-08-27 16:29:03.371679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So they're not very important for us. It's just-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:29:03.381679",
+                "endTime": "2022-08-27 16:29:06.971679"
+            }
+        },
+        {
+            "payload": {
+                "content": " They are only important to keep you alive. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:29:06.981679",
+                "endTime": "2022-08-27 16:29:09.581679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:29:09.591679",
+                "endTime": "2022-08-27 16:29:10.401679"
+            }
+        },
+        {
+            "payload": {
+                "content": " But they don't help you write your thesis. I mean, the people who consider such questions are the science fiction writers. So there are lots of thinking about what kind of creatures could there be besides humans. And if you look at detective stories or things, then you find that there are some good people and bad people and stuff like that. But to me, general literature is all the same. When you've read 100 books, you've read them all, except for science fiction. That's my standard joke, that I don't think much of literature except-- because the science fiction people say what would happen if people had a different set of emotions or different ways to think? Or one of my favorite ones is Larry Niven and Jerry Pournelle, who just wrote a couple of volumes about what about a creature that has one big hand in two little hands. Do you remember what it's called? The Gripping Hand. This is for holding the work, while this one holds the soldering iron and the solder. That's right. That's how the book sort of begins. And there is imagination. On the other hand, you can read Jane Eyre. And it's lovely. But do you end up better than you are or slightly worse? And if you read hundreds of them-- luckily she only wrote 10, right? I'm serious. You have to look at Larry Niven and Robert Heinlein and those people. And when you look at the reviews by the literary people, they say the characters aren't developed very well. Well, foo, the last thing you want in your head is a well-developed literary character. What would you do with her? Yes. I love your questions. Can you wake them up? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:29:10.411679",
+                "endTime": "2022-08-27 16:32:05.281679"
+            }
+        },
+        {
+            "payload": {
+                "content": " When we are small babies, like we kind of are creating this common sense knowledge. And we have a lot of different inputs. So for example I'm talking to you, there is this input of the sound, the vision, like all these different inputs. Aren't we so involved when we are babies, like in very positive relations between these inputs? For example, the K-lines, is it like the machine learning guys argue that with a lot of variables and maybe 10 to the third was small set. What would be the difference if you go deep down? Are they trying to find like a very simple path? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:32:05.291679",
+                "endTime": "2022-08-27 16:32:58.491679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think you're right in the sense that I'll bet that if you take each of those highly advanced brain centers, and say, well it's got something generating hypotheses maybe or something. But underneath it, you probably have something very like a Bayesian reinforcement thing. So they're probably all over the place and maybe of 90% of your machinery is made of little ones. But it's the symbolic things and the K-lines that give them the right things to learn. But I think you raise another question, which I'm very sentimental about because of the history of how our projects got started, namely nobody knew much about how children develop in 1900. For all of human history, as far as I know, generally babies are regarded as like ignorant adults. There isn't I there aren't much theories of how children develop. And it isn't till 1930 that we see any real substantial child psychology. And the child psychology is mostly that one Swiss character, Jean Piaget. It's pronounced John for some reason. And he had three children and observed them. I think his first publication was something about mushrooms. He had been in botany. Is that right? Can anybody remember? Cynthia, do you remember what Piaget's original? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:32:58.501679",
+                "endTime": "2022-08-27 16:35:16.011679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Biology. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:35:16.021679",
+                "endTime": "2022-08-27 16:35:17.551679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Something. But then he studied these children and he wrote several books about how they learned. And as far as I know, this is about the first time in history that anybody tried to observe infants very closely and chart how they learned and so forth. And my partner, Seymour Papert, was Piaget's assistant for several years before he came to MIT. And we started the-- I started the artificial intelligence group with John McCarthy who had been one of my classmates in graduate school at Princeton in math, actually. then McCarthy went to start another AI group in Stanford and Seymour Papert appeared on my scene just the same time. And it was a kind of miracle because we had both-- we met in some meeting in London where we both presented the same machine learning paper on Bayesian probabilities in some linear learning system. We both hit it off because we obviously the same way. But anyway Piaget had been one of the principal people conducting the experiments on young children in Piaget's group. And when Piaget got older and retired in about 1985, Cynthia, do you remember when did Piaget quit? It's about when we started. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:35:17.561679",
+                "endTime": "2022-08-27 16:37:04.842679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Didn't he die in 1980 or something. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:37:04.852679",
+                "endTime": "2022-08-27 16:37:07.301679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Around then. There were several good researchers there. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:37:07.311679",
+                "endTime": "2022-08-27 16:37:12.479679"
+            }
+        },
+        {
+            "payload": {
+                "content": " He was trying to get Seymour to take over. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:37:12.489679",
+                "endTime": "2022-08-27 16:37:15.751679"
+            }
+        },
+        {
+            "payload": {
+                "content": " He wanted Seymour to take over at some point. And there were several good people there, amazing people. But the Swiss government sort of stopped supporting it. And the greatest laboratory on child psychology in the world faded away. It's closed now. And nothing like it ever started again. So there's a strange thing, maybe the most important part of human psychology is what happens the first 10 years, first 5 years? And if you're interested in that, you could find a few places where somebody has a little grant to do it. But what a tragedy. Anyway, we tried to do some of it here. But Papert got more interested in-- and Cynthia here-- got more interested in how to improve early education than find out how children worked. Is there any big laboratory at all doing that any? Where is child psychology? There are a few places, but none of them are famous enough to notice. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:37:15.761679",
+                "endTime": "2022-08-27 16:38:36.273679"
+            }
+        },
+        {
+            "payload": {
+                "content": " For a while there was stuff in Ontario, and Brazelton. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:38:36.283679",
+                "endTime": "2022-08-27 16:38:41.711679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Brazelton Yeah. Anyway. It's curious because you'd think that would be them one of the most important things, how do humans develop? It's very strange. Yeah. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:38:41.721679",
+                "endTime": "2022-08-27 16:38:58.611679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So like infants, when they are about a year old, I think there's a favorite moment, like they learn how their goal, like how to achieve goals, like rock the knees. And then after one year, they learn how to clap, how to achieve a means. So for example, I think they do the experiment of putting like a hand in their ear, like left ear. And then chimpanzees do the same as one-year-old infants. And somehow I believe that, for example, reflexes between infants and chimpanzees are very similar. We tend to represent things better, because like we have this-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:38:58.621679",
+                "endTime": "2022-08-27 16:39:51.131679"
+            }
+        },
+        {
+            "payload": {
+                "content": " You're talking about chimps? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:39:51.141679",
+                "endTime": "2022-08-27 16:39:53.071679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Chimpanzees. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:39:53.081679",
+                "endTime": "2022-08-27 16:39:53.811679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yep. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:39:53.821679",
+                "endTime": "2022-08-27 16:39:54.011679"
+            }
+        },
+        {
+            "payload": {
+                "content": " They are like apes in general. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:39:54.021679",
+                "endTime": "2022-08-27 16:39:55.678679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:39:55.688679",
+                "endTime": "2022-08-27 16:39:56.611679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I believe there are some apes that can learn sign language. I am not sure if that's right. But they can take the goals. And, for example, dogs can achieve a goal. But they can't imagine themselves like each moment. Maybe that's because of how they represent things, maybe they represent badly. They don't have good hierarchy. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:39:56.621679",
+                "endTime": "2022-08-27 16:40:28.021679"
+            }
+        },
+        {
+            "payload": {
+                "content": " There's some very interesting questions about that. That's why we need more laboratories. But here's an example. We had a researcher at MIT named Richard Heald. And he did lots of interesting experiments on young animals. So for example, he discovered that if you take a cat or a dog, if you have a dog on a leash and you take it somewhere, there's a very good chance it will find its way back because it remembers what it did. But he discovered if you take a cat or a dog and you take it for a walk and go somewhere, it won't learn because it didn't do it itself. So in other words, if you take it on a road passively, even a dozen times or 100 times, it won't learn that path, if it didn't actually have any motor reactions. So that was very convincing. And the world became convinced that for spatial learning, you have to participate. Many years later, we were working with a cerebral palsy guy who had never locomoted himself very much. I'm trying to remember his name-- well, name doesn't matter. But the Logo project had started. And he by putting a hat with a stick on his head, he was able to type keys, which is really very boring and tedious. And believe it or not, even though he could barely talk, he quickly learned to control the turtle, a floor turtle, which you could tell its turn left and right and go forward one unit, stuff like that. And the remarkable thing was that no sooner did he start controlling this turtle, than the turtle went over here and he turned it around and he wanted it to go back to here. And everybody predicted that he would get left and right reversed because he had never had any experience in the world. But right off, he knew which way to do it. So he had learned spatial navigation pretty much never having done much of it himself. And Richard Heald was very embarrassed, but had to conclude that what you learned from cats and dogs might not apply to people. We ran into a little trouble because there was another psychologist we tried to convince of this. And that psychologist said, well, maybe this was-- it took three years for him to develop a lot of skills. And the psychologist said, well, maybe that's a freak. I won't approve your PhD thesis until you do a dozen of them. I didn't mention the psychologist name, because-- Anyway, so we had a sort of Piaget like laboratory. But we never worked with infants. Did we? You think it would be a big industry. Nixon once came around and asked. There was a great senator in Massachusetts, I forget his name. He said, what can we do for education? The senator said, research on children how they learn. And Nixon said, that's great idea. Let's put a billion dollars into it. And he couldn't convince anybody in his party to support this idea. The only good thing I've heard about Nixon except for opening China, I guess. He was determined to do something about early education. Oh, the teachers union couldn't stand it. He didn't get any support from the education business I'll probably remember the senator next. Who's next? Yes. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:40:28.031679",
+                "endTime": "2022-08-27 16:46:04.951679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So it's kind of along the same lines. So if we come out thinking about how we represent things, even if we think about language itself, so the early, early stages of learning the language obviously have a lot of this statistical learning involved where we learned morphology of the language, rather than learning that language is actually representing things. So for example, if we're going to learn like how certain letters come one after the other or how they go, we kind of listen and we see that it's the way everyone else does it. And there are certain words that exist and certain words don't exist, even if they could exist. I guess these are all like statistical learning. And then like after this structure is there, we use this structure to make this representation. So isn't it-- like wouldn't it kind of be right to say that these two are basically the same thing, just that the representation, the more complex one is just another version of the statistical learning where we've just done it? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:46:04.961679",
+                "endTime": "2022-08-27 16:47:31.739679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well there's context free grammar. And there's the grammars that have push down lists and stacks and things like that. So you actually need something like a programming language to generate and parse sentences. There's a little recursive quality. I don't know how you can-- it's hard to represent that in a Bayesian network unless you have a push down stack. The question is does the brain have push down stacks or are they only three deep or something? Because if you say this is the dog that bit the cat that chased the rat that so on, nobody has any trouble. And that's a recursion. But if you say this is the dog that the cat that the rat bit ate, people can't that. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:47:31.749679",
+                "endTime": "2022-08-27 16:48:33.986679"
+            }
+        },
+        {
+            "payload": {
+                "content": " It's empirical evidence that the brain got its tail cut off. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:48:33.996679",
+                "endTime": "2022-08-27 16:48:37.281679"
+            }
+        },
+        {
+            "payload": {
+                "content": " That it's what? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:48:37.291679",
+                "endTime": "2022-08-27 16:48:38.531679"
+            }
+        },
+        {
+            "payload": {
+                "content": " The brain influenced tail cut off representation. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:48:38.541679",
+                "endTime": "2022-08-27 16:48:41.138679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Yeah. Why is language restricted in that you can't embed clauses past the level of two or three, which Chomsky never admitted. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:48:41.148679",
+                "endTime": "2022-08-27 16:48:54.631679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Can't it be the case that we also learn that? Like we also learned that certain patterns can only exist between words. We do parse it using your parse tree. We learn using a parse tree. Like we learn that when you hear a sentence, go after trying to parse it using three words, two words, four words and just try that, see if it works. If it doesn't try another way. It can't distance itself from like learning the number of words that usually happen in a clause. Is it this type of learning? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:48:54.641679",
+                "endTime": "2022-08-27 16:49:38.301679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well I'm not sure why is it very different from learning that you have to open a bottle-- open the box before you take the thing out. We learn procedures. I'm not sure-- I don't believe in grammar, that is. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:49:38.311679",
+                "endTime": "2022-08-27 16:49:59.221679"
+            }
+        },
+        {
+            "payload": {
+                "content": " If we were trying to teach a machine to be like a human being, would we just lay out the very basics and let it grow like a child with learning or would we put these representations in there, like put the representations-- "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:49:59.231679",
+                "endTime": "2022-08-27 16:50:14.841679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, a child doesn't learn language unless there are people to teach it. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:50:14.851679",
+                "endTime": "2022-08-27 16:50:19.171679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Right. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:50:19.181679",
+                "endTime": "2022-08-27 16:50:20.491679"
+            }
+        },
+        {
+            "payload": {
+                "content": " However-- "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:50:20.501679",
+                "endTime": "2022-08-27 16:50:21.491679"
+            }
+        },
+        {
+            "payload": {
+                "content": " So maybe we can expose the machine to that white board to-- or we can expose it to the world somehow to some kind of input. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:50:21.501679",
+                "endTime": "2022-08-27 16:50:32.301679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I'm not sure what question you're asking. Is all children's learning of a particular type or are they learning frames or are they learning grammar rules or do you want a uniform theory of learning? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:50:32.311679",
+                "endTime": "2022-08-27 16:50:49.369679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I think which one is a better approach, that the machine has very basic things and it learns? So there's a machine, should we makes machines as infants and let them learn things, by for example giving them a string that's from the internet, from communication over the internet or communication among other human beings, just like a child learns from seeing his parents talk. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:50:49.379679",
+                "endTime": "2022-08-27 16:51:14.208679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Several people have-- "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:51:14.218679",
+                "endTime": "2022-08-27 16:51:15.708679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Is it better to actually inject all that knowledge into the machine, and then expect it to act on it from the beginning? "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:51:15.718679",
+                "endTime": "2022-08-27 16:51:22.361679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Well, if you look at the history, you'll find that-- I'm not sure how to look it up. But quite a few people have tried to make learning systems that start with very little and keep developing. And the most impressive ones were the ones by Douglas Lenat. But eventually he gave up. And he had systems that learned a few things. But they petered out. And he changed his orientation to trying to build up commonsense libraries. But I'm trying to think of the name for self-organizing systems. There are probably a dozen. If you're interested, I'll try to find some of them. But for some reason people have given up on that, and so certainly worth a try. As for language, I think the theory that language is based on grammar is just plain wrong. I suspect it's based on certain kinds of frame manipulation things. And the idea of abstract syntax is really not very productive or it hasn't-- anyway. Because you want it to be able to fit into a system for inference as well. I'm just bluffing here. Did you have a question? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:51:22.371679",
+                "endTime": "2022-08-27 16:53:18.671679"
+            }
+        },
+        {
+            "payload": {
+                "content": " I was just going to say it seems that what you're saying might be considered to be a form of example-based reasoning. You just have lots and lots of examples, which are not unlike the work that DuBois does with a child the word water from hearing lots of people use that word in different contexts and examples. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:53:18.681679",
+                "endTime": "2022-08-27 16:53:43.676679"
+            }
+        },
+        {
+            "payload": {
+                "content": " While you're here, Janet Baker was a pioneer in speech recognition. How come the latest system suddenly got better? Are they just bigger databases? "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:53:43.686679",
+                "endTime": "2022-08-27 16:53:57.549679"
+            }
+        },
+        {
+            "payload": {
+                "content": " That's a lot of it. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:53:57.559679",
+                "endTime": "2022-08-27 16:54:00.181679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Of course, the early ones you had to train for an hour. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:54:00.191679",
+                "endTime": "2022-08-27 16:54:06.061679"
+            }
+        },
+        {
+            "payload": {
+                "content": " But we now have so many more examples and exemplars that you can much better characterize their ability, which is tremendous, between the people. And you typically have multiple models, a lot of different models of how-- so it knows in a space of how people say different things and allowing you to characterize it really well, so it will do a much better job. You always do better if you have models of a given person speaking and modeling their voice. But you can now model a population much better when you have so much more data. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:54:06.071679",
+                "endTime": "2022-08-27 16:54:50.881679"
+            }
+        },
+        {
+            "payload": {
+                "content": " They're really getting useful. "
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:54:50.891679",
+                "endTime": "2022-08-27 16:54:53.541679"
+            }
+        },
+        {
+            "payload": {
+                "content": " Oh, dear. "
+            },
+            "from": {
+                "userId": "AUDIENCE:",
+                "name": "AUDIENCE:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:54:53.551679",
+                "endTime": "2022-08-27 16:55:01.951679"
+            }
+        },
+        {
+            "payload": {
+                "content": " OK, unless somebody has a really urgent question. Thanks for coming."
+            },
+            "from": {
+                "userId": "MARVIN MINSKY:",
+                "name": "MARVIN MINSKY:"
+            },
+            "duration": {
+                "startTime": "2022-08-27 16:55:01.961679",
+                "endTime": "2022-08-27 16:55:08.981679"
+            }
+        }
+    ]
+}
