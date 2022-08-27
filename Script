@@ -1,19 +1,32 @@
-**this will be our script for the video - feel free to make edits
-**I'm writing it in the style of a tutorial on how to use Pyrocury, and then some segments in between that explain that our program 
-**is making the video faster/slower based on info density. So the demo and the tutorial work hand-in-hand
+#####this will be our script for the video - feel free to make edits
 
 
-Hey everyone, this is a tutorial on how to use Pyrocury
+*Slowly start speeding up the below paragraph*
+Hey everyone! This is Metrophon, and we’re so excited to present this video to you today. But before we begin, we want to thank our sponsors, McDonald’s and Burger King. As you watch the video…
 
-*Switch to a different filter/frame*
+*Zoom out of that frame, switch to normal speed*
 
-Warning: this tutorial will contain multiple scenes that you will desperately want to speed up, and others that you will want to slow down, based on how much information is coming at you. Good news: we’ve done this for you! Based on the information density of each segment of this video,
+Imagine listening to the fluff of a YouTube video…at full speed. Now, students are getting smart, increasing the speed of videos to get through them faster. But then, just as you speed up the video, the content starts getting complex, forcing you to slow the speed down to understand. 
 
-*write very short description of information density on the slide*
+This is all due to something called the information density of educational content, aka the complexity of information presented in a given segment of a video.
 
-our program has sped up or slowed down the video for you. 
+Our team at Metrophon has realized that information density varies throughout a video, giving you that urge to speed up the simple stuff and slow down the hard content. 
 
-*Switch back to original filter/frame*
+But what if we told you that you’ll never have to sit through a video again, figuring out the right speed to watch it at? Metrophon’s algorithms calculate the information density of each segment of a video–we then standardize it throughout the video by increasing or decreasing the segment speed based on whether the information density is low or high.
 
-First, we want to thank our sponsors, McDonalds and Burger King, for their help in producing this video. It couldn’t have been possible without them. I’m so grateful to have this chance to teach you all about how to use Pyrocury today.
+Let’s walk through it together.
 
+*Demo*
+
+How did it feel to learn at the right speed, for once? Hopefully, it was blissful. 
+
+Metrophon uses AI to bring this software to your computer. First, we use Youtube’s latest feature - heatmaps - which shows the most replayed sections of a video, which presumably coincide with the video segments that are the most difficult to understand. 
+
+We then use these heatmaps as labels for training data. Along with that, we use symbl.ai to create a summary of content of the video. Using this, we analyze the complexity of each one-minute segment of the video by measuring parameters such as the length of phrases, the sum of the complexity level of the segment’s words, and more.
+
+Finally, we use this complexity in order to output the segment at a speed that makes sense. 
+On average, people spend 16 hours every week watching video content. Furthermore, the majority of Americans watch Youtube to learn new things, taking initiative to explore their horizons and fulfill their potential. With Metrophon, every learner can reach their educational goals faster, by viewing content at a pace that engages them, without burning them out. 
+
+With this same technology, Metrophon can filter through everything from podcast episodes to audiobooks to read to you at the right pace.
+
+So what do you say? Are you ready to broaden your horizons in your own time? 
