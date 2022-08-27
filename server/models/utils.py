@@ -1,33 +1,34 @@
-def chunk_transcript(input: dict, duration: int):
+import json
+import os
+import statistics
+from typing import Callable
+
+
+def check_correlation(X: list[list[float]], Y: list[list[float]]):
     """
-    Breaks the array of transcripts into subarrays arrays,
-    each no more than 'duration' seconds in length.
-
-    The input transcript looks as follows:
-    [
-        {
-            "text": "Welcome to my youtube channel",
-            "start": 1.23,
-            "duration": 3.45
-        },
-        ...
-    ]
+    Given vectors [x1, x2, ...] and [y1, y2, ...], returns the average
+    correlation between xi and yi, over all i.
     """
+    assert len(X) == len(Y)
 
-    output = []
+    corr = 0
+    for i in range(len(X)):
+        try:
+            corr += statistics.correlation(X[i], Y[i])
+        except:
+            pass
+    return corr / len(X)
 
-    curr_l = 0.0
-    curr_arr = []
 
-    for st in input:
-        # Transcript belongs to next segment.
-        while curr_l+duration < st["start"]:
-            output.append(curr_arr)
-            curr_arr = []
-            curr_l += duration
-        
-        curr_arr.append(st)
-    # This is required as 'curr_arr' is not guarenteed to be empty.
-    output.append(curr_arr)
+def correlation_tester(evaluator: Callable[[str], float]):
+    X, Y = [], []
+    for f in os.listdir("processed_test_data"):
+        data = json.load(open(f"processed_test_data/{f}"))
 
-    return output
+        x = [st["heat"] for st in data]
+        y = [evaluator(st["text"]) for st in data]
+
+        X.append(x)
+        Y.append(y)
+
+    print("Correlation:", check_correlation(X, Y))
