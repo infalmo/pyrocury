@@ -1,0 +1,39 @@
+###this code prints all of the heatmaps as floats of all the text files in the folder
+
+import os
+
+allpaths = []
+
+# Define the location of the directory
+path = "/Users/sumedhakethini/Downloads/pyrocury-master/server/models/processed_test_data"
+
+# Change the directory
+os.chdir(path)
+
+def read_files(file_path):
+   with open(file_path, 'r') as file:
+      #print(file.read())
+      pass
+      
+
+# Iterate over all the files in the directory
+for file in os.listdir():
+    if file.endswith('.json'):
+      # Create the filepath of particular file
+        file_path =f"{path}/{file}"
+        allpaths.append(file_path)
+
+read_files(file_path)
+
+
+for i in allpaths:
+    indpath = open(i, "r")
+    filetext = indpath.read()
+    filetext = filetext.split("}")
+    
+    for j in filetext:
+        indexnum = j.find('"heat": ')
+        heatmap = j[indexnum + 8:]
+        if heatmap != '':
+            heatmap = float(heatmap)
+            print(heatmap)
