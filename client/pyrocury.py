@@ -11,7 +11,7 @@ import time
 
 
 customtkinter.set_appearance_mode("Light")
-customtkinter.set_default_color_theme("C:\\Users\\andre\\Documents\\GitHub\\pyrocury\\client\\customcolor.json")
+customtkinter.set_default_color_theme("customcolor.json")
 
 window = customtkinter.CTk()
 window.geometry("1000x620")
