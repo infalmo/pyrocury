@@ -1,3 +1,5 @@
+import os
+
 from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox
@@ -29,8 +31,7 @@ videoSelectionFrame.pack_propagate(False)
 videoFilePathStr = ""
 
 def openFile():
-	videoFilePathStr = filedialog.askopenfilename(initialdir="C:\\Users\\andre\\Documents\\",
-		title="Which mp4 file do you want to choose?",
+	videoFilePathStr = filedialog.askopenfilename(title="Which mp4 file do you want to choose?",
 		filetypes=(('MP4 files', '*.mp4'), ('All files', '*.*')))
 	videoURLStr = ""
 
@@ -100,6 +101,7 @@ border2.pack(side=LEFT)
 
 # play vid
 def playVideo():
+	# os.system("\"C:\\Users\\andre\\Documents\\temp fish stardew.txt\"")
 	pass
 
 playvidIconLight = PhotoImage(file="playvidiconlight.png")
@@ -110,10 +112,8 @@ playVideoButton = customtkinter.CTkButton(master=videoSelectionFrame,
 	text_font=("", 11),
 	height=49,
 	corner_radius=0,
-	text_color_disabled="#8a0303",
 	image=playvidIconLight,
 	compound="left",
-	state=DISABLED,
 	command=playVideo)
 playVideoButton.pack(side=LEFT, padx=5, pady=3)
 
