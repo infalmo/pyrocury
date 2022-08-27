@@ -21,8 +21,10 @@ def relativeReadability(text: str, totalReadability: float) -> float:
 
     r = Readability(text)
 
-    with suppress(ReadabilityException):
+    try:
         textDC = r.dale_chall()
+    except ReadabilityException:
+        return relativeReadability(text * 2, totalReadability)
     print(textDC.score)
     return textDC.score/totalReadability
 
