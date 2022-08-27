@@ -5,10 +5,8 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox
 from tkinter.ttk import *
-from bvPlayer import bvPlayer
 import customtkinter
 import time
-
 
 customtkinter.set_appearance_mode("Light")
 customtkinter.set_default_color_theme("customcolor.json")
