@@ -45,6 +45,11 @@ def chunkVideo(transcript: list, heatmap: list) -> list:
         else:
             output[i]["heat"] = statistics.median(vals)
 
+    # Set heat of first interval to 0.1. This is because
+    # the actual heatmap metrics are skewed, as everyone starts
+    # the video from the beginning.
+    output[0]["heat"] = 0.1
+
     return output
 
 
