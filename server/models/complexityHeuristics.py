@@ -13,17 +13,15 @@ def implications(text: str) -> float:
     """
 
     implicators = {
-        "implies": ["implies", "imply"],
-        "compound": ["and", "but", "since"],
-        "thus": ["thus", "therefore"],
+        "implies": ["implies", "imply", "thus", "therefore", "makes"],
+        "compound": ["and", "but", "since", "so", "while"],
         "steps": ["first", "next", "then", "last", "final"],
         "question": ["why", "which", "where", "how", "when", "?"],
     }
     weights = {
-        "implies": 2.0,
-        "compound": -1.0,
-        "thus": 10.0,
-        "steps": -5.0,
+        "implies": 10.0,
+        "compound": 0.0,
+        "steps": 3.0,
         "question": 2.0,
     }
 
