@@ -50,7 +50,7 @@ def main():
     loadJSON()
     #get from links.txt
     urlList = []
-    with open('ocwlinks.txt', 'r') as f:
+    with open('links.txt', 'r') as f:
         for url in f.readlines():
             urlList.append(url)
 

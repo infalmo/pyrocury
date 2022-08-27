@@ -2,6 +2,7 @@ from readability import Readability
 from readability.exceptions import ReadabilityException
 from contextlib import suppress
 import nltk
+from nltk.corpus import stopwords
 """
 TODO: 
 readability test (Dale-Chall)
@@ -30,3 +31,9 @@ def relativeDCReadability(text: str, totalReadability: float) -> float:
     print(textDC.score)
     return textDC.score/totalReadability
 
+def lexicalDiversity(text)->float:
+    """
+    Returns
+    """
+    textLength = len(text.split(' '))
+    stopWords = set(stopwords.words('english'))
