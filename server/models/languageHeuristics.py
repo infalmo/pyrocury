@@ -24,7 +24,9 @@ def relativeReadability(text: str, totalReadability: float) -> float:
     try:
         textDC = r.dale_chall()
     except ReadabilityException:
-        return relativeReadability(text * 2, totalReadability)
+        #if excerpt is too short, duplicate excerpt to required length.
+        textExtensionFactor = int(100 / len(text.split(" "))) + 1
+        return relativeReadability(text * textExtensionFactor, totalReadability)
     print(textDC.score)
     return textDC.score/totalReadability
 
@@ -35,5 +37,5 @@ totalText = "First off, Glubb's characterization of the Arabian peninsula is ver
 #nltk.download('punkt')
 overallScore = Readability(totalText).dale_chall().score
 print(overallScore)
-excerpt = "There were several notable kingdoms in the peninsula, namely the Himyarites in Yemen, the Lakhmids in Eastern Arabia, and the Quraysh in Mecca, with their own government and militaries, contrary to Glubb's assertion"
+excerpt = "There were several notable kingdoms in the peninsula."
 print(relativeReadability(excerpt, overallScore))
