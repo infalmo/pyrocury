@@ -14,7 +14,7 @@ customtkinter.set_appearance_mode("Light")
 customtkinter.set_default_color_theme("C:\\Users\\andre\\Documents\\GitHub\\pyrocury\\client\\customcolor.json")
 
 window = customtkinter.CTk()
-window.geometry("1000x600")
+window.geometry("1000x620")
 window.title("Pyrocury")
 
 # change logo maybe if don't like
@@ -22,17 +22,17 @@ logo = PhotoImage(file="icon.png")
 window.iconphoto(True, logo)
 
 # toolbar
-toolbar = Menu(window)
-window.config(menu=toolbar)
+# toolbar = Menu(window)
+# window.config(menu=toolbar)
 
-fileMenu = Menu(toolbar, tearoff=0)
-toolbar.add_cascade(label="File", menu=fileMenu)
+# fileMenu = Menu(toolbar, tearoff=0)
+# toolbar.add_cascade(label="File", menu=fileMenu)
 
-toolsMenu = Menu(toolbar, tearoff=0)
-toolbar.add_cascade(label="Tools", menu=toolsMenu)
+# toolsMenu = Menu(toolbar, tearoff=0)
+# toolbar.add_cascade(label="Tools", menu=toolsMenu)
 
-helpMenu = Menu(toolbar, tearoff=0)
-toolbar.add_cascade(label="Help", menu=helpMenu)
+# helpMenu = Menu(toolbar, tearoff=0)
+# toolbar.add_cascade(label="Help", menu=helpMenu)
 
 # video selection frame
 videoSelectionFrame = customtkinter.CTkFrame(master=window,
