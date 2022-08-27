@@ -172,32 +172,56 @@ def convertToConversation(fullTranscriptPath:str, timedTranscriptPath:str, outFi
 
 
 class symblAITranscript:
-    def __init__(self, filepath: str, appId, appSecret, accessToken):
+    def __init__(self, filepath: str):
         """
         filepath: the filepath to the transcript to be uploaded (as a properly formatted JSON file)
         appId,appSecret, accessToken: API credentials
         """
         self.filepath = filepath
-        self.appId = appId
-        self.appSecret = appSecret
-        self.accessToken = accessToken
         self.processedText = None
+        self.messages = None
+        self.topics = None
+        self.actionItems = None
+        self.followUps = None
+        self.conversationID = None
     def uploadToSymblAI(self):
         with open(self.filepath) as f:
             payload = json.loads(f.read())
             self.processedText = symbl.Text.process(payload=payload)
-        
+        self.conversationID = self.processedText.get_conversation_id()
+        #print(self.processedText.get_messages())
+        #print(self.processedText.get_topics())
+        #print(self.processedText.get_action_items())
+        #print(self.processedText.get_follow_ups())
+
+    
+    def getSymblMetrics(self, conversationID: str=None):
+        if conversationID == None:
+            conversationID = self.conversationID
+        self.processedText = symbl.Conversations.Conversation(conversationID)
+        self.messages = self.processedText.get_messages()
+        self.topics = self.processedText.get_topics()
+        self.actionItems = self.processedText.get_action_items()
+        self.followUps = self.processedText.get_follow_ups()
+
+    def saveSymblData(self, filename):
+        outDict = {
+            ""
+            "messages": self.messages,
+            "topics": self.topics,
+            "actionItems": self.actionItems,
+            "followUps": self.followUps
+        }
+        with open(filename, 'w') as f:
+            f.write(json.dumps(outDict, indent = 4))
 
 
 if __name__ == "__main__":
-    with open("secrets.txt", 'r') as secrets:
-        secretsList = json.loads(secrets.read())
-        appId = secretsList["appId"]
-        appSecret = secretsList["appSecret"]
-        accessToken = secretsList["accessToken"]
-    #id = 'leXa7EKUPFk'
-    for id in os.listdir('test_data'):
-        print("Processing " + id)
-        convertToConversation(f'new_processed_test_data\\{id}\\{id}-wholeTranscript.txt',
-                                f'test_data\\{id}\\{id}-transcript.json',
-                                f'test_data\\{id}\\{id}-symbl-transcript.json')
+    id = 'uNKDw46_Ev4'
+    symblAI = symblAITranscript('test_data\\uNKDw46_Ev4\\uNKDw46_Ev4-symbl-transcript.json')
+    symblAI.getSymblMetrics('5896924801007616')
+    #for id in os.listdir('test_data'):
+    #    print("Processing " + id)
+    #    convertToConversation(f'new_processed_test_data\\{id}\\{id}-wholeTranscript.txt',
+    #                            f'test_data\\{id}\\{id}-transcript.json',
+    #                            f'test_data\\{id}\\{id}-symbl-transcript.json')
