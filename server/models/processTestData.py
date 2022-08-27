@@ -24,8 +24,11 @@ def chunkVideo(transcript: list, heatmap: list) -> list:
             l_bound += 120
             merged_ts = {"text": "", "start": l_bound}
 
-        merged_ts["text"] += ts["text"]
+        merged_ts["text"] += " " + ts["text"]
     output.append(merged_ts)
+
+    for o in output:
+        o["text"] = o["text"].replace("\n", " ")
 
     interval_cnt = ceil(len(output) / 100)
     for i in range(len(output)):
