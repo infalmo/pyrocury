@@ -29,7 +29,6 @@ def relativeDCReadability(text: str, totalReadability: float) -> float:
         #if excerpt is too short, duplicate excerpt to required length.
         textExtensionFactor = int(100 / len(text.split(" "))) + 1
         return relativeDCReadability(text * textExtensionFactor, totalReadability)
-    print(textDC.score)
     return textDC.score/totalReadability
 
 def lexicalDiversity(text)->float:
@@ -37,7 +36,7 @@ def lexicalDiversity(text)->float:
     Returns the fraction of words in a given text that are not stopwords.
     """
     try:
-        nltk.data.find('tokenizers/stopwords')
+        nltk.data.find('corpora/stopwords')
     except LookupError:
         nltk.download('stopwords')
     textWords = word_tokenize(text)
