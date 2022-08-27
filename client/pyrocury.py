@@ -13,7 +13,7 @@ customtkinter.set_default_color_theme("customcolor.json")
 
 window = customtkinter.CTk()
 window.geometry("1000x620")
-window.title("Pyrocury")
+window.title("Metrophon")
 
 # change logo maybe if don't like
 logo = PhotoImage(file="icon.png")
