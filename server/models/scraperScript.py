@@ -31,15 +31,25 @@ def channelMostViewedScraper():
 
 def loadJSON():
     """
-    loads json files parsed from channelMostViewedScraper
+    loads json files parsed from channelMostViewedScraper, extracts video IDs, and writes youtube URLs to ocwlinks.txt
     """
-
+    videoURLs = []
+    for i in range(5):
+        f = open (f'ocwMostPopularVids\\ocwPlaylist{i}.json', "r")
+        data = json.loads(f.read())
+        
+        for video in data["items"]:
+            videoID = video["id"]["videoId"]
+            videoURLs.append("https://www.youtube.com/watch?v=" + videoID + "\n")
+        f.close()
+    with open('ocwlinks.txt', 'w') as f:
+        f.writelines(videoURLs)    
 
 def main():
     #channelMostViewedScraper()
-    
+    loadJSON()
     #get from links.txt
-    with open('links.txt', 'r') as f:
+    with open('ocwlinks.txt', 'r') as f:
         for url in f.readlines():
             urlList.append(url)
 
@@ -52,7 +62,6 @@ def main():
             video.saveTranscript(transcriptFilepath)
         if os.path.exists(heatmapFilepath) == False:
             video.saveHeatmap(heatmapFilepath)
-    
 
 
 if __name__ == '__main__':
