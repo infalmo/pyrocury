@@ -21,19 +21,6 @@ window.title("Pyrocury")
 logo = PhotoImage(file="icon.png")
 window.iconphoto(True, logo)
 
-# toolbar
-# toolbar = Menu(window)
-# window.config(menu=toolbar)
-
-# fileMenu = Menu(toolbar, tearoff=0)
-# toolbar.add_cascade(label="File", menu=fileMenu)
-
-# toolsMenu = Menu(toolbar, tearoff=0)
-# toolbar.add_cascade(label="Tools", menu=toolsMenu)
-
-# helpMenu = Menu(toolbar, tearoff=0)
-# toolbar.add_cascade(label="Help", menu=helpMenu)
-
 # video selection frame
 videoSelectionFrame = customtkinter.CTkFrame(master=window,
 	height=55,
@@ -78,7 +65,10 @@ videoURLStr = ""
 def findURL():
 	def returnURL():
 		videoURLStr = url_entrybox.get()
-		videoFilePathVar.set(videoURLStr)
+		# do something to get mp4...
+		videoFilePathVar.set(
+			# file path to downloaded mp4
+			)
 		videoPlayerScreen.configure(state=NORMAL)
 		url_window.destroy()
 
@@ -133,7 +123,8 @@ playVideoButton = customtkinter.CTkButton(master=videoSelectionFrame,
 	image=playvidIconLight,
 	compound="left",
 	command=playVideoNormalized,
-	state=DISABLED)
+	state=DISABLED
+	)
 playVideoButton.pack(side=LEFT, padx=5, pady=3)
 
 # top border
@@ -166,7 +157,7 @@ def setVideoSpeed(video_speed_level):
 	elif (video_speed_level == "Fast"):
 		pass
 	elif (video_speed_level == "Very Fast"):
-		pass	
+		pass
 
 customtkinter.CTkLabel(master=window,
 	text="Video Speed: ",
@@ -203,6 +194,7 @@ videoPlayerScreen.place(x=15, y=180)
 
 # save to
 saveFilePathEntryText = tk.StringVar()
+# saveFileName = ""
 
 def setSaveDestination():
 	file = filedialog.asksaveasfile(defaultextension='.mp4',
@@ -210,6 +202,7 @@ def setSaveDestination():
 		("MP4 file",".mp4"),
 		("All files",".*")
 		])
+	# file = filedialog.askdirectory()			# this will prompt you to save to a directory. However, you would need to use a variable like saveFileName in order to put the file path in playVideoNormalized()
 	if file is None:
 		return
 
