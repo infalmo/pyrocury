@@ -1,17 +1,59 @@
 from ytVideoScraper import youtubeVideo
+import google_auth_oauthlib.flow
+import googleapiclient.discovery
+import googleapiclient.errors
+from youtube_transcript_api.formatters import JSONFormatter
 import os
+import json
+
+def channelMostViewedScraper():
+    scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
+    api_service_name = "youtube"
+    api_version = "v3"
+    #apiKey = API-KEY GOES HERE #environment variable
+    youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey = apiKey)
+    urlList = []
+    videos = []
+    #get top 250 ocw video links, which definitely have transcripts and heatmaps
+    request = youtube.search().list(
+        channelId="UCEBb1b_L6zDS3xTUrIALZOw",
+        part = "snippet",
+        order = "viewCount",
+        maxResults = 50,
+        pageToken = "CMgBEAA",
+    )
+    response = request.execute()
+    formatter = JSONFormatter()
+    # .format_transcript(transcript) turns the transcript into a JSON string.
+    json_formatted = formatter.format_transcript(response)
+    with open('ocwPlaylist4.json', 'w', encoding='utf-8') as json_file:
+        json_file.write(json_formatted)  
+
+def loadJSON():
+    """
+    loads json files parsed from channelMostViewedScraper
+    """
+
 
 def main():
+    #channelMostViewedScraper()
+    
+    #get from links.txt
     with open('links.txt', 'r') as f:
         for url in f.readlines():
-            print(f"Downloading data from {url}")
-            video = youtubeVideo(url)
-            heatmapFilepath = f'test_data/{video.id}/{video.id}-heatmap.csv'
-            transcriptFilepath = f'test_data/{video.id}/{video.id}-transcript.json'
-            if os.path.exists(transcriptFilepath) == False:
-                video.saveTranscript(transcriptFilepath)
-            if os.path.exists(heatmapFilepath) == False:
-                video.saveHeatmap(heatmapFilepath)
+            urlList.append(url)
+
+    for url in urlList:
+        print(f"Downloading data from {url}")
+        video = youtubeVideo(url)
+        heatmapFilepath = f'test_data/{video.id}/{video.id}-heatmap.csv'
+        transcriptFilepath = f'test_data/{video.id}/{video.id}-transcript.json'
+        if os.path.exists(transcriptFilepath) == False:
+            video.saveTranscript(transcriptFilepath)
+        if os.path.exists(heatmapFilepath) == False:
+            video.saveHeatmap(heatmapFilepath)
+    
+
 
 if __name__ == '__main__':
     main()
