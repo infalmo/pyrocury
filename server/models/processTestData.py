@@ -7,21 +7,22 @@ from unicodedata import name
 
 
 def chunkVideo(transcript: list, heatmap: list) -> list:
-    """Merges transcript and heatmap as 2 minute chunks
+    """Merges transcript and heatmap as 90 second chunks
 
     output:
     [{"text": "...", start: 240.0, heat: 0.35}, ...]
     """
+    INTERVAL_SECS = 90
 
     output = []
 
     l_bound = 0.0
     merged_ts = {"text": "", "start": l_bound}
     for ts in transcript:
-        while l_bound + 120 <= ts["start"]:
+        while l_bound + INTERVAL_SECS <= ts["start"]:
             output.append(merged_ts)
 
-            l_bound += 120
+            l_bound += INTERVAL_SECS
             merged_ts = {"text": "", "start": l_bound}
 
         merged_ts["text"] += " " + ts["text"]
