@@ -1,8 +1,9 @@
 from readability import Readability
 from readability.exceptions import ReadabilityException
-from contextlib import suppress
 import nltk
 from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+import string
 """
 TODO: 
 readability test (Dale-Chall)
@@ -33,7 +34,16 @@ def relativeDCReadability(text: str, totalReadability: float) -> float:
 
 def lexicalDiversity(text)->float:
     """
-    Returns
+    Returns the fraction of words in a given text that are not stopwords.
     """
-    textLength = len(text.split(' '))
+    try:
+        nltk.data.find('tokenizers/stopwords')
+    except LookupError:
+        nltk.download('stopwords')
+    textWords = word_tokenize(text)
     stopWords = set(stopwords.words('english'))
+    punctSet = set(string.punctuation)
+    textWords = [w for w in textWords if not w.lower() in punctSet]
+    textLength = len(textWords)
+    textWords = [w for w in textWords if not w.lower() in stopWords]
+    return len(textWords)/textLength
