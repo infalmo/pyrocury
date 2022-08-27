@@ -1,12 +1,16 @@
+def playVideoFile():
+	os.system("\"" + videoFilePathVar.get() + "\"")
+
 customtkinter.CTkLabel(master=window,
-	text="Play selected video").place(x=15, y=160)
+	text="Play selected video",
+	text_font=("",10,'bold')).place(x=7, y=154)
 
 videoScreenImage = PhotoImage(file='videoscreen.png')
 
-videoPlayerButton = customtkinter.CTkButton(master=window,
+videoPlayerScreen = customtkinter.CTkButton(master=window,
 	text="",
-	# image=videoScreenImage,
-	# command=playVideo,
+	image=videoScreenImage,
+	command=playVideoFile,
 	state=DISABLED
 	)
-videoPlayerButton.place(x=25, y=168)
+videoPlayerScreen.place(x=15, y=180)

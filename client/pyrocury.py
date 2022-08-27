@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox
 from tkinter.ttk import *
-from tkVideoPlayer import TkinterVideo
+from bvPlayer import bvPlayer
 import customtkinter
 import time
 
@@ -22,6 +22,17 @@ logo = PhotoImage(file="icon.png")
 window.iconphoto(True, logo)
 
 # toolbar
+toolbar = Menu(window)
+window.config(menu=toolbar)
+
+fileMenu = Menu(toolbar, tearoff=0)
+toolbar.add_cascade(label="File", menu=fileMenu)
+
+toolsMenu = Menu(toolbar, tearoff=0)
+toolbar.add_cascade(label="Tools", menu=toolsMenu)
+
+helpMenu = Menu(toolbar, tearoff=0)
+toolbar.add_cascade(label="Help", menu=helpMenu)
 
 # video selection frame
 videoSelectionFrame = customtkinter.CTkFrame(master=window,
@@ -189,7 +200,6 @@ videoPlayerScreen = customtkinter.CTkButton(master=window,
 	state=DISABLED
 	)
 videoPlayerScreen.place(x=15, y=180)
-
 
 # save to
 saveFilePathEntryText = tk.StringVar()
