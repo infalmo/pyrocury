@@ -22,9 +22,10 @@ class youtubeVideo:
         """
         self.transcript = YouTubeTranscriptApi.get_transcript(self.id, languages=['en'])
         
-    def saveTranscript(self):
+    def saveTranscript(self, filename: str):
         """
         Saves the transcript as a json file.
+        filepath: the file path and name to save the transcript to.
         """
         if self.transcript == None:
             self.getTranscript()
@@ -32,9 +33,9 @@ class youtubeVideo:
         # .format_transcript(transcript) turns the transcript into a JSON string.
         json_formatted = formatter.format_transcript(self.transcript)
         # Now we can write it out to a file.
-        filepath = f'test_data/{self.id}/{self.id}-transcript.json'
-        os.makedirs(os.path.dirname(filepath), exist_ok=True)
-        with open(filepath, 'w', encoding='utf-8') as json_file:
+        
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open(filename, 'w', encoding='utf-8') as json_file:
             json_file.write(json_formatted)
 
     def getHeatmap(self):
@@ -42,24 +43,19 @@ class youtubeVideo:
         Gets a heatmap for the provided YouTube URL.
         """
         self.heatmap = heatmapExtractor.getHeatmapPoints(self.link)
-    def saveHeatmap(self, header:bool = True):
+    def saveHeatmap(self, filename: str, header:bool = True):
         """
         Saves the heatmap as a CSV file.
-        header: specieifes whether to include a header row or not.
+        filepath: the file path and name to save the heatmap to.
+        header: specifies whether to include a header row or not.
         """
         if self.heatmap == None:
             self.getHeatmap()
-        filepath = f'test_data/{self.id}/{self.id}-heatmap.csv'
-        os.makedirs(os.path.dirname(filepath), exist_ok=True)
-        with open(filepath, 'w', encoding='utf-8', newline='') as f:
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open(filename, 'w', encoding='utf-8', newline='') as f:
             write = csv.writer(f)
             if header:
                 write.writerow(["Time (Fraction of video)", "Normalized Popularity"])
             write.writerows(self.heatmap)
-
-video = youtubeVideo('https://www.youtube.com/watch?v=LQTSyRrQBVY&ab_channel=SouthChinaMorningPost')
-video.saveTranscript()
-video.saveHeatmap()
-
 
 

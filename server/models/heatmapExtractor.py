@@ -28,7 +28,7 @@ def extractHeatmapCurve(url: str, renderTime: int = 4, retries: int = 0, maxRetr
                             "Try incrementing renderTime or double checking if a heatmap does exist for the given url.")
         else:
             print("Unable to get heatmap from the HTML file. Retrying with increased renderTime.")
-            return extractHeatmapCurve(url, renderTime + 2, retries + 1)
+            return extractHeatmapCurve(url, renderTime * 1.5, retries + 1)
     return heatmapElement['d']
     
 def convertHeatmapCurve(heatmap: str)->list:
@@ -60,4 +60,4 @@ def getHeatmapPoints(url: str) -> list:
     Given a YouTube URL with a heatmap, return a list of tuples with viewership datapoints.
     See extractHeatmapCurve and convertHeatmapCurve for further details.
     """
-    return convertHeatmapCurve(extractHeatmapCurve(url))
+    return convertHeatmapCurve(extractHeatmapCurve(url, renderTime = 10))
