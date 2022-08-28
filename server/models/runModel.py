@@ -61,5 +61,3 @@ def runInferenceModel(modelPath:str, inferenceFile:str)->list:
     return heatVals
     
             
-
-runInferenceModel('model.pt', 'inferenceTable.csv')
