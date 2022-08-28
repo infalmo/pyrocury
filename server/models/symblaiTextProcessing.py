@@ -1,3 +1,4 @@
+from base64 import encode
 import json
 import requests
 import os
@@ -32,9 +33,9 @@ def mergeChunkedTranscripts(inputFilePath: str, outputFilePath: str):
     inputFilePath: the JSON file to read
     outputFilePath: a text file to write the transcript to.
     """
-    with open(inputFilePath, 'r') as f:
+    with open(inputFilePath, 'r', encoding='utf-8') as f:
         chunkedTranscript = json.loads(f.read())
-        with open(outputFilePath, 'w') as fw:
+        with open(outputFilePath, 'w', encoding='utf-8') as fw:
             for chunk in chunkedTranscript:
                 fw.write(chunk["text"])
 

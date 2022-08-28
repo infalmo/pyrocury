@@ -64,7 +64,7 @@ def processChunk(overallTextData: dict, chunkText: str)->dict:
     outDict["sharedTopicScores"] = [topic for topic in outDict["topicScores"] if topic[0] in sharedTopics]
     return outDict
 
-def videoProcessing(heatmap: str, chunkedTranscript: str, totalText: str, baseTranscript:str, id:str, outFile: str):
+def videoProcessing(heatmap: str, chunkedTranscript: str, totalText: str, baseTranscript:str, id:str, outFile: str, includeHeatmap: bool = True):
     """
     Merge all utility functions into a JSON file with features.
     heatmap, timeTranscript, totalText, baseTranscript: file names for heatmap, 
@@ -75,7 +75,8 @@ def videoProcessing(heatmap: str, chunkedTranscript: str, totalText: str, baseTr
     dataFile = dict()
     dataFile["metadata"] = dict()
     dataFile["metadata"]["id"] = id
-    dataFile["metadata"]["avgHeat"] = heatmapMedian(heatmap)
+    if includeHeatmap:
+        dataFile["metadata"]["avgHeat"] = heatmapMedian(heatmap)
     with open(baseTranscript, 'r') as f:
         loadedBaseTranscript = json.loads(f.read())
     #get runtime through last transcript
@@ -93,7 +94,8 @@ def videoProcessing(heatmap: str, chunkedTranscript: str, totalText: str, baseTr
         tempDict = dict()
         #id is video id plus timestamp when the chunk starts
         tempDict["id"] = f"{id}-" + str(int(chunk["start"]))
-        tempDict["heat"] = chunk["heat"]
+        if includeHeatmap:
+            tempDict["heat"] = chunk["heat"]
         tempDict["start"] = chunk["start"]
         tempDict["text"] = chunk["text"]
         tempDict["metrics"] = processChunk(dataFile["metadata"], chunk["text"])
@@ -102,9 +104,11 @@ def videoProcessing(heatmap: str, chunkedTranscript: str, totalText: str, baseTr
         json_file.write(json.dumps(dataFile, indent = 4))
 
 
-def convertToCSV():
+def convertToCSV(convertDir: str, outFile: str, includeHeatMap: bool = True):
     """
     Converts all the written data JSON files into a CSV containing various parameters and labels. Each row is a chunk
+    convertDir: directory to find json files in
+    outFile: the CSV file to write to
     Columns:
     id: the id of the chunk (str)
     relativeDCReadability: relative readability by the dale-chall test (float)
@@ -130,16 +134,19 @@ def convertToCSV():
     header.append("heat")
 
     #add features
-    outCSV = open('dataset.csv', 'w', newline='')
+    outCSV = open(outFile, 'w', newline='')
     writer = csv.writer(outCSV)
     writer.writerow(header)
-    for id in os.listdir('test_data'):
+    for id in os.listdir(convertDir):
         print("Processing " + id)
-        with open(f'test_data\\{id}\\{id}-data.json', 'r') as f:
+        with open(f'{convertDir}\\{id}\\{id}-data.json', 'r') as f:
             dataFile = json.loads(f.read())
         for chunk in dataFile["chunks"].keys():
             chunkDict = dataFile["chunks"][chunk]["metrics"]
-            heat = dataFile["chunks"][chunk]["heat"]
+            if includeHeatMap:
+                heat = dataFile["chunks"][chunk]["heat"]
+            else:
+                heat = 0
             rDCR = chunkDict["relativeDCReadability"]
             lD = chunkDict["lexicalDiversity"]
             tTS = chunkDict["topTopicSimilarity"]

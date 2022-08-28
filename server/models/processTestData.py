@@ -6,7 +6,7 @@ import statistics
 from unicodedata import name
 
 
-def chunkVideo(transcript: list, heatmap: list) -> list:
+def chunkVideo(transcript: list, heatmap: list, includeHeatmap: bool = True) -> list:
     """Merges transcript and heatmap as 90 second chunks
 
     output:
@@ -32,23 +32,25 @@ def chunkVideo(transcript: list, heatmap: list) -> list:
         o["text"] = o["text"].replace("\n", " ")
 
     interval_cnt = ceil(len(output) / 100)
-    for i in range(len(output)):
-        l = i * interval_cnt
+    
+    if includeHeatmap:
+        for i in range(len(output)):
+            l = i * interval_cnt
 
-        vals = []
-        for x in range(l, min(l + interval_cnt, len(heatmap))):
-            vals.append(float(heatmap[x][1]))
-        vals.sort()
-
-        if vals == []:
-            output[i]["heat"] = 0.0
-        else:
-            output[i]["heat"] = statistics.median(vals)
+            vals = []
+            for x in range(l, min(l + interval_cnt, len(heatmap))):
+                vals.append(float(heatmap[x][1]))
+            vals.sort()
+            if vals == []:
+                output[i]["heat"] = 0.0
+            else:
+                output[i]["heat"] = statistics.median(vals)
 
     # Set heat of first interval to 0.1. This is because
     # the actual heatmap metrics are skewed, as everyone starts
     # the video from the beginning.
-    output[0]["heat"] = 0.1
+    if includeHeatmap:
+        output[0]["heat"] = 0.1
 
     return output
 
