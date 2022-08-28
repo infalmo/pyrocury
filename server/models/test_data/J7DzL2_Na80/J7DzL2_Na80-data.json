@@ -1,0 +1,5105 @@
+{
+    "metadata": {
+        "id": "J7DzL2_Na80",
+        "avgHeat": 0.35,
+        "runtime": 2381.51,
+        "dale-challReadabilityScore": 7.336430931069335,
+        "lexicalDiversity": 0.49448209099709584,
+        "posComposition": {
+            "NNP": 0.028,
+            "DT": 0.131,
+            "VBZ": 0.046,
+            "JJ": 0.059,
+            "NN": 0.132,
+            "IN": 0.091,
+            "POS": 0.003,
+            "CD": 0.058,
+            "CC": 0.04,
+            "PRP": 0.074,
+            "VBP": 0.04,
+            "TO": 0.021,
+            "VB": 0.064,
+            "WDT": 0.011,
+            "VBD": 0.009,
+            "NNS": 0.036,
+            "RB": 0.06,
+            "MD": 0.027,
+            "VBG": 0.012,
+            "WP": 0.008,
+            "PRP$": 0.005,
+            "WRB": 0.008,
+            ":": 0.019,
+            "VBN": 0.003,
+            "PDT": 0.004,
+            "FW": 0.0,
+            "EX": 0.006,
+            "JJR": 0.001,
+            "NNPS": 0.0,
+            "RBS": 0.0,
+            "RP": 0.003,
+            "UH": 0.0,
+            "RBR": 0.0,
+            "JJS": 0.0
+        },
+        "syllableRate": 2.8,
+        "topicScores": [
+            [
+                "column",
+                0.1154073233513375
+            ],
+            [
+                "right",
+                0.12747834635565686
+            ],
+            [
+                "picture",
+                0.14159335132638542
+            ],
+            [
+                "x",
+                0.1420068253708846
+            ],
+            [
+                "equation",
+                0.1422654248967487
+            ],
+            [
+                "matrix",
+                0.14303275803064414
+            ],
+            [
+                "combination",
+                0.14440701161185474
+            ],
+            [
+                "point",
+                0.14614438954239833
+            ],
+            [
+                "hand",
+                0.15257228911328152
+            ],
+            [
+                "row",
+                0.1536201005864503
+            ],
+            [
+                "minus",
+                0.1543155946204711
+            ],
+            [
+                "vector",
+                0.15793487143183535
+            ],
+            [
+                "plane",
+                0.16026361652647647
+            ],
+            [
+                "y",
+                0.16322690009824323
+            ],
+            [
+                "linear",
+                0.17679801229089973
+            ],
+            [
+                "time",
+                0.1825685847218409
+            ],
+            [
+                "second",
+                0.209747094909512
+            ],
+            [
+                "way",
+                0.2142674148408282
+            ],
+            [
+                "solution",
+                0.22275018276157835
+            ],
+            [
+                "unknown",
+                0.2338612063851804
+            ],
+            [
+                "component",
+                0.2363677008451357
+            ],
+            [
+                "example",
+                0.2544158355202673
+            ],
+            [
+                "dimensional",
+                0.25539796707386075
+            ],
+            [
+                "course",
+                0.26527930514417214
+            ],
+            [
+                "case",
+                0.27855178693414584
+            ],
+            [
+                "number",
+                0.27872765924335224
+            ],
+            [
+                "z",
+                0.279401771613156
+            ],
+            [
+                "new",
+                0.28089937092778455
+            ],
+            [
+                "space",
+                0.29414677550724083
+            ],
+            [
+                "equal",
+                0.29447657657328724
+            ]
+        ],
+        "topicsList": [
+            "column",
+            "right",
+            "picture",
+            "x",
+            "equation",
+            "matrix",
+            "combination",
+            "point",
+            "hand",
+            "row",
+            "minus",
+            "vector",
+            "plane",
+            "y",
+            "linear",
+            "time",
+            "second",
+            "way",
+            "solution",
+            "unknown",
+            "component",
+            "example",
+            "dimensional",
+            "course",
+            "case",
+            "number",
+            "z",
+            "new",
+            "space",
+            "equal"
+        ]
+    },
+    "chunks": {
+        "J7DzL2_Na80-0": {
+            "id": "J7DzL2_Na80-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " Hi. This is the first lecture in MIT's course 18.06, linear algebra, and I'm Gilbert Strang. The text for the course is this book, Introduction to Linear Algebra. And the course web page, which has got a lot of exercises from the past, MatLab codes, the syllabus for the course, is web.mit.edu/18.06. And this is the first lecture, lecture one. So, and later we'll give the web address for viewing these, videotapes. Okay, so what's in the first lecture? This is my plan. The fundamental problem of linear algebra, which is to solve a system of linear equations. So let's start with a case when we have some number of equations, say n equations and n unknowns. So an equal number of equations and unknowns. That's the normal, nice case. And what I want to do is -- with examples, of course --",
+            "metrics": {
+                "relativeDCReadability": 1.145485816208207,
+                "lexicalDiversity": 0.5234899328859061,
+                "posComposition": {
+                    "NNP": 0.06,
+                    "DT": 0.148,
+                    "VBZ": 0.074,
+                    "JJ": 0.094,
+                    "NN": 0.188,
+                    "IN": 0.114,
+                    "POS": 0.013,
+                    "CD": 0.013,
+                    "CC": 0.047,
+                    "PRP": 0.027,
+                    "VBP": 0.027,
+                    "TO": 0.02,
+                    "VB": 0.027,
+                    "WDT": 0.02,
+                    "VBD": 0.007,
+                    "NNS": 0.06,
+                    "RB": 0.007,
+                    "MD": 0.007,
+                    "VBG": 0.007,
+                    "WP": 0.013,
+                    "PRP$": 0.007,
+                    "WRB": 0.007,
+                    ":": 0.013
+                },
+                "syllableRate": 1.742,
+                "topicScores": [
+                    [
+                        "course",
+                        0.3237741312575837
+                    ],
+                    [
+                        "Gilbert Strang",
+                        0.3402048954568798
+                    ],
+                    [
+                        "lecture",
+                        0.34954308063797634
+                    ],
+                    [
+                        "equation",
+                        0.3711383949603327
+                    ],
+                    [
+                        "linear",
+                        0.4234674419410931
+                    ],
+                    [
+                        "Linear Algebra",
+                        0.4390742017583067
+                    ],
+                    [
+                        "unknown",
+                        0.5275669046810646
+                    ],
+                    [
+                        "MIT",
+                        0.5342290681059301
+                    ],
+                    [
+                        "algebra",
+                        0.5342363796232926
+                    ],
+                    [
+                        "web",
+                        0.5460359167020706
+                    ],
+                    [
+                        "number",
+                        0.5586710988781557
+                    ],
+                    [
+                        "case",
+                        0.5594256210084133
+                    ],
+                    [
+                        "introduction",
+                        0.5681616919893924
+                    ],
+                    [
+                        "web.mit.edu/18.06",
+                        0.8507098634914859
+                    ],
+                    [
+                        "videotape",
+                        0.8682787520621683
+                    ],
+                    [
+                        "text",
+                        0.8749345752038606
+                    ],
+                    [
+                        "book",
+                        0.8749345752038606
+                    ],
+                    [
+                        "MatLab",
+                        0.876817379879685
+                    ],
+                    [
+                        "code",
+                        0.876817379879685
+                    ],
+                    [
+                        "page",
+                        0.8874762406195543
+                    ],
+                    [
+                        "past",
+                        0.8874762406195543
+                    ],
+                    [
+                        "syllabus",
+                        0.8874762406195543
+                    ],
+                    [
+                        "plan",
+                        0.8898166662405942
+                    ],
+                    [
+                        "lot",
+                        0.8968586308596042
+                    ],
+                    [
+                        "exercise",
+                        0.8968586308596042
+                    ],
+                    [
+                        "nice",
+                        0.9092579345986974
+                    ],
+                    [
+                        "address",
+                        0.9095738799461613
+                    ],
+                    [
+                        "example",
+                        0.9108231298811873
+                    ],
+                    [
+                        "fundamental",
+                        0.9115586613142475
+                    ],
+                    [
+                        "normal",
+                        0.9173742670834605
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "course",
+                        0.3237741312575837
+                    ],
+                    [
+                        "equation",
+                        0.3711383949603327
+                    ],
+                    [
+                        "linear",
+                        0.4234674419410931
+                    ],
+                    [
+                        "unknown",
+                        0.5275669046810646
+                    ],
+                    [
+                        "number",
+                        0.5586710988781557
+                    ],
+                    [
+                        "case",
+                        0.5594256210084133
+                    ],
+                    [
+                        "example",
+                        0.9108231298811873
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-90": {
+            "id": "J7DzL2_Na80-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " to describe, first, what I call the Row picture. That's the picture of one equation at a time. It's the picture you've seen before in two by two equations where lines meet. So in a minute, you'll see lines meeting. The second picture, I'll put a star beside that, because that's such an important one. And maybe new to you is the picture -- a column at a time. And those are the rows and columns of a matrix. So the third -- the algebra way to look at the problem is the matrix form and using a matrix that I'll call A. Okay, so can I do an example? The whole semester will be examples and then see what's going on with the example. So, take an example. Two equations, two unknowns. So let me take 2x -y =0, let's say. And -x 2y=3. Okay. let me -- I can even say right away -- what's the matrix, that is, what's the coefficient matrix? The matrix that involves these numbers --",
+            "metrics": {
+                "relativeDCReadability": 0.9557580527994483,
+                "lexicalDiversity": 0.5245901639344263,
+                "posComposition": {
+                    "TO": 0.016,
+                    "VB": 0.082,
+                    "JJ": 0.044,
+                    "WP": 0.022,
+                    "PRP": 0.06,
+                    "VBP": 0.016,
+                    "DT": 0.153,
+                    "NNP": 0.038,
+                    "NN": 0.142,
+                    "WDT": 0.022,
+                    "VBZ": 0.06,
+                    "IN": 0.082,
+                    "CD": 0.044,
+                    "VBN": 0.005,
+                    "NNS": 0.044,
+                    "WRB": 0.005,
+                    "RB": 0.038,
+                    "MD": 0.033,
+                    "VBG": 0.016,
+                    "PDT": 0.005,
+                    "CC": 0.033,
+                    ":": 0.027,
+                    "POS": 0.005,
+                    "FW": 0.005
+                },
+                "syllableRate": 1.975,
+                "topicScores": [
+                    [
+                        "matrix",
+                        0.3072455479770892
+                    ],
+                    [
+                        "picture",
+                        0.31288594743324516
+                    ],
+                    [
+                        "example",
+                        0.3803321720336595
+                    ],
+                    [
+                        "equation",
+                        0.43802061102921774
+                    ],
+                    [
+                        "row",
+                        0.4403007069652647
+                    ],
+                    [
+                        "time",
+                        0.49299546984057646
+                    ],
+                    [
+                        "line",
+                        0.5343046081684242
+                    ],
+                    [
+                        "column",
+                        0.5597190824807409
+                    ],
+                    [
+                        "A.",
+                        0.6567457620248407
+                    ],
+                    [
+                        "Okay",
+                        0.6567457620248407
+                    ],
+                    [
+                        "A. Okay",
+                        0.7584427105629343
+                    ],
+                    [
+                        "second",
+                        0.8964451453814297
+                    ],
+                    [
+                        "unknown",
+                        0.8977981068811257
+                    ],
+                    [
+                        "minute",
+                        0.8982190331314033
+                    ],
+                    [
+                        "important",
+                        0.9055885088028289
+                    ],
+                    [
+                        "star",
+                        0.9136076870986005
+                    ],
+                    [
+                        "number",
+                        0.9158742710516231
+                    ],
+                    [
+                        "algebra",
+                        0.9177351034901187
+                    ],
+                    [
+                        "new",
+                        0.9184009571577313
+                    ],
+                    [
+                        "way",
+                        0.9248082313613695
+                    ],
+                    [
+                        "problem",
+                        0.9248082313613695
+                    ],
+                    [
+                        "form",
+                        0.9248082313613695
+                    ],
+                    [
+                        "2x",
+                        0.9255022636427878
+                    ],
+                    [
+                        "semester",
+                        0.9270863102442876
+                    ],
+                    [
+                        "coefficient",
+                        0.92991548585456
+                    ],
+                    [
+                        "row picture",
+                        1.2958325774276664
+                    ],
+                    [
+                        "second picture",
+                        2.6369380891728618
+                    ],
+                    [
+                        "matrix form",
+                        3.942930023998487
+                    ],
+                    [
+                        "coefficient matrix",
+                        4.052957338697611
+                    ],
+                    [
+                        "algebra way",
+                        5.610651440240284
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "matrix",
+                        0.3072455479770892
+                    ],
+                    [
+                        "picture",
+                        0.31288594743324516
+                    ],
+                    [
+                        "example",
+                        0.3803321720336595
+                    ],
+                    [
+                        "equation",
+                        0.43802061102921774
+                    ],
+                    [
+                        "row",
+                        0.4403007069652647
+                    ],
+                    [
+                        "time",
+                        0.49299546984057646
+                    ],
+                    [
+                        "column",
+                        0.5597190824807409
+                    ],
+                    [
+                        "second",
+                        0.8964451453814297
+                    ],
+                    [
+                        "unknown",
+                        0.8977981068811257
+                    ],
+                    [
+                        "number",
+                        0.9158742710516231
+                    ],
+                    [
+                        "new",
+                        0.9184009571577313
+                    ],
+                    [
+                        "way",
+                        0.9248082313613695
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-180": {
+            "id": "J7DzL2_Na80-180",
+            "heat": 0.204,
+            "start": 180.0,
+            "text": " a matrix is just a rectangular array of numbers. Here it's two rows and two columns, so 2 and -- minus 1 in the first row minus 1 and 2 in the second row, that's the matrix. And the right-hand -- the, unknown -- well, we've got two unknowns. So we've got a vector, with two components, x and y, and we've got two right-hand sides that go into a vector 0 3. I couldn't resist writing the matrix form, right -- even before the pictures. So I always will think of this as the matrix A, the matrix of coefficients, then there's a vector of unknowns. Here we've only got two unknowns. Later we'll have any number of unknowns. And that vector of unknowns, well I'll often -- I'll make that x -- extra bold. A and the right-hand side is also a vector that I'll always call b. So linear equations are A x equal b and the idea now is to solve this particular example and then step back to see the bigger picture. Okay, what's the picture for this example, the Row picture? Okay, so here comes the Row picture.",
+            "metrics": {
+                "relativeDCReadability": 1.106414219406871,
+                "lexicalDiversity": 0.5603864734299517,
+                "posComposition": {
+                    "DT": 0.14,
+                    "NN": 0.14,
+                    "VBZ": 0.039,
+                    "RB": 0.092,
+                    "JJ": 0.063,
+                    "IN": 0.077,
+                    "NNS": 0.058,
+                    "PRP": 0.053,
+                    "CD": 0.063,
+                    "CC": 0.058,
+                    ":": 0.029,
+                    "WDT": 0.01,
+                    "VBP": 0.029,
+                    "VBN": 0.01,
+                    "VBD": 0.014,
+                    "MD": 0.029,
+                    "VB": 0.039,
+                    "VBG": 0.005,
+                    "NNP": 0.029,
+                    "EX": 0.005,
+                    "TO": 0.01,
+                    "JJR": 0.005,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.3,
+                "topicScores": [
+                    [
+                        "unknown",
+                        0.27823099746743474
+                    ],
+                    [
+                        "row",
+                        0.28595222607085735
+                    ],
+                    [
+                        "matrix",
+                        0.3268335915732799
+                    ],
+                    [
+                        "picture",
+                        0.32782818430827015
+                    ],
+                    [
+                        "vector",
+                        0.34072025159245556
+                    ],
+                    [
+                        "right",
+                        0.3519860798120879
+                    ],
+                    [
+                        "hand",
+                        0.41028953617703234
+                    ],
+                    [
+                        "number",
+                        0.554141462205021
+                    ],
+                    [
+                        "example",
+                        0.5692584345627127
+                    ],
+                    [
+                        "rectangular",
+                        0.8252175342897191
+                    ],
+                    [
+                        "array",
+                        0.8252175342897191
+                    ],
+                    [
+                        "column",
+                        0.8656837016199551
+                    ],
+                    [
+                        "second",
+                        0.8656837016199551
+                    ],
+                    [
+                        "bold",
+                        0.8929083332795846
+                    ],
+                    [
+                        "component",
+                        0.8982781391471519
+                    ],
+                    [
+                        "form",
+                        0.9056437847955051
+                    ],
+                    [
+                        "b.",
+                        0.9058027233917378
+                    ],
+                    [
+                        "coefficient",
+                        0.9108357893985051
+                    ],
+                    [
+                        "extra",
+                        0.9123962063890424
+                    ],
+                    [
+                        "linear",
+                        0.9240492006007232
+                    ],
+                    [
+                        "big",
+                        0.9240492006007232
+                    ],
+                    [
+                        "equation",
+                        0.9306204844076443
+                    ],
+                    [
+                        "equal",
+                        0.9306204844076443
+                    ],
+                    [
+                        "idea",
+                        0.9306204844076443
+                    ],
+                    [
+                        "particular",
+                        0.9306204844076443
+                    ],
+                    [
+                        "row picture",
+                        1.0578316666432424
+                    ],
+                    [
+                        "second row",
+                        1.7769479839294362
+                    ],
+                    [
+                        "rectangular array",
+                        2.134638807635432
+                    ],
+                    [
+                        "hand side",
+                        2.5611634237458336
+                    ],
+                    [
+                        "matrix form",
+                        3.257773918825252
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "unknown",
+                        0.27823099746743474
+                    ],
+                    [
+                        "row",
+                        0.28595222607085735
+                    ],
+                    [
+                        "matrix",
+                        0.3268335915732799
+                    ],
+                    [
+                        "picture",
+                        0.32782818430827015
+                    ],
+                    [
+                        "vector",
+                        0.34072025159245556
+                    ],
+                    [
+                        "right",
+                        0.3519860798120879
+                    ],
+                    [
+                        "hand",
+                        0.41028953617703234
+                    ],
+                    [
+                        "number",
+                        0.554141462205021
+                    ],
+                    [
+                        "example",
+                        0.5692584345627127
+                    ],
+                    [
+                        "column",
+                        0.8656837016199551
+                    ],
+                    [
+                        "second",
+                        0.8656837016199551
+                    ],
+                    [
+                        "component",
+                        0.8982781391471519
+                    ],
+                    [
+                        "linear",
+                        0.9240492006007232
+                    ],
+                    [
+                        "equation",
+                        0.9306204844076443
+                    ],
+                    [
+                        "equal",
+                        0.9306204844076443
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-270": {
+            "id": "J7DzL2_Na80-270",
+            "heat": 0.268,
+            "start": 270.0,
+            "text": " So that means I take one row at a time and I'm drawing here the xy plane and I'm going to plot all the points that satisfy that first equation. So I'm looking at all the points that satisfy 2x-y =0. It's often good to start with which point on the horizontal line -- on this horizontal line, y is zero. The x axis has y as zero and that -- in this case, actually, then x is zero. So the point, the origin -- the point with coordinates (0,0) is on the line. It solves that equation. Okay, tell me in -- well, I guess I have to tell you another point that solves this same equation. Let me suppose x is one, so I'll take x to be one. Then y should be two, right? So there's the point one two that also solves this equation. And I could put in more points. But, but let me put in all the points at once, because they all lie on a straight line. This is a linear equation and that word linear got the letters Okay, thanks. for line in it. That's the equation -- this is the line that ... of solutions to 2x-y=0 my first row, first equation.",
+            "metrics": {
+                "relativeDCReadability": 1.0925248814637254,
+                "lexicalDiversity": 0.48623853211009177,
+                "posComposition": {
+                    "IN": 0.124,
+                    "DT": 0.128,
+                    "VBZ": 0.064,
+                    "PRP": 0.073,
+                    "VBP": 0.041,
+                    "CD": 0.041,
+                    "NN": 0.142,
+                    "CC": 0.032,
+                    "VBG": 0.014,
+                    "RB": 0.046,
+                    "NNP": 0.023,
+                    "TO": 0.023,
+                    "VB": 0.06,
+                    "PDT": 0.014,
+                    "NNS": 0.037,
+                    "WDT": 0.023,
+                    "JJ": 0.05,
+                    ":": 0.028,
+                    "VBN": 0.005,
+                    "MD": 0.014,
+                    "EX": 0.005,
+                    "JJR": 0.005,
+                    "VBD": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.267,
+                "topicScores": [
+                    [
+                        "point",
+                        0.26849768645584043
+                    ],
+                    [
+                        "equation",
+                        0.29543751814330094
+                    ],
+                    [
+                        "line",
+                        0.31958784812770996
+                    ],
+                    [
+                        "y",
+                        0.3813050599710725
+                    ],
+                    [
+                        "x",
+                        0.3915636936422667
+                    ],
+                    [
+                        "horizontal",
+                        0.5452109081422752
+                    ],
+                    [
+                        "2x",
+                        0.5755643450844373
+                    ],
+                    [
+                        "row",
+                        0.5781992937675654
+                    ],
+                    [
+                        "linear",
+                        0.5913345936634973
+                    ],
+                    [
+                        "plane",
+                        0.7900514366763974
+                    ],
+                    [
+                        "xy",
+                        0.8245793768340304
+                    ],
+                    [
+                        "time",
+                        0.8389279907495751
+                    ],
+                    [
+                        "=",
+                        0.8852749662375775
+                    ],
+                    [
+                        "right",
+                        0.9023500155298161
+                    ],
+                    [
+                        "origin",
+                        0.9096123320394996
+                    ],
+                    [
+                        "0,0",
+                        0.9096123320394996
+                    ],
+                    [
+                        "thank",
+                        0.9106350246538727
+                    ],
+                    [
+                        "case",
+                        0.9133095480013569
+                    ],
+                    [
+                        "good",
+                        0.9148219989018234
+                    ],
+                    [
+                        "coordinate",
+                        0.9181178770570654
+                    ],
+                    [
+                        "letter",
+                        0.918876590919092
+                    ],
+                    [
+                        "axis",
+                        0.9210949362965749
+                    ],
+                    [
+                        "straight",
+                        0.9329239091285402
+                    ],
+                    [
+                        "solution",
+                        0.9365586665555931
+                    ],
+                    [
+                        "y=0",
+                        0.9365586665555931
+                    ],
+                    [
+                        "word",
+                        0.9400384988542764
+                    ],
+                    [
+                        "xy plane",
+                        1.8691121480600736
+                    ],
+                    [
+                        "horizontal line",
+                        2.176975843684543
+                    ],
+                    [
+                        "linear equation",
+                        4.906338791954285
+                    ],
+                    [
+                        "straight line",
+                        5.135574724517166
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.26849768645584043
+                    ],
+                    [
+                        "equation",
+                        0.29543751814330094
+                    ],
+                    [
+                        "y",
+                        0.3813050599710725
+                    ],
+                    [
+                        "x",
+                        0.3915636936422667
+                    ],
+                    [
+                        "row",
+                        0.5781992937675654
+                    ],
+                    [
+                        "linear",
+                        0.5913345936634973
+                    ],
+                    [
+                        "plane",
+                        0.7900514366763974
+                    ],
+                    [
+                        "time",
+                        0.8389279907495751
+                    ],
+                    [
+                        "right",
+                        0.9023500155298161
+                    ],
+                    [
+                        "case",
+                        0.9133095480013569
+                    ],
+                    [
+                        "solution",
+                        0.9365586665555931
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-360": {
+            "id": "J7DzL2_Na80-360",
+            "heat": 0.21,
+            "start": 360.0,
+            "text": " So typically, maybe, x equal a half, y equal one will work. And sure enough it does. Okay, that's the first one. Now the second one is not going to go through the origin. It's always important. Do we go through the origin or not? In this case, yes, because there's a zero over there. In this case we don't go through the origin, because if x and y are zero, we don't get three. So, let me again say suppose y is zero, what x do we actually get? If y is zero, then I get x is minus three. So if y is zero, I go along minus three. So there's one point on this second line. Now let me say, well, suppose x is minus one -- just to take another x. If x is minus one, then this is a one and I think y should be a one, because if x is minus one, then I think y should be a one and we'll get that point. Is that right? If x is minus one, that's a one. If y is a one, that's a two and the one and the two make three and that point's on the equation. Okay. Now, I should just draw the line, right,",
+            "metrics": {
+                "relativeDCReadability": 1.040854986981325,
+                "lexicalDiversity": 0.4642857142857143,
+                "posComposition": {
+                    "RB": 0.103,
+                    "JJ": 0.071,
+                    "VBP": 0.054,
+                    "DT": 0.107,
+                    "NN": 0.098,
+                    "MD": 0.022,
+                    "VB": 0.058,
+                    "CC": 0.049,
+                    "PRP": 0.062,
+                    "VBZ": 0.089,
+                    "NNP": 0.031,
+                    "WDT": 0.013,
+                    "CD": 0.094,
+                    "VBG": 0.004,
+                    "TO": 0.009,
+                    "IN": 0.094,
+                    "EX": 0.013,
+                    "NNS": 0.013,
+                    "WP": 0.004,
+                    ":": 0.004,
+                    "POS": 0.004
+                },
+                "syllableRate": 2.25,
+                "topicScores": [
+                    [
+                        "x",
+                        0.26905719198680433
+                    ],
+                    [
+                        "y",
+                        0.2695145191242729
+                    ],
+                    [
+                        "origin",
+                        0.42742280445949427
+                    ],
+                    [
+                        "point",
+                        0.4523069966683568
+                    ],
+                    [
+                        "equal",
+                        0.5180696403440866
+                    ],
+                    [
+                        "case",
+                        0.5670125666851488
+                    ],
+                    [
+                        "right",
+                        0.567380112603872
+                    ],
+                    [
+                        "second",
+                        0.5780847277073661
+                    ],
+                    [
+                        "line",
+                        0.5803808692540608
+                    ],
+                    [
+                        "half",
+                        0.8489098356161701
+                    ],
+                    [
+                        "important",
+                        0.915227268138635
+                    ],
+                    [
+                        "equation",
+                        0.9386837207327423
+                    ],
+                    [
+                        "y equal",
+                        2.350276146996371
+                    ],
+                    [
+                        "second line",
+                        5.362740236611869
+                    ]
+                ],
+                "topTopicSimilarity": 0.5714285714285714,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.26905719198680433
+                    ],
+                    [
+                        "y",
+                        0.2695145191242729
+                    ],
+                    [
+                        "point",
+                        0.4523069966683568
+                    ],
+                    [
+                        "equal",
+                        0.5180696403440866
+                    ],
+                    [
+                        "case",
+                        0.5670125666851488
+                    ],
+                    [
+                        "right",
+                        0.567380112603872
+                    ],
+                    [
+                        "second",
+                        0.5780847277073661
+                    ],
+                    [
+                        "equation",
+                        0.9386837207327423
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-450": {
+            "id": "J7DzL2_Na80-450",
+            "heat": 0.171,
+            "start": 450.0,
+            "text": " connecting those two points at -- that will give me the whole line. And if I've done this reasonably well, I think it's going to happen to go through -- well, not happen -- it was arranged to go through that point. So I think that the second line is this one, and this is the all-important point that lies on both lines. Shall we just check that that point which is the point x equal one and y was two, right? That's the point there and that, I believe, solves both equations. Let's just check this. If x is one, I have a minus one plus four equals three, okay. Apologies for drawing this picture that you've seen before. But this -- seeing the row picture -- first of all, for n equal 2, two equations and two unknowns, it's the right place to start. Okay. So we've got the solution. The point that lies on both lines. Now can I come to the column picture? Pay attention, this is the key point. So the column picture. I'm now going to look at the columns of the matrix. I'm going to look at this part and this part. I'm going to say that the x part is really x times --",
+            "metrics": {
+                "relativeDCReadability": 0.8324881882486264,
+                "lexicalDiversity": 0.5135135135135135,
+                "posComposition": {
+                    "VBG": 0.032,
+                    "DT": 0.144,
+                    "CD": 0.045,
+                    "NNS": 0.036,
+                    "IN": 0.09,
+                    ":": 0.027,
+                    "WDT": 0.023,
+                    "MD": 0.009,
+                    "VB": 0.059,
+                    "PRP": 0.072,
+                    "JJ": 0.05,
+                    "NN": 0.122,
+                    "CC": 0.036,
+                    "VBP": 0.045,
+                    "VBN": 0.014,
+                    "RB": 0.054,
+                    "VBZ": 0.054,
+                    "TO": 0.036,
+                    "VBD": 0.014,
+                    "NNP": 0.032,
+                    "POS": 0.005,
+                    "NNPS": 0.005
+                },
+                "syllableRate": 2.242,
+                "topicScores": [
+                    [
+                        "point",
+                        0.27521484489776293
+                    ],
+                    [
+                        "line",
+                        0.3679203853015109
+                    ],
+                    [
+                        "picture",
+                        0.37932750706124996
+                    ],
+                    [
+                        "x",
+                        0.38935199272652454
+                    ],
+                    [
+                        "column",
+                        0.44594866464252847
+                    ],
+                    [
+                        "equal",
+                        0.4528235052732806
+                    ],
+                    [
+                        "right",
+                        0.5650270206746272
+                    ],
+                    [
+                        "equation",
+                        0.5661366880316412
+                    ],
+                    [
+                        "important",
+                        0.9056607581316544
+                    ],
+                    [
+                        "apology",
+                        0.9104095337251193
+                    ],
+                    [
+                        "second",
+                        0.9136743846606794
+                    ],
+                    [
+                        "solution",
+                        0.9162937635223162
+                    ],
+                    [
+                        "matrix",
+                        0.9221370314680918
+                    ],
+                    [
+                        "time",
+                        0.9237616535881651
+                    ],
+                    [
+                        "attention",
+                        0.9277677702000985
+                    ],
+                    [
+                        "row",
+                        0.9280878617972151
+                    ],
+                    [
+                        "unknown",
+                        0.9280878617972151
+                    ],
+                    [
+                        "place",
+                        0.9343345507061921
+                    ],
+                    [
+                        "key",
+                        0.9343480493942496
+                    ],
+                    [
+                        "column picture",
+                        2.31125608480743
+                    ],
+                    [
+                        "second line",
+                        3.556598093333895
+                    ],
+                    [
+                        "important point",
+                        3.764352282593261
+                    ],
+                    [
+                        "key point",
+                        4.409351950595881
+                    ],
+                    [
+                        "row picture",
+                        4.477442834252099
+                    ],
+                    [
+                        "right place",
+                        5.125205342237241
+                    ]
+                ],
+                "topTopicSimilarity": 0.52,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.27521484489776293
+                    ],
+                    [
+                        "picture",
+                        0.37932750706124996
+                    ],
+                    [
+                        "x",
+                        0.38935199272652454
+                    ],
+                    [
+                        "column",
+                        0.44594866464252847
+                    ],
+                    [
+                        "equal",
+                        0.4528235052732806
+                    ],
+                    [
+                        "right",
+                        0.5650270206746272
+                    ],
+                    [
+                        "equation",
+                        0.5661366880316412
+                    ],
+                    [
+                        "second",
+                        0.9136743846606794
+                    ],
+                    [
+                        "solution",
+                        0.9162937635223162
+                    ],
+                    [
+                        "matrix",
+                        0.9221370314680918
+                    ],
+                    [
+                        "time",
+                        0.9237616535881651
+                    ],
+                    [
+                        "row",
+                        0.9280878617972151
+                    ],
+                    [
+                        "unknown",
+                        0.9280878617972151
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-540": {
+            "id": "J7DzL2_Na80-540",
+            "heat": 0.123,
+            "start": 540.0,
+            "text": " you see, I'm putting the two -- I'm kind of getting the two equations at once -- that part and then I have a y and in the first equation it's multiplying a minus one and in the second equation a two, and on the right-hand side, zero and three. You see, the columns of the matrix, the columns of A are here and the right-hand side b is there. And now what is the equation asking for? It's asking us to find -- somehow to combine that vector and this one in the right amounts to get that one. It's asking us to find the right linear combination -- this is called a linear combination. And it's the most fundamental operation in the whole course. It's a linear combination of the columns. That's what we're seeing on the left side. Again, I don't want to write down a big definition. You can see what it is. There's column one, there's column two. I multiply by some numbers and I add. That's a combination -- a linear combination and I want to make those numbers the right numbers to produce zero three.",
+            "metrics": {
+                "relativeDCReadability": 0.9941373449560588,
+                "lexicalDiversity": 0.4878048780487805,
+                "posComposition": {
+                    "PRP": 0.093,
+                    "VBP": 0.054,
+                    "VBG": 0.034,
+                    "DT": 0.156,
+                    "CD": 0.054,
+                    ":": 0.024,
+                    "NN": 0.137,
+                    "IN": 0.073,
+                    "NNS": 0.024,
+                    "RB": 0.029,
+                    "CC": 0.054,
+                    "JJ": 0.073,
+                    "VBZ": 0.063,
+                    "NNP": 0.01,
+                    "WP": 0.015,
+                    "TO": 0.034,
+                    "VB": 0.044,
+                    "VBN": 0.005,
+                    "RBS": 0.005,
+                    "RP": 0.005,
+                    "MD": 0.005,
+                    "EX": 0.01
+                },
+                "syllableRate": 2.308,
+                "topicScores": [
+                    [
+                        "column",
+                        0.32017101613941334
+                    ],
+                    [
+                        "right",
+                        0.32035443693329557
+                    ],
+                    [
+                        "combination",
+                        0.3278348685049345
+                    ],
+                    [
+                        "equation",
+                        0.352084854692926
+                    ],
+                    [
+                        "linear",
+                        0.35860213015249487
+                    ],
+                    [
+                        "number",
+                        0.45659047762799854
+                    ],
+                    [
+                        "hand",
+                        0.4846902842135219
+                    ],
+                    [
+                        "y",
+                        0.8628322444007508
+                    ],
+                    [
+                        "second",
+                        0.8628322444007508
+                    ],
+                    [
+                        "matrix",
+                        0.8749137946547669
+                    ],
+                    [
+                        "course",
+                        0.887852005754257
+                    ],
+                    [
+                        "definition",
+                        0.8975524760967261
+                    ],
+                    [
+                        "vector",
+                        0.9035461367357605
+                    ],
+                    [
+                        "amount",
+                        0.9035461367357605
+                    ],
+                    [
+                        "left",
+                        0.9115433508934402
+                    ],
+                    [
+                        "fundamental",
+                        0.9128156879062429
+                    ],
+                    [
+                        "operation",
+                        0.9128156879062429
+                    ],
+                    [
+                        "big",
+                        0.9137999756152193
+                    ],
+                    [
+                        "linear combination",
+                        1.0323198788579981
+                    ],
+                    [
+                        "right linear",
+                        2.220815331894509
+                    ],
+                    [
+                        "second equation",
+                        2.394190259331473
+                    ],
+                    [
+                        "right amount",
+                        2.971884720379412
+                    ],
+                    [
+                        "right number",
+                        3.101873982468991
+                    ],
+                    [
+                        "big definition",
+                        4.561222774326638
+                    ],
+                    [
+                        "fundamental operation",
+                        4.99637147884772
+                    ],
+                    [
+                        "hand side b",
+                        7.032918451884573
+                    ],
+                    [
+                        "right linear combination",
+                        8.144499654156002
+                    ]
+                ],
+                "topTopicSimilarity": 0.4444444444444444,
+                "sharedTopicScores": [
+                    [
+                        "column",
+                        0.32017101613941334
+                    ],
+                    [
+                        "right",
+                        0.32035443693329557
+                    ],
+                    [
+                        "combination",
+                        0.3278348685049345
+                    ],
+                    [
+                        "equation",
+                        0.352084854692926
+                    ],
+                    [
+                        "linear",
+                        0.35860213015249487
+                    ],
+                    [
+                        "number",
+                        0.45659047762799854
+                    ],
+                    [
+                        "hand",
+                        0.4846902842135219
+                    ],
+                    [
+                        "y",
+                        0.8628322444007508
+                    ],
+                    [
+                        "second",
+                        0.8628322444007508
+                    ],
+                    [
+                        "matrix",
+                        0.8749137946547669
+                    ],
+                    [
+                        "course",
+                        0.887852005754257
+                    ],
+                    [
+                        "vector",
+                        0.9035461367357605
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-630": {
+            "id": "J7DzL2_Na80-630",
+            "heat": 0.149,
+            "start": 630.0,
+            "text": " Okay. Now I want to draw a picture that, represents what this -- this is algebra. What's the geometry, what's the picture that goes with it? Okay. So again, these vectors have two components, so I better draw a picture like that. So can I put down these columns? I'll draw these columns as they are, and then I'll do a combination of them. So the first column is over two and down one, right? So there's the first column. The first column. Column one. It's the vector two minus one. The second column is -- minus one is the first component and up two. It's here. There's column two. So this, again, you see what its components are. Its components are minus one, two. Good. That's this guy. Now I have to take a combination. What combination shall I take? Why not the right combination, what the hell? Okay. So the combination I'm going to take is the right one to produce zero three and then we'll see it happen in the picture. So the right combination is to take x as one of those",
+            "metrics": {
+                "relativeDCReadability": 0.9567451957999918,
+                "lexicalDiversity": 0.467005076142132,
+                "posComposition": {
+                    "RB": 0.061,
+                    "PRP": 0.081,
+                    "VBP": 0.051,
+                    "TO": 0.025,
+                    "VB": 0.061,
+                    "DT": 0.142,
+                    "NN": 0.112,
+                    "WDT": 0.01,
+                    "VBZ": 0.076,
+                    "WP": 0.03,
+                    ":": 0.01,
+                    "JJ": 0.051,
+                    "IN": 0.071,
+                    "NNP": 0.025,
+                    "NNS": 0.025,
+                    "CD": 0.076,
+                    "MD": 0.025,
+                    "RP": 0.005,
+                    "CC": 0.03,
+                    "EX": 0.01,
+                    "PRP$": 0.01,
+                    "WRB": 0.005,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.158,
+                "topicScores": [
+                    [
+                        "column",
+                        0.28993967789823305
+                    ],
+                    [
+                        "combination",
+                        0.32074776472929384
+                    ],
+                    [
+                        "picture",
+                        0.374071828120924
+                    ],
+                    [
+                        "right",
+                        0.38822242545346863
+                    ],
+                    [
+                        "component",
+                        0.3903040905413064
+                    ],
+                    [
+                        "vector",
+                        0.5758959797356583
+                    ],
+                    [
+                        "algebra",
+                        0.8761862741510451
+                    ],
+                    [
+                        "geometry",
+                        0.9109940680554062
+                    ],
+                    [
+                        "good",
+                        0.9176679414457377
+                    ],
+                    [
+                        "guy",
+                        0.9379210520211828
+                    ],
+                    [
+                        "hell",
+                        0.9395652093952797
+                    ],
+                    [
+                        "second",
+                        0.943044051980579
+                    ],
+                    [
+                        "right combination",
+                        2.7195598305777136
+                    ],
+                    [
+                        "second column",
+                        4.564138734925763
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "column",
+                        0.28993967789823305
+                    ],
+                    [
+                        "combination",
+                        0.32074776472929384
+                    ],
+                    [
+                        "picture",
+                        0.374071828120924
+                    ],
+                    [
+                        "right",
+                        0.38822242545346863
+                    ],
+                    [
+                        "component",
+                        0.3903040905413064
+                    ],
+                    [
+                        "vector",
+                        0.5758959797356583
+                    ],
+                    [
+                        "second",
+                        0.943044051980579
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-720": {
+            "id": "J7DzL2_Na80-720",
+            "heat": 0.169,
+            "start": 720.0,
+            "text": " and two of these. It's because we already know that that's the right x and y, so why not take the correct combination here and see it happen? Okay, so how do I picture this linear combination? So I start with this vector that's already here -- so that's one of column one, that's one times column one, right there. And now I want to add on -- so I'm going to hook the next vector onto the front of the arrow will start the next vector and it will go this way. So let's see, can I do it right? If I added on one of these vectors, it would go left one and up two, so we'd go left one and up two, so it would probably get us to there. Maybe I'll do dotted line for that. Okay? That's one of column two tucked onto the end, but I wanted to tuck on two of column two. So that -- the second one -- we'll go up left one and up two also. It'll probably end there. And there's another one. So what I've put in here is two of column two. Added on. And where did I end up? What are the coordinates of this result? What do I get when I take one of this plus two of that?",
+            "metrics": {
+                "relativeDCReadability": 0.9601930464449822,
+                "lexicalDiversity": 0.4831932773109244,
+                "posComposition": {
+                    "CC": 0.046,
+                    "CD": 0.092,
+                    "IN": 0.118,
+                    "DT": 0.092,
+                    "PRP": 0.097,
+                    "VBZ": 0.034,
+                    "RB": 0.071,
+                    "VBP": 0.042,
+                    "JJ": 0.038,
+                    "NN": 0.076,
+                    "NNS": 0.017,
+                    "WRB": 0.017,
+                    "VB": 0.084,
+                    "NNP": 0.025,
+                    "WDT": 0.013,
+                    ":": 0.017,
+                    "EX": 0.013,
+                    "TO": 0.017,
+                    "VBG": 0.004,
+                    "MD": 0.038,
+                    "POS": 0.004,
+                    "VBD": 0.021,
+                    "RP": 0.008,
+                    "WP": 0.013,
+                    "VBN": 0.004
+                },
+                "syllableRate": 2.383,
+                "topicScores": [
+                    [
+                        "column",
+                        0.32878180544790664
+                    ],
+                    [
+                        "vector",
+                        0.39219092564320285
+                    ],
+                    [
+                        "right",
+                        0.43951916126629964
+                    ],
+                    [
+                        "end",
+                        0.463218878686832
+                    ],
+                    [
+                        "combination",
+                        0.5622524742913275
+                    ],
+                    [
+                        "x",
+                        0.876925313253333
+                    ],
+                    [
+                        "y",
+                        0.9014958475744165
+                    ],
+                    [
+                        "way",
+                        0.9028395456138287
+                    ],
+                    [
+                        "correct",
+                        0.9111917300350668
+                    ],
+                    [
+                        "linear",
+                        0.9116429142060232
+                    ],
+                    [
+                        "result",
+                        0.9252629367593367
+                    ],
+                    [
+                        "time",
+                        0.9263214906690239
+                    ],
+                    [
+                        "second",
+                        0.92788125291013
+                    ],
+                    [
+                        "arrow",
+                        0.9304630552131224
+                    ],
+                    [
+                        "coordinate",
+                        0.9468863408628552
+                    ],
+                    [
+                        "right x",
+                        3.3639719549570137
+                    ],
+                    [
+                        "time column",
+                        3.7007968662394846
+                    ],
+                    [
+                        "correct combination",
+                        4.319366207689393
+                    ],
+                    [
+                        "linear combination",
+                        4.330767494014009
+                    ]
+                ],
+                "topTopicSimilarity": 0.5263157894736842,
+                "sharedTopicScores": [
+                    [
+                        "column",
+                        0.32878180544790664
+                    ],
+                    [
+                        "vector",
+                        0.39219092564320285
+                    ],
+                    [
+                        "right",
+                        0.43951916126629964
+                    ],
+                    [
+                        "combination",
+                        0.5622524742913275
+                    ],
+                    [
+                        "x",
+                        0.876925313253333
+                    ],
+                    [
+                        "y",
+                        0.9014958475744165
+                    ],
+                    [
+                        "way",
+                        0.9028395456138287
+                    ],
+                    [
+                        "linear",
+                        0.9116429142060232
+                    ],
+                    [
+                        "time",
+                        0.9263214906690239
+                    ],
+                    [
+                        "second",
+                        0.92788125291013
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-810": {
+            "id": "J7DzL2_Na80-810",
+            "heat": 0.162,
+            "start": 810.0,
+            "text": " I do get that, of course. There it is, x is zero, y is three, that's b. That's the answer we wanted. And how do I do it? You see I do it just like the first component. I have a two and a minus two that produces a zero, and in the second component I have a minus one and a four, they combine to give the three. But look at this picture. So here's our key picture. I combine this column and this column to get this guy. That was the b. That's the zero three. Okay. So that idea of linear combination is crucial, and also -- do we want to think about this question? Sure, why not. What are all the combinations? If I took -- can I go back to xs and ys? This is a question for really -- it's going to come up over and over, but why don't we see it once now? If I took all the xs and all the ys, all the combinations, what would be all the results? And, actually, the result would be that I could get any right-hand side at all. The combinations of this and this",
+            "metrics": {
+                "relativeDCReadability": 1.0394029885840752,
+                "lexicalDiversity": 0.391304347826087,
+                "posComposition": {
+                    "PRP": 0.097,
+                    "VBP": 0.058,
+                    "VB": 0.063,
+                    "IN": 0.077,
+                    "NN": 0.111,
+                    "EX": 0.005,
+                    "VBZ": 0.048,
+                    "JJ": 0.034,
+                    "CD": 0.039,
+                    "WDT": 0.024,
+                    "POS": 0.005,
+                    "DT": 0.135,
+                    "VBD": 0.019,
+                    "CC": 0.063,
+                    "WRB": 0.014,
+                    "RB": 0.048,
+                    "TO": 0.024,
+                    "NNP": 0.029,
+                    "PRP$": 0.005,
+                    ":": 0.014,
+                    "WP": 0.01,
+                    "PDT": 0.029,
+                    "NNS": 0.019,
+                    "MD": 0.019,
+                    "VBG": 0.005,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.175,
+                "topicScores": [
+                    [
+                        "combination",
+                        0.38652304821288086
+                    ],
+                    [
+                        "b.",
+                        0.5298800288807318
+                    ],
+                    [
+                        "picture",
+                        0.5505999912474735
+                    ],
+                    [
+                        "component",
+                        0.5608745315714936
+                    ],
+                    [
+                        "result",
+                        0.5708247676289475
+                    ],
+                    [
+                        "ys",
+                        0.5777405939552923
+                    ],
+                    [
+                        "question",
+                        0.5806073564233204
+                    ],
+                    [
+                        "column",
+                        0.5817298700228442
+                    ],
+                    [
+                        "xs",
+                        0.5835803605304776
+                    ],
+                    [
+                        "course",
+                        0.7678708139250691
+                    ],
+                    [
+                        "guy",
+                        0.9119116998973097
+                    ],
+                    [
+                        "answer",
+                        0.9142233060534773
+                    ],
+                    [
+                        "key",
+                        0.9263098761937776
+                    ],
+                    [
+                        "second",
+                        0.9283027890452421
+                    ],
+                    [
+                        "crucial",
+                        0.9335145077967737
+                    ],
+                    [
+                        "right",
+                        0.9380501920388152
+                    ],
+                    [
+                        "hand",
+                        0.9380501920388152
+                    ],
+                    [
+                        "idea",
+                        0.9396053448702456
+                    ],
+                    [
+                        "linear",
+                        0.9396053448702456
+                    ],
+                    [
+                        "key picture",
+                        4.218455419068338
+                    ],
+                    [
+                        "second component",
+                        4.721765920559744
+                    ],
+                    [
+                        "linear combination",
+                        5.3806358171812825
+                    ]
+                ],
+                "topTopicSimilarity": 0.4090909090909091,
+                "sharedTopicScores": [
+                    [
+                        "combination",
+                        0.38652304821288086
+                    ],
+                    [
+                        "picture",
+                        0.5505999912474735
+                    ],
+                    [
+                        "component",
+                        0.5608745315714936
+                    ],
+                    [
+                        "column",
+                        0.5817298700228442
+                    ],
+                    [
+                        "course",
+                        0.7678708139250691
+                    ],
+                    [
+                        "second",
+                        0.9283027890452421
+                    ],
+                    [
+                        "right",
+                        0.9380501920388152
+                    ],
+                    [
+                        "hand",
+                        0.9380501920388152
+                    ],
+                    [
+                        "linear",
+                        0.9396053448702456
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-900": {
+            "id": "J7DzL2_Na80-900",
+            "heat": 0.148,
+            "start": 900.0,
+            "text": " would fill the whole plane. You can tuck that away. We'll, explore it further. But this idea of what linear combination gives b and what do all the linear combinations give, what are all the possible, achievable right-hand sides be -- that's going to be basic. Okay. Can I move to three equations and three unknowns? Because it's easy to picture the two by two case. Let me do a three by three example. Okay, I'll sort of start it the same way, say maybe 2x-y and maybe I'll take no zs as a zero and maybe a -x 2y and maybe a -z as a -- oh, let me make that a minus one and, just for variety let me take, -3z, -3ys, I should keep the ys in that line, and 4zs is, say, 4. Okay. That's three equations. I'm in three dimensions, x, y, z. And, I don't have a solution yet. So I want to understand the equations and then solve them.",
+            "metrics": {
+                "relativeDCReadability": 1.1203914551786105,
+                "lexicalDiversity": 0.5229885057471264,
+                "posComposition": {
+                    "MD": 0.04,
+                    "VB": 0.109,
+                    "DT": 0.109,
+                    "JJ": 0.08,
+                    "NN": 0.103,
+                    "PRP": 0.092,
+                    "RB": 0.063,
+                    "CC": 0.057,
+                    "IN": 0.063,
+                    "WP": 0.017,
+                    "VBZ": 0.023,
+                    "VBP": 0.046,
+                    "PDT": 0.011,
+                    "NNS": 0.046,
+                    ":": 0.011,
+                    "VBG": 0.006,
+                    "TO": 0.023,
+                    "NNP": 0.023,
+                    "CD": 0.069,
+                    "POS": 0.006
+                },
+                "syllableRate": 1.892,
+                "topicScores": [
+                    [
+                        "equation",
+                        0.43485751902726205
+                    ],
+                    [
+                        "combination",
+                        0.5411215722407295
+                    ],
+                    [
+                        "y",
+                        0.5469918087607389
+                    ],
+                    [
+                        "linear",
+                        0.5479644049732386
+                    ],
+                    [
+                        "plane",
+                        0.8243305853940477
+                    ],
+                    [
+                        "basic",
+                        0.8748144212184552
+                    ],
+                    [
+                        "achievable",
+                        0.8851159033330755
+                    ],
+                    [
+                        "right",
+                        0.8851159033330755
+                    ],
+                    [
+                        "side",
+                        0.8851159033330755
+                    ],
+                    [
+                        "unknown",
+                        0.8864983313472401
+                    ],
+                    [
+                        "case",
+                        0.8904412887279866
+                    ],
+                    [
+                        "example",
+                        0.8936408336340502
+                    ],
+                    [
+                        "possible",
+                        0.8942431254147842
+                    ],
+                    [
+                        "hand",
+                        0.8942431254147842
+                    ],
+                    [
+                        "z.",
+                        0.8944031737444533
+                    ],
+                    [
+                        "idea",
+                        0.9023610646730535
+                    ],
+                    [
+                        "-3z",
+                        0.9071148670743532
+                    ],
+                    [
+                        "-3ys",
+                        0.9071148670743532
+                    ],
+                    [
+                        "4zs",
+                        0.9071148670743532
+                    ],
+                    [
+                        "way",
+                        0.9127287180818934
+                    ],
+                    [
+                        "easy",
+                        0.9148838616837578
+                    ],
+                    [
+                        "dimension",
+                        0.9190668445159468
+                    ],
+                    [
+                        "solution",
+                        0.9202110203334785
+                    ],
+                    [
+                        "2y",
+                        0.9213512092285212
+                    ],
+                    [
+                        "variety",
+                        0.9213512092285212
+                    ],
+                    [
+                        "linear combination",
+                        1.8421219122584496
+                    ],
+                    [
+                        "achievable right",
+                        3.6174481671736434
+                    ],
+                    [
+                        "hand side",
+                        3.796365776405009
+                    ]
+                ],
+                "topTopicSimilarity": 0.42857142857142855,
+                "sharedTopicScores": [
+                    [
+                        "equation",
+                        0.43485751902726205
+                    ],
+                    [
+                        "combination",
+                        0.5411215722407295
+                    ],
+                    [
+                        "y",
+                        0.5469918087607389
+                    ],
+                    [
+                        "linear",
+                        0.5479644049732386
+                    ],
+                    [
+                        "plane",
+                        0.8243305853940477
+                    ],
+                    [
+                        "right",
+                        0.8851159033330755
+                    ],
+                    [
+                        "unknown",
+                        0.8864983313472401
+                    ],
+                    [
+                        "case",
+                        0.8904412887279866
+                    ],
+                    [
+                        "example",
+                        0.8936408336340502
+                    ],
+                    [
+                        "hand",
+                        0.8942431254147842
+                    ],
+                    [
+                        "way",
+                        0.9127287180818934
+                    ],
+                    [
+                        "solution",
+                        0.9202110203334785
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-990": {
+            "id": "J7DzL2_Na80-990",
+            "heat": 0.168,
+            "start": 990.0,
+            "text": " Okay. So how do I you understand them? The row picture one way. The column picture is another very important way. Just let's remember the matrix form, here, because that's easy. The matrix form -- what's our matrix A? Our matrix A is this right-hand side, the two and the minus one and the zero from the first row, the minus one and the two and the minus one from the second row, the zero, the minus three and the four from the third row. So it's a three by three matrix. Three equations, three unknowns. And what's our right-hand side? Of course, it's the vector, zero minus one, four. Okay. So that's the way, well, that's the short-hand to write out the three equations. But it's the picture that I'm looking for today. Okay, so the row picture. All right, so I'm in three dimensions, x, find out when there isn't a solution. y and z. And I want to take those equations one at a time and ask -- and make a picture of all the points that satisfy -- let's take equation number two. If I make a picture of all the points that satisfy --",
+            "metrics": {
+                "relativeDCReadability": 0.9683238134359997,
+                "lexicalDiversity": 0.5283018867924528,
+                "posComposition": {
+                    "NNP": 0.033,
+                    "WRB": 0.009,
+                    "VBP": 0.047,
+                    "PRP": 0.047,
+                    "DT": 0.17,
+                    "NN": 0.184,
+                    "CD": 0.09,
+                    "VBZ": 0.052,
+                    "RB": 0.024,
+                    "JJ": 0.038,
+                    "POS": 0.009,
+                    "VB": 0.033,
+                    "IN": 0.075,
+                    ":": 0.019,
+                    "WP": 0.009,
+                    "PRP$": 0.014,
+                    "CC": 0.057,
+                    "NNS": 0.038,
+                    "WDT": 0.014,
+                    "TO": 0.009,
+                    "RP": 0.009,
+                    "VBG": 0.005,
+                    "EX": 0.005,
+                    "PDT": 0.009
+                },
+                "syllableRate": 2.283,
+                "topicScores": [
+                    [
+                        "picture",
+                        0.29838619675762856
+                    ],
+                    [
+                        "minus",
+                        0.3064041016392443
+                    ],
+                    [
+                        "matrix",
+                        0.3108522737723038
+                    ],
+                    [
+                        "row",
+                        0.3113637062135138
+                    ],
+                    [
+                        "equation",
+                        0.3755368728123346
+                    ],
+                    [
+                        "hand",
+                        0.4190610152362167
+                    ],
+                    [
+                        "right",
+                        0.4251434351918579
+                    ],
+                    [
+                        "way",
+                        0.4254438741658253
+                    ],
+                    [
+                        "form",
+                        0.5359409022304338
+                    ],
+                    [
+                        "point",
+                        0.5548098864640256
+                    ],
+                    [
+                        "easy",
+                        0.8922483079468614
+                    ],
+                    [
+                        "column",
+                        0.8978445769783547
+                    ],
+                    [
+                        "important",
+                        0.8978445769783547
+                    ],
+                    [
+                        "unknown",
+                        0.9022697221072543
+                    ],
+                    [
+                        "second",
+                        0.9143606464650591
+                    ],
+                    [
+                        "today",
+                        0.9174970602329682
+                    ],
+                    [
+                        "solution",
+                        0.9197078832435077
+                    ],
+                    [
+                        "z.",
+                        0.9206550397741494
+                    ],
+                    [
+                        "vector",
+                        0.9237161526182378
+                    ],
+                    [
+                        "short",
+                        0.926531944232574
+                    ],
+                    [
+                        "dimension",
+                        0.9296485087127768
+                    ],
+                    [
+                        "number",
+                        0.9312510671573456
+                    ],
+                    [
+                        "time",
+                        0.9354670999629904
+                    ],
+                    [
+                        "row picture",
+                        1.3057136788445858
+                    ],
+                    [
+                        "matrix form",
+                        1.3566592038987362
+                    ],
+                    [
+                        "second row",
+                        2.786953773146836
+                    ],
+                    [
+                        "column picture",
+                        3.0339304586043108
+                    ],
+                    [
+                        "important way",
+                        3.2366589281367784
+                    ],
+                    [
+                        "equation number",
+                        4.319789436045415
+                    ]
+                ],
+                "topTopicSimilarity": 0.5517241379310345,
+                "sharedTopicScores": [
+                    [
+                        "picture",
+                        0.29838619675762856
+                    ],
+                    [
+                        "minus",
+                        0.3064041016392443
+                    ],
+                    [
+                        "matrix",
+                        0.3108522737723038
+                    ],
+                    [
+                        "row",
+                        0.3113637062135138
+                    ],
+                    [
+                        "equation",
+                        0.3755368728123346
+                    ],
+                    [
+                        "hand",
+                        0.4190610152362167
+                    ],
+                    [
+                        "right",
+                        0.4251434351918579
+                    ],
+                    [
+                        "way",
+                        0.4254438741658253
+                    ],
+                    [
+                        "point",
+                        0.5548098864640256
+                    ],
+                    [
+                        "column",
+                        0.8978445769783547
+                    ],
+                    [
+                        "unknown",
+                        0.9022697221072543
+                    ],
+                    [
+                        "second",
+                        0.9143606464650591
+                    ],
+                    [
+                        "solution",
+                        0.9197078832435077
+                    ],
+                    [
+                        "vector",
+                        0.9237161526182378
+                    ],
+                    [
+                        "number",
+                        0.9312510671573456
+                    ],
+                    [
+                        "time",
+                        0.9354670999629904
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1080": {
+            "id": "J7DzL2_Na80-1080",
+            "heat": 0.234,
+            "start": 1080.0,
+            "text": " all the x, y, z points that solve this equation -- well, first of all, the origin is not one of them. x, y, z -- it being 0, 0, 0 would not solve that equation. So what are some points that do solve the equation? Let's see, maybe if x is one, y and z could be zero. That would work, right? So there's one point. I'm looking at this second equation, here, just, to start with. Let's see. Also, I guess, if z could be one, x and y could be zero, so that would just go straight up that axis. And, probably I'd want a third point here. Let me take x to be zero, z to be zero, then y would be minus a half, right? So there's a third point, somewhere -- oh my -- okay. Let's see. I want to put in all the points that satisfy that equation. Do you know what that bunch of points will be? It's a plane. If we have a linear equation, then, fortunately, the graph of the thing, the plot of all the points that solve it are a plane.",
+            "metrics": {
+                "relativeDCReadability": 1.1188636631495479,
+                "lexicalDiversity": 0.5074626865671642,
+                "posComposition": {
+                    "PDT": 0.02,
+                    "DT": 0.104,
+                    "NNP": 0.045,
+                    "NN": 0.129,
+                    "NNS": 0.025,
+                    "WDT": 0.02,
+                    "VBP": 0.055,
+                    ":": 0.02,
+                    "RB": 0.09,
+                    "IN": 0.075,
+                    "VBZ": 0.025,
+                    "CD": 0.05,
+                    "PRP": 0.055,
+                    "JJ": 0.03,
+                    "VBG": 0.01,
+                    "MD": 0.045,
+                    "VB": 0.104,
+                    "WP": 0.01,
+                    "POS": 0.015,
+                    "VBN": 0.01,
+                    "CC": 0.02,
+                    "EX": 0.01,
+                    "TO": 0.02,
+                    "RP": 0.005,
+                    "UH": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 1.975,
+                "topicScores": [
+                    [
+                        "point",
+                        0.2655538514264194
+                    ],
+                    [
+                        "equation",
+                        0.29565412705074123
+                    ],
+                    [
+                        "y",
+                        0.31099634534421966
+                    ],
+                    [
+                        "z",
+                        0.31436061554973743
+                    ],
+                    [
+                        "x",
+                        0.32291611381294844
+                    ],
+                    [
+                        "right",
+                        0.5431297645579878
+                    ],
+                    [
+                        "plane",
+                        0.5522823343871224
+                    ],
+                    [
+                        "origin",
+                        0.8349116369427034
+                    ],
+                    [
+                        "axis",
+                        0.9229471236560097
+                    ],
+                    [
+                        "second",
+                        0.9268403023602413
+                    ],
+                    [
+                        "half",
+                        0.934929512950655
+                    ],
+                    [
+                        "linear",
+                        0.9414270639272625
+                    ],
+                    [
+                        "graph",
+                        0.9414270639272625
+                    ],
+                    [
+                        "thing",
+                        0.9414270639272625
+                    ],
+                    [
+                        "plot",
+                        0.9414270639272625
+                    ],
+                    [
+                        "bunch",
+                        0.9434224727612968
+                    ],
+                    [
+                        "z point",
+                        2.1649965790084797
+                    ],
+                    [
+                        "second equation",
+                        3.33431575657697
+                    ],
+                    [
+                        "linear equation",
+                        3.574359850383413
+                    ]
+                ],
+                "topTopicSimilarity": 0.47368421052631576,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.2655538514264194
+                    ],
+                    [
+                        "equation",
+                        0.29565412705074123
+                    ],
+                    [
+                        "y",
+                        0.31099634534421966
+                    ],
+                    [
+                        "z",
+                        0.31436061554973743
+                    ],
+                    [
+                        "x",
+                        0.32291611381294844
+                    ],
+                    [
+                        "right",
+                        0.5431297645579878
+                    ],
+                    [
+                        "plane",
+                        0.5522823343871224
+                    ],
+                    [
+                        "second",
+                        0.9268403023602413
+                    ],
+                    [
+                        "linear",
+                        0.9414270639272625
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1170": {
+            "id": "J7DzL2_Na80-1170",
+            "heat": 0.307,
+            "start": 1170.0,
+            "text": " These three points determine a plane, but your lecturer is not Rembrandt and the art is going to be the weak point here. So I'm just going to draw a plane, right? There's a plane somewhere. That's my plane. That plane is all the points that solves this guy. Then, what about this one? Two x minus y plus zero z. So z actually can be anything. Again, it's going to be another plane. Each row in a three by three problem gives us a plane in three dimensions. So this one is going to be some other plane -- maybe I'll try to draw it like this. And those two planes meet in a line. So if I have two equations, just the first two equations in three dimensions, those give me a line. The line where those two planes meet. And now, the third guy is a third plane. And it goes somewhere. Okay, those three things meet in a point. Now I don't know where that point is, frankly. But -- linear algebra will find it. The main point is that the three planes, because they're not",
+            "metrics": {
+                "relativeDCReadability": 0.8657536839016322,
+                "lexicalDiversity": 0.49238578680203043,
+                "posComposition": {
+                    "DT": 0.162,
+                    "CD": 0.071,
+                    "NNS": 0.061,
+                    "VB": 0.051,
+                    "NN": 0.132,
+                    "CC": 0.036,
+                    "PRP$": 0.01,
+                    "VBZ": 0.066,
+                    "RB": 0.086,
+                    "NNP": 0.025,
+                    "VBG": 0.02,
+                    "TO": 0.025,
+                    "JJ": 0.046,
+                    "IN": 0.066,
+                    "PRP": 0.056,
+                    "VBP": 0.03,
+                    "EX": 0.005,
+                    "PDT": 0.005,
+                    "WDT": 0.005,
+                    "WP": 0.005,
+                    "MD": 0.015,
+                    ":": 0.01,
+                    "WRB": 0.01
+                },
+                "syllableRate": 1.975,
+                "topicScores": [
+                    [
+                        "plane",
+                        0.24279134893931523
+                    ],
+                    [
+                        "point",
+                        0.3221495666399798
+                    ],
+                    [
+                        "rembrandt",
+                        0.4389222800987804
+                    ],
+                    [
+                        "line",
+                        0.44719903057939375
+                    ],
+                    [
+                        "dimension",
+                        0.5606438863034928
+                    ],
+                    [
+                        "guy",
+                        0.5768642228197827
+                    ],
+                    [
+                        "equation",
+                        0.5833803021347911
+                    ],
+                    [
+                        "lecturer",
+                        0.8447679129865054
+                    ],
+                    [
+                        "art",
+                        0.8447679129865054
+                    ],
+                    [
+                        "weak",
+                        0.8447679129865054
+                    ],
+                    [
+                        "right",
+                        0.8457431711780703
+                    ],
+                    [
+                        "z.",
+                        0.8823961752120728
+                    ],
+                    [
+                        "row",
+                        0.9337179676937013
+                    ],
+                    [
+                        "problem",
+                        0.939248916167291
+                    ],
+                    [
+                        "linear",
+                        0.9415057252432675
+                    ],
+                    [
+                        "algebra",
+                        0.9415057252432675
+                    ],
+                    [
+                        "main",
+                        0.9420270172139347
+                    ],
+                    [
+                        "thing",
+                        0.9453403733419569
+                    ],
+                    [
+                        "weak point",
+                        3.2372541694433026
+                    ],
+                    [
+                        "main point",
+                        5.75484402429449
+                    ],
+                    [
+                        "linear algebra",
+                        7.805377178444314
+                    ]
+                ],
+                "topTopicSimilarity": 0.2857142857142857,
+                "sharedTopicScores": [
+                    [
+                        "plane",
+                        0.24279134893931523
+                    ],
+                    [
+                        "point",
+                        0.3221495666399798
+                    ],
+                    [
+                        "equation",
+                        0.5833803021347911
+                    ],
+                    [
+                        "right",
+                        0.8457431711780703
+                    ],
+                    [
+                        "row",
+                        0.9337179676937013
+                    ],
+                    [
+                        "linear",
+                        0.9415057252432675
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1260": {
+            "id": "J7DzL2_Na80-1260",
+            "heat": 0.283,
+            "start": 1260.0,
+            "text": " parallel, they're not special. They do meet in one point and that's the solution. But, maybe you can see that this row picture is getting a little hard to see. The row picture was a cinch when we looked at two lines meeting. When we look at three planes meeting, it's not so clear and in four dimensions probably a little less clear. So, can I quit on the row picture? Or quit on the row picture before I've successfully found the point where the three planes meet? All I really want to see is that the row picture consists of three planes and, if everything works right, three planes meet in one point and that's a solution. Now, you can tell I prefer the column picture. Okay, so let me take the column picture. That's x times -- so there were two xs in the first equation minus one x is, and no xs in the third. It's just the first column of that. And how many ys are there? There's minus one in the first equations, two in the second and maybe minus three in the third. Just the second column of my matrix. And z times no zs minus one zs and four zs.",
+            "metrics": {
+                "relativeDCReadability": 0.9341201734686547,
+                "lexicalDiversity": 0.5348837209302325,
+                "posComposition": {
+                    "NN": 0.153,
+                    "PRP": 0.06,
+                    "VBP": 0.033,
+                    "RB": 0.065,
+                    "JJ": 0.07,
+                    "VB": 0.037,
+                    "IN": 0.098,
+                    "CD": 0.07,
+                    "CC": 0.06,
+                    "DT": 0.126,
+                    "VBZ": 0.047,
+                    "MD": 0.014,
+                    "VBG": 0.014,
+                    "TO": 0.009,
+                    "VBD": 0.014,
+                    "WRB": 0.019,
+                    "NNS": 0.06,
+                    "JJR": 0.005,
+                    "NNP": 0.014,
+                    "VBN": 0.005,
+                    "RBR": 0.005,
+                    "WDT": 0.005,
+                    ":": 0.005,
+                    "EX": 0.009,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.217,
+                "topicScores": [
+                    [
+                        "picture",
+                        0.26877931210411987
+                    ],
+                    [
+                        "row",
+                        0.30281884130911946
+                    ],
+                    [
+                        "plane",
+                        0.3644068826737282
+                    ],
+                    [
+                        "column",
+                        0.3714894816490545
+                    ],
+                    [
+                        "point",
+                        0.4269321642452378
+                    ],
+                    [
+                        "zs",
+                        0.4614433151516682
+                    ],
+                    [
+                        "solution",
+                        0.5161921407658898
+                    ],
+                    [
+                        "little",
+                        0.5512337473183364
+                    ],
+                    [
+                        "equation",
+                        0.5613311465592485
+                    ],
+                    [
+                        "clear",
+                        0.5617128220640677
+                    ],
+                    [
+                        "second",
+                        0.5708101693112396
+                    ],
+                    [
+                        "xs",
+                        0.5709022114438985
+                    ],
+                    [
+                        "time",
+                        0.5759750738132567
+                    ],
+                    [
+                        "row picture",
+                        0.6620445908453872
+                    ],
+                    [
+                        "parallel",
+                        0.7558071066619376
+                    ],
+                    [
+                        "special",
+                        0.775209102467821
+                    ],
+                    [
+                        "hard",
+                        0.8942565520701002
+                    ],
+                    [
+                        "line",
+                        0.8967701988281211
+                    ],
+                    [
+                        "meeting",
+                        0.9042333930965278
+                    ],
+                    [
+                        "cinch",
+                        0.9050708229756346
+                    ],
+                    [
+                        "dimension",
+                        0.9119928013872254
+                    ],
+                    [
+                        "matrix",
+                        0.9144698973877435
+                    ],
+                    [
+                        "ys",
+                        0.9318828662830406
+                    ],
+                    [
+                        "column picture",
+                        1.4412553046706198
+                    ],
+                    [
+                        "plane meeting",
+                        3.257056524046536
+                    ],
+                    [
+                        "second column",
+                        3.5533138120172176
+                    ],
+                    [
+                        "little hard",
+                        3.572439702568633
+                    ],
+                    [
+                        "x time",
+                        4.95296500145132
+                    ]
+                ],
+                "topTopicSimilarity": 0.35714285714285715,
+                "sharedTopicScores": [
+                    [
+                        "picture",
+                        0.26877931210411987
+                    ],
+                    [
+                        "row",
+                        0.30281884130911946
+                    ],
+                    [
+                        "plane",
+                        0.3644068826737282
+                    ],
+                    [
+                        "column",
+                        0.3714894816490545
+                    ],
+                    [
+                        "point",
+                        0.4269321642452378
+                    ],
+                    [
+                        "solution",
+                        0.5161921407658898
+                    ],
+                    [
+                        "equation",
+                        0.5613311465592485
+                    ],
+                    [
+                        "second",
+                        0.5708101693112396
+                    ],
+                    [
+                        "time",
+                        0.5759750738132567
+                    ],
+                    [
+                        "matrix",
+                        0.9144698973877435
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1350": {
+            "id": "J7DzL2_Na80-1350",
+            "heat": 0.163,
+            "start": 1350.0,
+            "text": " And it's those three columns, right, that I have to combine to produce the right-hand side, which is zero minus one four. Okay. So what have we got on this left-hand side? A linear combination. It's a linear combination now of three vectors, and they happen to be -- each one is a three dimensional vector, so we want to know what combination of those three vectors produces that one. Shall I try to draw the column picture, then? So, since these vectors have three components -- so it's some multiple -- let me draw in the first column as before -- x is two and y is minus one. Maybe there is the first column. y -- the second column has maybe a minus one and a two and the y is a minus three, somewhere, there possibly, column two. And the third column has -- no zero minus one four, so how shall I draw that? So this was the first component. The second component was a minus one. Maybe up here.",
+            "metrics": {
+                "relativeDCReadability": 1.0628900798474596,
+                "lexicalDiversity": 0.5084745762711864,
+                "posComposition": {
+                    "CC": 0.045,
+                    "PRP": 0.062,
+                    "VBZ": 0.073,
+                    "DT": 0.136,
+                    "CD": 0.107,
+                    "NNS": 0.028,
+                    "VBD": 0.023,
+                    "IN": 0.062,
+                    "VBP": 0.04,
+                    "TO": 0.028,
+                    "VB": 0.04,
+                    "NN": 0.141,
+                    "WDT": 0.006,
+                    "NNP": 0.028,
+                    "WP": 0.011,
+                    "JJ": 0.056,
+                    "RB": 0.056,
+                    ":": 0.034,
+                    "EX": 0.011,
+                    "WRB": 0.006,
+                    "MD": 0.006
+                },
+                "syllableRate": 1.983,
+                "topicScores": [
+                    [
+                        "column",
+                        0.3015272978494336
+                    ],
+                    [
+                        "vector",
+                        0.3970574326985388
+                    ],
+                    [
+                        "combination",
+                        0.44476566041285365
+                    ],
+                    [
+                        "y",
+                        0.4532213871988674
+                    ],
+                    [
+                        "component",
+                        0.4572765535651838
+                    ],
+                    [
+                        "hand",
+                        0.528343691217185
+                    ],
+                    [
+                        "right",
+                        0.5486131774959896
+                    ],
+                    [
+                        "linear",
+                        0.5522222905155436
+                    ],
+                    [
+                        "second",
+                        0.5735010076991738
+                    ],
+                    [
+                        "left",
+                        0.9119580446025345
+                    ],
+                    [
+                        "dimensional",
+                        0.9229717148999201
+                    ],
+                    [
+                        "picture",
+                        0.9263794080215232
+                    ],
+                    [
+                        "multiple",
+                        0.9290478140798929
+                    ],
+                    [
+                        "linear combination",
+                        2.2183313851934305
+                    ],
+                    [
+                        "second column",
+                        4.625710375382928
+                    ],
+                    [
+                        "second component",
+                        4.92797324455252
+                    ],
+                    [
+                        "column picture",
+                        5.17230758479256
+                    ],
+                    [
+                        "dimensional vector",
+                        5.707962804103433
+                    ]
+                ],
+                "topTopicSimilarity": 0.6111111111111112,
+                "sharedTopicScores": [
+                    [
+                        "column",
+                        0.3015272978494336
+                    ],
+                    [
+                        "vector",
+                        0.3970574326985388
+                    ],
+                    [
+                        "combination",
+                        0.44476566041285365
+                    ],
+                    [
+                        "y",
+                        0.4532213871988674
+                    ],
+                    [
+                        "component",
+                        0.4572765535651838
+                    ],
+                    [
+                        "hand",
+                        0.528343691217185
+                    ],
+                    [
+                        "right",
+                        0.5486131774959896
+                    ],
+                    [
+                        "linear",
+                        0.5522222905155436
+                    ],
+                    [
+                        "second",
+                        0.5735010076991738
+                    ],
+                    [
+                        "dimensional",
+                        0.9229717148999201
+                    ],
+                    [
+                        "picture",
+                        0.9263794080215232
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1440": {
+            "id": "J7DzL2_Na80-1440",
+            "heat": 0.168,
+            "start": 1440.0,
+            "text": " That's column three, that's the column zero minus one and four. This guy. So, again, what's my problem? What this equation is asking me to do is to combine these three vectors with a right combination to produce this one. Well, you can see what the right combination is, because in this special problem, specially chosen by the lecturer, that right-hand side that I'm trying to get is actually one of these columns. So I know how to get that one. So what's the solution? What combination will work? I just want one of these and none of these. So x should be zero, y should be zero and z should be one. That's the combination. One of those is obviously the right one. Column three is actually the same as b in this particular problem. I made it work that way just so we would get an answer, (0,0,1), so somehow that's the point where those three planes met and I couldn't see it before. Of course, I won't always be able to see it from the column",
+            "metrics": {
+                "relativeDCReadability": 1.0250785272657774,
+                "lexicalDiversity": 0.46808510638297873,
+                "posComposition": {
+                    "DT": 0.133,
+                    "VBZ": 0.064,
+                    "NN": 0.133,
+                    "CD": 0.085,
+                    "WDT": 0.011,
+                    "CC": 0.027,
+                    "RB": 0.08,
+                    "WP": 0.027,
+                    "PRP$": 0.005,
+                    "VBG": 0.011,
+                    "PRP": 0.064,
+                    "TO": 0.032,
+                    "VB": 0.08,
+                    "NNS": 0.016,
+                    "IN": 0.085,
+                    "JJ": 0.043,
+                    "NNP": 0.021,
+                    "MD": 0.043,
+                    "VBN": 0.005,
+                    "VBP": 0.016,
+                    "WRB": 0.011,
+                    "VBD": 0.011
+                },
+                "syllableRate": 2.05,
+                "topicScores": [
+                    [
+                        "column",
+                        0.3608938809657063
+                    ],
+                    [
+                        "combination",
+                        0.3644883470483161
+                    ],
+                    [
+                        "right",
+                        0.3691213180410669
+                    ],
+                    [
+                        "problem",
+                        0.4193902647016119
+                    ],
+                    [
+                        "guy",
+                        0.829570423357991
+                    ],
+                    [
+                        "solution",
+                        0.8848773676604204
+                    ],
+                    [
+                        "special",
+                        0.894857075361352
+                    ],
+                    [
+                        "lecturer",
+                        0.894857075361352
+                    ],
+                    [
+                        "hand",
+                        0.894857075361352
+                    ],
+                    [
+                        "equation",
+                        0.8973326917020242
+                    ],
+                    [
+                        "vector",
+                        0.8973326917020242
+                    ],
+                    [
+                        "answer",
+                        0.9001409625131651
+                    ],
+                    [
+                        "particular",
+                        0.914817597858448
+                    ],
+                    [
+                        "z",
+                        0.9172110951585524
+                    ],
+                    [
+                        "way",
+                        0.9226076193005704
+                    ],
+                    [
+                        "point",
+                        0.9226076193005704
+                    ],
+                    [
+                        "plane",
+                        0.9226076193005704
+                    ],
+                    [
+                        "able",
+                        0.923607492460692
+                    ],
+                    [
+                        "right combination",
+                        1.6663216155861962
+                    ],
+                    [
+                        "special problem",
+                        3.009441294625294
+                    ],
+                    [
+                        "particular problem",
+                        3.297954658684469
+                    ]
+                ],
+                "topTopicSimilarity": 0.5238095238095238,
+                "sharedTopicScores": [
+                    [
+                        "column",
+                        0.3608938809657063
+                    ],
+                    [
+                        "combination",
+                        0.3644883470483161
+                    ],
+                    [
+                        "right",
+                        0.3691213180410669
+                    ],
+                    [
+                        "solution",
+                        0.8848773676604204
+                    ],
+                    [
+                        "hand",
+                        0.894857075361352
+                    ],
+                    [
+                        "equation",
+                        0.8973326917020242
+                    ],
+                    [
+                        "vector",
+                        0.8973326917020242
+                    ],
+                    [
+                        "z",
+                        0.9172110951585524
+                    ],
+                    [
+                        "way",
+                        0.9226076193005704
+                    ],
+                    [
+                        "point",
+                        0.9226076193005704
+                    ],
+                    [
+                        "plane",
+                        0.9226076193005704
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1530": {
+            "id": "J7DzL2_Na80-1530",
+            "heat": 0.185,
+            "start": 1530.0,
+            "text": " picture, either. It's the next lecture, actually, which is about elimination, which is the systematic way that everybody -- every bit of software, too -- production, large-scale software would solve the equations. So the lecture that's coming up. If I was to add that to the syllabus, will be about how to find x, y, z in all cases. Can I just think again, though, about the big picture? By the big picture I mean let's keep this same matrix on the left but imagine that we have a different right-hand side. Oh, let me take a different right-hand side. So I'll change that right-hand side to something that actually is also pretty special. Let me change it to -- if I add those first two columns, that would give me a one and a one and a minus three. There's a very special right-hand side. I just cooked it up by adding this one to this one. Now, what's the solution with this new right-hand side? The solution with this new right-hand side is clear. took one of these and none of those.",
+            "metrics": {
+                "relativeDCReadability": 1.0309700646562285,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "NN": 0.163,
+                    "CC": 0.026,
+                    "PRP": 0.068,
+                    "VBZ": 0.042,
+                    "DT": 0.142,
+                    "JJ": 0.111,
+                    "RB": 0.053,
+                    "WDT": 0.026,
+                    "IN": 0.105,
+                    ":": 0.016,
+                    "MD": 0.021,
+                    "VB": 0.053,
+                    "NNS": 0.011,
+                    "VBG": 0.011,
+                    "RP": 0.011,
+                    "VBD": 0.016,
+                    "TO": 0.032,
+                    "WRB": 0.005,
+                    "NNP": 0.021,
+                    "VBP": 0.021,
+                    "POS": 0.005,
+                    "CD": 0.032,
+                    "EX": 0.005,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.125,
+                "topicScores": [
+                    [
+                        "hand",
+                        0.25783064503068914
+                    ],
+                    [
+                        "right",
+                        0.29202931980247526
+                    ],
+                    [
+                        "picture",
+                        0.4185495368708808
+                    ],
+                    [
+                        "different",
+                        0.5489270279737705
+                    ],
+                    [
+                        "new",
+                        0.5491043266862133
+                    ],
+                    [
+                        "lecture",
+                        0.5492034819394537
+                    ],
+                    [
+                        "big",
+                        0.5546061385847534
+                    ],
+                    [
+                        "software",
+                        0.5564976539619242
+                    ],
+                    [
+                        "solution",
+                        0.5582886765518491
+                    ],
+                    [
+                        "special",
+                        0.5686615944442858
+                    ],
+                    [
+                        "equation",
+                        0.8681387968304752
+                    ],
+                    [
+                        "production",
+                        0.8806834864750263
+                    ],
+                    [
+                        "large",
+                        0.8806834864750263
+                    ],
+                    [
+                        "case",
+                        0.8897155005725954
+                    ],
+                    [
+                        "elimination",
+                        0.8915868052477693
+                    ],
+                    [
+                        "bit",
+                        0.8915868052477693
+                    ],
+                    [
+                        "scale",
+                        0.8915868052477693
+                    ],
+                    [
+                        "y",
+                        0.9004428809228863
+                    ],
+                    [
+                        "systematic",
+                        0.9011118152934514
+                    ],
+                    [
+                        "way",
+                        0.9011118152934514
+                    ],
+                    [
+                        "syllabus",
+                        0.9097256442995911
+                    ],
+                    [
+                        "x",
+                        0.9097256442995911
+                    ],
+                    [
+                        "z",
+                        0.9097256442995911
+                    ],
+                    [
+                        "clear",
+                        0.9155015433298886
+                    ],
+                    [
+                        "column",
+                        0.9257297598704063
+                    ],
+                    [
+                        "minus",
+                        0.9257297598704063
+                    ],
+                    [
+                        "matrix",
+                        0.9258157529591066
+                    ],
+                    [
+                        "left",
+                        0.9258157529591066
+                    ],
+                    [
+                        "different right",
+                        1.56954505046875
+                    ],
+                    [
+                        "new right",
+                        1.5713145450550485
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "hand",
+                        0.25783064503068914
+                    ],
+                    [
+                        "right",
+                        0.29202931980247526
+                    ],
+                    [
+                        "picture",
+                        0.4185495368708808
+                    ],
+                    [
+                        "new",
+                        0.5491043266862133
+                    ],
+                    [
+                        "solution",
+                        0.5582886765518491
+                    ],
+                    [
+                        "equation",
+                        0.8681387968304752
+                    ],
+                    [
+                        "case",
+                        0.8897155005725954
+                    ],
+                    [
+                        "y",
+                        0.9004428809228863
+                    ],
+                    [
+                        "way",
+                        0.9011118152934514
+                    ],
+                    [
+                        "x",
+                        0.9097256442995911
+                    ],
+                    [
+                        "z",
+                        0.9097256442995911
+                    ],
+                    [
+                        "column",
+                        0.9257297598704063
+                    ],
+                    [
+                        "minus",
+                        0.9257297598704063
+                    ],
+                    [
+                        "matrix",
+                        0.9258157529591066
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1620": {
+            "id": "J7DzL2_Na80-1620",
+            "heat": 0.201,
+            "start": 1620.0,
+            "text": " So actually, it just changed around to this when I took this new right-hand side. Okay. So in the row picture, I have three different planes, three new planes meeting now at this point. In the column picture, I have the same three columns, but now I'm combining them to produce this guy, and it turned out that column one plus column two which would be somewhere -- there is the right column -- one of this and one of this would give me the new b. Okay. So we squeezed in an extra example. But now think about all bs, all right-hand sides. Can I solve these equations for every right-hand side? Can I ask that question? So that's the algebra question. Can I solve A x=b for every b? Let me write that down. Can I solve A x =b for every right-hand side b? I mean, is there a solution? And then, if there is, elimination will give me a way to find it.",
+            "metrics": {
+                "relativeDCReadability": 1.0636191008259206,
+                "lexicalDiversity": 0.47928994082840237,
+                "posComposition": {
+                    "RB": 0.065,
+                    "PRP": 0.101,
+                    "VBN": 0.006,
+                    "TO": 0.018,
+                    "DT": 0.148,
+                    "WRB": 0.006,
+                    "VBD": 0.018,
+                    "JJ": 0.065,
+                    "NN": 0.154,
+                    "NNP": 0.03,
+                    "IN": 0.089,
+                    "VBP": 0.047,
+                    "CD": 0.041,
+                    "NNS": 0.03,
+                    "CC": 0.036,
+                    "VBG": 0.006,
+                    "VB": 0.053,
+                    "RP": 0.006,
+                    "WDT": 0.006,
+                    "MD": 0.03,
+                    ":": 0.012,
+                    "EX": 0.012,
+                    "VBZ": 0.024
+                },
+                "syllableRate": 1.8,
+                "topicScores": [
+                    [
+                        "hand",
+                        0.3167664645437596
+                    ],
+                    [
+                        "right",
+                        0.3230184900227167
+                    ],
+                    [
+                        "b",
+                        0.3441148766623331
+                    ],
+                    [
+                        "column",
+                        0.3498979406662309
+                    ],
+                    [
+                        "new",
+                        0.4346204945322343
+                    ],
+                    [
+                        "picture",
+                        0.5240904764224779
+                    ],
+                    [
+                        "question",
+                        0.5445397706764671
+                    ],
+                    [
+                        "x",
+                        0.5495393672424356
+                    ],
+                    [
+                        "=",
+                        0.5495393672424356
+                    ],
+                    [
+                        "plane",
+                        0.5520260887695165
+                    ],
+                    [
+                        "Okay",
+                        0.5777682292119339
+                    ],
+                    [
+                        "point",
+                        0.8579028675971128
+                    ],
+                    [
+                        "example",
+                        0.8809247609904775
+                    ],
+                    [
+                        "row",
+                        0.8857763695059369
+                    ],
+                    [
+                        "different",
+                        0.8857763695059369
+                    ],
+                    [
+                        "guy",
+                        0.8973583568036008
+                    ],
+                    [
+                        "extra",
+                        0.9047835439377483
+                    ],
+                    [
+                        "solution",
+                        0.907121274230726
+                    ],
+                    [
+                        "algebra",
+                        0.9195176001016485
+                    ],
+                    [
+                        "equation",
+                        0.9225212694309303
+                    ],
+                    [
+                        "elimination",
+                        0.9273342133072827
+                    ],
+                    [
+                        "way",
+                        0.9346711002764767
+                    ],
+                    [
+                        "b. Okay",
+                        1.0766928862246385
+                    ],
+                    [
+                        "hand side",
+                        1.2834939801746936
+                    ],
+                    [
+                        "new right",
+                        2.6470811187071623
+                    ],
+                    [
+                        "row picture",
+                        2.7847581204545717
+                    ],
+                    [
+                        "column picture",
+                        3.0211186276977817
+                    ],
+                    [
+                        "right column",
+                        3.0854108278602097
+                    ],
+                    [
+                        "new plane",
+                        3.1759629881088514
+                    ],
+                    [
+                        "different plane",
+                        3.4444790638938017
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "hand",
+                        0.3167664645437596
+                    ],
+                    [
+                        "right",
+                        0.3230184900227167
+                    ],
+                    [
+                        "column",
+                        0.3498979406662309
+                    ],
+                    [
+                        "new",
+                        0.4346204945322343
+                    ],
+                    [
+                        "picture",
+                        0.5240904764224779
+                    ],
+                    [
+                        "x",
+                        0.5495393672424356
+                    ],
+                    [
+                        "plane",
+                        0.5520260887695165
+                    ],
+                    [
+                        "point",
+                        0.8579028675971128
+                    ],
+                    [
+                        "example",
+                        0.8809247609904775
+                    ],
+                    [
+                        "row",
+                        0.8857763695059369
+                    ],
+                    [
+                        "solution",
+                        0.907121274230726
+                    ],
+                    [
+                        "equation",
+                        0.9225212694309303
+                    ],
+                    [
+                        "way",
+                        0.9346711002764767
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1710": {
+            "id": "J7DzL2_Na80-1710",
+            "heat": 0.171,
+            "start": 1710.0,
+            "text": " I really wanted to ask, is there a solution for every right-hand side? So now, can I put that in different words -- in this linear combination words? So in linear combination words, do the linear combinations of the columns fill three dimensional space? Every b means all the bs in three dimensional space. Do you see that I'm just asking the same question in different words? Solving A x -- A x -- that's very important. A times x -- when I multiply a matrix by a vector, I get a combination of the columns. I'll write that down in a moment. But in my column picture, that's really what I'm doing. I'm taking linear combinations of these three columns and I'm trying to find b. And, actually, the answer for this matrix will be yes. For this matrix A -- for these columns, the answer is yes.",
+            "metrics": {
+                "relativeDCReadability": 1.0589585930231329,
+                "lexicalDiversity": 0.5128205128205128,
+                "posComposition": {
+                    "PRP": 0.064,
+                    "RB": 0.071,
+                    "VBD": 0.006,
+                    "TO": 0.013,
+                    "VB": 0.032,
+                    "VBZ": 0.032,
+                    "DT": 0.141,
+                    "NN": 0.16,
+                    "IN": 0.103,
+                    "JJ": 0.071,
+                    "MD": 0.019,
+                    "NNS": 0.058,
+                    ":": 0.032,
+                    "VBP": 0.051,
+                    "CD": 0.019,
+                    "NNP": 0.032,
+                    "PDT": 0.006,
+                    "VBG": 0.032,
+                    "WDT": 0.013,
+                    "WRB": 0.006,
+                    "RP": 0.006,
+                    "CC": 0.019,
+                    "PRP$": 0.006,
+                    "WP": 0.006
+                },
+                "syllableRate": 1.892,
+                "topicScores": [
+                    [
+                        "combination",
+                        0.3423118673364714
+                    ],
+                    [
+                        "column",
+                        0.3565846894254624
+                    ],
+                    [
+                        "word",
+                        0.36100142709761657
+                    ],
+                    [
+                        "linear",
+                        0.38271952202865556
+                    ],
+                    [
+                        "x",
+                        0.4534154805103204
+                    ],
+                    [
+                        "matrix",
+                        0.4553846155478967
+                    ],
+                    [
+                        "space",
+                        0.4873182866419292
+                    ],
+                    [
+                        "different",
+                        0.5362155874535893
+                    ],
+                    [
+                        "dimensional",
+                        0.5362155874535893
+                    ],
+                    [
+                        "answer",
+                        0.5736359935180037
+                    ],
+                    [
+                        "hand",
+                        0.8030023819685328
+                    ],
+                    [
+                        "right",
+                        0.8254016592195939
+                    ],
+                    [
+                        "solution",
+                        0.8444039450183056
+                    ],
+                    [
+                        "important",
+                        0.8922986694233279
+                    ],
+                    [
+                        "moment",
+                        0.9005335542103589
+                    ],
+                    [
+                        "b.",
+                        0.9059116348515933
+                    ],
+                    [
+                        "time",
+                        0.9108012433150173
+                    ],
+                    [
+                        "bs",
+                        0.917970076663242
+                    ],
+                    [
+                        "vector",
+                        0.9221320177850051
+                    ],
+                    [
+                        "question",
+                        0.924030426459743
+                    ],
+                    [
+                        "picture",
+                        0.927216246631948
+                    ],
+                    [
+                        "dimensional space",
+                        1.2054776364790842
+                    ],
+                    [
+                        "different word",
+                        1.5627478807907367
+                    ],
+                    [
+                        "linear combination",
+                        1.58495155029638
+                    ],
+                    [
+                        "combination word",
+                        1.8117847385971284
+                    ],
+                    [
+                        "column picture",
+                        5.88084630556631
+                    ],
+                    [
+                        "linear combination word",
+                        9.17721805324538
+                    ]
+                ],
+                "topTopicSimilarity": 0.48148148148148145,
+                "sharedTopicScores": [
+                    [
+                        "combination",
+                        0.3423118673364714
+                    ],
+                    [
+                        "column",
+                        0.3565846894254624
+                    ],
+                    [
+                        "linear",
+                        0.38271952202865556
+                    ],
+                    [
+                        "x",
+                        0.4534154805103204
+                    ],
+                    [
+                        "matrix",
+                        0.4553846155478967
+                    ],
+                    [
+                        "space",
+                        0.4873182866419292
+                    ],
+                    [
+                        "dimensional",
+                        0.5362155874535893
+                    ],
+                    [
+                        "hand",
+                        0.8030023819685328
+                    ],
+                    [
+                        "right",
+                        0.8254016592195939
+                    ],
+                    [
+                        "solution",
+                        0.8444039450183056
+                    ],
+                    [
+                        "time",
+                        0.9108012433150173
+                    ],
+                    [
+                        "vector",
+                        0.9221320177850051
+                    ],
+                    [
+                        "picture",
+                        0.927216246631948
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1800": {
+            "id": "J7DzL2_Na80-1800",
+            "heat": 0.204,
+            "start": 1800.0,
+            "text": " This matrix -- that I chose for an example is a good matrix. A non-singular matrix. An invertible matrix. Those will be the matrices that we like best. There could be other -- and we will see other matrices where the answer becomes, no -- oh, actually, you can see when it would become no. What could go wrong? find out -- because if elimination fails, How could it go wrong that out of these -- out of three columns and all their combinations -- when would I not be able to produce some b off here? When could it go wrong? Do you see that the combinations -- let me say when it goes wrong. If these three columns all lie in the same plane, then their combinations will lie in that same plane. So then we're in trouble. If the three columns of my matrix -- if those three vectors happen to lie in the same plane -- for example, if column three is just",
+            "metrics": {
+                "relativeDCReadability": 0.9072198115238469,
+                "lexicalDiversity": 0.4523809523809524,
+                "posComposition": {
+                    "DT": 0.125,
+                    "NN": 0.095,
+                    ":": 0.054,
+                    "IN": 0.131,
+                    "PRP": 0.071,
+                    "VBD": 0.006,
+                    "VBZ": 0.03,
+                    "JJ": 0.077,
+                    "MD": 0.06,
+                    "VB": 0.083,
+                    "NNS": 0.048,
+                    "VBP": 0.03,
+                    "JJS": 0.006,
+                    "EX": 0.006,
+                    "CC": 0.012,
+                    "WRB": 0.036,
+                    "UH": 0.006,
+                    "RB": 0.048,
+                    "WP": 0.006,
+                    "RP": 0.006,
+                    "CD": 0.03,
+                    "PRP$": 0.018,
+                    "TO": 0.012,
+                    "NNP": 0.006
+                },
+                "syllableRate": 1.817,
+                "topicScores": [
+                    [
+                        "matrix",
+                        0.3111511272420086
+                    ],
+                    [
+                        "wrong",
+                        0.37827677004724564
+                    ],
+                    [
+                        "column",
+                        0.4055396002297649
+                    ],
+                    [
+                        "plane",
+                        0.4550896402598158
+                    ],
+                    [
+                        "combination",
+                        0.46755344921378733
+                    ],
+                    [
+                        "example",
+                        0.5777949894640597
+                    ],
+                    [
+                        "good",
+                        0.8912039085457715
+                    ],
+                    [
+                        "non",
+                        0.8956586870007959
+                    ],
+                    [
+                        "singular",
+                        0.8956586870007959
+                    ],
+                    [
+                        "invertible",
+                        0.9063445807782439
+                    ],
+                    [
+                        "trouble",
+                        0.9220698534880315
+                    ],
+                    [
+                        "answer",
+                        0.9284857692978997
+                    ],
+                    [
+                        "elimination",
+                        0.9361723024574296
+                    ],
+                    [
+                        "able",
+                        0.943937777452044
+                    ],
+                    [
+                        "vector",
+                        0.9495128765396746
+                    ],
+                    [
+                        "good matrix",
+                        4.948744507507767
+                    ],
+                    [
+                        "singular matrix",
+                        5.099630024162066
+                    ],
+                    [
+                        "invertible matrix",
+                        5.494789169515844
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "matrix",
+                        0.3111511272420086
+                    ],
+                    [
+                        "column",
+                        0.4055396002297649
+                    ],
+                    [
+                        "plane",
+                        0.4550896402598158
+                    ],
+                    [
+                        "combination",
+                        0.46755344921378733
+                    ],
+                    [
+                        "example",
+                        0.5777949894640597
+                    ],
+                    [
+                        "vector",
+                        0.9495128765396746
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1890": {
+            "id": "J7DzL2_Na80-1890",
+            "heat": 0.362,
+            "start": 1890.0,
+            "text": " the sum of column one and column two, I would be in trouble. That would be a matrix A where the answer would be no, because the combinations -- if column three is in the same plane as column one and two, I don't get anything new from that. All the combinations are in the plane and only right-hand sides b that I could get would be the ones in that plane. So I could solve it for some right-hand sides, when b is in the plane, but most right-hand sides would be out of the plane and unreachable. So that would be a singular case. The matrix would be not invertible. There would not be a solution for every b. The answer would become no for that. Okay. I don't know -- shall we take just a little shot at thinking about nine dimensions? Imagine that we have vectors with nine components. Well, it's going to be hard to visualize those. I don't pretend to do it. But somehow, pretend you do. Pretend we have -- if this was nine equations and nine unknowns, then we would have nine columns, and each one would be a vector in nine-dimensional space",
+            "metrics": {
+                "relativeDCReadability": 0.9530949963391949,
+                "lexicalDiversity": 0.4634146341463415,
+                "posComposition": {
+                    "DT": 0.117,
+                    "NN": 0.117,
+                    "IN": 0.112,
+                    "CD": 0.054,
+                    "CC": 0.039,
+                    "VB": 0.112,
+                    "PRP": 0.068,
+                    "MD": 0.068,
+                    "WDT": 0.01,
+                    "NNP": 0.015,
+                    "WRB": 0.01,
+                    "RB": 0.054,
+                    "NNS": 0.059,
+                    ":": 0.015,
+                    "VBZ": 0.015,
+                    "JJ": 0.044,
+                    "VBP": 0.049,
+                    "PDT": 0.005,
+                    "RBS": 0.005,
+                    "EX": 0.005,
+                    "VBG": 0.01,
+                    "TO": 0.015,
+                    "VBD": 0.005
+                },
+                "syllableRate": 2.233,
+                "topicScores": [
+                    [
+                        "plane",
+                        0.3143884043489496
+                    ],
+                    [
+                        "column",
+                        0.33322586281163163
+                    ],
+                    [
+                        "hand",
+                        0.38454405542742487
+                    ],
+                    [
+                        "side",
+                        0.4070671557412613
+                    ],
+                    [
+                        "right",
+                        0.4128563980081341
+                    ],
+                    [
+                        "combination",
+                        0.5246593803412082
+                    ],
+                    [
+                        "answer",
+                        0.5369545264415715
+                    ],
+                    [
+                        "matrix",
+                        0.5502088928938639
+                    ],
+                    [
+                        "vector",
+                        0.5703100983250836
+                    ],
+                    [
+                        "trouble",
+                        0.7601105386711385
+                    ],
+                    [
+                        "sum",
+                        0.7964101133583114
+                    ],
+                    [
+                        "hand side",
+                        0.8374026737710459
+                    ],
+                    [
+                        "new",
+                        0.8665027705399213
+                    ],
+                    [
+                        "unreachable",
+                        0.8672659981517479
+                    ],
+                    [
+                        "case",
+                        0.8765686601561553
+                    ],
+                    [
+                        "invertible",
+                        0.8831541246791579
+                    ],
+                    [
+                        "b.",
+                        0.8881097834678737
+                    ],
+                    [
+                        "space",
+                        0.8962649398243765
+                    ],
+                    [
+                        "singular",
+                        0.8976195940983892
+                    ],
+                    [
+                        "dimension",
+                        0.8977905236300447
+                    ],
+                    [
+                        "component",
+                        0.9000194438354258
+                    ],
+                    [
+                        "solution",
+                        0.9152800167411186
+                    ],
+                    [
+                        "little",
+                        0.9228142941461266
+                    ],
+                    [
+                        "shot",
+                        0.9228142941461266
+                    ],
+                    [
+                        "unknown",
+                        0.9228299654281436
+                    ],
+                    [
+                        "hard",
+                        0.9260320504271314
+                    ],
+                    [
+                        "equation",
+                        0.9294986894324928
+                    ],
+                    [
+                        "singular case",
+                        3.690986097421632
+                    ],
+                    [
+                        "dimensional space",
+                        4.563643860184154
+                    ],
+                    [
+                        "little shot",
+                        5.737918877714106
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "plane",
+                        0.3143884043489496
+                    ],
+                    [
+                        "column",
+                        0.33322586281163163
+                    ],
+                    [
+                        "hand",
+                        0.38454405542742487
+                    ],
+                    [
+                        "right",
+                        0.4128563980081341
+                    ],
+                    [
+                        "combination",
+                        0.5246593803412082
+                    ],
+                    [
+                        "matrix",
+                        0.5502088928938639
+                    ],
+                    [
+                        "vector",
+                        0.5703100983250836
+                    ],
+                    [
+                        "new",
+                        0.8665027705399213
+                    ],
+                    [
+                        "case",
+                        0.8765686601561553
+                    ],
+                    [
+                        "space",
+                        0.8962649398243765
+                    ],
+                    [
+                        "component",
+                        0.9000194438354258
+                    ],
+                    [
+                        "solution",
+                        0.9152800167411186
+                    ],
+                    [
+                        "unknown",
+                        0.9228299654281436
+                    ],
+                    [
+                        "equation",
+                        0.9294986894324928
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-1980": {
+            "id": "J7DzL2_Na80-1980",
+            "heat": 0.412,
+            "start": 1980.0,
+            "text": " and we would be looking at their linear combinations. So we would be having the linear combinations of nine vectors in nine-dimensional space, and we would be trying to find the combination that hit the correct right-hand side b. And we might also ask the question can we always do it? Can we get every right-hand side b? And certainly it will depend on those nine columns. Sometimes the answer will be yes -- if I picked a random matrix, it would be yes, actually. If I used MatLab and just used the random command, picked out a nine by nine matrix, I guarantee it would be good. It would be non-singular, it would be invertible, all beautiful. But if I choose those columns so that they're not independent, so that the ninth column is the same as the eighth column, then it contributes nothing new and there would be right-hand sides b that I couldn't get. Can you sort of think about nine vectors in nine-dimensional space an take their combinations? That's really the central thought -- that you get kind of used to in linear algebra.",
+            "metrics": {
+                "relativeDCReadability": 1.0673469425651325,
+                "lexicalDiversity": 0.5078534031413613,
+                "posComposition": {
+                    "CC": 0.037,
+                    "PRP": 0.11,
+                    "MD": 0.073,
+                    "VB": 0.073,
+                    "VBG": 0.016,
+                    "IN": 0.105,
+                    "PRP$": 0.01,
+                    "JJ": 0.099,
+                    "NNS": 0.042,
+                    "DT": 0.099,
+                    "CD": 0.026,
+                    "NN": 0.11,
+                    "TO": 0.01,
+                    "WDT": 0.005,
+                    "VBD": 0.026,
+                    "RB": 0.068,
+                    "VBP": 0.037,
+                    ":": 0.01,
+                    "NNP": 0.01,
+                    "RP": 0.005,
+                    "VBZ": 0.016,
+                    "EX": 0.005,
+                    "VBN": 0.005
+                },
+                "syllableRate": 2.267,
+                "topicScores": [
+                    [
+                        "combination",
+                        0.3573466743301307
+                    ],
+                    [
+                        "hand",
+                        0.37757850129479026
+                    ],
+                    [
+                        "column",
+                        0.38297568362125783
+                    ],
+                    [
+                        "right",
+                        0.41330255342390854
+                    ],
+                    [
+                        "linear",
+                        0.4291469675274171
+                    ],
+                    [
+                        "dimensional",
+                        0.5123872381202937
+                    ],
+                    [
+                        "space",
+                        0.5290614786695189
+                    ],
+                    [
+                        "vector",
+                        0.5334215137316417
+                    ],
+                    [
+                        "random",
+                        0.5534702445674202
+                    ],
+                    [
+                        "matrix",
+                        0.5534702445674202
+                    ],
+                    [
+                        "b.",
+                        0.8033291422289569
+                    ],
+                    [
+                        "correct",
+                        0.8399100889748068
+                    ],
+                    [
+                        "beautiful",
+                        0.8603903736679549
+                    ],
+                    [
+                        "good",
+                        0.871772998406331
+                    ],
+                    [
+                        "question",
+                        0.877276267378396
+                    ],
+                    [
+                        "algebra",
+                        0.8851967738932035
+                    ],
+                    [
+                        "singular",
+                        0.889495563490515
+                    ],
+                    [
+                        "command",
+                        0.8972516164155864
+                    ],
+                    [
+                        "non",
+                        0.9008627885741963
+                    ],
+                    [
+                        "invertible",
+                        0.9008627885741963
+                    ],
+                    [
+                        "answer",
+                        0.9031247672857697
+                    ],
+                    [
+                        "independent",
+                        0.9037908685709413
+                    ],
+                    [
+                        "eighth",
+                        0.9037908685709413
+                    ],
+                    [
+                        "MatLab",
+                        0.907322315632393
+                    ],
+                    [
+                        "central",
+                        0.9082886986753259
+                    ],
+                    [
+                        "thought",
+                        0.9082886986753259
+                    ],
+                    [
+                        "ninth",
+                        0.9132825794665955
+                    ],
+                    [
+                        "new",
+                        0.9132825794665955
+                    ],
+                    [
+                        "dimensional space",
+                        1.3468609359902686
+                    ],
+                    [
+                        "hand side",
+                        1.3873947532215987
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "combination",
+                        0.3573466743301307
+                    ],
+                    [
+                        "hand",
+                        0.37757850129479026
+                    ],
+                    [
+                        "column",
+                        0.38297568362125783
+                    ],
+                    [
+                        "right",
+                        0.41330255342390854
+                    ],
+                    [
+                        "linear",
+                        0.4291469675274171
+                    ],
+                    [
+                        "dimensional",
+                        0.5123872381202937
+                    ],
+                    [
+                        "space",
+                        0.5290614786695189
+                    ],
+                    [
+                        "vector",
+                        0.5334215137316417
+                    ],
+                    [
+                        "matrix",
+                        0.5534702445674202
+                    ],
+                    [
+                        "new",
+                        0.9132825794665955
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-2070": {
+            "id": "J7DzL2_Na80-2070",
+            "heat": 0.406,
+            "start": 2070.0,
+            "text": " Even though you can't really visualize it, you sort of think you can after a while. Those nine columns and all their combinations may very well fill out the whole nine-dimensional space. But if the ninth column happened to be the same as the eighth column and gave nothing new, then probably what it would fill out would be -- I hesitate even to say this -- it would be a sort of a plane -- an eight dimensional plane inside nine-dimensional space. And it's those eight dimensional planes inside nine-dimensional space that we have to work with eventually. For now, let's stay with a nice case where the matrices work, we can get every right-hand side b and here we see how to do it with columns. Okay. There was one step which I realized I was saying in words that I now want to write in letters. Because I'm coming back to the matrix form of the equation, so let me write it here. The matrix form of my equation, of my system is some matrix A times some vector x equals some right-hand side b.",
+            "metrics": {
+                "relativeDCReadability": 0.9836657857070874,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "RB": 0.078,
+                    "IN": 0.104,
+                    "PRP": 0.094,
+                    "MD": 0.036,
+                    "VB": 0.073,
+                    "VBP": 0.042,
+                    "NN": 0.135,
+                    "DT": 0.109,
+                    "CD": 0.021,
+                    "NNS": 0.031,
+                    "CC": 0.031,
+                    "PRP$": 0.016,
+                    "RP": 0.01,
+                    "JJ": 0.078,
+                    "VBD": 0.026,
+                    "TO": 0.031,
+                    "WP": 0.005,
+                    ":": 0.016,
+                    "VBZ": 0.016,
+                    "POS": 0.005,
+                    "WRB": 0.01,
+                    "NNP": 0.01,
+                    "EX": 0.005,
+                    "WDT": 0.005,
+                    "VBG": 0.01
+                },
+                "syllableRate": 2.183,
+                "topicScores": [
+                    [
+                        "dimensional",
+                        0.3227117968761143
+                    ],
+                    [
+                        "matrix",
+                        0.3838915068357339
+                    ],
+                    [
+                        "column",
+                        0.39000061138227177
+                    ],
+                    [
+                        "space",
+                        0.3916190910126236
+                    ],
+                    [
+                        "plane",
+                        0.4332423674675376
+                    ],
+                    [
+                        "sort",
+                        0.5416920509573406
+                    ],
+                    [
+                        "hand",
+                        0.5528690983309842
+                    ],
+                    [
+                        "form",
+                        0.5637522070999554
+                    ],
+                    [
+                        "right",
+                        0.5653698156762786
+                    ],
+                    [
+                        "equation",
+                        0.5708968889704903
+                    ],
+                    [
+                        "combination",
+                        0.885973293705345
+                    ],
+                    [
+                        "letter",
+                        0.8886894660734193
+                    ],
+                    [
+                        "new",
+                        0.8906159584882573
+                    ],
+                    [
+                        "b.",
+                        0.8983257939405875
+                    ],
+                    [
+                        "ninth",
+                        0.9042412554350466
+                    ],
+                    [
+                        "eighth",
+                        0.9042412554350466
+                    ],
+                    [
+                        "nice",
+                        0.9204517543321656
+                    ],
+                    [
+                        "case",
+                        0.9204517543321656
+                    ],
+                    [
+                        "time",
+                        0.9250389589269808
+                    ],
+                    [
+                        "step",
+                        0.9282256761299443
+                    ],
+                    [
+                        "word",
+                        0.9282256761299443
+                    ],
+                    [
+                        "system",
+                        0.9329409661574681
+                    ],
+                    [
+                        "vector",
+                        0.934690824883594
+                    ],
+                    [
+                        "dimensional space",
+                        0.9424837371571926
+                    ],
+                    [
+                        "matrix form",
+                        2.4688681571617233
+                    ],
+                    [
+                        "ninth column",
+                        4.519943398845177
+                    ],
+                    [
+                        "eighth column",
+                        4.519943398845177
+                    ],
+                    [
+                        "nice case",
+                        5.54584914580064
+                    ],
+                    [
+                        "vector x",
+                        6.914331359553214
+                    ],
+                    [
+                        "hand side b.",
+                        19.361150829890356
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "dimensional",
+                        0.3227117968761143
+                    ],
+                    [
+                        "matrix",
+                        0.3838915068357339
+                    ],
+                    [
+                        "column",
+                        0.39000061138227177
+                    ],
+                    [
+                        "space",
+                        0.3916190910126236
+                    ],
+                    [
+                        "plane",
+                        0.4332423674675376
+                    ],
+                    [
+                        "hand",
+                        0.5528690983309842
+                    ],
+                    [
+                        "right",
+                        0.5653698156762786
+                    ],
+                    [
+                        "equation",
+                        0.5708968889704903
+                    ],
+                    [
+                        "combination",
+                        0.885973293705345
+                    ],
+                    [
+                        "new",
+                        0.8906159584882573
+                    ],
+                    [
+                        "case",
+                        0.9204517543321656
+                    ],
+                    [
+                        "time",
+                        0.9250389589269808
+                    ],
+                    [
+                        "vector",
+                        0.934690824883594
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-2160": {
+            "id": "J7DzL2_Na80-2160",
+            "heat": 0.427,
+            "start": 2160.0,
+            "text": " Okay. So this is a multiplication. A times x. Matrix times vector, and I just want to say how do you multiply a matrix by a vector? Okay, so I'm just going to create a matrix -- let me take two five one three -- and let me take a vector x to be, say, 1and 2. How do I multiply a matrix by a vector? But just think a little bit about matrix notation and how to do that in multiplication. So let me say how I multiply a matrix by a vector. Actually, there are two ways to do it. Let me tell you my favorite way. It's columns again. It's a column at a time. For me, this matrix multiplication says I take one of that column and two of that column and add. So this is the way I would think of it is one of the first column and two of the second column and let's just see what we get. So in the first component I'm getting a two and a ten. I'm getting a twelve there. In the second component I'm getting a one and a six, I'm getting a seven. So that matrix times that vector is twelve seven.",
+            "metrics": {
+                "relativeDCReadability": 0.9419102789064596,
+                "lexicalDiversity": 0.4790697674418605,
+                "posComposition": {
+                    "NNP": 0.037,
+                    "DT": 0.135,
+                    "VBZ": 0.033,
+                    "NN": 0.144,
+                    "NNS": 0.019,
+                    "CC": 0.047,
+                    "PRP": 0.107,
+                    "RB": 0.042,
+                    "VBP": 0.051,
+                    "TO": 0.023,
+                    "VB": 0.098,
+                    "WRB": 0.019,
+                    "IN": 0.079,
+                    "VBG": 0.023,
+                    ":": 0.009,
+                    "CD": 0.074,
+                    "JJ": 0.042,
+                    "EX": 0.005,
+                    "PRP$": 0.005,
+                    "MD": 0.005,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.325,
+                "topicScores": [
+                    [
+                        "matrix",
+                        0.2837322597624737
+                    ],
+                    [
+                        "vector",
+                        0.29976248866846744
+                    ],
+                    [
+                        "column",
+                        0.3116100465401327
+                    ],
+                    [
+                        "multiplication",
+                        0.4360615971256898
+                    ],
+                    [
+                        "time",
+                        0.44082681771756765
+                    ],
+                    [
+                        "way",
+                        0.44379741837871506
+                    ],
+                    [
+                        "component",
+                        0.5621506291138141
+                    ],
+                    [
+                        "second",
+                        0.5738442886350223
+                    ],
+                    [
+                        "x.",
+                        0.896956814440231
+                    ],
+                    [
+                        "little",
+                        0.9190426575126197
+                    ],
+                    [
+                        "bit",
+                        0.9190426575126197
+                    ],
+                    [
+                        "notation",
+                        0.9190426575126197
+                    ],
+                    [
+                        "favorite",
+                        0.9219916210660289
+                    ],
+                    [
+                        "Matrix times",
+                        1.044762969873585
+                    ],
+                    [
+                        "x. Matrix",
+                        1.0636624257583234
+                    ],
+                    [
+                        "matrix multiplication",
+                        2.8812109450490184
+                    ],
+                    [
+                        "times vector",
+                        2.9724407992958417
+                    ],
+                    [
+                        "matrix notation",
+                        3.593185047578623
+                    ],
+                    [
+                        "Matrix times vector",
+                        3.6696882320588626
+                    ],
+                    [
+                        "time x.",
+                        3.780234372100746
+                    ],
+                    [
+                        "second column",
+                        3.893554489289549
+                    ],
+                    [
+                        "second component",
+                        4.273499464135362
+                    ],
+                    [
+                        "favorite way",
+                        4.505243817157387
+                    ],
+                    [
+                        "little bit",
+                        5.43663863766063
+                    ]
+                ],
+                "topTopicSimilarity": 0.2916666666666667,
+                "sharedTopicScores": [
+                    [
+                        "matrix",
+                        0.2837322597624737
+                    ],
+                    [
+                        "vector",
+                        0.29976248866846744
+                    ],
+                    [
+                        "column",
+                        0.3116100465401327
+                    ],
+                    [
+                        "time",
+                        0.44082681771756765
+                    ],
+                    [
+                        "way",
+                        0.44379741837871506
+                    ],
+                    [
+                        "component",
+                        0.5621506291138141
+                    ],
+                    [
+                        "second",
+                        0.5738442886350223
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-2250": {
+            "id": "J7DzL2_Na80-2250",
+            "heat": 0.275,
+            "start": 2250.0,
+            "text": " Now, you could do that another way. You could do it a row at a time. And you would get this twelve -- and actually I pretty much did it here -- this way. Two -- I could take that row times my vector. This is the idea of a dot product. This vector times this vector, two times one plus five times two is the twelve. This vector times this vector -- one times one plus three times two is the seven. So I can do it by rows, and in each row times my x is what I'll later call a dot product. But I also like to see it by columns. I see this as a linear combination of a column. So here's my point. A times x is a combination of the columns of A. That's how I hope you will think of A times x when we need it. Right now we've got -- with small ones, we can always do it in different ways, but later, think of it that way. Okay. So that's the picture for a two by two system.",
+            "metrics": {
+                "relativeDCReadability": 0.8787907960584254,
+                "lexicalDiversity": 0.49222797927461137,
+                "posComposition": {
+                    "RB": 0.067,
+                    "PRP": 0.109,
+                    "MD": 0.041,
+                    "VB": 0.047,
+                    "IN": 0.088,
+                    "DT": 0.135,
+                    "NN": 0.14,
+                    "CC": 0.031,
+                    ":": 0.026,
+                    "VBD": 0.005,
+                    "CD": 0.062,
+                    "NNS": 0.052,
+                    "PRP$": 0.016,
+                    "VBZ": 0.047,
+                    "JJ": 0.026,
+                    "WP": 0.005,
+                    "VBP": 0.031,
+                    "TO": 0.005,
+                    "NNP": 0.036,
+                    "POS": 0.01,
+                    "WRB": 0.01,
+                    "VBN": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 1.908,
+                "topicScores": [
+                    [
+                        "time",
+                        0.24875067063597173
+                    ],
+                    [
+                        "vector",
+                        0.32428243503550647
+                    ],
+                    [
+                        "way",
+                        0.3810785970794913
+                    ],
+                    [
+                        "row",
+                        0.3880803317664667
+                    ],
+                    [
+                        "column",
+                        0.450080261111529
+                    ],
+                    [
+                        "product",
+                        0.5287990754520261
+                    ],
+                    [
+                        "dot",
+                        0.555702383650977
+                    ],
+                    [
+                        "combination",
+                        0.5758098388655623
+                    ],
+                    [
+                        "A.",
+                        0.7019285530315995
+                    ],
+                    [
+                        "point",
+                        0.9215828062282931
+                    ],
+                    [
+                        "system",
+                        0.9262097035484143
+                    ],
+                    [
+                        "idea",
+                        0.9293021753255679
+                    ],
+                    [
+                        "small",
+                        0.9314027071908154
+                    ],
+                    [
+                        "different",
+                        0.9376740928608024
+                    ],
+                    [
+                        "linear",
+                        0.9399594077099618
+                    ],
+                    [
+                        "picture",
+                        0.9447041940170358
+                    ],
+                    [
+                        "dot product",
+                        1.7789900710449136
+                    ],
+                    [
+                        "vector time",
+                        1.8680634847787174
+                    ],
+                    [
+                        "row time",
+                        2.5809186421913606
+                    ],
+                    [
+                        "different way",
+                        4.871605345237415
+                    ],
+                    [
+                        "small one",
+                        5.656747851787173
+                    ],
+                    [
+                        "linear combination",
+                        6.034413419354529
+                    ]
+                ],
+                "topTopicSimilarity": 0.4090909090909091,
+                "sharedTopicScores": [
+                    [
+                        "time",
+                        0.24875067063597173
+                    ],
+                    [
+                        "vector",
+                        0.32428243503550647
+                    ],
+                    [
+                        "way",
+                        0.3810785970794913
+                    ],
+                    [
+                        "row",
+                        0.3880803317664667
+                    ],
+                    [
+                        "column",
+                        0.450080261111529
+                    ],
+                    [
+                        "combination",
+                        0.5758098388655623
+                    ],
+                    [
+                        "point",
+                        0.9215828062282931
+                    ],
+                    [
+                        "linear",
+                        0.9399594077099618
+                    ],
+                    [
+                        "picture",
+                        0.9447041940170358
+                    ]
+                ]
+            }
+        },
+        "J7DzL2_Na80-2340": {
+            "id": "J7DzL2_Na80-2340",
+            "heat": 0.237,
+            "start": 2340.0,
+            "text": " And if the right-hand side B happened to be twelve seven, then of course the correct solution would be one two. Okay. So let me come back next time to a systematic way, using elimination, to find the solution, if there is one, to a system of any size and find out-- because the system-- because if elimination fails-- find out when there isn't a solution. Okay. Thanks.",
+            "metrics": {
+                "relativeDCReadability": 0.9674364353622804,
+                "lexicalDiversity": 0.5416666666666666,
+                "posComposition": {
+                    "CC": 0.028,
+                    "IN": 0.097,
+                    "DT": 0.111,
+                    "JJ": 0.056,
+                    "NN": 0.167,
+                    "NNP": 0.069,
+                    "VBD": 0.014,
+                    "TO": 0.056,
+                    "VB": 0.083,
+                    "RB": 0.056,
+                    "CD": 0.056,
+                    "MD": 0.014,
+                    "PRP": 0.014,
+                    "VBG": 0.014,
+                    "EX": 0.028,
+                    "VBZ": 0.028,
+                    "RP": 0.028,
+                    ":": 0.042,
+                    "NNS": 0.014,
+                    "VBP": 0.014,
+                    "WRB": 0.014
+                },
+                "syllableRate": 0.842,
+                "topicScores": [
+                    [
+                        "solution",
+                        0.45379398001525234
+                    ],
+                    [
+                        "B",
+                        0.5403786154593437
+                    ],
+                    [
+                        "elimination",
+                        0.5779721505032314
+                    ],
+                    [
+                        "thank",
+                        0.7475225353475023
+                    ],
+                    [
+                        "right",
+                        0.8323505474982567
+                    ],
+                    [
+                        "hand",
+                        0.8323505474982567
+                    ],
+                    [
+                        "course",
+                        0.8572945491320506
+                    ],
+                    [
+                        "correct",
+                        0.8572945491320506
+                    ],
+                    [
+                        "systematic",
+                        0.9008036596392663
+                    ],
+                    [
+                        "way",
+                        0.9008036596392663
+                    ],
+                    [
+                        "time",
+                        0.9165834631834168
+                    ],
+                    [
+                        "size",
+                        0.9165834631834168
+                    ],
+                    [
+                        "system--",
+                        0.9253051066146428
+                    ],
+                    [
+                        "fails--",
+                        0.9253051066146428
+                    ],
+                    [
+                        "hand side B",
+                        2.394024267828805
+                    ],
+                    [
+                        "correct solution",
+                        3.5059295756104345
+                    ],
+                    [
+                        "systematic way",
+                        4.303555164290454
+                    ],
+                    [
+                        "elimination fails--",
+                        5.56335371979222
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "solution",
+                        0.45379398001525234
+                    ],
+                    [
+                        "right",
+                        0.8323505474982567
+                    ],
+                    [
+                        "hand",
+                        0.8323505474982567
+                    ],
+                    [
+                        "course",
+                        0.8572945491320506
+                    ],
+                    [
+                        "way",
+                        0.9008036596392663
+                    ],
+                    [
+                        "time",
+                        0.9165834631834168
+                    ]
+                ]
+            }
+        }
+    }
+}

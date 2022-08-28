@@ -1,0 +1,4620 @@
+{
+    "metadata": {
+        "id": "oo1ZZlvT2LQ",
+        "avgHeat": 0.01,
+        "runtime": 2331.65,
+        "dale-challReadabilityScore": 7.980554681778873,
+        "lexicalDiversity": 0.4867638005335522,
+        "posComposition": {
+            "NNP": 0.031,
+            "DT": 0.109,
+            "VBZ": 0.056,
+            "JJ": 0.059,
+            "NN": 0.115,
+            "IN": 0.087,
+            "RB": 0.068,
+            "MD": 0.02,
+            "VB": 0.052,
+            "PRP": 0.093,
+            "VBN": 0.013,
+            "TO": 0.038,
+            "CC": 0.041,
+            "VBP": 0.051,
+            "EX": 0.002,
+            "VBG": 0.019,
+            "CD": 0.049,
+            "NNS": 0.024,
+            "WDT": 0.008,
+            "PRP$": 0.004,
+            "RBS": 0.002,
+            ":": 0.008,
+            "WP": 0.012,
+            "VBD": 0.014,
+            "WRB": 0.007,
+            "JJR": 0.008,
+            "RBR": 0.002,
+            "RP": 0.005,
+            "POS": 0.002,
+            "WP$": 0.0,
+            "PDT": 0.002,
+            "UH": 0.0,
+            "JJS": 0.0
+        },
+        "syllableRate": 2.599,
+        "topicScores": [
+            [
+                "x",
+                0.08841860194495961
+            ],
+            [
+                "ok",
+                0.09546977389857589
+            ],
+            [
+                "e",
+                0.13387383487774274
+            ],
+            [
+                "time",
+                0.15240535103002187
+            ],
+            [
+                "slope",
+                0.15530389433771982
+            ],
+            [
+                "n",
+                0.16883208528226742
+            ],
+            [
+                "equal",
+                0.17647682602609324
+            ],
+            [
+                "series",
+                0.1868420668590797
+            ],
+            [
+                "interest",
+                0.196768172381442
+            ],
+            [
+                "number",
+                0.19694097231235724
+            ],
+            [
+                "power",
+                0.1990051702208989
+            ],
+            [
+                "big",
+                0.20386881200327137
+            ],
+            [
+                "function",
+                0.21948798422633814
+            ],
+            [
+                "thing",
+                0.22105029663669043
+            ],
+            [
+                "way",
+                0.221151736403448
+            ],
+            [
+                "factorial",
+                0.2265587770453402
+            ],
+            [
+                "capital",
+                0.23270210921503515
+            ],
+            [
+                "important",
+                0.23441038421290958
+            ],
+            [
+                "term",
+                0.23509684924443539
+            ],
+            [
+                "property",
+                0.24059578752584787
+            ],
+            [
+                "cubed",
+                0.2418186476371479
+            ],
+            [
+                "year",
+                0.2432141483387251
+            ],
+            [
+                "equation",
+                0.24401338249148244
+            ],
+            [
+                "bank",
+                0.24411518544678587
+            ],
+            [
+                "course",
+                0.2622892487827253
+            ],
+            [
+                "minus",
+                0.2633554636759581
+            ],
+            [
+                "differential",
+                0.2633768708962302
+            ],
+            [
+                "month",
+                0.2649079003041004
+            ],
+            [
+                "end",
+                0.2758772356103695
+            ],
+            [
+                "exponential",
+                0.2759824764326751
+            ]
+        ],
+        "topicsList": [
+            "x",
+            "ok",
+            "e",
+            "time",
+            "slope",
+            "n",
+            "equal",
+            "series",
+            "interest",
+            "number",
+            "power",
+            "big",
+            "function",
+            "thing",
+            "way",
+            "factorial",
+            "capital",
+            "important",
+            "term",
+            "property",
+            "cubed",
+            "year",
+            "equation",
+            "bank",
+            "course",
+            "minus",
+            "differential",
+            "month",
+            "end",
+            "exponential"
+        ]
+    },
+    "chunks": {
+        "oo1ZZlvT2LQ-0": {
+            "id": "oo1ZZlvT2LQ-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: Hi. Well, this is exponential day, the day for the function that only calculus could create, y is e to the x. And it couldn't have come from algebra because, however we approach e to the x, there's some limiting step. Something goes to 0. Something goes to infinity. I've got different ways to reach e to the x, but all of them involve that limiting process, which we haven't discussed in full. Let me come back at a later time to the whole theory, discussion of limits and just go forward here with this highly important function. And I'd like to start with its most important property, which is-- so it has this remarkable property that its slope is equal to itself.",
+            "metrics": {
+                "relativeDCReadability": 1.062600163499812,
+                "lexicalDiversity": 0.5076923076923077,
+                "posComposition": {
+                    "NNP": 0.031,
+                    "DT": 0.092,
+                    "VBZ": 0.062,
+                    "JJ": 0.077,
+                    "NN": 0.131,
+                    "IN": 0.1,
+                    "RB": 0.077,
+                    "MD": 0.023,
+                    "VB": 0.069,
+                    "PRP": 0.077,
+                    "VBN": 0.031,
+                    "TO": 0.069,
+                    "CC": 0.031,
+                    "VBP": 0.031,
+                    "EX": 0.008,
+                    "VBG": 0.023,
+                    "CD": 0.008,
+                    "NNS": 0.015,
+                    "WDT": 0.015,
+                    "PRP$": 0.015,
+                    "RBS": 0.008,
+                    ":": 0.008
+                },
+                "syllableRate": 1.508,
+                "topicScores": [
+                    [
+                        "PROFESSOR",
+                        0.4139306992420002
+                    ],
+                    [
+                        "e",
+                        0.43578657682024496
+                    ],
+                    [
+                        "limit",
+                        0.4562963755170882
+                    ],
+                    [
+                        "x",
+                        0.5430598415930712
+                    ],
+                    [
+                        "day",
+                        0.5506603686632728
+                    ],
+                    [
+                        "function",
+                        0.5659868627005854
+                    ],
+                    [
+                        "important",
+                        0.5721650464192373
+                    ],
+                    [
+                        "property",
+                        0.5786830300715823
+                    ],
+                    [
+                        "step",
+                        0.8642455864186019
+                    ],
+                    [
+                        "infinity",
+                        0.8767769715166921
+                    ],
+                    [
+                        "exponential",
+                        0.8885464949407884
+                    ],
+                    [
+                        "algebra",
+                        0.896535641806509
+                    ],
+                    [
+                        "calculus",
+                        0.9014966003692028
+                    ],
+                    [
+                        "process",
+                        0.909730843295161
+                    ],
+                    [
+                        "theory",
+                        0.9124224626568195
+                    ],
+                    [
+                        "discussion",
+                        0.9124224626568195
+                    ],
+                    [
+                        "different",
+                        0.9204398771337597
+                    ],
+                    [
+                        "way",
+                        0.9204398771337597
+                    ],
+                    [
+                        "later",
+                        0.9228392613515317
+                    ],
+                    [
+                        "time",
+                        0.9228392613515317
+                    ],
+                    [
+                        "remarkable",
+                        0.9265189708599165
+                    ],
+                    [
+                        "slope",
+                        0.9265189708599165
+                    ],
+                    [
+                        "equal",
+                        0.9265189708599165
+                    ],
+                    [
+                        "exponential day",
+                        3.4543843880831604
+                    ],
+                    [
+                        "important function",
+                        4.362366535989353
+                    ],
+                    [
+                        "important property",
+                        4.944026509345913
+                    ],
+                    [
+                        "different way",
+                        5.5449124208964315
+                    ],
+                    [
+                        "remarkable property",
+                        5.657557842006225
+                    ],
+                    [
+                        "later time",
+                        5.740011575612699
+                    ]
+                ],
+                "topTopicSimilarity": 0.3448275862068966,
+                "sharedTopicScores": [
+                    [
+                        "e",
+                        0.43578657682024496
+                    ],
+                    [
+                        "x",
+                        0.5430598415930712
+                    ],
+                    [
+                        "function",
+                        0.5659868627005854
+                    ],
+                    [
+                        "important",
+                        0.5721650464192373
+                    ],
+                    [
+                        "property",
+                        0.5786830300715823
+                    ],
+                    [
+                        "exponential",
+                        0.8885464949407884
+                    ],
+                    [
+                        "way",
+                        0.9204398771337597
+                    ],
+                    [
+                        "time",
+                        0.9228392613515317
+                    ],
+                    [
+                        "slope",
+                        0.9265189708599165
+                    ],
+                    [
+                        "equal",
+                        0.9265189708599165
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-90": {
+            "id": "oo1ZZlvT2LQ-90",
+            "heat": 0.424,
+            "start": 90.0,
+            "text": " That's what is special about e to the x. The slope is equal to the function. Now, I have to admit that if we had a function like that, y equals e to the x, then 2e to the x, x would work just as well, or 10e to the x. Those would-- the factor 2 or the factor 10 would be in y and it would also be in the slope and it would cancel and-- this is a differential equation, our first differential equation. A differential equation is an equation that involves, as this one does, the function and the slope. It connects them. And that's the fantastic description of nature, is by differential equations. So it's great to see this one early and it's the most important one. When you get this one, you've got a whole lot of others solved. OK. But I needed to give it a starting point so that the solution would be e to the x and not 10e to the x. So where should I start it? Well if I want it to be an e to the x, then when x is 0, e to the 0 power, some number to the 0 power, is always 1.",
+            "metrics": {
+                "relativeDCReadability": 1.097313113797289,
+                "lexicalDiversity": 0.4439252336448598,
+                "posComposition": {
+                    "DT": 0.159,
+                    "VBZ": 0.07,
+                    "WP": 0.005,
+                    "JJ": 0.056,
+                    "IN": 0.061,
+                    "NN": 0.136,
+                    "TO": 0.065,
+                    "NNP": 0.037,
+                    "RB": 0.056,
+                    "PRP": 0.075,
+                    "VBP": 0.023,
+                    "VB": 0.047,
+                    "VBD": 0.014,
+                    "CD": 0.056,
+                    "MD": 0.033,
+                    "CC": 0.047,
+                    ":": 0.009,
+                    "PRP$": 0.005,
+                    "WDT": 0.005,
+                    "NNS": 0.009,
+                    "RBS": 0.005,
+                    "WRB": 0.014,
+                    "VBN": 0.009,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.242,
+                "topicScores": [
+                    [
+                        "x",
+                        0.3001422248060405
+                    ],
+                    [
+                        "e",
+                        0.3166019836746909
+                    ],
+                    [
+                        "equation",
+                        0.3238789930301575
+                    ],
+                    [
+                        "differential",
+                        0.3442928186165483
+                    ],
+                    [
+                        "slope",
+                        0.41062999300680064
+                    ],
+                    [
+                        "function",
+                        0.41609913000548776
+                    ],
+                    [
+                        "equal",
+                        0.5282521304028223
+                    ],
+                    [
+                        "y",
+                        0.5393407429801853
+                    ],
+                    [
+                        "10e",
+                        0.5452986153810986
+                    ],
+                    [
+                        "factor",
+                        0.5472136358476161
+                    ],
+                    [
+                        "power",
+                        0.5578553356470137
+                    ],
+                    [
+                        "special",
+                        0.8591194025249379
+                    ],
+                    [
+                        "differential equation",
+                        0.8715985414373301
+                    ],
+                    [
+                        "2e",
+                        0.8850621774301307
+                    ],
+                    [
+                        "would--",
+                        0.8931101044788884
+                    ],
+                    [
+                        "early",
+                        0.8968919210767237
+                    ],
+                    [
+                        "nature",
+                        0.9096086348709187
+                    ],
+                    [
+                        "important",
+                        0.9138604037443
+                    ],
+                    [
+                        "fantastic",
+                        0.916100750509772
+                    ],
+                    [
+                        "description",
+                        0.916100750509772
+                    ],
+                    [
+                        "great",
+                        0.9182515377742972
+                    ],
+                    [
+                        "number",
+                        0.9204932400878985
+                    ],
+                    [
+                        "lot",
+                        0.9216433573136602
+                    ],
+                    [
+                        "starting",
+                        0.9242218669313401
+                    ],
+                    [
+                        "point",
+                        0.9242218669313401
+                    ],
+                    [
+                        "solution",
+                        0.9242218669313401
+                    ],
+                    [
+                        "fantastic description",
+                        5.220475488331745
+                    ],
+                    [
+                        "starting point",
+                        5.858054828610556
+                    ]
+                ],
+                "topTopicSimilarity": 0.35714285714285715,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.3001422248060405
+                    ],
+                    [
+                        "e",
+                        0.3166019836746909
+                    ],
+                    [
+                        "equation",
+                        0.3238789930301575
+                    ],
+                    [
+                        "differential",
+                        0.3442928186165483
+                    ],
+                    [
+                        "slope",
+                        0.41062999300680064
+                    ],
+                    [
+                        "function",
+                        0.41609913000548776
+                    ],
+                    [
+                        "equal",
+                        0.5282521304028223
+                    ],
+                    [
+                        "power",
+                        0.5578553356470137
+                    ],
+                    [
+                        "important",
+                        0.9138604037443
+                    ],
+                    [
+                        "number",
+                        0.9204932400878985
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-180": {
+            "id": "oo1ZZlvT2LQ-180",
+            "heat": 0.0,
+            "start": 180.0,
+            "text": " So let me start this y equals 1 at x equals 0. Differential equations, you have to tell where they begin. So that's our starting point. And do you see what this means? This means that it starts at 1. And what's it's slope at the starting point? The slope is also 1. So it's climbing. As it climbs-- so y gets larger because it's got a positive slope. As y gets larger, the slope gets larger. So it climbs faster. And then it's gone higher, y is bigger, the slope is equal, so the slope is also bigger, so it climbs even faster. It just takes off. It climbs much faster than x to the 100th power. You might think x to the 100th, that's climbing pretty well. 2 to the 100th, 10 to the 100th, but now way. It doesn't come close to keeping up with y equals e to the x. OK. I've got several things to do. And one more thing I have to do, this is a key property,",
+            "metrics": {
+                "relativeDCReadability": 0.9741559596172481,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "RB": 0.076,
+                    "VB": 0.049,
+                    "PRP": 0.098,
+                    "DT": 0.087,
+                    "NN": 0.076,
+                    "VBZ": 0.136,
+                    "CD": 0.038,
+                    "IN": 0.082,
+                    "JJ": 0.06,
+                    "NNS": 0.033,
+                    "NNP": 0.022,
+                    "VBP": 0.027,
+                    "TO": 0.049,
+                    "WRB": 0.005,
+                    "PRP$": 0.005,
+                    "CC": 0.027,
+                    "WP": 0.011,
+                    "VBG": 0.022,
+                    ":": 0.005,
+                    "JJR": 0.049,
+                    "VBD": 0.005,
+                    "RBR": 0.011,
+                    "VBN": 0.011,
+                    "MD": 0.005,
+                    "WDT": 0.005,
+                    "RP": 0.005
+                },
+                "syllableRate": 1.817,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.311255095367869
+                    ],
+                    [
+                        "y",
+                        0.34874026802077324
+                    ],
+                    [
+                        "100th",
+                        0.371559615263455
+                    ],
+                    [
+                        "equal",
+                        0.39030877219339827
+                    ],
+                    [
+                        "large",
+                        0.4402541235538518
+                    ],
+                    [
+                        "point",
+                        0.5225186009136171
+                    ],
+                    [
+                        "starting",
+                        0.5479788299474191
+                    ],
+                    [
+                        "big",
+                        0.575508995072335
+                    ],
+                    [
+                        "thing",
+                        0.58687822101402
+                    ],
+                    [
+                        "OK",
+                        0.6727260782659237
+                    ],
+                    [
+                        "differential",
+                        0.8383313800423934
+                    ],
+                    [
+                        "equation",
+                        0.8648984999516035
+                    ],
+                    [
+                        "power",
+                        0.9203525221594947
+                    ],
+                    [
+                        "way",
+                        0.9224932915564288
+                    ],
+                    [
+                        "property",
+                        0.9250105417463358
+                    ],
+                    [
+                        "positive",
+                        0.9266735944361943
+                    ],
+                    [
+                        "high",
+                        0.9315699048561354
+                    ],
+                    [
+                        "x.",
+                        0.9364207868763218
+                    ],
+                    [
+                        "key",
+                        0.9377674897783314
+                    ],
+                    [
+                        "starting point",
+                        1.6166847935148532
+                    ],
+                    [
+                        "x. OK",
+                        1.7023717247007573
+                    ],
+                    [
+                        "differential equation",
+                        2.6373100387897006
+                    ],
+                    [
+                        "100th power",
+                        3.8548418299311713
+                    ],
+                    [
+                        "positive slope",
+                        4.255707304835038
+                    ],
+                    [
+                        "key property",
+                        6.544027723885104
+                    ]
+                ],
+                "topTopicSimilarity": 0.36,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.311255095367869
+                    ],
+                    [
+                        "equal",
+                        0.39030877219339827
+                    ],
+                    [
+                        "big",
+                        0.575508995072335
+                    ],
+                    [
+                        "thing",
+                        0.58687822101402
+                    ],
+                    [
+                        "differential",
+                        0.8383313800423934
+                    ],
+                    [
+                        "equation",
+                        0.8648984999516035
+                    ],
+                    [
+                        "power",
+                        0.9203525221594947
+                    ],
+                    [
+                        "way",
+                        0.9224932915564288
+                    ],
+                    [
+                        "property",
+                        0.9250105417463358
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-270": {
+            "id": "oo1ZZlvT2LQ-270",
+            "heat": 0.0,
+            "start": 270.0,
+            "text": " but there's another key property that is true for any 2 to the x, 3 to the x, e to the x. And that key property is also to show-- I have to show this, that my function, e to the x, times e to the possibly a different x is equal to-- do you know what we want here? This has got to come out of the construction, out of this property. It's got to come-- but we want this to deserve, to be called some number to the x power. If we take some number x times multiplied by that same number capital x times, then we've got that number how many times? x plus capital x. So that's a key property to be proved. So what will I do? Let me summarize in advance, outline in advance. I'm going to construct this function from its property. Then I'm going check that it's got this property, that important equality there. Then, of course, I'll graph it. I'll figure out what e is, and I'll say something about cases",
+            "metrics": {
+                "relativeDCReadability": 0.9431962245686591,
+                "lexicalDiversity": 0.48186528497409326,
+                "posComposition": {
+                    "CC": 0.026,
+                    "EX": 0.01,
+                    "VBZ": 0.047,
+                    "DT": 0.104,
+                    "JJ": 0.057,
+                    "NN": 0.145,
+                    "WDT": 0.021,
+                    "IN": 0.078,
+                    "CD": 0.01,
+                    "TO": 0.078,
+                    "NNP": 0.036,
+                    "RB": 0.036,
+                    "VB": 0.083,
+                    ":": 0.016,
+                    "PRP": 0.083,
+                    "VBP": 0.041,
+                    "PRP$": 0.01,
+                    "NNS": 0.026,
+                    "WP": 0.016,
+                    "VBN": 0.026,
+                    "VBD": 0.01,
+                    "WRB": 0.005,
+                    "MD": 0.021,
+                    "VBG": 0.01,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.067,
+                "topicScores": [
+                    [
+                        "x",
+                        0.26158717581325747
+                    ],
+                    [
+                        "property",
+                        0.30128508688287864
+                    ],
+                    [
+                        "time",
+                        0.37200704135280926
+                    ],
+                    [
+                        "number",
+                        0.38268693016074207
+                    ],
+                    [
+                        "key",
+                        0.42513425375040004
+                    ],
+                    [
+                        "advance",
+                        0.5611787783690805
+                    ],
+                    [
+                        "function",
+                        0.5620310218654192
+                    ],
+                    [
+                        "capital",
+                        0.5620310218654192
+                    ],
+                    [
+                        "true",
+                        0.8183991693755798
+                    ],
+                    [
+                        "different",
+                        0.8183991693755798
+                    ],
+                    [
+                        "equal",
+                        0.8183991693755798
+                    ],
+                    [
+                        "to--",
+                        0.8183991693755798
+                    ],
+                    [
+                        "come--",
+                        0.8562281278006303
+                    ],
+                    [
+                        "construction",
+                        0.8595732644473237
+                    ],
+                    [
+                        "power",
+                        0.8703677541758482
+                    ],
+                    [
+                        "case",
+                        0.905963032358216
+                    ],
+                    [
+                        "course",
+                        0.9137658510955052
+                    ],
+                    [
+                        "important",
+                        0.9203496763150703
+                    ],
+                    [
+                        "equality",
+                        0.9203496763150703
+                    ],
+                    [
+                        "check",
+                        0.9275529659776361
+                    ],
+                    [
+                        "key property",
+                        1.2804311951373257
+                    ],
+                    [
+                        "equal to--",
+                        2.0282585009763068
+                    ],
+                    [
+                        "x power",
+                        2.5934919706422965
+                    ],
+                    [
+                        "capital x.",
+                        3.3372465923870007
+                    ],
+                    [
+                        "number capital",
+                        3.797033423762282
+                    ],
+                    [
+                        "important equality",
+                        5.537807641488682
+                    ]
+                ],
+                "topTopicSimilarity": 0.38461538461538464,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.26158717581325747
+                    ],
+                    [
+                        "property",
+                        0.30128508688287864
+                    ],
+                    [
+                        "time",
+                        0.37200704135280926
+                    ],
+                    [
+                        "number",
+                        0.38268693016074207
+                    ],
+                    [
+                        "function",
+                        0.5620310218654192
+                    ],
+                    [
+                        "capital",
+                        0.5620310218654192
+                    ],
+                    [
+                        "equal",
+                        0.8183991693755798
+                    ],
+                    [
+                        "power",
+                        0.8703677541758482
+                    ],
+                    [
+                        "course",
+                        0.9137658510955052
+                    ],
+                    [
+                        "important",
+                        0.9203496763150703
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-360": {
+            "id": "oo1ZZlvT2LQ-360",
+            "heat": 0.0,
+            "start": 360.0,
+            "text": " where this comes up. I could even say something right away about, where does this happen that growth is equal or proportional to the function itself? It happens with interest, with money in a bank. When you get interest, the interest is proportional, of course, the amount there. And if they add that interest in, if you don't take it out and spend it but you compound it, put it in there, then you have more money. When they compute the interest again, it's computed on that larger amount and is more interest than the first time. And so it goes. So money in the bank is a case of exponential growth. A hedge fund grows faster than our bank account does, but all following e to the x. If you just hang on long enough, you're way up there. OK. So here's my job. Follow this rule and start at y equals 1. So can I just do it this way? Here is my function, y of x, that I want to construct. I want to build that function. And I know that it starts at 1.",
+            "metrics": {
+                "relativeDCReadability": 0.8479505960308528,
+                "lexicalDiversity": 0.40625,
+                "posComposition": {
+                    "WRB": 0.021,
+                    "DT": 0.094,
+                    "VBZ": 0.068,
+                    "RP": 0.01,
+                    "PRP": 0.12,
+                    "MD": 0.01,
+                    "RB": 0.089,
+                    "VB": 0.036,
+                    "NN": 0.182,
+                    "IN": 0.115,
+                    "JJ": 0.036,
+                    "CC": 0.047,
+                    "TO": 0.021,
+                    "VBP": 0.057,
+                    "VBD": 0.005,
+                    "EX": 0.005,
+                    "JJR": 0.021,
+                    "VBN": 0.005,
+                    "NNP": 0.021,
+                    "PRP$": 0.016,
+                    "POS": 0.005,
+                    "NNS": 0.005,
+                    "CD": 0.01
+                },
+                "syllableRate": 2.042,
+                "topicScores": [
+                    [
+                        "interest",
+                        0.32062938608424363
+                    ],
+                    [
+                        "money",
+                        0.4365330873732993
+                    ],
+                    [
+                        "bank",
+                        0.4479080055189625
+                    ],
+                    [
+                        "function",
+                        0.45111081055400926
+                    ],
+                    [
+                        "proportional",
+                        0.5604267752138753
+                    ],
+                    [
+                        "growth",
+                        0.5643363567578482
+                    ],
+                    [
+                        "equal",
+                        0.573823961428655
+                    ],
+                    [
+                        "way",
+                        0.5751579696197194
+                    ],
+                    [
+                        "time",
+                        0.8992976059281517
+                    ],
+                    [
+                        "course",
+                        0.899575255481472
+                    ],
+                    [
+                        "job",
+                        0.9118827306396106
+                    ],
+                    [
+                        "exponential",
+                        0.9230776030772658
+                    ],
+                    [
+                        "hedge",
+                        0.9250641662616514
+                    ],
+                    [
+                        "account",
+                        0.9250641662616514
+                    ],
+                    [
+                        "large",
+                        0.9251508676911782
+                    ],
+                    [
+                        "case",
+                        0.9300529384531234
+                    ],
+                    [
+                        "fund",
+                        0.9318726550602803
+                    ],
+                    [
+                        "x.",
+                        0.9318726550602803
+                    ],
+                    [
+                        "rule",
+                        0.9358961427599574
+                    ],
+                    [
+                        "exponential growth",
+                        4.735542431251353
+                    ],
+                    [
+                        "bank account",
+                        4.83727855349516
+                    ],
+                    [
+                        "hedge fund",
+                        6.248582939629572
+                    ]
+                ],
+                "topTopicSimilarity": 0.36363636363636365,
+                "sharedTopicScores": [
+                    [
+                        "interest",
+                        0.32062938608424363
+                    ],
+                    [
+                        "bank",
+                        0.4479080055189625
+                    ],
+                    [
+                        "function",
+                        0.45111081055400926
+                    ],
+                    [
+                        "equal",
+                        0.573823961428655
+                    ],
+                    [
+                        "way",
+                        0.5751579696197194
+                    ],
+                    [
+                        "time",
+                        0.8992976059281517
+                    ],
+                    [
+                        "course",
+                        0.899575255481472
+                    ],
+                    [
+                        "exponential",
+                        0.9230776030772658
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-450": {
+            "id": "oo1ZZlvT2LQ-450",
+            "heat": 0.0,
+            "start": 450.0,
+            "text": " But it's going to have some more things. Now, this has to equal dy dx. These have to be the same. That's my rule. So dy dx is going to start with a 1. But now I can't stop because if the derivative is a 1, I better put-- I have to put an x up here so that its derivative will be 1, right? Its slope will be 1. That's that steadily climbing x whose slope is 1. But now, these are supposed to be equal again. So I have to put this x also here. But now, I've got to add something more on the top so that the slope will be 1 plus x. The slope of the x was 1. What do I need here to give the slope to be x? Remember, x squared had the slope 2x, so I need half of x squared so that I'll have 1x. So I need a half of x squared. Good. The slope of that is this. But I'm also trying to get the 2 to be equal.",
+            "metrics": {
+                "relativeDCReadability": 0.9837643571100309,
+                "lexicalDiversity": 0.41798941798941797,
+                "posComposition": {
+                    "CC": 0.032,
+                    "PRP": 0.058,
+                    "VBZ": 0.037,
+                    "VBG": 0.021,
+                    "TO": 0.063,
+                    "VB": 0.095,
+                    "DT": 0.116,
+                    "JJR": 0.016,
+                    "NNS": 0.005,
+                    "RB": 0.09,
+                    "NN": 0.116,
+                    "VBP": 0.053,
+                    "JJ": 0.032,
+                    "NNP": 0.037,
+                    "POS": 0.005,
+                    "PRP$": 0.016,
+                    "IN": 0.074,
+                    "CD": 0.053,
+                    "MD": 0.026,
+                    ":": 0.005,
+                    "WP$": 0.005,
+                    "VBN": 0.021,
+                    "VBD": 0.016,
+                    "WP": 0.005
+                },
+                "syllableRate": 1.775,
+                "topicScores": [
+                    [
+                        "x",
+                        0.28594411530471353
+                    ],
+                    [
+                        "slope",
+                        0.29258007281676135
+                    ],
+                    [
+                        "equal",
+                        0.4395343636396198
+                    ],
+                    [
+                        "dy",
+                        0.5512988084384064
+                    ],
+                    [
+                        "dx",
+                        0.5522068791160158
+                    ],
+                    [
+                        "half",
+                        0.5707567189500116
+                    ],
+                    [
+                        "derivative",
+                        0.5718208330734968
+                    ],
+                    [
+                        "thing",
+                        0.8575804913788925
+                    ],
+                    [
+                        "rule",
+                        0.8996719444398393
+                    ],
+                    [
+                        "right",
+                        0.9039617337431112
+                    ],
+                    [
+                        "well",
+                        0.91701107192942
+                    ],
+                    [
+                        "Remember",
+                        0.9189647620043723
+                    ],
+                    [
+                        "2x",
+                        0.9382875421220493
+                    ],
+                    [
+                        "dy dx",
+                        3.2510313410604867
+                    ],
+                    [
+                        "slope 2x",
+                        4.6680574327299995
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.28594411530471353
+                    ],
+                    [
+                        "slope",
+                        0.29258007281676135
+                    ],
+                    [
+                        "equal",
+                        0.4395343636396198
+                    ],
+                    [
+                        "thing",
+                        0.8575804913788925
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-540": {
+            "id": "oo1ZZlvT2LQ-540",
+            "heat": 0.0,
+            "start": 540.0,
+            "text": " So I better-- I have no choice. I have to put in the 1/2 x squared there. You see, I'm never going to catch up. Or only if I go forever. That's the point. I'll have to go forever. And what will the next one be? Oh yeah. If you see the next one, then we can see the pattern. Now what am I doing? This one has to have this slope. I'm fixing the top line now. If I'm aiming for a slope of x squared, then I need some number of x cubes. So how many x cubes do I need? Well, I need to know, what's the slope of x cube? The rule for powers of x, x to the n, is n times one smaller power. The slope of x cube is 3 times x squared. So I had better divide by that 3 so that the 3 cancels the 3. Now the slope of that, the 3x squared, the threes would cancel and I would get x squared. But I'm looking for 1/2 x squared. I need also a 2. Do you see that it's 1/6 of x cube that's going to do the job. 1/6 of x cubed because the slope--",
+            "metrics": {
+                "relativeDCReadability": 1.0659333462774472,
+                "lexicalDiversity": 0.4954128440366973,
+                "posComposition": {
+                    "RB": 0.064,
+                    "PRP": 0.101,
+                    "VBP": 0.083,
+                    ":": 0.009,
+                    "DT": 0.115,
+                    "NN": 0.115,
+                    "TO": 0.032,
+                    "VB": 0.05,
+                    "IN": 0.092,
+                    "CD": 0.055,
+                    "VBD": 0.023,
+                    "EX": 0.005,
+                    "VBG": 0.028,
+                    "RP": 0.005,
+                    "NNP": 0.05,
+                    "VBZ": 0.032,
+                    "MD": 0.023,
+                    "CC": 0.014,
+                    "WP": 0.014,
+                    "JJ": 0.028,
+                    "VBN": 0.014,
+                    "NNS": 0.032,
+                    "WRB": 0.005,
+                    "JJR": 0.005,
+                    "RBR": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.025,
+                "topicScores": [
+                    [
+                        "x",
+                        0.23603591801200544
+                    ],
+                    [
+                        "cube",
+                        0.3336393532829206
+                    ],
+                    [
+                        "slope",
+                        0.33855279877004313
+                    ],
+                    [
+                        "time",
+                        0.5850313923812641
+                    ],
+                    [
+                        "power",
+                        0.587952601315454
+                    ],
+                    [
+                        "n",
+                        0.587952601315454
+                    ],
+                    [
+                        "choice",
+                        0.8160062599382559
+                    ],
+                    [
+                        "point",
+                        0.9085921247732961
+                    ],
+                    [
+                        "pattern",
+                        0.9227871249396763
+                    ],
+                    [
+                        "job",
+                        0.9361578026144547
+                    ],
+                    [
+                        "line",
+                        0.9391837325763229
+                    ],
+                    [
+                        "3x",
+                        0.9399029731959458
+                    ],
+                    [
+                        "rule",
+                        0.942836528424931
+                    ],
+                    [
+                        "small",
+                        0.942836528424931
+                    ],
+                    [
+                        "three",
+                        0.9447326576443587
+                    ],
+                    [
+                        "number",
+                        0.9448720304838016
+                    ],
+                    [
+                        "divide",
+                        0.9484786098820087
+                    ],
+                    [
+                        "n time",
+                        6.357863176631107
+                    ],
+                    [
+                        "well divide",
+                        6.826768178044934
+                    ],
+                    [
+                        "small power",
+                        7.238125854618296
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.23603591801200544
+                    ],
+                    [
+                        "slope",
+                        0.33855279877004313
+                    ],
+                    [
+                        "time",
+                        0.5850313923812641
+                    ],
+                    [
+                        "power",
+                        0.587952601315454
+                    ],
+                    [
+                        "n",
+                        0.587952601315454
+                    ],
+                    [
+                        "number",
+                        0.9448720304838016
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-630": {
+            "id": "oo1ZZlvT2LQ-630",
+            "heat": 0.0,
+            "start": 630.0,
+            "text": " the 3 cancels the 3 and I wanted to end up with a 2. And now, do you know what's coming? These are supposed to be equal. I have to have this 1/6 x cubed down here too. And I never get to stop. We have to see, OK, what is a typical-- after I've done this, say, n times, I'd like to have some idea of what is it when I get up to x to some nth power, then it's multiplied by some fraction and I'm looking to see, what is that fraction? What is that fraction? And then, of course, they'll all show up down there again. Well, if you see this pattern, this was 3 times 2-- you could say 3 times 2 times 1. This one was 2 times 1. This one was just 1. It's n factorial. n factorial is what I need. I need n times n minus 1. I need all these numbers all the way and I'll throw in the 1 at the end. And I have to put the mathematicians take it away symbol, the little three dots that mean",
+            "metrics": {
+                "relativeDCReadability": 0.9817103019169655,
+                "lexicalDiversity": 0.46,
+                "posComposition": {
+                    "DT": 0.115,
+                    "CD": 0.08,
+                    "NNS": 0.05,
+                    "CC": 0.035,
+                    "PRP": 0.105,
+                    "VBD": 0.03,
+                    "TO": 0.05,
+                    "VB": 0.07,
+                    "RP": 0.01,
+                    "IN": 0.055,
+                    "RB": 0.07,
+                    "VBP": 0.07,
+                    "WP": 0.03,
+                    "VBZ": 0.04,
+                    "VBG": 0.01,
+                    "VBN": 0.015,
+                    "JJ": 0.05,
+                    "NN": 0.07,
+                    ":": 0.01,
+                    "MD": 0.02,
+                    "WRB": 0.005,
+                    "PDT": 0.01
+                },
+                "syllableRate": 1.95,
+                "topicScores": [
+                    [
+                        "time",
+                        0.31530136995931574
+                    ],
+                    [
+                        "n",
+                        0.35068396174206357
+                    ],
+                    [
+                        "fraction",
+                        0.43636169038962414
+                    ],
+                    [
+                        "factorial",
+                        0.5634410845765268
+                    ],
+                    [
+                        "end",
+                        0.5702373321919074
+                    ],
+                    [
+                        "x",
+                        0.5707315879019015
+                    ],
+                    [
+                        "equal",
+                        0.8686895335475517
+                    ],
+                    [
+                        "course",
+                        0.9135693432148765
+                    ],
+                    [
+                        "nth",
+                        0.9150894282432055
+                    ],
+                    [
+                        "power",
+                        0.9150894282432055
+                    ],
+                    [
+                        "typical--",
+                        0.9227284951428448
+                    ],
+                    [
+                        "idea",
+                        0.9227284951428448
+                    ],
+                    [
+                        "pattern",
+                        0.9240981277637005
+                    ],
+                    [
+                        "symbol",
+                        0.9333657749812597
+                    ],
+                    [
+                        "little",
+                        0.9333657749812597
+                    ],
+                    [
+                        "number",
+                        0.9386633036781367
+                    ],
+                    [
+                        "way",
+                        0.9386633036781367
+                    ],
+                    [
+                        "mathematician",
+                        0.9394693541848941
+                    ],
+                    [
+                        "dot",
+                        0.9394693541848941
+                    ],
+                    [
+                        "n time",
+                        4.060842849902031
+                    ],
+                    [
+                        "nth power",
+                        5.149632678425831
+                    ]
+                ],
+                "topTopicSimilarity": 0.47619047619047616,
+                "sharedTopicScores": [
+                    [
+                        "time",
+                        0.31530136995931574
+                    ],
+                    [
+                        "n",
+                        0.35068396174206357
+                    ],
+                    [
+                        "factorial",
+                        0.5634410845765268
+                    ],
+                    [
+                        "end",
+                        0.5702373321919074
+                    ],
+                    [
+                        "x",
+                        0.5707315879019015
+                    ],
+                    [
+                        "equal",
+                        0.8686895335475517
+                    ],
+                    [
+                        "course",
+                        0.9135693432148765
+                    ],
+                    [
+                        "power",
+                        0.9150894282432055
+                    ],
+                    [
+                        "number",
+                        0.9386633036781367
+                    ],
+                    [
+                        "way",
+                        0.9386633036781367
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-720": {
+            "id": "oo1ZZlvT2LQ-720",
+            "heat": 0.0,
+            "start": 720.0,
+            "text": " don't stop, keep going. But do you see that this will be OK? This is called n factorial, x to the nth over n factorial, because when I take the slope of x to the nth, an n will come down. Cancel that n. x, I'll have one lower power. You see, when I take the slope of this, I'll have the n will cancel the n. So I'll still have these other guys down below. And I'll have x to the n minus 1. And that will be x to the n minus 1 over n minus 1 factorial. That will be the previous one. But now I have to add in the x to the nth over n factorial because y and dy to the x have to be the same, so I have to keep going. OK. So you might say, well, you're going to blow up. Not personally, the series. But what saves you? What saves you is the fact that these n factorials, those fractions, that n factorial gets to be really large really fast, faster than this x to nth could grow. So altogether, these terms, x to the nth over n factorial,",
+            "metrics": {
+                "relativeDCReadability": 1.0606621564331762,
+                "lexicalDiversity": 0.45365853658536587,
+                "posComposition": {
+                    "VBP": 0.059,
+                    "RB": 0.059,
+                    "VB": 0.098,
+                    "VBG": 0.015,
+                    "CC": 0.029,
+                    "PRP": 0.068,
+                    "IN": 0.068,
+                    "DT": 0.127,
+                    "MD": 0.054,
+                    "JJ": 0.102,
+                    "VBZ": 0.024,
+                    "VBN": 0.015,
+                    "NN": 0.093,
+                    "TO": 0.063,
+                    "WRB": 0.01,
+                    "RP": 0.015,
+                    "NNP": 0.02,
+                    "CD": 0.024,
+                    "JJR": 0.005,
+                    "NNS": 0.029,
+                    "WDT": 0.01,
+                    "WP": 0.01,
+                    "RBR": 0.005
+                },
+                "syllableRate": 2.1,
+                "topicScores": [
+                    [
+                        "n",
+                        0.24218281971559438
+                    ],
+                    [
+                        "x",
+                        0.2659342899031316
+                    ],
+                    [
+                        "factorial",
+                        0.29387422140737984
+                    ],
+                    [
+                        "nth",
+                        0.3273817556053657
+                    ],
+                    [
+                        "ok",
+                        0.35751299936690883
+                    ],
+                    [
+                        "slope",
+                        0.5547757865699795
+                    ],
+                    [
+                        "power",
+                        0.9066222142468703
+                    ],
+                    [
+                        "low",
+                        0.9215570245136544
+                    ],
+                    [
+                        "series",
+                        0.9216793573728836
+                    ],
+                    [
+                        "guy",
+                        0.9348591145848009
+                    ],
+                    [
+                        "previous",
+                        0.935612092187224
+                    ],
+                    [
+                        "fraction",
+                        0.9367382087109769
+                    ],
+                    [
+                        "term",
+                        0.9374981215934589
+                    ],
+                    [
+                        "large",
+                        0.9467010066918148
+                    ],
+                    [
+                        "n. x",
+                        3.542539670870185
+                    ],
+                    [
+                        "low power",
+                        5.079177768868859
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "n",
+                        0.24218281971559438
+                    ],
+                    [
+                        "x",
+                        0.2659342899031316
+                    ],
+                    [
+                        "factorial",
+                        0.29387422140737984
+                    ],
+                    [
+                        "ok",
+                        0.35751299936690883
+                    ],
+                    [
+                        "slope",
+                        0.5547757865699795
+                    ],
+                    [
+                        "power",
+                        0.9066222142468703
+                    ],
+                    [
+                        "series",
+                        0.9216793573728836
+                    ],
+                    [
+                        "term",
+                        0.9374981215934589
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-810": {
+            "id": "oo1ZZlvT2LQ-810",
+            "heat": 0.0,
+            "start": 810.0,
+            "text": " they get extremely, extremely small. And then this series of things, it comes to a limit. It doesn't keep going, getting bigger, and bigger, and bigger as I had more terms, because what I'm adding is so small, so small. And that's the point where we have to discuss limits later. OK. So that's my construction. Construction complete. The exponential function e to the x-- this is e to the x-- is being defined by 1 plus x plus 1/2 x squared plus 6 x cubed, and so on. OK. I've got a function. Now, its property. And the key property is this one. Can I move to the next board? So the next step is, check-- well, I've asked you. I've got e to the x. And let me write again what it is. 1 plus x plus 1/2 x squared plus 1/6 x cubed and so on. And then I've got e to the any other power, or even the same",
+            "metrics": {
+                "relativeDCReadability": 1.103451497382289,
+                "lexicalDiversity": 0.5172413793103449,
+                "posComposition": {
+                    "PRP": 0.08,
+                    "VBP": 0.046,
+                    "RB": 0.092,
+                    "JJ": 0.069,
+                    "CC": 0.092,
+                    "DT": 0.098,
+                    "NN": 0.126,
+                    "IN": 0.046,
+                    "NNS": 0.017,
+                    "VBZ": 0.052,
+                    "TO": 0.04,
+                    "VB": 0.023,
+                    "VBG": 0.023,
+                    "JJR": 0.017,
+                    "VBD": 0.029,
+                    "RBR": 0.006,
+                    "WP": 0.011,
+                    "WRB": 0.006,
+                    "NNP": 0.029,
+                    "POS": 0.006,
+                    "PRP$": 0.011,
+                    ":": 0.017,
+                    "VBN": 0.029,
+                    "CD": 0.034
+                },
+                "syllableRate": 1.775,
+                "topicScores": [
+                    [
+                        "x",
+                        0.30622996318648993
+                    ],
+                    [
+                        "e",
+                        0.37115921188164724
+                    ],
+                    [
+                        "small",
+                        0.39991920218509747
+                    ],
+                    [
+                        "big",
+                        0.4149034036711203
+                    ],
+                    [
+                        "limit",
+                        0.5320176330018546
+                    ],
+                    [
+                        "construction",
+                        0.5508801915537167
+                    ],
+                    [
+                        "cubed",
+                        0.567588431218137
+                    ],
+                    [
+                        "property",
+                        0.5725555626696276
+                    ],
+                    [
+                        "function",
+                        0.5731947328758085
+                    ],
+                    [
+                        "thing",
+                        0.8749021509839511
+                    ],
+                    [
+                        "series",
+                        0.8851973612325678
+                    ],
+                    [
+                        "complete",
+                        0.8937348666661186
+                    ],
+                    [
+                        "term",
+                        0.8947330553659296
+                    ],
+                    [
+                        "point",
+                        0.913529434849796
+                    ],
+                    [
+                        "board",
+                        0.9188960977004782
+                    ],
+                    [
+                        "exponential",
+                        0.9237415908149936
+                    ],
+                    [
+                        "step",
+                        0.9342353142463979
+                    ],
+                    [
+                        "power",
+                        0.9365824744948406
+                    ],
+                    [
+                        "key",
+                        0.9381157587325105
+                    ],
+                    [
+                        "construction complete",
+                        3.5525266955962684
+                    ],
+                    [
+                        "exponential function",
+                        5.219369239260692
+                    ],
+                    [
+                        "key property",
+                        5.725874135966099
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.30622996318648993
+                    ],
+                    [
+                        "e",
+                        0.37115921188164724
+                    ],
+                    [
+                        "big",
+                        0.4149034036711203
+                    ],
+                    [
+                        "cubed",
+                        0.567588431218137
+                    ],
+                    [
+                        "property",
+                        0.5725555626696276
+                    ],
+                    [
+                        "function",
+                        0.5731947328758085
+                    ],
+                    [
+                        "thing",
+                        0.8749021509839511
+                    ],
+                    [
+                        "series",
+                        0.8851973612325678
+                    ],
+                    [
+                        "term",
+                        0.8947330553659296
+                    ],
+                    [
+                        "exponential",
+                        0.9237415908149936
+                    ],
+                    [
+                        "power",
+                        0.9365824744948406
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-900": {
+            "id": "oo1ZZlvT2LQ-900",
+            "heat": 0.0,
+            "start": 900.0,
+            "text": " power, 1 plus-- I'll just use capital x four this power. 1/6 of capital x cubed plus so on. And I want to multiply those and see what I get. OK. I apologize. Here I ask you to believe in this infinite series, and yeah, a little dodgy, but it works. And now I ask you to multiply two of the things. You might say, OK, you're asking a lot here. But just hang on. Let's multiply these. e to the x times e to the capital x, because that's what I'm interested in knowing. OK. Just do all the multiplications. And we'll see what we get. OK, so 1 times 1 is 1. No problem. 1 times x is the x. 1 times this x is the big x. Now can I keep going? All right, well, 1 times 1/2 x squared is-- and now I have x times a big x. And now I have a 1 times 1/2 big x squared.",
+            "metrics": {
+                "relativeDCReadability": 1.0825255749677878,
+                "lexicalDiversity": 0.5406976744186046,
+                "posComposition": {
+                    "NN": 0.093,
+                    "CD": 0.076,
+                    "CC": 0.064,
+                    ":": 0.012,
+                    "PRP": 0.099,
+                    "MD": 0.023,
+                    "RB": 0.076,
+                    "VB": 0.07,
+                    "DT": 0.105,
+                    "IN": 0.041,
+                    "VBD": 0.012,
+                    "VBP": 0.064,
+                    "TO": 0.029,
+                    "WP": 0.017,
+                    "JJ": 0.052,
+                    "VBZ": 0.035,
+                    "NNS": 0.064,
+                    "NNP": 0.035,
+                    "VBG": 0.017,
+                    "POS": 0.006,
+                    "VBN": 0.012
+                },
+                "syllableRate": 1.75,
+                "topicScores": [
+                    [
+                        "x",
+                        0.2763224825214488
+                    ],
+                    [
+                        "time",
+                        0.3168132711710167
+                    ],
+                    [
+                        "capital",
+                        0.4413250477931966
+                    ],
+                    [
+                        "big",
+                        0.4532731171423465
+                    ],
+                    [
+                        "power",
+                        0.5244115501945228
+                    ],
+                    [
+                        "plus--",
+                        0.8809941398699557
+                    ],
+                    [
+                        "cubed",
+                        0.9076934737015807
+                    ],
+                    [
+                        "thing",
+                        0.913768894501271
+                    ],
+                    [
+                        "little",
+                        0.9182145834376182
+                    ],
+                    [
+                        "problem",
+                        0.9201424082869967
+                    ],
+                    [
+                        "multiplication",
+                        0.9244500545564076
+                    ],
+                    [
+                        "infinite",
+                        0.9249352179833359
+                    ],
+                    [
+                        "series",
+                        0.9249352179833359
+                    ],
+                    [
+                        "dodgy",
+                        0.9249352179833359
+                    ],
+                    [
+                        "lot",
+                        0.929850341309793
+                    ],
+                    [
+                        "interested",
+                        0.9397818595598436
+                    ],
+                    [
+                        "is--",
+                        0.945804353438352
+                    ],
+                    [
+                        "capital x",
+                        2.6933432450336885
+                    ],
+                    [
+                        "big x.",
+                        2.8203392026980296
+                    ],
+                    [
+                        "little dodgy",
+                        5.635216003236976
+                    ],
+                    [
+                        "times e",
+                        5.67749786708356
+                    ],
+                    [
+                        "infinite series",
+                        5.920662235843289
+                    ],
+                    [
+                        "x times",
+                        6.280551967450501
+                    ],
+                    [
+                        "x times e",
+                        44.45041076070545
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.2763224825214488
+                    ],
+                    [
+                        "time",
+                        0.3168132711710167
+                    ],
+                    [
+                        "capital",
+                        0.4413250477931966
+                    ],
+                    [
+                        "big",
+                        0.4532731171423465
+                    ],
+                    [
+                        "power",
+                        0.5244115501945228
+                    ],
+                    [
+                        "cubed",
+                        0.9076934737015807
+                    ],
+                    [
+                        "thing",
+                        0.913768894501271
+                    ],
+                    [
+                        "series",
+                        0.9249352179833359
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-990": {
+            "id": "oo1ZZlvT2LQ-990",
+            "heat": 0.0,
+            "start": 990.0,
+            "text": " And more, of course. Notice the way I'm doing is like I'm keeping all the things that have two x's together. And then I would keep all the things that have three x's together, and so on. Now what is it that I'm hoping? I'm hoping that this is the same as the series for x plus capital x, OK? What's that? That's my exponential series. And every time, I have to put in x plus capital x. In other words, of course, it starts with 1. Then it has the x plus capital x. And then it has the 1/2 of x plus capital x squared. And it keeps going. And I just wanted you to say, yes. I guess I hope you say yes when I ask, is this big multiplication the same as this one? Well, I think it is. Let's just start to check, anyway. The ones are good. The x and the x-- I'm really just putting parentheses around all the-- now I'm going to put parentheses around all the second degree terms and say, is that the same as that?",
+            "metrics": {
+                "relativeDCReadability": 0.9152593235623778,
+                "lexicalDiversity": 0.4723618090452261,
+                "posComposition": {
+                    "CC": 0.065,
+                    "JJR": 0.005,
+                    "IN": 0.09,
+                    "NN": 0.085,
+                    "NNP": 0.03,
+                    "DT": 0.101,
+                    "PRP": 0.106,
+                    "VBP": 0.085,
+                    "VBG": 0.035,
+                    "VBZ": 0.06,
+                    "PDT": 0.02,
+                    "NNS": 0.035,
+                    "WDT": 0.01,
+                    "CD": 0.025,
+                    "POS": 0.015,
+                    "RB": 0.065,
+                    "MD": 0.005,
+                    "VB": 0.03,
+                    "WP": 0.01,
+                    "JJ": 0.06,
+                    "PRP$": 0.005,
+                    "TO": 0.02,
+                    "VBD": 0.01,
+                    "UH": 0.01,
+                    "WRB": 0.005,
+                    ":": 0.01
+                },
+                "syllableRate": 2.05,
+                "topicScores": [
+                    [
+                        "x",
+                        0.2645641143307172
+                    ],
+                    [
+                        "capital",
+                        0.3496673890127085
+                    ],
+                    [
+                        "thing",
+                        0.5086063884722304
+                    ],
+                    [
+                        "course",
+                        0.526213163359792
+                    ],
+                    [
+                        "series",
+                        0.5634981297440296
+                    ],
+                    [
+                        "parenthesis",
+                        0.5742410444664471
+                    ],
+                    [
+                        "way",
+                        0.8815227205112525
+                    ],
+                    [
+                        "exponential",
+                        0.91825295211816
+                    ],
+                    [
+                        "good",
+                        0.9202764958148301
+                    ],
+                    [
+                        "time",
+                        0.9211908469079252
+                    ],
+                    [
+                        "word",
+                        0.9235694638925998
+                    ],
+                    [
+                        "big",
+                        0.9379385309318506
+                    ],
+                    [
+                        "multiplication",
+                        0.9379385309318506
+                    ],
+                    [
+                        "second",
+                        0.9407765422199657
+                    ],
+                    [
+                        "degree",
+                        0.9407765422199657
+                    ],
+                    [
+                        "term",
+                        0.9407765422199657
+                    ],
+                    [
+                        "capital x.",
+                        1.3889179609537006
+                    ],
+                    [
+                        "exponential series",
+                        4.559051678005765
+                    ],
+                    [
+                        "big multiplication",
+                        7.314534711253121
+                    ],
+                    [
+                        "second degree",
+                        7.70022943205195
+                    ],
+                    [
+                        "degree term",
+                        7.70022943205195
+                    ],
+                    [
+                        "second degree term",
+                        82.38445912847077
+                    ]
+                ],
+                "topTopicSimilarity": 0.45454545454545453,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.2645641143307172
+                    ],
+                    [
+                        "capital",
+                        0.3496673890127085
+                    ],
+                    [
+                        "thing",
+                        0.5086063884722304
+                    ],
+                    [
+                        "course",
+                        0.526213163359792
+                    ],
+                    [
+                        "series",
+                        0.5634981297440296
+                    ],
+                    [
+                        "way",
+                        0.8815227205112525
+                    ],
+                    [
+                        "exponential",
+                        0.91825295211816
+                    ],
+                    [
+                        "time",
+                        0.9211908469079252
+                    ],
+                    [
+                        "big",
+                        0.9379385309318506
+                    ],
+                    [
+                        "term",
+                        0.9407765422199657
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1080": {
+            "id": "oo1ZZlvT2LQ-1080",
+            "heat": 0.0,
+            "start": 1080.0,
+            "text": " Yeah. This is the critical point here. Do we, at least, start out correctly? So we have to remember, how do you do-- but, of course, you do remember how to multiply x plus capital x by itself. You just do the multiplications. x, when I multiply that by itself, I get x squared. With 1/2, I get that. And then, you remember? How many x times x's do I get? Little x times big x, there'd be two of those. But then the 1/2 factor leaves me with 1, and that's what I want. And then, finally, this guy by himself squared is the 1/2 capital x squared that I also want. So far, so good. Do you want to see the cubed terms? Well, I'd rather you did it, but I should at least show that I'm willing to try. So what do I mean by the cubed terms? I mean that here, I want to get-- the next one should be 1/6 of x plus x cubed. And from the multiplication, I get some separate pieces.",
+            "metrics": {
+                "relativeDCReadability": 0.9923360096161103,
+                "lexicalDiversity": 0.45161290322580644,
+                "posComposition": {
+                    "NN": 0.086,
+                    "DT": 0.075,
+                    "VBZ": 0.016,
+                    "JJ": 0.07,
+                    "RB": 0.07,
+                    "VBP": 0.097,
+                    "PRP": 0.14,
+                    "IN": 0.091,
+                    "JJS": 0.011,
+                    "VB": 0.075,
+                    "RP": 0.005,
+                    "TO": 0.027,
+                    "WRB": 0.022,
+                    ":": 0.011,
+                    "CC": 0.048,
+                    "NNS": 0.038,
+                    "VBN": 0.005,
+                    "CD": 0.027,
+                    "NNP": 0.027,
+                    "POS": 0.005,
+                    "EX": 0.005,
+                    "MD": 0.022,
+                    "WP": 0.011,
+                    "VBD": 0.016
+                },
+                "syllableRate": 1.883,
+                "topicScores": [
+                    [
+                        "x",
+                        0.2554547909595203
+                    ],
+                    [
+                        "cubed",
+                        0.44166759006103895
+                    ],
+                    [
+                        "term",
+                        0.5448300465882941
+                    ],
+                    [
+                        "multiplication",
+                        0.5663382884966
+                    ],
+                    [
+                        "time",
+                        0.5700142178018763
+                    ],
+                    [
+                        "capital",
+                        0.5732486806194159
+                    ],
+                    [
+                        "point",
+                        0.8819918491708527
+                    ],
+                    [
+                        "critical",
+                        0.8905672434392591
+                    ],
+                    [
+                        "course",
+                        0.9035616992481945
+                    ],
+                    [
+                        "good",
+                        0.9174290151334444
+                    ],
+                    [
+                        "little",
+                        0.9198502933332511
+                    ],
+                    [
+                        "piece",
+                        0.929364427632533
+                    ],
+                    [
+                        "big",
+                        0.9322804184411733
+                    ],
+                    [
+                        "guy",
+                        0.935131286392326
+                    ],
+                    [
+                        "factor",
+                        0.9388832841494253
+                    ],
+                    [
+                        "separate",
+                        0.9404146200629251
+                    ],
+                    [
+                        "willing",
+                        0.9429549855356669
+                    ],
+                    [
+                        "cubed term",
+                        2.0288757107648374
+                    ],
+                    [
+                        "x time",
+                        3.0240240735312827
+                    ],
+                    [
+                        "critical point",
+                        3.661418993324718
+                    ],
+                    [
+                        "capital x",
+                        4.954920625570326
+                    ],
+                    [
+                        "time big",
+                        5.3399410013704784
+                    ],
+                    [
+                        "little x",
+                        5.344979496220855
+                    ],
+                    [
+                        "big x",
+                        5.838941177932534
+                    ],
+                    [
+                        "separate piece",
+                        6.935745545153542
+                    ],
+                    [
+                        "x time x",
+                        34.471308611039014
+                    ],
+                    [
+                        "little x time",
+                        35.70733219708953
+                    ]
+                ],
+                "topTopicSimilarity": 0.25925925925925924,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.2554547909595203
+                    ],
+                    [
+                        "cubed",
+                        0.44166759006103895
+                    ],
+                    [
+                        "term",
+                        0.5448300465882941
+                    ],
+                    [
+                        "time",
+                        0.5700142178018763
+                    ],
+                    [
+                        "capital",
+                        0.5732486806194159
+                    ],
+                    [
+                        "course",
+                        0.9035616992481945
+                    ],
+                    [
+                        "big",
+                        0.9322804184411733
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1170": {
+            "id": "oo1ZZlvT2LQ-1170",
+            "heat": 0.0,
+            "start": 1170.0,
+            "text": " I get 1 times-- when I do that multiplication, I get 1/6 x cubed. And then I maybe get some 1/2 x squared times x. You see why I would rather you did this. But I'll finish this little line. There's also an x times 1/2 x squared. So that's 1/2 of x times the big x squared. And then there is the 1 times the 1/6 x cubed. So those are the four pieces that come, third degree, when I do the big multiplication. And they have to match the third degree term in the last line. And they do match. Do you remember the right words to say now? Binomial theorem. The binomial theorem tells you how to take the nth power all a sum like x plus capital x to the nth power. It tells you all the many pieces you get. And those many pieces are exactly the pieces that we get",
+            "metrics": {
+                "relativeDCReadability": 1.0122107643731053,
+                "lexicalDiversity": 0.53125,
+                "posComposition": {
+                    "PRP": 0.106,
+                    "VBP": 0.087,
+                    "CD": 0.05,
+                    "NNS": 0.081,
+                    ":": 0.006,
+                    "WRB": 0.025,
+                    "DT": 0.131,
+                    "NN": 0.087,
+                    "JJ": 0.094,
+                    "CC": 0.044,
+                    "RB": 0.044,
+                    "VB": 0.044,
+                    "VBN": 0.006,
+                    "MD": 0.013,
+                    "VBD": 0.031,
+                    "EX": 0.013,
+                    "VBZ": 0.031,
+                    "NNP": 0.031,
+                    "IN": 0.031,
+                    "WDT": 0.006,
+                    "TO": 0.025,
+                    "PDT": 0.013
+                },
+                "syllableRate": 1.642,
+                "topicScores": [
+                    [
+                        "x",
+                        0.26967621684693993
+                    ],
+                    [
+                        "time",
+                        0.37883540603873356
+                    ],
+                    [
+                        "piece",
+                        0.39131848969953603
+                    ],
+                    [
+                        "cubed",
+                        0.49025509155045843
+                    ],
+                    [
+                        "line",
+                        0.5386028979581095
+                    ],
+                    [
+                        "multiplication",
+                        0.5509851444544476
+                    ],
+                    [
+                        "degree",
+                        0.5605822186480405
+                    ],
+                    [
+                        "big",
+                        0.5636099361816691
+                    ],
+                    [
+                        "power",
+                        0.5665391423869306
+                    ],
+                    [
+                        "theorem",
+                        0.5700702848293377
+                    ],
+                    [
+                        "nth",
+                        0.5711087235503456
+                    ],
+                    [
+                        "Binomial",
+                        0.8960906908064882
+                    ],
+                    [
+                        "little",
+                        0.8981823132336109
+                    ],
+                    [
+                        "term",
+                        0.9277696245606377
+                    ],
+                    [
+                        "right",
+                        0.9312317315183776
+                    ],
+                    [
+                        "word",
+                        0.9312317315183776
+                    ],
+                    [
+                        "sum",
+                        0.9337899923996644
+                    ],
+                    [
+                        "capital",
+                        0.9337899923996644
+                    ],
+                    [
+                        "x time",
+                        2.3453064481269568
+                    ],
+                    [
+                        "nth power",
+                        2.7395226797048435
+                    ],
+                    [
+                        "little line",
+                        3.2871932475705057
+                    ],
+                    [
+                        "big multiplication",
+                        3.5477532478787985
+                    ],
+                    [
+                        "big x",
+                        4.006480628199204
+                    ],
+                    [
+                        "degree term",
+                        4.692328836979405
+                    ],
+                    [
+                        "binomial theorem",
+                        5.149499764152867
+                    ],
+                    [
+                        "right word",
+                        6.529697377953307
+                    ]
+                ],
+                "topTopicSimilarity": 0.2692307692307692,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.26967621684693993
+                    ],
+                    [
+                        "time",
+                        0.37883540603873356
+                    ],
+                    [
+                        "cubed",
+                        0.49025509155045843
+                    ],
+                    [
+                        "big",
+                        0.5636099361816691
+                    ],
+                    [
+                        "power",
+                        0.5665391423869306
+                    ],
+                    [
+                        "term",
+                        0.9277696245606377
+                    ],
+                    [
+                        "capital",
+                        0.9337899923996644
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1260": {
+            "id": "oo1ZZlvT2LQ-1260",
+            "heat": 0.0,
+            "start": 1260.0,
+            "text": " directly by multiplying that line by that line. So the binomial theorem, at long last, pays off and confirms our great property here. So this is a big deal. OK. So let me now come back here, having checked that. I wanted to say something about this series, 1 plus x plus 1/2 x squared, where the typical term is x to the nth over n factorial. This is the, I would say, the second most important infinite series in mathematics, the exponential series. And it's the way I wanted to construct e to the x by matching term by term and seeing that these n factorials show up. You might want to know, what's the most important series? Reasonable question. For me, the most important series would be the one looking like this, except it doesn't have the fractions.",
+            "metrics": {
+                "relativeDCReadability": 0.9984035008578379,
+                "lexicalDiversity": 0.5244755244755245,
+                "posComposition": {
+                    "RB": 0.049,
+                    "IN": 0.105,
+                    "VBG": 0.035,
+                    "DT": 0.14,
+                    "NN": 0.14,
+                    "JJ": 0.112,
+                    "NNS": 0.028,
+                    "CC": 0.035,
+                    "VBZ": 0.049,
+                    "PRP$": 0.007,
+                    "NNP": 0.021,
+                    "VB": 0.056,
+                    "PRP": 0.056,
+                    "VBP": 0.014,
+                    "VBN": 0.021,
+                    "VBD": 0.014,
+                    "TO": 0.035,
+                    "CD": 0.021,
+                    "WRB": 0.007,
+                    "MD": 0.021,
+                    "RBS": 0.021,
+                    "RP": 0.007,
+                    "WP": 0.007
+                },
+                "syllableRate": 1.658,
+                "topicScores": [
+                    [
+                        "series",
+                        0.3412948569872257
+                    ],
+                    [
+                        "x",
+                        0.39208468431718585
+                    ],
+                    [
+                        "important",
+                        0.4201544366478324
+                    ],
+                    [
+                        "term",
+                        0.45329283825832317
+                    ],
+                    [
+                        "line",
+                        0.477365366802921
+                    ],
+                    [
+                        "factorial",
+                        0.5500050458849943
+                    ],
+                    [
+                        "deal",
+                        0.8416187796227792
+                    ],
+                    [
+                        "binomial",
+                        0.8488536730731956
+                    ],
+                    [
+                        "property",
+                        0.8488536730731956
+                    ],
+                    [
+                        "great",
+                        0.8629434121102799
+                    ],
+                    [
+                        "big",
+                        0.872210735490023
+                    ],
+                    [
+                        "reasonable",
+                        0.8752453809453493
+                    ],
+                    [
+                        "question",
+                        0.8752453809453493
+                    ],
+                    [
+                        "fraction",
+                        0.8919358836332794
+                    ],
+                    [
+                        "exponential",
+                        0.8922452394647999
+                    ],
+                    [
+                        "second",
+                        0.9033603448698825
+                    ],
+                    [
+                        "mathematic",
+                        0.9033603448698825
+                    ],
+                    [
+                        "typical",
+                        0.9089197628100958
+                    ],
+                    [
+                        "nth",
+                        0.9089197628100958
+                    ],
+                    [
+                        "infinite",
+                        0.9128904362045231
+                    ],
+                    [
+                        "way",
+                        0.916003424467093
+                    ],
+                    [
+                        "important series",
+                        1.80838318389494
+                    ],
+                    [
+                        "great property",
+                        2.7384950388776392
+                    ],
+                    [
+                        "big deal",
+                        2.760373009303882
+                    ],
+                    [
+                        "reasonable question",
+                        3.2744994074023897
+                    ],
+                    [
+                        "important infinite",
+                        3.293871424834172
+                    ],
+                    [
+                        "exponential series",
+                        3.698573577769248
+                    ],
+                    [
+                        "infinite series",
+                        4.138306581549602
+                    ],
+                    [
+                        "typical term",
+                        4.682258494428675
+                    ],
+                    [
+                        "important infinite series",
+                        17.047608870150235
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "series",
+                        0.3412948569872257
+                    ],
+                    [
+                        "x",
+                        0.39208468431718585
+                    ],
+                    [
+                        "important",
+                        0.4201544366478324
+                    ],
+                    [
+                        "term",
+                        0.45329283825832317
+                    ],
+                    [
+                        "factorial",
+                        0.5500050458849943
+                    ],
+                    [
+                        "property",
+                        0.8488536730731956
+                    ],
+                    [
+                        "big",
+                        0.872210735490023
+                    ],
+                    [
+                        "exponential",
+                        0.8922452394647999
+                    ],
+                    [
+                        "way",
+                        0.916003424467093
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1350": {
+            "id": "oo1ZZlvT2LQ-1350",
+            "heat": 0.0,
+            "start": 1350.0,
+            "text": " For me, the most important series would be the one-- I'll slip it up here-- 1 plus x plus x squared, without the 1/2, plus x cubed, without the 1/6, plus so on, plus x to the n without this n factorial that's making it so small. Can you see this 1 plus x plus x squared plus x cubed plus x to the n? That, I think it's called the geometric series. Powers of x. Now, it's simpler because it doesn't have these fractions. But it's riskier because those fractions were making the exponential series succeed. Whereas here, with the geometric series, well, look what happens when x is 1. When x is 1, we have 1 plus 1 plus 1 plus 1 plus 1 forever. All ones. It blows up. And when x is bigger than 1, that series blows up even faster. So in this series, the geometric series, this most important one, does succeed but only when x is below 1. x equal 1 is the cutoff and it fails after that. There is no cutoff for the exponential series because of",
+            "metrics": {
+                "relativeDCReadability": 1.3068702028197288,
+                "lexicalDiversity": 0.5515463917525774,
+                "posComposition": {
+                    "IN": 0.093,
+                    "PRP": 0.067,
+                    "DT": 0.108,
+                    "RBS": 0.01,
+                    "JJ": 0.108,
+                    "NN": 0.093,
+                    "MD": 0.01,
+                    "VB": 0.031,
+                    "CD": 0.077,
+                    ":": 0.01,
+                    "RP": 0.015,
+                    "RB": 0.057,
+                    "CC": 0.088,
+                    "VBN": 0.01,
+                    "TO": 0.01,
+                    "WDT": 0.005,
+                    "VBZ": 0.082,
+                    "VBG": 0.01,
+                    "NNP": 0.031,
+                    "VBP": 0.015,
+                    "NNS": 0.015,
+                    "JJR": 0.01,
+                    "VBD": 0.005,
+                    "WP": 0.005,
+                    "WRB": 0.021,
+                    "RBR": 0.005,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.108,
+                "topicScores": [
+                    [
+                        "x",
+                        0.2254668699857379
+                    ],
+                    [
+                        "series",
+                        0.285337632725991
+                    ],
+                    [
+                        "geometric",
+                        0.42580584474987143
+                    ],
+                    [
+                        "n",
+                        0.4325896467389338
+                    ],
+                    [
+                        "cubed",
+                        0.5418590740524895
+                    ],
+                    [
+                        "important",
+                        0.574735477927333
+                    ],
+                    [
+                        "fraction",
+                        0.5755352237315899
+                    ],
+                    [
+                        "exponential",
+                        0.5789972662327239
+                    ],
+                    [
+                        "cutoff",
+                        0.587048124919444
+                    ],
+                    [
+                        "small",
+                        0.8721684582542494
+                    ],
+                    [
+                        "here--",
+                        0.9014531695399688
+                    ],
+                    [
+                        "factorial",
+                        0.9014531695399688
+                    ],
+                    [
+                        "power",
+                        0.9103989636662978
+                    ],
+                    [
+                        "simple",
+                        0.9354771304160902
+                    ],
+                    [
+                        "risky",
+                        0.9383685323364857
+                    ],
+                    [
+                        "equal",
+                        0.9434054454612834
+                    ],
+                    [
+                        "big",
+                        0.9463620615888055
+                    ],
+                    [
+                        "geometric series",
+                        1.6765801379891614
+                    ],
+                    [
+                        "exponential series",
+                        3.0814840673479087
+                    ],
+                    [
+                        "important series",
+                        4.679848316827139
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.2254668699857379
+                    ],
+                    [
+                        "series",
+                        0.285337632725991
+                    ],
+                    [
+                        "n",
+                        0.4325896467389338
+                    ],
+                    [
+                        "cubed",
+                        0.5418590740524895
+                    ],
+                    [
+                        "important",
+                        0.574735477927333
+                    ],
+                    [
+                        "exponential",
+                        0.5789972662327239
+                    ],
+                    [
+                        "factorial",
+                        0.9014531695399688
+                    ],
+                    [
+                        "power",
+                        0.9103989636662978
+                    ],
+                    [
+                        "equal",
+                        0.9434054454612834
+                    ],
+                    [
+                        "big",
+                        0.9463620615888055
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1440": {
+            "id": "oo1ZZlvT2LQ-1440",
+            "heat": 0.0,
+            "start": 1440.0,
+            "text": " dividing by these bigger and bigger numbers. This works for all x. OK, so those are the two series. OK. So let me ask you, what happens if I put x equal 1 in the exponential series? That gives me e to the first power, which is e. So finally, you may say, it's rather late in the day. i'm going to figure out what e is from this series. Put in set x equal 1 and you learn that e to the first power, which is e, is-- can I just put it in? 1 plus x is 1 plus 1/2 of 1 squared plus 1/6 of 1 cubed. What's the next term in this? So these are numbers now, and I'm getting a number. I'm getting this incredible number e, named after Euler. Euler was a fantastic mathematician. I think he wrote more important papers then any mathematician in history. So he was allowed to name this number after himself, e.",
+            "metrics": {
+                "relativeDCReadability": 1.018043778748905,
+                "lexicalDiversity": 0.514792899408284,
+                "posComposition": {
+                    "NN": 0.112,
+                    "IN": 0.101,
+                    "DT": 0.107,
+                    "JJR": 0.012,
+                    "CC": 0.036,
+                    "NNS": 0.018,
+                    "VBZ": 0.059,
+                    "NNP": 0.059,
+                    "VBP": 0.053,
+                    "CD": 0.053,
+                    "VB": 0.036,
+                    "PRP": 0.089,
+                    "WP": 0.018,
+                    "JJ": 0.077,
+                    "WDT": 0.018,
+                    "TO": 0.024,
+                    "RB": 0.041,
+                    "MD": 0.012,
+                    "VBG": 0.018,
+                    "RP": 0.006,
+                    ":": 0.006,
+                    "VBD": 0.03,
+                    "VBN": 0.012,
+                    "RBR": 0.006
+                },
+                "syllableRate": 1.858,
+                "topicScores": [
+                    [
+                        "number",
+                        0.3472382005802425
+                    ],
+                    [
+                        "series",
+                        0.38987875413294487
+                    ],
+                    [
+                        "Euler",
+                        0.4731642937474953
+                    ],
+                    [
+                        "big",
+                        0.5040362116995774
+                    ],
+                    [
+                        "power",
+                        0.5209409425807924
+                    ],
+                    [
+                        "OK",
+                        0.5292285891272418
+                    ],
+                    [
+                        "equal",
+                        0.5507829828941029
+                    ],
+                    [
+                        "e.",
+                        0.5616819602356191
+                    ],
+                    [
+                        "mathematician",
+                        0.5708615665330268
+                    ],
+                    [
+                        "x. OK",
+                        0.8293924833114291
+                    ],
+                    [
+                        "day",
+                        0.8755038943812258
+                    ],
+                    [
+                        "cubed",
+                        0.8910554134923744
+                    ],
+                    [
+                        "exponential",
+                        0.8911711316053718
+                    ],
+                    [
+                        "history",
+                        0.9027613555890132
+                    ],
+                    [
+                        "is--",
+                        0.9086563691721207
+                    ],
+                    [
+                        "set",
+                        0.9172436867397888
+                    ],
+                    [
+                        "fantastic",
+                        0.9201757138742154
+                    ],
+                    [
+                        "term",
+                        0.9226203059616731
+                    ],
+                    [
+                        "incredible",
+                        0.9263096234166349
+                    ],
+                    [
+                        "important",
+                        0.9290370390799032
+                    ],
+                    [
+                        "paper",
+                        0.9290370390799032
+                    ],
+                    [
+                        "exponential series",
+                        2.277585762259861
+                    ],
+                    [
+                        "big number",
+                        2.5344621507364185
+                    ],
+                    [
+                        "number e",
+                        4.260958196560309
+                    ],
+                    [
+                        "incredible number",
+                        4.9330777112898225
+                    ],
+                    [
+                        "fantastic mathematician",
+                        4.972631973906912
+                    ],
+                    [
+                        "important paper",
+                        6.305125903633781
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "number",
+                        0.3472382005802425
+                    ],
+                    [
+                        "series",
+                        0.38987875413294487
+                    ],
+                    [
+                        "big",
+                        0.5040362116995774
+                    ],
+                    [
+                        "power",
+                        0.5209409425807924
+                    ],
+                    [
+                        "equal",
+                        0.5507829828941029
+                    ],
+                    [
+                        "cubed",
+                        0.8910554134923744
+                    ],
+                    [
+                        "exponential",
+                        0.8911711316053718
+                    ],
+                    [
+                        "term",
+                        0.9226203059616731
+                    ],
+                    [
+                        "important",
+                        0.9290370390799032
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1530": {
+            "id": "oo1ZZlvT2LQ-1530",
+            "heat": 0.0,
+            "start": 1530.0,
+            "text": " E-U-L-E-R, his name is spelled. OK, what's the next term? This is 3 factorial, right? 3 times 2 times 1. The next term will be 4 factorial. I'll multiply that by 4. It'll be 1/24. And then times 5. 1/120, and so on. They're getting small. What can I tell you about this number? It will be a definite number. And is more than-- well, it's certainly more than 2 1/2, because I start with 2 1/2 here. And then I add these. Well, I could even throw in 1/6. That's more than 2 2/3, would that be? If I quit here, I'd have 2 2/3. And then I get a little more. It's easy to show. No way you would reach as far as 3. These later terms are dropping too fast. And actually, the number turns out to be-- so it's 2 point something. 2 point-- let's see, a little more than 2 2/3, so it's around 2.7. But it's it's not exactly 2.7. In fact, it's not exactly any fraction or any finite decimal. It goes on and on. 1, 8, 2, 8, something. I think there are more eights than you'd expect right here",
+            "metrics": {
+                "relativeDCReadability": 1.000044865060114,
+                "lexicalDiversity": 0.5185185185185185,
+                "posComposition": {
+                    "NNP": 0.014,
+                    "PRP$": 0.005,
+                    "NN": 0.069,
+                    "VBZ": 0.065,
+                    "VBN": 0.005,
+                    "WP": 0.009,
+                    "DT": 0.065,
+                    "JJ": 0.037,
+                    "CD": 0.134,
+                    "RB": 0.111,
+                    "NNS": 0.023,
+                    "MD": 0.046,
+                    "VB": 0.06,
+                    "PRP": 0.106,
+                    "IN": 0.088,
+                    "CC": 0.042,
+                    "VBP": 0.042,
+                    "VBG": 0.009,
+                    "RBR": 0.005,
+                    ":": 0.014,
+                    "JJR": 0.028,
+                    "TO": 0.009,
+                    "RP": 0.005,
+                    "POS": 0.005,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.133,
+                "topicScores": [
+                    [
+                        "E",
+                        0.3765952627283417
+                    ],
+                    [
+                        "u",
+                        0.39774405058257617
+                    ],
+                    [
+                        "l",
+                        0.39774405058257617
+                    ],
+                    [
+                        "r",
+                        0.39774405058257617
+                    ],
+                    [
+                        "term",
+                        0.43081105234222106
+                    ],
+                    [
+                        "time",
+                        0.43689130315854957
+                    ],
+                    [
+                        "number",
+                        0.4424221169658865
+                    ],
+                    [
+                        "factorial",
+                        0.536304259233767
+                    ],
+                    [
+                        "little",
+                        0.5638017629238485
+                    ],
+                    [
+                        "right",
+                        0.565750380302789
+                    ],
+                    [
+                        "small",
+                        0.9149990583666083
+                    ],
+                    [
+                        "definite",
+                        0.9293875660638098
+                    ],
+                    [
+                        "decimal",
+                        0.9306683014074395
+                    ],
+                    [
+                        "than--",
+                        0.9307878242432595
+                    ],
+                    [
+                        "way",
+                        0.9370514544654742
+                    ],
+                    [
+                        "later",
+                        0.9376501455021141
+                    ],
+                    [
+                        "point",
+                        0.9382035425387466
+                    ],
+                    [
+                        "easy",
+                        0.9404547114591133
+                    ],
+                    [
+                        "be--",
+                        0.9421495899851202
+                    ],
+                    [
+                        "fraction",
+                        0.9435023229069307
+                    ],
+                    [
+                        "later term",
+                        4.205624560164197
+                    ],
+                    [
+                        "definite number",
+                        4.629465081565398
+                    ],
+                    [
+                        "finite decimal",
+                        6.967849141437606
+                    ]
+                ],
+                "topTopicSimilarity": 0.21739130434782608,
+                "sharedTopicScores": [
+                    [
+                        "term",
+                        0.43081105234222106
+                    ],
+                    [
+                        "time",
+                        0.43689130315854957
+                    ],
+                    [
+                        "number",
+                        0.4424221169658865
+                    ],
+                    [
+                        "factorial",
+                        0.536304259233767
+                    ],
+                    [
+                        "way",
+                        0.9370514544654742
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1620": {
+            "id": "oo1ZZlvT2LQ-1620",
+            "heat": 0.0,
+            "start": 1620.0,
+            "text": " at the beginning, but then, in the long run, not. So that's the number, e. OK. Oh, so now we know e. We know e to the x. We know e. We know this thing. I should draw a graph, right? That's the other thing you do with a function is draw a graph. OK. So here's a graph. This is x. Let me put in x equals 0 here and x equal 1 here. And this is going to be a graph of e to the x. And at x equals 0, what is it? We started with that. It should be-- so this is y. I'm graphing y. And it starts at 1. That's what we said. At x equals 0, I've started at 1 with a slope of 1. So I have a slope of 1, but the slope, the slope, the slope is climbing up. And it reaches here. That height is what-- e. That height is e. Because when we said x equal 1 here, we got e. So it's climbing, climbing, climbing. And now what about on the other side? That had a slope of 1, so it was more like that. Now what about when x is negative?",
+            "metrics": {
+                "relativeDCReadability": 0.9880531211352928,
+                "lexicalDiversity": 0.4158878504672897,
+                "posComposition": {
+                    "IN": 0.117,
+                    "DT": 0.121,
+                    "NN": 0.121,
+                    "CC": 0.037,
+                    "RB": 0.07,
+                    "JJ": 0.042,
+                    "NNP": 0.042,
+                    "WDT": 0.014,
+                    "VBZ": 0.075,
+                    "PRP": 0.093,
+                    "VBP": 0.042,
+                    "TO": 0.014,
+                    "MD": 0.009,
+                    "VB": 0.023,
+                    "VBG": 0.033,
+                    "NNS": 0.014,
+                    "CD": 0.047,
+                    "WP": 0.023,
+                    "VBD": 0.028,
+                    ":": 0.009,
+                    "VBN": 0.005,
+                    "RP": 0.005,
+                    "WRB": 0.009,
+                    "RBR": 0.005
+                },
+                "syllableRate": 2.0,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.31371326242798026
+                    ],
+                    [
+                        "e.",
+                        0.31524658543365675
+                    ],
+                    [
+                        "x",
+                        0.3204694959423433
+                    ],
+                    [
+                        "equal",
+                        0.33285823267933445
+                    ],
+                    [
+                        "graph",
+                        0.33442294047264987
+                    ],
+                    [
+                        "climbing",
+                        0.44962837327318933
+                    ],
+                    [
+                        "OK",
+                        0.48662968496172765
+                    ],
+                    [
+                        "thing",
+                        0.5735135619501144
+                    ],
+                    [
+                        "height",
+                        0.5748262246690818
+                    ],
+                    [
+                        "y.",
+                        0.5836192038126111
+                    ],
+                    [
+                        "e. OK",
+                        0.7564557377960516
+                    ],
+                    [
+                        "beginning",
+                        0.8475683582554313
+                    ],
+                    [
+                        "long",
+                        0.8475683582554313
+                    ],
+                    [
+                        "run",
+                        0.8475683582554313
+                    ],
+                    [
+                        "number",
+                        0.8932572465978147
+                    ],
+                    [
+                        "right",
+                        0.9081961916517025
+                    ],
+                    [
+                        "function",
+                        0.9383616004497982
+                    ],
+                    [
+                        "negative",
+                        0.9391799143481335
+                    ],
+                    [
+                        "what--",
+                        0.9469951828996958
+                    ],
+                    [
+                        "long run",
+                        2.550784839919326
+                    ],
+                    [
+                        "what-- e.",
+                        5.176625940978032
+                    ]
+                ],
+                "topTopicSimilarity": 0.2857142857142857,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.31371326242798026
+                    ],
+                    [
+                        "x",
+                        0.3204694959423433
+                    ],
+                    [
+                        "equal",
+                        0.33285823267933445
+                    ],
+                    [
+                        "thing",
+                        0.5735135619501144
+                    ],
+                    [
+                        "number",
+                        0.8932572465978147
+                    ],
+                    [
+                        "function",
+                        0.9383616004497982
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1710": {
+            "id": "oo1ZZlvT2LQ-1710",
+            "heat": 0.0,
+            "start": 1710.0,
+            "text": " When x is negative, this is a highly useful fact. Suppose I want to think about e to the minus x. Well now, let me just take capital x to be minus little x. So I get e to the x times e to the minus x. What is that? What does that equal if I multiply e to the x times e to the minus x? As usual, I'm supposed to add these. I get 0, so I get e to the 0, which is 1. In other words, e to the minus x is 1 over e to the x, which we fully expected. So that at x equal minus 1 here, I'm down to 1 over e, 1/3, approximately. So it's going down. In this way, it's decaying very fast. It almost touches that line, but never quite. This way, it's climbing. It's growing, growing really-- well, it's growing exponentially. And that's what this graph looks like. And now I would like to connect back, at the end of this lecture, to the insurance business--",
+            "metrics": {
+                "relativeDCReadability": 1.0710768765503949,
+                "lexicalDiversity": 0.5212765957446809,
+                "posComposition": {
+                    "WRB": 0.005,
+                    "NN": 0.106,
+                    "VBZ": 0.074,
+                    "JJ": 0.059,
+                    "DT": 0.106,
+                    "RB": 0.106,
+                    "NNP": 0.053,
+                    "PRP": 0.085,
+                    "VBP": 0.059,
+                    "TO": 0.074,
+                    "VB": 0.037,
+                    "IN": 0.074,
+                    "NNS": 0.016,
+                    "WP": 0.016,
+                    "VBN": 0.005,
+                    "CD": 0.037,
+                    "WDT": 0.011,
+                    "VBD": 0.005,
+                    "VBG": 0.032,
+                    "RP": 0.005,
+                    "CC": 0.016,
+                    ":": 0.011,
+                    "MD": 0.005
+                },
+                "syllableRate": 2.008,
+                "topicScores": [
+                    [
+                        "e",
+                        0.23845515515823393
+                    ],
+                    [
+                        "x",
+                        0.26910826570215957
+                    ],
+                    [
+                        "minus",
+                        0.29593149028074806
+                    ],
+                    [
+                        "times",
+                        0.5379517396255017
+                    ],
+                    [
+                        "way",
+                        0.5517342554995663
+                    ],
+                    [
+                        "equal",
+                        0.5753345754294167
+                    ],
+                    [
+                        "fact",
+                        0.7906402335857063
+                    ],
+                    [
+                        "negative",
+                        0.8204514741529922
+                    ],
+                    [
+                        "useful",
+                        0.8204514741529922
+                    ],
+                    [
+                        "little",
+                        0.9040556186504288
+                    ],
+                    [
+                        "capital",
+                        0.9114948939179358
+                    ],
+                    [
+                        "really--",
+                        0.9124265258986214
+                    ],
+                    [
+                        "usual",
+                        0.9125089012671818
+                    ],
+                    [
+                        "business--",
+                        0.9230883787605273
+                    ],
+                    [
+                        "word",
+                        0.9248900149703605
+                    ],
+                    [
+                        "line",
+                        0.931132580906071
+                    ],
+                    [
+                        "lecture",
+                        0.9355767357384709
+                    ],
+                    [
+                        "insurance",
+                        0.9355767357384709
+                    ],
+                    [
+                        "graph",
+                        0.9400669275026625
+                    ],
+                    [
+                        "end",
+                        0.9407321737047576
+                    ],
+                    [
+                        "times e",
+                        1.312768020797657
+                    ],
+                    [
+                        "minus x.",
+                        1.391343312578351
+                    ],
+                    [
+                        "x times",
+                        1.6830623502284883
+                    ],
+                    [
+                        "useful fact",
+                        1.8464235932424808
+                    ],
+                    [
+                        "little x.",
+                        2.9791252681005207
+                    ],
+                    [
+                        "x times e",
+                        4.923543534027663
+                    ],
+                    [
+                        "insurance business--",
+                        6.332454094792572
+                    ]
+                ],
+                "topTopicSimilarity": 0.25925925925925924,
+                "sharedTopicScores": [
+                    [
+                        "e",
+                        0.23845515515823393
+                    ],
+                    [
+                        "x",
+                        0.26910826570215957
+                    ],
+                    [
+                        "minus",
+                        0.29593149028074806
+                    ],
+                    [
+                        "way",
+                        0.5517342554995663
+                    ],
+                    [
+                        "equal",
+                        0.5753345754294167
+                    ],
+                    [
+                        "capital",
+                        0.9114948939179358
+                    ],
+                    [
+                        "end",
+                        0.9407321737047576
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1800": {
+            "id": "oo1ZZlvT2LQ-1800",
+            "heat": 0.0,
+            "start": 1800.0,
+            "text": " sorry, the interest business, the bank compounding interest. Can I take your time with that important example of the exponential function? And we'll see a new way to reach e. I like this way. I like the way we did it with the infinite series. But here's another way. So suppose you're getting 100% interest. Generous bank. OK. And you start with $1 at 100% now. It's 100%. And the bank gives you interest at the end of every year. So at the end of the first year, you had $1 dollar in the bank, it adds in 100%. It adds in another dollar. So now you've got $2 in the bank after the first year. At the end of the second year, it gives you 100% of what you've got in the bank. So it gives you 2 more. It give you 4. At the end of the third year, it gives you an additional 4. You're up 50 to 8. And you see what's happening. It's the powers of two. Well, that's pretty good growth.",
+            "metrics": {
+                "relativeDCReadability": 0.8084690431231336,
+                "lexicalDiversity": 0.5080213903743316,
+                "posComposition": {
+                    "VB": 0.027,
+                    "DT": 0.134,
+                    "NN": 0.166,
+                    "VBG": 0.016,
+                    "MD": 0.011,
+                    "PRP": 0.139,
+                    "PRP$": 0.005,
+                    "IN": 0.123,
+                    "JJ": 0.064,
+                    "CC": 0.027,
+                    "TO": 0.011,
+                    "VBP": 0.037,
+                    "VBD": 0.011,
+                    "RB": 0.043,
+                    "VBZ": 0.059,
+                    "CD": 0.075,
+                    "NNP": 0.016,
+                    "VBN": 0.011,
+                    "WP": 0.011,
+                    "JJR": 0.005,
+                    "NNS": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 1.925,
+                "topicScores": [
+                    [
+                        "bank",
+                        0.29772922951723585
+                    ],
+                    [
+                        "year",
+                        0.32316490906871664
+                    ],
+                    [
+                        "end",
+                        0.3466691783245523
+                    ],
+                    [
+                        "way",
+                        0.3651943993693264
+                    ],
+                    [
+                        "interest",
+                        0.3659181974570993
+                    ],
+                    [
+                        "dollar",
+                        0.570899074872099
+                    ],
+                    [
+                        "sorry",
+                        0.7812552068946483
+                    ],
+                    [
+                        "business",
+                        0.8202733846720561
+                    ],
+                    [
+                        "function",
+                        0.8540733480497235
+                    ],
+                    [
+                        "exponential",
+                        0.8729168137390796
+                    ],
+                    [
+                        "time",
+                        0.8810571154011659
+                    ],
+                    [
+                        "important",
+                        0.8810571154011659
+                    ],
+                    [
+                        "example",
+                        0.8810571154011659
+                    ],
+                    [
+                        "series",
+                        0.8891244030444382
+                    ],
+                    [
+                        "generous",
+                        0.8994644106593469
+                    ],
+                    [
+                        "new",
+                        0.9000238104518723
+                    ],
+                    [
+                        "e.",
+                        0.9000238104518723
+                    ],
+                    [
+                        "infinite",
+                        0.9039507460303164
+                    ],
+                    [
+                        "growth",
+                        0.9278394198884609
+                    ],
+                    [
+                        "second",
+                        0.9331196290683003
+                    ],
+                    [
+                        "additional",
+                        0.9355038594722102
+                    ],
+                    [
+                        "good",
+                        0.9378506397437698
+                    ],
+                    [
+                        "power",
+                        0.9416205119807339
+                    ],
+                    [
+                        "interest business",
+                        2.299606806410167
+                    ],
+                    [
+                        "exponential function",
+                        2.9298133091830763
+                    ],
+                    [
+                        "generous bank",
+                        3.029021746753305
+                    ],
+                    [
+                        "new way",
+                        3.2226129914171437
+                    ],
+                    [
+                        "important example",
+                        3.46950626918575
+                    ],
+                    [
+                        "second year",
+                        3.535134464325504
+                    ],
+                    [
+                        "infinite series",
+                        4.094883737994706
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "bank",
+                        0.29772922951723585
+                    ],
+                    [
+                        "year",
+                        0.32316490906871664
+                    ],
+                    [
+                        "end",
+                        0.3466691783245523
+                    ],
+                    [
+                        "way",
+                        0.3651943993693264
+                    ],
+                    [
+                        "interest",
+                        0.3659181974570993
+                    ],
+                    [
+                        "function",
+                        0.8540733480497235
+                    ],
+                    [
+                        "exponential",
+                        0.8729168137390796
+                    ],
+                    [
+                        "time",
+                        0.8810571154011659
+                    ],
+                    [
+                        "important",
+                        0.8810571154011659
+                    ],
+                    [
+                        "series",
+                        0.8891244030444382
+                    ],
+                    [
+                        "power",
+                        0.9416205119807339
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1890": {
+            "id": "oo1ZZlvT2LQ-1890",
+            "heat": 0.0,
+            "start": 1890.0,
+            "text": " But it's not calculus. Calculus doesn't do things in steps of a year. Calculus says cut that step down. You would want to ask your bank, couldn't you just, like, figure the interest a little more often and put it in there-- like, figure it every month? So what would happen if you figured the interest every month? Of course, you wouldn't get 100% interest in a month. You'd get 100% divided by 12, because we're only talking about one month. So if it was months, you start with 1. You have 1 plus 1/12. That's what you'd have after a month. Now, what would you have after 2 months and what would you have after 12 months? Well, we're going to follow the rule. They gave you the 1/12 at the end of January. So through all of February, you've got 1 plus 1/12 in there. At the end of February, they take 1/12 of that, add it in. What you get the next time is 1 plus 1/12 squared.",
+            "metrics": {
+                "relativeDCReadability": 0.78479305734798,
+                "lexicalDiversity": 0.5054945054945055,
+                "posComposition": {
+                    "CC": 0.033,
+                    "PRP": 0.121,
+                    "VBZ": 0.027,
+                    "RB": 0.066,
+                    "JJ": 0.011,
+                    "NNP": 0.033,
+                    "VB": 0.06,
+                    "NNS": 0.027,
+                    "IN": 0.143,
+                    "DT": 0.093,
+                    "NN": 0.093,
+                    "RP": 0.005,
+                    "MD": 0.044,
+                    "TO": 0.011,
+                    "PRP$": 0.005,
+                    "RBR": 0.005,
+                    ":": 0.005,
+                    "WP": 0.027,
+                    "VBD": 0.022,
+                    "CD": 0.082,
+                    "VBN": 0.011,
+                    "VBP": 0.055,
+                    "VBG": 0.011,
+                    "EX": 0.005
+                },
+                "syllableRate": 1.825,
+                "topicScores": [
+                    [
+                        "month",
+                        0.2822653059534332
+                    ],
+                    [
+                        "February",
+                        0.4303249165679492
+                    ],
+                    [
+                        "interest",
+                        0.4423337280774089
+                    ],
+                    [
+                        "Calculus",
+                        0.5310291032542074
+                    ],
+                    [
+                        "step",
+                        0.5643855000061396
+                    ],
+                    [
+                        "end",
+                        0.5718595629834636
+                    ],
+                    [
+                        "January",
+                        0.670080758452077
+                    ],
+                    [
+                        "year",
+                        0.8758845924267306
+                    ],
+                    [
+                        "thing",
+                        0.908688284282353
+                    ],
+                    [
+                        "bank",
+                        0.9162785508950084
+                    ],
+                    [
+                        "cut",
+                        0.9181617064614677
+                    ],
+                    [
+                        "rule",
+                        0.9194593642845924
+                    ],
+                    [
+                        "time",
+                        0.9447120453486483
+                    ]
+                ],
+                "topTopicSimilarity": 0.5384615384615384,
+                "sharedTopicScores": [
+                    [
+                        "month",
+                        0.2822653059534332
+                    ],
+                    [
+                        "interest",
+                        0.4423337280774089
+                    ],
+                    [
+                        "end",
+                        0.5718595629834636
+                    ],
+                    [
+                        "year",
+                        0.8758845924267306
+                    ],
+                    [
+                        "thing",
+                        0.908688284282353
+                    ],
+                    [
+                        "bank",
+                        0.9162785508950084
+                    ],
+                    [
+                        "time",
+                        0.9447120453486483
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-1980": {
+            "id": "oo1ZZlvT2LQ-1980",
+            "heat": 0.0,
+            "start": 1980.0,
+            "text": " That's what you have. Essentially every time, they're going to multiply what you've got by this number 1 plus 1/12. 1 to give you-- leave the money in. You have to leave your money. I'm sorry. Plus 1/12 of it for the interest. And then twice, and after 1 year, it's done this. You see what happens after 1 year, it's multiplied 12 times. 1 plus 1/12 to the 12th power. And that's better than 2, right? You've got the 2 only when they put the interest in just once a year. Now we're speeding up the bank and getting more out of it. So I don't know exactly what 1 plus 1/12 to the 12th power is, but I know it's more than 2. And actually, I'm sure it's not more than 3. In fact, yeah, I'm claiming that it's not as much as e, 2.7. But it was worth doing, to get them to compound every month. But, of course, you think, okay, I'm on to a good thing. Every day. Why not? So what would every day be? 1 plus 1/365.",
+            "metrics": {
+                "relativeDCReadability": 0.9130742890237581,
+                "lexicalDiversity": 0.4975124378109453,
+                "posComposition": {
+                    "DT": 0.08,
+                    "VBZ": 0.045,
+                    "WP": 0.025,
+                    "PRP": 0.124,
+                    "VBP": 0.07,
+                    "RB": 0.07,
+                    "NN": 0.095,
+                    "VBG": 0.025,
+                    "TO": 0.04,
+                    "VB": 0.04,
+                    "VBN": 0.02,
+                    "IN": 0.095,
+                    "CD": 0.1,
+                    "CC": 0.065,
+                    ":": 0.005,
+                    "PRP$": 0.005,
+                    "JJ": 0.035,
+                    "NNS": 0.005,
+                    "JJR": 0.02,
+                    "WRB": 0.01,
+                    "VBD": 0.01,
+                    "RP": 0.005,
+                    "NNP": 0.01,
+                    "MD": 0.005
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "year",
+                        0.42565927806278325
+                    ],
+                    [
+                        "money",
+                        0.5438282809931306
+                    ],
+                    [
+                        "power",
+                        0.556203129179866
+                    ],
+                    [
+                        "12th",
+                        0.5580013868287464
+                    ],
+                    [
+                        "time",
+                        0.5587492969856938
+                    ],
+                    [
+                        "interest",
+                        0.5648555939215012
+                    ],
+                    [
+                        "day",
+                        0.564906000522658
+                    ],
+                    [
+                        "sorry",
+                        0.9035276162583568
+                    ],
+                    [
+                        "number",
+                        0.9036593444562295
+                    ],
+                    [
+                        "right",
+                        0.9100516898780007
+                    ],
+                    [
+                        "month",
+                        0.9249858275668807
+                    ],
+                    [
+                        "thing",
+                        0.9258052593972357
+                    ],
+                    [
+                        "fact",
+                        0.9303608465124228
+                    ],
+                    [
+                        "course",
+                        0.9319483662015253
+                    ],
+                    [
+                        "well",
+                        0.9357706017439982
+                    ],
+                    [
+                        "worth",
+                        0.9366743318890894
+                    ],
+                    [
+                        "good",
+                        0.9373747266425918
+                    ],
+                    [
+                        "bank",
+                        0.9381712221079016
+                    ],
+                    [
+                        "sure",
+                        0.9400364311931609
+                    ],
+                    [
+                        "12th power",
+                        2.2325409448975146
+                    ],
+                    [
+                        "good thing",
+                        6.565810366496386
+                    ]
+                ],
+                "topTopicSimilarity": 0.42857142857142855,
+                "sharedTopicScores": [
+                    [
+                        "year",
+                        0.42565927806278325
+                    ],
+                    [
+                        "power",
+                        0.556203129179866
+                    ],
+                    [
+                        "time",
+                        0.5587492969856938
+                    ],
+                    [
+                        "interest",
+                        0.5648555939215012
+                    ],
+                    [
+                        "number",
+                        0.9036593444562295
+                    ],
+                    [
+                        "month",
+                        0.9249858275668807
+                    ],
+                    [
+                        "thing",
+                        0.9258052593972357
+                    ],
+                    [
+                        "course",
+                        0.9319483662015253
+                    ],
+                    [
+                        "bank",
+                        0.9381712221079016
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-2070": {
+            "id": "oo1ZZlvT2LQ-2070",
+            "heat": 0.0,
+            "start": 2070.0,
+            "text": " That's the interest you would get for just that day. But then they would compound it 365 times. So that would be a little more than this because they're adding the interest in more frequently. And, in general, I'm going to divide the year up into n pieces. In every piece, they multiply my wealth by 1 plus 1 over n. And they do it n times in a year. And the beautiful thing is that as n goes to infinity, and calculus comes in, because we're asking them to compound interest continuously, not just every month, not every day, every second even, but all the time. You don't get an infinite amount out of this. You get e. As n gets bigger, that approaches this number e. That's another way to construct e, as the limit-- you see, as n gets bigger, it's like 1 to the infinity, which is kind of meaningless. I don't want to say that 1 to the-- I had an email the other day that said, well, 1 to the infinity is e. What's happening? That's not true. It's this thing that's going to 1, this thing that's going",
+            "metrics": {
+                "relativeDCReadability": 0.9298208201939715,
+                "lexicalDiversity": 0.5047619047619047,
+                "posComposition": {
+                    "DT": 0.133,
+                    "VBZ": 0.086,
+                    "NN": 0.138,
+                    "PRP": 0.081,
+                    "MD": 0.014,
+                    "VB": 0.043,
+                    "IN": 0.114,
+                    "RB": 0.071,
+                    "CC": 0.033,
+                    "CD": 0.033,
+                    "NNS": 0.019,
+                    "JJR": 0.014,
+                    "VBP": 0.043,
+                    "VBG": 0.029,
+                    "RBR": 0.005,
+                    "JJ": 0.048,
+                    "TO": 0.043,
+                    "PRP$": 0.005,
+                    "PDT": 0.005,
+                    ":": 0.01,
+                    "WDT": 0.019,
+                    "VBD": 0.01,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.342,
+                "topicScores": [
+                    [
+                        "n",
+                        0.3372975191083132
+                    ],
+                    [
+                        "time",
+                        0.4286862503847642
+                    ],
+                    [
+                        "thing",
+                        0.43171108148183784
+                    ],
+                    [
+                        "infinity",
+                        0.4334104319354917
+                    ],
+                    [
+                        "interest",
+                        0.4344472752595408
+                    ],
+                    [
+                        "day",
+                        0.44098678581786604
+                    ],
+                    [
+                        "e.",
+                        0.44677986988503005
+                    ],
+                    [
+                        "piece",
+                        0.5476617623325634
+                    ],
+                    [
+                        "big",
+                        0.5515524548920644
+                    ],
+                    [
+                        "year",
+                        0.5566444834475656
+                    ],
+                    [
+                        "general",
+                        0.8924866759697487
+                    ],
+                    [
+                        "little",
+                        0.9015892473019437
+                    ],
+                    [
+                        "meaningless",
+                        0.9069931781933129
+                    ],
+                    [
+                        "second",
+                        0.908932058210258
+                    ],
+                    [
+                        "true",
+                        0.9112666074383523
+                    ],
+                    [
+                        "wealth",
+                        0.9137773738155931
+                    ],
+                    [
+                        "calculus",
+                        0.9163459816153395
+                    ],
+                    [
+                        "month",
+                        0.9163459816153395
+                    ],
+                    [
+                        "number",
+                        0.920308608066006
+                    ],
+                    [
+                        "beautiful",
+                        0.9229135510339674
+                    ],
+                    [
+                        "way",
+                        0.9280414387399132
+                    ],
+                    [
+                        "limit--",
+                        0.9280414387399132
+                    ],
+                    [
+                        "email",
+                        0.9293078299492168
+                    ],
+                    [
+                        "n piece",
+                        3.1123631352392205
+                    ],
+                    [
+                        "beautiful thing",
+                        3.922810684442169
+                    ]
+                ],
+                "topTopicSimilarity": 0.36,
+                "sharedTopicScores": [
+                    [
+                        "n",
+                        0.3372975191083132
+                    ],
+                    [
+                        "time",
+                        0.4286862503847642
+                    ],
+                    [
+                        "thing",
+                        0.43171108148183784
+                    ],
+                    [
+                        "interest",
+                        0.4344472752595408
+                    ],
+                    [
+                        "big",
+                        0.5515524548920644
+                    ],
+                    [
+                        "year",
+                        0.5566444834475656
+                    ],
+                    [
+                        "month",
+                        0.9163459816153395
+                    ],
+                    [
+                        "number",
+                        0.920308608066006
+                    ],
+                    [
+                        "way",
+                        0.9280414387399132
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-2160": {
+            "id": "oo1ZZlvT2LQ-2160",
+            "heat": 0.0,
+            "start": 2160.0,
+            "text": " to infinity. Then the combination goes to e. OK. So that's the application that shows the number e appearing again. OK. You've got the essence of e to the x. I just would like to say one thing, coming back to the very beginning here. The great differential equation, dy dx equal y. That was beautiful. Which we've now solved. Now I want to ask, what if the differential equation was dy dx is some multiple of y? How would that come up? Well, up to now, c was 1. We were getting 100% interest per year. But now, if c is sort of the interest rate, the growth rate, or the decay rate of c is negative, we may be losing money in this bank. So can I just tell you what is the solution to this differential equation? When I tell you, and we learned about taking derivatives, you'll see, of course, that's all it is.",
+            "metrics": {
+                "relativeDCReadability": 1.0432896918546932,
+                "lexicalDiversity": 0.4723926380368098,
+                "posComposition": {
+                    "TO": 0.049,
+                    "NN": 0.178,
+                    "RB": 0.08,
+                    "DT": 0.104,
+                    "VBZ": 0.055,
+                    "VB": 0.055,
+                    "NNP": 0.037,
+                    "WDT": 0.031,
+                    "VBG": 0.037,
+                    "PRP": 0.08,
+                    "VBP": 0.031,
+                    "VBN": 0.018,
+                    "IN": 0.074,
+                    "MD": 0.031,
+                    "CD": 0.018,
+                    "JJ": 0.055,
+                    "VBD": 0.031,
+                    "WP": 0.006,
+                    "CC": 0.018,
+                    "WRB": 0.006,
+                    "NNS": 0.006
+                },
+                "syllableRate": 1.825,
+                "topicScores": [
+                    [
+                        "equation",
+                        0.42717715914125265
+                    ],
+                    [
+                        "differential",
+                        0.43231491192424
+                    ],
+                    [
+                        "c",
+                        0.44723760121965916
+                    ],
+                    [
+                        "rate",
+                        0.45125093816459994
+                    ],
+                    [
+                        "OK",
+                        0.49290496019233837
+                    ],
+                    [
+                        "dx",
+                        0.5592422436328272
+                    ],
+                    [
+                        "interest",
+                        0.5697029092838657
+                    ],
+                    [
+                        "e. OK",
+                        0.7270094105148275
+                    ],
+                    [
+                        "infinity",
+                        0.72973266967667
+                    ],
+                    [
+                        "combination",
+                        0.86701752407417
+                    ],
+                    [
+                        "x.",
+                        0.873181674126158
+                    ],
+                    [
+                        "beautiful",
+                        0.8849979401368874
+                    ],
+                    [
+                        "application",
+                        0.8879382315012629
+                    ],
+                    [
+                        "number",
+                        0.8879382315012629
+                    ],
+                    [
+                        "year",
+                        0.8991697741096698
+                    ],
+                    [
+                        "bank",
+                        0.9008900112944783
+                    ],
+                    [
+                        "thing",
+                        0.9026716133284117
+                    ],
+                    [
+                        "beginning",
+                        0.9026716133284117
+                    ],
+                    [
+                        "essence",
+                        0.906623588237204
+                    ],
+                    [
+                        "great",
+                        0.9068867721949805
+                    ],
+                    [
+                        "growth",
+                        0.9112021383187979
+                    ],
+                    [
+                        "course",
+                        0.9138061850631469
+                    ],
+                    [
+                        "equal",
+                        0.915625003728435
+                    ],
+                    [
+                        "y.",
+                        0.915625003728435
+                    ],
+                    [
+                        "negative",
+                        0.9200273735692275
+                    ],
+                    [
+                        "multiple",
+                        0.9210977412657905
+                    ],
+                    [
+                        "derivative",
+                        0.9223946572966093
+                    ],
+                    [
+                        "decay",
+                        0.9276308298891793
+                    ],
+                    [
+                        "money",
+                        0.9276308298891793
+                    ],
+                    [
+                        "solution",
+                        0.9287727757179064
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "equation",
+                        0.42717715914125265
+                    ],
+                    [
+                        "differential",
+                        0.43231491192424
+                    ],
+                    [
+                        "interest",
+                        0.5697029092838657
+                    ],
+                    [
+                        "number",
+                        0.8879382315012629
+                    ],
+                    [
+                        "year",
+                        0.8991697741096698
+                    ],
+                    [
+                        "bank",
+                        0.9008900112944783
+                    ],
+                    [
+                        "thing",
+                        0.9026716133284117
+                    ],
+                    [
+                        "course",
+                        0.9138061850631469
+                    ],
+                    [
+                        "equal",
+                        0.915625003728435
+                    ]
+                ]
+            }
+        },
+        "oo1ZZlvT2LQ-2250": {
+            "id": "oo1ZZlvT2LQ-2250",
+            "heat": 0.0,
+            "start": 2250.0,
+            "text": " It's just the solution to this one. I'll also start at one. The solution to that one is y of x is e-- e is coming in again-- to the cx. What I'm doing is like changing the rate at-- I've made the rate of chance c. And then that c is going to come up there and in the derivative, the slope of this guy, that c will come down. The slope of this will be c e to the cx, which is cy, which is what that second differential equation tells us. So that's just a comment looking ahead, that we've solved not only the most important differential equation with the most important function that calculus creates but a whole collection of related equations in which the rate can be any fixed number, c. OK. Thank you. FEMALE SPEAKER: This has been a production of MIT OpenCourseWare and Gilbert Strang. Funding for this video was provided by the Lord Foundation. To help OCW continue to provide free and open access to MIT courses, please make a donation at ocw.mit.edu/donate.",
+            "metrics": {
+                "relativeDCReadability": 1.0819330347513807,
+                "lexicalDiversity": 0.4842105263157895,
+                "posComposition": {
+                    "PRP": 0.037,
+                    "VBZ": 0.053,
+                    "RB": 0.047,
+                    "DT": 0.137,
+                    "NN": 0.158,
+                    "TO": 0.042,
+                    "CD": 0.021,
+                    "MD": 0.021,
+                    "VB": 0.053,
+                    "IN": 0.105,
+                    "JJ": 0.074,
+                    ":": 0.016,
+                    "VBG": 0.026,
+                    "WP": 0.011,
+                    "VBP": 0.021,
+                    "VBN": 0.021,
+                    "CC": 0.026,
+                    "RP": 0.011,
+                    "WDT": 0.016,
+                    "NNS": 0.021,
+                    "RBS": 0.011,
+                    "NNP": 0.068,
+                    "VBD": 0.005
+                },
+                "syllableRate": 2.233,
+                "topicScores": [
+                    [
+                        "MIT",
+                        0.4119860476731887
+                    ],
+                    [
+                        "rate",
+                        0.420324600412756
+                    ],
+                    [
+                        "c",
+                        0.42361854233515384
+                    ],
+                    [
+                        "equation",
+                        0.4326510434770734
+                    ],
+                    [
+                        "solution",
+                        0.46496641415885875
+                    ],
+                    [
+                        "slope",
+                        0.4830412152066616
+                    ],
+                    [
+                        "cx",
+                        0.48652775206091253
+                    ],
+                    [
+                        "differential",
+                        0.5372874626705808
+                    ],
+                    [
+                        "important",
+                        0.5378739219993496
+                    ],
+                    [
+                        "OK",
+                        0.5795894448067656
+                    ],
+                    [
+                        "FEMALE",
+                        0.5972714076170178
+                    ],
+                    [
+                        "FEMALE speaker",
+                        0.6071322257490184
+                    ],
+                    [
+                        "Strang",
+                        0.6156340081947339
+                    ],
+                    [
+                        "Foundation",
+                        0.6223117663026828
+                    ],
+                    [
+                        "Gilbert",
+                        0.6480305068090803
+                    ],
+                    [
+                        "Lord",
+                        0.6544613323947064
+                    ],
+                    [
+                        "Gilbert Strang",
+                        0.663754038783019
+                    ],
+                    [
+                        "OCW",
+                        0.6740850515497535
+                    ],
+                    [
+                        "Lord Foundation",
+                        0.6871343841615997
+                    ],
+                    [
+                        "y",
+                        0.8510606737573491
+                    ],
+                    [
+                        "again--",
+                        0.8510606737573491
+                    ],
+                    [
+                        "chance",
+                        0.853242603554086
+                    ],
+                    [
+                        "funding",
+                        0.862204950414977
+                    ],
+                    [
+                        "derivative",
+                        0.8633732628072511
+                    ],
+                    [
+                        "guy",
+                        0.8633732628072511
+                    ],
+                    [
+                        "at--",
+                        0.8656287521952741
+                    ],
+                    [
+                        "cy",
+                        0.8705587838985465
+                    ],
+                    [
+                        "number",
+                        0.8759736156338801
+                    ],
+                    [
+                        "second",
+                        0.881686119948168
+                    ],
+                    [
+                        "comment",
+                        0.8866960519054611
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "equation",
+                        0.4326510434770734
+                    ],
+                    [
+                        "slope",
+                        0.4830412152066616
+                    ],
+                    [
+                        "differential",
+                        0.5372874626705808
+                    ],
+                    [
+                        "important",
+                        0.5378739219993496
+                    ],
+                    [
+                        "number",
+                        0.8759736156338801
+                    ]
+                ]
+            }
+        }
+    }
+}

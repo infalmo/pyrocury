@@ -102,15 +102,83 @@ def videoProcessing(heatmap: str, chunkedTranscript: str, totalText: str, baseTr
         json_file.write(json.dumps(dataFile, indent = 4))
 
 
-if __name__ == "__main__":
+def convertToCSV():
+    """
+    Converts all the written data JSON files into a CSV containing various parameters and labels. Each row is a chunk
+    Columns:
+    id: the id of the chunk (str)
+    relativeDCReadability: relative readability by the dale-chall test (float)
+    lexicalDiversity: the lexical diversity of the chunk (float)
+    topTopicSimilarity: the fraction of top topics shared between the overall transcript and the chunk (float)
+    syllableRate: the rate of syllables spoken
+    posComposition: parts of speech composition (several columns) (float)
+    topTopicSimilarityRelativeScores: the relative scores of the top 30 topics (30 columns) (float)
+        relative score is calculated by (chunkTopicScore - overallTextTopicScore). 
+        A lower score means the topic is more important. A negative score meants that the topic is more important
+        in the chunk than in the overall text
+    heat: the heat of the chunk (float)
+    """
+    header = ["id", "relativeReadability", "lexicalDiversity", "topTopicSimilarity", "syllableRate"]
+    #posComposition tags
+    posTags = ['PRP$', 'VBG', 'VBD', 'VBN', 'VBP', 'WDT', 'JJ', 'WP', 'VBZ', 'DT', 'NN', 'TO', 'PRP', 'RB',
+                   'NNS', 'NNP', 'VB', 'WRB', 'CC', 'CD', 'EX', 'IN', 'WP$', 'MD', 'JJS', 'JJR', "``", "''", ':']
+    header.extend(posTags)
+
+    
+    for i in range(30):
+        header.append(f'topic-{i}')
+    header.append("heat")
+
+    #add features
+    outCSV = open('dataset.csv', 'w', newline='')
+    writer = csv.writer(outCSV)
+    writer.writerow(header)
     for id in os.listdir('test_data'):
         print("Processing " + id)
-        if os.path.exists(f'test_data\\{id}\\{id}-data.json') == False:
-            videoProcessing(f'test_data\\{id}\\{id}-heatmap.csv',
-                        f'processed_test_data\\{id}.json', 
-                        f'test_data\\{id}\\{id}-wholeTranscript.txt',
-                        f'test_data\\{id}\\{id}-transcript.json',
-                        id, f'test_data\\{id}\\{id}-data.json')
+        with open(f'test_data\\{id}\\{id}-data.json', 'r') as f:
+            dataFile = json.loads(f.read())
+        for chunk in dataFile["chunks"].keys():
+            chunkDict = dataFile["chunks"][chunk]["metrics"]
+            heat = dataFile["chunks"][chunk]["heat"]
+            rDCR = chunkDict["relativeDCReadability"]
+            lD = chunkDict["lexicalDiversity"]
+            tTS = chunkDict["topTopicSimilarity"]
+            posC = chunkDict["posComposition"]
+            syllRate = chunkDict['syllableRate']
+            posCList = []
+            for tag in posTags:
+                if tag in posC:
+                    posCList.append(posC[tag])
+                else:
+                   posCList.append(0)
+            chunkTopicScores = dict()
+            for row in chunkDict["sharedTopicScores"]:
+                chunkTopicScores[row[0]] = row[1]
+            sharedTopicScoreList = []
+            for topic in dataFile["metadata"]["topicScores"]:
+                if topic[0] in chunkTopicScores:
+                    relativeDiff = (chunkTopicScores[topic[0]] - topic[1])
+                    sharedTopicScoreList.append(chunkTopicScores[topic[0]])
+                else:
+                    #really high number to indicate no significant topic mention in chunk
+                    sharedTopicScoreList.append(5)
+            row = [chunk, rDCR, lD, tTS, syllRate]
+            row.extend(posCList)
+            row.extend(sharedTopicScoreList)
+            row.append(heat)
+            writer.writerow(row)
+    outCSV.close()
+
+if __name__ == "__main__":
+    #for id in os.listdir('test_data'):
+    #    print("Processing " + id)
+    #    if os.path.exists(f'test_data\\{id}\\{id}-data.json') == False:
+    #        videoProcessing(f'test_data\\{id}\\{id}-heatmap.csv',
+    #                    f'processed_test_data\\{id}.json', 
+    #                    f'test_data\\{id}\\{id}-wholeTranscript.txt',
+    #                    f'test_data\\{id}\\{id}-transcript.json',
+    #                    id, f'test_data\\{id}\\{id}-data.json')
+    convertToCSV()
 #print(heatmapMedian('test_data\\_eGNSuTBc60\\_eGNSuTBc60-heatmap.csv'))
     
     

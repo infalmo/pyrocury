@@ -1,0 +1,2470 @@
+{
+    "metadata": {
+        "id": "8OsUQ1yXCcI",
+        "avgHeat": 0.34,
+        "runtime": 1041.9,
+        "dale-challReadabilityScore": 7.988201453018069,
+        "lexicalDiversity": 0.4723192019950125,
+        "posComposition": {
+            "NNP": 0.022,
+            "CC": 0.046,
+            "PRP": 0.079,
+            "DT": 0.119,
+            "VBZ": 0.067,
+            "IN": 0.125,
+            "NNS": 0.046,
+            "RB": 0.068,
+            "VBD": 0.018,
+            "RP": 0.003,
+            "NN": 0.138,
+            "WDT": 0.012,
+            "VBN": 0.017,
+            ":": 0.012,
+            "WRB": 0.007,
+            "VBP": 0.044,
+            "JJ": 0.066,
+            "POS": 0.001,
+            "VBG": 0.006,
+            "TO": 0.012,
+            "EX": 0.004,
+            "CD": 0.008,
+            "JJR": 0.001,
+            "MD": 0.022,
+            "VB": 0.041,
+            "PRP$": 0.002,
+            "WP": 0.007,
+            "PDT": 0.001,
+            "RBR": 0.0
+        },
+        "syllableRate": 2.818,
+        "topicScores": [
+            [
+                "photon",
+                0.1363006110555917
+            ],
+            [
+                "E0",
+                0.1588964153038807
+            ],
+            [
+                "light",
+                0.17439966050862726
+            ],
+            [
+                "Bell",
+                0.18208689928694036
+            ],
+            [
+                "alpha",
+                0.1897681258283711
+            ],
+            [
+                "energy",
+                0.19382943129528
+            ],
+            [
+                "polarizer",
+                0.22910937197517828
+            ],
+            [
+                "cosine",
+                0.2304299784455656
+            ],
+            [
+                "identical",
+                0.23424239238968123
+            ],
+            [
+                "direction",
+                0.243359144321634
+            ],
+            [
+                "x",
+                0.2551187843011187
+            ],
+            [
+                "variable",
+                0.2582276257091612
+            ],
+            [
+                "state",
+                0.2632729418908464
+            ],
+            [
+                "particle",
+                0.26585754532134065
+            ],
+            [
+                "square",
+                0.2732588914342214
+            ],
+            [
+                "vector",
+                0.2755627571923562
+            ],
+            [
+                "Einstein",
+                0.2785431270737494
+            ],
+            [
+                "beam",
+                0.29229012436724316
+            ],
+            [
+                "frequency",
+                0.3138963878869636
+            ],
+            [
+                "wave",
+                0.31477312416981706
+            ],
+            [
+                "hidden",
+                0.31504637856522866
+            ],
+            [
+                "electric",
+                0.3153487351751308
+            ],
+            [
+                "field",
+                0.3166807687876991
+            ],
+            [
+                "quantum",
+                0.31740733973125373
+            ],
+            [
+                "fraction",
+                0.34505438396030996
+            ],
+            [
+                "magnitude",
+                0.345816915815245
+            ],
+            [
+                "function",
+                0.34727263991828156
+            ],
+            [
+                "thing",
+                0.34856207098443903
+            ],
+            [
+                "classical",
+                0.34860633426944265
+            ],
+            [
+                "inequality",
+                0.3487674610121279
+            ]
+        ],
+        "topicsList": [
+            "photon",
+            "E0",
+            "light",
+            "Bell",
+            "alpha",
+            "energy",
+            "polarizer",
+            "cosine",
+            "identical",
+            "direction",
+            "x",
+            "variable",
+            "state",
+            "particle",
+            "square",
+            "vector",
+            "Einstein",
+            "beam",
+            "frequency",
+            "wave",
+            "hidden",
+            "electric",
+            "field",
+            "quantum",
+            "fraction",
+            "magnitude",
+            "function",
+            "thing",
+            "classical",
+            "inequality"
+        ]
+    },
+    "chunks": {
+        "8OsUQ1yXCcI-0": {
+            "id": "8OsUQ1yXCcI-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: Determinism. And it all begins with photons. Einstein reluctantly came up with the idea that light was made of quanta-- quanta of light called photons. Now when you think of photons, we think of a particle. So everybody knew that light was a wave. Maxwell's equations had been so successful. Nevertheless, photoelectric effect-- Planck's work-- all were leading to the idea that, in some ways, photons were also particles. So when you think of a particle, however, there is an important difference between a particle in the sense of Newton, which is an object with zero size that carries energy and has a precise position and velocity at any time, and the quantum mechanical idea of particle, which is just some indivisible amount of energy",
+            "metrics": {
+                "relativeDCReadability": 1.0707261504083205,
+                "lexicalDiversity": 0.5038167938931297,
+                "posComposition": {
+                    "NNP": 0.053,
+                    "CC": 0.031,
+                    "PRP": 0.031,
+                    "DT": 0.122,
+                    "VBZ": 0.046,
+                    "IN": 0.137,
+                    "NNS": 0.053,
+                    "RB": 0.053,
+                    "VBD": 0.053,
+                    "RP": 0.008,
+                    "NN": 0.191,
+                    "WDT": 0.031,
+                    "VBN": 0.023,
+                    ":": 0.023,
+                    "WRB": 0.015,
+                    "VBP": 0.023,
+                    "JJ": 0.061,
+                    "POS": 0.015,
+                    "VBG": 0.008,
+                    "TO": 0.008,
+                    "EX": 0.008,
+                    "CD": 0.008
+                },
+                "syllableRate": 1.775,
+                "topicScores": [
+                    [
+                        "particle",
+                        0.34536329691150575
+                    ],
+                    [
+                        "photon",
+                        0.38280992811531306
+                    ],
+                    [
+                        "idea",
+                        0.4477712482629814
+                    ],
+                    [
+                        "light",
+                        0.45007451731502984
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.47649612115634005
+                    ],
+                    [
+                        "determinism",
+                        0.47649612115634005
+                    ],
+                    [
+                        "energy",
+                        0.5782604973636376
+                    ],
+                    [
+                        "Newton",
+                        0.6869393542466509
+                    ],
+                    [
+                        "Planck",
+                        0.6975932704200781
+                    ],
+                    [
+                        "Einstein",
+                        0.8532375281455226
+                    ],
+                    [
+                        "wave",
+                        0.8705542164941191
+                    ],
+                    [
+                        "Maxwell",
+                        0.8759692120731906
+                    ],
+                    [
+                        "successful",
+                        0.8759692120731906
+                    ],
+                    [
+                        "quanta--",
+                        0.9008325567368506
+                    ],
+                    [
+                        "photoelectric",
+                        0.9091167132417938
+                    ],
+                    [
+                        "effect--",
+                        0.9091167132417938
+                    ],
+                    [
+                        "way",
+                        0.9091167132417938
+                    ],
+                    [
+                        "time",
+                        0.9118248696789818
+                    ],
+                    [
+                        "equation",
+                        0.9169102482716587
+                    ],
+                    [
+                        "work--",
+                        0.9198921885358506
+                    ],
+                    [
+                        "important",
+                        0.9223066958117611
+                    ],
+                    [
+                        "difference",
+                        0.9223066958117611
+                    ],
+                    [
+                        "sense",
+                        0.9223066958117611
+                    ],
+                    [
+                        "object",
+                        0.9223066958117611
+                    ],
+                    [
+                        "size",
+                        0.9223066958117611
+                    ],
+                    [
+                        "precise",
+                        0.9223066958117611
+                    ],
+                    [
+                        "position",
+                        0.9223066958117611
+                    ],
+                    [
+                        "velocity",
+                        0.9223066958117611
+                    ],
+                    [
+                        "quantum",
+                        0.9223066958117611
+                    ],
+                    [
+                        "mechanical",
+                        0.9223066958117611
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "particle",
+                        0.34536329691150575
+                    ],
+                    [
+                        "photon",
+                        0.38280992811531306
+                    ],
+                    [
+                        "light",
+                        0.45007451731502984
+                    ],
+                    [
+                        "energy",
+                        0.5782604973636376
+                    ],
+                    [
+                        "Einstein",
+                        0.8532375281455226
+                    ],
+                    [
+                        "wave",
+                        0.8705542164941191
+                    ],
+                    [
+                        "quantum",
+                        0.9223066958117611
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-90": {
+            "id": "8OsUQ1yXCcI-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " or momentum that propagates. So light was made of photons-- packets of energy. And a photon is a particle-- a quantum mechanical particle. Not in the sense that maybe it has position and velocity determined or it's a point particle, but more like a packet that is indivisible. You cannot decompose it in further packets. So Einstein realized that for a photon, the energy was given by h nu. Where nu is the frequency of the light that this photon is helping build up. So if you have a beam of light, you should think it's billions of photons. And according to the frequency of that light that is related to the wavelength-- by the equation frequency times wavelength is velocity of light-- you typically know, for light, the wavelength, and you know the frequency, and then you know the energy of each of the photons. The photons have very, very little energy. We have very, very little energy, but your eyes are very good detectors of photons. If you're in a totally dark room, your eye, probably, can take as little as five photons",
+            "metrics": {
+                "relativeDCReadability": 1.0851922407338699,
+                "lexicalDiversity": 0.45077720207253885,
+                "posComposition": {
+                    "CC": 0.047,
+                    "NN": 0.181,
+                    "WDT": 0.016,
+                    "VBZ": 0.057,
+                    "RB": 0.078,
+                    "JJ": 0.057,
+                    "VBD": 0.021,
+                    "VBN": 0.016,
+                    "IN": 0.124,
+                    "NNS": 0.062,
+                    ":": 0.021,
+                    "DT": 0.119,
+                    "PRP": 0.062,
+                    "JJR": 0.005,
+                    "MD": 0.016,
+                    "VB": 0.021,
+                    "NNP": 0.01,
+                    "VBG": 0.01,
+                    "RP": 0.005,
+                    "VBP": 0.047,
+                    "TO": 0.01,
+                    "PRP$": 0.01,
+                    "CD": 0.005
+                },
+                "syllableRate": 2.383,
+                "topicScores": [
+                    [
+                        "photon",
+                        0.2806976620046836
+                    ],
+                    [
+                        "energy",
+                        0.3399689399110044
+                    ],
+                    [
+                        "light",
+                        0.3416730712693922
+                    ],
+                    [
+                        "frequency",
+                        0.38823399957031146
+                    ],
+                    [
+                        "little",
+                        0.43722058426055316
+                    ],
+                    [
+                        "packet",
+                        0.4443657248931357
+                    ],
+                    [
+                        "particle",
+                        0.5500730891192386
+                    ],
+                    [
+                        "nu",
+                        0.561346405859666
+                    ],
+                    [
+                        "eye",
+                        0.5658460721034496
+                    ],
+                    [
+                        "velocity",
+                        0.5756694925589073
+                    ],
+                    [
+                        "wavelength",
+                        0.5781443278099577
+                    ],
+                    [
+                        "Einstein",
+                        0.6542586628012816
+                    ],
+                    [
+                        "propagate",
+                        0.8339254332440877
+                    ],
+                    [
+                        "momentum",
+                        0.8640417429736856
+                    ],
+                    [
+                        "indivisible",
+                        0.8820464555595692
+                    ],
+                    [
+                        "mechanical",
+                        0.8969872191528233
+                    ],
+                    [
+                        "point",
+                        0.9044363955065536
+                    ],
+                    [
+                        "quantum",
+                        0.9065587540992535
+                    ],
+                    [
+                        "sense",
+                        0.9133826199146039
+                    ],
+                    [
+                        "position",
+                        0.9133826199146039
+                    ],
+                    [
+                        "dark",
+                        0.9258954786188539
+                    ],
+                    [
+                        "room",
+                        0.9258954786188539
+                    ],
+                    [
+                        "beam",
+                        0.9268935474259499
+                    ],
+                    [
+                        "billion",
+                        0.9268935474259499
+                    ],
+                    [
+                        "equation",
+                        0.9287891643032571
+                    ],
+                    [
+                        "time",
+                        0.9287891643032571
+                    ],
+                    [
+                        "good",
+                        0.9317762519684043
+                    ],
+                    [
+                        "detector",
+                        0.9317762519684043
+                    ],
+                    [
+                        "little energy",
+                        2.094056599630313
+                    ],
+                    [
+                        "mechanical particle",
+                        3.5878718910646477
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "photon",
+                        0.2806976620046836
+                    ],
+                    [
+                        "energy",
+                        0.3399689399110044
+                    ],
+                    [
+                        "light",
+                        0.3416730712693922
+                    ],
+                    [
+                        "frequency",
+                        0.38823399957031146
+                    ],
+                    [
+                        "particle",
+                        0.5500730891192386
+                    ],
+                    [
+                        "Einstein",
+                        0.6542586628012816
+                    ],
+                    [
+                        "quantum",
+                        0.9065587540992535
+                    ],
+                    [
+                        "beam",
+                        0.9268935474259499
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-180": {
+            "id": "8OsUQ1yXCcI-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " if they hit your retina. So it's a pretty good detector of photons. Anyway, the thing that I want to explain here is what happens if a beam of light hits a polarizer. So what is a polarizer? It's a sheet of plastic or some material. It has a preferential direction. Let me align that preferential direction with the x-axis, and that's a polarizer. And if I send light that is linearly polarized along the x-axis, it all goes through. If I send light linearly polarized along the y-axis, nothing goes through. It all gets absorbed. That's what a polarizer does for a living. In fact, if you send light in this direction, the light that comes out is identical to the light that came in. The frequency doesn't change. The wavelength doesn't change. It's the same light, the same energy. So far, so good. Now let's imagine that we send in light linearly polarized at some angle alpha. So we send an electric field E alpha,",
+            "metrics": {
+                "relativeDCReadability": 0.9249912774639626,
+                "lexicalDiversity": 0.48,
+                "posComposition": {
+                    "IN": 0.137,
+                    "PRP": 0.08,
+                    "VBP": 0.046,
+                    "PRP$": 0.006,
+                    "NNS": 0.023,
+                    "VBZ": 0.103,
+                    "DT": 0.16,
+                    "RB": 0.057,
+                    "JJ": 0.091,
+                    "NN": 0.137,
+                    "NNP": 0.017,
+                    "TO": 0.011,
+                    "VB": 0.034,
+                    "WP": 0.017,
+                    "CC": 0.017,
+                    "WDT": 0.017,
+                    "VBN": 0.017,
+                    "RP": 0.011,
+                    "VBD": 0.011,
+                    "POS": 0.006
+                },
+                "syllableRate": 2.1,
+                "topicScores": [
+                    [
+                        "light",
+                        0.2781496122437989
+                    ],
+                    [
+                        "polarizer",
+                        0.3541374687022258
+                    ],
+                    [
+                        "axis",
+                        0.425774072852424
+                    ],
+                    [
+                        "direction",
+                        0.43326866862412505
+                    ],
+                    [
+                        "alpha",
+                        0.5564158107423391
+                    ],
+                    [
+                        "preferential",
+                        0.5581637173660843
+                    ],
+                    [
+                        "good",
+                        0.5625281345723984
+                    ],
+                    [
+                        "retina",
+                        0.7790271544783106
+                    ],
+                    [
+                        "photon",
+                        0.8414162546395539
+                    ],
+                    [
+                        "detector",
+                        0.876750383193485
+                    ],
+                    [
+                        "thing",
+                        0.8873526882246733
+                    ],
+                    [
+                        "material",
+                        0.8876591662172646
+                    ],
+                    [
+                        "beam",
+                        0.8963230193826889
+                    ],
+                    [
+                        "living",
+                        0.9092210728393838
+                    ],
+                    [
+                        "sheet",
+                        0.9137460933943504
+                    ],
+                    [
+                        "plastic",
+                        0.9137460933943504
+                    ],
+                    [
+                        "energy",
+                        0.9150902051814656
+                    ],
+                    [
+                        "fact",
+                        0.9189587268790246
+                    ],
+                    [
+                        "frequency",
+                        0.9272356917137757
+                    ],
+                    [
+                        "wavelength",
+                        0.9283833912357731
+                    ],
+                    [
+                        "angle",
+                        0.9311559395542233
+                    ],
+                    [
+                        "identical",
+                        0.9320682806148161
+                    ],
+                    [
+                        "electric",
+                        0.9375844345518726
+                    ],
+                    [
+                        "field",
+                        0.9375844345518726
+                    ],
+                    [
+                        "e alpha",
+                        1.5977305313690973
+                    ],
+                    [
+                        "field e",
+                        1.8892130705770744
+                    ],
+                    [
+                        "preferential direction",
+                        2.072263326006693
+                    ],
+                    [
+                        "good detector",
+                        3.5808177543980513
+                    ],
+                    [
+                        "angle alpha",
+                        4.592363942084439
+                    ],
+                    [
+                        "electric field",
+                        7.268875513373128
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "light",
+                        0.2781496122437989
+                    ],
+                    [
+                        "polarizer",
+                        0.3541374687022258
+                    ],
+                    [
+                        "direction",
+                        0.43326866862412505
+                    ],
+                    [
+                        "alpha",
+                        0.5564158107423391
+                    ],
+                    [
+                        "photon",
+                        0.8414162546395539
+                    ],
+                    [
+                        "thing",
+                        0.8873526882246733
+                    ],
+                    [
+                        "beam",
+                        0.8963230193826889
+                    ],
+                    [
+                        "energy",
+                        0.9150902051814656
+                    ],
+                    [
+                        "frequency",
+                        0.9272356917137757
+                    ],
+                    [
+                        "identical",
+                        0.9320682806148161
+                    ],
+                    [
+                        "electric",
+                        0.9375844345518726
+                    ],
+                    [
+                        "field",
+                        0.9375844345518726
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-270": {
+            "id": "8OsUQ1yXCcI-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " which is E0 cosine alpha x hat plus E0 sine alpha y hat. Well, you've studied electromagnetism, and you know that this thing, basically, will come around and say, OK, you can go through because you're aligning the right direction, but you are orthogonal to my preferential direction, or orthogonal I absorbed, so this disappears. So after the polarizer, E is just E0 cosine alpha x hat. That's all that is left after the polarizer. Well here is something interesting-- you know that the energy on electromagnetic field is proportional to the magnitude of the electric field square, that's what it is. So the magnitude of this electric field-- if you can notice, it's the square root of the sum of the squares will give you E0 as the magnitude of this full electric field.",
+            "metrics": {
+                "relativeDCReadability": 1.0781247604270072,
+                "lexicalDiversity": 0.5070422535211268,
+                "posComposition": {
+                    "WDT": 0.021,
+                    "VBZ": 0.063,
+                    "NNP": 0.056,
+                    "NN": 0.162,
+                    "WP": 0.021,
+                    "CC": 0.035,
+                    "VBP": 0.049,
+                    "JJ": 0.092,
+                    "RB": 0.049,
+                    "PRP": 0.077,
+                    "VBN": 0.014,
+                    "IN": 0.113,
+                    "DT": 0.12,
+                    "MD": 0.028,
+                    "VB": 0.035,
+                    "VBG": 0.007,
+                    "TO": 0.014,
+                    "PRP$": 0.007,
+                    "VBD": 0.007,
+                    "NNS": 0.014,
+                    ":": 0.014
+                },
+                "syllableRate": 1.767,
+                "topicScores": [
+                    [
+                        "E0",
+                        0.2547638938477009
+                    ],
+                    [
+                        "alpha",
+                        0.38476837984783036
+                    ],
+                    [
+                        "hat",
+                        0.38888848943044363
+                    ],
+                    [
+                        "magnitude",
+                        0.4225351066024842
+                    ],
+                    [
+                        "electric",
+                        0.4325658694739515
+                    ],
+                    [
+                        "field",
+                        0.4366531064332802
+                    ],
+                    [
+                        "square",
+                        0.4453440517210209
+                    ],
+                    [
+                        "x",
+                        0.49217946185617567
+                    ],
+                    [
+                        "cosine",
+                        0.5050726074032654
+                    ],
+                    [
+                        "polarizer",
+                        0.5055565424374628
+                    ],
+                    [
+                        "direction",
+                        0.5435309276867173
+                    ],
+                    [
+                        "orthogonal",
+                        0.5500121016220758
+                    ],
+                    [
+                        "E0 cosine",
+                        0.5675153100933031
+                    ],
+                    [
+                        "y",
+                        0.8338675897416993
+                    ],
+                    [
+                        "electromagnetism",
+                        0.8591562436124677
+                    ],
+                    [
+                        "thing",
+                        0.8591562436124677
+                    ],
+                    [
+                        "right",
+                        0.8591562436124677
+                    ],
+                    [
+                        "preferential",
+                        0.8591562436124677
+                    ],
+                    [
+                        "interesting--",
+                        0.8991818665352892
+                    ],
+                    [
+                        "energy",
+                        0.8991818665352892
+                    ],
+                    [
+                        "proportional",
+                        0.8991818665352892
+                    ],
+                    [
+                        "root",
+                        0.903532009714733
+                    ],
+                    [
+                        "sum",
+                        0.903532009714733
+                    ],
+                    [
+                        "alpha x",
+                        0.9475976479603255
+                    ],
+                    [
+                        "x hat",
+                        0.9733991968962586
+                    ],
+                    [
+                        "cosine alpha",
+                        1.0122467628589493
+                    ],
+                    [
+                        "electric field",
+                        1.9498230994687424
+                    ],
+                    [
+                        "alpha x hat",
+                        2.297109067602872
+                    ],
+                    [
+                        "right direction",
+                        2.8482645156333786
+                    ],
+                    [
+                        "preferential direction",
+                        2.8482645156333786
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "E0",
+                        0.2547638938477009
+                    ],
+                    [
+                        "alpha",
+                        0.38476837984783036
+                    ],
+                    [
+                        "magnitude",
+                        0.4225351066024842
+                    ],
+                    [
+                        "electric",
+                        0.4325658694739515
+                    ],
+                    [
+                        "field",
+                        0.4366531064332802
+                    ],
+                    [
+                        "square",
+                        0.4453440517210209
+                    ],
+                    [
+                        "x",
+                        0.49217946185617567
+                    ],
+                    [
+                        "cosine",
+                        0.5050726074032654
+                    ],
+                    [
+                        "polarizer",
+                        0.5055565424374628
+                    ],
+                    [
+                        "direction",
+                        0.5435309276867173
+                    ],
+                    [
+                        "thing",
+                        0.8591562436124677
+                    ],
+                    [
+                        "energy",
+                        0.8991818665352892
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-360": {
+            "id": "8OsUQ1yXCcI-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " But this electric field has magnitude E0 cosine alpha. So the fraction of power-- fraction of energy through is cosine alpha squared. The energy is always proportional to the square. So the square of this is E0 squared cosine squared alpha. And for this one, the magnitude of it is E0, so you divide by E0 and cosine alpha is the right thing. This is the fraction of the energy. If alpha is equal to 0, you get cosine of 01. You get all the energy 1. If alpha is equal to pi over 2, the light is polarized along the y direction, nothing goes through-- indeed, cosine of pi over 2 is 0, and nothing goes through. So the fraction of energy that goes through is cosine squared alpha. But now, think what this means for photons. What it means for photons is something extraordinarily strange. And so strange that it's almost unbelievable that we get so easily in trouble.",
+            "metrics": {
+                "relativeDCReadability": 1.0846159816200627,
+                "lexicalDiversity": 0.5060975609756098,
+                "posComposition": {
+                    "CC": 0.037,
+                    "DT": 0.104,
+                    "JJ": 0.079,
+                    "NN": 0.177,
+                    "VBZ": 0.116,
+                    "VBN": 0.03,
+                    "NNP": 0.024,
+                    "IN": 0.171,
+                    ":": 0.012,
+                    "RB": 0.055,
+                    "VBD": 0.006,
+                    "TO": 0.018,
+                    "NNS": 0.024,
+                    "CD": 0.043,
+                    "PRP": 0.043,
+                    "VBP": 0.03,
+                    "PDT": 0.006,
+                    "VB": 0.006,
+                    "WDT": 0.006,
+                    "WP": 0.012
+                },
+                "syllableRate": 1.933,
+                "topicScores": [
+                    [
+                        "E0",
+                        0.2583888355813927
+                    ],
+                    [
+                        "alpha",
+                        0.2762418394788522
+                    ],
+                    [
+                        "cosine",
+                        0.2897663182887642
+                    ],
+                    [
+                        "energy",
+                        0.3304586210068329
+                    ],
+                    [
+                        "square",
+                        0.3418442669365378
+                    ],
+                    [
+                        "fraction",
+                        0.3694513136990925
+                    ],
+                    [
+                        "magnitude",
+                        0.5568306492121112
+                    ],
+                    [
+                        "equal",
+                        0.5593446314289658
+                    ],
+                    [
+                        "photon",
+                        0.562321649652733
+                    ],
+                    [
+                        "pi",
+                        0.5775147626376763
+                    ],
+                    [
+                        "strange",
+                        0.5786194916741555
+                    ],
+                    [
+                        "electric",
+                        0.8373943910706334
+                    ],
+                    [
+                        "field",
+                        0.8373943910706334
+                    ],
+                    [
+                        "power--",
+                        0.8857215953241376
+                    ],
+                    [
+                        "thing",
+                        0.891127622817817
+                    ],
+                    [
+                        "proportional",
+                        0.9040255129187493
+                    ],
+                    [
+                        "right",
+                        0.9119658212974521
+                    ],
+                    [
+                        "trouble",
+                        0.9152953401791095
+                    ],
+                    [
+                        "direction",
+                        0.9256797645687529
+                    ],
+                    [
+                        "unbelievable",
+                        0.9384151583499515
+                    ],
+                    [
+                        "E0 cosine",
+                        1.0900600999714014
+                    ],
+                    [
+                        "magnitude E0",
+                        1.1253911879340335
+                    ],
+                    [
+                        "cosine alpha",
+                        1.2883343683164918
+                    ],
+                    [
+                        "electric field",
+                        2.3470491636667536
+                    ],
+                    [
+                        "power-- fraction",
+                        3.163316386788015
+                    ],
+                    [
+                        "squared alpha",
+                        3.323939779599757
+                    ],
+                    [
+                        "cosine squared",
+                        4.164369807302728
+                    ],
+                    [
+                        "right thing",
+                        4.338399386770213
+                    ],
+                    [
+                        "magnitude E0 cosine",
+                        4.497819252481616
+                    ],
+                    [
+                        "cosine squared alpha",
+                        16.296457379393367
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "E0",
+                        0.2583888355813927
+                    ],
+                    [
+                        "alpha",
+                        0.2762418394788522
+                    ],
+                    [
+                        "cosine",
+                        0.2897663182887642
+                    ],
+                    [
+                        "energy",
+                        0.3304586210068329
+                    ],
+                    [
+                        "square",
+                        0.3418442669365378
+                    ],
+                    [
+                        "fraction",
+                        0.3694513136990925
+                    ],
+                    [
+                        "magnitude",
+                        0.5568306492121112
+                    ],
+                    [
+                        "photon",
+                        0.562321649652733
+                    ],
+                    [
+                        "electric",
+                        0.8373943910706334
+                    ],
+                    [
+                        "field",
+                        0.8373943910706334
+                    ],
+                    [
+                        "thing",
+                        0.891127622817817
+                    ],
+                    [
+                        "direction",
+                        0.9256797645687529
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-450": {
+            "id": "8OsUQ1yXCcI-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " Here is this light beam over here, and it's made up of photons. All identical photons, maybe billions of photons, but all identical. And now, think of sending this light beam over there-- a billion identical photons-- you send them one by one into the state, and see what happens. You know what has to happen, because classical behavior is about right. This fraction of the photons must go through, and 1 minus that must not go through. You see, it cannot be there comes a photon and half of it goes through, because there's no such thing as half of it. If there would be half of it, it would be half the energy and, therefore, different color. And we know that after a polarizer, the color doesn't change. So here is the situation. You're sending a billion photons and, say, one-third has to get through. But now, the photos are identical. How can that happen in classical physics? If you send identical photos, whatever happens to a photon",
+            "metrics": {
+                "relativeDCReadability": 0.9183698977590512,
+                "lexicalDiversity": 0.4463276836158192,
+                "posComposition": {
+                    "RB": 0.079,
+                    "VBZ": 0.068,
+                    "DT": 0.102,
+                    "JJ": 0.068,
+                    "NN": 0.102,
+                    "IN": 0.13,
+                    "CC": 0.056,
+                    "PRP": 0.073,
+                    "VBN": 0.006,
+                    "NNS": 0.056,
+                    "VBP": 0.051,
+                    "VBG": 0.011,
+                    ":": 0.011,
+                    "CD": 0.028,
+                    "VB": 0.062,
+                    "WP": 0.006,
+                    "WDT": 0.017,
+                    "TO": 0.017,
+                    "MD": 0.034,
+                    "EX": 0.011,
+                    "PDT": 0.006,
+                    "NNP": 0.006
+                },
+                "syllableRate": 2.033,
+                "topicScores": [
+                    [
+                        "photon",
+                        0.28420370323819877
+                    ],
+                    [
+                        "identical",
+                        0.33846312404526274
+                    ],
+                    [
+                        "half",
+                        0.3756170079855017
+                    ],
+                    [
+                        "billion",
+                        0.43394499930431923
+                    ],
+                    [
+                        "light",
+                        0.5086533115728785
+                    ],
+                    [
+                        "beam",
+                        0.5086533115728785
+                    ],
+                    [
+                        "color",
+                        0.555471199499226
+                    ],
+                    [
+                        "classical",
+                        0.5662216176895315
+                    ],
+                    [
+                        "state",
+                        0.8907454532295621
+                    ],
+                    [
+                        "situation",
+                        0.9084838982552162
+                    ],
+                    [
+                        "fraction",
+                        0.9090106947869173
+                    ],
+                    [
+                        "behavior",
+                        0.9094705180189102
+                    ],
+                    [
+                        "different",
+                        0.9105054415153069
+                    ],
+                    [
+                        "physics",
+                        0.914482722172574
+                    ],
+                    [
+                        "energy",
+                        0.9178028579337181
+                    ],
+                    [
+                        "polarizer",
+                        0.920755532626426
+                    ],
+                    [
+                        "thing",
+                        0.9207683317240968
+                    ],
+                    [
+                        "light beam",
+                        1.171482974368094
+                    ],
+                    [
+                        "identical photon",
+                        2.9364159968503816
+                    ],
+                    [
+                        "different color",
+                        4.040574628022305
+                    ],
+                    [
+                        "classical behavior",
+                        4.440555807411585
+                    ],
+                    [
+                        "classical physics",
+                        4.577039633968602
+                    ]
+                ],
+                "topTopicSimilarity": 0.45454545454545453,
+                "sharedTopicScores": [
+                    [
+                        "photon",
+                        0.28420370323819877
+                    ],
+                    [
+                        "identical",
+                        0.33846312404526274
+                    ],
+                    [
+                        "light",
+                        0.5086533115728785
+                    ],
+                    [
+                        "beam",
+                        0.5086533115728785
+                    ],
+                    [
+                        "classical",
+                        0.5662216176895315
+                    ],
+                    [
+                        "state",
+                        0.8907454532295621
+                    ],
+                    [
+                        "fraction",
+                        0.9090106947869173
+                    ],
+                    [
+                        "energy",
+                        0.9178028579337181
+                    ],
+                    [
+                        "polarizer",
+                        0.920755532626426
+                    ],
+                    [
+                        "thing",
+                        0.9207683317240968
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-540": {
+            "id": "8OsUQ1yXCcI-540",
+            "heat": 0.203,
+            "start": 540.0,
+            "text": " will happen to all, but the photon either gets absorbed or goes through. And if it gets absorbed, then all should get absorbed. And if it goes through, all should go through because they are all identical. And now you have found a situation which identical set of experiments with identically prepared objects sometimes gives you different results. It's a debacle. It's a total disaster. What seems to have happened here-- you suddenly have identical photons, and sometimes they go through, and sometimes they don't go through. And therefore, you've lost predictability. It's so simple to show that if photons exist, you lose predictability. And that's what drove Einstein crazy. He knew when he entered these photons that he was getting in trouble. He was going to get in trouble with classical physics. So possible ways out-- people speculate about it-- people said, well, yes, the photos are identical, but the polarizer has substructure. If it hits in this interatomic part, it goes through, and in that interatomic part, it doesn't go through. People did experiments many times. It's not true. The polarizer is like that. And then came a more outrageous proposition by Einstein and others--",
+            "metrics": {
+                "relativeDCReadability": 0.9044753426624128,
+                "lexicalDiversity": 0.4880382775119617,
+                "posComposition": {
+                    "MD": 0.014,
+                    "VB": 0.038,
+                    "TO": 0.019,
+                    "DT": 0.081,
+                    "CC": 0.067,
+                    "NN": 0.077,
+                    "VBZ": 0.077,
+                    "VBN": 0.029,
+                    "IN": 0.12,
+                    "PRP": 0.105,
+                    "RB": 0.081,
+                    "VBP": 0.048,
+                    "JJ": 0.072,
+                    "WDT": 0.005,
+                    "NNS": 0.067,
+                    "WP": 0.01,
+                    ":": 0.019,
+                    "VBD": 0.038,
+                    "NNP": 0.01,
+                    "WRB": 0.005,
+                    "VBG": 0.01,
+                    "RP": 0.005,
+                    "RBR": 0.005
+                },
+                "syllableRate": 2.633,
+                "topicScores": [
+                    [
+                        "identical",
+                        0.3763111360785954
+                    ],
+                    [
+                        "photon",
+                        0.38501387264292397
+                    ],
+                    [
+                        "Einstein",
+                        0.4276680666500294
+                    ],
+                    [
+                        "predictability",
+                        0.5319842494899532
+                    ],
+                    [
+                        "trouble",
+                        0.5538169429934852
+                    ],
+                    [
+                        "interatomic",
+                        0.5604742106332616
+                    ],
+                    [
+                        "polarizer",
+                        0.568733683863815
+                    ],
+                    [
+                        "experiment",
+                        0.5737937478158104
+                    ],
+                    [
+                        "people",
+                        0.5788719772680405
+                    ],
+                    [
+                        "result",
+                        0.884074280337424
+                    ],
+                    [
+                        "debacle",
+                        0.8903094063074181
+                    ],
+                    [
+                        "disaster",
+                        0.8949976766930178
+                    ],
+                    [
+                        "different",
+                        0.9022264814732238
+                    ],
+                    [
+                        "crazy",
+                        0.9062515767540872
+                    ],
+                    [
+                        "physics",
+                        0.9096489661568277
+                    ],
+                    [
+                        "situation",
+                        0.9097934318006081
+                    ],
+                    [
+                        "set",
+                        0.9097934318006081
+                    ],
+                    [
+                        "object",
+                        0.9097934318006081
+                    ],
+                    [
+                        "substructure",
+                        0.9110474471076574
+                    ],
+                    [
+                        "total",
+                        0.9116104495713163
+                    ],
+                    [
+                        "time",
+                        0.9134147896312995
+                    ],
+                    [
+                        "true",
+                        0.9144292749197144
+                    ],
+                    [
+                        "others--",
+                        0.9162001055446469
+                    ],
+                    [
+                        "here--",
+                        0.921445965639016
+                    ],
+                    [
+                        "classical",
+                        0.9241401846954084
+                    ],
+                    [
+                        "possible",
+                        0.9253327774331152
+                    ],
+                    [
+                        "simple",
+                        0.9257865101630887
+                    ],
+                    [
+                        "way",
+                        0.9312477409591259
+                    ],
+                    [
+                        "out--",
+                        0.9312477409591259
+                    ],
+                    [
+                        "it--",
+                        0.9312477409591259
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "identical",
+                        0.3763111360785954
+                    ],
+                    [
+                        "photon",
+                        0.38501387264292397
+                    ],
+                    [
+                        "Einstein",
+                        0.4276680666500294
+                    ],
+                    [
+                        "polarizer",
+                        0.568733683863815
+                    ],
+                    [
+                        "classical",
+                        0.9241401846954084
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-630": {
+            "id": "8OsUQ1yXCcI-630",
+            "heat": 0.345,
+            "start": 630.0,
+            "text": " that there are hidden variables. You think the photons are identical, but a photon has a hidden variable-- a property you don't know about. If you knew that property about the photon, you would be able to tell if it goes through or it doesn't go through. But you don't know it, so that's why you're stuck with probabilities. It's because the quantum theory is not complete. There are hidden variables. And once you put the hidden variables, you'll discover the photon has more something inside it, and they are not the same, even though they look the same. And that's a hidden variable theory. And it sounds so philosophical that you would think, well, if you don't know about them, but they are there, these properties, how could you ever know they are there? And the great progress of John Bell with the Bell inequalities is that he demonstrated that that would not fix the problem. Quantum mechanics cannot be made deterministic with hidden variables. It was an unbelievable result-- the result of John Bell. So that's something we will advance towards in this course but not quite get there. 805 discusses this subject in detail.",
+            "metrics": {
+                "relativeDCReadability": 0.9124259475439889,
+                "lexicalDiversity": 0.4380952380952381,
+                "posComposition": {
+                    "IN": 0.114,
+                    "EX": 0.01,
+                    "VBP": 0.071,
+                    "JJ": 0.071,
+                    "NNS": 0.048,
+                    "PRP": 0.119,
+                    "DT": 0.105,
+                    "CC": 0.048,
+                    "NN": 0.09,
+                    "VBZ": 0.057,
+                    ":": 0.01,
+                    "RB": 0.086,
+                    "VB": 0.057,
+                    "MD": 0.033,
+                    "TO": 0.005,
+                    "WRB": 0.01,
+                    "VBN": 0.01,
+                    "JJR": 0.005,
+                    "NNP": 0.033,
+                    "VBD": 0.01,
+                    "WDT": 0.005,
+                    "CD": 0.005
+                },
+                "syllableRate": 2.492,
+                "topicScores": [
+                    [
+                        "hidden",
+                        0.2931910879232167
+                    ],
+                    [
+                        "variable",
+                        0.3149283638158055
+                    ],
+                    [
+                        "Bell",
+                        0.3212441837147053
+                    ],
+                    [
+                        "photon",
+                        0.3710623588941933
+                    ],
+                    [
+                        "John",
+                        0.4014715338852726
+                    ],
+                    [
+                        "John Bell",
+                        0.43631993266771213
+                    ],
+                    [
+                        "property",
+                        0.4399167505489381
+                    ],
+                    [
+                        "theory",
+                        0.5602251451493653
+                    ],
+                    [
+                        "quantum",
+                        0.5634346885788454
+                    ],
+                    [
+                        "hidden variable",
+                        0.7856439008868856
+                    ],
+                    [
+                        "identical",
+                        0.8808486807280107
+                    ],
+                    [
+                        "probability",
+                        0.8811704844161211
+                    ],
+                    [
+                        "complete",
+                        0.8875419255300508
+                    ],
+                    [
+                        "problem",
+                        0.903842873724543
+                    ],
+                    [
+                        "stuck",
+                        0.9086090324646715
+                    ],
+                    [
+                        "detail",
+                        0.9100253135550569
+                    ],
+                    [
+                        "mechanic",
+                        0.9214616288533344
+                    ],
+                    [
+                        "philosophical",
+                        0.9247947397462147
+                    ],
+                    [
+                        "great",
+                        0.9264829912106639
+                    ],
+                    [
+                        "progress",
+                        0.9264829912106639
+                    ],
+                    [
+                        "inequality",
+                        0.9264829912106639
+                    ],
+                    [
+                        "deterministic",
+                        0.9279363815666546
+                    ],
+                    [
+                        "unbelievable",
+                        0.9292044806238372
+                    ],
+                    [
+                        "result--",
+                        0.9292044806238372
+                    ],
+                    [
+                        "course",
+                        0.9303234602476684
+                    ],
+                    [
+                        "subject",
+                        0.9313203899772938
+                    ],
+                    [
+                        "Bell inequality",
+                        1.4706886423235006
+                    ],
+                    [
+                        "variable theory",
+                        2.6081420368806127
+                    ],
+                    [
+                        "quantum theory",
+                        3.829681368451068
+                    ],
+                    [
+                        "quantum mechanic",
+                        4.646090386913394
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "hidden",
+                        0.2931910879232167
+                    ],
+                    [
+                        "variable",
+                        0.3149283638158055
+                    ],
+                    [
+                        "Bell",
+                        0.3212441837147053
+                    ],
+                    [
+                        "photon",
+                        0.3710623588941933
+                    ],
+                    [
+                        "quantum",
+                        0.5634346885788454
+                    ],
+                    [
+                        "identical",
+                        0.8808486807280107
+                    ],
+                    [
+                        "inequality",
+                        0.9264829912106639
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-720": {
+            "id": "8OsUQ1yXCcI-720",
+            "heat": 0.347,
+            "start": 720.0,
+            "text": " So at the end of the day, we've lost determinism. We can only predict probabilities. So photons either gets through or not, and can only predict probabilities. Now we write, in classical physics, a beam like that. But how do we write the wave function of a photon? Well, this is quite interesting. We think of states of a particle as wave functions. And I will call them, sometimes, states; I will call them, sometimes, wave functions; and I sometimes will call them vectors. Why vector? Because the main thing you do with vectors is adding them or multiplying them by numbers to scale them. And that's exactly what you can do with a linear equation. So that's why people think of states, or wave functions, as vectors. And Dirac invented a notation in which",
+            "metrics": {
+                "relativeDCReadability": 0.9679434658493207,
+                "lexicalDiversity": 0.4420289855072464,
+                "posComposition": {
+                    "RB": 0.072,
+                    "IN": 0.116,
+                    "DT": 0.094,
+                    "NN": 0.087,
+                    "PRP": 0.116,
+                    "VBP": 0.058,
+                    "VBN": 0.007,
+                    "MD": 0.043,
+                    "VB": 0.058,
+                    "NNS": 0.101,
+                    "NNP": 0.022,
+                    "CC": 0.072,
+                    "VBZ": 0.043,
+                    "RP": 0.007,
+                    "JJ": 0.036,
+                    "WRB": 0.022,
+                    "VBG": 0.014,
+                    "TO": 0.007,
+                    "WP": 0.007,
+                    "VBD": 0.007,
+                    "WDT": 0.007
+                },
+                "syllableRate": 1.617,
+                "topicScores": [
+                    [
+                        "wave",
+                        0.3759623855987777
+                    ],
+                    [
+                        "function",
+                        0.37853529158307636
+                    ],
+                    [
+                        "vector",
+                        0.3864787184031864
+                    ],
+                    [
+                        "state",
+                        0.44527162685045873
+                    ],
+                    [
+                        "probability",
+                        0.467990481781749
+                    ],
+                    [
+                        "photon",
+                        0.5538539548914272
+                    ],
+                    [
+                        "Dirac",
+                        0.7015279518997841
+                    ],
+                    [
+                        "determinism",
+                        0.7735026804874744
+                    ],
+                    [
+                        "day",
+                        0.8168662795627393
+                    ],
+                    [
+                        "end",
+                        0.8343129845760945
+                    ],
+                    [
+                        "classical",
+                        0.889917113540827
+                    ],
+                    [
+                        "interesting",
+                        0.8906652488469707
+                    ],
+                    [
+                        "physics",
+                        0.9019402929023592
+                    ],
+                    [
+                        "beam",
+                        0.9019402929023592
+                    ],
+                    [
+                        "equation",
+                        0.9065611297676569
+                    ],
+                    [
+                        "particle",
+                        0.9265456784585977
+                    ],
+                    [
+                        "linear",
+                        0.9268590986047337
+                    ],
+                    [
+                        "main",
+                        0.9331512565188281
+                    ],
+                    [
+                        "thing",
+                        0.9331512565188281
+                    ],
+                    [
+                        "number",
+                        0.9331512565188281
+                    ],
+                    [
+                        "people",
+                        0.9359679817846386
+                    ],
+                    [
+                        "notation",
+                        0.9371043287431814
+                    ],
+                    [
+                        "wave function",
+                        1.4198663225900285
+                    ],
+                    [
+                        "classical physics",
+                        4.067193572197348
+                    ],
+                    [
+                        "linear equation",
+                        5.259954562786722
+                    ],
+                    [
+                        "main thing",
+                        6.7382171981774475
+                    ]
+                ],
+                "topTopicSimilarity": 0.34615384615384615,
+                "sharedTopicScores": [
+                    [
+                        "wave",
+                        0.3759623855987777
+                    ],
+                    [
+                        "function",
+                        0.37853529158307636
+                    ],
+                    [
+                        "vector",
+                        0.3864787184031864
+                    ],
+                    [
+                        "state",
+                        0.44527162685045873
+                    ],
+                    [
+                        "photon",
+                        0.5538539548914272
+                    ],
+                    [
+                        "classical",
+                        0.889917113540827
+                    ],
+                    [
+                        "beam",
+                        0.9019402929023592
+                    ],
+                    [
+                        "particle",
+                        0.9265456784585977
+                    ],
+                    [
+                        "thing",
+                        0.9331512565188281
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-810": {
+            "id": "8OsUQ1yXCcI-810",
+            "heat": 0.3,
+            "start": 810.0,
+            "text": " to describe a photon polarized in the x direction, you would simply write something like this. Photon colon x and this object-- you think of it as some vector or wave function, and it represents a photon in the x direction. And we're not saying yet what kind of vector this is, but it's some sort of vector. It's not just a symbol, it represents a vector. And that's a possible state. This is a photon polarized along x. And you can also have, if you wish, a photon polarized along y. And linearity means that if those photos can exist, the superposition can exist. So there can exist a state called cos alpha photon x plus sine alpha photon y, in which I've superposed one state with another-- created a sum-- and this I call the photon state polarized in the alpha direction. So this is how, in quantum mechanics, you think of this-- photons-- we will elaborate that and compare with this equation.",
+            "metrics": {
+                "relativeDCReadability": 1.1566744453293127,
+                "lexicalDiversity": 0.5028571428571429,
+                "posComposition": {
+                    "TO": 0.006,
+                    "VB": 0.051,
+                    "DT": 0.16,
+                    "NN": 0.206,
+                    "VBN": 0.034,
+                    "IN": 0.114,
+                    "JJ": 0.034,
+                    "PRP": 0.08,
+                    "MD": 0.034,
+                    "RB": 0.04,
+                    "NNP": 0.011,
+                    "CC": 0.063,
+                    ":": 0.029,
+                    "VBP": 0.034,
+                    "VBZ": 0.051,
+                    "VBG": 0.006,
+                    "WP": 0.006,
+                    "NNS": 0.017,
+                    "WDT": 0.006,
+                    "CD": 0.006,
+                    "VBD": 0.006,
+                    "WRB": 0.006
+                },
+                "syllableRate": 2.067,
+                "topicScores": [
+                    [
+                        "photon",
+                        0.29821165103686786
+                    ],
+                    [
+                        "x",
+                        0.37528322019142824
+                    ],
+                    [
+                        "vector",
+                        0.37759431739843113
+                    ],
+                    [
+                        "state",
+                        0.3981942835080674
+                    ],
+                    [
+                        "direction",
+                        0.40057855657053876
+                    ],
+                    [
+                        "alpha",
+                        0.462657609698366
+                    ],
+                    [
+                        "colon",
+                        0.8572373761282974
+                    ],
+                    [
+                        "wave",
+                        0.8572373761282974
+                    ],
+                    [
+                        "function",
+                        0.8572373761282974
+                    ],
+                    [
+                        "object--",
+                        0.872317709395225
+                    ],
+                    [
+                        "equation",
+                        0.8898141731373815
+                    ],
+                    [
+                        "symbol",
+                        0.8916248794539393
+                    ],
+                    [
+                        "kind",
+                        0.8925079718774318
+                    ],
+                    [
+                        "sort",
+                        0.8925079718774318
+                    ],
+                    [
+                        "possible",
+                        0.8994183419134375
+                    ],
+                    [
+                        "quantum",
+                        0.9035285252626403
+                    ],
+                    [
+                        "superposition",
+                        0.9090446552108571
+                    ],
+                    [
+                        "mechanic",
+                        0.9149045409019145
+                    ],
+                    [
+                        "y.",
+                        0.9191684907454157
+                    ],
+                    [
+                        "linearity",
+                        0.9191684907454157
+                    ],
+                    [
+                        "another--",
+                        0.9220762743417684
+                    ],
+                    [
+                        "sum--",
+                        0.9220762743417684
+                    ],
+                    [
+                        "Photon colon",
+                        2.3519149524589924
+                    ],
+                    [
+                        "wave function",
+                        2.77153431578265
+                    ],
+                    [
+                        "alpha direction",
+                        2.865823003682773
+                    ],
+                    [
+                        "colon x",
+                        2.9522577407988297
+                    ],
+                    [
+                        "alpha photon",
+                        3.033417600774491
+                    ],
+                    [
+                        "photon x",
+                        3.536537963443708
+                    ],
+                    [
+                        "quantum mechanic",
+                        4.768421546120983
+                    ],
+                    [
+                        "photon state",
+                        4.785705712571832
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "photon",
+                        0.29821165103686786
+                    ],
+                    [
+                        "x",
+                        0.37528322019142824
+                    ],
+                    [
+                        "vector",
+                        0.37759431739843113
+                    ],
+                    [
+                        "state",
+                        0.3981942835080674
+                    ],
+                    [
+                        "direction",
+                        0.40057855657053876
+                    ],
+                    [
+                        "alpha",
+                        0.462657609698366
+                    ],
+                    [
+                        "wave",
+                        0.8572373761282974
+                    ],
+                    [
+                        "function",
+                        0.8572373761282974
+                    ],
+                    [
+                        "quantum",
+                        0.9035285252626403
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-900": {
+            "id": "8OsUQ1yXCcI-900",
+            "heat": 0.208,
+            "start": 900.0,
+            "text": " It's kind of interesting. What you lose here is this ease. There's no ease there because it's one photon. When you have a big electric field, I don't know how many photons there are. I would have to calculate the energy of this beam and find the frequency that I didn't specify, and see how many photons. But each photon in this beam quantum mechanically can be represented as this superposition. And we'll talk more about this superposition now because our next subject is superpositions and how unusual they are. Well the hidden variable explanation failed because Bell was very clever, and he noted that you could design an experiment in which the hidden variables would imply that some measurements would satisfy an inequality. If the existed hidden variables and the world was after all classical, the results of experiments would satisfy a Bell inequality. And then a few years later, the technology was good enough that people could test the Bell inequality with an experiment, and they figured out it didn't hold.",
+            "metrics": {
+                "relativeDCReadability": 1.0196847312789843,
+                "lexicalDiversity": 0.4722222222222222,
+                "posComposition": {
+                    "PRP": 0.072,
+                    "VBZ": 0.033,
+                    "NN": 0.133,
+                    "IN": 0.089,
+                    "VBG": 0.006,
+                    "WP": 0.006,
+                    "VBP": 0.028,
+                    "RB": 0.072,
+                    "DT": 0.133,
+                    "EX": 0.011,
+                    "CD": 0.006,
+                    "WRB": 0.022,
+                    "JJ": 0.067,
+                    "VB": 0.078,
+                    "NNS": 0.056,
+                    "MD": 0.044,
+                    "TO": 0.006,
+                    "CC": 0.05,
+                    "VBD": 0.044,
+                    "VBN": 0.006,
+                    "JJR": 0.006,
+                    "PRP$": 0.006,
+                    "NNP": 0.017,
+                    "WDT": 0.006,
+                    "RP": 0.006
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "Bell",
+                        0.3441217259368643
+                    ],
+                    [
+                        "photon",
+                        0.3708909870635323
+                    ],
+                    [
+                        "inequality",
+                        0.43727511453607726
+                    ],
+                    [
+                        "variable",
+                        0.4447249319982383
+                    ],
+                    [
+                        "superposition",
+                        0.4459147984414483
+                    ],
+                    [
+                        "experiment",
+                        0.4493149414816079
+                    ],
+                    [
+                        "ease",
+                        0.5270744557253343
+                    ],
+                    [
+                        "beam",
+                        0.5586467062787723
+                    ],
+                    [
+                        "interesting",
+                        0.8011824672985836
+                    ],
+                    [
+                        "electric",
+                        0.8868549470945739
+                    ],
+                    [
+                        "field",
+                        0.8868549470945739
+                    ],
+                    [
+                        "big",
+                        0.8984627965107582
+                    ],
+                    [
+                        "energy",
+                        0.9040080572154573
+                    ],
+                    [
+                        "frequency",
+                        0.9040080572154573
+                    ],
+                    [
+                        "clever",
+                        0.9040691727715686
+                    ],
+                    [
+                        "classical",
+                        0.9064969131130278
+                    ],
+                    [
+                        "result",
+                        0.9064969131130278
+                    ],
+                    [
+                        "quantum",
+                        0.9081712246174306
+                    ],
+                    [
+                        "year",
+                        0.9085553084285131
+                    ],
+                    [
+                        "technology",
+                        0.9085553084285131
+                    ],
+                    [
+                        "subject",
+                        0.9114364995630863
+                    ],
+                    [
+                        "unusual",
+                        0.9114364995630863
+                    ],
+                    [
+                        "explanation",
+                        0.9140820634306899
+                    ],
+                    [
+                        "measurement",
+                        0.9140820634306899
+                    ],
+                    [
+                        "world",
+                        0.9162798711803499
+                    ],
+                    [
+                        "good",
+                        0.9181423501339866
+                    ],
+                    [
+                        "people",
+                        0.9181423501339866
+                    ],
+                    [
+                        "Bell inequality",
+                        0.9539364877494171
+                    ],
+                    [
+                        "electric field",
+                        3.6840973806035673
+                    ],
+                    [
+                        "big electric",
+                        3.9214094191193936
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "Bell",
+                        0.3441217259368643
+                    ],
+                    [
+                        "photon",
+                        0.3708909870635323
+                    ],
+                    [
+                        "inequality",
+                        0.43727511453607726
+                    ],
+                    [
+                        "variable",
+                        0.4447249319982383
+                    ],
+                    [
+                        "beam",
+                        0.5586467062787723
+                    ],
+                    [
+                        "electric",
+                        0.8868549470945739
+                    ],
+                    [
+                        "field",
+                        0.8868549470945739
+                    ],
+                    [
+                        "energy",
+                        0.9040080572154573
+                    ],
+                    [
+                        "frequency",
+                        0.9040080572154573
+                    ],
+                    [
+                        "classical",
+                        0.9064969131130278
+                    ],
+                    [
+                        "quantum",
+                        0.9081712246174306
+                    ]
+                ]
+            }
+        },
+        "8OsUQ1yXCcI-990": {
+            "id": "8OsUQ1yXCcI-990",
+            "heat": 0.193,
+            "start": 990.0,
+            "text": " So the hidden variables lead to Bell inequalities that are experimentally shown not to hold. And we will touch a little bit on it when we get to untangle them. After the polarizer, the photon is in the state photon x. It's always polarized along the x direction, so it's kind of similar that this doesn't go through. This goes through, but at the end of the day, as we will explain very soon, the cosine alpha is not relevant here. When it goes through, the whole photon goes through. So there's no need for a cosine alpha. So that's what goes out of the polarizer.",
+            "metrics": {
+                "relativeDCReadability": 0.9104609248770303,
+                "lexicalDiversity": 0.43243243243243246,
+                "posComposition": {
+                    "IN": 0.162,
+                    "DT": 0.135,
+                    "JJ": 0.054,
+                    "NNS": 0.018,
+                    "VBP": 0.027,
+                    "TO": 0.027,
+                    "NNP": 0.027,
+                    "WDT": 0.018,
+                    "RB": 0.072,
+                    "VBN": 0.018,
+                    "VB": 0.045,
+                    "CC": 0.018,
+                    "PRP": 0.072,
+                    "MD": 0.018,
+                    "NN": 0.144,
+                    "WRB": 0.018,
+                    "VBZ": 0.099,
+                    "VBD": 0.009,
+                    "EX": 0.009,
+                    "WP": 0.009
+                },
+                "syllableRate": 1.275,
+                "topicScores": [
+                    [
+                        "photon",
+                        0.42344838922400585
+                    ],
+                    [
+                        "Bell",
+                        0.45096768165301376
+                    ],
+                    [
+                        "polarizer",
+                        0.5258844065472636
+                    ],
+                    [
+                        "cosine",
+                        0.5361491395712975
+                    ],
+                    [
+                        "alpha",
+                        0.5375977187635231
+                    ],
+                    [
+                        "Bell inequality",
+                        0.5460604483549607
+                    ],
+                    [
+                        "variable",
+                        0.7831930622760341
+                    ],
+                    [
+                        "x.",
+                        0.8134979166273094
+                    ],
+                    [
+                        "little",
+                        0.8446405328098999
+                    ],
+                    [
+                        "bit",
+                        0.8446405328098999
+                    ],
+                    [
+                        "direction",
+                        0.8674971285663435
+                    ],
+                    [
+                        "state",
+                        0.8685478400908404
+                    ],
+                    [
+                        "day",
+                        0.8767858931867719
+                    ],
+                    [
+                        "relevant",
+                        0.8767858931867719
+                    ],
+                    [
+                        "similar",
+                        0.8816433335330528
+                    ],
+                    [
+                        "end",
+                        0.8900660870759834
+                    ],
+                    [
+                        "need",
+                        0.9004884408905935
+                    ],
+                    [
+                        "cosine alpha",
+                        1.6556338883038388
+                    ],
+                    [
+                        "photon x.",
+                        2.214904449965231
+                    ],
+                    [
+                        "little bit",
+                        2.4893981748856993
+                    ],
+                    [
+                        "state photon",
+                        2.7817244281795546
+                    ]
+                ],
+                "topTopicSimilarity": 0.38095238095238093,
+                "sharedTopicScores": [
+                    [
+                        "photon",
+                        0.42344838922400585
+                    ],
+                    [
+                        "Bell",
+                        0.45096768165301376
+                    ],
+                    [
+                        "polarizer",
+                        0.5258844065472636
+                    ],
+                    [
+                        "cosine",
+                        0.5361491395712975
+                    ],
+                    [
+                        "alpha",
+                        0.5375977187635231
+                    ],
+                    [
+                        "variable",
+                        0.7831930622760341
+                    ],
+                    [
+                        "direction",
+                        0.8674971285663435
+                    ],
+                    [
+                        "state",
+                        0.8685478400908404
+                    ]
+                ]
+            }
+        }
+    }
+}

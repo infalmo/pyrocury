@@ -1,0 +1,2298 @@
+{
+    "metadata": {
+        "id": "IOcrHOc23N4",
+        "avgHeat": 0.4,
+        "runtime": 906.609,
+        "dale-challReadabilityScore": 9.298150739371533,
+        "lexicalDiversity": 0.4976915974145891,
+        "posComposition": {
+            "RB": 0.024,
+            "PRP": 0.037,
+            "VBP": 0.031,
+            "NN": 0.196,
+            "IN": 0.144,
+            "NNS": 0.041,
+            "WDT": 0.009,
+            "VBD": 0.005,
+            "DT": 0.169,
+            "NNP": 0.043,
+            "CD": 0.004,
+            "JJ": 0.075,
+            "VBN": 0.017,
+            "MD": 0.013,
+            "VB": 0.039,
+            "TO": 0.029,
+            "WRB": 0.006,
+            "VBZ": 0.043,
+            "CC": 0.021,
+            "JJR": 0.002,
+            "RBR": 0.002,
+            "PRP$": 0.006,
+            "VBG": 0.028,
+            "POS": 0.003,
+            "EX": 0.002,
+            "WP": 0.004,
+            "RP": 0.0,
+            "JJS": 0.0,
+            "``": 0.002,
+            "''": 0.002
+        },
+        "syllableRate": 3.85,
+        "topicScores": [
+            [
+                "t frame",
+                0.04252350257072799
+            ],
+            [
+                "G",
+                0.08624110114760582
+            ],
+            [
+                "acceleration",
+                0.12131943683810897
+            ],
+            [
+                "Coriolis",
+                0.12206100821635572
+            ],
+            [
+                "rotate",
+                0.1231196503316941
+            ],
+            [
+                "turntable frame",
+                0.12480453989697247
+            ],
+            [
+                "velocity",
+                0.13421042499118555
+            ],
+            [
+                "Coriolis acceleration",
+                0.1646382786771113
+            ],
+            [
+                "rotation",
+                0.1698482924720425
+            ],
+            [
+                "disk",
+                0.17254467176754998
+            ],
+            [
+                "force",
+                0.17256475497430432
+            ],
+            [
+                "Atlantic Ocean",
+                0.17656151556001418
+            ],
+            [
+                "T",
+                0.17850946141714247
+            ],
+            [
+                "reference",
+                0.18309101125205865
+            ],
+            [
+                "video",
+                0.18350093912116486
+            ],
+            [
+                "Coriolis Effect",
+                0.18697913102362043
+            ],
+            [
+                "object",
+                0.19078257595200326
+            ],
+            [
+                "Earth",
+                0.19090660602837298
+            ],
+            [
+                "hurricane",
+                0.1965471837283975
+            ],
+            [
+                "vector",
+                0.19773736920894855
+            ],
+            [
+                "G frame acceleration",
+                0.20044788099312946
+            ],
+            [
+                "term",
+                0.21121453346992594
+            ],
+            [
+                "centripetal",
+                0.22363973693732428
+            ],
+            [
+                "ground frame",
+                0.2318752229808483
+            ],
+            [
+                "northern",
+                0.2325398296395907
+            ],
+            [
+                "hemisphere",
+                0.23424471496495017
+            ],
+            [
+                "angular",
+                0.24368779278659786
+            ],
+            [
+                "fictitious",
+                0.24528298717177013
+            ],
+            [
+                "counterclockwise",
+                0.2489935981564881
+            ],
+            [
+                "point",
+                0.25089736549371106
+            ]
+        ],
+        "topicsList": [
+            "t frame",
+            "G",
+            "acceleration",
+            "Coriolis",
+            "rotate",
+            "turntable frame",
+            "velocity",
+            "Coriolis acceleration",
+            "rotation",
+            "disk",
+            "force",
+            "Atlantic Ocean",
+            "T",
+            "reference",
+            "video",
+            "Coriolis Effect",
+            "object",
+            "Earth",
+            "hurricane",
+            "vector",
+            "G frame acceleration",
+            "term",
+            "centripetal",
+            "ground frame",
+            "northern",
+            "hemisphere",
+            "angular",
+            "fictitious",
+            "counterclockwise",
+            "point"
+        ]
+    },
+    "chunks": {
+        "IOcrHOc23N4-0": {
+            "id": "IOcrHOc23N4-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " Here you see footage of hurricanes that formed in the Atlantic Ocean during 2009. Do you see that every single hurricane rotates counterclockwise? All hurricanes formed in the Northern hemisphere rotate counterclockwise. In this video, we'll provide you with the tools to explain why hurricanes rotate the way that they do. This video is part of the Representations video series. Information can be represented in words, through mathematical symbols, graphically, or in 3-D models. Representations are used to develop a deeper and more flexible understanding of objects, systems, and processes. Hi, my name is Sanjay Sarma, and I am a professor of Mechanical Engineering at MIT. Today we are going to demystify the origins of the forces that appear to act on objects in rotating frames. Before watching this video, you should be familiar with how to define basis vectors; inertial and non-inertial reference frames; and the representation of rotation rates as a vector cross products. After watching this video, you will be able to explain why centrifugal and Coriolis forces arise in rotating frames of reference, and apply your understanding of the Coriolis force to determine the direction of rotation of hurricanes. A frame of reference is a choice of coordinate frame, a set of orthonormal basis vectors.",
+            "metrics": {
+                "relativeDCReadability": 1.0885167232429265,
+                "lexicalDiversity": 0.5285714285714286,
+                "posComposition": {
+                    "RB": 0.01,
+                    "PRP": 0.043,
+                    "VBP": 0.048,
+                    "NN": 0.162,
+                    "IN": 0.148,
+                    "NNS": 0.11,
+                    "WDT": 0.01,
+                    "VBD": 0.005,
+                    "DT": 0.1,
+                    "NNP": 0.076,
+                    "CD": 0.005,
+                    "JJ": 0.048,
+                    "VBN": 0.014,
+                    "MD": 0.019,
+                    "VB": 0.057,
+                    "TO": 0.033,
+                    "WRB": 0.014,
+                    "VBZ": 0.019,
+                    "CC": 0.038,
+                    "JJR": 0.005,
+                    "RBR": 0.005,
+                    "PRP$": 0.01,
+                    "VBG": 0.024
+                },
+                "syllableRate": 3.083,
+                "topicScores": [
+                    [
+                        "Atlantic Ocean",
+                        0.23626638890857873
+                    ],
+                    [
+                        "video",
+                        0.32300432051294864
+                    ],
+                    [
+                        "hurricane",
+                        0.3281978787711855
+                    ],
+                    [
+                        "frame",
+                        0.3331877637425744
+                    ],
+                    [
+                        "reference",
+                        0.4311311543665779
+                    ],
+                    [
+                        "vector",
+                        0.4423635346321229
+                    ],
+                    [
+                        "force",
+                        0.45207891614794876
+                    ],
+                    [
+                        "counterclockwise",
+                        0.4635014804716177
+                    ],
+                    [
+                        "basis",
+                        0.5493412249200241
+                    ],
+                    [
+                        "representation",
+                        0.5570502927549127
+                    ],
+                    [
+                        "understanding",
+                        0.5608079130127473
+                    ],
+                    [
+                        "object",
+                        0.5613595553864846
+                    ],
+                    [
+                        "rotation",
+                        0.5633227146664277
+                    ],
+                    [
+                        "inertial",
+                        0.5671609474858567
+                    ],
+                    [
+                        "northern",
+                        0.5868915965851748
+                    ],
+                    [
+                        "MIT",
+                        0.6216863035149229
+                    ],
+                    [
+                        "Sanjay",
+                        0.6548171624598167
+                    ],
+                    [
+                        "Sarma",
+                        0.6548171624598167
+                    ],
+                    [
+                        "Mechanical",
+                        0.6693858821087241
+                    ],
+                    [
+                        "Engineering",
+                        0.6693858821087241
+                    ],
+                    [
+                        "coriolis",
+                        0.6881484647543941
+                    ],
+                    [
+                        "Sanjay Sarma",
+                        0.7506558892526883
+                    ],
+                    [
+                        "footage",
+                        0.7950854237905288
+                    ],
+                    [
+                        "Mechanical Engineering",
+                        0.811848449765756
+                    ],
+                    [
+                        "model",
+                        0.852259934825273
+                    ],
+                    [
+                        "single",
+                        0.8537915785423527
+                    ],
+                    [
+                        "process",
+                        0.8583156673135167
+                    ],
+                    [
+                        "series",
+                        0.8604701313306441
+                    ],
+                    [
+                        "information",
+                        0.8677849534701286
+                    ],
+                    [
+                        "hemisphere",
+                        0.8764965948034836
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "Atlantic Ocean",
+                        0.23626638890857873
+                    ],
+                    [
+                        "video",
+                        0.32300432051294864
+                    ],
+                    [
+                        "hurricane",
+                        0.3281978787711855
+                    ],
+                    [
+                        "reference",
+                        0.4311311543665779
+                    ],
+                    [
+                        "vector",
+                        0.4423635346321229
+                    ],
+                    [
+                        "force",
+                        0.45207891614794876
+                    ],
+                    [
+                        "counterclockwise",
+                        0.4635014804716177
+                    ],
+                    [
+                        "object",
+                        0.5613595553864846
+                    ],
+                    [
+                        "rotation",
+                        0.5633227146664277
+                    ],
+                    [
+                        "northern",
+                        0.5868915965851748
+                    ],
+                    [
+                        "hemisphere",
+                        0.8764965948034836
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-90": {
+            "id": "IOcrHOc23N4-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " The frame is allowed to undergo rigid body motions. Rigid body motions include translation, rotation, or a combination of translation and rotation. As a frame of reference undergoes a rigid body motion, the 3 basis vectors retain their unit length and remain mutually orthogonal. In this video, we are going to focus on rotating frames of reference. In particular, we want to think about frames that are rotating with constant angular velocity and that aren't translating. Rotating frames of reference are non-inertial, thus we detect fictitious forces in them. We are going to explain how these so called fictitious forces arise. This is a turntable. We say that we are in the turntable frame of reference because the camera is mounted to the turntable. From this frame of reference, it appears that the turntable is stationary as the world spins around us, despite the fact that our experience tells us it is the turntable that is spinning. Here you see an orange disk attached to the turntable by a string. If we rotate the turntable quickly enough to overcome the friction between the disk and the turntable, you notice that the string becomes taut. Newton's second law implies that there must be a force equal and opposite to this tension force for the disk to remain stationary! This apparent force is what we call a fictitious force. Let's rotate the turntable with two",
+            "metrics": {
+                "relativeDCReadability": 1.020586955952686,
+                "lexicalDiversity": 0.5338983050847458,
+                "posComposition": {
+                    "DT": 0.136,
+                    "NN": 0.165,
+                    "VBZ": 0.047,
+                    "VBN": 0.008,
+                    "TO": 0.038,
+                    "VB": 0.038,
+                    "JJ": 0.114,
+                    "NNS": 0.042,
+                    "NNP": 0.013,
+                    "VBP": 0.068,
+                    "CC": 0.025,
+                    "IN": 0.123,
+                    "CD": 0.008,
+                    "PRP$": 0.008,
+                    "RB": 0.03,
+                    "PRP": 0.064,
+                    "VBG": 0.03,
+                    "WDT": 0.008,
+                    "WRB": 0.004,
+                    "VBD": 0.008,
+                    "POS": 0.008,
+                    "EX": 0.004,
+                    "MD": 0.004,
+                    "WP": 0.004
+                },
+                "syllableRate": 3.15,
+                "topicScores": [
+                    [
+                        "turntable",
+                        0.2582552878449519
+                    ],
+                    [
+                        "frame",
+                        0.2659599943786649
+                    ],
+                    [
+                        "reference",
+                        0.30407823803297934
+                    ],
+                    [
+                        "force",
+                        0.3132680162472795
+                    ],
+                    [
+                        "rigid",
+                        0.3509873442492651
+                    ],
+                    [
+                        "body",
+                        0.3514008733805333
+                    ],
+                    [
+                        "motion",
+                        0.35703762563823765
+                    ],
+                    [
+                        "fictitious",
+                        0.4251372816475794
+                    ],
+                    [
+                        "disk",
+                        0.43973553159770995
+                    ],
+                    [
+                        "rotation",
+                        0.48680753818610184
+                    ],
+                    [
+                        "rigid body",
+                        0.4868726929774431
+                    ],
+                    [
+                        "body motion",
+                        0.5037204583351396
+                    ],
+                    [
+                        "translation",
+                        0.5119344351777021
+                    ],
+                    [
+                        "stationary",
+                        0.5585017248484103
+                    ],
+                    [
+                        "string",
+                        0.5585017248484103
+                    ],
+                    [
+                        "orthogonal",
+                        0.843453750408763
+                    ],
+                    [
+                        "rigid body motion",
+                        0.8463930376614816
+                    ],
+                    [
+                        "combination",
+                        0.8542918629110633
+                    ],
+                    [
+                        "basis",
+                        0.8769303875913175
+                    ],
+                    [
+                        "vector",
+                        0.8769303875913175
+                    ],
+                    [
+                        "unit",
+                        0.8769303875913175
+                    ],
+                    [
+                        "length",
+                        0.8769303875913175
+                    ],
+                    [
+                        "particular",
+                        0.8792100283732358
+                    ],
+                    [
+                        "video",
+                        0.8802372932303522
+                    ],
+                    [
+                        "inertial",
+                        0.8856729476041876
+                    ],
+                    [
+                        "non",
+                        0.8947611759874539
+                    ],
+                    [
+                        "taut",
+                        0.8952977586176438
+                    ],
+                    [
+                        "Newton",
+                        0.8970764937175061
+                    ],
+                    [
+                        "constant",
+                        0.8972387910074968
+                    ],
+                    [
+                        "angular",
+                        0.8972387910074968
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "reference",
+                        0.30407823803297934
+                    ],
+                    [
+                        "force",
+                        0.3132680162472795
+                    ],
+                    [
+                        "fictitious",
+                        0.4251372816475794
+                    ],
+                    [
+                        "disk",
+                        0.43973553159770995
+                    ],
+                    [
+                        "rotation",
+                        0.48680753818610184
+                    ],
+                    [
+                        "vector",
+                        0.8769303875913175
+                    ],
+                    [
+                        "video",
+                        0.8802372932303522
+                    ],
+                    [
+                        "angular",
+                        0.8972387910074968
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-180": {
+            "id": "IOcrHOc23N4-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " disks\u2014one is attached to the table by a string, while the other is unattached. The fictitious force causes the unattached disk to fly off of the Turntable. Is there really a force? If so, where does it come from? Pause the video and discuss. In addition to the Turntable frame, there is another frame of reference that will be useful in our analysis. This is the ground frame, G, which is any coordinate frame that appears to be stationary while standing on the ground. The Turntable frame, T, refers to any coordinate frame that appears stationary while standing on the Turntable. From the ground frame, the T frame is rotating counterclockwise with constant angular velocity, or almost constant angular velocity. It is important to be explicit about the particular frame of reference used to describe a velocity or acceleration vector. The velocity of the stationary vector is zero in the G frame, but the velocity of the rotating vector is zero in the T frame. We will denote the frame of such a vector by using a left superscript G or T to designate if we are considering the vector as an object in the G frame or the T frame. In the T frame, the position of the disk is fixed, so its velocity and acceleration are both zero. Pause the video here to determine the velocity of the disk as seen from the ground frame.",
+            "metrics": {
+                "relativeDCReadability": 1.0114085316498072,
+                "lexicalDiversity": 0.4472573839662447,
+                "posComposition": {
+                    "NN": 0.219,
+                    "VBZ": 0.072,
+                    "VBN": 0.021,
+                    "TO": 0.038,
+                    "DT": 0.177,
+                    "IN": 0.135,
+                    "JJ": 0.076,
+                    "VB": 0.038,
+                    "NNP": 0.059,
+                    "EX": 0.008,
+                    "RB": 0.021,
+                    "WRB": 0.004,
+                    "PRP": 0.017,
+                    "CC": 0.03,
+                    "WDT": 0.017,
+                    "MD": 0.008,
+                    "PRP$": 0.008,
+                    "VBG": 0.025,
+                    "NNS": 0.004,
+                    "CD": 0.013,
+                    "VBP": 0.008
+                },
+                "syllableRate": 3.092,
+                "topicScores": [
+                    [
+                        "frame",
+                        0.1766789112369532
+                    ],
+                    [
+                        "t",
+                        0.19014376107129352
+                    ],
+                    [
+                        "t frame",
+                        0.23699377491978574
+                    ],
+                    [
+                        "velocity",
+                        0.2554510381280842
+                    ],
+                    [
+                        "G",
+                        0.26919498745368187
+                    ],
+                    [
+                        "Turntable",
+                        0.3143336139496366
+                    ],
+                    [
+                        "vector",
+                        0.319278697683008
+                    ],
+                    [
+                        "ground",
+                        0.3226386285857964
+                    ],
+                    [
+                        "disk",
+                        0.3398582956714877
+                    ],
+                    [
+                        "turntable frame",
+                        0.39518891736652956
+                    ],
+                    [
+                        "stationary",
+                        0.4164308309614812
+                    ],
+                    [
+                        "unattached",
+                        0.46754093468720737
+                    ],
+                    [
+                        "force",
+                        0.49797519891594466
+                    ],
+                    [
+                        "coordinate",
+                        0.5261597020734999
+                    ],
+                    [
+                        "reference",
+                        0.5342305700013272
+                    ],
+                    [
+                        "video",
+                        0.5380891001972855
+                    ],
+                    [
+                        "angular",
+                        0.5383573810554901
+                    ],
+                    [
+                        "acceleration",
+                        0.5438040961616046
+                    ],
+                    [
+                        "constant",
+                        0.5480955747844088
+                    ],
+                    [
+                        "ground frame",
+                        0.5893435286350077
+                    ],
+                    [
+                        "string",
+                        0.7744414475571225
+                    ],
+                    [
+                        "fictitious",
+                        0.8378557894491616
+                    ],
+                    [
+                        "analysis",
+                        0.8795953468876393
+                    ],
+                    [
+                        "addition",
+                        0.8911867234003792
+                    ],
+                    [
+                        "useful",
+                        0.8963878480285083
+                    ],
+                    [
+                        "counterclockwise",
+                        0.9071794556514484
+                    ],
+                    [
+                        "important",
+                        0.9095363596441235
+                    ],
+                    [
+                        "explicit",
+                        0.9095363596441235
+                    ],
+                    [
+                        "particular",
+                        0.9095363596441235
+                    ],
+                    [
+                        "position",
+                        0.9103871724650344
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "t frame",
+                        0.23699377491978574
+                    ],
+                    [
+                        "velocity",
+                        0.2554510381280842
+                    ],
+                    [
+                        "G",
+                        0.26919498745368187
+                    ],
+                    [
+                        "vector",
+                        0.319278697683008
+                    ],
+                    [
+                        "disk",
+                        0.3398582956714877
+                    ],
+                    [
+                        "turntable frame",
+                        0.39518891736652956
+                    ],
+                    [
+                        "force",
+                        0.49797519891594466
+                    ],
+                    [
+                        "reference",
+                        0.5342305700013272
+                    ],
+                    [
+                        "video",
+                        0.5380891001972855
+                    ],
+                    [
+                        "angular",
+                        0.5383573810554901
+                    ],
+                    [
+                        "acceleration",
+                        0.5438040961616046
+                    ],
+                    [
+                        "ground frame",
+                        0.5893435286350077
+                    ],
+                    [
+                        "fictitious",
+                        0.8378557894491616
+                    ],
+                    [
+                        "counterclockwise",
+                        0.9071794556514484
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-270": {
+            "id": "IOcrHOc23N4-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " According to the G frame, the T frame is rotating with some angular velocity, represented by the vector omega. Omega points along the axis of rotation with magnitude equal to the angular velocity. The velocity of the disk according to the G frame is entirely due to the rotation of the T frame, and thus can be represented by omega cross r. Recall that in general, any object that is moving on the turntable will have a velocity that can be defined in the T-frame. The velocity in the G-frame can be found as the sum of the velocity in the T-frame and the velocity that arises due to the rotation of the T-frame with respect to the G-frame. We can think of this as a rule for taking the time derivative of the position vector r in both the G-frame and the T-frame. We can generalize this as a formula for how to take the time derivative in the G frame of any vector, x, in terms of its T-frame derivative. This formula holds when the T frame is rotating, but not translating with respect to the G frame. Use this formula to take the time derivative of velocity. Try to find the general formula for the acceleration in the ground frame in terms of the acceleration in the turntable",
+            "metrics": {
+                "relativeDCReadability": 1.0369232980264484,
+                "lexicalDiversity": 0.45248868778280543,
+                "posComposition": {
+                    "VBG": 0.032,
+                    "TO": 0.045,
+                    "DT": 0.208,
+                    "NNP": 0.068,
+                    "NN": 0.231,
+                    "VBZ": 0.027,
+                    "IN": 0.163,
+                    "JJ": 0.059,
+                    "VBN": 0.018,
+                    "NNS": 0.014,
+                    "RB": 0.014,
+                    "CC": 0.018,
+                    "MD": 0.027,
+                    "VB": 0.041,
+                    "WDT": 0.014,
+                    "PRP": 0.009,
+                    "WRB": 0.009,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.833,
+                "topicScores": [
+                    [
+                        "G frame",
+                        0.1004771715574819
+                    ],
+                    [
+                        "T",
+                        0.14492349582991462
+                    ],
+                    [
+                        "velocity",
+                        0.2055789395327305
+                    ],
+                    [
+                        "derivative",
+                        0.3115475651171491
+                    ],
+                    [
+                        "formula",
+                        0.3353660482196811
+                    ],
+                    [
+                        "omega",
+                        0.343592587269345
+                    ],
+                    [
+                        "rotation",
+                        0.3553367320147495
+                    ],
+                    [
+                        "time",
+                        0.3635999316018542
+                    ],
+                    [
+                        "vector",
+                        0.37719944155372087
+                    ],
+                    [
+                        "angular",
+                        0.43169729296477577
+                    ],
+                    [
+                        "respect",
+                        0.49992948229725814
+                    ],
+                    [
+                        "turntable",
+                        0.5076066958744706
+                    ],
+                    [
+                        "angular velocity",
+                        0.5077027221442639
+                    ],
+                    [
+                        "term",
+                        0.5114202402193906
+                    ],
+                    [
+                        "general",
+                        0.5183196269477799
+                    ],
+                    [
+                        "Recall",
+                        0.5317047787532856
+                    ],
+                    [
+                        "acceleration",
+                        0.5332353758016388
+                    ],
+                    [
+                        "time derivative",
+                        0.5549633110198712
+                    ],
+                    [
+                        "axis",
+                        0.8218757985481135
+                    ],
+                    [
+                        "magnitude",
+                        0.8218757985481135
+                    ],
+                    [
+                        "equal",
+                        0.8218757985481135
+                    ],
+                    [
+                        "r. Recall",
+                        0.8222763208797462
+                    ],
+                    [
+                        "object",
+                        0.8422058494650201
+                    ],
+                    [
+                        "disk",
+                        0.8486585452973852
+                    ],
+                    [
+                        "cross",
+                        0.8486585452973852
+                    ],
+                    [
+                        "sum",
+                        0.8634238757436936
+                    ],
+                    [
+                        "rule",
+                        0.8729563674395125
+                    ],
+                    [
+                        "position",
+                        0.8729563674395125
+                    ],
+                    [
+                        "ground",
+                        0.8920277209103538
+                    ],
+                    [
+                        "ground frame",
+                        1.0617243246678274
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "T",
+                        0.14492349582991462
+                    ],
+                    [
+                        "velocity",
+                        0.2055789395327305
+                    ],
+                    [
+                        "rotation",
+                        0.3553367320147495
+                    ],
+                    [
+                        "vector",
+                        0.37719944155372087
+                    ],
+                    [
+                        "angular",
+                        0.43169729296477577
+                    ],
+                    [
+                        "term",
+                        0.5114202402193906
+                    ],
+                    [
+                        "acceleration",
+                        0.5332353758016388
+                    ],
+                    [
+                        "object",
+                        0.8422058494650201
+                    ],
+                    [
+                        "disk",
+                        0.8486585452973852
+                    ],
+                    [
+                        "ground frame",
+                        1.0617243246678274
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-360": {
+            "id": "IOcrHOc23N4-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " frame and various other terms. Pause the video while you carry out the computation. Looking at this formula, the first term is the object's acceleration as observed in the T frame. The remaining terms can be thought of as giving rise to the fictitious forces, which cause the acceleration observed in the T frame. The second term is the due to the angular acceleration of the T frame with respect to the G frame. This third term is the Coriolis acceleration\u2014note that it depends on the velocity vector of the object in the T frame. And this last term is the centripetal acceleration\u2014observe that it depends on how far the object is from the axis of rotation. Given this information, pause the video and determine the acceleration of the orange disk in the ground frame? The velocity and acceleration of the disk are zero in the T frame of reference. We did our best to rotate the turntable in this video with constant angular velocity. So we will assume that the angular acceleration is negligible.",
+            "metrics": {
+                "relativeDCReadability": 1.0067142457096254,
+                "lexicalDiversity": 0.4602272727272727,
+                "posComposition": {
+                    "NN": 0.222,
+                    "CC": 0.023,
+                    "JJ": 0.085,
+                    "NNS": 0.017,
+                    "IN": 0.159,
+                    "DT": 0.199,
+                    "PRP": 0.028,
+                    "VBP": 0.023,
+                    "RP": 0.006,
+                    "VBG": 0.017,
+                    "VBZ": 0.051,
+                    "POS": 0.006,
+                    "VBN": 0.011,
+                    "NNP": 0.045,
+                    "MD": 0.011,
+                    "VB": 0.023,
+                    "TO": 0.023,
+                    "WDT": 0.006,
+                    "VBD": 0.017,
+                    "WRB": 0.006,
+                    "RB": 0.006,
+                    "CD": 0.006,
+                    "PRP$": 0.006,
+                    "JJS": 0.006
+                },
+                "syllableRate": 2.375,
+                "topicScores": [
+                    [
+                        "t frame",
+                        0.14181043020629705
+                    ],
+                    [
+                        "acceleration",
+                        0.22518157030256264
+                    ],
+                    [
+                        "term",
+                        0.24186963530707054
+                    ],
+                    [
+                        "object",
+                        0.3974707841893236
+                    ],
+                    [
+                        "velocity",
+                        0.3993610211884379
+                    ],
+                    [
+                        "video",
+                        0.40136176030394005
+                    ],
+                    [
+                        "angular",
+                        0.4018358333194394
+                    ],
+                    [
+                        "disk",
+                        0.5292477144714681
+                    ],
+                    [
+                        "G",
+                        0.6027249870995075
+                    ],
+                    [
+                        "Coriolis",
+                        0.6122137340626606
+                    ],
+                    [
+                        "Coriolis acceleration",
+                        0.7762099235799322
+                    ],
+                    [
+                        "computation",
+                        0.8354242511096295
+                    ],
+                    [
+                        "angular acceleration",
+                        0.8489720272296756
+                    ],
+                    [
+                        "formula",
+                        0.8612344718001308
+                    ],
+                    [
+                        "fictitious",
+                        0.8685153465396589
+                    ],
+                    [
+                        "force",
+                        0.8685153465396589
+                    ],
+                    [
+                        "rotation",
+                        0.8690025084812999
+                    ],
+                    [
+                        "second",
+                        0.8740032882301964
+                    ],
+                    [
+                        "rise",
+                        0.8748168700761005
+                    ],
+                    [
+                        "reference",
+                        0.8749015986153614
+                    ],
+                    [
+                        "negligible",
+                        0.8792837596940998
+                    ],
+                    [
+                        "respect",
+                        0.8800781133343861
+                    ],
+                    [
+                        "centripetal",
+                        0.8818272707815632
+                    ],
+                    [
+                        "vector",
+                        0.8842149737230642
+                    ],
+                    [
+                        "information",
+                        0.8847461334029214
+                    ],
+                    [
+                        "ground",
+                        0.8847461334029214
+                    ],
+                    [
+                        "axis",
+                        0.8875733933816465
+                    ],
+                    [
+                        "orange",
+                        0.8903679721027765
+                    ],
+                    [
+                        "good",
+                        0.8947841440598338
+                    ],
+                    [
+                        "turntable",
+                        0.8947841440598338
+                    ]
+                ],
+                "topTopicSimilarity": 0.5666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "t frame",
+                        0.14181043020629705
+                    ],
+                    [
+                        "acceleration",
+                        0.22518157030256264
+                    ],
+                    [
+                        "term",
+                        0.24186963530707054
+                    ],
+                    [
+                        "object",
+                        0.3974707841893236
+                    ],
+                    [
+                        "velocity",
+                        0.3993610211884379
+                    ],
+                    [
+                        "video",
+                        0.40136176030394005
+                    ],
+                    [
+                        "angular",
+                        0.4018358333194394
+                    ],
+                    [
+                        "disk",
+                        0.5292477144714681
+                    ],
+                    [
+                        "G",
+                        0.6027249870995075
+                    ],
+                    [
+                        "Coriolis",
+                        0.6122137340626606
+                    ],
+                    [
+                        "Coriolis acceleration",
+                        0.7762099235799322
+                    ],
+                    [
+                        "fictitious",
+                        0.8685153465396589
+                    ],
+                    [
+                        "force",
+                        0.8685153465396589
+                    ],
+                    [
+                        "rotation",
+                        0.8690025084812999
+                    ],
+                    [
+                        "reference",
+                        0.8749015986153614
+                    ],
+                    [
+                        "centripetal",
+                        0.8818272707815632
+                    ],
+                    [
+                        "vector",
+                        0.8842149737230642
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-450": {
+            "id": "IOcrHOc23N4-450",
+            "heat": 0.147,
+            "start": 450.0,
+            "text": " Thus the acceleration in the G-frame is given completely by the centripetal acceleration term. This vector points in the negative r direction with a magnitude given by the distance from the axis multiplied by the angular velocity squared. In the G frame, which is inertial, we do not observe effects of the so-called \"fictitious forces\". Remember, the disk wants to move in a straight line. It doesn't want to turn. The string imparts a tension force upon the orange disk, which provides the centripetal acceleration needed for the disk to rotate with the Turntable. But in the non-inertial T frame, we may think we observe a \"fictitious force\". The only thing that is fictitious is your perception that the disk is not accelerating. It is a \"physical illusion\" created by the fact that from the turntable frame of reference, you don't observe the centripetal acceleration of the turntable. In this video clip, we are rolling tennis balls through a plastic tube. In the T frame, we observe that the ball moves along a curved path. The curved motion observed in a rotating frame of reference is called the \"Coriolis Effect.\" Pause the video and explain what you think is causing this curved motion.",
+            "metrics": {
+                "relativeDCReadability": 1.0571567725033955,
+                "lexicalDiversity": 0.5352112676056338,
+                "posComposition": {
+                    "RB": 0.028,
+                    "DT": 0.178,
+                    "NN": 0.202,
+                    "IN": 0.131,
+                    "NNP": 0.033,
+                    "VBZ": 0.061,
+                    "VBN": 0.042,
+                    "JJ": 0.094,
+                    "NNS": 0.019,
+                    "WDT": 0.014,
+                    "PRP": 0.042,
+                    "VBP": 0.028,
+                    "VB": 0.038,
+                    "``": 0.019,
+                    "''": 0.019,
+                    "TO": 0.014,
+                    "CC": 0.009,
+                    "MD": 0.005,
+                    "PRP$": 0.005,
+                    "VBG": 0.014,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.717,
+                "topicScores": [
+                    [
+                        "G",
+                        0.24835719250979177
+                    ],
+                    [
+                        "frame",
+                        0.2578898991696144
+                    ],
+                    [
+                        "acceleration",
+                        0.3096650736805668
+                    ],
+                    [
+                        "disk",
+                        0.3268845328622902
+                    ],
+                    [
+                        "force",
+                        0.3715526669292287
+                    ],
+                    [
+                        "centripetal",
+                        0.38011957294615123
+                    ],
+                    [
+                        "fictitious",
+                        0.38483557789556366
+                    ],
+                    [
+                        "G frame",
+                        0.3985789711756856
+                    ],
+                    [
+                        "curved",
+                        0.405237845894608
+                    ],
+                    [
+                        "inertial",
+                        0.5092493063176793
+                    ],
+                    [
+                        "reference",
+                        0.5200669209243316
+                    ],
+                    [
+                        "motion",
+                        0.5264572603899823
+                    ],
+                    [
+                        "turntable",
+                        0.5297354151663733
+                    ],
+                    [
+                        "video",
+                        0.5361685096679066
+                    ],
+                    [
+                        "ball",
+                        0.5384804661603088
+                    ],
+                    [
+                        "centripetal acceleration",
+                        0.6028451080511756
+                    ],
+                    [
+                        "Effect",
+                        0.6124227406589989
+                    ],
+                    [
+                        "Coriolis Effect",
+                        0.63100959922726
+                    ],
+                    [
+                        "term",
+                        0.7105796940237418
+                    ],
+                    [
+                        "velocity",
+                        0.8078462255787404
+                    ],
+                    [
+                        "vector",
+                        0.8078462255787405
+                    ],
+                    [
+                        "negative",
+                        0.8172191023259122
+                    ],
+                    [
+                        "direction",
+                        0.8172191023259122
+                    ],
+                    [
+                        "magnitude",
+                        0.8172191023259122
+                    ],
+                    [
+                        "distance",
+                        0.8172191023259122
+                    ],
+                    [
+                        "axis",
+                        0.8172191023259122
+                    ],
+                    [
+                        "angular",
+                        0.8172191023259122
+                    ],
+                    [
+                        "line",
+                        0.835058937650366
+                    ],
+                    [
+                        "fictitious force",
+                        0.8430217713361334
+                    ],
+                    [
+                        "straight",
+                        0.8520777696362152
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "G",
+                        0.24835719250979177
+                    ],
+                    [
+                        "acceleration",
+                        0.3096650736805668
+                    ],
+                    [
+                        "disk",
+                        0.3268845328622902
+                    ],
+                    [
+                        "force",
+                        0.3715526669292287
+                    ],
+                    [
+                        "centripetal",
+                        0.38011957294615123
+                    ],
+                    [
+                        "fictitious",
+                        0.38483557789556366
+                    ],
+                    [
+                        "reference",
+                        0.5200669209243316
+                    ],
+                    [
+                        "video",
+                        0.5361685096679066
+                    ],
+                    [
+                        "Coriolis Effect",
+                        0.63100959922726
+                    ],
+                    [
+                        "term",
+                        0.7105796940237418
+                    ],
+                    [
+                        "velocity",
+                        0.8078462255787404
+                    ],
+                    [
+                        "vector",
+                        0.8078462255787405
+                    ],
+                    [
+                        "angular",
+                        0.8172191023259122
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-540": {
+            "id": "IOcrHOc23N4-540",
+            "heat": 0.236,
+            "start": 540.0,
+            "text": " To better understand what is happening, let's look at the same motion from the inertial ground frame. But first, what do you think the motion of the ball will be when observed from the Ground frame? Pause the video and make a prediction. That's right. The path is a rather straight line along the initial trajectory! It is the motion of the turntable that is curved as the turntable rotates counterclockwise. But from the turntable frame, points on the turntable appear stationary, because you are rotating with the frame. So you perceive that the ball is curving to the right, even though it is you that is moving in a circular path. You might try to explain the curvature using fictitious forces. But we know that these forces are really just accelerations of the turntable frame that we do not perceive. Let's use what we know about the G frame to understand what these accelerations are in the T frame. Using the general formula for acceleration in a rotating frame that we found earlier, pause here and determine the acceleration in the T frame. Because the velocity is essentially constant in the G frame, the G frame acceleration is",
+            "metrics": {
+                "relativeDCReadability": 0.8552589806276281,
+                "lexicalDiversity": 0.4752475247524752,
+                "posComposition": {
+                    "TO": 0.02,
+                    "JJR": 0.005,
+                    "VB": 0.05,
+                    "WP": 0.02,
+                    "VBZ": 0.05,
+                    "VBG": 0.03,
+                    "NN": 0.168,
+                    "POS": 0.01,
+                    "IN": 0.124,
+                    "DT": 0.158,
+                    "JJ": 0.084,
+                    "CC": 0.025,
+                    "VBP": 0.045,
+                    "PRP": 0.054,
+                    "MD": 0.01,
+                    "WRB": 0.005,
+                    "VBN": 0.01,
+                    "NNP": 0.045,
+                    "WDT": 0.015,
+                    "RB": 0.035,
+                    "NNS": 0.03,
+                    "VBD": 0.005,
+                    "RBR": 0.005
+                },
+                "syllableRate": 2.525,
+                "topicScores": [
+                    [
+                        "frame",
+                        0.20324669618433108
+                    ],
+                    [
+                        "G",
+                        0.27577498455618377
+                    ],
+                    [
+                        "turntable",
+                        0.29683023576153095
+                    ],
+                    [
+                        "acceleration",
+                        0.31404120996234947
+                    ],
+                    [
+                        "G frame",
+                        0.33594823245761646
+                    ],
+                    [
+                        "motion",
+                        0.3545337438362478
+                    ],
+                    [
+                        "rotate",
+                        0.4149291235813029
+                    ],
+                    [
+                        "Ground",
+                        0.4832928277017706
+                    ],
+                    [
+                        "ball",
+                        0.5076794264796481
+                    ],
+                    [
+                        "right",
+                        0.5137422768173363
+                    ],
+                    [
+                        "path",
+                        0.516186242593318
+                    ],
+                    [
+                        "pause",
+                        0.5202557454742531
+                    ],
+                    [
+                        "force",
+                        0.531053729345895
+                    ],
+                    [
+                        "Ground frame",
+                        0.5435493510367351
+                    ],
+                    [
+                        "inertial",
+                        0.7544542278607952
+                    ],
+                    [
+                        "turntable frame",
+                        0.7999950848040157
+                    ],
+                    [
+                        "prediction",
+                        0.8219241909794325
+                    ],
+                    [
+                        "video",
+                        0.8489409688308506
+                    ],
+                    [
+                        "trajectory",
+                        0.8497543196683132
+                    ],
+                    [
+                        "counterclockwise",
+                        0.8575379067924723
+                    ],
+                    [
+                        "initial",
+                        0.8660015189248126
+                    ],
+                    [
+                        "straight",
+                        0.8732002227548821
+                    ],
+                    [
+                        "line",
+                        0.8732002227548821
+                    ],
+                    [
+                        "stationary",
+                        0.878393622456797
+                    ],
+                    [
+                        "circular",
+                        0.8825808387297956
+                    ],
+                    [
+                        "fictitious",
+                        0.8859805454159557
+                    ],
+                    [
+                        "curvature",
+                        0.8922394883541299
+                    ],
+                    [
+                        "general",
+                        0.8991849605409504
+                    ],
+                    [
+                        "formula",
+                        0.8991849605409504
+                    ],
+                    [
+                        "velocity",
+                        0.9009049671879398
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "G",
+                        0.27577498455618377
+                    ],
+                    [
+                        "acceleration",
+                        0.31404120996234947
+                    ],
+                    [
+                        "rotate",
+                        0.4149291235813029
+                    ],
+                    [
+                        "force",
+                        0.531053729345895
+                    ],
+                    [
+                        "turntable frame",
+                        0.7999950848040157
+                    ],
+                    [
+                        "video",
+                        0.8489409688308506
+                    ],
+                    [
+                        "counterclockwise",
+                        0.8575379067924723
+                    ],
+                    [
+                        "fictitious",
+                        0.8859805454159557
+                    ],
+                    [
+                        "velocity",
+                        0.9009049671879398
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-630": {
+            "id": "IOcrHOc23N4-630",
+            "heat": 0.216,
+            "start": 630.0,
+            "text": " zero. We can rearrange the remaining nonzero terms to find an expression for the acceleration of the ball that we observe in the T frame. We find it is equal and opposite the sum of the Coriolis acceleration and the Centripetal acceleration. This term is the negative of the Centripetal acceleration, which we saw in the previous example. This acceleration is always pointing outwards from the center of rotation. This second term is the negative Coriolis acceleration. This acceleration is perpendicular to the velocity of the ball in the T frame, creating the curvature of the ball's path. We've said the accelerations are created by the rotation of the turntable. How does this happen? For an object to rotate with the turntable, a centripetal acceleration is required. Without it, an object appears to move outwards from the center of rotation. Even more is happening though. Because of the rigid body rotation, the velocity of a point near the outside edge of the turntable is greater than the velocity of point near the center of rotation. Moving objects accelerate due to this velocity differential. The acceleration is perpendicular to the velocity of the object. But you don't realize this acceleration exists from the turntable frame, because you don't perceive your own rotation. The acceleration created by this velocity differential between points on the turntable is responsible for the Coriolis effect, curving the paths of moving objects. You can feel these accelerations yourself if you walk around on a carousel. Or you can",
+            "metrics": {
+                "relativeDCReadability": 0.9605241852562865,
+                "lexicalDiversity": 0.47843137254901963,
+                "posComposition": {
+                    "NN": 0.204,
+                    "PRP": 0.051,
+                    "MD": 0.012,
+                    "VB": 0.035,
+                    "DT": 0.2,
+                    "VBG": 0.027,
+                    "NNS": 0.035,
+                    "TO": 0.024,
+                    "IN": 0.153,
+                    "VBP": 0.027,
+                    "NNP": 0.027,
+                    "VBZ": 0.055,
+                    "JJ": 0.071,
+                    "CC": 0.016,
+                    "WDT": 0.004,
+                    "VBD": 0.008,
+                    "RB": 0.024,
+                    "POS": 0.004,
+                    "VBN": 0.012,
+                    "RBR": 0.004,
+                    "JJR": 0.004,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 3.767,
+                "topicScores": [
+                    [
+                        "acceleration",
+                        0.18799135715950047
+                    ],
+                    [
+                        "Coriolis",
+                        0.2648449938400107
+                    ],
+                    [
+                        "rotation",
+                        0.26647370521397845
+                    ],
+                    [
+                        "velocity",
+                        0.266892849843038
+                    ],
+                    [
+                        "centripetal",
+                        0.2781444771145384
+                    ],
+                    [
+                        "turntable",
+                        0.2987847856005397
+                    ],
+                    [
+                        "object",
+                        0.3010973134117544
+                    ],
+                    [
+                        "centripetal acceleration",
+                        0.3307907236531587
+                    ],
+                    [
+                        "point",
+                        0.3542707262563643
+                    ],
+                    [
+                        "term",
+                        0.38479792474908975
+                    ],
+                    [
+                        "Coriolis acceleration",
+                        0.38526557508059445
+                    ],
+                    [
+                        "center",
+                        0.3911820145676059
+                    ],
+                    [
+                        "frame",
+                        0.3952993681953809
+                    ],
+                    [
+                        "ball",
+                        0.39861122385409137
+                    ],
+                    [
+                        "t frame",
+                        0.3995668011597889
+                    ],
+                    [
+                        "negative",
+                        0.520385359569574
+                    ],
+                    [
+                        "perpendicular",
+                        0.5291343421556503
+                    ],
+                    [
+                        "outward",
+                        0.5334890481152262
+                    ],
+                    [
+                        "differential",
+                        0.5395580427321954
+                    ],
+                    [
+                        "path",
+                        0.5453334871043211
+                    ],
+                    [
+                        "negative Coriolis",
+                        0.7758320448183929
+                    ],
+                    [
+                        "nonzero",
+                        0.8463254716519619
+                    ],
+                    [
+                        "expression",
+                        0.8463254716519619
+                    ],
+                    [
+                        "example",
+                        0.8667780620982629
+                    ],
+                    [
+                        "equal",
+                        0.8700133969538424
+                    ],
+                    [
+                        "opposite",
+                        0.8700133969538424
+                    ],
+                    [
+                        "sum",
+                        0.8700133969538424
+                    ],
+                    [
+                        "previous",
+                        0.8779101878837284
+                    ],
+                    [
+                        "second",
+                        0.8926818764537343
+                    ],
+                    [
+                        "curvature",
+                        0.9016382211582498
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "acceleration",
+                        0.18799135715950047
+                    ],
+                    [
+                        "Coriolis",
+                        0.2648449938400107
+                    ],
+                    [
+                        "rotation",
+                        0.26647370521397845
+                    ],
+                    [
+                        "velocity",
+                        0.266892849843038
+                    ],
+                    [
+                        "centripetal",
+                        0.2781444771145384
+                    ],
+                    [
+                        "object",
+                        0.3010973134117544
+                    ],
+                    [
+                        "point",
+                        0.3542707262563643
+                    ],
+                    [
+                        "term",
+                        0.38479792474908975
+                    ],
+                    [
+                        "Coriolis acceleration",
+                        0.38526557508059445
+                    ],
+                    [
+                        "t frame",
+                        0.3995668011597889
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-720": {
+            "id": "IOcrHOc23N4-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " try waving your arms or legs on some other rotating theme park ride. Remember, the Earth is a rotating reference frame. Even though we are used to considering the Earth as a fixed frame, some phenomena, such as hurricanes, are created by the rotation of the Earth. We are going to use what we learned earlier to understand why hurricanes rotate the way they do. We can model regions of the Earth quite easily. For points that are in the Northern or Southern hemisphere, but sufficiently far from the equator, we can model the hemisphere by projecting it onto a disk. From this perspective, the northern hemisphere is a counterclockwise rotating disk, and the southern hemisphere is a clockwise rotating disk. Near the equator, we can't model the Earth as a disk. Instead, a better model would be the outside surface of a rotating cylinder. Our understanding of the Coriolis Effect from the turntable will directly apply to this model of the hemispheres. Now let's start by thinking about hurricanes. Hurricanes are formed when there are small regions of very low air pressure. The existence of this low-pressure region causes air from all directions to move towards the low-pressure zone. With this information and what you know about the Coriolis effect, explain why hurricanes in the northern hemisphere rotate counterclockwise.",
+            "metrics": {
+                "relativeDCReadability": 0.9457864452366719,
+                "lexicalDiversity": 0.5225225225225225,
+                "posComposition": {
+                    "VB": 0.045,
+                    "VBG": 0.045,
+                    "PRP$": 0.009,
+                    "NNS": 0.063,
+                    "CC": 0.023,
+                    "IN": 0.126,
+                    "DT": 0.162,
+                    "JJ": 0.045,
+                    "NN": 0.176,
+                    "NNP": 0.041,
+                    "VBZ": 0.014,
+                    "RB": 0.05,
+                    "PRP": 0.041,
+                    "VBP": 0.045,
+                    "VBN": 0.018,
+                    "TO": 0.023,
+                    "WP": 0.009,
+                    "VBD": 0.005,
+                    "RBR": 0.005,
+                    "WRB": 0.014,
+                    "MD": 0.023,
+                    "WDT": 0.005,
+                    "EX": 0.009,
+                    "JJR": 0.005,
+                    "POS": 0.005
+                },
+                "syllableRate": 2.933,
+                "topicScores": [
+                    [
+                        "Earth",
+                        0.18390095887892371
+                    ],
+                    [
+                        "hemisphere",
+                        0.2873786663453891
+                    ],
+                    [
+                        "hurricane",
+                        0.31710828753378495
+                    ],
+                    [
+                        "model",
+                        0.3179731820381201
+                    ],
+                    [
+                        "disk",
+                        0.34707202596085973
+                    ],
+                    [
+                        "northern",
+                        0.35744173639408333
+                    ],
+                    [
+                        "Coriolis",
+                        0.39689011197077384
+                    ],
+                    [
+                        "pressure",
+                        0.41555956006683625
+                    ],
+                    [
+                        "low",
+                        0.42208563986164616
+                    ],
+                    [
+                        "region",
+                        0.4305934694477966
+                    ],
+                    [
+                        "southern",
+                        0.4412614447941573
+                    ],
+                    [
+                        "frame",
+                        0.5124187470575505
+                    ],
+                    [
+                        "equator",
+                        0.5230202718976394
+                    ],
+                    [
+                        "counterclockwise",
+                        0.5499127040591394
+                    ],
+                    [
+                        "air",
+                        0.5568362372696322
+                    ],
+                    [
+                        "Effect",
+                        0.6621572259863271
+                    ],
+                    [
+                        "Coriolis Effect",
+                        0.7138957465564566
+                    ],
+                    [
+                        "ride",
+                        0.8099863474345652
+                    ],
+                    [
+                        "southern hemisphere",
+                        0.8169665740852379
+                    ],
+                    [
+                        "park",
+                        0.8334123419899839
+                    ],
+                    [
+                        "arm",
+                        0.8436298051085095
+                    ],
+                    [
+                        "leg",
+                        0.8436298051085095
+                    ],
+                    [
+                        "theme",
+                        0.8436298051085095
+                    ],
+                    [
+                        "reference",
+                        0.8587585558816894
+                    ],
+                    [
+                        "phenomenon",
+                        0.8637133820716413
+                    ],
+                    [
+                        "rotation",
+                        0.8808393743961356
+                    ],
+                    [
+                        "zone",
+                        0.886748402212322
+                    ],
+                    [
+                        "cylinder",
+                        0.8870294099773637
+                    ],
+                    [
+                        "way",
+                        0.8893121580795041
+                    ],
+                    [
+                        "point",
+                        0.8927841594273093
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "Earth",
+                        0.18390095887892371
+                    ],
+                    [
+                        "hemisphere",
+                        0.2873786663453891
+                    ],
+                    [
+                        "hurricane",
+                        0.31710828753378495
+                    ],
+                    [
+                        "disk",
+                        0.34707202596085973
+                    ],
+                    [
+                        "northern",
+                        0.35744173639408333
+                    ],
+                    [
+                        "Coriolis",
+                        0.39689011197077384
+                    ],
+                    [
+                        "counterclockwise",
+                        0.5499127040591394
+                    ],
+                    [
+                        "Coriolis Effect",
+                        0.7138957465564566
+                    ],
+                    [
+                        "reference",
+                        0.8587585558816894
+                    ],
+                    [
+                        "rotation",
+                        0.8808393743961356
+                    ],
+                    [
+                        "point",
+                        0.8927841594273093
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-810": {
+            "id": "IOcrHOc23N4-810",
+            "heat": 0.118,
+            "start": 810.0,
+            "text": " As air moves towards the low-pressure zone, the air moving from the south veers to the right due to the Coriolis effect. Similarly, air moving from the north veers to the left of the low-pressure zone. At the same time, air is constantly pulled in towards the low-pressure zone. The combination of these processes creates a region of counterclockwise rotating air. This is why hurricanes in the Northern hemisphere rotate counterclockwise. In this video, we saw that in rotating frames, an apparent force pulling away from the axis of rotation is really the objects tendency to move in a straight line. In a rotating frame of reference, objects require a centripetal acceleration to remain stationary in that frame. Moving objects in rotating frames move in curved paths due to the Coriolis acceleration, created by the fact that the velocity of points in the frame are greater further from the axis of rotation. On Earth, we can observe the Coriolis Effect in the counterclockwise rotation of hurricanes in the northern hemispheres. This leaves 2 questions for you. What direction do hurricanes rotate in the southern hemisphere?",
+            "metrics": {
+                "relativeDCReadability": 1.0108412536433462,
+                "lexicalDiversity": 0.5459459459459459,
+                "posComposition": {
+                    "IN": 0.184,
+                    "NN": 0.216,
+                    "NNS": 0.086,
+                    "DT": 0.178,
+                    "VBG": 0.038,
+                    "JJ": 0.076,
+                    "TO": 0.032,
+                    "NNP": 0.032,
+                    "VBZ": 0.032,
+                    "RB": 0.016,
+                    "VBN": 0.011,
+                    "WRB": 0.005,
+                    "PRP": 0.016,
+                    "VBD": 0.005,
+                    "VB": 0.022,
+                    "VBP": 0.022,
+                    "JJR": 0.005,
+                    "RBR": 0.005,
+                    "MD": 0.005,
+                    "CD": 0.005,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.5,
+                "topicScores": [
+                    [
+                        "pressure zone",
+                        0.2463296270930695
+                    ],
+                    [
+                        "Coriolis",
+                        0.2580137091067843
+                    ],
+                    [
+                        "air",
+                        0.259248521765524
+                    ],
+                    [
+                        "low",
+                        0.3002280361870542
+                    ],
+                    [
+                        "frame",
+                        0.30068950198677663
+                    ],
+                    [
+                        "hemisphere",
+                        0.3808537239667481
+                    ],
+                    [
+                        "rotation",
+                        0.39644874241882966
+                    ],
+                    [
+                        "hurricane",
+                        0.4006315699496433
+                    ],
+                    [
+                        "northern",
+                        0.40269418285951064
+                    ],
+                    [
+                        "counterclockwise",
+                        0.40315968077426056
+                    ],
+                    [
+                        "object",
+                        0.40692342633586664
+                    ],
+                    [
+                        "veer",
+                        0.4245815338275915
+                    ],
+                    [
+                        "Coriolis Effect",
+                        0.48908063886701086
+                    ],
+                    [
+                        "axis",
+                        0.4945426255237272
+                    ],
+                    [
+                        "acceleration",
+                        0.5273148756173979
+                    ],
+                    [
+                        "northern hemisphere",
+                        0.5969511543054278
+                    ],
+                    [
+                        "Earth",
+                        0.6159046219498974
+                    ],
+                    [
+                        "effect",
+                        0.6994316755684572
+                    ],
+                    [
+                        "south",
+                        0.7432618287294529
+                    ],
+                    [
+                        "right",
+                        0.7432618287294529
+                    ],
+                    [
+                        "Coriolis acceleration",
+                        0.7583420997199393
+                    ],
+                    [
+                        "left",
+                        0.8133291822981288
+                    ],
+                    [
+                        "time",
+                        0.83154498847901
+                    ],
+                    [
+                        "line",
+                        0.847348091380842
+                    ],
+                    [
+                        "combination",
+                        0.8476802956209256
+                    ],
+                    [
+                        "process",
+                        0.8565227710441422
+                    ],
+                    [
+                        "region",
+                        0.8565227710441422
+                    ],
+                    [
+                        "video",
+                        0.8655493647919072
+                    ],
+                    [
+                        "apparent",
+                        0.8655493647919072
+                    ],
+                    [
+                        "straight",
+                        0.8655493647919072
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "Coriolis",
+                        0.2580137091067843
+                    ],
+                    [
+                        "hemisphere",
+                        0.3808537239667481
+                    ],
+                    [
+                        "rotation",
+                        0.39644874241882966
+                    ],
+                    [
+                        "hurricane",
+                        0.4006315699496433
+                    ],
+                    [
+                        "northern",
+                        0.40269418285951064
+                    ],
+                    [
+                        "counterclockwise",
+                        0.40315968077426056
+                    ],
+                    [
+                        "object",
+                        0.40692342633586664
+                    ],
+                    [
+                        "Coriolis Effect",
+                        0.48908063886701086
+                    ],
+                    [
+                        "acceleration",
+                        0.5273148756173979
+                    ],
+                    [
+                        "Earth",
+                        0.6159046219498974
+                    ],
+                    [
+                        "Coriolis acceleration",
+                        0.7583420997199393
+                    ],
+                    [
+                        "video",
+                        0.8655493647919072
+                    ]
+                ]
+            }
+        },
+        "IOcrHOc23N4-900": {
+            "id": "IOcrHOc23N4-900",
+            "heat": 0.146,
+            "start": 900.0,
+            "text": " And why can't hurricanes form at the equator?",
+            "metrics": {
+                "relativeDCReadability": 1.0051711996621222,
+                "lexicalDiversity": 0.5555555555555556,
+                "posComposition": {
+                    "CC": 0.111,
+                    "WRB": 0.111,
+                    "MD": 0.111,
+                    "RB": 0.111,
+                    "VB": 0.111,
+                    "NN": 0.222,
+                    "IN": 0.111,
+                    "DT": 0.111
+                },
+                "syllableRate": 0.108,
+                "topicScores": [
+                    [
+                        "equator",
+                        0.9142857142857143
+                    ],
+                    [
+                        "hurricane",
+                        0.9702970297029703
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "hurricane",
+                        0.9702970297029703
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,2412 @@
+{
+    "metadata": {
+        "id": "jANZxzetPaQ",
+        "avgHeat": 0.34,
+        "runtime": 1069.01,
+        "dale-challReadabilityScore": 9.1023826745164,
+        "lexicalDiversity": 0.5112866817155757,
+        "posComposition": {
+            "NNP": 0.013,
+            "RB": 0.056,
+            "IN": 0.101,
+            "PRP": 0.075,
+            "VBZ": 0.051,
+            "NN": 0.146,
+            "TO": 0.025,
+            "VB": 0.045,
+            "VBP": 0.046,
+            "JJ": 0.1,
+            "NNS": 0.064,
+            "WDT": 0.011,
+            "DT": 0.106,
+            "CC": 0.049,
+            "VBG": 0.014,
+            "WRB": 0.007,
+            "WP": 0.009,
+            "MD": 0.021,
+            "CD": 0.026,
+            ":": 0.007,
+            "VBD": 0.005,
+            "JJR": 0.001,
+            "VBN": 0.011,
+            "PRP$": 0.002,
+            "RBS": 0.001,
+            "POS": 0.004,
+            "PDT": 0.001,
+            "RBR": 0.001,
+            "UH": 0.001
+        },
+        "syllableRate": 2.485,
+        "topicScores": [
+            [
+                "quantum",
+                0.14403606867742885
+            ],
+            [
+                "mechanic",
+                0.15625744087048943
+            ],
+            [
+                "equation",
+                0.16633845811135484
+            ],
+            [
+                "l",
+                0.1714251697453825
+            ],
+            [
+                "linear",
+                0.1897957016714386
+            ],
+            [
+                "solution",
+                0.19585160695172943
+            ],
+            [
+                "quantum mechanic",
+                0.21319304871800013
+            ],
+            [
+                "equal",
+                0.22365288941979902
+            ],
+            [
+                "theory",
+                0.22686259133566952
+            ],
+            [
+                "Maxwell",
+                0.2325303321999293
+            ],
+            [
+                "alpha",
+                0.23517259872961652
+            ],
+            [
+                "linearity",
+                0.25358130051799366
+            ],
+            [
+                "u1",
+                0.26777166652577555
+            ],
+            [
+                "variable",
+                0.2684602318177851
+            ],
+            [
+                "u2",
+                0.26960102692771937
+            ],
+            [
+                "number",
+                0.2701394413656256
+            ],
+            [
+                "physics",
+                0.28066578806387926
+            ],
+            [
+                "unknown",
+                0.292765317900055
+            ],
+            [
+                "density",
+                0.30998586241471493
+            ],
+            [
+                "wave",
+                0.31375136117699637
+            ],
+            [
+                "time",
+                0.31537525377436676
+            ],
+            [
+                "operator",
+                0.3154616879518615
+            ],
+            [
+                "new",
+                0.31559833920274044
+            ],
+            [
+                "tau",
+                0.31569707309956585
+            ],
+            [
+                "beta",
+                0.34493610195642244
+            ],
+            [
+                "field",
+                0.34648612629421344
+            ],
+            [
+                "example",
+                0.34692222890955804
+            ],
+            [
+                "rho",
+                0.34773902089863945
+            ],
+            [
+                "property",
+                0.348540979363974
+            ],
+            [
+                "thing",
+                0.34883708118684986
+            ]
+        ],
+        "topicsList": [
+            "quantum",
+            "mechanic",
+            "equation",
+            "l",
+            "linear",
+            "solution",
+            "quantum mechanic",
+            "equal",
+            "theory",
+            "Maxwell",
+            "alpha",
+            "linearity",
+            "u1",
+            "variable",
+            "u2",
+            "number",
+            "physics",
+            "unknown",
+            "density",
+            "wave",
+            "time",
+            "operator",
+            "new",
+            "tau",
+            "beta",
+            "field",
+            "example",
+            "rho",
+            "property",
+            "thing"
+        ]
+    },
+    "chunks": {
+        "jANZxzetPaQ-0": {
+            "id": "jANZxzetPaQ-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: Very good. So it's time to start. So today, I want to talk about general features of quantum mechanics. Quantum mechanics is something that takes some time to learn, and we're going to be doing some of that learning this semester. But I want to give you a perspective of where we're going, what are the basic features, how quantum mechanics looks, what's surprising about it, and introduce some ideas that will be relevant throughout this semester and some that will be relevant for later courses as well. So it's an overview of quantum mechanics. So quantum mechanics, at this moment, is almost 100 years old. Officially-- and we will hear-- this year, in 2016, we're celebrating the centenary of general relativity. And when will the centenary of quantum mechanics be? I'm pretty sure it will be in 2025. Because in 1925, Schrodinger and Heisenberg pretty much wrote down the equations of quantum mechanics. But quantum mechanics really begins earlier. The routes that led to quantum mechanics began in the late",
+            "metrics": {
+                "relativeDCReadability": 0.9433057949351582,
+                "lexicalDiversity": 0.5082872928176796,
+                "posComposition": {
+                    "NNP": 0.022,
+                    "RB": 0.05,
+                    "IN": 0.116,
+                    "PRP": 0.066,
+                    "VBZ": 0.05,
+                    "NN": 0.094,
+                    "TO": 0.033,
+                    "VB": 0.066,
+                    "VBP": 0.039,
+                    "JJ": 0.077,
+                    "NNS": 0.083,
+                    "WDT": 0.028,
+                    "DT": 0.094,
+                    "CC": 0.044,
+                    "VBG": 0.033,
+                    "WRB": 0.017,
+                    "WP": 0.006,
+                    "MD": 0.028,
+                    "CD": 0.022,
+                    ":": 0.011,
+                    "VBD": 0.017,
+                    "JJR": 0.006
+                },
+                "syllableRate": 2.3,
+                "topicScores": [
+                    [
+                        "mechanic",
+                        0.2472013231726538
+                    ],
+                    [
+                        "quantum",
+                        0.26447377440902786
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.4716397052584125
+                    ],
+                    [
+                        "semester",
+                        0.543087974025033
+                    ],
+                    [
+                        "time",
+                        0.5465693395717233
+                    ],
+                    [
+                        "feature",
+                        0.5551048665654053
+                    ],
+                    [
+                        "relevant",
+                        0.556279798144099
+                    ],
+                    [
+                        "centenary",
+                        0.5593465774855769
+                    ],
+                    [
+                        "year",
+                        0.5618858888678153
+                    ],
+                    [
+                        "general",
+                        0.5622185065848468
+                    ],
+                    [
+                        "Schrodinger",
+                        0.680776231647207
+                    ],
+                    [
+                        "Heisenberg",
+                        0.693184561929044
+                    ],
+                    [
+                        "quantum mechanic",
+                        0.6971020359607689
+                    ],
+                    [
+                        "good",
+                        0.8078134299826527
+                    ],
+                    [
+                        "today",
+                        0.877957747307234
+                    ],
+                    [
+                        "old",
+                        0.8908516726979788
+                    ],
+                    [
+                        "relativity",
+                        0.8966931921859764
+                    ],
+                    [
+                        "basic",
+                        0.9021604166180054
+                    ],
+                    [
+                        "late",
+                        0.9054078362440453
+                    ],
+                    [
+                        "moment",
+                        0.9097175612216563
+                    ],
+                    [
+                        "perspective",
+                        0.9104419762773035
+                    ],
+                    [
+                        "surprising",
+                        0.9104419762773035
+                    ],
+                    [
+                        "idea",
+                        0.9104419762773035
+                    ],
+                    [
+                        "course",
+                        0.9104419762773035
+                    ],
+                    [
+                        "overview",
+                        0.914352541498147
+                    ],
+                    [
+                        "route",
+                        0.9219780978542557
+                    ],
+                    [
+                        "sure",
+                        0.9252126655625119
+                    ],
+                    [
+                        "equation",
+                        0.926524898602596
+                    ],
+                    [
+                        "general feature",
+                        3.6297105889666734
+                    ],
+                    [
+                        "year old",
+                        3.839428934950709
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "mechanic",
+                        0.2472013231726538
+                    ],
+                    [
+                        "quantum",
+                        0.26447377440902786
+                    ],
+                    [
+                        "time",
+                        0.5465693395717233
+                    ],
+                    [
+                        "quantum mechanic",
+                        0.6971020359607689
+                    ],
+                    [
+                        "equation",
+                        0.926524898602596
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-90": {
+            "id": "jANZxzetPaQ-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " years of the 19th century with work of Planck, and then at the beginning of the century, with work of Einstein and others,m as we will see today and in the next few lectures. So the thoughts, the puzzles, the ideas that led to quantum mechanics begin before 1925, and in 1925, it suddenly happened. So what is quantum mechanics? Quantum mechanics is really a framework to do physics, as we will understand. So quantum physics has replaced classical physics as the correct description of fundamental theory. So classical physics may be a good approximation, but we know that at some point, it's not quite right. It's not only not perfectly accurate. It's conceptually very different from the way things really work. So quantum physics has replaced classical physics. And quantum physics is the principles of quantum mechanics applied to different physical phenomena. So you have, for example, quantum electrodynamics, which is quantum mechanics applied to electromagnetism. You have quantum chromodynamics, which",
+            "metrics": {
+                "relativeDCReadability": 1.0557448351231307,
+                "lexicalDiversity": 0.5120481927710844,
+                "posComposition": {
+                    "NNS": 0.139,
+                    "IN": 0.12,
+                    "DT": 0.084,
+                    "JJ": 0.102,
+                    "NN": 0.096,
+                    "NNP": 0.036,
+                    "CC": 0.036,
+                    "RB": 0.078,
+                    "VBP": 0.036,
+                    "PRP": 0.054,
+                    "MD": 0.018,
+                    "VB": 0.042,
+                    "WDT": 0.018,
+                    "VBD": 0.012,
+                    "TO": 0.024,
+                    "CD": 0.012,
+                    "WP": 0.006,
+                    "VBZ": 0.054,
+                    "VBN": 0.03
+                },
+                "syllableRate": 2.267,
+                "topicScores": [
+                    [
+                        "quantum",
+                        0.26509205234472094
+                    ],
+                    [
+                        "physics",
+                        0.277793067024243
+                    ],
+                    [
+                        "mechanic",
+                        0.3247102601646617
+                    ],
+                    [
+                        "classical",
+                        0.41732068142016104
+                    ],
+                    [
+                        "work",
+                        0.4178357932200603
+                    ],
+                    [
+                        "Planck",
+                        0.4236660586652799
+                    ],
+                    [
+                        "Einstein",
+                        0.43852133952952393
+                    ],
+                    [
+                        "century",
+                        0.47466950906633615
+                    ],
+                    [
+                        "different",
+                        0.5737608171444784
+                    ],
+                    [
+                        "year",
+                        0.7610183429563909
+                    ],
+                    [
+                        "lecture",
+                        0.7610183429563909
+                    ],
+                    [
+                        "19th",
+                        0.8150717930999483
+                    ],
+                    [
+                        "beginning",
+                        0.8150717930999483
+                    ],
+                    [
+                        "today",
+                        0.8150717930999483
+                    ],
+                    [
+                        "puzzle",
+                        0.8430878517409585
+                    ],
+                    [
+                        "thought",
+                        0.8568683587577773
+                    ],
+                    [
+                        "idea",
+                        0.8568683587577773
+                    ],
+                    [
+                        "theory",
+                        0.87710700921648
+                    ],
+                    [
+                        "right",
+                        0.8836675629466559
+                    ],
+                    [
+                        "accurate",
+                        0.8886041925121236
+                    ],
+                    [
+                        "phenomenon",
+                        0.898247057392658
+                    ],
+                    [
+                        "fundamental",
+                        0.8991455277197477
+                    ],
+                    [
+                        "electromagnetism",
+                        0.900467125538414
+                    ],
+                    [
+                        "framework",
+                        0.9008782728699997
+                    ],
+                    [
+                        "good",
+                        0.9046574590619004
+                    ],
+                    [
+                        "approximation",
+                        0.9046574590619004
+                    ],
+                    [
+                        "point",
+                        0.9046574590619004
+                    ],
+                    [
+                        "correct",
+                        0.9080749107716366
+                    ],
+                    [
+                        "description",
+                        0.9080749107716366
+                    ],
+                    [
+                        "example",
+                        0.9102541858666546
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "quantum",
+                        0.26509205234472094
+                    ],
+                    [
+                        "physics",
+                        0.277793067024243
+                    ],
+                    [
+                        "mechanic",
+                        0.3247102601646617
+                    ],
+                    [
+                        "theory",
+                        0.87710700921648
+                    ],
+                    [
+                        "example",
+                        0.9102541858666546
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-180": {
+            "id": "jANZxzetPaQ-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " is quantum mechanics applied to the strong interaction. You have quantum optics when you apply quantum mechanics to photons. You have quantum gravity when you try to apply quantum mechanics to gravitation. Why the laughs? And that's what gives rise to string theory, which is presumably a quantum theory of gravity, and in fact, the quantum theory of all interactions if it is correct. Because it not only describes gravity, but it describes all other forces. So quantum mechanics is the framework, and we apply it to many things. So what are we going to cover today? What are we going to review? Essentially five topics-- one, the linearity of quantum mechanics, two, the necessity of complex numbers, three, the laws of determinism, four, the unusual features of superposition,",
+            "metrics": {
+                "relativeDCReadability": 1.0496760765818887,
+                "lexicalDiversity": 0.5114503816793893,
+                "posComposition": {
+                    "VBZ": 0.053,
+                    "JJ": 0.092,
+                    "NNS": 0.107,
+                    "VBN": 0.023,
+                    "TO": 0.061,
+                    "DT": 0.092,
+                    "NN": 0.137,
+                    "PRP": 0.084,
+                    "VBP": 0.053,
+                    "WRB": 0.023,
+                    "VB": 0.031,
+                    "CC": 0.031,
+                    "WP": 0.023,
+                    "VBG": 0.023,
+                    "WDT": 0.008,
+                    "RB": 0.038,
+                    "IN": 0.076,
+                    "CD": 0.038,
+                    ":": 0.008
+                },
+                "syllableRate": 1.792,
+                "topicScores": [
+                    [
+                        "quantum",
+                        0.26247385407541635
+                    ],
+                    [
+                        "mechanic",
+                        0.32897346190010335
+                    ],
+                    [
+                        "gravity",
+                        0.44516518530211086
+                    ],
+                    [
+                        "theory",
+                        0.4489639425768439
+                    ],
+                    [
+                        "interaction",
+                        0.5495050352711148
+                    ],
+                    [
+                        "photon",
+                        0.8528046633708228
+                    ],
+                    [
+                        "strong",
+                        0.8578231116044701
+                    ],
+                    [
+                        "gravitation",
+                        0.8672287705698816
+                    ],
+                    [
+                        "laugh",
+                        0.8765336702314187
+                    ],
+                    [
+                        "correct",
+                        0.8831207526635083
+                    ],
+                    [
+                        "force",
+                        0.8880776474533312
+                    ],
+                    [
+                        "optic",
+                        0.8909489015009094
+                    ],
+                    [
+                        "thing",
+                        0.8919724263332596
+                    ],
+                    [
+                        "today",
+                        0.895132522127922
+                    ],
+                    [
+                        "superposition",
+                        0.8999903432075398
+                    ],
+                    [
+                        "fact",
+                        0.9053286569129707
+                    ],
+                    [
+                        "framework",
+                        0.9126647762460031
+                    ],
+                    [
+                        "topics--",
+                        0.9192858602119508
+                    ],
+                    [
+                        "linearity",
+                        0.9192858602119508
+                    ],
+                    [
+                        "necessity",
+                        0.9192858602119508
+                    ],
+                    [
+                        "complex",
+                        0.9192858602119508
+                    ],
+                    [
+                        "number",
+                        0.9192858602119508
+                    ],
+                    [
+                        "law",
+                        0.9192858602119508
+                    ],
+                    [
+                        "determinism",
+                        0.9192858602119508
+                    ],
+                    [
+                        "unusual",
+                        0.9192858602119508
+                    ],
+                    [
+                        "feature",
+                        0.9269542191024132
+                    ],
+                    [
+                        "quantum mechanic",
+                        1.109481072095111
+                    ],
+                    [
+                        "quantum theory",
+                        2.275517516888368
+                    ],
+                    [
+                        "strong interaction",
+                        2.9543922947037973
+                    ],
+                    [
+                        "quantum gravity",
+                        3.4701968875145255
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "quantum",
+                        0.26247385407541635
+                    ],
+                    [
+                        "mechanic",
+                        0.32897346190010335
+                    ],
+                    [
+                        "theory",
+                        0.4489639425768439
+                    ],
+                    [
+                        "thing",
+                        0.8919724263332596
+                    ],
+                    [
+                        "linearity",
+                        0.9192858602119508
+                    ],
+                    [
+                        "number",
+                        0.9192858602119508
+                    ],
+                    [
+                        "quantum mechanic",
+                        1.109481072095111
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-270": {
+            "id": "jANZxzetPaQ-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " and finally, what is entanglement. So that's what we aim to discuss today. So we'll begin with number one, linearity. And that's a very fundamental aspect of quantum mechanics, something that we have to pay a lot of attention to. So whenever you have a theory, you have some dynamical variables. These are the variables you want to find their values because they are connected with observation. If you have dynamical variables, you can compare the values of those variables, or some values deduced from those variables, to the results of an experiment. So you have the equations of motion, so linearity. We're talking linearity. You have some equations of motion, EOM. And you have dynamical variables.",
+            "metrics": {
+                "relativeDCReadability": 0.8726140549335948,
+                "lexicalDiversity": 0.4214876033057851,
+                "posComposition": {
+                    "CC": 0.033,
+                    "RB": 0.041,
+                    "WP": 0.017,
+                    "VBZ": 0.025,
+                    "JJ": 0.05,
+                    "IN": 0.116,
+                    "DT": 0.132,
+                    "PRP": 0.107,
+                    "VBP": 0.099,
+                    "TO": 0.041,
+                    "VB": 0.041,
+                    "NN": 0.116,
+                    "MD": 0.017,
+                    "CD": 0.008,
+                    "NNS": 0.107,
+                    "NNP": 0.017,
+                    "PRP$": 0.008,
+                    "VBN": 0.017,
+                    "VBG": 0.008
+                },
+                "syllableRate": 1.683,
+                "topicScores": [
+                    [
+                        "variable",
+                        0.3158967561227548
+                    ],
+                    [
+                        "dynamical",
+                        0.40734296309252455
+                    ],
+                    [
+                        "linearity",
+                        0.4083837166165518
+                    ],
+                    [
+                        "value",
+                        0.4636284866329265
+                    ],
+                    [
+                        "motion",
+                        0.5549368940157888
+                    ],
+                    [
+                        "equation",
+                        0.5585240733355453
+                    ],
+                    [
+                        "EOM",
+                        0.6301275490654209
+                    ],
+                    [
+                        "entanglement",
+                        0.7662795449050414
+                    ],
+                    [
+                        "today",
+                        0.8314892568368247
+                    ],
+                    [
+                        "observation",
+                        0.8866308713089944
+                    ],
+                    [
+                        "number",
+                        0.88678278015235
+                    ],
+                    [
+                        "experiment",
+                        0.8914571973836856
+                    ],
+                    [
+                        "quantum",
+                        0.8982744394355243
+                    ],
+                    [
+                        "mechanic",
+                        0.8982744394355243
+                    ],
+                    [
+                        "attention",
+                        0.8982744394355243
+                    ],
+                    [
+                        "theory",
+                        0.905640324837718
+                    ],
+                    [
+                        "fundamental",
+                        0.9088311691400044
+                    ],
+                    [
+                        "aspect",
+                        0.9088311691400044
+                    ],
+                    [
+                        "lot",
+                        0.9088311691400044
+                    ],
+                    [
+                        "result",
+                        0.9237218777101699
+                    ],
+                    [
+                        "dynamical variable",
+                        1.3017461833065842
+                    ],
+                    [
+                        "quantum mechanic",
+                        4.178582606683433
+                    ],
+                    [
+                        "fundamental aspect",
+                        4.746270902920775
+                    ]
+                ],
+                "topTopicSimilarity": 0.34782608695652173,
+                "sharedTopicScores": [
+                    [
+                        "variable",
+                        0.3158967561227548
+                    ],
+                    [
+                        "linearity",
+                        0.4083837166165518
+                    ],
+                    [
+                        "equation",
+                        0.5585240733355453
+                    ],
+                    [
+                        "number",
+                        0.88678278015235
+                    ],
+                    [
+                        "quantum",
+                        0.8982744394355243
+                    ],
+                    [
+                        "mechanic",
+                        0.8982744394355243
+                    ],
+                    [
+                        "theory",
+                        0.905640324837718
+                    ],
+                    [
+                        "quantum mechanic",
+                        4.178582606683433
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-360": {
+            "id": "jANZxzetPaQ-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " If you have a theory, you have some equations, and you have to solve for those dynamical variables. And the most famous example of a theory that is linear is Maxwell's theory of electromagnetism. Maxwell's theory of electromagnetism is a linear theory. What does that mean? Well, first, practically, what it means is that if you have a solution-- for example, a plane wave propagating in this direction-- and you have another solution-- a plane wave propagating towards you-- then you can form a third solution, which is two plane waves propagating simultaneously. And you don't have to change anything. You can just put them together, and you get a new solution. The two waves propagate without touching each other, without affecting each other. And together, they form a new solution. This is extraordinarily useful in practice because the air around us is filled with electromagnetic waves. All your cell phones send electromagnetic waves up the sky to satellites and radio stations and transmitting stations, and the millions of phone calls",
+            "metrics": {
+                "relativeDCReadability": 0.857879740074775,
+                "lexicalDiversity": 0.5056179775280899,
+                "posComposition": {
+                    "IN": 0.101,
+                    "PRP": 0.079,
+                    "VBP": 0.056,
+                    "DT": 0.129,
+                    "NN": 0.163,
+                    "NNS": 0.067,
+                    "CC": 0.051,
+                    "TO": 0.017,
+                    "VB": 0.034,
+                    "JJ": 0.067,
+                    "RBS": 0.006,
+                    "WDT": 0.011,
+                    "VBZ": 0.051,
+                    "NNP": 0.017,
+                    "POS": 0.011,
+                    "WP": 0.011,
+                    "RB": 0.051,
+                    ":": 0.022,
+                    "MD": 0.011,
+                    "CD": 0.011,
+                    "VBG": 0.022,
+                    "VBN": 0.006,
+                    "PRP$": 0.006
+                },
+                "syllableRate": 2.408,
+                "topicScores": [
+                    [
+                        "wave",
+                        0.3171174542090696
+                    ],
+                    [
+                        "theory",
+                        0.31916740244964736
+                    ],
+                    [
+                        "Maxwell",
+                        0.40185205052751255
+                    ],
+                    [
+                        "solution",
+                        0.41905446531335083
+                    ],
+                    [
+                        "plane",
+                        0.4303797479656673
+                    ],
+                    [
+                        "electromagnetism",
+                        0.5150143451823609
+                    ],
+                    [
+                        "linear",
+                        0.5376369324254667
+                    ],
+                    [
+                        "new",
+                        0.5468972452550703
+                    ],
+                    [
+                        "example",
+                        0.5477608076724326
+                    ],
+                    [
+                        "station",
+                        0.5708235063757529
+                    ],
+                    [
+                        "phone",
+                        0.5857311410689079
+                    ],
+                    [
+                        "variable",
+                        0.7616652296175865
+                    ],
+                    [
+                        "equation",
+                        0.8067288719099758
+                    ],
+                    [
+                        "dynamical",
+                        0.8067288719099758
+                    ],
+                    [
+                        "famous",
+                        0.8764182408807984
+                    ],
+                    [
+                        "call",
+                        0.9007857561919755
+                    ],
+                    [
+                        "direction--",
+                        0.9135038140672195
+                    ],
+                    [
+                        "useful",
+                        0.9288904800272967
+                    ],
+                    [
+                        "practice",
+                        0.9288904800272967
+                    ],
+                    [
+                        "air",
+                        0.9288904800272967
+                    ],
+                    [
+                        "cell",
+                        0.9304936982812806
+                    ],
+                    [
+                        "sky",
+                        0.9304936982812806
+                    ],
+                    [
+                        "satellite",
+                        0.9304936982812806
+                    ],
+                    [
+                        "radio",
+                        0.9304936982812806
+                    ],
+                    [
+                        "million",
+                        0.9304936982812806
+                    ],
+                    [
+                        "dynamical variable",
+                        1.5937466371574909
+                    ],
+                    [
+                        "plane wave",
+                        1.639502598145561
+                    ],
+                    [
+                        "new solution",
+                        1.6757961499512852
+                    ],
+                    [
+                        "linear theory",
+                        2.367472081100917
+                    ],
+                    [
+                        "electromagnetic wave",
+                        2.6075219312965703
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "wave",
+                        0.3171174542090696
+                    ],
+                    [
+                        "theory",
+                        0.31916740244964736
+                    ],
+                    [
+                        "Maxwell",
+                        0.40185205052751255
+                    ],
+                    [
+                        "solution",
+                        0.41905446531335083
+                    ],
+                    [
+                        "linear",
+                        0.5376369324254667
+                    ],
+                    [
+                        "new",
+                        0.5468972452550703
+                    ],
+                    [
+                        "example",
+                        0.5477608076724326
+                    ],
+                    [
+                        "variable",
+                        0.7616652296175865
+                    ],
+                    [
+                        "equation",
+                        0.8067288719099758
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-450": {
+            "id": "jANZxzetPaQ-450",
+            "heat": 0.101,
+            "start": 450.0,
+            "text": " go simultaneously without affecting each other. A transatlantic cable can conduct millions of phone calls at the same time, and as much data and video and internet. It's all superposition. All these millions of conversations go simultaneously through the cable without interfering with each other. Mathematically, we have the following situation. In Maxwell's theory, you have an electric field, a magnetic field, a charge density, and a current density. That's charge per unit area per unit of time. That's the current density. And this set of data correspond to a solution if they satisfy Maxwell's equations, which is a set of equations for the electromagnetic field, charged densities, and current density. So suppose this is a solution, that you verify that it solves Maxwell's equation. Then linearity implies the following. You multiply this by alpha, alpha e, alpha b, alpha rho,",
+            "metrics": {
+                "relativeDCReadability": 1.0909864978042447,
+                "lexicalDiversity": 0.564625850340136,
+                "posComposition": {
+                    "VB": 0.014,
+                    "RB": 0.034,
+                    "IN": 0.122,
+                    "VBG": 0.02,
+                    "DT": 0.136,
+                    "JJ": 0.095,
+                    "NNP": 0.034,
+                    "NN": 0.238,
+                    "MD": 0.007,
+                    "NNS": 0.061,
+                    "CC": 0.041,
+                    "PRP": 0.048,
+                    "VBZ": 0.048,
+                    "PDT": 0.007,
+                    "VBP": 0.041,
+                    "POS": 0.02,
+                    "WDT": 0.02,
+                    "TO": 0.007,
+                    "VBN": 0.007
+                },
+                "syllableRate": 2.133,
+                "topicScores": [
+                    [
+                        "density",
+                        0.3135124285431708
+                    ],
+                    [
+                        "Maxwell",
+                        0.31699332371340844
+                    ],
+                    [
+                        "alpha",
+                        0.39126378121345756
+                    ],
+                    [
+                        "current",
+                        0.417117293874982
+                    ],
+                    [
+                        "charge",
+                        0.43618598452086516
+                    ],
+                    [
+                        "equation",
+                        0.4430014498387737
+                    ],
+                    [
+                        "field",
+                        0.4432729913315018
+                    ],
+                    [
+                        "time",
+                        0.5512144281474765
+                    ],
+                    [
+                        "million",
+                        0.5518965537485857
+                    ],
+                    [
+                        "following",
+                        0.5523351065803578
+                    ],
+                    [
+                        "cable",
+                        0.5597536382408284
+                    ],
+                    [
+                        "solution",
+                        0.5662009491606463
+                    ],
+                    [
+                        "datum",
+                        0.5698838490321132
+                    ],
+                    [
+                        "unit",
+                        0.5742088181498545
+                    ],
+                    [
+                        "set",
+                        0.5773064776616863
+                    ],
+                    [
+                        "internet",
+                        0.8564134167433352
+                    ],
+                    [
+                        "superposition",
+                        0.870537575678459
+                    ],
+                    [
+                        "transatlantic",
+                        0.881662255244209
+                    ],
+                    [
+                        "situation",
+                        0.8860855345055746
+                    ],
+                    [
+                        "phone",
+                        0.8919535530034196
+                    ],
+                    [
+                        "call",
+                        0.8919535530034196
+                    ],
+                    [
+                        "video",
+                        0.8919535530034196
+                    ],
+                    [
+                        "rho",
+                        0.8952538270168571
+                    ],
+                    [
+                        "magnetic",
+                        0.9015543458626637
+                    ],
+                    [
+                        "conversation",
+                        0.9100372221925686
+                    ],
+                    [
+                        "theory",
+                        0.9107437482722358
+                    ],
+                    [
+                        "electric",
+                        0.9107437482722358
+                    ],
+                    [
+                        "electromagnetic",
+                        0.9186455853203944
+                    ],
+                    [
+                        "area",
+                        0.9216609757890561
+                    ],
+                    [
+                        "linearity",
+                        0.9220224438459065
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "density",
+                        0.3135124285431708
+                    ],
+                    [
+                        "Maxwell",
+                        0.31699332371340844
+                    ],
+                    [
+                        "alpha",
+                        0.39126378121345756
+                    ],
+                    [
+                        "equation",
+                        0.4430014498387737
+                    ],
+                    [
+                        "field",
+                        0.4432729913315018
+                    ],
+                    [
+                        "time",
+                        0.5512144281474765
+                    ],
+                    [
+                        "solution",
+                        0.5662009491606463
+                    ],
+                    [
+                        "rho",
+                        0.8952538270168571
+                    ],
+                    [
+                        "theory",
+                        0.9107437482722358
+                    ],
+                    [
+                        "linearity",
+                        0.9220224438459065
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-540": {
+            "id": "jANZxzetPaQ-540",
+            "heat": 0.292,
+            "start": 540.0,
+            "text": " and alpha j. And think of this as the new electric field, the new magnetic field, the new charged density, and the new current is also a solution. If this is a solution, linearity implies that you can multiply those values by a number, a constant number, a alpha being a real number. And this is still a solution. It also implies more. Linearity means another thing as well. It means that if you have two solutions, e1, b1, rho 1, j1, and e2, b2, rho 2, j2-- if these are two solutions, then linearity implies that the sum e1 plus e2, b1 plus b2, rho 1 plus rho 2,",
+            "metrics": {
+                "relativeDCReadability": 1.100173620115718,
+                "lexicalDiversity": 0.5945945945945946,
+                "posComposition": {
+                    "CC": 0.072,
+                    "VB": 0.027,
+                    "NN": 0.207,
+                    "IN": 0.081,
+                    "DT": 0.162,
+                    "JJ": 0.117,
+                    "VBN": 0.009,
+                    "VBZ": 0.063,
+                    "RB": 0.054,
+                    "PRP": 0.036,
+                    "MD": 0.009,
+                    "NNS": 0.036,
+                    "VBG": 0.009,
+                    "RBR": 0.009,
+                    "NNP": 0.009,
+                    "VBP": 0.027,
+                    "CD": 0.054,
+                    "VBD": 0.009,
+                    ":": 0.009
+                },
+                "syllableRate": 1.283,
+                "topicScores": [
+                    [
+                        "solution",
+                        0.30327340083210114
+                    ],
+                    [
+                        "new",
+                        0.3426239405749618
+                    ],
+                    [
+                        "rho",
+                        0.36342325441536943
+                    ],
+                    [
+                        "number",
+                        0.3946305009610201
+                    ],
+                    [
+                        "linearity",
+                        0.39995519411488534
+                    ],
+                    [
+                        "field",
+                        0.49337677010577075
+                    ],
+                    [
+                        "alpha",
+                        0.5072555998285277
+                    ],
+                    [
+                        "b2",
+                        0.5434976855035248
+                    ],
+                    [
+                        "b1",
+                        0.554459060571553
+                    ],
+                    [
+                        "e2",
+                        0.554459060571553
+                    ],
+                    [
+                        "e1",
+                        0.5592139303304583
+                    ],
+                    [
+                        "electric",
+                        0.8319998434910733
+                    ],
+                    [
+                        "magnetic",
+                        0.8319998434910733
+                    ],
+                    [
+                        "density",
+                        0.8319998434910733
+                    ],
+                    [
+                        "j.",
+                        0.8435637067439148
+                    ],
+                    [
+                        "current",
+                        0.8435637067439148
+                    ],
+                    [
+                        "constant",
+                        0.8463133569125383
+                    ],
+                    [
+                        "real",
+                        0.8575242281786488
+                    ],
+                    [
+                        "j2",
+                        0.8617423576564827
+                    ],
+                    [
+                        "value",
+                        0.8676107472940608
+                    ],
+                    [
+                        "j1",
+                        0.8829283361050068
+                    ],
+                    [
+                        "thing",
+                        0.8952519569938402
+                    ],
+                    [
+                        "sum",
+                        0.8997527647512684
+                    ],
+                    [
+                        "electric field",
+                        1.8621335907825782
+                    ],
+                    [
+                        "magnetic field",
+                        1.8621335907825782
+                    ],
+                    [
+                        "new electric",
+                        1.9576692982914392
+                    ],
+                    [
+                        "new magnetic",
+                        1.9576692982914392
+                    ],
+                    [
+                        "constant number",
+                        2.011704640880791
+                    ],
+                    [
+                        "new current",
+                        2.040396680589055
+                    ],
+                    [
+                        "real number",
+                        2.094159272082312
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "solution",
+                        0.30327340083210114
+                    ],
+                    [
+                        "new",
+                        0.3426239405749618
+                    ],
+                    [
+                        "rho",
+                        0.36342325441536943
+                    ],
+                    [
+                        "number",
+                        0.3946305009610201
+                    ],
+                    [
+                        "linearity",
+                        0.39995519411488534
+                    ],
+                    [
+                        "field",
+                        0.49337677010577075
+                    ],
+                    [
+                        "alpha",
+                        0.5072555998285277
+                    ],
+                    [
+                        "density",
+                        0.8319998434910733
+                    ],
+                    [
+                        "thing",
+                        0.8952519569938402
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-630": {
+            "id": "jANZxzetPaQ-630",
+            "heat": 0.279,
+            "start": 630.0,
+            "text": " and j1 plus j2 is also a solution. So that's the meaning, the technical meaning of linearity. We have two solutions. We can add them. We have a single solution. You can scale it by a number. Now, I have not shown you the equations and what makes them linear. But I can explain this a little more as to what does it mean to have a linear equation. Precisely what do we mean by a linear equation? So a linear equation. And we write it schematically. We try to avoid details. We try to get across the concept. A linear equation, we write this l u equal 0 where u is your unknown and l is what is called the linear operator,",
+            "metrics": {
+                "relativeDCReadability": 0.9234209014611782,
+                "lexicalDiversity": 0.43548387096774194,
+                "posComposition": {
+                    "CC": 0.048,
+                    "NN": 0.137,
+                    "VBZ": 0.056,
+                    "RB": 0.048,
+                    "DT": 0.129,
+                    "IN": 0.056,
+                    "VBG": 0.008,
+                    "JJ": 0.081,
+                    "PRP": 0.137,
+                    "VBP": 0.065,
+                    "CD": 0.016,
+                    "NNS": 0.024,
+                    "MD": 0.024,
+                    "VB": 0.065,
+                    "VBN": 0.016,
+                    "WP": 0.032,
+                    "RBR": 0.008,
+                    "TO": 0.032,
+                    "WRB": 0.008,
+                    "PRP$": 0.008
+                },
+                "syllableRate": 1.492,
+                "topicScores": [
+                    [
+                        "linear",
+                        0.30467539041573033
+                    ],
+                    [
+                        "equation",
+                        0.3273501826860907
+                    ],
+                    [
+                        "solution",
+                        0.39537424249736336
+                    ],
+                    [
+                        "meaning",
+                        0.5502998668013281
+                    ],
+                    [
+                        "linearity",
+                        0.8561188396162338
+                    ],
+                    [
+                        "j1",
+                        0.8627993456576127
+                    ],
+                    [
+                        "j2",
+                        0.8757793220826889
+                    ],
+                    [
+                        "technical",
+                        0.8842950952683033
+                    ],
+                    [
+                        "number",
+                        0.8906994229248029
+                    ],
+                    [
+                        "detail",
+                        0.9058873947022379
+                    ],
+                    [
+                        "concept",
+                        0.9073381675181069
+                    ],
+                    [
+                        "operator",
+                        0.9086316710420457
+                    ],
+                    [
+                        "single",
+                        0.908818917744773
+                    ],
+                    [
+                        "little",
+                        0.926598023066089
+                    ],
+                    [
+                        "equal",
+                        0.9347274869775534
+                    ],
+                    [
+                        "unknown",
+                        0.9347274869775534
+                    ],
+                    [
+                        "linear equation",
+                        1.1284554731381462
+                    ],
+                    [
+                        "single solution",
+                        2.5542562122580406
+                    ],
+                    [
+                        "technical meaning",
+                        3.37227846768307
+                    ],
+                    [
+                        "linear operator",
+                        3.4879618227618856
+                    ],
+                    [
+                        "l u",
+                        6.865408288053066
+                    ],
+                    [
+                        "u equal",
+                        6.891921220214812
+                    ],
+                    [
+                        "l u equal",
+                        66.1329800781755
+                    ]
+                ],
+                "topTopicSimilarity": 0.34782608695652173,
+                "sharedTopicScores": [
+                    [
+                        "linear",
+                        0.30467539041573033
+                    ],
+                    [
+                        "equation",
+                        0.3273501826860907
+                    ],
+                    [
+                        "solution",
+                        0.39537424249736336
+                    ],
+                    [
+                        "linearity",
+                        0.8561188396162338
+                    ],
+                    [
+                        "number",
+                        0.8906994229248029
+                    ],
+                    [
+                        "operator",
+                        0.9086316710420457
+                    ],
+                    [
+                        "equal",
+                        0.9347274869775534
+                    ],
+                    [
+                        "unknown",
+                        0.9347274869775534
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-720": {
+            "id": "jANZxzetPaQ-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " something that acts on u. And that thing, the equation, is of the form l and u equal 0. Now, you might say, OK, that already looks to me a little strange, because you have just one unknown, and here we have several unknowns. So this is not very general. And you could have several equations. Well, that won't change much. We can have several linear operators if you have several equations, like l1 or something, l2 on something, all these ones equal to 0 as you have several equations. So you can have several u's or several unknowns, and you could say something like you have l on u, v, w equals 0 where you have several unknowns. But it's easier to just think of this first. And once you understand this, you can think about the case where you have many equations. So what is a linear equation? It's something in which this l-- the unknown can be anything, but l must have important properties, as being a linear operator will mean that l on a times u, where a is a number, should be equal to alu and l on u1 plus u2 on two unknowns",
+            "metrics": {
+                "relativeDCReadability": 0.8112509582068288,
+                "lexicalDiversity": 0.4803921568627451,
+                "posComposition": {
+                    "NN": 0.113,
+                    "WDT": 0.01,
+                    "VBZ": 0.039,
+                    "IN": 0.098,
+                    "CC": 0.059,
+                    "DT": 0.083,
+                    "JJ": 0.123,
+                    "CD": 0.025,
+                    "RB": 0.054,
+                    "PRP": 0.083,
+                    "MD": 0.054,
+                    "VB": 0.069,
+                    "UH": 0.005,
+                    "TO": 0.02,
+                    "VBP": 0.049,
+                    "NNS": 0.069,
+                    "PDT": 0.005,
+                    "POS": 0.005,
+                    "VBN": 0.005,
+                    "WRB": 0.015,
+                    "JJR": 0.005,
+                    "WP": 0.005,
+                    ":": 0.005,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.367,
+                "topicScores": [
+                    [
+                        "equation",
+                        0.2811121375105683
+                    ],
+                    [
+                        "unknown",
+                        0.30000252684955797
+                    ],
+                    [
+                        "l",
+                        0.3426383306561888
+                    ],
+                    [
+                        "equal",
+                        0.3631457646391437
+                    ],
+                    [
+                        "linear",
+                        0.428423261740393
+                    ],
+                    [
+                        "operator",
+                        0.5592291589276279
+                    ],
+                    [
+                        "thing",
+                        0.795618848687391
+                    ],
+                    [
+                        "u.",
+                        0.8085750364420508
+                    ],
+                    [
+                        "form",
+                        0.8085750364420508
+                    ],
+                    [
+                        "little",
+                        0.8542002058878927
+                    ],
+                    [
+                        "strange",
+                        0.8542002058878927
+                    ],
+                    [
+                        "general",
+                        0.8567946384232389
+                    ],
+                    [
+                        "v",
+                        0.8995564495267464
+                    ],
+                    [
+                        "l1",
+                        0.9027790784650465
+                    ],
+                    [
+                        "easy",
+                        0.9167406388355331
+                    ],
+                    [
+                        "important",
+                        0.9170777328148993
+                    ],
+                    [
+                        "property",
+                        0.9170777328148993
+                    ],
+                    [
+                        "time",
+                        0.9170777328148993
+                    ],
+                    [
+                        "number",
+                        0.9170777328148993
+                    ],
+                    [
+                        "case",
+                        0.9192417968345832
+                    ],
+                    [
+                        "alu",
+                        0.9230787654823985
+                    ],
+                    [
+                        "u1",
+                        0.9230787654823985
+                    ],
+                    [
+                        "u2",
+                        0.9230787654823985
+                    ],
+                    [
+                        "linear operator",
+                        1.9921747556730933
+                    ],
+                    [
+                        "linear equation",
+                        2.0883972941075135
+                    ],
+                    [
+                        "form l",
+                        2.5231210538886146
+                    ],
+                    [
+                        "one equal",
+                        2.6661743501201376
+                    ],
+                    [
+                        "little strange",
+                        2.6990181675141427
+                    ],
+                    [
+                        "u equal",
+                        2.8215647541104927
+                    ],
+                    [
+                        "time u",
+                        4.076602046678108
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "equation",
+                        0.2811121375105683
+                    ],
+                    [
+                        "unknown",
+                        0.30000252684955797
+                    ],
+                    [
+                        "l",
+                        0.3426383306561888
+                    ],
+                    [
+                        "equal",
+                        0.3631457646391437
+                    ],
+                    [
+                        "linear",
+                        0.428423261740393
+                    ],
+                    [
+                        "operator",
+                        0.5592291589276279
+                    ],
+                    [
+                        "thing",
+                        0.795618848687391
+                    ],
+                    [
+                        "property",
+                        0.9170777328148993
+                    ],
+                    [
+                        "time",
+                        0.9170777328148993
+                    ],
+                    [
+                        "number",
+                        0.9170777328148993
+                    ],
+                    [
+                        "u1",
+                        0.9230787654823985
+                    ],
+                    [
+                        "u2",
+                        0.9230787654823985
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-810": {
+            "id": "jANZxzetPaQ-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " is equal to lu 1 lu 2. This is what we mean by the operator being linear. So if an operator is linear, you also have l on alpha u1 plus beta u2. You apply first the second property, l on the first plus l on the second. So this is l of alpha u1 plus l of beta u2. And then using the first property, this is alpha l of u1 plus beta l of u2. And then you realize that if u1 and u2 are solutions-- which means lu 1 equal lu 2 equals 0 if they solve the equation-- then alpha u1 plus beta u2 is a solution.",
+            "metrics": {
+                "relativeDCReadability": 1.2829475059616282,
+                "lexicalDiversity": 0.5752212389380531,
+                "posComposition": {
+                    "VBZ": 0.062,
+                    "JJ": 0.168,
+                    "TO": 0.009,
+                    "VB": 0.009,
+                    "CD": 0.044,
+                    "DT": 0.097,
+                    "WP": 0.009,
+                    "PRP": 0.044,
+                    "VBP": 0.053,
+                    "IN": 0.115,
+                    "NN": 0.177,
+                    "VBG": 0.018,
+                    "VBN": 0.018,
+                    "RB": 0.053,
+                    "CC": 0.071,
+                    "NNP": 0.009,
+                    "NNS": 0.018,
+                    ":": 0.018,
+                    "WDT": 0.009
+                },
+                "syllableRate": 1.267,
+                "topicScores": [
+                    [
+                        "l",
+                        0.3087676520271996
+                    ],
+                    [
+                        "u2",
+                        0.3451441333066208
+                    ],
+                    [
+                        "u1",
+                        0.3514179743030385
+                    ],
+                    [
+                        "beta",
+                        0.3771785798186613
+                    ],
+                    [
+                        "alpha",
+                        0.39119516003019283
+                    ],
+                    [
+                        "lu",
+                        0.39190748391127145
+                    ],
+                    [
+                        "equal",
+                        0.4614363354671862
+                    ],
+                    [
+                        "linear",
+                        0.5216516049536488
+                    ],
+                    [
+                        "operator",
+                        0.552442664769731
+                    ],
+                    [
+                        "property",
+                        0.566778929788004
+                    ],
+                    [
+                        "second",
+                        0.5675708448996928
+                    ],
+                    [
+                        "solution",
+                        0.8977248201214866
+                    ],
+                    [
+                        "equation--",
+                        0.9342890738537263
+                    ],
+                    [
+                        "beta u2",
+                        1.7868521273379527
+                    ],
+                    [
+                        "alpha u1",
+                        2.359207247038547
+                    ],
+                    [
+                        "second property",
+                        4.211383532279486
+                    ],
+                    [
+                        "beta l",
+                        4.297705362345332
+                    ],
+                    [
+                        "equal lu",
+                        5.242064527865893
+                    ],
+                    [
+                        "alpha l",
+                        5.304614330028766
+                    ]
+                ],
+                "topTopicSimilarity": 0.5263157894736842,
+                "sharedTopicScores": [
+                    [
+                        "l",
+                        0.3087676520271996
+                    ],
+                    [
+                        "u2",
+                        0.3451441333066208
+                    ],
+                    [
+                        "u1",
+                        0.3514179743030385
+                    ],
+                    [
+                        "beta",
+                        0.3771785798186613
+                    ],
+                    [
+                        "alpha",
+                        0.39119516003019283
+                    ],
+                    [
+                        "equal",
+                        0.4614363354671862
+                    ],
+                    [
+                        "linear",
+                        0.5216516049536488
+                    ],
+                    [
+                        "operator",
+                        0.552442664769731
+                    ],
+                    [
+                        "property",
+                        0.566778929788004
+                    ],
+                    [
+                        "solution",
+                        0.8977248201214866
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-900": {
+            "id": "jANZxzetPaQ-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " Because if lu1 is 0 and lu2 is 0, l of alpha u1 plus beta u2 is 0, and it is a solution. So this is how we write a linear equation. Now, an example probably would help. If I have the differential equation du dt plus 1 over tau u equals 0, I can write it as an equation of the form lu equals 0 by taking l on u to be defined to be vu vt plus 1 over tau u. Now, it's pretty much-- I haven't done much here. I've just said, look, let's define l [? active ?] [? on ?] u to be this. And then certainly, this equation is just lu equals 0. The question would be maybe if somebody would tell you how do you write l alone-- well, l alone, probably we should write it as d dt without anything here plus 1 over tau.",
+            "metrics": {
+                "relativeDCReadability": 1.1668975435137012,
+                "lexicalDiversity": 0.5612903225806452,
+                "posComposition": {
+                    "IN": 0.11,
+                    "NN": 0.168,
+                    "VBZ": 0.045,
+                    "CD": 0.058,
+                    "CC": 0.045,
+                    "JJ": 0.103,
+                    "PRP": 0.077,
+                    "DT": 0.065,
+                    "WRB": 0.013,
+                    "VBP": 0.026,
+                    "RB": 0.11,
+                    "MD": 0.032,
+                    "VB": 0.065,
+                    "NNS": 0.019,
+                    "VBG": 0.006,
+                    "TO": 0.019,
+                    "VBN": 0.013,
+                    ":": 0.013,
+                    "VBD": 0.006,
+                    "POS": 0.006
+                },
+                "syllableRate": 1.675,
+                "topicScores": [
+                    [
+                        "l",
+                        0.3542626273528654
+                    ],
+                    [
+                        "equation",
+                        0.3919924070038206
+                    ],
+                    [
+                        "tau",
+                        0.4259773953804153
+                    ],
+                    [
+                        "lu",
+                        0.561203455829126
+                    ],
+                    [
+                        "dt",
+                        0.5776773798046195
+                    ],
+                    [
+                        "solution",
+                        0.8227305312448105
+                    ],
+                    [
+                        "active",
+                        0.8322869038641164
+                    ],
+                    [
+                        "lu1",
+                        0.8725026105021262
+                    ],
+                    [
+                        "lu2",
+                        0.8725026105021262
+                    ],
+                    [
+                        "alpha",
+                        0.8725026105021262
+                    ],
+                    [
+                        "beta",
+                        0.8725026105021262
+                    ],
+                    [
+                        "u.",
+                        0.8736036846192483
+                    ],
+                    [
+                        "linear",
+                        0.8804849616401726
+                    ],
+                    [
+                        "example",
+                        0.8925383923165473
+                    ],
+                    [
+                        "differential",
+                        0.9106434198410769
+                    ],
+                    [
+                        "du",
+                        0.9106434198410769
+                    ],
+                    [
+                        "form",
+                        0.9106434198410769
+                    ],
+                    [
+                        "vt",
+                        0.9106434198410769
+                    ],
+                    [
+                        "question",
+                        0.9196335096368842
+                    ],
+                    [
+                        "alone--",
+                        0.9196335096368842
+                    ],
+                    [
+                        "tau u.",
+                        2.91038713364568
+                    ],
+                    [
+                        "alpha u1",
+                        3.1886712460219684
+                    ],
+                    [
+                        "beta u2",
+                        3.1886712460219684
+                    ],
+                    [
+                        "linear equation",
+                        4.035201150976846
+                    ],
+                    [
+                        "form lu",
+                        4.263295489323072
+                    ],
+                    [
+                        "differential equation",
+                        4.84275190480297
+                    ],
+                    [
+                        "equation du",
+                        4.84275190480297
+                    ],
+                    [
+                        "du dt",
+                        5.016208960399092
+                    ],
+                    [
+                        "l alone--",
+                        5.335511304430006
+                    ],
+                    [
+                        "d dt",
+                        5.6583314158188935
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "l",
+                        0.3542626273528654
+                    ],
+                    [
+                        "equation",
+                        0.3919924070038206
+                    ],
+                    [
+                        "tau",
+                        0.4259773953804153
+                    ],
+                    [
+                        "solution",
+                        0.8227305312448105
+                    ],
+                    [
+                        "alpha",
+                        0.8725026105021262
+                    ],
+                    [
+                        "beta",
+                        0.8725026105021262
+                    ],
+                    [
+                        "linear",
+                        0.8804849616401726
+                    ],
+                    [
+                        "example",
+                        0.8925383923165473
+                    ]
+                ]
+            }
+        },
+        "jANZxzetPaQ-990": {
+            "id": "jANZxzetPaQ-990",
+            "heat": 0.194,
+            "start": 990.0,
+            "text": " Now, that's a way you would write it to try to understand yourself what's going on. And you say, well, then when l acts as the variable u, the first term takes the derivative, and the second term, which is a number, just multiplies it. So you could write l as this thing. And now it is straightforward to check that this is a linear operator. l is linear. And for that, you have to check the two properties there. So for example, l on au would be ddt of au plus 1 over tau au, which is a times du d tau plus 1 over tau u, which is alu. And you can check. I asked you to check the other property l on u1 plus u2 is equal to lu 1 plus lu 2. Please do it.",
+            "metrics": {
+                "relativeDCReadability": 0.9619709567142957,
+                "lexicalDiversity": 0.48226950354609927,
+                "posComposition": {
+                    "RB": 0.05,
+                    "DT": 0.099,
+                    "VBZ": 0.078,
+                    "NN": 0.156,
+                    "PRP": 0.085,
+                    "MD": 0.028,
+                    "VB": 0.078,
+                    "TO": 0.043,
+                    "WP": 0.007,
+                    "VBG": 0.007,
+                    "IN": 0.085,
+                    "CC": 0.064,
+                    "VBP": 0.014,
+                    "WRB": 0.007,
+                    "JJ": 0.113,
+                    "WDT": 0.021,
+                    "NNS": 0.014,
+                    "CD": 0.035,
+                    "VBD": 0.007,
+                    "NNP": 0.007
+                },
+                "syllableRate": 1.475,
+                "topicScores": [
+                    [
+                        "l",
+                        0.35143752445022763
+                    ],
+                    [
+                        "tau",
+                        0.45583651150347426
+                    ],
+                    [
+                        "linear",
+                        0.5485700476916064
+                    ],
+                    [
+                        "term",
+                        0.5566973962632374
+                    ],
+                    [
+                        "property",
+                        0.5700425397041377
+                    ],
+                    [
+                        "lu",
+                        0.586152338648061
+                    ],
+                    [
+                        "thing",
+                        0.8716259170102916
+                    ],
+                    [
+                        "way",
+                        0.8796170224587576
+                    ],
+                    [
+                        "operator",
+                        0.8806650595448279
+                    ],
+                    [
+                        "variable",
+                        0.8872115341113639
+                    ],
+                    [
+                        "derivative",
+                        0.8872115341113639
+                    ],
+                    [
+                        "second",
+                        0.8872115341113639
+                    ],
+                    [
+                        "number",
+                        0.8872115341113639
+                    ],
+                    [
+                        "alu",
+                        0.895648711099399
+                    ],
+                    [
+                        "straightforward",
+                        0.915834859379451
+                    ],
+                    [
+                        "example",
+                        0.9181030637668189
+                    ],
+                    [
+                        "time",
+                        0.9267698009313886
+                    ],
+                    [
+                        "du",
+                        0.9267698009313886
+                    ],
+                    [
+                        "u1",
+                        0.9308382539982948
+                    ],
+                    [
+                        "u2",
+                        0.9308382539982948
+                    ],
+                    [
+                        "equal",
+                        0.9308382539982948
+                    ],
+                    [
+                        "linear operator",
+                        3.2681352638327583
+                    ],
+                    [
+                        "second term",
+                        3.604607321290895
+                    ],
+                    [
+                        "tau u",
+                        4.450582844771463
+                    ],
+                    [
+                        "d tau",
+                        5.4479116374894865
+                    ],
+                    [
+                        "tau au",
+                        5.715552453539122
+                    ],
+                    [
+                        "time du",
+                        6.0872859322258535
+                    ],
+                    [
+                        "du d",
+                        6.0872859322258535
+                    ],
+                    [
+                        "du d tau",
+                        45.127372692975314
+                    ],
+                    [
+                        "time du d",
+                        52.01771700606516
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "l",
+                        0.35143752445022763
+                    ],
+                    [
+                        "tau",
+                        0.45583651150347426
+                    ],
+                    [
+                        "linear",
+                        0.5485700476916064
+                    ],
+                    [
+                        "property",
+                        0.5700425397041377
+                    ],
+                    [
+                        "thing",
+                        0.8716259170102916
+                    ],
+                    [
+                        "operator",
+                        0.8806650595448279
+                    ],
+                    [
+                        "variable",
+                        0.8872115341113639
+                    ],
+                    [
+                        "number",
+                        0.8872115341113639
+                    ],
+                    [
+                        "example",
+                        0.9181030637668189
+                    ],
+                    [
+                        "time",
+                        0.9267698009313886
+                    ],
+                    [
+                        "u1",
+                        0.9308382539982948
+                    ],
+                    [
+                        "u2",
+                        0.9308382539982948
+                    ],
+                    [
+                        "equal",
+                        0.9308382539982948
+                    ]
+                ]
+            }
+        }
+    }
+}

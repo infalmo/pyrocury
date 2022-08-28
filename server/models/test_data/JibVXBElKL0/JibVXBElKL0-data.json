@@ -1,0 +1,5379 @@
+{
+    "metadata": {
+        "id": "JibVXBElKL0",
+        "avgHeat": 0.28,
+        "runtime": 2852.27,
+        "dale-challReadabilityScore": 7.598931871892347,
+        "lexicalDiversity": 0.47679174817712966,
+        "posComposition": {
+            "IN": 0.098,
+            "DT": 0.111,
+            "VBZ": 0.047,
+            "JJ": 0.049,
+            "CD": 0.04,
+            "NN": 0.11,
+            "CC": 0.035,
+            "PRP": 0.088,
+            "MD": 0.02,
+            "VB": 0.06,
+            "WDT": 0.011,
+            "NNS": 0.044,
+            "VBD": 0.017,
+            "RB": 0.062,
+            "EX": 0.007,
+            "JJR": 0.002,
+            "TO": 0.027,
+            "WP": 0.008,
+            "VBG": 0.01,
+            ":": 0.024,
+            "VBP": 0.052,
+            "WRB": 0.006,
+            "NNP": 0.046,
+            "VBN": 0.007,
+            "RP": 0.004,
+            "PRP$": 0.006,
+            "RBR": 0.001,
+            "PDT": 0.002,
+            "JJS": 0.001,
+            "POS": 0.002,
+            "RBS": 0.001
+        },
+        "syllableRate": 2.592,
+        "topicScores": [
+            [
+                "r",
+                0.09220278891775541
+            ],
+            [
+                "vector",
+                0.09975224674643403
+            ],
+            [
+                "r^3",
+                0.10369248206244136
+            ],
+            [
+                "R^2",
+                0.1128782900201856
+            ],
+            [
+                "p",
+                0.11821358899601263
+            ],
+            [
+                "r transpose r",
+                0.12585503122871183
+            ],
+            [
+                "space",
+                0.1304801314439974
+            ],
+            [
+                "matrix",
+                0.13243655766211881
+            ],
+            [
+                "zero",
+                0.14137892545041927
+            ],
+            [
+                "okay",
+                0.14256157115109808
+            ],
+            [
+                "column",
+                0.1497512059031821
+            ],
+            [
+                "subspace",
+                0.15380042662908117
+            ],
+            [
+                "line",
+                0.15405409243652887
+            ],
+            [
+                "row",
+                0.15835585479137373
+            ],
+            [
+                "number",
+                0.17373764178013287
+            ],
+            [
+                "l U",
+                0.19046807140790992
+            ],
+            [
+                "permutation",
+                0.20768019035887308
+            ],
+            [
+                "vector space",
+                0.21250461713331656
+            ],
+            [
+                "able",
+                0.21290413031440455
+            ],
+            [
+                "point",
+                0.21533054599464482
+            ],
+            [
+                "exchange",
+                0.21747385798853067
+            ],
+            [
+                "combination",
+                0.222611940931623
+            ],
+            [
+                "symmetric",
+                0.22706728668364878
+            ],
+            [
+                "plane",
+                0.2294323333897469
+            ],
+            [
+                "a.",
+                0.2328324233799772
+            ],
+            [
+                "mean",
+                0.23714504350111393
+            ],
+            [
+                "linear",
+                0.24559987711213122
+            ],
+            [
+                "example",
+                0.24566066623390087
+            ],
+            [
+                "thing",
+                0.24570365700783878
+            ],
+            [
+                "component",
+                0.24634796972224193
+            ]
+        ],
+        "topicsList": [
+            "r",
+            "vector",
+            "r^3",
+            "R^2",
+            "p",
+            "r transpose r",
+            "space",
+            "matrix",
+            "zero",
+            "okay",
+            "column",
+            "subspace",
+            "line",
+            "row",
+            "number",
+            "l U",
+            "permutation",
+            "vector space",
+            "able",
+            "point",
+            "exchange",
+            "combination",
+            "symmetric",
+            "plane",
+            "a.",
+            "mean",
+            "linear",
+            "example",
+            "thing",
+            "component"
+        ]
+    },
+    "chunks": {
+        "JibVXBElKL0-0": {
+            "id": "JibVXBElKL0-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " Okay. This is lecture five in linear algebra. And, it will complete this chapter of the book. So the last section of this chapter is two point seven that talks about permutations, which finished the previous lecture, and transposes, which also came in the previous lecture. There's a little more to do with those guys, permutations and transposes. But then the heart of the lecture will be the beginning of what you could say is the beginning of linear algebra, the beginning of real linear algebra which is seeing a bigger picture with vector spaces -- not just vectors, but spaces of vectors and sub-spaces of those spaces. So we're a little ahead of the syllabus, which is good, because we're coming to the place where, there's a lot to do. Okay. So, to begin with permutations. Can I just -- so these permutations, those are matrices P and they execute",
+            "metrics": {
+                "relativeDCReadability": 1.0639127365503374,
+                "lexicalDiversity": 0.45161290322580644,
+                "posComposition": {
+                    "IN": 0.129,
+                    "DT": 0.142,
+                    "VBZ": 0.045,
+                    "JJ": 0.065,
+                    "CD": 0.019,
+                    "NN": 0.123,
+                    "CC": 0.045,
+                    "PRP": 0.039,
+                    "MD": 0.019,
+                    "VB": 0.039,
+                    "WDT": 0.032,
+                    "NNS": 0.097,
+                    "VBD": 0.013,
+                    "RB": 0.052,
+                    "EX": 0.013,
+                    "JJR": 0.013,
+                    "TO": 0.026,
+                    "WP": 0.006,
+                    "VBG": 0.013,
+                    ":": 0.013,
+                    "VBP": 0.026,
+                    "WRB": 0.006,
+                    "NNP": 0.026
+                },
+                "syllableRate": 1.892,
+                "topicScores": [
+                    [
+                        "lecture",
+                        0.3708760318689199
+                    ],
+                    [
+                        "permutation",
+                        0.3841250276823978
+                    ],
+                    [
+                        "space",
+                        0.38748260452147265
+                    ],
+                    [
+                        "linear",
+                        0.42718238479181675
+                    ],
+                    [
+                        "beginning",
+                        0.42967801274439105
+                    ],
+                    [
+                        "algebra",
+                        0.43231982730952145
+                    ],
+                    [
+                        "vector",
+                        0.45711285842091687
+                    ],
+                    [
+                        "transpose",
+                        0.5252476741832478
+                    ],
+                    [
+                        "previous",
+                        0.5365139697468361
+                    ],
+                    [
+                        "chapter",
+                        0.5498486106722132
+                    ],
+                    [
+                        "little",
+                        0.5540959144803554
+                    ],
+                    [
+                        "book",
+                        0.8494565101818494
+                    ],
+                    [
+                        "guy",
+                        0.8987950765326084
+                    ],
+                    [
+                        "section",
+                        0.9015789658585093
+                    ],
+                    [
+                        "point",
+                        0.9015789658585093
+                    ],
+                    [
+                        "sub",
+                        0.904324122825828
+                    ],
+                    [
+                        "syllabus",
+                        0.9084749702951435
+                    ],
+                    [
+                        "good",
+                        0.9084749702951435
+                    ],
+                    [
+                        "place",
+                        0.9084749702951435
+                    ],
+                    [
+                        "heart",
+                        0.9137682439355043
+                    ],
+                    [
+                        "real",
+                        0.9137682439355043
+                    ],
+                    [
+                        "big",
+                        0.9137682439355043
+                    ],
+                    [
+                        "picture",
+                        0.9137682439355043
+                    ],
+                    [
+                        "lot",
+                        0.9175467208533514
+                    ],
+                    [
+                        "matrix",
+                        0.9248959577318289
+                    ],
+                    [
+                        "linear algebra",
+                        1.4136387045681367
+                    ],
+                    [
+                        "previous lecture",
+                        1.725753694742518
+                    ],
+                    [
+                        "matrix p",
+                        1.784685085202676
+                    ],
+                    [
+                        "real linear",
+                        3.5597846050478577
+                    ],
+                    [
+                        "vector space",
+                        4.634915341315386
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "permutation",
+                        0.3841250276823978
+                    ],
+                    [
+                        "space",
+                        0.38748260452147265
+                    ],
+                    [
+                        "linear",
+                        0.42718238479181675
+                    ],
+                    [
+                        "vector",
+                        0.45711285842091687
+                    ],
+                    [
+                        "point",
+                        0.9015789658585093
+                    ],
+                    [
+                        "matrix",
+                        0.9248959577318289
+                    ],
+                    [
+                        "vector space",
+                        4.634915341315386
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-90": {
+            "id": "JibVXBElKL0-90",
+            "heat": 0.113,
+            "start": 90.0,
+            "text": " row exchanges. And we may need them. We may have a perfectly good matrix, a perfect matrix A that's invertible that we can solve A x=b, but to do it -- I've got to allow myself that extra freedom that if a zero shows up in the pivot position I move it away. I get a non-zero. I get a proper pivot there by exchanging from a row below. And you've seen that already, and I just want to collect the ideas together. And principle, I could even have to do that two times, or more times. So I have to allow -- to complete the -- the theory, the possibility that I take my matrix A, I start elimination, I find out that I need row exchanges and I do it and continue and I finish. Okay. Then all I want to do is say -- and I won't make a big project out of this -- what happens to A equal L U? So A equal L U -- this was a matrix L with ones on the diagonal and zeroes",
+            "metrics": {
+                "relativeDCReadability": 1.1071530166591497,
+                "lexicalDiversity": 0.45454545454545453,
+                "posComposition": {
+                    "NN": 0.086,
+                    "NNS": 0.037,
+                    "CC": 0.059,
+                    "PRP": 0.128,
+                    "MD": 0.027,
+                    "VB": 0.075,
+                    "DT": 0.107,
+                    "RB": 0.053,
+                    "JJ": 0.064,
+                    "NNP": 0.048,
+                    "WDT": 0.005,
+                    "VBZ": 0.021,
+                    "IN": 0.086,
+                    "TO": 0.043,
+                    ":": 0.032,
+                    "VBP": 0.075,
+                    "VBN": 0.011,
+                    "RP": 0.011,
+                    "VBG": 0.005,
+                    "CD": 0.005,
+                    "JJR": 0.005,
+                    "PRP$": 0.005,
+                    "WP": 0.005,
+                    "VBD": 0.005
+                },
+                "syllableRate": 2.083,
+                "topicScores": [
+                    [
+                        "l",
+                        0.30120612170493755
+                    ],
+                    [
+                        "l U",
+                        0.36038147270074267
+                    ],
+                    [
+                        "matrix",
+                        0.3696625925458347
+                    ],
+                    [
+                        "row",
+                        0.41228150292954396
+                    ],
+                    [
+                        "exchange",
+                        0.4181015878785302
+                    ],
+                    [
+                        "zero",
+                        0.42215176533880167
+                    ],
+                    [
+                        "equal",
+                        0.5395823603210594
+                    ],
+                    [
+                        "time",
+                        0.5509902604134235
+                    ],
+                    [
+                        "pivot",
+                        0.5512801029120559
+                    ],
+                    [
+                        "equal l",
+                        0.6704760340591885
+                    ],
+                    [
+                        "good",
+                        0.8534590635848502
+                    ],
+                    [
+                        "equal l U",
+                        0.8642301968521976
+                    ],
+                    [
+                        "perfect",
+                        0.8678289827627452
+                    ],
+                    [
+                        "=",
+                        0.8678289827627452
+                    ],
+                    [
+                        "b",
+                        0.8678289827627452
+                    ],
+                    [
+                        "invertible",
+                        0.8786255407931024
+                    ],
+                    [
+                        "non",
+                        0.8836587605976122
+                    ],
+                    [
+                        "principle",
+                        0.8856350708464333
+                    ],
+                    [
+                        "extra",
+                        0.8872355848593253
+                    ],
+                    [
+                        "freedom",
+                        0.8872355848593253
+                    ],
+                    [
+                        "position",
+                        0.8872355848593253
+                    ],
+                    [
+                        "theory",
+                        0.8884717761293729
+                    ],
+                    [
+                        "idea",
+                        0.8924746500268285
+                    ],
+                    [
+                        "proper",
+                        0.8978955025590208
+                    ],
+                    [
+                        "possibility",
+                        0.8982392311705514
+                    ],
+                    [
+                        "elimination",
+                        0.8982392311705514
+                    ],
+                    [
+                        "big",
+                        0.9106384410975298
+                    ],
+                    [
+                        "project",
+                        0.9106384410975298
+                    ],
+                    [
+                        "one",
+                        0.9121821240672254
+                    ],
+                    [
+                        "diagonal",
+                        0.9121821240672254
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "l U",
+                        0.36038147270074267
+                    ],
+                    [
+                        "matrix",
+                        0.3696625925458347
+                    ],
+                    [
+                        "row",
+                        0.41228150292954396
+                    ],
+                    [
+                        "exchange",
+                        0.4181015878785302
+                    ],
+                    [
+                        "zero",
+                        0.42215176533880167
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-180": {
+            "id": "JibVXBElKL0-180",
+            "heat": 0.11,
+            "start": 180.0,
+            "text": " above and multipliers below, and this U we know, with zeroes down here. That's only possible. That description of elimination assumes that we don't have a P, that we don't have any row exchanges. And now I just want to say, okay, how do I account for row exchanges? Because that doesn't. The P in this factorization is the identity matrix. The rows were in a good order, we left them there. Maybe I'll just add a little moment of reality, too, about how Matlab actually does elimination. Matlab not only checks whether that pivot is not zero, as every human would do. It checks for is that pivot big enough, because it doesn't like very, very small pivots. Pivots close to zero are numerically bad. So actually if we ask Matlab to solve a system, it will do some elimination some row exchanges, which we don't think are necessary. Algebra doesn't say they're necessary, but accuracy -- numerical accuracy says they are.",
+            "metrics": {
+                "relativeDCReadability": 1.0575674697329676,
+                "lexicalDiversity": 0.46511627906976744,
+                "posComposition": {
+                    "IN": 0.105,
+                    "CC": 0.023,
+                    "NNS": 0.047,
+                    "DT": 0.099,
+                    "NNP": 0.052,
+                    "PRP": 0.087,
+                    "VBP": 0.058,
+                    "RB": 0.14,
+                    "VBZ": 0.064,
+                    "JJ": 0.052,
+                    "NN": 0.099,
+                    "VB": 0.087,
+                    "TO": 0.017,
+                    "WRB": 0.012,
+                    "VBD": 0.012,
+                    "EX": 0.006,
+                    "MD": 0.017,
+                    "VBN": 0.006,
+                    "CD": 0.006,
+                    "WDT": 0.006,
+                    ":": 0.006
+                },
+                "syllableRate": 2.217,
+                "topicScores": [
+                    [
+                        "Matlab",
+                        0.37176704459095133
+                    ],
+                    [
+                        "row",
+                        0.37679850111920676
+                    ],
+                    [
+                        "pivot",
+                        0.38834397116226643
+                    ],
+                    [
+                        "exchange",
+                        0.4262463123008938
+                    ],
+                    [
+                        "elimination",
+                        0.44731101825395175
+                    ],
+                    [
+                        "zero",
+                        0.4511078657556625
+                    ],
+                    [
+                        "necessary",
+                        0.5608505970562347
+                    ],
+                    [
+                        "accuracy",
+                        0.5755592744180259
+                    ],
+                    [
+                        "U",
+                        0.5897136819310876
+                    ],
+                    [
+                        "possible",
+                        0.871818615412887
+                    ],
+                    [
+                        "matrix",
+                        0.8958096600617917
+                    ],
+                    [
+                        "description",
+                        0.9022887357661333
+                    ],
+                    [
+                        "bad",
+                        0.9070580481741344
+                    ],
+                    [
+                        "Algebra",
+                        0.909771588835073
+                    ],
+                    [
+                        "small",
+                        0.9147785537548601
+                    ],
+                    [
+                        "identity",
+                        0.914819933721407
+                    ],
+                    [
+                        "good",
+                        0.9173735903288578
+                    ],
+                    [
+                        "order",
+                        0.9173735903288578
+                    ],
+                    [
+                        "reality",
+                        0.9194946153326317
+                    ],
+                    [
+                        "factorization",
+                        0.9224811921071401
+                    ],
+                    [
+                        "big",
+                        0.922839192406543
+                    ],
+                    [
+                        "close",
+                        0.9241896585115097
+                    ],
+                    [
+                        "system",
+                        0.9253815362716388
+                    ],
+                    [
+                        "numerical",
+                        0.9264435842650922
+                    ],
+                    [
+                        "little",
+                        0.9267690807133452
+                    ],
+                    [
+                        "moment",
+                        0.9267690807133452
+                    ],
+                    [
+                        "human",
+                        0.9284164416928419
+                    ],
+                    [
+                        "row exchange",
+                        1.46730316035129
+                    ],
+                    [
+                        "identity matrix",
+                        4.540305367779855
+                    ],
+                    [
+                        "small pivot",
+                        4.709783842928859
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "row",
+                        0.37679850111920676
+                    ],
+                    [
+                        "exchange",
+                        0.4262463123008938
+                    ],
+                    [
+                        "zero",
+                        0.4511078657556625
+                    ],
+                    [
+                        "matrix",
+                        0.8958096600617917
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-270": {
+            "id": "JibVXBElKL0-270",
+            "heat": 0.227,
+            "start": 270.0,
+            "text": " Well, we're doing algebra, so here we will say, well, what do row exchanges do, but we won't do them unless we have to. But we may have to. And then, the result is -- it's hiding here. It's the main fact. This is the description of elimination with row exchanges. So A equal L U becomes P A equal L U. So this P is the matrix that does the row exchanges, and actually it does them -- it gets the rows into the right order, into the good order where pivots will not -- where zeroes won't appear in the pivot position, where L and U will come out right as up here. So, that's the point. Actually, I don't want to labor that point, that a permutation matrix -- and you remember what those were. I'll remind you from last time of what the main points about permutation matrices were -- and then just leave this factorization",
+            "metrics": {
+                "relativeDCReadability": 0.9550930603312312,
+                "lexicalDiversity": 0.4523809523809524,
+                "posComposition": {
+                    "RB": 0.101,
+                    "PRP": 0.089,
+                    "VBP": 0.042,
+                    "VBG": 0.012,
+                    "NNS": 0.054,
+                    "MD": 0.042,
+                    "VB": 0.054,
+                    "WP": 0.018,
+                    "CC": 0.042,
+                    "IN": 0.071,
+                    "TO": 0.018,
+                    "DT": 0.101,
+                    "NN": 0.113,
+                    "VBZ": 0.06,
+                    ":": 0.03,
+                    "JJ": 0.042,
+                    "NNP": 0.071,
+                    "WDT": 0.012,
+                    "WRB": 0.018,
+                    "VBD": 0.012
+                },
+                "syllableRate": 1.867,
+                "topicScores": [
+                    [
+                        "l",
+                        0.3134674409618962
+                    ],
+                    [
+                        "row",
+                        0.3787029218874226
+                    ],
+                    [
+                        "p",
+                        0.41881790208999164
+                    ],
+                    [
+                        "U",
+                        0.42264024533093825
+                    ],
+                    [
+                        "exchange",
+                        0.42855722987587347
+                    ],
+                    [
+                        "point",
+                        0.4497506244230377
+                    ],
+                    [
+                        "matrix",
+                        0.45278980192364704
+                    ],
+                    [
+                        "equal",
+                        0.555024042197517
+                    ],
+                    [
+                        "main",
+                        0.5672626952952775
+                    ],
+                    [
+                        "permutation",
+                        0.5708496105518542
+                    ],
+                    [
+                        "order",
+                        0.5756839661938699
+                    ],
+                    [
+                        "right",
+                        0.5821156252458007
+                    ],
+                    [
+                        "pivot",
+                        0.5821156252458007
+                    ],
+                    [
+                        "l U.",
+                        0.6583667591133372
+                    ],
+                    [
+                        "equal l",
+                        0.7758562400069587
+                    ],
+                    [
+                        "algebra",
+                        0.8634234284611454
+                    ],
+                    [
+                        "fact",
+                        0.8799482580769618
+                    ],
+                    [
+                        "result",
+                        0.8846974240043225
+                    ],
+                    [
+                        "factorization",
+                        0.9047010607168341
+                    ],
+                    [
+                        "description",
+                        0.9182570183212296
+                    ],
+                    [
+                        "elimination",
+                        0.9182570183212296
+                    ],
+                    [
+                        "zero",
+                        0.9188284238791841
+                    ],
+                    [
+                        "position",
+                        0.9188284238791841
+                    ],
+                    [
+                        "good",
+                        0.9269564736590622
+                    ],
+                    [
+                        "time",
+                        0.931835284500008
+                    ],
+                    [
+                        "row exchange",
+                        1.5298691542767355
+                    ],
+                    [
+                        "equal l U.",
+                        1.8103367479964763
+                    ],
+                    [
+                        "permutation matrix",
+                        2.8615460403535695
+                    ],
+                    [
+                        "main fact",
+                        3.7881888964164228
+                    ],
+                    [
+                        "main point",
+                        4.228284353856589
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "row",
+                        0.3787029218874226
+                    ],
+                    [
+                        "p",
+                        0.41881790208999164
+                    ],
+                    [
+                        "exchange",
+                        0.42855722987587347
+                    ],
+                    [
+                        "point",
+                        0.4497506244230377
+                    ],
+                    [
+                        "matrix",
+                        0.45278980192364704
+                    ],
+                    [
+                        "permutation",
+                        0.5708496105518542
+                    ],
+                    [
+                        "zero",
+                        0.9188284238791841
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-360": {
+            "id": "JibVXBElKL0-360",
+            "heat": 0.245,
+            "start": 360.0,
+            "text": " as the general case. This is -- any invertible A we get this. For almost every one, we don't need a P. But there's that handful that do need row exchanges, and if we do need them, there they are. Okay, finally, just to remember what P was. So permutations, P is the identity matrix with reordered rows. I include in reordering the possibility that you just leave them the same. So the identity matrix is -- okay. That's, like, your basic permutation matrix -- your do-nothing permutation matrix is the identity. And then there are the ones that exchange two rows and then the ones that exchange three rows and then then ones that exchange four -- well, it gets a little -- it gets more interesting algebraically if you've got four rows, you might exchange them",
+            "metrics": {
+                "relativeDCReadability": 0.9499757607710688,
+                "lexicalDiversity": 0.49295774647887325,
+                "posComposition": {
+                    "IN": 0.07,
+                    "DT": 0.12,
+                    "JJ": 0.056,
+                    "NN": 0.106,
+                    "VBZ": 0.056,
+                    ":": 0.035,
+                    "PRP": 0.092,
+                    "VBP": 0.07,
+                    "RB": 0.077,
+                    "CD": 0.035,
+                    "VB": 0.035,
+                    "NNP": 0.042,
+                    "CC": 0.035,
+                    "EX": 0.021,
+                    "WDT": 0.021,
+                    "NNS": 0.063,
+                    "TO": 0.007,
+                    "WP": 0.007,
+                    "VBD": 0.007,
+                    "VBG": 0.007,
+                    "PRP$": 0.014,
+                    "RBR": 0.007,
+                    "VBN": 0.007,
+                    "MD": 0.007
+                },
+                "syllableRate": 1.725,
+                "topicScores": [
+                    [
+                        "exchange",
+                        0.3582907367167798
+                    ],
+                    [
+                        "row",
+                        0.35855276697736893
+                    ],
+                    [
+                        "matrix",
+                        0.39348609445435845
+                    ],
+                    [
+                        "p",
+                        0.4110811518877878
+                    ],
+                    [
+                        "identity",
+                        0.44153205056569256
+                    ],
+                    [
+                        "permutation",
+                        0.4574592698615512
+                    ],
+                    [
+                        "case",
+                        0.7863604606867538
+                    ],
+                    [
+                        "invertible",
+                        0.8251789319880174
+                    ],
+                    [
+                        "general",
+                        0.830521364205724
+                    ],
+                    [
+                        "handful",
+                        0.9259066872029734
+                    ],
+                    [
+                        "basic",
+                        0.9314355948703746
+                    ],
+                    [
+                        "little",
+                        0.9329855713418231
+                    ],
+                    [
+                        "possibility",
+                        0.9356250519253752
+                    ],
+                    [
+                        "interesting",
+                        0.9406187190264444
+                    ],
+                    [
+                        "general case",
+                        1.8825850682544496
+                    ],
+                    [
+                        "identity matrix",
+                        2.634893391188366
+                    ],
+                    [
+                        "permutation matrix",
+                        3.2141407664042885
+                    ],
+                    [
+                        "basic permutation",
+                        5.765336588841951
+                    ],
+                    [
+                        "row exchange",
+                        6.06288078647114
+                    ],
+                    [
+                        "basic permutation matrix",
+                        43.030900590880705
+                    ]
+                ],
+                "topTopicSimilarity": 0.25,
+                "sharedTopicScores": [
+                    [
+                        "exchange",
+                        0.3582907367167798
+                    ],
+                    [
+                        "row",
+                        0.35855276697736893
+                    ],
+                    [
+                        "matrix",
+                        0.39348609445435845
+                    ],
+                    [
+                        "p",
+                        0.4110811518877878
+                    ],
+                    [
+                        "permutation",
+                        0.4574592698615512
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-450": {
+            "id": "JibVXBElKL0-450",
+            "heat": 0.182,
+            "start": 450.0,
+            "text": " all in one big cycle. One to two, two to three, three to four, four to one. Or you might have -- exchange one and two and three and four. Lots of possibilities there. In fact, how many possibilities? The answer was (n)factorial. This is n(n-1)(n-2)... (3)(2)(1). That's the number of -- this counts the reorderings, the possible reorderings. So it counts all the n by n permutations. And all those matrices have these -- have this nice property that they're all invertible, because we can bring those rows back into the normal order. And the matrix that does that is just P -- is just the same as the transpose. You might take a permutation matrix, multiply by its transpose and you will see how -- that the ones hit the ones and give the ones in the identity matrix. So this is a -- we'll be highly interested in matrices",
+            "metrics": {
+                "relativeDCReadability": 0.9719635259139813,
+                "lexicalDiversity": 0.4906832298136646,
+                "posComposition": {
+                    "DT": 0.155,
+                    "IN": 0.093,
+                    "CD": 0.099,
+                    "JJ": 0.081,
+                    "NN": 0.099,
+                    "TO": 0.025,
+                    "NNP": 0.012,
+                    "PRP": 0.043,
+                    "MD": 0.031,
+                    "VB": 0.043,
+                    ":": 0.043,
+                    "CC": 0.043,
+                    "NNS": 0.075,
+                    "EX": 0.006,
+                    "WRB": 0.012,
+                    "VBD": 0.012,
+                    "VBZ": 0.05,
+                    "WDT": 0.012,
+                    "PDT": 0.012,
+                    "VBP": 0.019,
+                    "RB": 0.025,
+                    "PRP$": 0.006
+                },
+                "syllableRate": 1.792,
+                "topicScores": [
+                    [
+                        "matrix",
+                        0.35093408322194036
+                    ],
+                    [
+                        "possibility",
+                        0.5437118079095741
+                    ],
+                    [
+                        "reordering",
+                        0.5574404769123475
+                    ],
+                    [
+                        "permutation",
+                        0.5631064211563119
+                    ],
+                    [
+                        "transpose",
+                        0.5694371304389949
+                    ],
+                    [
+                        "cycle",
+                        0.7535331663628855
+                    ],
+                    [
+                        "big",
+                        0.7946378825037445
+                    ],
+                    [
+                        "lot",
+                        0.8630974874133247
+                    ],
+                    [
+                        "n)factorial",
+                        0.8650434541476972
+                    ],
+                    [
+                        "n(n-1)(n-2",
+                        0.8845087006651013
+                    ],
+                    [
+                        "answer",
+                        0.8916931031238445
+                    ],
+                    [
+                        "possible",
+                        0.9029207302996446
+                    ],
+                    [
+                        "number",
+                        0.9124899744711552
+                    ],
+                    [
+                        "invertible",
+                        0.9166186365276267
+                    ],
+                    [
+                        "normal",
+                        0.9166186365276267
+                    ],
+                    [
+                        "identity",
+                        0.9196736297559363
+                    ],
+                    [
+                        "nice",
+                        0.9245195923564391
+                    ],
+                    [
+                        "property",
+                        0.9245195923564391
+                    ],
+                    [
+                        "row",
+                        0.9245195923564391
+                    ],
+                    [
+                        "interested",
+                        0.9284547073336438
+                    ],
+                    [
+                        "big cycle",
+                        1.4924354566129767
+                    ],
+                    [
+                        "possible reordering",
+                        3.9443893961873098
+                    ],
+                    [
+                        "permutation matrix",
+                        4.253066162961533
+                    ],
+                    [
+                        "normal order",
+                        4.617481219237861
+                    ],
+                    [
+                        "identity matrix",
+                        5.034393477726312
+                    ],
+                    [
+                        "nice property",
+                        5.884040652083686
+                    ]
+                ],
+                "topTopicSimilarity": 0.15384615384615385,
+                "sharedTopicScores": [
+                    [
+                        "matrix",
+                        0.35093408322194036
+                    ],
+                    [
+                        "permutation",
+                        0.5631064211563119
+                    ],
+                    [
+                        "number",
+                        0.9124899744711552
+                    ],
+                    [
+                        "row",
+                        0.9245195923564391
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-540": {
+            "id": "JibVXBElKL0-540",
+            "heat": 0.252,
+            "start": 540.0,
+            "text": " that have nice properties. And one property that -- maybe I could rewrite that as P transpose P is the identity. That tells me in other words that this is the inverse of that. Okay. We'll be interested in matrices that have P transpose P equal the identity. There are more of them than just permutations, but my point right now is that permutations are like a little group in the middle -- in the center of these special matrices. Okay. So now we know how many there are. Twenty four in the case of -- there are twenty four four by four permutations, there are five factorial which is a hundred and twenty, five times twenty four would bump us up to a hundred and twenty -- so listing all the five by five permutations would be not so much fun. Okay. So that's permutations. Now also in section two seven is some discussion of transposes. And can I just complete that discussion. First of all, I haven't even transposed a matrix",
+            "metrics": {
+                "relativeDCReadability": 0.9630955268967517,
+                "lexicalDiversity": 0.48295454545454547,
+                "posComposition": {
+                    "DT": 0.102,
+                    "VBP": 0.062,
+                    "JJ": 0.068,
+                    "NNS": 0.062,
+                    "CC": 0.028,
+                    "CD": 0.074,
+                    "NN": 0.08,
+                    "WDT": 0.028,
+                    ":": 0.023,
+                    "RB": 0.085,
+                    "PRP": 0.045,
+                    "MD": 0.028,
+                    "VB": 0.023,
+                    "IN": 0.114,
+                    "NNP": 0.057,
+                    "VBZ": 0.04,
+                    "VBD": 0.011,
+                    "EX": 0.023,
+                    "JJR": 0.006,
+                    "PRP$": 0.006,
+                    "WRB": 0.006,
+                    "RP": 0.006,
+                    "TO": 0.006,
+                    "VBN": 0.006,
+                    "VBG": 0.006,
+                    "PDT": 0.006
+                },
+                "syllableRate": 2.042,
+                "topicScores": [
+                    [
+                        "p",
+                        0.24965786884122423
+                    ],
+                    [
+                        "permutation",
+                        0.3438846501483146
+                    ],
+                    [
+                        "transpose",
+                        0.38626833874052585
+                    ],
+                    [
+                        "matrix",
+                        0.4466007081775844
+                    ],
+                    [
+                        "identity",
+                        0.5090520394553397
+                    ],
+                    [
+                        "property",
+                        0.5282997398630224
+                    ],
+                    [
+                        "discussion",
+                        0.5734907217466538
+                    ],
+                    [
+                        "p transpose p",
+                        0.8380205427608043
+                    ],
+                    [
+                        "nice",
+                        0.8604599273137189
+                    ],
+                    [
+                        "fun",
+                        0.8997435438063921
+                    ],
+                    [
+                        "word",
+                        0.9039725615154752
+                    ],
+                    [
+                        "inverse",
+                        0.9039725615154752
+                    ],
+                    [
+                        "middle",
+                        0.9112188857428272
+                    ],
+                    [
+                        "special",
+                        0.9112188857428272
+                    ],
+                    [
+                        "interested",
+                        0.9158930515320075
+                    ],
+                    [
+                        "case",
+                        0.9190823962504159
+                    ],
+                    [
+                        "time",
+                        0.919082396250416
+                    ],
+                    [
+                        "point",
+                        0.9195866176238222
+                    ],
+                    [
+                        "little",
+                        0.9195866176238222
+                    ],
+                    [
+                        "group",
+                        0.9195866176238222
+                    ],
+                    [
+                        "center",
+                        0.9195866176238222
+                    ],
+                    [
+                        "factorial",
+                        0.9267685456351848
+                    ],
+                    [
+                        "section",
+                        0.9310711765981916
+                    ],
+                    [
+                        "nice property",
+                        2.577733706514018
+                    ],
+                    [
+                        "special matrix",
+                        4.373512861688307
+                    ],
+                    [
+                        "little group",
+                        5.478343271165232
+                    ]
+                ],
+                "topTopicSimilarity": 0.15384615384615385,
+                "sharedTopicScores": [
+                    [
+                        "p",
+                        0.24965786884122423
+                    ],
+                    [
+                        "permutation",
+                        0.3438846501483146
+                    ],
+                    [
+                        "matrix",
+                        0.4466007081775844
+                    ],
+                    [
+                        "point",
+                        0.9195866176238222
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-630": {
+            "id": "JibVXBElKL0-630",
+            "heat": 0.296,
+            "start": 630.0,
+            "text": " on the board here, have I? So I'd better do it. So suppose I take a matrix like (1 2 4; 3 3 1). It's a rectangular matrix, three by two. And I want to transpose it. So what's -- I'll use a T, also Matlab would use a prime. And the result will be -- I'll right it here, because this was three rows and two columns, this was a three by two matrix. The transpose will be two rows and three columns, two by three. So it's short and wider. And, of course, that row -- that column becomes a row -- that column becomes the other row. And at the same time, that row became a column. This row became a column. Oh, what's the general formula for the transpose? So the transpose -- you see it in numbers. What I'm going to write is the same thing in symbols. The numbers are the clearest, of course. But in symbols, if I take A transpose",
+            "metrics": {
+                "relativeDCReadability": 0.9197109506226644,
+                "lexicalDiversity": 0.4943181818181818,
+                "posComposition": {
+                    "IN": 0.108,
+                    "DT": 0.131,
+                    "NN": 0.136,
+                    "RB": 0.023,
+                    "VBP": 0.045,
+                    "PRP": 0.085,
+                    "MD": 0.034,
+                    "VB": 0.045,
+                    "NNP": 0.028,
+                    "JJ": 0.051,
+                    "CD": 0.091,
+                    "VBZ": 0.045,
+                    "CC": 0.045,
+                    "TO": 0.011,
+                    "WP": 0.017,
+                    ":": 0.028,
+                    "VBD": 0.023,
+                    "NNS": 0.04,
+                    "WDT": 0.006,
+                    "VBG": 0.006
+                },
+                "syllableRate": 1.792,
+                "topicScores": [
+                    [
+                        "row",
+                        0.2994248287748858
+                    ],
+                    [
+                        "column",
+                        0.3140840774239458
+                    ],
+                    [
+                        "transpose",
+                        0.34840890048879886
+                    ],
+                    [
+                        "matrix",
+                        0.43829191135612283
+                    ],
+                    [
+                        "course",
+                        0.555417434142449
+                    ],
+                    [
+                        "symbol",
+                        0.5726551381843626
+                    ],
+                    [
+                        "number",
+                        0.5787943905591811
+                    ],
+                    [
+                        "Matlab",
+                        0.6448807553685413
+                    ],
+                    [
+                        "board",
+                        0.8301409537772632
+                    ],
+                    [
+                        "prime",
+                        0.9032206847699638
+                    ],
+                    [
+                        "rectangular",
+                        0.9097297411844922
+                    ],
+                    [
+                        "wide",
+                        0.9155837585333665
+                    ],
+                    [
+                        "result",
+                        0.9313430105004357
+                    ],
+                    [
+                        "time",
+                        0.9341536250329516
+                    ],
+                    [
+                        "short",
+                        0.9375462548968302
+                    ],
+                    [
+                        "clear",
+                        0.9388333778549589
+                    ],
+                    [
+                        "general",
+                        0.9421961403139351
+                    ],
+                    [
+                        "formula",
+                        0.9421961403139351
+                    ],
+                    [
+                        "thing",
+                        0.9437856561316771
+                    ],
+                    [
+                        "rectangular matrix",
+                        3.9371591998852016
+                    ],
+                    [
+                        "general formula",
+                        7.907381945756931
+                    ]
+                ],
+                "topTopicSimilarity": 0.23809523809523808,
+                "sharedTopicScores": [
+                    [
+                        "row",
+                        0.2994248287748858
+                    ],
+                    [
+                        "column",
+                        0.3140840774239458
+                    ],
+                    [
+                        "matrix",
+                        0.43829191135612283
+                    ],
+                    [
+                        "number",
+                        0.5787943905591811
+                    ],
+                    [
+                        "thing",
+                        0.9437856561316771
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-720": {
+            "id": "JibVXBElKL0-720",
+            "heat": 0.15,
+            "start": 720.0,
+            "text": " and I ask what number is in row I and column J of A transpose? Well, it came out of A. It came out A by this flip across the main diagonal. And, actually, it was the number in A which was in row J, column I. So the row and column -- the row and column numbers just get reversed. The row number becomes the column number, the column number becomes the row number. No problem. Okay. Now, a special -- the best matrices, we could say. In a lot of applications, symmetric matrices show up. So can I just call attention to symmetric matrices? What does that mean? What does that word symmetric mean? It means that this transposing doesn't change the matrix. A transpose equals A. And an example. So, let's take a matrix that's symmetric, so whatever is sitting on the diagonal --",
+            "metrics": {
+                "relativeDCReadability": 0.9987002299652462,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "CC": 0.04,
+                    "PRP": 0.06,
+                    "VBP": 0.027,
+                    "WP": 0.02,
+                    "NN": 0.213,
+                    "VBZ": 0.067,
+                    "IN": 0.073,
+                    "VB": 0.053,
+                    "NNP": 0.067,
+                    "RB": 0.06,
+                    "VBD": 0.027,
+                    "RP": 0.013,
+                    "DT": 0.127,
+                    "JJ": 0.027,
+                    "WDT": 0.02,
+                    ":": 0.02,
+                    "NNS": 0.04,
+                    "VBN": 0.007,
+                    "JJS": 0.007,
+                    "MD": 0.013,
+                    "TO": 0.007,
+                    "POS": 0.007,
+                    "VBG": 0.007
+                },
+                "syllableRate": 1.75,
+                "topicScores": [
+                    [
+                        "number",
+                        0.2973776590957943
+                    ],
+                    [
+                        "row",
+                        0.3075447327550825
+                    ],
+                    [
+                        "column",
+                        0.3202450732683463
+                    ],
+                    [
+                        "matrix",
+                        0.35814123161718936
+                    ],
+                    [
+                        "J",
+                        0.3704944513936331
+                    ],
+                    [
+                        "symmetric",
+                        0.397050100228757
+                    ],
+                    [
+                        "a.",
+                        0.4491454258368524
+                    ],
+                    [
+                        "mean",
+                        0.4614771367274583
+                    ],
+                    [
+                        "diagonal",
+                        0.5510916368271728
+                    ],
+                    [
+                        "transpose",
+                        0.5693096365332899
+                    ],
+                    [
+                        "I.",
+                        0.589777018497268
+                    ],
+                    [
+                        "problem",
+                        0.9012975433089684
+                    ],
+                    [
+                        "main",
+                        0.9065928549492261
+                    ],
+                    [
+                        "flip",
+                        0.9163667010147124
+                    ],
+                    [
+                        "example",
+                        0.9264482596651611
+                    ],
+                    [
+                        "special",
+                        0.9282069871004456
+                    ],
+                    [
+                        "good",
+                        0.9282069871004456
+                    ],
+                    [
+                        "application",
+                        0.9377936530611487
+                    ],
+                    [
+                        "lot",
+                        0.9445025937150113
+                    ],
+                    [
+                        "attention",
+                        0.9456206556961974
+                    ],
+                    [
+                        "word",
+                        0.9474551201887178
+                    ],
+                    [
+                        "transposing",
+                        0.9482205733801922
+                    ],
+                    [
+                        "row J",
+                        1.0283896693232712
+                    ],
+                    [
+                        "column J",
+                        1.1183524772133773
+                    ],
+                    [
+                        "column number",
+                        2.0260772497131656
+                    ],
+                    [
+                        "row number",
+                        2.1153022766633534
+                    ],
+                    [
+                        "symmetric matrix",
+                        3.675707205628778
+                    ],
+                    [
+                        "main diagonal",
+                        3.8047404704819376
+                    ],
+                    [
+                        "symmetric mean",
+                        5.7065324967101905
+                    ],
+                    [
+                        "good matrix",
+                        6.108179356085154
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "number",
+                        0.2973776590957943
+                    ],
+                    [
+                        "row",
+                        0.3075447327550825
+                    ],
+                    [
+                        "column",
+                        0.3202450732683463
+                    ],
+                    [
+                        "matrix",
+                        0.35814123161718936
+                    ],
+                    [
+                        "symmetric",
+                        0.397050100228757
+                    ],
+                    [
+                        "a.",
+                        0.4491454258368524
+                    ],
+                    [
+                        "mean",
+                        0.4614771367274583
+                    ],
+                    [
+                        "example",
+                        0.9264482596651611
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-810": {
+            "id": "JibVXBElKL0-810",
+            "heat": 0.117,
+            "start": 810.0,
+            "text": " but now what's above the diagonal, like a one, had better be there, a seven had better be here, a nine had better be there. There's a symmetric matrix. I happened to use all positive numbers as its entries. That's not the point. The point is that if I transpose that matrix, I get it back again. So symmetric matrices have this property A transpose equals A. I guess at this point -- I'm just asking you to notice this family of matrices that are unchanged by transposing. And they're easy to identify, of course. You know, it's not maybe so easy before we had a case where the transpose gave the inverse. That's highly important, but not so simple to see. This is the case where the transpose gives the same matrix back again. That's totally simple to see. Okay. Could actually -- maybe I could even say when would we get such a matrix? For example, this -- that matrix is absolutely far from symmetric, right? The transpose isn't even the same shape --",
+            "metrics": {
+                "relativeDCReadability": 0.9961273249678313,
+                "lexicalDiversity": 0.4810810810810811,
+                "posComposition": {
+                    "CC": 0.016,
+                    "RB": 0.124,
+                    "WP": 0.005,
+                    "VBZ": 0.059,
+                    "IN": 0.076,
+                    "DT": 0.135,
+                    "NN": 0.124,
+                    "VBD": 0.032,
+                    "JJR": 0.011,
+                    "VB": 0.054,
+                    "EX": 0.016,
+                    "CD": 0.011,
+                    "JJ": 0.076,
+                    "PRP": 0.07,
+                    "TO": 0.027,
+                    "NNS": 0.027,
+                    "PRP$": 0.005,
+                    "VBP": 0.043,
+                    "NNP": 0.022,
+                    ":": 0.022,
+                    "VBG": 0.011,
+                    "WDT": 0.005,
+                    "WRB": 0.016,
+                    "MD": 0.011
+                },
+                "syllableRate": 2.142,
+                "topicScores": [
+                    [
+                        "matrix",
+                        0.29297321071776444
+                    ],
+                    [
+                        "transpose",
+                        0.3096030785137172
+                    ],
+                    [
+                        "point",
+                        0.4251482740591572
+                    ],
+                    [
+                        "symmetric",
+                        0.4351514848216226
+                    ],
+                    [
+                        "case",
+                        0.5609338570982119
+                    ],
+                    [
+                        "simple",
+                        0.5622628025889402
+                    ],
+                    [
+                        "easy",
+                        0.5718330618773396
+                    ],
+                    [
+                        "a.",
+                        0.6140828519794096
+                    ],
+                    [
+                        "diagonal",
+                        0.7992240604371059
+                    ],
+                    [
+                        "entry",
+                        0.8563245579442853
+                    ],
+                    [
+                        "property",
+                        0.8860125943053757
+                    ],
+                    [
+                        "course",
+                        0.8874008350002075
+                    ],
+                    [
+                        "positive",
+                        0.8887760473094571
+                    ],
+                    [
+                        "number",
+                        0.8887760473094571
+                    ],
+                    [
+                        "inverse",
+                        0.9003313432427087
+                    ],
+                    [
+                        "right",
+                        0.9006675940048019
+                    ],
+                    [
+                        "shape",
+                        0.9109828210538425
+                    ],
+                    [
+                        "example",
+                        0.9179930205339244
+                    ],
+                    [
+                        "important",
+                        0.9187592227268555
+                    ],
+                    [
+                        "family",
+                        0.9192780607468992
+                    ],
+                    [
+                        "unchanged",
+                        0.9192780607468992
+                    ],
+                    [
+                        "symmetric matrix",
+                        2.053036723981099
+                    ],
+                    [
+                        "positive number",
+                        3.7601562493207092
+                    ]
+                ],
+                "topTopicSimilarity": 0.2608695652173913,
+                "sharedTopicScores": [
+                    [
+                        "matrix",
+                        0.29297321071776444
+                    ],
+                    [
+                        "point",
+                        0.4251482740591572
+                    ],
+                    [
+                        "symmetric",
+                        0.4351514848216226
+                    ],
+                    [
+                        "a.",
+                        0.6140828519794096
+                    ],
+                    [
+                        "number",
+                        0.8887760473094571
+                    ],
+                    [
+                        "example",
+                        0.9179930205339244
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-900": {
+            "id": "JibVXBElKL0-900",
+            "heat": 0.151,
+            "start": 900.0,
+            "text": " because it's rectangular, it turns the -- lies down on its side. But let me tell you a way to get a symmetric matrix out of this. Multiply those together. If I multiply this rectangular, shall I call it R for rectangular? So let that be R for rectangular matrix and let that be R transpose, which it is. Then I think that if I multiply those together, I get a symmetric matrix. Can I just do it with the numbers and then ask you why, how did I know it would be symmetric? So my point is that R transpose R is always symmetric. Okay? And I'm going to do it for that particular R transpose R which was -- let's see, the column was one two four three three one. I called that one R transpose, didn't I, and I called this guy one two four three three one. I called that R. Shall we just do that multiplication? Okay, so up here I'm getting a ten. Next to it I'm getting two, a nine, I'm getting an eleven. Next to that I'm getting four and three, a seven.",
+            "metrics": {
+                "relativeDCReadability": 1.025494908054423,
+                "lexicalDiversity": 0.48743718592964824,
+                "posComposition": {
+                    "IN": 0.08,
+                    "PRP": 0.146,
+                    "VBZ": 0.03,
+                    "JJ": 0.05,
+                    "DT": 0.09,
+                    ":": 0.01,
+                    "RP": 0.005,
+                    "PRP$": 0.01,
+                    "NN": 0.065,
+                    "CC": 0.03,
+                    "VB": 0.065,
+                    "TO": 0.02,
+                    "NNP": 0.085,
+                    "RB": 0.055,
+                    "VBP": 0.06,
+                    "MD": 0.01,
+                    "WDT": 0.01,
+                    "NNS": 0.005,
+                    "WRB": 0.01,
+                    "VBD": 0.035,
+                    "VBN": 0.005,
+                    "VBG": 0.025,
+                    "POS": 0.005,
+                    "CD": 0.09
+                },
+                "syllableRate": 2.142,
+                "topicScores": [
+                    [
+                        "r",
+                        0.1734821831546613
+                    ],
+                    [
+                        "symmetric",
+                        0.353760377110131
+                    ],
+                    [
+                        "rectangular",
+                        0.3650564244847979
+                    ],
+                    [
+                        "transpose",
+                        0.3684591532677936
+                    ],
+                    [
+                        "matrix",
+                        0.4271796373129736
+                    ],
+                    [
+                        "r transpose r",
+                        0.5955949721671016
+                    ],
+                    [
+                        "Shall",
+                        0.6877424036905908
+                    ],
+                    [
+                        "way",
+                        0.879814653780045
+                    ],
+                    [
+                        "R. Shall",
+                        0.8974958108040539
+                    ],
+                    [
+                        "multiplication",
+                        0.9143578662803832
+                    ],
+                    [
+                        "number",
+                        0.9241537454101411
+                    ],
+                    [
+                        "column",
+                        0.9250205437927004
+                    ],
+                    [
+                        "point",
+                        0.9268964555228206
+                    ],
+                    [
+                        "particular",
+                        0.9309583962380115
+                    ],
+                    [
+                        "guy",
+                        0.9325183787753767
+                    ],
+                    [
+                        "symmetric matrix",
+                        1.484693702348149
+                    ],
+                    [
+                        "rectangular matrix",
+                        2.6256137014034047
+                    ],
+                    [
+                        "particular r transpose",
+                        4.511282252790269
+                    ]
+                ],
+                "topTopicSimilarity": 0.3888888888888889,
+                "sharedTopicScores": [
+                    [
+                        "r",
+                        0.1734821831546613
+                    ],
+                    [
+                        "symmetric",
+                        0.353760377110131
+                    ],
+                    [
+                        "matrix",
+                        0.4271796373129736
+                    ],
+                    [
+                        "r transpose r",
+                        0.5955949721671016
+                    ],
+                    [
+                        "number",
+                        0.9241537454101411
+                    ],
+                    [
+                        "column",
+                        0.9250205437927004
+                    ],
+                    [
+                        "point",
+                        0.9268964555228206
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-990": {
+            "id": "JibVXBElKL0-990",
+            "heat": 0.15,
+            "start": 990.0,
+            "text": " Now what do I get there? This eleven came from one three times two three, right? Row one, column two. What goes here? Row two, column one. But no difference. One three two three or two three one three, same thing. It's going to be an eleven. That's the symmetry. I can continue to fill it out. What -- oh, let's get that seven. That seven will show up down here, too, and then four more numbers. That seven will show up here because one three times four one gave the seven, but also four one times one three will give that seven. Do you see that it works? Actually, do you want to see it work also in matrix language? I mean, that's quite convincing, right? That seven is no accident. The eleven is no accident. But just tell me how do I know if I transpose this guy -- How do I know it's symmetric? Well, I'm going to transpose it. And when I transpose it, I'm hoping I get the matrix back again. So can I transpose R transpose R? So just -- so, why? Well, my suggestion is take the transpose.",
+            "metrics": {
+                "relativeDCReadability": 0.8847092442687823,
+                "lexicalDiversity": 0.5297029702970297,
+                "posComposition": {
+                    "RB": 0.084,
+                    "WP": 0.015,
+                    "VBP": 0.064,
+                    "PRP": 0.104,
+                    "VB": 0.079,
+                    "DT": 0.069,
+                    "NN": 0.084,
+                    "VBD": 0.01,
+                    "IN": 0.04,
+                    "CD": 0.153,
+                    "NNS": 0.02,
+                    "JJ": 0.035,
+                    "NNP": 0.035,
+                    "VBZ": 0.045,
+                    "CC": 0.03,
+                    "VBG": 0.015,
+                    "TO": 0.02,
+                    "WDT": 0.01,
+                    "MD": 0.025,
+                    "RP": 0.015,
+                    ":": 0.015,
+                    "POS": 0.005,
+                    "JJR": 0.005,
+                    "WRB": 0.02,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.1,
+                "topicScores": [
+                    [
+                        "transpose",
+                        0.3305148270628361
+                    ],
+                    [
+                        "time",
+                        0.4518409178359745
+                    ],
+                    [
+                        "row",
+                        0.5327926557135348
+                    ],
+                    [
+                        "right",
+                        0.5539854995746935
+                    ],
+                    [
+                        "accident",
+                        0.5571526713944781
+                    ],
+                    [
+                        "column",
+                        0.5604789692792328
+                    ],
+                    [
+                        "matrix",
+                        0.5934666680160974
+                    ],
+                    [
+                        "thing",
+                        0.913492288792404
+                    ],
+                    [
+                        "difference",
+                        0.918521414763621
+                    ],
+                    [
+                        "symmetry",
+                        0.9271949628175302
+                    ],
+                    [
+                        "number",
+                        0.9332597828581983
+                    ],
+                    [
+                        "language",
+                        0.9361106277167156
+                    ],
+                    [
+                        "symmetric",
+                        0.9388035825226123
+                    ],
+                    [
+                        "convincing",
+                        0.9482501836182273
+                    ],
+                    [
+                        "guy",
+                        0.9498477658016449
+                    ],
+                    [
+                        "suggestion",
+                        0.9518118285698229
+                    ],
+                    [
+                        "r transpose r",
+                        3.7471117794903503
+                    ],
+                    [
+                        "matrix language",
+                        7.370066670543082
+                    ]
+                ],
+                "topTopicSimilarity": 0.3888888888888889,
+                "sharedTopicScores": [
+                    [
+                        "row",
+                        0.5327926557135348
+                    ],
+                    [
+                        "column",
+                        0.5604789692792328
+                    ],
+                    [
+                        "matrix",
+                        0.5934666680160974
+                    ],
+                    [
+                        "thing",
+                        0.913492288792404
+                    ],
+                    [
+                        "number",
+                        0.9332597828581983
+                    ],
+                    [
+                        "symmetric",
+                        0.9388035825226123
+                    ],
+                    [
+                        "r transpose r",
+                        3.7471117794903503
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1080": {
+            "id": "JibVXBElKL0-1080",
+            "heat": 0.137,
+            "start": 1080.0,
+            "text": " That's the only way to show it's symmetric. Take the transpose and see that it didn't change. Okay, so I take the transpose of R transpose R. Okay. How do I do that? This is our little practice on the rules for transposes. So the rule for transposes is the order gets reversed. Just like inverses, which we did prove, same rule for transposes and -- which we'll now use. So the order gets reversed. It's the transpose of that that comes first, and the transpose of this that comes -- no. Is that -- yeah. That's what I have to write, right? This is a product of two matrices and I want its transpose. So I put the matrices in the opposite order and I transpose them. But what have I got here? What is R transpose transpose? Well, don't all speak at once. R transpose transpose, I flipped over the diagonal, I flipped over the diagonal again, so I've got R. And that's just my point, that if I started with this matrix,",
+            "metrics": {
+                "relativeDCReadability": 1.1128366014170759,
+                "lexicalDiversity": 0.43478260869565216,
+                "posComposition": {
+                    "DT": 0.13,
+                    "VBZ": 0.076,
+                    "JJ": 0.054,
+                    "NN": 0.082,
+                    "TO": 0.011,
+                    "VB": 0.054,
+                    "PRP": 0.092,
+                    "CC": 0.038,
+                    "IN": 0.109,
+                    "VBD": 0.038,
+                    "RB": 0.071,
+                    "NNP": 0.054,
+                    "VBP": 0.06,
+                    "PRP$": 0.016,
+                    "NNS": 0.038,
+                    "VBN": 0.011,
+                    "WDT": 0.022,
+                    ":": 0.016,
+                    "MD": 0.005,
+                    "WP": 0.016,
+                    "CD": 0.005
+                },
+                "syllableRate": 1.917,
+                "topicScores": [
+                    [
+                        "transpose",
+                        0.23304989135619825
+                    ],
+                    [
+                        "R.",
+                        0.42079779050321636
+                    ],
+                    [
+                        "rule",
+                        0.4340340835042084
+                    ],
+                    [
+                        "order",
+                        0.4499467180078823
+                    ],
+                    [
+                        "matrix",
+                        0.46494115057109103
+                    ],
+                    [
+                        "diagonal",
+                        0.5798540942815147
+                    ],
+                    [
+                        "Okay",
+                        0.5821883128729568
+                    ],
+                    [
+                        "R. Okay",
+                        0.6347608995076767
+                    ],
+                    [
+                        "symmetric",
+                        0.8622444220949377
+                    ],
+                    [
+                        "way",
+                        0.8965156820522074
+                    ],
+                    [
+                        "right",
+                        0.9144874798409482
+                    ],
+                    [
+                        "inverse",
+                        0.931233795522229
+                    ],
+                    [
+                        "little",
+                        0.9321159712408881
+                    ],
+                    [
+                        "practice",
+                        0.9321159712408881
+                    ],
+                    [
+                        "point",
+                        0.9434792997575068
+                    ],
+                    [
+                        "product",
+                        0.9445437367344619
+                    ],
+                    [
+                        "opposite",
+                        0.9454345044825504
+                    ],
+                    [
+                        "transpose R. Okay",
+                        1.9484429282297815
+                    ],
+                    [
+                        "R transpose R.",
+                        2.3041819785463105
+                    ],
+                    [
+                        "opposite order",
+                        5.701977364380963
+                    ],
+                    [
+                        "little practice",
+                        6.624286380502293
+                    ]
+                ],
+                "topTopicSimilarity": 0.14285714285714285,
+                "sharedTopicScores": [
+                    [
+                        "matrix",
+                        0.46494115057109103
+                    ],
+                    [
+                        "symmetric",
+                        0.8622444220949377
+                    ],
+                    [
+                        "point",
+                        0.9434792997575068
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1170": {
+            "id": "JibVXBElKL0-1170",
+            "heat": 0.181,
+            "start": 1170.0,
+            "text": " I transposed it, I got it back again. So that's the check, without using numbers, but with -- it checked in two lines that I always get symmetric matrices this way. And actually, that's where they come from in so many practical applications. Okay. So now I've said something today about permutations and about transposes and about symmetry and I'm ready for chapter three. Can we take a breath -- the tape won't take a breath, but the lecturer will, because to tell you about vector spaces is -- we really have to start now and think, okay, listen up. What are vector spaces? And what are sub-spaces? Okay. So, the point is, The main operations that we do --",
+            "metrics": {
+                "relativeDCReadability": 0.9782039830129065,
+                "lexicalDiversity": 0.488,
+                "posComposition": {
+                    "PRP": 0.104,
+                    "VBD": 0.032,
+                    "RB": 0.08,
+                    "IN": 0.104,
+                    "DT": 0.08,
+                    "VBZ": 0.032,
+                    "NN": 0.096,
+                    "VBG": 0.008,
+                    "NNS": 0.08,
+                    "CC": 0.064,
+                    ":": 0.032,
+                    "CD": 0.016,
+                    "VBP": 0.064,
+                    "JJ": 0.056,
+                    "WRB": 0.008,
+                    "NNP": 0.024,
+                    "MD": 0.024,
+                    "VB": 0.056,
+                    "TO": 0.016,
+                    "RP": 0.008,
+                    "WP": 0.008,
+                    "WDT": 0.008
+                },
+                "syllableRate": 1.45,
+                "topicScores": [
+                    [
+                        "space",
+                        0.42907154533307085
+                    ],
+                    [
+                        "check",
+                        0.5411802178589502
+                    ],
+                    [
+                        "transpose",
+                        0.5453018293421431
+                    ],
+                    [
+                        "breath",
+                        0.5511162025311217
+                    ],
+                    [
+                        "vector",
+                        0.5605427671989751
+                    ],
+                    [
+                        "way",
+                        0.815762748965612
+                    ],
+                    [
+                        "application",
+                        0.8432893937735876
+                    ],
+                    [
+                        "number",
+                        0.854966919072894
+                    ],
+                    [
+                        "line",
+                        0.8702507852028681
+                    ],
+                    [
+                        "symmetric",
+                        0.8702507852028681
+                    ],
+                    [
+                        "matrix",
+                        0.8702507852028681
+                    ],
+                    [
+                        "practical",
+                        0.877515598572818
+                    ],
+                    [
+                        "chapter",
+                        0.897738694232728
+                    ],
+                    [
+                        "tape",
+                        0.9033192450391885
+                    ],
+                    [
+                        "lecturer",
+                        0.9033192450391885
+                    ],
+                    [
+                        "point",
+                        0.9043866327447755
+                    ],
+                    [
+                        "today",
+                        0.9089949652267865
+                    ],
+                    [
+                        "permutation",
+                        0.9089949652267865
+                    ],
+                    [
+                        "symmetry",
+                        0.9089949652267865
+                    ],
+                    [
+                        "ready",
+                        0.9089949652267865
+                    ],
+                    [
+                        "sub",
+                        0.9107957319810703
+                    ],
+                    [
+                        "main",
+                        0.9156709037390853
+                    ],
+                    [
+                        "operation",
+                        0.9251179552789525
+                    ],
+                    [
+                        "vector space",
+                        2.0245881108025534
+                    ],
+                    [
+                        "practical application",
+                        2.8461478868041814
+                    ],
+                    [
+                        "symmetric matrix",
+                        3.120931693544208
+                    ],
+                    [
+                        "main operation",
+                        5.540376110266797
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "space",
+                        0.42907154533307085
+                    ],
+                    [
+                        "vector",
+                        0.5605427671989751
+                    ],
+                    [
+                        "number",
+                        0.854966919072894
+                    ],
+                    [
+                        "line",
+                        0.8702507852028681
+                    ],
+                    [
+                        "symmetric",
+                        0.8702507852028681
+                    ],
+                    [
+                        "matrix",
+                        0.8702507852028681
+                    ],
+                    [
+                        "point",
+                        0.9043866327447755
+                    ],
+                    [
+                        "permutation",
+                        0.9089949652267865
+                    ],
+                    [
+                        "vector space",
+                        2.0245881108025534
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1260": {
+            "id": "JibVXBElKL0-1260",
+            "heat": 0.178,
+            "start": 1260.0,
+            "text": " what do we do with vectors? We add them. We know how to add two vectors. We multiply them by numbers, usually called scalers. If we have a vector, we know what three V is. If we have a vector V and W, we know what V plus W is. Those are the two operations that we've got to be able to do. To legitimately talk about a space of vectors, the requirement is that we should be able to add the things and multiply by numbers and that there should be some decent rules satisfied. Okay. So let me start with examples. So I'm talking now about vector spaces. And I'm going to start with examples. Let me say again what this word space is meaning. When I say that word space, that means to me that I've got a bunch of vectors, a space of vectors. But not just any bunch of vectors. It has to be a space of vectors -- has to allow me to do the operations that vectors",
+            "metrics": {
+                "relativeDCReadability": 0.9078004526688269,
+                "lexicalDiversity": 0.42134831460674155,
+                "posComposition": {
+                    "WP": 0.022,
+                    "VBP": 0.079,
+                    "PRP": 0.118,
+                    "VB": 0.09,
+                    "IN": 0.107,
+                    "NNS": 0.101,
+                    "WRB": 0.011,
+                    "TO": 0.056,
+                    "CD": 0.017,
+                    "RB": 0.034,
+                    "VBD": 0.017,
+                    "DT": 0.079,
+                    "NN": 0.084,
+                    "NNP": 0.039,
+                    "VBZ": 0.039,
+                    "CC": 0.034,
+                    "VBN": 0.006,
+                    "JJ": 0.017,
+                    "MD": 0.011,
+                    "EX": 0.006,
+                    "VBG": 0.017,
+                    "WDT": 0.011,
+                    ":": 0.006
+                },
+                "syllableRate": 1.95,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.2515230458693197
+                    ],
+                    [
+                        "space",
+                        0.3137100125455231
+                    ],
+                    [
+                        "W",
+                        0.3928446791028624
+                    ],
+                    [
+                        "V",
+                        0.4075028620784584
+                    ],
+                    [
+                        "example",
+                        0.5323243339492671
+                    ],
+                    [
+                        "number",
+                        0.5656272088372043
+                    ],
+                    [
+                        "able",
+                        0.5671780048490569
+                    ],
+                    [
+                        "operation",
+                        0.5735310284380406
+                    ],
+                    [
+                        "bunch",
+                        0.5763179021821633
+                    ],
+                    [
+                        "word",
+                        0.5769384824878648
+                    ],
+                    [
+                        "scaler",
+                        0.8868369920161671
+                    ],
+                    [
+                        "satisfied",
+                        0.9083127424723382
+                    ],
+                    [
+                        "requirement",
+                        0.9252321437020856
+                    ],
+                    [
+                        "rule",
+                        0.9252321437020856
+                    ],
+                    [
+                        "thing",
+                        0.9320264919264708
+                    ],
+                    [
+                        "decent",
+                        0.9320264919264708
+                    ],
+                    [
+                        "vector V",
+                        1.394564421105012
+                    ],
+                    [
+                        "word space",
+                        2.610102253282077
+                    ],
+                    [
+                        "vector space",
+                        3.85728331649613
+                    ],
+                    [
+                        "rule satisfied",
+                        5.265669887034909
+                    ],
+                    [
+                        "decent rule",
+                        6.2643201620640445
+                    ],
+                    [
+                        "decent rule satisfied",
+                        45.43927455423779
+                    ]
+                ],
+                "topTopicSimilarity": 0.3181818181818182,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.2515230458693197
+                    ],
+                    [
+                        "space",
+                        0.3137100125455231
+                    ],
+                    [
+                        "example",
+                        0.5323243339492671
+                    ],
+                    [
+                        "number",
+                        0.5656272088372043
+                    ],
+                    [
+                        "able",
+                        0.5671780048490569
+                    ],
+                    [
+                        "thing",
+                        0.9320264919264708
+                    ],
+                    [
+                        "vector space",
+                        3.85728331649613
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1350": {
+            "id": "JibVXBElKL0-1350",
+            "heat": 0.214,
+            "start": 1350.0,
+            "text": " are for. I have to be able to add vectors and multiply by numbers. I have to be able to take linear combinations. Well, where did we meet linear combinations? We met them back in, say in R^2. So there's a vector space. What's that vector space? So R two is telling me I'm talking about real numbers and I'm talking about two real numbers. So this is all two dimensional vectors -- real, such as -- well, I'm not going to be able to list them all. But let me put a few down. |3; 2|, |0;0|, |pi; e|. So on. And it's natural -- okay. Let's see, I guess I should do algebra first. Algebra means what can I do to these vectors? I can add them. I can add that to that. And how do I do it? A component at a time, of course. Three two added to zero zero gives me, three two. Sorry about that.",
+            "metrics": {
+                "relativeDCReadability": 1.093655290628149,
+                "lexicalDiversity": 0.47928994082840237,
+                "posComposition": {
+                    "VBP": 0.047,
+                    "IN": 0.077,
+                    "PRP": 0.124,
+                    "TO": 0.053,
+                    "VB": 0.089,
+                    "JJ": 0.095,
+                    "NNS": 0.053,
+                    "CC": 0.03,
+                    "NN": 0.065,
+                    "RB": 0.024,
+                    "WRB": 0.012,
+                    "VBD": 0.018,
+                    "RP": 0.012,
+                    "NNP": 0.041,
+                    "EX": 0.006,
+                    "VBZ": 0.041,
+                    "DT": 0.071,
+                    "WP": 0.012,
+                    "CD": 0.059,
+                    "VBG": 0.024,
+                    ":": 0.018,
+                    "POS": 0.006,
+                    "MD": 0.024
+                },
+                "syllableRate": 1.792,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.33528488700213743
+                    ],
+                    [
+                        "able",
+                        0.4099984217621294
+                    ],
+                    [
+                        "number",
+                        0.43637661147326334
+                    ],
+                    [
+                        "real",
+                        0.4386705285628019
+                    ],
+                    [
+                        "combination",
+                        0.5090429390936483
+                    ],
+                    [
+                        "space",
+                        0.5296854546425472
+                    ],
+                    [
+                        "linear",
+                        0.5360071216157726
+                    ],
+                    [
+                        "e|",
+                        0.902482108375402
+                    ],
+                    [
+                        "course",
+                        0.91386486840228
+                    ],
+                    [
+                        "Algebra",
+                        0.9175880141781553
+                    ],
+                    [
+                        "|0;0|",
+                        0.9187348218057138
+                    ],
+                    [
+                        "sorry",
+                        0.923120734702017
+                    ],
+                    [
+                        "dimensional",
+                        0.9234381751338122
+                    ],
+                    [
+                        "natural",
+                        0.9285338665732991
+                    ],
+                    [
+                        "component",
+                        0.934316795080125
+                    ],
+                    [
+                        "time",
+                        0.934316795080125
+                    ],
+                    [
+                        "linear combination",
+                        1.3747582808613035
+                    ],
+                    [
+                        "vector space",
+                        1.6854379023679988
+                    ],
+                    [
+                        "real number",
+                        2.0619245900880374
+                    ],
+                    [
+                        "dimensional vector",
+                        4.008585056150001
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.33528488700213743
+                    ],
+                    [
+                        "able",
+                        0.4099984217621294
+                    ],
+                    [
+                        "number",
+                        0.43637661147326334
+                    ],
+                    [
+                        "combination",
+                        0.5090429390936483
+                    ],
+                    [
+                        "space",
+                        0.5296854546425472
+                    ],
+                    [
+                        "linear",
+                        0.5360071216157726
+                    ],
+                    [
+                        "component",
+                        0.934316795080125
+                    ],
+                    [
+                        "vector space",
+                        1.6854379023679988
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1440": {
+            "id": "JibVXBElKL0-1440",
+            "heat": 0.289,
+            "start": 1440.0,
+            "text": " Three two added to pi e gives me three plus pi, two plus e. Oh, you know what it does. And you know the picture that goes with it. There's the vector three two. And often, the picture has an arrow. The vector zero zero, which is a highly important vector -- it's got, like, the most important here -- is there. And of course there's not much of an arrow. Pi -- I'll have to remember -- pi is about three and a little more, e is about two and a little more. So maybe there's pi e. I never drew pi e before. It's just natural to -- this is the first component on the horizontal and this is the second component, going up the vertical. Okay. And the whole plane is R two. So R two is, we could say, the plane. The xy plane. That's what everybody thinks. But the point is it's a vector space because all those vectors",
+            "metrics": {
+                "relativeDCReadability": 1.0051473407432887,
+                "lexicalDiversity": 0.5174418604651163,
+                "posComposition": {
+                    "CD": 0.064,
+                    "VBD": 0.017,
+                    "TO": 0.017,
+                    "VB": 0.023,
+                    "NN": 0.145,
+                    "VBZ": 0.122,
+                    "PRP": 0.064,
+                    "CC": 0.058,
+                    "JJ": 0.064,
+                    "NNP": 0.041,
+                    "VBP": 0.012,
+                    "WP": 0.012,
+                    "DT": 0.128,
+                    "WDT": 0.017,
+                    "IN": 0.052,
+                    "EX": 0.017,
+                    "RB": 0.064,
+                    ":": 0.029,
+                    "RBS": 0.006,
+                    "MD": 0.012,
+                    "JJR": 0.006,
+                    "RBR": 0.006,
+                    "VBG": 0.006,
+                    "RP": 0.006,
+                    "PDT": 0.006,
+                    "NNS": 0.006
+                },
+                "syllableRate": 1.808,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.34315270562427347
+                    ],
+                    [
+                        "pi",
+                        0.34759949523964506
+                    ],
+                    [
+                        "Oh",
+                        0.41953459804372706
+                    ],
+                    [
+                        "plane",
+                        0.4313516811105901
+                    ],
+                    [
+                        "arrow",
+                        0.5163701030715058
+                    ],
+                    [
+                        "picture",
+                        0.5355869023956248
+                    ],
+                    [
+                        "little",
+                        0.5435154168817726
+                    ],
+                    [
+                        "e.",
+                        0.5593873648150474
+                    ],
+                    [
+                        "important",
+                        0.562311959071053
+                    ],
+                    [
+                        "component",
+                        0.5722377522699221
+                    ],
+                    [
+                        "e. Oh",
+                        0.5922621903818124
+                    ],
+                    [
+                        "vertical",
+                        0.9054656313673123
+                    ],
+                    [
+                        "course",
+                        0.9170119900525995
+                    ],
+                    [
+                        "xy",
+                        0.9201502686028187
+                    ],
+                    [
+                        "natural",
+                        0.9212644805302416
+                    ],
+                    [
+                        "second",
+                        0.9212644805302416
+                    ],
+                    [
+                        "horizontal",
+                        0.9277542119812452
+                    ],
+                    [
+                        "point",
+                        0.9349039575337803
+                    ],
+                    [
+                        "space",
+                        0.9349039575337803
+                    ],
+                    [
+                        "pi e",
+                        2.326689990916681
+                    ],
+                    [
+                        "important vector",
+                        3.7747678432330853
+                    ],
+                    [
+                        "xy plane",
+                        3.8500540431386026
+                    ],
+                    [
+                        "vector space",
+                        4.858034719641751
+                    ],
+                    [
+                        "second component",
+                        5.081400811577163
+                    ]
+                ],
+                "topTopicSimilarity": 0.25,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.34315270562427347
+                    ],
+                    [
+                        "plane",
+                        0.4313516811105901
+                    ],
+                    [
+                        "component",
+                        0.5722377522699221
+                    ],
+                    [
+                        "point",
+                        0.9349039575337803
+                    ],
+                    [
+                        "space",
+                        0.9349039575337803
+                    ],
+                    [
+                        "vector space",
+                        4.858034719641751
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1530": {
+            "id": "JibVXBElKL0-1530",
+            "heat": 0.4,
+            "start": 1530.0,
+            "text": " are in there. If I removed one of them -- Suppose I removed zero zero. Suppose I tried to take the -- considered the X Y plane with a puncture, with a point removed. Like the origin. That would be, like, awful to take the origin away. Why is that? Why do I need the origin there? Because I have to be allowed -- if I had these other vectors, I have to be allowed to multiply three two -- this was three two -- by anything, by any scaler, including zero. I've got to be allowed to multiply by zero and the result's got to be there. I can't do without that point. And I have to be able to add three two to the opposite guy, minus three minus two. And if I add those I'm back to the origin again. No way I can do without the origin. Every vector space has got that zero vector in it. Okay, that's an easy vector space, because we have a natural picture of it. Okay. Similarly easy is R^3. This would be all -- let me go up a little here. This would be -- R three would be all three dimensional vectors --",
+            "metrics": {
+                "relativeDCReadability": 1.0251842488512652,
+                "lexicalDiversity": 0.4857142857142857,
+                "posComposition": {
+                    "VBP": 0.048,
+                    "IN": 0.095,
+                    "EX": 0.005,
+                    "PRP": 0.086,
+                    "VBD": 0.033,
+                    "CD": 0.062,
+                    ":": 0.038,
+                    "VB": 0.09,
+                    "NN": 0.124,
+                    "NNP": 0.043,
+                    "TO": 0.057,
+                    "DT": 0.114,
+                    "VBN": 0.024,
+                    "WDT": 0.01,
+                    "MD": 0.029,
+                    "JJ": 0.033,
+                    "RB": 0.038,
+                    "WRB": 0.01,
+                    "VBZ": 0.019,
+                    "NNS": 0.01,
+                    "VBG": 0.005,
+                    "CC": 0.019,
+                    "POS": 0.005,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.342,
+                "topicScores": [
+                    [
+                        "origin",
+                        0.3332938367297748
+                    ],
+                    [
+                        "vector",
+                        0.35262703893384706
+                    ],
+                    [
+                        "point",
+                        0.5639805586404946
+                    ],
+                    [
+                        "space",
+                        0.5763064523938937
+                    ],
+                    [
+                        "easy",
+                        0.5826366287020625
+                    ],
+                    [
+                        "X Y",
+                        0.608473642986119
+                    ],
+                    [
+                        "r^3",
+                        0.67499667312861
+                    ],
+                    [
+                        "puncture",
+                        0.9055178433493043
+                    ],
+                    [
+                        "plane",
+                        0.913183172208139
+                    ],
+                    [
+                        "awful",
+                        0.9172640646123175
+                    ],
+                    [
+                        "scaler",
+                        0.9260606854813789
+                    ],
+                    [
+                        "opposite",
+                        0.9309948747848714
+                    ],
+                    [
+                        "guy",
+                        0.9309948747848714
+                    ],
+                    [
+                        "way",
+                        0.9332879256675004
+                    ],
+                    [
+                        "result",
+                        0.9339524010718468
+                    ],
+                    [
+                        "able",
+                        0.9367376579945752
+                    ],
+                    [
+                        "little",
+                        0.9372410305597829
+                    ],
+                    [
+                        "dimensional",
+                        0.9378380381845364
+                    ],
+                    [
+                        "natural",
+                        0.940528068657889
+                    ],
+                    [
+                        "picture",
+                        0.940528068657889
+                    ],
+                    [
+                        "Y plane",
+                        1.2813227846176662
+                    ],
+                    [
+                        "X Y plane",
+                        1.8249545570244305
+                    ],
+                    [
+                        "vector space",
+                        3.1383209391234246
+                    ],
+                    [
+                        "easy vector",
+                        5.319386843474662
+                    ],
+                    [
+                        "dimensional vector",
+                        5.890152151762155
+                    ],
+                    [
+                        "opposite guy",
+                        6.504772484207542
+                    ],
+                    [
+                        "natural picture",
+                        7.664989258380052
+                    ],
+                    [
+                        "easy vector space",
+                        38.66505927338406
+                    ]
+                ],
+                "topTopicSimilarity": 0.25,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.35262703893384706
+                    ],
+                    [
+                        "point",
+                        0.5639805586404946
+                    ],
+                    [
+                        "space",
+                        0.5763064523938937
+                    ],
+                    [
+                        "r^3",
+                        0.67499667312861
+                    ],
+                    [
+                        "plane",
+                        0.913183172208139
+                    ],
+                    [
+                        "able",
+                        0.9367376579945752
+                    ],
+                    [
+                        "vector space",
+                        3.1383209391234246
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1620": {
+            "id": "JibVXBElKL0-1620",
+            "heat": 0.426,
+            "start": 1620.0,
+            "text": " or shall I say vectors with three real components. Okay. Let me just to be sure we're together, let me take the vector three two zero. Is that a vector in R^2 or R^3? Definitely it's in R^3. It's got three components. One of them happens to be zero, but that's a perfectly okay number. So that's a vector in R^3. We don't want to mix up the -- I mean, keep these vectors straight and keep R^n straight. So what's R^n? R^n. So this is our big example, is all vectors with n components. And I'm making these darn things column vectors. Can I try to follow that convention, that they'll be column vectors, and their components should be real numbers. Later we'll need complex numbers and complex vectors, but much later. Okay. So that's a vector space.",
+            "metrics": {
+                "relativeDCReadability": 1.1993656046212176,
+                "lexicalDiversity": 0.56,
+                "posComposition": {
+                    "CC": 0.053,
+                    "MD": 0.033,
+                    "PRP": 0.087,
+                    "VBP": 0.033,
+                    "NNS": 0.087,
+                    "IN": 0.053,
+                    "CD": 0.04,
+                    "JJ": 0.067,
+                    "NNP": 0.1,
+                    "RB": 0.053,
+                    "TO": 0.027,
+                    "VB": 0.087,
+                    "DT": 0.08,
+                    "NN": 0.067,
+                    "VBZ": 0.067,
+                    "VBD": 0.013,
+                    "WDT": 0.013,
+                    "RP": 0.007,
+                    ":": 0.007,
+                    "WP": 0.007,
+                    "PRP$": 0.013,
+                    "VBG": 0.007
+                },
+                "syllableRate": 1.642,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.26074282511457086
+                    ],
+                    [
+                        "r^3",
+                        0.2679987886379567
+                    ],
+                    [
+                        "component",
+                        0.37951964097936425
+                    ],
+                    [
+                        "okay",
+                        0.4260196991207168
+                    ],
+                    [
+                        "R^n",
+                        0.43829911414053785
+                    ],
+                    [
+                        "number",
+                        0.4512389467058303
+                    ],
+                    [
+                        "column",
+                        0.5677012062498837
+                    ],
+                    [
+                        "real",
+                        0.5683977724864403
+                    ],
+                    [
+                        "straight",
+                        0.5774596593780951
+                    ],
+                    [
+                        "complex",
+                        0.586657068699337
+                    ],
+                    [
+                        "R^2",
+                        0.6180390454116762
+                    ],
+                    [
+                        "sure",
+                        0.9016991596754603
+                    ],
+                    [
+                        "space",
+                        0.9204552838465524
+                    ],
+                    [
+                        "big",
+                        0.9295992906770238
+                    ],
+                    [
+                        "example",
+                        0.9295992906770238
+                    ],
+                    [
+                        "convention",
+                        0.9319353265405041
+                    ],
+                    [
+                        "darn",
+                        0.936864169575616
+                    ],
+                    [
+                        "thing",
+                        0.936864169575616
+                    ],
+                    [
+                        "column vector",
+                        2.718415674839803
+                    ],
+                    [
+                        "okay number",
+                        3.328006100227976
+                    ],
+                    [
+                        "real component",
+                        3.8515221704147007
+                    ],
+                    [
+                        "R^n straight",
+                        4.058378724822052
+                    ],
+                    [
+                        "real number",
+                        4.348524474910598
+                    ],
+                    [
+                        "vector straight",
+                        4.733199715246379
+                    ],
+                    [
+                        "vector space",
+                        4.891741316082107
+                    ],
+                    [
+                        "complex vector",
+                        5.200650562758649
+                    ],
+                    [
+                        "complex number",
+                        5.216992722189477
+                    ],
+                    [
+                        "thing column",
+                        5.368471178444678
+                    ],
+                    [
+                        "big example",
+                        6.36132232487345
+                    ],
+                    [
+                        "darn thing",
+                        7.177582566585732
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.26074282511457086
+                    ],
+                    [
+                        "r^3",
+                        0.2679987886379567
+                    ],
+                    [
+                        "component",
+                        0.37951964097936425
+                    ],
+                    [
+                        "okay",
+                        0.4260196991207168
+                    ],
+                    [
+                        "number",
+                        0.4512389467058303
+                    ],
+                    [
+                        "column",
+                        0.5677012062498837
+                    ],
+                    [
+                        "R^2",
+                        0.6180390454116762
+                    ],
+                    [
+                        "space",
+                        0.9204552838465524
+                    ],
+                    [
+                        "example",
+                        0.9295992906770238
+                    ],
+                    [
+                        "thing",
+                        0.936864169575616
+                    ],
+                    [
+                        "vector space",
+                        4.891741316082107
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1710": {
+            "id": "JibVXBElKL0-1710",
+            "heat": 0.186,
+            "start": 1710.0,
+            "text": " Now, let's see. What do I have to tell you about vector spaces? I said the most important thing, which is that we can add any two of these and we -- still in R^2. We can multiply by any number and we're still in R^2. We can take any combination and we're still in R^2. And same goes for R^n. It's -- honesty requires me to mention that these operations of adding and multiplying have to obey a few rules. Like, we can't just arbitrarily say, okay, the sum of three two and pi e is zero zero. It's not. The sum of three two and minus three two is zero zero. So -- oh, I'm not going to -- the book, actually, lists the eight rules that the addition and multiplication have to satisfy, but they do. They certainly satisfy it in R^n and usually it's not those eight rules that are in doubt. What's -- the question is, can we do those additions and do we stay in the space? Let me show you a case where you can't. So suppose this is going to be not a vector space.",
+            "metrics": {
+                "relativeDCReadability": 0.9789928539190083,
+                "lexicalDiversity": 0.4630541871921182,
+                "posComposition": {
+                    "RB": 0.074,
+                    "VBP": 0.069,
+                    "POS": 0.005,
+                    "VB": 0.074,
+                    "WP": 0.01,
+                    "PRP": 0.113,
+                    "TO": 0.03,
+                    "IN": 0.089,
+                    "NN": 0.094,
+                    "NNS": 0.034,
+                    "VBD": 0.005,
+                    "DT": 0.094,
+                    "RBS": 0.005,
+                    "JJ": 0.015,
+                    "WDT": 0.01,
+                    "VBZ": 0.059,
+                    "MD": 0.03,
+                    "CD": 0.054,
+                    "CC": 0.054,
+                    ":": 0.025,
+                    "NNP": 0.034,
+                    "VBG": 0.02,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.208,
+                "topicScores": [
+                    [
+                        "r^2",
+                        0.22308713503464442
+                    ],
+                    [
+                        "space",
+                        0.41559276953360824
+                    ],
+                    [
+                        "rule",
+                        0.44200763905688234
+                    ],
+                    [
+                        "sum",
+                        0.5357387926327228
+                    ],
+                    [
+                        "vector",
+                        0.556206305845331
+                    ],
+                    [
+                        "R^n",
+                        0.5677098584797617
+                    ],
+                    [
+                        "addition",
+                        0.5735113304730025
+                    ],
+                    [
+                        "important",
+                        0.8933089415002315
+                    ],
+                    [
+                        "thing",
+                        0.8933089415002315
+                    ],
+                    [
+                        "doubt",
+                        0.9058206269363174
+                    ],
+                    [
+                        "number",
+                        0.909776833966552
+                    ],
+                    [
+                        "book",
+                        0.9136341354691552
+                    ],
+                    [
+                        "honesty",
+                        0.9136760186798677
+                    ],
+                    [
+                        "combination",
+                        0.9147628197636567
+                    ],
+                    [
+                        "question",
+                        0.9164523152436693
+                    ],
+                    [
+                        "operation",
+                        0.9214313266915959
+                    ],
+                    [
+                        "multiplying",
+                        0.9214313266915959
+                    ],
+                    [
+                        "pi",
+                        0.9238032858799149
+                    ],
+                    [
+                        "multiplication",
+                        0.9288765484373162
+                    ],
+                    [
+                        "case",
+                        0.9322196327288226
+                    ],
+                    [
+                        "vector space",
+                        1.7298485778913775
+                    ],
+                    [
+                        "important thing",
+                        3.9505162476219957
+                    ],
+                    [
+                        "pi e",
+                        5.821864586392112
+                    ]
+                ],
+                "topTopicSimilarity": 0.2608695652173913,
+                "sharedTopicScores": [
+                    [
+                        "space",
+                        0.41559276953360824
+                    ],
+                    [
+                        "vector",
+                        0.556206305845331
+                    ],
+                    [
+                        "thing",
+                        0.8933089415002315
+                    ],
+                    [
+                        "number",
+                        0.909776833966552
+                    ],
+                    [
+                        "combination",
+                        0.9147628197636567
+                    ],
+                    [
+                        "vector space",
+                        1.7298485778913775
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1800": {
+            "id": "JibVXBElKL0-1800",
+            "heat": 0.125,
+            "start": 1800.0,
+            "text": " Suppose I take the xy plane -- so there's R^2. That is a vector space. Now suppose I just take part of it. Just this. Just this one -- this is one quarter of the vector space. All the vectors with positive or at least not negative components. Can I add those safely? Yes. If I add a vector with, like, two -- three two to another vector like five six, I'm still up in this quarter, no problem with adding. But there's a heck of a problem with multiplying by scalers, because there's a lot of scalers that will take me out of this quarter plane, like negative ones. If I took three two and I multiplied by minus five, I'm way down here. So that's not a vector space, because it's not -- closed is the right word. It's not closed under multiplication by all real numbers. So a vector space has to be closed under multiplication and addition of vectors. In other words, linear combinations.",
+            "metrics": {
+                "relativeDCReadability": 1.0139404626710045,
+                "lexicalDiversity": 0.4943181818181818,
+                "posComposition": {
+                    "JJ": 0.062,
+                    "PRP": 0.068,
+                    "VBP": 0.04,
+                    "DT": 0.119,
+                    "NNP": 0.028,
+                    "NN": 0.148,
+                    ":": 0.023,
+                    "IN": 0.159,
+                    "EX": 0.017,
+                    "VBZ": 0.057,
+                    "RB": 0.057,
+                    "CD": 0.057,
+                    "PDT": 0.006,
+                    "NNS": 0.051,
+                    "CC": 0.023,
+                    "JJS": 0.006,
+                    "MD": 0.011,
+                    "VB": 0.017,
+                    "TO": 0.011,
+                    "VBG": 0.006,
+                    "WDT": 0.006,
+                    "VBD": 0.011,
+                    "VBN": 0.017
+                },
+                "syllableRate": 1.933,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.27974344189181405
+                    ],
+                    [
+                        "space",
+                        0.3642236474764232
+                    ],
+                    [
+                        "R^2",
+                        0.3985148403550092
+                    ],
+                    [
+                        "quarter",
+                        0.45023967856593455
+                    ],
+                    [
+                        "plane",
+                        0.5648962890073433
+                    ],
+                    [
+                        "negative",
+                        0.5668063047177835
+                    ],
+                    [
+                        "problem",
+                        0.5718579497814567
+                    ],
+                    [
+                        "word",
+                        0.5742022953180038
+                    ],
+                    [
+                        "multiplication",
+                        0.5742022953180039
+                    ],
+                    [
+                        "scaler",
+                        0.5849042905947446
+                    ],
+                    [
+                        "xy",
+                        0.8223218046084487
+                    ],
+                    [
+                        "component",
+                        0.8983537119303152
+                    ],
+                    [
+                        "adding",
+                        0.9089613621895148
+                    ],
+                    [
+                        "combination",
+                        0.9093632097277162
+                    ],
+                    [
+                        "number",
+                        0.9164081440217061
+                    ],
+                    [
+                        "positive",
+                        0.9244289355734729
+                    ],
+                    [
+                        "linear",
+                        0.9269970445935872
+                    ],
+                    [
+                        "right",
+                        0.9307229364392897
+                    ],
+                    [
+                        "real",
+                        0.9319455968528543
+                    ],
+                    [
+                        "heck",
+                        0.9342798915076607
+                    ],
+                    [
+                        "lot",
+                        0.9342798915076607
+                    ],
+                    [
+                        "addition",
+                        0.9391571862511412
+                    ],
+                    [
+                        "vector space",
+                        1.2916078614287487
+                    ],
+                    [
+                        "xy plane",
+                        2.791571833736781
+                    ],
+                    [
+                        "negative one",
+                        4.149498007813685
+                    ],
+                    [
+                        "quarter plane",
+                        4.160882212785263
+                    ],
+                    [
+                        "negative component",
+                        4.182719198414162
+                    ],
+                    [
+                        "linear combination",
+                        5.368494107118213
+                    ],
+                    [
+                        "right word",
+                        5.537691313461763
+                    ],
+                    [
+                        "real number",
+                        5.8513110872840155
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.27974344189181405
+                    ],
+                    [
+                        "space",
+                        0.3642236474764232
+                    ],
+                    [
+                        "R^2",
+                        0.3985148403550092
+                    ],
+                    [
+                        "plane",
+                        0.5648962890073433
+                    ],
+                    [
+                        "component",
+                        0.8983537119303152
+                    ],
+                    [
+                        "combination",
+                        0.9093632097277162
+                    ],
+                    [
+                        "number",
+                        0.9164081440217061
+                    ],
+                    [
+                        "linear",
+                        0.9269970445935872
+                    ],
+                    [
+                        "vector space",
+                        1.2916078614287487
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1890": {
+            "id": "JibVXBElKL0-1890",
+            "heat": 0.111,
+            "start": 1890.0,
+            "text": " It -- so, it means that if I give you a few vectors -- yeah look, here's an important -- here -- now we're getting to some really important vector spaces. Well, R^n -- like, they are the most important. But we will be interested in so- in vector spaces that are inside R^n. Vector spaces that follow the rules, but they -- we don't need all of -- see, there we started with R^2 here, and took part of it and messed it up. What we got was not a vector space. Now tell me a vector space that is part of R^2 and is still safely -- we can multiply, we can add and we stay in this smaller vector space. So it's going to be called a subspace. So I'm going to change this bad example to a good one. Okay. So I'm going to start again with R^2, but I'm going to take an example -- it is a vector space, so it'll be a vector space inside R^2. And we'll call that a subspace of R^2.",
+            "metrics": {
+                "relativeDCReadability": 0.9562423629160812,
+                "lexicalDiversity": 0.4789473684210526,
+                "posComposition": {
+                    "PRP": 0.126,
+                    ":": 0.047,
+                    "IN": 0.105,
+                    "VBZ": 0.037,
+                    "VBP": 0.053,
+                    "DT": 0.084,
+                    "JJ": 0.047,
+                    "NNS": 0.021,
+                    "VB": 0.068,
+                    "NN": 0.1,
+                    "RB": 0.058,
+                    "VBG": 0.026,
+                    "TO": 0.032,
+                    "NNP": 0.053,
+                    "RBS": 0.005,
+                    "CC": 0.042,
+                    "MD": 0.026,
+                    "WDT": 0.011,
+                    "EX": 0.005,
+                    "VBD": 0.026,
+                    "RP": 0.005,
+                    "WP": 0.005,
+                    "JJR": 0.005,
+                    "VBN": 0.005,
+                    "CD": 0.005
+                },
+                "syllableRate": 1.942,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.2463685135113328
+                    ],
+                    [
+                        "R^2",
+                        0.247096244780907
+                    ],
+                    [
+                        "space",
+                        0.25659731160986005
+                    ],
+                    [
+                        "important",
+                        0.4301284877496857
+                    ],
+                    [
+                        "R^n",
+                        0.5385185244912585
+                    ],
+                    [
+                        "subspace",
+                        0.5654182537035674
+                    ],
+                    [
+                        "example",
+                        0.5763739347046745
+                    ],
+                    [
+                        "vector space",
+                        0.6281843314961676
+                    ],
+                    [
+                        "rule",
+                        0.9099781795224166
+                    ],
+                    [
+                        "interested",
+                        0.9111386235493042
+                    ],
+                    [
+                        "so-",
+                        0.9111386235493042
+                    ],
+                    [
+                        "good",
+                        0.9239759451557882
+                    ],
+                    [
+                        "small",
+                        0.9256832710461815
+                    ],
+                    [
+                        "bad",
+                        0.9305530907052948
+                    ],
+                    [
+                        "important vector",
+                        2.378951568268332
+                    ],
+                    [
+                        "small vector",
+                        3.125349603802516
+                    ],
+                    [
+                        "bad example",
+                        5.670631838872543
+                    ],
+                    [
+                        "important vector space",
+                        7.548484292530251
+                    ],
+                    [
+                        "small vector space",
+                        10.96283650116223
+                    ]
+                ],
+                "topTopicSimilarity": 0.3157894736842105,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.2463685135113328
+                    ],
+                    [
+                        "R^2",
+                        0.247096244780907
+                    ],
+                    [
+                        "space",
+                        0.25659731160986005
+                    ],
+                    [
+                        "subspace",
+                        0.5654182537035674
+                    ],
+                    [
+                        "example",
+                        0.5763739347046745
+                    ],
+                    [
+                        "vector space",
+                        0.6281843314961676
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-1980": {
+            "id": "JibVXBElKL0-1980",
+            "heat": 0.1,
+            "start": 1980.0,
+            "text": " Okay. What can I do? It's got something in it. Suppose it's got this vector in it. Okay. If that vector's in my little subspace and it's a true subspace, then there's got to be some more in it, right? I have to be able to multiply that by two, and that double vector has to be included. Have to be able to multiply by zero, that vector, or by half, or by three quarters. All these vectors. Or by minus a half, or by minus one. I have to be able to multiply by any number. So that is going to say that I have to have that whole line. Do you see that? Once I get a vector in there -- I've got the whole line of all multiples of that vector. I can't have a vector space without extending to get those multiples in there. Now I still have to check addition. But that comes out okay. This line is going to work, because I could add something on the line to something else on the line and I'm still on the line. So, example. So this is all examples of a subspace --",
+            "metrics": {
+                "relativeDCReadability": 0.9209780017630663,
+                "lexicalDiversity": 0.4097560975609756,
+                "posComposition": {
+                    "IN": 0.156,
+                    "WP": 0.005,
+                    "MD": 0.015,
+                    "PRP": 0.083,
+                    "VB": 0.078,
+                    "VBZ": 0.044,
+                    "VBD": 0.02,
+                    "NN": 0.127,
+                    "DT": 0.107,
+                    "NNP": 0.02,
+                    "POS": 0.005,
+                    "PRP$": 0.005,
+                    "JJ": 0.039,
+                    "CC": 0.044,
+                    "RB": 0.044,
+                    "EX": 0.01,
+                    "TO": 0.068,
+                    "RBR": 0.005,
+                    "VBP": 0.039,
+                    "CD": 0.015,
+                    "VBN": 0.01,
+                    "WDT": 0.005,
+                    "NNS": 0.024,
+                    "PDT": 0.005,
+                    "VBG": 0.015,
+                    ":": 0.01,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.15,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.2838620683170434
+                    ],
+                    [
+                        "line",
+                        0.32270109361589816
+                    ],
+                    [
+                        "able",
+                        0.4164335689414913
+                    ],
+                    [
+                        "subspace",
+                        0.45548609380359306
+                    ],
+                    [
+                        "half",
+                        0.567769150200679
+                    ],
+                    [
+                        "example",
+                        0.5812146405658055
+                    ],
+                    [
+                        "multiple",
+                        0.5882289500588826
+                    ],
+                    [
+                        "right",
+                        0.899516465545807
+                    ],
+                    [
+                        "quarter",
+                        0.915963556360718
+                    ],
+                    [
+                        "number",
+                        0.9223558282574077
+                    ],
+                    [
+                        "true",
+                        0.9241533750883884
+                    ],
+                    [
+                        "addition",
+                        0.928385770933869
+                    ],
+                    [
+                        "little",
+                        0.9304229743046547
+                    ],
+                    [
+                        "double",
+                        0.9335247690836237
+                    ],
+                    [
+                        "double vector",
+                        5.250219831784899
+                    ],
+                    [
+                        "true subspace",
+                        5.32423152880452
+                    ],
+                    [
+                        "little subspace",
+                        5.561225683562484
+                    ],
+                    [
+                        "vector space",
+                        5.676038708199639
+                    ]
+                ],
+                "topTopicSimilarity": 0.3888888888888889,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.2838620683170434
+                    ],
+                    [
+                        "line",
+                        0.32270109361589816
+                    ],
+                    [
+                        "able",
+                        0.4164335689414913
+                    ],
+                    [
+                        "subspace",
+                        0.45548609380359306
+                    ],
+                    [
+                        "example",
+                        0.5812146405658055
+                    ],
+                    [
+                        "number",
+                        0.9223558282574077
+                    ],
+                    [
+                        "vector space",
+                        5.676038708199639
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2070": {
+            "id": "JibVXBElKL0-2070",
+            "heat": 0.1,
+            "start": 2070.0,
+            "text": " our example is a line in R^2 actually -- not just any line. If I took this line, would that -- so all the vectors on that line. So that vector and that vector and this vector and this vector -- in lighter type, I'm drawing something that doesn't work. It's not a subspace. The line in R^2 -- to be a subspace, the line in R^2 must go through the zero vector. Because -- why is this line no good? Let me do a dashed line. Because if I multiplied that vector on the dashed line by zero, then I'm down here, I'm not on the dashed line. Z- zero's got to be. Every subspace has got to contain zero -- because I must be allowed to multiply by zero and that will always give me the zero vector. Okay. Now, I was going to make -- create some subspaces. Oh, while I'm in R^2, why don't we think of all the possibilities.",
+            "metrics": {
+                "relativeDCReadability": 1.0601343372726488,
+                "lexicalDiversity": 0.47093023255813954,
+                "posComposition": {
+                    "PRP$": 0.006,
+                    "NN": 0.163,
+                    "VBZ": 0.029,
+                    "DT": 0.14,
+                    "IN": 0.122,
+                    "NNP": 0.047,
+                    "RB": 0.07,
+                    ":": 0.041,
+                    "PRP": 0.07,
+                    "VBD": 0.023,
+                    "MD": 0.023,
+                    "PDT": 0.012,
+                    "NNS": 0.017,
+                    "CC": 0.023,
+                    "JJR": 0.006,
+                    "VBP": 0.029,
+                    "VBG": 0.012,
+                    "WDT": 0.006,
+                    "VB": 0.076,
+                    "TO": 0.029,
+                    "WRB": 0.012,
+                    "JJ": 0.017,
+                    "VBN": 0.017,
+                    "POS": 0.006,
+                    "CD": 0.006
+                },
+                "syllableRate": 1.833,
+                "topicScores": [
+                    [
+                        "line",
+                        0.25784766089721023
+                    ],
+                    [
+                        "R^2",
+                        0.2626991332274668
+                    ],
+                    [
+                        "vector",
+                        0.2748487541669351
+                    ],
+                    [
+                        "subspace",
+                        0.390436903260638
+                    ],
+                    [
+                        "dashed",
+                        0.5709092771905817
+                    ],
+                    [
+                        "Z-",
+                        0.6512563228659962
+                    ],
+                    [
+                        "example",
+                        0.8431044741276295
+                    ],
+                    [
+                        "light",
+                        0.8969761923387799
+                    ],
+                    [
+                        "type",
+                        0.9076537991347177
+                    ],
+                    [
+                        "good",
+                        0.9089219829663884
+                    ],
+                    [
+                        "possibility",
+                        0.9252554579043167
+                    ],
+                    [
+                        "dashed line",
+                        2.6406723182131295
+                    ],
+                    [
+                        "light type",
+                        4.380505262039823
+                    ]
+                ],
+                "topTopicSimilarity": 0.38461538461538464,
+                "sharedTopicScores": [
+                    [
+                        "line",
+                        0.25784766089721023
+                    ],
+                    [
+                        "R^2",
+                        0.2626991332274668
+                    ],
+                    [
+                        "vector",
+                        0.2748487541669351
+                    ],
+                    [
+                        "subspace",
+                        0.390436903260638
+                    ],
+                    [
+                        "example",
+                        0.8431044741276295
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2160": {
+            "id": "JibVXBElKL0-2160",
+            "heat": 0.1,
+            "start": 2160.0,
+            "text": " R two, there can't be that many. So what are the possible subspaces of R^2? Let me list them. So I'm listing now the subspaces of R^2. And one possibility that we always allow is all of R two, the whole thing, the whole space. That counts as a subspace of itself. You always want to allow that. Then the others are lines -- any line, meaning infinitely far in both directions through the zero. So that's like the whole space -- that's like whole two D space. This is like one dimension. Is this line the same as R^1 ? No. You could say it looks a lot like R^1. R^1 was just a line and this is a line. But this is a line inside R^2. The vectors here have two components. So that's not the same as R^1, because there the vectors only have one component. Very close, you could say, but not the same. Okay.",
+            "metrics": {
+                "relativeDCReadability": 0.9130422604100228,
+                "lexicalDiversity": 0.4723926380368098,
+                "posComposition": {
+                    "RB": 0.104,
+                    "CD": 0.043,
+                    "EX": 0.012,
+                    "MD": 0.018,
+                    "VB": 0.031,
+                    "JJ": 0.061,
+                    "IN": 0.104,
+                    "WP": 0.006,
+                    "VBP": 0.043,
+                    "DT": 0.166,
+                    "NNS": 0.049,
+                    "NNP": 0.08,
+                    "PRP": 0.055,
+                    "VBG": 0.006,
+                    "CC": 0.025,
+                    "NN": 0.098,
+                    "VBZ": 0.061,
+                    "WDT": 0.012,
+                    "TO": 0.006,
+                    ":": 0.012,
+                    "VBD": 0.006
+                },
+                "syllableRate": 1.692,
+                "topicScores": [
+                    [
+                        "R^2",
+                        0.26216169375027604
+                    ],
+                    [
+                        "line",
+                        0.31610152292047716
+                    ],
+                    [
+                        "r",
+                        0.31743615350746435
+                    ],
+                    [
+                        "r^1",
+                        0.3889176688419263
+                    ],
+                    [
+                        "subspace",
+                        0.4222107567561042
+                    ],
+                    [
+                        "component",
+                        0.5497549328743081
+                    ],
+                    [
+                        "vector",
+                        0.5680584961102739
+                    ],
+                    [
+                        "D",
+                        0.6608420100913985
+                    ],
+                    [
+                        "possible",
+                        0.8820091283217538
+                    ],
+                    [
+                        "thing",
+                        0.9105963643857029
+                    ],
+                    [
+                        "dimension",
+                        0.9123682574563338
+                    ],
+                    [
+                        "possibility",
+                        0.9175747258978727
+                    ],
+                    [
+                        "direction",
+                        0.9283013164993607
+                    ],
+                    [
+                        "lot",
+                        0.9362913750320312
+                    ],
+                    [
+                        "D space",
+                        1.3291156502785586
+                    ],
+                    [
+                        "possible subspace",
+                        2.918303114696038
+                    ]
+                ],
+                "topTopicSimilarity": 0.4375,
+                "sharedTopicScores": [
+                    [
+                        "R^2",
+                        0.26216169375027604
+                    ],
+                    [
+                        "line",
+                        0.31610152292047716
+                    ],
+                    [
+                        "r",
+                        0.31743615350746435
+                    ],
+                    [
+                        "subspace",
+                        0.4222107567561042
+                    ],
+                    [
+                        "component",
+                        0.5497549328743081
+                    ],
+                    [
+                        "vector",
+                        0.5680584961102739
+                    ],
+                    [
+                        "thing",
+                        0.9105963643857029
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2250": {
+            "id": "JibVXBElKL0-2250",
+            "heat": 0.1,
+            "start": 2250.0,
+            "text": " And now there's a third possibility. There's a third subspace that's -- of R^2 that's not the whole thing, and it's not a line. It's even less. It's just the zero vector alone. The zero vector alone, only. I'll often call this subspace Z, just for zero. Here's a line, L. Here's a plane, all of R^2. So, do you see that the zero vector's okay? You would just -- to understand subspaces, we have to know the rules -- and knowing the rules means that we have to see that yes, the zero vector by itself, just this guy alone satisfies the rules. Why's that? Oh, it's too dumb to tell you. If I took that and added it to itself, I'm still there. If I took that and multiplied by seventeen, I'm still there. So I've done the operations, adding and multiplying by numbers, that are required, and I didn't go outside this one point space. So that's always -- that's the littlest subspace. And the largest subspace is the whole thing and in-between come",
+            "metrics": {
+                "relativeDCReadability": 0.9851298300181534,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "CC": 0.046,
+                    "RB": 0.112,
+                    "EX": 0.01,
+                    "VBZ": 0.082,
+                    "DT": 0.122,
+                    "JJ": 0.031,
+                    "NN": 0.122,
+                    "WDT": 0.026,
+                    ":": 0.02,
+                    "IN": 0.066,
+                    "NNP": 0.036,
+                    "PRP": 0.097,
+                    "JJR": 0.005,
+                    "MD": 0.01,
+                    "VB": 0.041,
+                    "POS": 0.01,
+                    "TO": 0.026,
+                    "NNS": 0.031,
+                    "VBP": 0.031,
+                    "VBG": 0.015,
+                    "PDT": 0.005,
+                    "WRB": 0.005,
+                    "VBD": 0.02,
+                    "VBN": 0.015,
+                    "CD": 0.005,
+                    "JJS": 0.01
+                },
+                "syllableRate": 2.092,
+                "topicScores": [
+                    [
+                        "subspace",
+                        0.34393412373651555
+                    ],
+                    [
+                        "vector",
+                        0.3543801015262787
+                    ],
+                    [
+                        "rule",
+                        0.441016988842326
+                    ],
+                    [
+                        "line",
+                        0.5444044935608555
+                    ],
+                    [
+                        "thing",
+                        0.5503328012104755
+                    ],
+                    [
+                        "R^2",
+                        0.5679682021510166
+                    ],
+                    [
+                        "Z",
+                        0.6429176178266129
+                    ],
+                    [
+                        "L.",
+                        0.6520006531066455
+                    ],
+                    [
+                        "possibility",
+                        0.8448909333478014
+                    ],
+                    [
+                        "okay",
+                        0.9070042625930732
+                    ],
+                    [
+                        "come",
+                        0.9111780604490726
+                    ],
+                    [
+                        "plane",
+                        0.9194567149542264
+                    ],
+                    [
+                        "guy",
+                        0.9299181063526492
+                    ],
+                    [
+                        "operation",
+                        0.930495704045539
+                    ],
+                    [
+                        "number",
+                        0.930495704045539
+                    ],
+                    [
+                        "point",
+                        0.930495704045539
+                    ],
+                    [
+                        "little",
+                        0.9314012442128096
+                    ],
+                    [
+                        "dumb",
+                        0.93286126135751
+                    ],
+                    [
+                        "large",
+                        0.9376267307056705
+                    ],
+                    [
+                        "little subspace",
+                        4.816273958849256
+                    ],
+                    [
+                        "large subspace",
+                        5.009739356741903
+                    ],
+                    [
+                        "point space",
+                        5.819728649996452
+                    ]
+                ],
+                "topTopicSimilarity": 0.4090909090909091,
+                "sharedTopicScores": [
+                    [
+                        "subspace",
+                        0.34393412373651555
+                    ],
+                    [
+                        "vector",
+                        0.3543801015262787
+                    ],
+                    [
+                        "line",
+                        0.5444044935608555
+                    ],
+                    [
+                        "thing",
+                        0.5503328012104755
+                    ],
+                    [
+                        "R^2",
+                        0.5679682021510166
+                    ],
+                    [
+                        "okay",
+                        0.9070042625930732
+                    ],
+                    [
+                        "plane",
+                        0.9194567149542264
+                    ],
+                    [
+                        "number",
+                        0.930495704045539
+                    ],
+                    [
+                        "point",
+                        0.930495704045539
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2340": {
+            "id": "JibVXBElKL0-2340",
+            "heat": 0.1,
+            "start": 2340.0,
+            "text": " all -- whatever's in between. Okay. So for example, what's in between for R^3? So if I'm in ordinary three dimensions, the subspace is R, all of R^3 at one extreme, the zero vector at the bottom. And then a plane, a plane through the origin. Or a line, a line through the origin. So with R^3, the subspaces were R^3, plane through the origin, line through the origin and a zero vector by itself, zero zero zero, just that single vector. Okay, you've got the idea. But, now comes -- the reality is -- what are these -- where do these subspaces come -- how do they come out of matrices? And I want to take this matrix -- oh, let me take that matrix. So I want to create some subspaces out of that matrix. Well, one subspace is from the columns. Okay. So this is the important subspace,",
+            "metrics": {
+                "relativeDCReadability": 1.1682037314322744,
+                "lexicalDiversity": 0.4645161290322581,
+                "posComposition": {
+                    "DT": 0.168,
+                    ":": 0.039,
+                    "WDT": 0.006,
+                    "POS": 0.006,
+                    "IN": 0.148,
+                    "NNP": 0.077,
+                    "NN": 0.187,
+                    "WP": 0.013,
+                    "VBZ": 0.039,
+                    "PRP": 0.045,
+                    "VBP": 0.052,
+                    "JJ": 0.026,
+                    "CD": 0.026,
+                    "NNS": 0.032,
+                    "CC": 0.032,
+                    "RB": 0.032,
+                    "VBD": 0.006,
+                    "VBN": 0.006,
+                    "WRB": 0.013,
+                    "VB": 0.032,
+                    "TO": 0.013
+                },
+                "syllableRate": 1.767,
+                "topicScores": [
+                    [
+                        "r^3",
+                        0.2671154798476226
+                    ],
+                    [
+                        "subspace",
+                        0.31890317489528497
+                    ],
+                    [
+                        "matrix",
+                        0.35464814458966104
+                    ],
+                    [
+                        "origin",
+                        0.3608840607974564
+                    ],
+                    [
+                        "plane",
+                        0.4365137990429812
+                    ],
+                    [
+                        "line",
+                        0.4385117801734668
+                    ],
+                    [
+                        "vector",
+                        0.4492558729103311
+                    ],
+                    [
+                        "example",
+                        0.904642655684608
+                    ],
+                    [
+                        "dimension",
+                        0.9144963098994068
+                    ],
+                    [
+                        "extreme",
+                        0.9144963098994068
+                    ],
+                    [
+                        "idea",
+                        0.9196237645952717
+                    ],
+                    [
+                        "ordinary",
+                        0.9214963669467086
+                    ],
+                    [
+                        "column",
+                        0.9274308806367757
+                    ],
+                    [
+                        "reality",
+                        0.9287832498948071
+                    ],
+                    [
+                        "single",
+                        0.9311305861627235
+                    ],
+                    [
+                        "important",
+                        0.9414541211396324
+                    ],
+                    [
+                        "single vector",
+                        5.121141125089489
+                    ],
+                    [
+                        "important subspace",
+                        5.3637428051718
+                    ]
+                ],
+                "topTopicSimilarity": 0.4444444444444444,
+                "sharedTopicScores": [
+                    [
+                        "r^3",
+                        0.2671154798476226
+                    ],
+                    [
+                        "subspace",
+                        0.31890317489528497
+                    ],
+                    [
+                        "matrix",
+                        0.35464814458966104
+                    ],
+                    [
+                        "plane",
+                        0.4365137990429812
+                    ],
+                    [
+                        "line",
+                        0.4385117801734668
+                    ],
+                    [
+                        "vector",
+                        0.4492558729103311
+                    ],
+                    [
+                        "example",
+                        0.904642655684608
+                    ],
+                    [
+                        "column",
+                        0.9274308806367757
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2430": {
+            "id": "JibVXBElKL0-2430",
+            "heat": 0.1,
+            "start": 2430.0,
+            "text": " the first important subspace that comes from that matrix -- I'm going to -- let me call it A again. Back to -- okay. I'm looking at the columns of A. Those are vectors in R^3. So the columns are in R^3. The columns are in R^3. So I want those columns to be in my subspace. Now I can't just put two columns in my subspace and call it a subspace. What do I have to throw in -- if I'm going to put those two columns in, what else has got to be there to have a subspace? I must be able to add those things. So the sum of those columns -- so these columns are in R^3, and I have to be able -- I'm, you know, I want that to be in my subspace, I want that to be in my subspace, but therefore I have to be able to multiply them by anything. Zero zero zero has got to be in my subspace. I have to be able to add them so that four five five is in the subspace. I've got to be able to add one of these plus three of these. That'll give me some other vector. I have to be able to take all the linear combinations.",
+            "metrics": {
+                "relativeDCReadability": 0.9514724169087146,
+                "lexicalDiversity": 0.4017857142857143,
+                "posComposition": {
+                    "DT": 0.098,
+                    "JJ": 0.045,
+                    "NN": 0.085,
+                    "WDT": 0.004,
+                    "VBZ": 0.018,
+                    "IN": 0.103,
+                    ":": 0.027,
+                    "PRP": 0.098,
+                    "VBP": 0.085,
+                    "VBG": 0.013,
+                    "TO": 0.089,
+                    "VB": 0.112,
+                    "NNP": 0.04,
+                    "RB": 0.04,
+                    "NNS": 0.031,
+                    "PRP$": 0.022,
+                    "MD": 0.013,
+                    "CD": 0.031,
+                    "CC": 0.018,
+                    "WP": 0.009,
+                    "VBN": 0.013,
+                    "PDT": 0.004
+                },
+                "syllableRate": 2.258,
+                "topicScores": [
+                    [
+                        "r^3",
+                        0.21181032631098037
+                    ],
+                    [
+                        "subspace",
+                        0.25081615623466835
+                    ],
+                    [
+                        "column",
+                        0.25932537847319453
+                    ],
+                    [
+                        "able",
+                        0.27427879843087233
+                    ],
+                    [
+                        "vector",
+                        0.5662783081341624
+                    ],
+                    [
+                        "a.",
+                        0.5730940758677693
+                    ],
+                    [
+                        "matrix",
+                        0.8186558539213541
+                    ],
+                    [
+                        "important",
+                        0.8300114809714491
+                    ],
+                    [
+                        "thing",
+                        0.9114779761962104
+                    ],
+                    [
+                        "combination",
+                        0.9221567457564334
+                    ],
+                    [
+                        "sum",
+                        0.9312041671934551
+                    ],
+                    [
+                        "linear",
+                        0.9333161492190823
+                    ],
+                    [
+                        "important subspace",
+                        2.2421211376231125
+                    ],
+                    [
+                        "linear combination",
+                        6.176884954953512
+                    ]
+                ],
+                "topTopicSimilarity": 0.7142857142857143,
+                "sharedTopicScores": [
+                    [
+                        "r^3",
+                        0.21181032631098037
+                    ],
+                    [
+                        "subspace",
+                        0.25081615623466835
+                    ],
+                    [
+                        "column",
+                        0.25932537847319453
+                    ],
+                    [
+                        "able",
+                        0.27427879843087233
+                    ],
+                    [
+                        "vector",
+                        0.5662783081341624
+                    ],
+                    [
+                        "a.",
+                        0.5730940758677693
+                    ],
+                    [
+                        "matrix",
+                        0.8186558539213541
+                    ],
+                    [
+                        "thing",
+                        0.9114779761962104
+                    ],
+                    [
+                        "combination",
+                        0.9221567457564334
+                    ],
+                    [
+                        "linear",
+                        0.9333161492190823
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2520": {
+            "id": "JibVXBElKL0-2520",
+            "heat": 0.1,
+            "start": 2520.0,
+            "text": " So these are columns in R^3 and all there linear combinations form a subspace. What do I mean by linear combinations? I mean multiply that by something, multiply that by something and add. The two operations of linear algebra, multiplying by numbers and adding vectors. And, if I include all the results, then I'm guaranteed to have a subspace. I've done the job. And we'll give it a name -- the column space. Column space. And maybe I'll call it C of A. C for column space. There's an idea there that -- Like, the central idea for today's lecture is -- got a few vectors. Not satisfied with a few vectors, we want a space of vectors. The vectors, they're in -- these vectors in -- are in R^3 ,",
+            "metrics": {
+                "relativeDCReadability": 1.094770702122053,
+                "lexicalDiversity": 0.5036496350364964,
+                "posComposition": {
+                    "IN": 0.139,
+                    "DT": 0.124,
+                    "VBP": 0.073,
+                    "NNS": 0.088,
+                    "NNP": 0.044,
+                    "CC": 0.044,
+                    "RB": 0.044,
+                    "JJ": 0.044,
+                    "NN": 0.139,
+                    "WP": 0.007,
+                    "PRP": 0.08,
+                    "VB": 0.036,
+                    "CD": 0.007,
+                    "VBG": 0.007,
+                    "PDT": 0.007,
+                    "VBN": 0.022,
+                    "TO": 0.007,
+                    "MD": 0.015,
+                    ":": 0.036,
+                    "EX": 0.007,
+                    "VBZ": 0.015,
+                    "POS": 0.007,
+                    "VBD": 0.007
+                },
+                "syllableRate": 1.592,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.3254559113494127
+                    ],
+                    [
+                        "space",
+                        0.38736658753608605
+                    ],
+                    [
+                        "r^3",
+                        0.41109590586226863
+                    ],
+                    [
+                        "linear",
+                        0.4342011778576153
+                    ],
+                    [
+                        "column",
+                        0.44859432683423295
+                    ],
+                    [
+                        "subspace",
+                        0.5042059004643714
+                    ],
+                    [
+                        "combination",
+                        0.5172595643476331
+                    ],
+                    [
+                        "idea",
+                        0.5937105527141863
+                    ],
+                    [
+                        "a.",
+                        0.7046667722261588
+                    ],
+                    [
+                        "C",
+                        0.7046667722261588
+                    ],
+                    [
+                        "job",
+                        0.892953730489615
+                    ],
+                    [
+                        "algebra",
+                        0.9056660855197183
+                    ],
+                    [
+                        "result",
+                        0.9125488529374466
+                    ],
+                    [
+                        "operation",
+                        0.9161312798319674
+                    ],
+                    [
+                        "number",
+                        0.9161312798319674
+                    ],
+                    [
+                        "central",
+                        0.9280920232702855
+                    ],
+                    [
+                        "lecture",
+                        0.9280920232702855
+                    ],
+                    [
+                        "satisfied",
+                        0.9297118811620886
+                    ],
+                    [
+                        "today",
+                        0.9362444717717467
+                    ],
+                    [
+                        "a. C",
+                        0.9863153198520129
+                    ],
+                    [
+                        "linear combination",
+                        1.5594060695729228
+                    ],
+                    [
+                        "column space",
+                        2.6375435383133072
+                    ],
+                    [
+                        "linear algebra",
+                        3.6834582229015296
+                    ],
+                    [
+                        "central idea",
+                        6.895333881129513
+                    ]
+                ],
+                "topTopicSimilarity": 0.375,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.3254559113494127
+                    ],
+                    [
+                        "space",
+                        0.38736658753608605
+                    ],
+                    [
+                        "r^3",
+                        0.41109590586226863
+                    ],
+                    [
+                        "linear",
+                        0.4342011778576153
+                    ],
+                    [
+                        "column",
+                        0.44859432683423295
+                    ],
+                    [
+                        "subspace",
+                        0.5042059004643714
+                    ],
+                    [
+                        "combination",
+                        0.5172595643476331
+                    ],
+                    [
+                        "a.",
+                        0.7046667722261588
+                    ],
+                    [
+                        "number",
+                        0.9161312798319674
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2610": {
+            "id": "JibVXBElKL0-2610",
+            "heat": 0.103,
+            "start": 2610.0,
+            "text": " so our space of vectors will be vectors in R^3. The key idea's -- we have to be able to take their combinations. So tell me, geometrically, if I drew all these things -- like if I drew one two four, that would be somewhere maybe there. If I drew three three one, who knows, might be -- I don't know, I'll say there. There's column one, there's column two. What else -- what's in the whole column space? How do I draw the whole column space now? I take all combinations of those two vectors. Do I get -- well, I guess I actually listed the possibilities. Do I get the whole space? Do I get a plane? I get more than a line, that's for sure. And I certainly get more than the zero vector, but I do get the zero vector included. What do I get if I combine -- take all the combinations of two vectors in R^3 ? So I've got all this stuff on -- that whole line gets filled out, that whole line gets filled out, but all in-between gets filled out -- between the two lines because I -- I allowed to add something from one line, something from the other. You see what's coming? I'm getting a plane.",
+            "metrics": {
+                "relativeDCReadability": 1.0153481686086143,
+                "lexicalDiversity": 0.5221238938053098,
+                "posComposition": {
+                    "RB": 0.049,
+                    "PRP$": 0.009,
+                    "NN": 0.097,
+                    "IN": 0.093,
+                    "NNS": 0.044,
+                    "MD": 0.018,
+                    "VB": 0.071,
+                    "NNP": 0.022,
+                    "DT": 0.08,
+                    "JJ": 0.044,
+                    "POS": 0.004,
+                    ":": 0.04,
+                    "PRP": 0.106,
+                    "VBP": 0.071,
+                    "TO": 0.013,
+                    "PDT": 0.013,
+                    "VBD": 0.022,
+                    "CD": 0.053,
+                    "WDT": 0.009,
+                    "EX": 0.018,
+                    "WP": 0.022,
+                    "VBZ": 0.04,
+                    "JJR": 0.009,
+                    "CC": 0.013,
+                    "VBN": 0.018,
+                    "RP": 0.013,
+                    "VBG": 0.009
+                },
+                "syllableRate": 2.333,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.30105175179443344
+                    ],
+                    [
+                        "r^3",
+                        0.33725713643344307
+                    ],
+                    [
+                        "line",
+                        0.34305563925691285
+                    ],
+                    [
+                        "column",
+                        0.3519186627164038
+                    ],
+                    [
+                        "space",
+                        0.35338831494587
+                    ],
+                    [
+                        "combination",
+                        0.42341300746873517
+                    ],
+                    [
+                        "plane",
+                        0.5325537054027797
+                    ],
+                    [
+                        "key",
+                        0.8632805215904694
+                    ],
+                    [
+                        "idea",
+                        0.8632805215904694
+                    ],
+                    [
+                        "able",
+                        0.8716406800760934
+                    ],
+                    [
+                        "thing",
+                        0.8847109569901965
+                    ],
+                    [
+                        "possibility",
+                        0.9064806110085214
+                    ],
+                    [
+                        "sure",
+                        0.9125981159083112
+                    ],
+                    [
+                        "stuff",
+                        0.9276700603316577
+                    ],
+                    [
+                        "column space",
+                        1.2838191201499027
+                    ],
+                    [
+                        "key idea",
+                        2.9254672931545693
+                    ]
+                ],
+                "topTopicSimilarity": 0.5625,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.30105175179443344
+                    ],
+                    [
+                        "r^3",
+                        0.33725713643344307
+                    ],
+                    [
+                        "line",
+                        0.34305563925691285
+                    ],
+                    [
+                        "column",
+                        0.3519186627164038
+                    ],
+                    [
+                        "space",
+                        0.35338831494587
+                    ],
+                    [
+                        "combination",
+                        0.42341300746873517
+                    ],
+                    [
+                        "plane",
+                        0.5325537054027797
+                    ],
+                    [
+                        "able",
+                        0.8716406800760934
+                    ],
+                    [
+                        "thing",
+                        0.8847109569901965
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2700": {
+            "id": "JibVXBElKL0-2700",
+            "heat": 0.17,
+            "start": 2700.0,
+            "text": " That's my -- and it's through the origin. Those two vectors, namely one two four and three three one, when I take all their combinations, I fill out a whole plane. Please think about that. That's the picture you have to see. You sure have to see it in R^3 , because we're going to do it in R^10, and we may take a combination of five vectors in R^10, and what will we have? God knows. It's some subspace. We'll have five vectors. They'll all have ten components. We take their combinations. We don't have R^5 , because our vectors have ten components. And we possibly have, like, some five dimensional flat thing going through the origin for sure. Well, of course, if those five vectors were all on the line, then we would only get that line. So, you see, there are, like, other possibilities here. It depends what -- it depends on those five vectors. Just like if our two columns had been on the same line, then the column space would have been only a line. Here it was a plane.",
+            "metrics": {
+                "relativeDCReadability": 0.8404321504235378,
+                "lexicalDiversity": 0.450261780104712,
+                "posComposition": {
+                    "DT": 0.11,
+                    "VBZ": 0.037,
+                    "PRP$": 0.026,
+                    ":": 0.01,
+                    "CC": 0.026,
+                    "PRP": 0.11,
+                    "IN": 0.105,
+                    "NN": 0.084,
+                    "CD": 0.068,
+                    "NNS": 0.058,
+                    "RB": 0.052,
+                    "WRB": 0.005,
+                    "VBP": 0.068,
+                    "RP": 0.005,
+                    "JJ": 0.031,
+                    "NNP": 0.037,
+                    "VB": 0.052,
+                    "WDT": 0.005,
+                    "TO": 0.016,
+                    "VBG": 0.01,
+                    "MD": 0.031,
+                    "WP": 0.01,
+                    "VBN": 0.021,
+                    "VBD": 0.016,
+                    "EX": 0.005
+                },
+                "syllableRate": 1.983,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.3161699977397497
+                    ],
+                    [
+                        "R^10",
+                        0.36197253111027633
+                    ],
+                    [
+                        "line",
+                        0.3865753932084855
+                    ],
+                    [
+                        "combination",
+                        0.43775875159626215
+                    ],
+                    [
+                        "component",
+                        0.5400604515488119
+                    ],
+                    [
+                        "plane",
+                        0.5497838820392833
+                    ],
+                    [
+                        "origin",
+                        0.5571959217301883
+                    ],
+                    [
+                        "sure",
+                        0.5714618847303641
+                    ],
+                    [
+                        "column",
+                        0.5942392873088064
+                    ],
+                    [
+                        "r^3",
+                        0.6230993866486144
+                    ],
+                    [
+                        "r^5",
+                        0.6769598090471471
+                    ],
+                    [
+                        "God",
+                        0.9022564020365512
+                    ],
+                    [
+                        "subspace",
+                        0.9148285852226467
+                    ],
+                    [
+                        "picture",
+                        0.921218288082489
+                    ],
+                    [
+                        "course",
+                        0.9332780279665637
+                    ],
+                    [
+                        "possibility",
+                        0.9343371717811293
+                    ],
+                    [
+                        "dimensional",
+                        0.9427294679223206
+                    ],
+                    [
+                        "flat",
+                        0.9427294679223206
+                    ],
+                    [
+                        "thing",
+                        0.9427294679223206
+                    ],
+                    [
+                        "dimensional flat",
+                        7.987863213760503
+                    ],
+                    [
+                        "flat thing",
+                        7.987863213760503
+                    ],
+                    [
+                        "column space",
+                        8.18764627168871
+                    ],
+                    [
+                        "dimensional flat thing",
+                        88.52866465698668
+                    ]
+                ],
+                "topTopicSimilarity": 0.391304347826087,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.3161699977397497
+                    ],
+                    [
+                        "line",
+                        0.3865753932084855
+                    ],
+                    [
+                        "combination",
+                        0.43775875159626215
+                    ],
+                    [
+                        "component",
+                        0.5400604515488119
+                    ],
+                    [
+                        "plane",
+                        0.5497838820392833
+                    ],
+                    [
+                        "column",
+                        0.5942392873088064
+                    ],
+                    [
+                        "r^3",
+                        0.6230993866486144
+                    ],
+                    [
+                        "subspace",
+                        0.9148285852226467
+                    ],
+                    [
+                        "thing",
+                        0.9427294679223206
+                    ]
+                ]
+            }
+        },
+        "JibVXBElKL0-2790": {
+            "id": "JibVXBElKL0-2790",
+            "heat": 0.287,
+            "start": 2790.0,
+            "text": " Okay. I'm going to stop at that point. That's the central idea of -- the great example of how to create a subspace from a matrix. Take its columns, take their combinations, all their linear combinations and you get the column space. And that's the central sort of -- we're looking at linear algebra at a higher level. When I look at A -- now, I want to look at Ax=b. That'll be the first thing in the next lecture. How do I understand Ax=b in this language -- in this new language of vector spaces and column spaces. And what are other subspaces? So the column space is a big one, there are others to come. Okay, thanks.",
+            "metrics": {
+                "relativeDCReadability": 0.9712020420001067,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "NNP": 0.048,
+                    "PRP": 0.048,
+                    "VBP": 0.073,
+                    "VBG": 0.016,
+                    "TO": 0.032,
+                    "VB": 0.048,
+                    "IN": 0.113,
+                    "DT": 0.137,
+                    "NN": 0.137,
+                    "WDT": 0.008,
+                    "VBZ": 0.024,
+                    "JJ": 0.089,
+                    ":": 0.032,
+                    "WRB": 0.024,
+                    "PRP$": 0.024,
+                    "NNS": 0.065,
+                    "CC": 0.032,
+                    "JJR": 0.008,
+                    "RB": 0.008,
+                    "MD": 0.008,
+                    "WP": 0.008,
+                    "CD": 0.008,
+                    "EX": 0.008
+                },
+                "syllableRate": 1.392,
+                "topicScores": [
+                    [
+                        "column",
+                        0.3836610698854626
+                    ],
+                    [
+                        "space",
+                        0.3838824233491576
+                    ],
+                    [
+                        "Ax",
+                        0.43155460500999565
+                    ],
+                    [
+                        "central",
+                        0.5382103962187348
+                    ],
+                    [
+                        "combination",
+                        0.563448238479615
+                    ],
+                    [
+                        "subspace",
+                        0.565536557047499
+                    ],
+                    [
+                        "=",
+                        0.5715418666342972
+                    ],
+                    [
+                        "linear",
+                        0.5727011217804436
+                    ],
+                    [
+                        "language",
+                        0.5743094310348451
+                    ],
+                    [
+                        "point",
+                        0.8175739742105781
+                    ],
+                    [
+                        "matrix",
+                        0.8448814636762646
+                    ],
+                    [
+                        "level",
+                        0.8696925838568814
+                    ],
+                    [
+                        "thank",
+                        0.8740005025155562
+                    ],
+                    [
+                        "lecture",
+                        0.876593261346079
+                    ],
+                    [
+                        "idea",
+                        0.8811439722998834
+                    ],
+                    [
+                        "great",
+                        0.8811439722998834
+                    ],
+                    [
+                        "example",
+                        0.8948524145115921
+                    ],
+                    [
+                        "sort",
+                        0.9008356947292399
+                    ],
+                    [
+                        "high",
+                        0.9008356947292399
+                    ],
+                    [
+                        "algebra",
+                        0.9124984996788247
+                    ],
+                    [
+                        "big",
+                        0.9161240196871843
+                    ],
+                    [
+                        "b.",
+                        0.9173477428839844
+                    ],
+                    [
+                        "thing",
+                        0.9173477428839844
+                    ],
+                    [
+                        "new",
+                        0.9209829374294521
+                    ],
+                    [
+                        "vector",
+                        0.9209829374294521
+                    ],
+                    [
+                        "column space",
+                        1.927679851928132
+                    ],
+                    [
+                        "central idea",
+                        3.0266395700345665
+                    ],
+                    [
+                        "central sort",
+                        3.3187561588317234
+                    ],
+                    [
+                        "high level",
+                        3.6178737839029558
+                    ],
+                    [
+                        "great example",
+                        3.7279940384393244
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "column",
+                        0.3836610698854626
+                    ],
+                    [
+                        "space",
+                        0.3838824233491576
+                    ],
+                    [
+                        "combination",
+                        0.563448238479615
+                    ],
+                    [
+                        "subspace",
+                        0.565536557047499
+                    ],
+                    [
+                        "linear",
+                        0.5727011217804436
+                    ],
+                    [
+                        "point",
+                        0.8175739742105781
+                    ],
+                    [
+                        "matrix",
+                        0.8448814636762646
+                    ],
+                    [
+                        "example",
+                        0.8948524145115921
+                    ],
+                    [
+                        "thing",
+                        0.9173477428839844
+                    ],
+                    [
+                        "vector",
+                        0.9209829374294521
+                    ]
+                ]
+            }
+        }
+    }
+}

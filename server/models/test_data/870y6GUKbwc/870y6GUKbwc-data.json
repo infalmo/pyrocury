@@ -1,0 +1,2003 @@
+{
+    "metadata": {
+        "id": "870y6GUKbwc",
+        "avgHeat": 0.01,
+        "runtime": 790.06,
+        "dale-challReadabilityScore": 8.654143155368384,
+        "lexicalDiversity": 0.5043128234617597,
+        "posComposition": {
+            "PRP": 0.048,
+            "VBP": 0.026,
+            "RB": 0.032,
+            "VBN": 0.02,
+            "NN": 0.177,
+            "VBD": 0.013,
+            "CC": 0.026,
+            "IN": 0.137,
+            "``": 0.004,
+            "''": 0.004,
+            "DT": 0.13,
+            "JJ": 0.09,
+            "VBZ": 0.035,
+            "WDT": 0.011,
+            "JJR": 0.004,
+            "TO": 0.019,
+            "VB": 0.047,
+            "VBG": 0.017,
+            "MD": 0.029,
+            "RBR": 0.002,
+            "WRB": 0.004,
+            "NNP": 0.023,
+            "NNS": 0.051,
+            "PRP$": 0.015,
+            "WP": 0.007,
+            "CD": 0.018,
+            "POS": 0.005,
+            "RP": 0.001,
+            ":": 0.001,
+            "EX": 0.002,
+            "RBS": 0.001,
+            "JJS": 0.001
+        },
+        "syllableRate": 3.477,
+        "topicScores": [
+            [
+                "entropy",
+                0.14123496955551895
+            ],
+            [
+                "bar",
+                0.14263257097951196
+            ],
+            [
+                "system",
+                0.14662933909119247
+            ],
+            [
+                "energy",
+                0.1509066855848096
+            ],
+            [
+                "microstate",
+                0.16032483387446028
+            ],
+            [
+                "possible",
+                0.17393039626152554
+            ],
+            [
+                "number",
+                0.18466694070676884
+            ],
+            [
+                "change",
+                0.1903042717010416
+            ],
+            [
+                "molecule",
+                0.19279887101276447
+            ],
+            [
+                "cold",
+                0.19522349134225883
+            ],
+            [
+                "hot",
+                0.22013067155689403
+            ],
+            [
+                "total",
+                0.22163194801566496
+            ],
+            [
+                "process",
+                0.2316677857147179
+            ],
+            [
+                "surrounding",
+                0.24186231538654357
+            ],
+            [
+                "Boltzmann",
+                0.2548668165564576
+            ],
+            [
+                "way",
+                0.2560424044281187
+            ],
+            [
+                "spontaneous",
+                0.25627215365517075
+            ],
+            [
+                "video",
+                0.2684686679494704
+            ],
+            [
+                "cold bar",
+                0.2747037664615078
+            ],
+            [
+                "entropy change",
+                0.2754883796059187
+            ],
+            [
+                "sum",
+                0.2793516232897168
+            ],
+            [
+                "atom",
+                0.2813952723528572
+            ],
+            [
+                "balloon",
+                0.29841877715104254
+            ],
+            [
+                "die",
+                0.29979199959957203
+            ],
+            [
+                "thermodynamic",
+                0.3001786611348286
+            ],
+            [
+                "positive",
+                0.300641900831154
+            ],
+            [
+                "level",
+                0.30072692559677033
+            ],
+            [
+                "experience",
+                0.32717153015174455
+            ],
+            [
+                "2nd",
+                0.32796984350012715
+            ],
+            [
+                "example",
+                0.33068895042691127
+            ]
+        ],
+        "topicsList": [
+            "entropy",
+            "bar",
+            "system",
+            "energy",
+            "microstate",
+            "possible",
+            "number",
+            "change",
+            "molecule",
+            "cold",
+            "hot",
+            "total",
+            "process",
+            "surrounding",
+            "Boltzmann",
+            "way",
+            "spontaneous",
+            "video",
+            "cold bar",
+            "entropy change",
+            "sum",
+            "atom",
+            "balloon",
+            "die",
+            "thermodynamic",
+            "positive",
+            "level",
+            "experience",
+            "2nd",
+            "example"
+        ]
+    },
+    "chunks": {
+        "870y6GUKbwc-0": {
+            "id": "870y6GUKbwc-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " You have probably heard entropy defined or described as \"disorder.\" The usual example is that of a college dorm room, which, without regular tidying, becomes \"messier\" or \"less ordered\" over time. Supposedly the entropy of the messy room is higher than that of the tidy room. This analogy is easy to picture, but it's misleading. In this video, you'll learn a more accurate description of entropy and understand how it relates to the concept of spontaneity. This video is part of the Governing Rules video series. A small number of rules describe the physical and chemical interactions that are possible in our universe. Hi. My name is John Lienhard and I am a professor in the Department of Mechanical Engineering at MIT. Today, I'm going to talk to you about entropy, a fascinating, but often confusing topic. In order to understand the topic of this video, you should be familiar with the idea that energy is quantized and the thermodynamic definition of a system and its surroundings. After watching this video, you should be able to describe, at a basic level, the concept of a microstate. You should also be able to discuss what entropy measures in a conceptual way. First, what do we mean by a spontaneous process? In thermodynamics, a spontaneous process is one that will occur without any outside intervention given enough time. In the world around us, many everyday events proceed in a particular manner. We would call",
+            "metrics": {
+                "relativeDCReadability": 1.0610446006956773,
+                "lexicalDiversity": 0.5298804780876494,
+                "posComposition": {
+                    "PRP": 0.052,
+                    "VBP": 0.028,
+                    "RB": 0.016,
+                    "VBN": 0.012,
+                    "NN": 0.179,
+                    "VBD": 0.008,
+                    "CC": 0.036,
+                    "IN": 0.131,
+                    "``": 0.012,
+                    "''": 0.012,
+                    "DT": 0.124,
+                    "JJ": 0.1,
+                    "VBZ": 0.04,
+                    "WDT": 0.012,
+                    "JJR": 0.012,
+                    "TO": 0.028,
+                    "VB": 0.052,
+                    "VBG": 0.016,
+                    "MD": 0.024,
+                    "RBR": 0.004,
+                    "WRB": 0.004,
+                    "NNP": 0.056,
+                    "NNS": 0.024,
+                    "PRP$": 0.008,
+                    "WP": 0.008,
+                    "CD": 0.004
+                },
+                "syllableRate": 3.542,
+                "topicScores": [
+                    [
+                        "video",
+                        0.3221226825940712
+                    ],
+                    [
+                        "entropy",
+                        0.3467622212266383
+                    ],
+                    [
+                        "room",
+                        0.41046977657854533
+                    ],
+                    [
+                        "messy",
+                        0.5225369026983148
+                    ],
+                    [
+                        "time",
+                        0.523350699725813
+                    ],
+                    [
+                        "concept",
+                        0.5449813337659516
+                    ],
+                    [
+                        "order",
+                        0.5464146529121255
+                    ],
+                    [
+                        "spontaneous",
+                        0.5471538990740373
+                    ],
+                    [
+                        "process",
+                        0.5493475548407791
+                    ],
+                    [
+                        "able",
+                        0.5587657958840802
+                    ],
+                    [
+                        "topic",
+                        0.5611857443846654
+                    ],
+                    [
+                        "thermodynamic",
+                        0.564376619063739
+                    ],
+                    [
+                        "MIT",
+                        0.6288141092664852
+                    ],
+                    [
+                        "Governing",
+                        0.6433695365503828
+                    ],
+                    [
+                        "Rules",
+                        0.6433695365503828
+                    ],
+                    [
+                        "John",
+                        0.6708369430671088
+                    ],
+                    [
+                        "Lienhard",
+                        0.6708369430671088
+                    ],
+                    [
+                        "Department",
+                        0.6708369430671088
+                    ],
+                    [
+                        "Mechanical",
+                        0.6708369430671088
+                    ],
+                    [
+                        "Engineering",
+                        0.6708369430671088
+                    ],
+                    [
+                        "Governing Rules",
+                        0.7062644012252534
+                    ],
+                    [
+                        "disorder",
+                        0.7260621068431639
+                    ],
+                    [
+                        "John Lienhard",
+                        0.8182552234051906
+                    ],
+                    [
+                        "Mechanical Engineering",
+                        0.8182552234051906
+                    ],
+                    [
+                        "regular",
+                        0.8328529327426039
+                    ],
+                    [
+                        "usual",
+                        0.8466506623245136
+                    ],
+                    [
+                        "dorm",
+                        0.8466506623245136
+                    ],
+                    [
+                        "tidying",
+                        0.8466506623245136
+                    ],
+                    [
+                        "example",
+                        0.8588959137985287
+                    ],
+                    [
+                        "college",
+                        0.8588959137985287
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "video",
+                        0.3221226825940712
+                    ],
+                    [
+                        "entropy",
+                        0.3467622212266383
+                    ],
+                    [
+                        "spontaneous",
+                        0.5471538990740373
+                    ],
+                    [
+                        "process",
+                        0.5493475548407791
+                    ],
+                    [
+                        "thermodynamic",
+                        0.564376619063739
+                    ],
+                    [
+                        "example",
+                        0.8588959137985287
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-90": {
+            "id": "870y6GUKbwc-90",
+            "heat": 0.143,
+            "start": 90.0,
+            "text": " them spontaneous. You have observed spontaneous processes yourself, but because they seem so natural, you may not have taken particular note of them. For example, think of an inflated balloon that hasn't been tied and is simply pinched between someone's fingers. Once the person releases the balloon, what is going to happen? Experience tells us that the gas inside the balloon will rapidly escape from the opening, moving from high pressure to low pressure. This will propel the balloon through the air, until finally, we are left with a deflated balloon. The gas that was once in the balloon is now dispersed throughout the surroundings. You have probably also seen food coloring or hydrophilic dye dropped into water. What happens? From experience, you may know that the dye disperses. You may also have had some experience removing hot pans from the stovetop. While they come off of the stovetop hot, we know they will eventually cool. Here, we see a liquid crystal in the pan change color, first as the pan is heated, and then again, as the pan cools. Experience tells us in which direction these everyday events will proceed. But what about processes with which we don't have experience? For example, it would be nice if we had a way of knowing whether or not a given chemical reaction will happen at given conditions. The 2nd law of thermodynamics can help us with this.",
+            "metrics": {
+                "relativeDCReadability": 0.8595841271655981,
+                "lexicalDiversity": 0.49372384937238495,
+                "posComposition": {
+                    "PRP": 0.084,
+                    "VBP": 0.038,
+                    "VBN": 0.046,
+                    "JJ": 0.059,
+                    "NNS": 0.033,
+                    "CC": 0.025,
+                    "IN": 0.142,
+                    "RB": 0.075,
+                    "MD": 0.042,
+                    "VB": 0.05,
+                    "NN": 0.159,
+                    "DT": 0.109,
+                    "WDT": 0.017,
+                    "VBZ": 0.046,
+                    "POS": 0.004,
+                    "WP": 0.013,
+                    "VBG": 0.021,
+                    "TO": 0.008,
+                    "NNP": 0.008,
+                    "VBD": 0.017,
+                    "CD": 0.004
+                },
+                "syllableRate": 3.025,
+                "topicScores": [
+                    [
+                        "balloon",
+                        0.3049564303632867
+                    ],
+                    [
+                        "experience",
+                        0.3191929197594972
+                    ],
+                    [
+                        "pan",
+                        0.38008048014416645
+                    ],
+                    [
+                        "spontaneous",
+                        0.4807040623206852
+                    ],
+                    [
+                        "example",
+                        0.5312339584132738
+                    ],
+                    [
+                        "gas",
+                        0.5419768815636101
+                    ],
+                    [
+                        "stovetop",
+                        0.5451064033682774
+                    ],
+                    [
+                        "pressure",
+                        0.5483957680798319
+                    ],
+                    [
+                        "process",
+                        0.5580667268278299
+                    ],
+                    [
+                        "dye",
+                        0.5590859124686716
+                    ],
+                    [
+                        "hot",
+                        0.5630573933995101
+                    ],
+                    [
+                        "natural",
+                        0.8429200042328158
+                    ],
+                    [
+                        "finger",
+                        0.8435003608292528
+                    ],
+                    [
+                        "particular",
+                        0.8543358036639077
+                    ],
+                    [
+                        "note",
+                        0.8543358036639077
+                    ],
+                    [
+                        "inflated",
+                        0.8769684845142961
+                    ],
+                    [
+                        "surrounding",
+                        0.8806910418888738
+                    ],
+                    [
+                        "water",
+                        0.8848095259514795
+                    ],
+                    [
+                        "opening",
+                        0.8887823829693864
+                    ],
+                    [
+                        "low",
+                        0.8887823829693864
+                    ],
+                    [
+                        "person",
+                        0.8893319863987635
+                    ],
+                    [
+                        "air",
+                        0.8947944154759426
+                    ],
+                    [
+                        "deflated",
+                        0.8947944154759426
+                    ],
+                    [
+                        "cools",
+                        0.8971090860099642
+                    ],
+                    [
+                        "high",
+                        0.8972713377914213
+                    ],
+                    [
+                        "condition",
+                        0.9013408836142849
+                    ],
+                    [
+                        "food",
+                        0.9103820920625301
+                    ],
+                    [
+                        "coloring",
+                        0.9103820920625301
+                    ],
+                    [
+                        "hydrophilic",
+                        0.9103820920625301
+                    ],
+                    [
+                        "change",
+                        0.9134201211636145
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "balloon",
+                        0.3049564303632867
+                    ],
+                    [
+                        "experience",
+                        0.3191929197594972
+                    ],
+                    [
+                        "spontaneous",
+                        0.4807040623206852
+                    ],
+                    [
+                        "example",
+                        0.5312339584132738
+                    ],
+                    [
+                        "process",
+                        0.5580667268278299
+                    ],
+                    [
+                        "hot",
+                        0.5630573933995101
+                    ],
+                    [
+                        "surrounding",
+                        0.8806910418888738
+                    ],
+                    [
+                        "change",
+                        0.9134201211636145
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-180": {
+            "id": "870y6GUKbwc-180",
+            "heat": 0.124,
+            "start": 180.0,
+            "text": " The 2nd law of thermodynamics states that during any spontaneous process, the total entropy change of a system and its surroundings is positive. In other words, the entropy of the \"universe,\" that is, the system plus surroundings, can only increase. But what is entropy? Is entropy a magical force that overturns your furniture and creates havoc in your office or home? No. Entropy is a measure of the number of possible ways energy can be distributed in a system of molecules. Molecules in a system at equilibrium have the same average energy. However, at a given instant in time, it is highly unlikely that all of the molecules have the same exact energy. Molecules in a system are constantly interacting and transferring energy amongst each other. As a result, one molecule may have a certain amount of energy at one instant and at the next; it could have more or less. Depending on the energy the molecule has, it will be able to access different energy levels. The total energy of the system, determines what energy levels will be accessible to the molecules. Higher energy levels will not be accessible because the energy required to reach them is not available. So when we say that entropy is a measure of the number of possible ways energy can be distributed in a system of molecules, we have to account for all of the possible combinations.",
+            "metrics": {
+                "relativeDCReadability": 1.061937851024923,
+                "lexicalDiversity": 0.4661016949152542,
+                "posComposition": {
+                    "DT": 0.144,
+                    "CD": 0.013,
+                    "NN": 0.182,
+                    "IN": 0.136,
+                    "NNS": 0.068,
+                    "JJ": 0.102,
+                    "CC": 0.034,
+                    "PRP$": 0.013,
+                    "VBZ": 0.051,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "WDT": 0.008,
+                    "MD": 0.034,
+                    "RB": 0.03,
+                    "VB": 0.042,
+                    "WP": 0.008,
+                    "NNP": 0.021,
+                    "VBN": 0.017,
+                    "VBP": 0.021,
+                    "PRP": 0.025,
+                    "VBG": 0.013,
+                    "RBR": 0.008,
+                    "TO": 0.017,
+                    "WRB": 0.004
+                },
+                "syllableRate": 3.317,
+                "topicScores": [
+                    [
+                        "energy",
+                        0.23924152098589893
+                    ],
+                    [
+                        "molecule",
+                        0.24798507933100075
+                    ],
+                    [
+                        "system",
+                        0.27007241011715455
+                    ],
+                    [
+                        "entropy",
+                        0.31439361023436774
+                    ],
+                    [
+                        "possible",
+                        0.42193745042998504
+                    ],
+                    [
+                        "level",
+                        0.42627968750789175
+                    ],
+                    [
+                        "surrounding",
+                        0.4987829683343804
+                    ],
+                    [
+                        "measure",
+                        0.5349932596727096
+                    ],
+                    [
+                        "number",
+                        0.5349932596727096
+                    ],
+                    [
+                        "way",
+                        0.5349932596727096
+                    ],
+                    [
+                        "total",
+                        0.5378566104356731
+                    ],
+                    [
+                        "accessible",
+                        0.5563828928313292
+                    ],
+                    [
+                        "instant",
+                        0.5643062762700677
+                    ],
+                    [
+                        "positive",
+                        0.7549196766160315
+                    ],
+                    [
+                        "2nd",
+                        0.7870055018229747
+                    ],
+                    [
+                        "spontaneous",
+                        0.7870055018229747
+                    ],
+                    [
+                        "process",
+                        0.7870055018229747
+                    ],
+                    [
+                        "law",
+                        0.8009253924408359
+                    ],
+                    [
+                        "thermodynamic",
+                        0.8009253924408359
+                    ],
+                    [
+                        "change",
+                        0.8009253924408359
+                    ],
+                    [
+                        "universe",
+                        0.8078721240533235
+                    ],
+                    [
+                        "word",
+                        0.8475827304623466
+                    ],
+                    [
+                        "home",
+                        0.8639788982970276
+                    ],
+                    [
+                        "magical",
+                        0.8924295023845064
+                    ],
+                    [
+                        "force",
+                        0.8924295023845064
+                    ],
+                    [
+                        "furniture",
+                        0.8924295023845064
+                    ],
+                    [
+                        "havoc",
+                        0.8924295023845064
+                    ],
+                    [
+                        "office",
+                        0.8924295023845064
+                    ],
+                    [
+                        "high",
+                        0.9011291888721508
+                    ],
+                    [
+                        "available",
+                        0.9011291888721508
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "energy",
+                        0.23924152098589893
+                    ],
+                    [
+                        "molecule",
+                        0.24798507933100075
+                    ],
+                    [
+                        "system",
+                        0.27007241011715455
+                    ],
+                    [
+                        "entropy",
+                        0.31439361023436774
+                    ],
+                    [
+                        "possible",
+                        0.42193745042998504
+                    ],
+                    [
+                        "level",
+                        0.42627968750789175
+                    ],
+                    [
+                        "surrounding",
+                        0.4987829683343804
+                    ],
+                    [
+                        "number",
+                        0.5349932596727096
+                    ],
+                    [
+                        "way",
+                        0.5349932596727096
+                    ],
+                    [
+                        "total",
+                        0.5378566104356731
+                    ],
+                    [
+                        "positive",
+                        0.7549196766160315
+                    ],
+                    [
+                        "2nd",
+                        0.7870055018229747
+                    ],
+                    [
+                        "spontaneous",
+                        0.7870055018229747
+                    ],
+                    [
+                        "process",
+                        0.7870055018229747
+                    ],
+                    [
+                        "thermodynamic",
+                        0.8009253924408359
+                    ],
+                    [
+                        "change",
+                        0.8009253924408359
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-270": {
+            "id": "870y6GUKbwc-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " And the way we do that is by considering the microstates available to the molecules in the system. Let's use an analogy to understand the term \"microstate\". Let's say that you have two dice. What are all of the possible sums for a pair of dice? Pause the video here and take a moment to jot them down. Okay, you should have a list that looks something like this. We would call these sums possible macrostates of our system -- the macrostate doesn't tell us what each individual die reads when we roll them, just the total, or \"macroscopic view\" if you will. What are all of the possible dice combinations that will produce each of those sums? For example, we can produce the sum of three by rolling a one on the first die and a two on the 2nd die. Or, we can roll a 2 on the first die and a one on the 2nd die. So there are two combinations that will produce the sum of 3. The dice combinations that produce the remaining sums are shown here. We would call each of these combinations \"microstates\" that correspond to each macrostate. The microstate gives us information about the individual conditions of each die. We see that the most likely macrostate, a sum of 7, has the greatest number of possible microstates. Do you think that the entropy change for the system (the cold bar) was positive, negative, or equal to zero? Please pause the video here and discuss your reasoning with a classmate.",
+            "metrics": {
+                "relativeDCReadability": 0.9433083530780245,
+                "lexicalDiversity": 0.48120300751879697,
+                "posComposition": {
+                    "CC": 0.03,
+                    "DT": 0.18,
+                    "NN": 0.162,
+                    "PRP": 0.056,
+                    "VBP": 0.038,
+                    "VBZ": 0.023,
+                    "IN": 0.109,
+                    "VBG": 0.015,
+                    "NNS": 0.056,
+                    "JJ": 0.053,
+                    "TO": 0.019,
+                    "NNP": 0.019,
+                    "POS": 0.008,
+                    "VB": 0.056,
+                    "``": 0.011,
+                    "''": 0.011,
+                    "CD": 0.038,
+                    "WP": 0.008,
+                    "RB": 0.019,
+                    "RP": 0.004,
+                    "MD": 0.03,
+                    "WDT": 0.023,
+                    "PRP$": 0.008,
+                    ":": 0.004,
+                    "WRB": 0.004,
+                    "EX": 0.004,
+                    "VBN": 0.004,
+                    "RBS": 0.004,
+                    "JJS": 0.004,
+                    "VBD": 0.004
+                },
+                "syllableRate": 3.1,
+                "topicScores": [
+                    [
+                        "sum",
+                        0.26676311484805854
+                    ],
+                    [
+                        "die",
+                        0.2675866611431818
+                    ],
+                    [
+                        "microstate",
+                        0.30672685908142966
+                    ],
+                    [
+                        "dice",
+                        0.32793101514398176
+                    ],
+                    [
+                        "combination",
+                        0.3495796233949384
+                    ],
+                    [
+                        "possible",
+                        0.3502237875946604
+                    ],
+                    [
+                        "system",
+                        0.39436849213798036
+                    ],
+                    [
+                        "2nd",
+                        0.5131400214855605
+                    ],
+                    [
+                        "video",
+                        0.5225695009077795
+                    ],
+                    [
+                        "individual",
+                        0.549207546648701
+                    ],
+                    [
+                        "way",
+                        0.7724660871591793
+                    ],
+                    [
+                        "available",
+                        0.7724660871591793
+                    ],
+                    [
+                        "molecule",
+                        0.7724660871591793
+                    ],
+                    [
+                        "term",
+                        0.8274396308845103
+                    ],
+                    [
+                        "analogy",
+                        0.8363184112219398
+                    ],
+                    [
+                        "pair",
+                        0.875010021494219
+                    ],
+                    [
+                        "macroscopic",
+                        0.8819995727282848
+                    ],
+                    [
+                        "view",
+                        0.8819995727282848
+                    ],
+                    [
+                        "moment",
+                        0.8838426355721624
+                    ],
+                    [
+                        "total",
+                        0.8886557299664152
+                    ],
+                    [
+                        "example",
+                        0.8893898526190755
+                    ],
+                    [
+                        "list",
+                        0.8900886717129609
+                    ],
+                    [
+                        "classmate",
+                        0.8975062696421288
+                    ],
+                    [
+                        "cold",
+                        0.9024480221148903
+                    ],
+                    [
+                        "positive",
+                        0.9024480221148903
+                    ],
+                    [
+                        "negative",
+                        0.9024480221148903
+                    ],
+                    [
+                        "likely",
+                        0.9068882226664108
+                    ],
+                    [
+                        "bar",
+                        0.9080709473337426
+                    ],
+                    [
+                        "equal",
+                        0.9080709473337426
+                    ],
+                    [
+                        "information",
+                        0.9108642663615502
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "sum",
+                        0.26676311484805854
+                    ],
+                    [
+                        "die",
+                        0.2675866611431818
+                    ],
+                    [
+                        "microstate",
+                        0.30672685908142966
+                    ],
+                    [
+                        "possible",
+                        0.3502237875946604
+                    ],
+                    [
+                        "system",
+                        0.39436849213798036
+                    ],
+                    [
+                        "2nd",
+                        0.5131400214855605
+                    ],
+                    [
+                        "video",
+                        0.5225695009077795
+                    ],
+                    [
+                        "way",
+                        0.7724660871591793
+                    ],
+                    [
+                        "molecule",
+                        0.7724660871591793
+                    ],
+                    [
+                        "total",
+                        0.8886557299664152
+                    ],
+                    [
+                        "example",
+                        0.8893898526190755
+                    ],
+                    [
+                        "cold",
+                        0.9024480221148903
+                    ],
+                    [
+                        "positive",
+                        0.9024480221148903
+                    ],
+                    [
+                        "bar",
+                        0.9080709473337426
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-360": {
+            "id": "870y6GUKbwc-360",
+            "heat": 0.108,
+            "start": 360.0,
+            "text": " Let's start with the system first. The transfer of energy to the cold bar will allow the molecules in the cold bar to access new energy levels that they could not reach before, increasing",
+            "metrics": {
+                "relativeDCReadability": 0.9419976312599094,
+                "lexicalDiversity": 0.5714285714285714,
+                "posComposition": {
+                    "VB": 0.114,
+                    "POS": 0.029,
+                    "IN": 0.143,
+                    "DT": 0.143,
+                    "NN": 0.2,
+                    "RB": 0.057,
+                    "TO": 0.057,
+                    "JJ": 0.086,
+                    "MD": 0.057,
+                    "NNS": 0.057,
+                    "PRP": 0.029,
+                    "VBG": 0.029
+                },
+                "syllableRate": 0.408,
+                "topicScores": [
+                    [
+                        "cold",
+                        0.5144900544827244
+                    ],
+                    [
+                        "bar",
+                        0.5144900544827244
+                    ],
+                    [
+                        "energy",
+                        0.5469742450251739
+                    ],
+                    [
+                        "system",
+                        0.7003464362698416
+                    ],
+                    [
+                        "transfer",
+                        0.7786377976858433
+                    ],
+                    [
+                        "molecule",
+                        0.8097468408611236
+                    ],
+                    [
+                        "new",
+                        0.8097468408611236
+                    ],
+                    [
+                        "level",
+                        0.8097468408611236
+                    ],
+                    [
+                        "cold bar",
+                        1.252187063276751
+                    ],
+                    [
+                        "new energy",
+                        2.3556686444994144
+                    ],
+                    [
+                        "energy level",
+                        2.3556686444994144
+                    ],
+                    [
+                        "new energy level",
+                        7.363605538965974
+                    ]
+                ],
+                "topTopicSimilarity": 0.5833333333333334,
+                "sharedTopicScores": [
+                    [
+                        "cold",
+                        0.5144900544827244
+                    ],
+                    [
+                        "bar",
+                        0.5144900544827244
+                    ],
+                    [
+                        "energy",
+                        0.5469742450251739
+                    ],
+                    [
+                        "system",
+                        0.7003464362698416
+                    ],
+                    [
+                        "molecule",
+                        0.8097468408611236
+                    ],
+                    [
+                        "level",
+                        0.8097468408611236
+                    ],
+                    [
+                        "cold bar",
+                        1.252187063276751
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-450": {
+            "id": "870y6GUKbwc-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " the number of possible microstates for that system. So we would suspect that the entropy change for the system is positive. But what about the surroundings? The total entropy of a system and its surroundings has to increase if the process is spontaneous. Let's use a very simplified diagram to think about the heat diffusion demo. We have two bars made of the same material. One bar is hot and one is cold. We'll look at 4 atoms",
+            "metrics": {
+                "relativeDCReadability": 0.9886788754931957,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "DT": 0.138,
+                    "NN": 0.188,
+                    "IN": 0.138,
+                    "JJ": 0.087,
+                    "NNS": 0.062,
+                    "PRP": 0.037,
+                    "MD": 0.025,
+                    "VB": 0.05,
+                    "VBZ": 0.062,
+                    "CC": 0.037,
+                    "WP": 0.013,
+                    "PRP$": 0.013,
+                    "TO": 0.025,
+                    "NNP": 0.013,
+                    "POS": 0.013,
+                    "RB": 0.013,
+                    "VBP": 0.013,
+                    "CD": 0.05,
+                    "VBN": 0.025
+                },
+                "syllableRate": 0.992,
+                "topicScores": [
+                    [
+                        "system",
+                        0.41796604170706014
+                    ],
+                    [
+                        "entropy",
+                        0.538266518679829
+                    ],
+                    [
+                        "surrounding",
+                        0.5391536692237394
+                    ],
+                    [
+                        "bar",
+                        0.5623477806860597
+                    ],
+                    [
+                        "number",
+                        0.758244451575844
+                    ],
+                    [
+                        "positive",
+                        0.7716705500110699
+                    ],
+                    [
+                        "possible",
+                        0.7843662479843388
+                    ],
+                    [
+                        "microstate",
+                        0.7843662479843388
+                    ],
+                    [
+                        "spontaneous",
+                        0.8223986087661185
+                    ],
+                    [
+                        "demo",
+                        0.8342448068311987
+                    ],
+                    [
+                        "material",
+                        0.8426831252763823
+                    ],
+                    [
+                        "change",
+                        0.8455467870634016
+                    ],
+                    [
+                        "cold",
+                        0.8490618815654798
+                    ],
+                    [
+                        "atom",
+                        0.8540913000877389
+                    ],
+                    [
+                        "total",
+                        0.8660866147421413
+                    ],
+                    [
+                        "diffusion",
+                        0.8754600642199858
+                    ],
+                    [
+                        "process",
+                        0.8823638022018859
+                    ],
+                    [
+                        "simplified",
+                        0.8907416380608971
+                    ],
+                    [
+                        "diagram",
+                        0.8907416380608971
+                    ],
+                    [
+                        "heat",
+                        0.8907416380608971
+                    ],
+                    [
+                        "hot",
+                        0.9011070618284025
+                    ],
+                    [
+                        "possible microstate",
+                        1.598957995976912
+                    ],
+                    [
+                        "entropy change",
+                        2.5889017911184626
+                    ],
+                    [
+                        "diffusion demo",
+                        2.708483694200774
+                    ],
+                    [
+                        "total entropy",
+                        2.8297510249549096
+                    ],
+                    [
+                        "heat diffusion",
+                        3.5415061529907472
+                    ],
+                    [
+                        "simplified diagram",
+                        3.840755266026833
+                    ],
+                    [
+                        "heat diffusion demo",
+                        13.595799391592623
+                    ]
+                ],
+                "topTopicSimilarity": 0.5714285714285714,
+                "sharedTopicScores": [
+                    [
+                        "system",
+                        0.41796604170706014
+                    ],
+                    [
+                        "entropy",
+                        0.538266518679829
+                    ],
+                    [
+                        "surrounding",
+                        0.5391536692237394
+                    ],
+                    [
+                        "bar",
+                        0.5623477806860597
+                    ],
+                    [
+                        "number",
+                        0.758244451575844
+                    ],
+                    [
+                        "positive",
+                        0.7716705500110699
+                    ],
+                    [
+                        "possible",
+                        0.7843662479843388
+                    ],
+                    [
+                        "microstate",
+                        0.7843662479843388
+                    ],
+                    [
+                        "spontaneous",
+                        0.8223986087661185
+                    ],
+                    [
+                        "change",
+                        0.8455467870634016
+                    ],
+                    [
+                        "cold",
+                        0.8490618815654798
+                    ],
+                    [
+                        "atom",
+                        0.8540913000877389
+                    ],
+                    [
+                        "total",
+                        0.8660866147421413
+                    ],
+                    [
+                        "process",
+                        0.8823638022018859
+                    ],
+                    [
+                        "hot",
+                        0.9011070618284025
+                    ],
+                    [
+                        "entropy change",
+                        2.5889017911184626
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-540": {
+            "id": "870y6GUKbwc-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " making up each bar. The hot bar has more energy than the cold bar -- its atoms are moving more than the atoms in the cold bar, which seem barely to move. Now, before we put the cold bar in contact with the hot bar, let's think about each bar separately. In our simplified drawing of the cold bar, let's say that three of the atoms have no energy and one atom has one quantum of energy and is at a slightly higher energy level, symbolized by the set of curved lines representing its motion. How many different microstates can this system exhibit? If we think about the different ways we can distribute the quantum of energy amongst the 4 atoms, we see that there are 4 possible microstates. If we do the same for our hot bar, where we have 5 quanta of energy that can be distributed in a variety of ways amongst the 4 atoms, we use some math to see that there are 56 possible microstates. When we brought the two bars in contact in our demonstration, we saw that they reached thermal equilibrium. Here, in our simplified example, we will bring the cold bar (defined as our system) and the hot bar (defined as our surroundings) together and divide the 6 quanta of energy equally between the two. The first law of thermodynamics tells us that the total of 6 quanta will be conserved. Now, how many microstates are now possible in each bar?",
+            "metrics": {
+                "relativeDCReadability": 0.981057578416187,
+                "lexicalDiversity": 0.5059760956175299,
+                "posComposition": {
+                    "VBG": 0.012,
+                    "RP": 0.004,
+                    "DT": 0.116,
+                    "NN": 0.167,
+                    "JJ": 0.088,
+                    "VBZ": 0.012,
+                    "JJR": 0.012,
+                    "IN": 0.151,
+                    ":": 0.004,
+                    "PRP$": 0.032,
+                    "NNS": 0.068,
+                    "VBP": 0.048,
+                    "WDT": 0.008,
+                    "RB": 0.036,
+                    "TO": 0.008,
+                    "VB": 0.036,
+                    "PRP": 0.048,
+                    "VBD": 0.024,
+                    "POS": 0.008,
+                    "CD": 0.048,
+                    "CC": 0.016,
+                    "VBN": 0.012,
+                    "NNP": 0.004,
+                    "MD": 0.02,
+                    "EX": 0.008,
+                    "WRB": 0.012
+                },
+                "syllableRate": 3.058,
+                "topicScores": [
+                    [
+                        "bar",
+                        0.19313731866058995
+                    ],
+                    [
+                        "energy",
+                        0.2712466058859058
+                    ],
+                    [
+                        "cold",
+                        0.27519829891729336
+                    ],
+                    [
+                        "atom",
+                        0.28242088351367217
+                    ],
+                    [
+                        "hot",
+                        0.3223804014915763
+                    ],
+                    [
+                        "microstate",
+                        0.35281165820364313
+                    ],
+                    [
+                        "possible",
+                        0.4087585590865135
+                    ],
+                    [
+                        "quanta",
+                        0.4199350856599606
+                    ],
+                    [
+                        "cold bar",
+                        0.42433932988653056
+                    ],
+                    [
+                        "quantum",
+                        0.5257712248684387
+                    ],
+                    [
+                        "hot bar",
+                        0.5273109928604186
+                    ],
+                    [
+                        "simplified",
+                        0.5275409378413731
+                    ],
+                    [
+                        "contact",
+                        0.5286481289247305
+                    ],
+                    [
+                        "system",
+                        0.5403684349462421
+                    ],
+                    [
+                        "different",
+                        0.5439523558175422
+                    ],
+                    [
+                        "way",
+                        0.5479907626134016
+                    ],
+                    [
+                        "motion",
+                        0.8548211530650472
+                    ],
+                    [
+                        "level",
+                        0.8735823480340279
+                    ],
+                    [
+                        "equilibrium",
+                        0.8815613336051413
+                    ],
+                    [
+                        "drawing",
+                        0.881685797082952
+                    ],
+                    [
+                        "high",
+                        0.881685797082952
+                    ],
+                    [
+                        "set",
+                        0.881685797082952
+                    ],
+                    [
+                        "curved",
+                        0.881685797082952
+                    ],
+                    [
+                        "line",
+                        0.881685797082952
+                    ],
+                    [
+                        "demonstration",
+                        0.8972821774629199
+                    ],
+                    [
+                        "thermal",
+                        0.8972821774629199
+                    ],
+                    [
+                        "example",
+                        0.900304309419873
+                    ],
+                    [
+                        "surrounding",
+                        0.900304309419873
+                    ],
+                    [
+                        "variety",
+                        0.9005249061231533
+                    ],
+                    [
+                        "math",
+                        0.9005249061231533
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "bar",
+                        0.19313731866058995
+                    ],
+                    [
+                        "energy",
+                        0.2712466058859058
+                    ],
+                    [
+                        "cold",
+                        0.27519829891729336
+                    ],
+                    [
+                        "atom",
+                        0.28242088351367217
+                    ],
+                    [
+                        "hot",
+                        0.3223804014915763
+                    ],
+                    [
+                        "microstate",
+                        0.35281165820364313
+                    ],
+                    [
+                        "possible",
+                        0.4087585590865135
+                    ],
+                    [
+                        "cold bar",
+                        0.42433932988653056
+                    ],
+                    [
+                        "system",
+                        0.5403684349462421
+                    ],
+                    [
+                        "way",
+                        0.5479907626134016
+                    ],
+                    [
+                        "level",
+                        0.8735823480340279
+                    ],
+                    [
+                        "example",
+                        0.900304309419873
+                    ],
+                    [
+                        "surrounding",
+                        0.900304309419873
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-630": {
+            "id": "870y6GUKbwc-630",
+            "heat": 0.0,
+            "start": 630.0,
+            "text": " As you might have expected, the number of possible microstates in what was originally our hot bar decreased, and the number of possible microstates in what was originally our cold bar increased. Let's see what this means for our total entropy change. We will use a relationship for entropy that was derived by Ludwig Boltzmann. It states that entropy is equal to a constant, called the Boltzmann constant, times the natural log of the number of microstates. When calculating entropy change, whether it be for the system or surroundings, delta S would be equal to Boltzmann's constant times the natural log of the ratio of the final number of microstates to the initial number of microstates. The entropy change in our cold bar was positive while the entropy change in our hot bar was negative. But remember, it's the total entropy change that matters. We see that our total entropy change for this process is positive. The spontaneous transfer of heat from our hot bar to our cold bar is consistent with the 2nd law of thermodynamics. If you did a similar calculation for the reverse process, that of heat transferring from the cold bar to the hot bar, the total entropy change would be negative indicating that it is not spontaneous. As we hinted earlier and as you may have guessed by our very simplified scenario, calculating the number of microstates in a real system",
+            "metrics": {
+                "relativeDCReadability": 1.0379628799274432,
+                "lexicalDiversity": 0.5188284518828452,
+                "posComposition": {
+                    "IN": 0.159,
+                    "PRP": 0.042,
+                    "MD": 0.021,
+                    "VB": 0.033,
+                    "VBN": 0.025,
+                    "DT": 0.109,
+                    "NN": 0.192,
+                    "JJ": 0.138,
+                    "NNS": 0.042,
+                    "WP": 0.013,
+                    "VBD": 0.033,
+                    "RB": 0.017,
+                    "PRP$": 0.038,
+                    "CC": 0.017,
+                    "NNP": 0.025,
+                    "POS": 0.008,
+                    "VBZ": 0.033,
+                    "WDT": 0.004,
+                    "TO": 0.021,
+                    "WRB": 0.004,
+                    "VBG": 0.013,
+                    "VBP": 0.004,
+                    "CD": 0.004,
+                    "JJR": 0.004
+                },
+                "syllableRate": 3.2,
+                "topicScores": [
+                    [
+                        "entropy",
+                        0.2272986924956534
+                    ],
+                    [
+                        "bar",
+                        0.23966985542403138
+                    ],
+                    [
+                        "microstate",
+                        0.2503126374259976
+                    ],
+                    [
+                        "number",
+                        0.2526193985119634
+                    ],
+                    [
+                        "change",
+                        0.2542262883702821
+                    ],
+                    [
+                        "Boltzmann",
+                        0.2614385703734577
+                    ],
+                    [
+                        "total",
+                        0.3272367651063138
+                    ],
+                    [
+                        "cold",
+                        0.34491932293277794
+                    ],
+                    [
+                        "hot",
+                        0.3460306330710407
+                    ],
+                    [
+                        "Ludwig Boltzmann",
+                        0.40270181408007083
+                    ],
+                    [
+                        "constant",
+                        0.40945229084932333
+                    ],
+                    [
+                        "possible",
+                        0.42906834535738647
+                    ],
+                    [
+                        "entropy change",
+                        0.4526000880776368
+                    ],
+                    [
+                        "natural",
+                        0.5024738184999267
+                    ],
+                    [
+                        "log",
+                        0.5024738184999267
+                    ],
+                    [
+                        "time",
+                        0.5050606142501413
+                    ],
+                    [
+                        "equal",
+                        0.5233801765567133
+                    ],
+                    [
+                        "positive",
+                        0.5332388426141105
+                    ],
+                    [
+                        "negative",
+                        0.536479557887862
+                    ],
+                    [
+                        "spontaneous",
+                        0.5429307474220185
+                    ],
+                    [
+                        "heat",
+                        0.5429307474220185
+                    ],
+                    [
+                        "system",
+                        0.544425862646324
+                    ],
+                    [
+                        "process",
+                        0.5515401803718258
+                    ],
+                    [
+                        "transfer",
+                        0.556809634203441
+                    ],
+                    [
+                        "possible microstate",
+                        0.5774872316714029
+                    ],
+                    [
+                        "total entropy",
+                        0.579631062199851
+                    ],
+                    [
+                        "S",
+                        0.5987125910221164
+                    ],
+                    [
+                        "cold bar",
+                        0.6692657466219417
+                    ],
+                    [
+                        "hot bar",
+                        0.6748007123172031
+                    ],
+                    [
+                        "Boltzmann constant",
+                        0.7488219076792003
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "entropy",
+                        0.2272986924956534
+                    ],
+                    [
+                        "bar",
+                        0.23966985542403138
+                    ],
+                    [
+                        "microstate",
+                        0.2503126374259976
+                    ],
+                    [
+                        "number",
+                        0.2526193985119634
+                    ],
+                    [
+                        "change",
+                        0.2542262883702821
+                    ],
+                    [
+                        "Boltzmann",
+                        0.2614385703734577
+                    ],
+                    [
+                        "total",
+                        0.3272367651063138
+                    ],
+                    [
+                        "cold",
+                        0.34491932293277794
+                    ],
+                    [
+                        "hot",
+                        0.3460306330710407
+                    ],
+                    [
+                        "possible",
+                        0.42906834535738647
+                    ],
+                    [
+                        "entropy change",
+                        0.4526000880776368
+                    ],
+                    [
+                        "positive",
+                        0.5332388426141105
+                    ],
+                    [
+                        "spontaneous",
+                        0.5429307474220185
+                    ],
+                    [
+                        "system",
+                        0.544425862646324
+                    ],
+                    [
+                        "process",
+                        0.5515401803718258
+                    ],
+                    [
+                        "cold bar",
+                        0.6692657466219417
+                    ]
+                ]
+            }
+        },
+        "870y6GUKbwc-720": {
+            "id": "870y6GUKbwc-720",
+            "heat": 0.0,
+            "start": 720.0,
+            "text": " can be very challenging. Generally speaking, you will be calculating entropy in terms of measurable macroscopic quantities such as heat capacity or enthalpy of phase change. However, having a qualitative understanding of the physical meaning of entropy will help you properly interpret the entropy changes caused by various processes. To Review, for a process to proceed spontaneously, the total entropy change for a system and its surroundings must be positive. Entropy measures the number of possible ways energy can be distributed in a system of molecules. A microstate is an instantaneous catalog that describes the energy of each molecule in a system. Because molecules are constantly interacting and exchanging energy, this description constantly needs to be revised. A given system has a large number of possible microstates. As we saw with the Boltzmann equation, entropy is proportional to the number of microstates.",
+            "metrics": {
+                "relativeDCReadability": 1.1402330158460061,
+                "lexicalDiversity": 0.5422535211267606,
+                "posComposition": {
+                    "MD": 0.035,
+                    "VB": 0.063,
+                    "RB": 0.042,
+                    "VBG": 0.042,
+                    "NNP": 0.035,
+                    "PRP": 0.021,
+                    "JJ": 0.092,
+                    "IN": 0.134,
+                    "NNS": 0.07,
+                    "NN": 0.204,
+                    "CC": 0.021,
+                    "DT": 0.113,
+                    "VBN": 0.028,
+                    "TO": 0.028,
+                    "PRP$": 0.007,
+                    "VBZ": 0.042,
+                    "WDT": 0.007,
+                    "VBP": 0.007,
+                    "VBD": 0.007
+                },
+                "syllableRate": 2.25,
+                "topicScores": [
+                    [
+                        "entropy",
+                        0.35488891397786376
+                    ],
+                    [
+                        "system",
+                        0.3792989485624843
+                    ],
+                    [
+                        "microstate",
+                        0.4379372429726985
+                    ],
+                    [
+                        "change",
+                        0.43932580086039347
+                    ],
+                    [
+                        "number",
+                        0.4404431150179288
+                    ],
+                    [
+                        "molecule",
+                        0.44439409627477017
+                    ],
+                    [
+                        "energy",
+                        0.4575085834260714
+                    ],
+                    [
+                        "possible",
+                        0.5525545000612158
+                    ],
+                    [
+                        "process",
+                        0.5560553231218893
+                    ],
+                    [
+                        "Review",
+                        0.623718258010758
+                    ],
+                    [
+                        "Boltzmann",
+                        0.6918055043014026
+                    ],
+                    [
+                        "challenging",
+                        0.805218006282397
+                    ],
+                    [
+                        "positive",
+                        0.8602633361554122
+                    ],
+                    [
+                        "phase",
+                        0.8724218088191618
+                    ],
+                    [
+                        "term",
+                        0.8870072335941012
+                    ],
+                    [
+                        "measurable",
+                        0.8870072335941012
+                    ],
+                    [
+                        "macroscopic",
+                        0.8870072335941012
+                    ],
+                    [
+                        "quantity",
+                        0.8870072335941012
+                    ],
+                    [
+                        "heat",
+                        0.8870072335941012
+                    ],
+                    [
+                        "capacity",
+                        0.8870072335941012
+                    ],
+                    [
+                        "enthalpy",
+                        0.8870072335941012
+                    ],
+                    [
+                        "total",
+                        0.8933837449869847
+                    ],
+                    [
+                        "qualitative",
+                        0.898478718804759
+                    ],
+                    [
+                        "understanding",
+                        0.898478718804759
+                    ],
+                    [
+                        "physical",
+                        0.898478718804759
+                    ],
+                    [
+                        "meaning",
+                        0.898478718804759
+                    ],
+                    [
+                        "surrounding",
+                        0.9058313631233259
+                    ],
+                    [
+                        "description",
+                        0.9069391948008472
+                    ],
+                    [
+                        "way",
+                        0.9110140602927825
+                    ],
+                    [
+                        "equation",
+                        0.9120047702534115
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "entropy",
+                        0.35488891397786376
+                    ],
+                    [
+                        "system",
+                        0.3792989485624843
+                    ],
+                    [
+                        "microstate",
+                        0.4379372429726985
+                    ],
+                    [
+                        "change",
+                        0.43932580086039347
+                    ],
+                    [
+                        "number",
+                        0.4404431150179288
+                    ],
+                    [
+                        "molecule",
+                        0.44439409627477017
+                    ],
+                    [
+                        "energy",
+                        0.4575085834260714
+                    ],
+                    [
+                        "possible",
+                        0.5525545000612158
+                    ],
+                    [
+                        "process",
+                        0.5560553231218893
+                    ],
+                    [
+                        "Boltzmann",
+                        0.6918055043014026
+                    ],
+                    [
+                        "positive",
+                        0.8602633361554122
+                    ],
+                    [
+                        "total",
+                        0.8933837449869847
+                    ],
+                    [
+                        "surrounding",
+                        0.9058313631233259
+                    ],
+                    [
+                        "way",
+                        0.9110140602927825
+                    ]
+                ]
+            }
+        }
+    }
+}

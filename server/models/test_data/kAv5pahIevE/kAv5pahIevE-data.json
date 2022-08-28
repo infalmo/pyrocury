@@ -1,0 +1,4727 @@
+{
+    "metadata": {
+        "id": "kAv5pahIevE",
+        "avgHeat": 0.31,
+        "runtime": 2183.87,
+        "dale-challReadabilityScore": 7.993274349709523,
+        "lexicalDiversity": 0.48686210640608035,
+        "posComposition": {
+            "NNP": 0.026,
+            "PRP": 0.07,
+            "VBD": 0.008,
+            "DT": 0.112,
+            "NN": 0.13,
+            "IN": 0.108,
+            "NNS": 0.022,
+            "CC": 0.044,
+            "JJ": 0.057,
+            "RB": 0.073,
+            "VBZ": 0.055,
+            "MD": 0.031,
+            "VB": 0.063,
+            "RBS": 0.0,
+            "JJS": 0.0,
+            "VBP": 0.04,
+            ":": 0.008,
+            "POS": 0.011,
+            "TO": 0.032,
+            "WP": 0.01,
+            "RP": 0.005,
+            "CD": 0.035,
+            "EX": 0.004,
+            "JJR": 0.006,
+            "WDT": 0.007,
+            "WRB": 0.005,
+            "VBG": 0.019,
+            "VBN": 0.008,
+            "PRP$": 0.005,
+            "RBR": 0.002,
+            "PDT": 0.001,
+            "FW": 0.0,
+            "NNPS": 0.0
+        },
+        "syllableRate": 2.724,
+        "topicScores": [
+            [
+                "ok",
+                0.07677443464775001
+            ],
+            [
+                "x",
+                0.11394105254909842
+            ],
+            [
+                "f",
+                0.129777275544397
+            ],
+            [
+                "Socrates",
+                0.14958250332195516
+            ],
+            [
+                "function",
+                0.15216474679752937
+            ],
+            [
+                "number",
+                0.16413643856187413
+            ],
+            [
+                "infinity",
+                0.1641806676275997
+            ],
+            [
+                "Plato",
+                0.16695771970912932
+            ],
+            [
+                "limit",
+                0.16848154765859297
+            ],
+            [
+                "delta",
+                0.16971266080271974
+            ],
+            [
+                "mean",
+                0.16985852090724138
+            ],
+            [
+                "slope",
+                0.17481718499856336
+            ],
+            [
+                "continuous",
+                0.18763027576337596
+            ],
+            [
+                "case",
+                0.18763680551460898
+            ],
+            [
+                "approach",
+                0.1926159213383531
+            ],
+            [
+                "band",
+                0.1929331226690132
+            ],
+            [
+                "little",
+                0.19726434701522444
+            ],
+            [
+                "square",
+                0.19921520846229518
+            ],
+            [
+                "small",
+                0.2009097305150152
+            ],
+            [
+                "g",
+                0.20643991032189968
+            ],
+            [
+                "close",
+                0.20651696575197276
+            ],
+            [
+                "epsilon",
+                0.2139270042678965
+            ],
+            [
+                "power",
+                0.23165028413738192
+            ],
+            [
+                "minus",
+                0.24135344876133058
+            ],
+            [
+                "big",
+                0.24913405313551476
+            ],
+            [
+                "way",
+                0.2512139272928139
+            ],
+            [
+                "thing",
+                0.25124435220753716
+            ],
+            [
+                "ratio",
+                0.2610745118238563
+            ],
+            [
+                "idea",
+                0.26171295819392687
+            ],
+            [
+                "root",
+                0.27369636591084034
+            ]
+        ],
+        "topicsList": [
+            "ok",
+            "x",
+            "f",
+            "Socrates",
+            "function",
+            "number",
+            "infinity",
+            "Plato",
+            "limit",
+            "delta",
+            "mean",
+            "slope",
+            "continuous",
+            "case",
+            "approach",
+            "band",
+            "little",
+            "square",
+            "small",
+            "g",
+            "close",
+            "epsilon",
+            "power",
+            "minus",
+            "big",
+            "way",
+            "thing",
+            "ratio",
+            "idea",
+            "root"
+        ]
+    },
+    "chunks": {
+        "kAv5pahIevE-0": {
+            "id": "kAv5pahIevE-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: OK. I promised a video about limits and continuous functions and here it is. So I'll begin with the most basic idea and with a picture instead of definition in symbols first. So the most basic idea is that I have a bunch of numbers-- let's make them positive numbers-- and I want to know, what does it mean for them to approach a limit-- capital A-- as I go out this sequence of numbers, a1, a2, a3, a4. And let me say right away, the first four numbers, the first million numbers, make no difference about the limit. So here's what it means. For example, there's a equals 7, let's say. What does it mean for these numbers to approach 7? It means that if I take any thin little space around a, above and below, the numbers can start out whatever. They can go in there, they could go out, they could come back, whatever, they could grow way big, way small. But in the end, beyond some point, eventually, they have",
+            "metrics": {
+                "relativeDCReadability": 0.9358418817893758,
+                "lexicalDiversity": 0.5108695652173914,
+                "posComposition": {
+                    "NNP": 0.016,
+                    "PRP": 0.103,
+                    "VBD": 0.005,
+                    "DT": 0.103,
+                    "NN": 0.114,
+                    "IN": 0.12,
+                    "NNS": 0.06,
+                    "CC": 0.038,
+                    "JJ": 0.06,
+                    "RB": 0.06,
+                    "VBZ": 0.043,
+                    "MD": 0.033,
+                    "VB": 0.082,
+                    "RBS": 0.005,
+                    "JJS": 0.005,
+                    "VBP": 0.043,
+                    ":": 0.022,
+                    "POS": 0.011,
+                    "TO": 0.016,
+                    "WP": 0.016,
+                    "RP": 0.016,
+                    "CD": 0.022,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.058,
+                "topicScores": [
+                    [
+                        "number",
+                        0.33023208283816247
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.3380720184311534
+                    ],
+                    [
+                        "basic",
+                        0.5162505580764661
+                    ],
+                    [
+                        "limit",
+                        0.5228020348452971
+                    ],
+                    [
+                        "idea",
+                        0.5258830016438738
+                    ],
+                    [
+                        "a--",
+                        0.6112034438043441
+                    ],
+                    [
+                        "a4",
+                        0.8568849343607672
+                    ],
+                    [
+                        "video",
+                        0.8721971020631312
+                    ],
+                    [
+                        "continuous",
+                        0.8721971020631312
+                    ],
+                    [
+                        "function",
+                        0.8721971020631312
+                    ],
+                    [
+                        "symbol",
+                        0.8767481581787627
+                    ],
+                    [
+                        "a1",
+                        0.8769303846374606
+                    ],
+                    [
+                        "a2",
+                        0.8769303846374606
+                    ],
+                    [
+                        "a3",
+                        0.8769303846374606
+                    ],
+                    [
+                        "small",
+                        0.8835787490697989
+                    ],
+                    [
+                        "picture",
+                        0.8849771944636132
+                    ],
+                    [
+                        "definition",
+                        0.8849771944636132
+                    ],
+                    [
+                        "example",
+                        0.8923256276410851
+                    ],
+                    [
+                        "bunch",
+                        0.893191438902376
+                    ],
+                    [
+                        "positive",
+                        0.893191438902376
+                    ],
+                    [
+                        "capital",
+                        0.893191438902376
+                    ],
+                    [
+                        "sequence",
+                        0.893191438902376
+                    ],
+                    [
+                        "difference",
+                        0.8989922198703714
+                    ],
+                    [
+                        "equal",
+                        0.8999224769304985
+                    ],
+                    [
+                        "big",
+                        0.9074115823582218
+                    ],
+                    [
+                        "end",
+                        0.9092050549612644
+                    ],
+                    [
+                        "point",
+                        0.9092050549612644
+                    ],
+                    [
+                        "thin",
+                        0.9118427370108309
+                    ],
+                    [
+                        "little",
+                        0.9118427370108309
+                    ],
+                    [
+                        "space",
+                        0.9118427370108309
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "number",
+                        0.33023208283816247
+                    ],
+                    [
+                        "limit",
+                        0.5228020348452971
+                    ],
+                    [
+                        "idea",
+                        0.5258830016438738
+                    ],
+                    [
+                        "continuous",
+                        0.8721971020631312
+                    ],
+                    [
+                        "function",
+                        0.8721971020631312
+                    ],
+                    [
+                        "small",
+                        0.8835787490697989
+                    ],
+                    [
+                        "big",
+                        0.9074115823582218
+                    ],
+                    [
+                        "little",
+                        0.9118427370108309
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-90": {
+            "id": "kAv5pahIevE-90",
+            "heat": 0.301,
+            "start": 90.0,
+            "text": " to get in that slit and stay in there. And the slit, then, could be smaller. And then they would have to get into that smaller slit and stay there. So that's what it means for the numbers to approach A, that eventually after any number of jogs around, they get inside and they stay there, however thin that slit is. A slight difference when a is 0, because the numbers are positive. They're coming down, they get in. And again, they must stay in. And then, again, I'm going to make the band tighter, and they have to get into that and stay there. And what does it mean for the numbers to approach infinity? That means that whatever-- so this is often called epsilon. I'll use that Greek letter epsilon as a very small number. So this would be A minus epsilon, and this would be A plus epsilon. And then the epsilon could be made smaller. And now here is some big number, like even 1 over epsilon. So that's a giant number. And the limit is infinity if, again, they can dodge around for a while, they can go down, they can go up. But eventually, they must get above that",
+            "metrics": {
+                "relativeDCReadability": 0.7986400324896447,
+                "lexicalDiversity": 0.41232227488151657,
+                "posComposition": {
+                    "TO": 0.028,
+                    "VB": 0.1,
+                    "IN": 0.118,
+                    "DT": 0.104,
+                    "NN": 0.095,
+                    "CC": 0.081,
+                    "RB": 0.09,
+                    "MD": 0.052,
+                    "JJR": 0.014,
+                    "PRP": 0.071,
+                    "NNP": 0.024,
+                    "VBZ": 0.047,
+                    "WP": 0.009,
+                    "NNS": 0.019,
+                    "WDT": 0.014,
+                    "VBP": 0.033,
+                    "JJ": 0.043,
+                    "WRB": 0.005,
+                    "CD": 0.009,
+                    "VBG": 0.009,
+                    "RP": 0.019,
+                    ":": 0.005,
+                    "VBN": 0.009
+                },
+                "syllableRate": 2.333,
+                "topicScores": [
+                    [
+                        "number",
+                        0.297615507884929
+                    ],
+                    [
+                        "epsilon",
+                        0.3236702786319803
+                    ],
+                    [
+                        "slit",
+                        0.3526451565466037
+                    ],
+                    [
+                        "small",
+                        0.3803853387270788
+                    ],
+                    [
+                        "infinity",
+                        0.57425040717297
+                    ],
+                    [
+                        "greek",
+                        0.6841071589594998
+                    ],
+                    [
+                        "positive",
+                        0.9035839717688083
+                    ],
+                    [
+                        "jog",
+                        0.9118398040500687
+                    ],
+                    [
+                        "thin",
+                        0.9118398040500687
+                    ],
+                    [
+                        "slight",
+                        0.9183127544230338
+                    ],
+                    [
+                        "difference",
+                        0.9244747971135406
+                    ],
+                    [
+                        "band",
+                        0.9289507370036395
+                    ],
+                    [
+                        "tight",
+                        0.9289507370036395
+                    ],
+                    [
+                        "minus",
+                        0.9357331119359323
+                    ],
+                    [
+                        "plus",
+                        0.9357331119359323
+                    ],
+                    [
+                        "big",
+                        0.9378792165053883
+                    ],
+                    [
+                        "whatever--",
+                        0.9380422193838854
+                    ],
+                    [
+                        "giant",
+                        0.9387751532993721
+                    ],
+                    [
+                        "letter",
+                        0.9394525540136619
+                    ],
+                    [
+                        "limit",
+                        0.9442350187666813
+                    ],
+                    [
+                        "greek letter",
+                        1.7986605878255417
+                    ],
+                    [
+                        "small slit",
+                        2.6127343297577936
+                    ],
+                    [
+                        "small number",
+                        3.730067310371955
+                    ],
+                    [
+                        "big number",
+                        5.149388247168447
+                    ],
+                    [
+                        "giant number",
+                        5.179787269981897
+                    ],
+                    [
+                        "slight difference",
+                        5.6206310940343345
+                    ],
+                    [
+                        "minus epsilon",
+                        5.678276612383525
+                    ],
+                    [
+                        "plus epsilon",
+                        5.678276612383525
+                    ],
+                    [
+                        "letter epsilon",
+                        5.83248973641299
+                    ],
+                    [
+                        "band tight",
+                        6.296578955112603
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "number",
+                        0.297615507884929
+                    ],
+                    [
+                        "epsilon",
+                        0.3236702786319803
+                    ],
+                    [
+                        "small",
+                        0.3803853387270788
+                    ],
+                    [
+                        "infinity",
+                        0.57425040717297
+                    ],
+                    [
+                        "band",
+                        0.9289507370036395
+                    ],
+                    [
+                        "minus",
+                        0.9357331119359323
+                    ],
+                    [
+                        "big",
+                        0.9378792165053883
+                    ],
+                    [
+                        "limit",
+                        0.9442350187666813
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-180": {
+            "id": "kAv5pahIevE-180",
+            "heat": 0.339,
+            "start": 180.0,
+            "text": " line and stay there. And if I move the line up further, they have to get above that line for me to say that the limit is-- so I have these possible limits. Infinite, some positive, ordinary number, and 0. Those are possible limits. But of course many sequences have no limit at all, like sine of n, it will just bounce around, cosine n-- many, many things. OK. So I think that the way to get the idea, use the idea, is to ask some questions about limits. And we'll see that usually the answer is yes, OK, no problem. But once in a while, for certain limits are dangerous. So really always mathematicians are looking for what's special, what unusual thing could happen? Because the truth is, limits are ordinarily rather boring. If the an's approach 7 and the bn's approach 4, so the a's get close to 7 and the b's get close to 4, then their differences will get close to 7 minus 4. But is there any case in which that could fail?",
+            "metrics": {
+                "relativeDCReadability": 1.012767037905933,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "NN": 0.134,
+                    "CC": 0.048,
+                    "VB": 0.054,
+                    "RB": 0.097,
+                    "IN": 0.086,
+                    "PRP": 0.038,
+                    "VBP": 0.059,
+                    "DT": 0.129,
+                    "RP": 0.011,
+                    "TO": 0.038,
+                    "VBZ": 0.032,
+                    ":": 0.011,
+                    "JJ": 0.075,
+                    "NNS": 0.059,
+                    "NNP": 0.011,
+                    "CD": 0.038,
+                    "MD": 0.027,
+                    "VBG": 0.011,
+                    "WP": 0.011,
+                    "POS": 0.022,
+                    "PRP$": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.133,
+                "topicScores": [
+                    [
+                        "limit",
+                        0.28801370687346545
+                    ],
+                    [
+                        "line",
+                        0.4215539770188436
+                    ],
+                    [
+                        "close",
+                        0.43738880950144166
+                    ],
+                    [
+                        "possible",
+                        0.526726043426312
+                    ],
+                    [
+                        "thing",
+                        0.5523771335894716
+                    ],
+                    [
+                        "idea",
+                        0.557312674024918
+                    ],
+                    [
+                        "approach",
+                        0.5695576561087373
+                    ],
+                    [
+                        "Infinite",
+                        0.8537856318861506
+                    ],
+                    [
+                        "positive",
+                        0.8770485990918379
+                    ],
+                    [
+                        "ordinary",
+                        0.8770485990918379
+                    ],
+                    [
+                        "number",
+                        0.8770485990918379
+                    ],
+                    [
+                        "is--",
+                        0.8835835038413328
+                    ],
+                    [
+                        "problem",
+                        0.8841371902490126
+                    ],
+                    [
+                        "n--",
+                        0.8919116970753858
+                    ],
+                    [
+                        "dangerous",
+                        0.8968872118985929
+                    ],
+                    [
+                        "sine",
+                        0.9005596692911907
+                    ],
+                    [
+                        "cosine",
+                        0.9005596692911907
+                    ],
+                    [
+                        "boring",
+                        0.9010699559283464
+                    ],
+                    [
+                        "course",
+                        0.9082424992572534
+                    ],
+                    [
+                        "sequence",
+                        0.9082424992572534
+                    ],
+                    [
+                        "certain",
+                        0.9132300181829532
+                    ],
+                    [
+                        "special",
+                        0.9151540630025669
+                    ],
+                    [
+                        "unusual",
+                        0.9151540630025669
+                    ],
+                    [
+                        "way",
+                        0.9153739300948135
+                    ],
+                    [
+                        "question",
+                        0.9153739300948135
+                    ],
+                    [
+                        "truth",
+                        0.9168113100564016
+                    ],
+                    [
+                        "answer",
+                        0.9179124684603848
+                    ],
+                    [
+                        "mathematician",
+                        0.9218072234795435
+                    ],
+                    [
+                        "bn",
+                        0.924687732610001
+                    ],
+                    [
+                        "difference",
+                        0.924687732610001
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "limit",
+                        0.28801370687346545
+                    ],
+                    [
+                        "close",
+                        0.43738880950144166
+                    ],
+                    [
+                        "thing",
+                        0.5523771335894716
+                    ],
+                    [
+                        "idea",
+                        0.557312674024918
+                    ],
+                    [
+                        "approach",
+                        0.5695576561087373
+                    ],
+                    [
+                        "number",
+                        0.8770485990918379
+                    ],
+                    [
+                        "way",
+                        0.9153739300948135
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-270": {
+            "id": "kAv5pahIevE-270",
+            "heat": 0.261,
+            "start": 270.0,
+            "text": " Is there any case among these in which we could not know what the limit was, and it might not exist, or it might be like any number? And I think that can happen in this, so I've got four different questions here, getting more interesting as we go down. In the first one, I can see only one problem. If the a's approach infinity, so they get very big, and the b's also approach infinity, get very big, so capital A and capital B become formally infinity minus infinity, and we don't know the answer there. That has no meaning. So this'll be my little list of danger. I mean, it's not like skydiving, but for a mathematician this is high risk. OK, so how could this happen? Well, the an might be n squared. And the bn might be only n. Right? So they're both going to infinity, n squared and n. But n squared is going faster. It's like a race. n squared will win, and the difference between them will actually grow faster and faster.",
+            "metrics": {
+                "relativeDCReadability": 0.9434125009520015,
+                "lexicalDiversity": 0.4919786096256685,
+                "posComposition": {
+                    "VBZ": 0.032,
+                    "EX": 0.011,
+                    "DT": 0.112,
+                    "NN": 0.123,
+                    "IN": 0.08,
+                    "WDT": 0.011,
+                    "PRP": 0.075,
+                    "MD": 0.059,
+                    "RB": 0.086,
+                    "VB": 0.07,
+                    "WP": 0.005,
+                    "VBD": 0.005,
+                    "CC": 0.07,
+                    "VBP": 0.048,
+                    "VBN": 0.027,
+                    "CD": 0.016,
+                    "JJ": 0.064,
+                    "NNS": 0.005,
+                    "VBG": 0.021,
+                    "RBR": 0.021,
+                    "RP": 0.005,
+                    "POS": 0.011,
+                    "NNP": 0.027,
+                    "PRP$": 0.005,
+                    "WRB": 0.005,
+                    "TO": 0.005
+                },
+                "syllableRate": 2.125,
+                "topicScores": [
+                    [
+                        "infinity",
+                        0.34683577189583936
+                    ],
+                    [
+                        "b",
+                        0.45813997510170335
+                    ],
+                    [
+                        "approach",
+                        0.540022238770641
+                    ],
+                    [
+                        "big",
+                        0.5433893356845707
+                    ],
+                    [
+                        "n.",
+                        0.5471647177740587
+                    ],
+                    [
+                        "capital",
+                        0.5648921659199976
+                    ],
+                    [
+                        "number",
+                        0.834765070191213
+                    ],
+                    [
+                        "limit",
+                        0.8605600038571702
+                    ],
+                    [
+                        "case",
+                        0.8713545744679605
+                    ],
+                    [
+                        "problem",
+                        0.873768442766979
+                    ],
+                    [
+                        "question",
+                        0.8823587623946488
+                    ],
+                    [
+                        "meaning",
+                        0.8889778710743057
+                    ],
+                    [
+                        "different",
+                        0.8916782243448133
+                    ],
+                    [
+                        "interesting",
+                        0.8916782243448133
+                    ],
+                    [
+                        "danger",
+                        0.8937162584803907
+                    ],
+                    [
+                        "risk",
+                        0.8974374805233462
+                    ],
+                    [
+                        "answer",
+                        0.9018716355093918
+                    ],
+                    [
+                        "race",
+                        0.9112028973229626
+                    ],
+                    [
+                        "skydiving",
+                        0.9144512536781426
+                    ],
+                    [
+                        "high",
+                        0.9144512536781426
+                    ],
+                    [
+                        "little",
+                        0.91852575333754
+                    ],
+                    [
+                        "list",
+                        0.91852575333754
+                    ],
+                    [
+                        "mathematician",
+                        0.9214546825917574
+                    ],
+                    [
+                        "squared",
+                        0.9270792190361065
+                    ],
+                    [
+                        "bn",
+                        0.9274623469943805
+                    ],
+                    [
+                        "capital b",
+                        1.8582230150637704
+                    ],
+                    [
+                        "approach infinity",
+                        2.0813115121815073
+                    ],
+                    [
+                        "different question",
+                        3.6899936363573764
+                    ],
+                    [
+                        "n squared",
+                        4.301259066372418
+                    ],
+                    [
+                        "high risk",
+                        4.576088857257334
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "infinity",
+                        0.34683577189583936
+                    ],
+                    [
+                        "approach",
+                        0.540022238770641
+                    ],
+                    [
+                        "big",
+                        0.5433893356845707
+                    ],
+                    [
+                        "number",
+                        0.834765070191213
+                    ],
+                    [
+                        "limit",
+                        0.8605600038571702
+                    ],
+                    [
+                        "case",
+                        0.8713545744679605
+                    ],
+                    [
+                        "little",
+                        0.91852575333754
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-360": {
+            "id": "kAv5pahIevE-360",
+            "heat": 0.225,
+            "start": 360.0,
+            "text": " Or they could go to infinity together. an and bn could both be n, both headed for infinity. The differences would be 0 all along, n minus n. So the limit of the difference would be 0 minus 0. So this could be 0, but it could be infinity, it could be minus infinity, it could be anything. Any limit is possible there. Do you see that there is a case-- it's sort of a special case, because it only happens when these limits are infinite-- but now it's sort of OK to look at each-- let me look at number two. How about multiplication? If I multiply a bunch of numbers that are headed for 7 and a bunch of numbers that are headed for 4, their product is going to head for 28. This will be true. When could it fail? Well, again, it's going to be extreme cases, because if I have ordinary numbers for A and B like 7 and 4, there's no doubt. But look at the extreme case of when A is 0 and B is infinite. So the an's are headed for 0. The bn's are getting bigger and bigger, the an's are",
+            "metrics": {
+                "relativeDCReadability": 0.9845441374808902,
+                "lexicalDiversity": 0.4666666666666667,
+                "posComposition": {
+                    "CC": 0.057,
+                    "PRP": 0.062,
+                    "MD": 0.048,
+                    "VB": 0.086,
+                    "TO": 0.019,
+                    "RB": 0.043,
+                    "DT": 0.11,
+                    "NN": 0.1,
+                    "VBN": 0.024,
+                    "IN": 0.114,
+                    "NNS": 0.033,
+                    "CD": 0.057,
+                    "JJ": 0.043,
+                    "VBZ": 0.048,
+                    "VBP": 0.043,
+                    "EX": 0.01,
+                    ":": 0.014,
+                    "WRB": 0.019,
+                    "NNP": 0.019,
+                    "WDT": 0.01,
+                    "PRP$": 0.005,
+                    "VBG": 0.014,
+                    "POS": 0.014,
+                    "JJR": 0.01
+                },
+                "syllableRate": 2.325,
+                "topicScores": [
+                    [
+                        "infinity",
+                        0.3247316601620782
+                    ],
+                    [
+                        "number",
+                        0.3602718407595602
+                    ],
+                    [
+                        "limit",
+                        0.4148166924419378
+                    ],
+                    [
+                        "case",
+                        0.4210691830550801
+                    ],
+                    [
+                        "difference",
+                        0.4967412234586236
+                    ],
+                    [
+                        "bn",
+                        0.5448655649646525
+                    ],
+                    [
+                        "bunch",
+                        0.5476616898258505
+                    ],
+                    [
+                        "extreme",
+                        0.5517267236538066
+                    ],
+                    [
+                        "big",
+                        0.5664435849057917
+                    ],
+                    [
+                        "ok",
+                        0.6359408466710617
+                    ],
+                    [
+                        "B",
+                        0.6719746792486752
+                    ],
+                    [
+                        "n.",
+                        0.8479097517115642
+                    ],
+                    [
+                        "possible",
+                        0.8925669335688842
+                    ],
+                    [
+                        "multiplication",
+                        0.8964740842358859
+                    ],
+                    [
+                        "special",
+                        0.897169859671686
+                    ],
+                    [
+                        "true",
+                        0.9001867789221781
+                    ],
+                    [
+                        "doubt",
+                        0.9030794977919301
+                    ],
+                    [
+                        "product",
+                        0.909994282517843
+                    ],
+                    [
+                        "ordinary",
+                        0.9189972224361874
+                    ],
+                    [
+                        "extreme case",
+                        1.7627775352580437
+                    ],
+                    [
+                        "special case",
+                        3.0906681835104046
+                    ],
+                    [
+                        "ordinary number",
+                        3.3245942788070546
+                    ]
+                ],
+                "topTopicSimilarity": 0.2727272727272727,
+                "sharedTopicScores": [
+                    [
+                        "infinity",
+                        0.3247316601620782
+                    ],
+                    [
+                        "number",
+                        0.3602718407595602
+                    ],
+                    [
+                        "limit",
+                        0.4148166924419378
+                    ],
+                    [
+                        "case",
+                        0.4210691830550801
+                    ],
+                    [
+                        "big",
+                        0.5664435849057917
+                    ],
+                    [
+                        "ok",
+                        0.6359408466710617
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-450": {
+            "id": "kAv5pahIevE-450",
+            "heat": 0.218,
+            "start": 450.0,
+            "text": " getting small as we go far enough out. OK. In that case, well, again it's a race. The an's might be 1 over n squared, and the bn's might be n. So this would be n over n squared, and that would go to 0. But if I reverse those I could have n squared times 1 over n. The product could get bigger, or the product could-- all possibilities. All possibilities there. So I cannot know what that one is. 0 times infinity is meaningless. OK. What about number three? The danger increases as soon as we start dividing. I made the b's positive, but I don't know if capital B is positive. So the danger-- and, in fact, the most important case for calculus-- is 0 over 0. If the a's go to 0 and the b's go to 0, I can't tell what their ratio goes to, because it depends how fast they go. If the a's go quickly to 0 and the b's are rather slow getting there-- in other words the b's would be a lot bigger than the a's",
+            "metrics": {
+                "relativeDCReadability": 1.0046871775479054,
+                "lexicalDiversity": 0.5247524752475248,
+                "posComposition": {
+                    "VBG": 0.015,
+                    "JJ": 0.054,
+                    "IN": 0.094,
+                    "PRP": 0.054,
+                    "VBP": 0.03,
+                    "RB": 0.074,
+                    "RP": 0.005,
+                    "NNP": 0.02,
+                    "DT": 0.124,
+                    "NN": 0.104,
+                    "VBZ": 0.04,
+                    "POS": 0.045,
+                    "MD": 0.05,
+                    "VB": 0.054,
+                    "CD": 0.054,
+                    "VBN": 0.02,
+                    "CC": 0.04,
+                    "TO": 0.025,
+                    "NNS": 0.025,
+                    "PDT": 0.005,
+                    "JJR": 0.01,
+                    ":": 0.02,
+                    "EX": 0.005,
+                    "WP": 0.015,
+                    "VBD": 0.005,
+                    "RBS": 0.005,
+                    "PRP$": 0.005,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.117,
+                "topicScores": [
+                    [
+                        "b",
+                        0.37501050640329187
+                    ],
+                    [
+                        "possibility",
+                        0.5362055313780659
+                    ],
+                    [
+                        "n.",
+                        0.554183864829519
+                    ],
+                    [
+                        "product",
+                        0.5678286138377288
+                    ],
+                    [
+                        "case",
+                        0.5685406833322855
+                    ],
+                    [
+                        "positive",
+                        0.5716927146960858
+                    ],
+                    [
+                        "big",
+                        0.5725909866688277
+                    ],
+                    [
+                        "small",
+                        0.8015276732347949
+                    ],
+                    [
+                        "race",
+                        0.8553540285874169
+                    ],
+                    [
+                        "meaningless",
+                        0.8939277973054034
+                    ],
+                    [
+                        "bn",
+                        0.9022227380293489
+                    ],
+                    [
+                        "time",
+                        0.9132481787648097
+                    ],
+                    [
+                        "could--",
+                        0.9143398612704388
+                    ],
+                    [
+                        "fact",
+                        0.9147095896338819
+                    ],
+                    [
+                        "number",
+                        0.9180013866728328
+                    ],
+                    [
+                        "danger",
+                        0.9198289188546397
+                    ],
+                    [
+                        "infinity",
+                        0.9210386019390571
+                    ],
+                    [
+                        "capital",
+                        0.9285181515368796
+                    ],
+                    [
+                        "important",
+                        0.9297767879546552
+                    ],
+                    [
+                        "calculus--",
+                        0.9297767879546552
+                    ],
+                    [
+                        "ratio",
+                        0.9308873946136977
+                    ],
+                    [
+                        "slow",
+                        0.9318768464247134
+                    ],
+                    [
+                        "there--",
+                        0.9318768464247134
+                    ],
+                    [
+                        "word",
+                        0.9318768464247134
+                    ],
+                    [
+                        "lot",
+                        0.9318768464247134
+                    ],
+                    [
+                        "capital B",
+                        1.8156797464242556
+                    ],
+                    [
+                        "product could--",
+                        4.64633747534126
+                    ],
+                    [
+                        "important case",
+                        5.166613013088266
+                    ],
+                    [
+                        "time infinity",
+                        5.294725036127967
+                    ],
+                    [
+                        "lot big",
+                        5.4813467902683595
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "case",
+                        0.5685406833322855
+                    ],
+                    [
+                        "big",
+                        0.5725909866688277
+                    ],
+                    [
+                        "small",
+                        0.8015276732347949
+                    ],
+                    [
+                        "number",
+                        0.9180013866728328
+                    ],
+                    [
+                        "infinity",
+                        0.9210386019390571
+                    ],
+                    [
+                        "ratio",
+                        0.9308873946136977
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-540": {
+            "id": "kAv5pahIevE-540",
+            "heat": 0.285,
+            "start": 540.0,
+            "text": " even though both are going to 0-- then that fraction would be small. But if I reverse them, the fraction would be large. So I think 0 over 0 is a danger. I think there's another danger here. Yeah, maybe infinity over infinity. Again, that's a race that we can't tell, until we know details about the sequences, who's going to win. If they an's go off to infinity and the bn's go off to infinity, ah, a very important case. The ratio could be 1 all along. The a's and b's could be the same, headed for infinity. Or the an's might be squaring the b's and going up faster, or the square root of the b's and going slower. So again, infinity over infinity, we can't-- 0 over infinity, if the a's are headed for 0 and the b's are headed big, then that ratio is going to be small and head for 0. 0 over infinity, I'm OK with. Call it 0. Well, I don't know if that's legal, but anyway, let me do it. All right, last one of this kind, just for practice about limits. Again, you see what I'm constantly doing is thinking of examples that simply show that I can't",
+            "metrics": {
+                "relativeDCReadability": 1.012377319706263,
+                "lexicalDiversity": 0.5043859649122807,
+                "posComposition": {
+                    "RB": 0.07,
+                    "IN": 0.114,
+                    "DT": 0.105,
+                    "VBP": 0.057,
+                    "VBG": 0.035,
+                    "TO": 0.022,
+                    "CD": 0.044,
+                    ":": 0.009,
+                    "NN": 0.114,
+                    "MD": 0.035,
+                    "VB": 0.061,
+                    "JJ": 0.044,
+                    "CC": 0.044,
+                    "PRP": 0.07,
+                    "NNP": 0.026,
+                    "VBZ": 0.031,
+                    "EX": 0.004,
+                    "WDT": 0.009,
+                    "NNS": 0.018,
+                    "WP": 0.009,
+                    "POS": 0.039,
+                    "RP": 0.013,
+                    "VBN": 0.013,
+                    "RBR": 0.004,
+                    "JJR": 0.004,
+                    "VBD": 0.004
+                },
+                "syllableRate": 2.583,
+                "topicScores": [
+                    [
+                        "infinity",
+                        0.25843146064497485
+                    ],
+                    [
+                        "b",
+                        0.37083214478568166
+                    ],
+                    [
+                        "fraction",
+                        0.5228645444260093
+                    ],
+                    [
+                        "danger",
+                        0.5406984966606758
+                    ],
+                    [
+                        "small",
+                        0.5563182928054361
+                    ],
+                    [
+                        "ratio",
+                        0.5674102881220634
+                    ],
+                    [
+                        "square",
+                        0.5831780299486581
+                    ],
+                    [
+                        "ok",
+                        0.6738946296545817
+                    ],
+                    [
+                        "large",
+                        0.8781511035953831
+                    ],
+                    [
+                        "case",
+                        0.9112760230700161
+                    ],
+                    [
+                        "slow",
+                        0.9179929313089638
+                    ],
+                    [
+                        "sequence",
+                        0.9205326485398287
+                    ],
+                    [
+                        "important",
+                        0.9233954485844329
+                    ],
+                    [
+                        "limit",
+                        0.9243339059867902
+                    ],
+                    [
+                        "race",
+                        0.9258818957925703
+                    ],
+                    [
+                        "detail",
+                        0.9258818957925703
+                    ],
+                    [
+                        "bn",
+                        0.9285669438825932
+                    ],
+                    [
+                        "big",
+                        0.9306685531649264
+                    ],
+                    [
+                        "legal",
+                        0.9339333971040475
+                    ],
+                    [
+                        "root",
+                        0.9340695384902975
+                    ],
+                    [
+                        "kind",
+                        0.934797287561333
+                    ],
+                    [
+                        "practice",
+                        0.9392496967215834
+                    ],
+                    [
+                        "example",
+                        0.9399813740767148
+                    ],
+                    [
+                        "important case",
+                        5.307880007285282
+                    ],
+                    [
+                        "square root",
+                        6.319292549600838
+                    ]
+                ],
+                "topTopicSimilarity": 0.36,
+                "sharedTopicScores": [
+                    [
+                        "infinity",
+                        0.25843146064497485
+                    ],
+                    [
+                        "small",
+                        0.5563182928054361
+                    ],
+                    [
+                        "ratio",
+                        0.5674102881220634
+                    ],
+                    [
+                        "square",
+                        0.5831780299486581
+                    ],
+                    [
+                        "ok",
+                        0.6738946296545817
+                    ],
+                    [
+                        "case",
+                        0.9112760230700161
+                    ],
+                    [
+                        "limit",
+                        0.9243339059867902
+                    ],
+                    [
+                        "big",
+                        0.9306685531649264
+                    ],
+                    [
+                        "root",
+                        0.9340695384902975
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-630": {
+            "id": "kAv5pahIevE-630",
+            "heat": 0.286,
+            "start": 630.0,
+            "text": " be sure of the limit. So here normally I could be sure, if this is headed for 7 to the fourth, that'll be the limit, whatever that is, 49 squared, 2401, or something. But if-- now when could it go wrong? Here's an interesting case. So this is my list of danger, and I think I'm in danger if they both go to 0. 0 to the 0-th power, I don't know what that is. And actually, I don't know all the possibilities here. I can see one way would be let's suppose the b's were actually 0, or practically. Then things to the 0 power are 1. So I could get the answer 1 here by fixing the b's at 0 and letting these guys, they would all be to the 0 power, so they would all be 1. And in the limit, I would have 1. But I could also do it differently. I could fix these at 0 and let these guys get smaller. Then I would have 0 to powers. And zero to any power is 0. You see my little problem here? Let me write my little problem here. My problem is that a to the 0 power would be 1, but 0 to the",
+            "metrics": {
+                "relativeDCReadability": 0.9828105860238374,
+                "lexicalDiversity": 0.4611872146118721,
+                "posComposition": {
+                    "VB": 0.091,
+                    "JJ": 0.041,
+                    "IN": 0.064,
+                    "DT": 0.105,
+                    "NN": 0.096,
+                    "NNP": 0.014,
+                    "RB": 0.087,
+                    "PRP": 0.082,
+                    "MD": 0.059,
+                    "VBZ": 0.032,
+                    "VBN": 0.009,
+                    "CD": 0.096,
+                    "TO": 0.041,
+                    "WDT": 0.009,
+                    "CC": 0.05,
+                    ":": 0.005,
+                    "WRB": 0.005,
+                    "PRP$": 0.014,
+                    "VBP": 0.037,
+                    "WP": 0.005,
+                    "PDT": 0.005,
+                    "NNS": 0.023,
+                    "POS": 0.014,
+                    "VBD": 0.005,
+                    "VBG": 0.009,
+                    "JJR": 0.005
+                },
+                "syllableRate": 2.208,
+                "topicScores": [
+                    [
+                        "power",
+                        0.30678811134177847
+                    ],
+                    [
+                        "limit",
+                        0.4262897592834868
+                    ],
+                    [
+                        "problem",
+                        0.43682046584807915
+                    ],
+                    [
+                        "sure",
+                        0.5109316278267528
+                    ],
+                    [
+                        "guy",
+                        0.5681441124792936
+                    ],
+                    [
+                        "little",
+                        0.5709266537587183
+                    ],
+                    [
+                        "danger",
+                        0.5759251792891186
+                    ],
+                    [
+                        "wrong",
+                        0.8808039454690525
+                    ],
+                    [
+                        "fourth",
+                        0.8813442859535177
+                    ],
+                    [
+                        "case",
+                        0.8928291214413884
+                    ],
+                    [
+                        "if--",
+                        0.9002703720188493
+                    ],
+                    [
+                        "interesting",
+                        0.9105311483111365
+                    ],
+                    [
+                        "small",
+                        0.9214307816031859
+                    ],
+                    [
+                        "possibility",
+                        0.921707993018727
+                    ],
+                    [
+                        "list",
+                        0.9238967248851663
+                    ],
+                    [
+                        "thing",
+                        0.9278759867091384
+                    ],
+                    [
+                        "way",
+                        0.9313590899004958
+                    ],
+                    [
+                        "answer",
+                        0.9358827463057144
+                    ],
+                    [
+                        "little problem",
+                        2.3814640269283514
+                    ],
+                    [
+                        "th power",
+                        3.6125736168035725
+                    ],
+                    [
+                        "interesting case",
+                        4.346127691589314
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "power",
+                        0.30678811134177847
+                    ],
+                    [
+                        "limit",
+                        0.4262897592834868
+                    ],
+                    [
+                        "little",
+                        0.5709266537587183
+                    ],
+                    [
+                        "case",
+                        0.8928291214413884
+                    ],
+                    [
+                        "small",
+                        0.9214307816031859
+                    ],
+                    [
+                        "thing",
+                        0.9278759867091384
+                    ],
+                    [
+                        "way",
+                        0.9313590899004958
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-720": {
+            "id": "kAv5pahIevE-720",
+            "heat": 0.161,
+            "start": 720.0,
+            "text": " a-th power would be 0, or 0 to the b-th, maybe I should say. So if I'm in this situation and the a is shrinking to 0, I still have a limit of 1's. But if I'm in this situation and the b's are headed for 0, I have a limit of 0's. And maybe you could get 1/2, I don't know how. And you have to allow me-- because I have to finish this list, and I only have one more to tell you-- that another case, a very interesting type of calculus case is the case where the a's go to 1 and the b's go to infinity. I don't know if you remember that this actually happened in the lecture on e, the number that comes in e to the x, the great number of calculus. Do you remember that? So I'm going to talk a little bit about the a's going to 1 and the b's blowing up. So I'm getting things that are very near 1, but I'm taking many, many more of them. And I believe that I can get all kinds of different limits there. I believe I can get all kinds of different limits. Do you just-- maybe on this next board. And then I promise to come back to the heart of the",
+            "metrics": {
+                "relativeDCReadability": 0.9837639154823495,
+                "lexicalDiversity": 0.4393305439330544,
+                "posComposition": {
+                    "JJ": 0.05,
+                    "NN": 0.105,
+                    "MD": 0.021,
+                    "VB": 0.054,
+                    "CD": 0.046,
+                    "CC": 0.05,
+                    "TO": 0.05,
+                    "DT": 0.121,
+                    "PRP": 0.105,
+                    "IN": 0.109,
+                    "VBP": 0.079,
+                    "VBZ": 0.017,
+                    "VBG": 0.021,
+                    "RB": 0.063,
+                    "POS": 0.025,
+                    "VBN": 0.008,
+                    "WRB": 0.008,
+                    ":": 0.013,
+                    "JJR": 0.008,
+                    "PDT": 0.004,
+                    "WDT": 0.008,
+                    "NNP": 0.013,
+                    "NNS": 0.021
+                },
+                "syllableRate": 2.492,
+                "topicScores": [
+                    [
+                        "b",
+                        0.3286784959088628
+                    ],
+                    [
+                        "limit",
+                        0.3437438129791091
+                    ],
+                    [
+                        "case",
+                        0.43420352420334435
+                    ],
+                    [
+                        "th",
+                        0.46117098345347385
+                    ],
+                    [
+                        "situation",
+                        0.4789738027097922
+                    ],
+                    [
+                        "kind",
+                        0.5301601326925597
+                    ],
+                    [
+                        "calculus",
+                        0.531365117199025
+                    ],
+                    [
+                        "different",
+                        0.5325730727923126
+                    ],
+                    [
+                        "number",
+                        0.5484273100297273
+                    ],
+                    [
+                        "power",
+                        0.7742169117587785
+                    ],
+                    [
+                        "infinity",
+                        0.8639745519921802
+                    ],
+                    [
+                        "list",
+                        0.884864179896531
+                    ],
+                    [
+                        "x",
+                        0.8910620558351819
+                    ],
+                    [
+                        "great",
+                        0.8910620558351819
+                    ],
+                    [
+                        "board",
+                        0.8916152145668205
+                    ],
+                    [
+                        "me--",
+                        0.8936164040729743
+                    ],
+                    [
+                        "interesting",
+                        0.8936164040729743
+                    ],
+                    [
+                        "type",
+                        0.8936164040729743
+                    ],
+                    [
+                        "lecture",
+                        0.8993967047199383
+                    ],
+                    [
+                        "near",
+                        0.9023479364161519
+                    ],
+                    [
+                        "little",
+                        0.9071453475568209
+                    ],
+                    [
+                        "bit",
+                        0.9071453475568209
+                    ],
+                    [
+                        "thing",
+                        0.9099064256524323
+                    ],
+                    [
+                        "heart",
+                        0.9172829379776123
+                    ],
+                    [
+                        "different limit",
+                        1.3027989172027212
+                    ],
+                    [
+                        "th power",
+                        1.303643820759432
+                    ],
+                    [
+                        "calculus case",
+                        2.7225511037015777
+                    ],
+                    [
+                        "great number",
+                        3.435452489371369
+                    ],
+                    [
+                        "interesting type",
+                        3.9640177619849983
+                    ],
+                    [
+                        "little bit",
+                        4.646931745317094
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "limit",
+                        0.3437438129791091
+                    ],
+                    [
+                        "case",
+                        0.43420352420334435
+                    ],
+                    [
+                        "number",
+                        0.5484273100297273
+                    ],
+                    [
+                        "power",
+                        0.7742169117587785
+                    ],
+                    [
+                        "infinity",
+                        0.8639745519921802
+                    ],
+                    [
+                        "x",
+                        0.8910620558351819
+                    ],
+                    [
+                        "little",
+                        0.9071453475568209
+                    ],
+                    [
+                        "thing",
+                        0.9099064256524323
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-810": {
+            "id": "kAv5pahIevE-810",
+            "heat": 0.17,
+            "start": 810.0,
+            "text": " subject of limits and continuous functions. But I just think that one, the famous case of this one, was 1 plus 1 over n. That's the a's, and that approaches what limit? One. The b's I'm going to take as n. So the b's are going to infinity. So I'm discussing this case here. So that's a case where this goes to 1, this goes to infinity. I had an email this week saying, wait a minute, I've got a little problem here, because I know 1 to the infinity is e. 1 to the infinity is 3. Well, that's because it's true that that number approaches e. That's one of the many remarkable ways to produce the number e, the 2.7-something. But that's because the race between this and this was so evenly balanced. If I took these closer and closer to 1, like n squared, what would happen then? Then I'm taking numbers very, very near 1, I'm taking a power, but these are sort of near, those would approach-- would you like to guess? One.",
+            "metrics": {
+                "relativeDCReadability": 1.059190972171711,
+                "lexicalDiversity": 0.5129533678756477,
+                "posComposition": {
+                    "NN": 0.098,
+                    "IN": 0.104,
+                    "NNS": 0.036,
+                    "CC": 0.041,
+                    "JJ": 0.047,
+                    "PRP": 0.057,
+                    "RB": 0.047,
+                    "VBP": 0.057,
+                    "CD": 0.062,
+                    "DT": 0.15,
+                    "VBD": 0.031,
+                    "WDT": 0.01,
+                    "VBZ": 0.073,
+                    "POS": 0.016,
+                    "WP": 0.01,
+                    "VBG": 0.031,
+                    "TO": 0.047,
+                    "VB": 0.036,
+                    "NNP": 0.016,
+                    "WRB": 0.005,
+                    "JJR": 0.005,
+                    "MD": 0.016,
+                    ":": 0.005
+                },
+                "syllableRate": 2.108,
+                "topicScores": [
+                    [
+                        "infinity",
+                        0.35066687680569797
+                    ],
+                    [
+                        "case",
+                        0.43819936571399065
+                    ],
+                    [
+                        "number",
+                        0.4474096216808633
+                    ],
+                    [
+                        "n.",
+                        0.5175383074379879
+                    ],
+                    [
+                        "limit",
+                        0.5324343837706643
+                    ],
+                    [
+                        "near",
+                        0.5694665610571361
+                    ],
+                    [
+                        "e.",
+                        0.5715375296646377
+                    ],
+                    [
+                        "close",
+                        0.5801497393497733
+                    ],
+                    [
+                        "subject",
+                        0.8261052652139298
+                    ],
+                    [
+                        "function",
+                        0.8261052652139298
+                    ],
+                    [
+                        "continuous",
+                        0.8530140454782815
+                    ],
+                    [
+                        "famous",
+                        0.8758222450557606
+                    ],
+                    [
+                        "balanced",
+                        0.9016030412824935
+                    ],
+                    [
+                        "true",
+                        0.9125839591506836
+                    ],
+                    [
+                        "week",
+                        0.914453625074156
+                    ],
+                    [
+                        "minute",
+                        0.914453625074156
+                    ],
+                    [
+                        "problem",
+                        0.914453625074156
+                    ],
+                    [
+                        "power",
+                        0.9206773662183548
+                    ],
+                    [
+                        "email",
+                        0.921456876528313
+                    ],
+                    [
+                        "little",
+                        0.921456876528313
+                    ],
+                    [
+                        "remarkable",
+                        0.9232138367900016
+                    ],
+                    [
+                        "way",
+                        0.9232138367900016
+                    ],
+                    [
+                        "race",
+                        0.9247266056075861
+                    ],
+                    [
+                        "continuous function",
+                        2.386150443283975
+                    ],
+                    [
+                        "famous case",
+                        3.302361434754751
+                    ],
+                    [
+                        "number e",
+                        4.5546396089022565
+                    ],
+                    [
+                        "little problem",
+                        5.3544343780208115
+                    ],
+                    [
+                        "remarkable way",
+                        5.771571327838389
+                    ]
+                ],
+                "topTopicSimilarity": 0.35714285714285715,
+                "sharedTopicScores": [
+                    [
+                        "infinity",
+                        0.35066687680569797
+                    ],
+                    [
+                        "case",
+                        0.43819936571399065
+                    ],
+                    [
+                        "number",
+                        0.4474096216808633
+                    ],
+                    [
+                        "limit",
+                        0.5324343837706643
+                    ],
+                    [
+                        "close",
+                        0.5801497393497733
+                    ],
+                    [
+                        "function",
+                        0.8261052652139298
+                    ],
+                    [
+                        "continuous",
+                        0.8530140454782815
+                    ],
+                    [
+                        "power",
+                        0.9206773662183548
+                    ],
+                    [
+                        "little",
+                        0.921456876528313
+                    ],
+                    [
+                        "way",
+                        0.9232138367900016
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-900": {
+            "id": "kAv5pahIevE-900",
+            "heat": 0.133,
+            "start": 900.0,
+            "text": " These are so close to 1 that taking the nth power doesn't move them far. And you can guess that I could get infinity too, by taking n not still close to 1 and taking some big power like n squared. Now I have things close to 1, but I'm taking so many of them that it would blow up. So again i think--So those are all cases where in the limit, I have 1, in the limit, I have infinity. But that combination 1 to the increasingly high powers can do different things. This was my little idea to show you the risky cases. OK. But actually, 0 over 0, that's what calculus is always doing, right? Because that's exactly what we have when we have a delta f over a delta x, a delta y over a delta x. They're both approaching 0 and we get a definite slope when the ratio goes to a good number. OK. So can I discuss 0 over 0? All right, phooey on this one. OK. So I now want to speak about the case when f",
+            "metrics": {
+                "relativeDCReadability": 1.0710517277993117,
+                "lexicalDiversity": 0.4635416666666667,
+                "posComposition": {
+                    "DT": 0.115,
+                    "VBP": 0.068,
+                    "RB": 0.099,
+                    "TO": 0.036,
+                    "CD": 0.057,
+                    "IN": 0.089,
+                    "VBG": 0.031,
+                    "JJ": 0.078,
+                    "NN": 0.104,
+                    "VBZ": 0.021,
+                    "VB": 0.047,
+                    "PRP": 0.083,
+                    "CC": 0.031,
+                    "MD": 0.026,
+                    "NNS": 0.031,
+                    "VBN": 0.005,
+                    "RP": 0.005,
+                    ":": 0.005,
+                    "WRB": 0.021,
+                    "VBD": 0.005,
+                    "PRP$": 0.005,
+                    "WDT": 0.005,
+                    "POS": 0.005,
+                    "WP": 0.01,
+                    "NNP": 0.016
+                },
+                "syllableRate": 2.117,
+                "topicScores": [
+                    [
+                        "delta",
+                        0.3790019510635256
+                    ],
+                    [
+                        "close",
+                        0.41311186043355497
+                    ],
+                    [
+                        "power",
+                        0.44338068723549134
+                    ],
+                    [
+                        "case",
+                        0.4494300976878968
+                    ],
+                    [
+                        "limit",
+                        0.5291675049195353
+                    ],
+                    [
+                        "infinity",
+                        0.5474051684540158
+                    ],
+                    [
+                        "thing",
+                        0.5619459416048243
+                    ],
+                    [
+                        "right",
+                        0.5633610584261411
+                    ],
+                    [
+                        "nth",
+                        0.8381259490721069
+                    ],
+                    [
+                        "big",
+                        0.8862652609204101
+                    ],
+                    [
+                        "number",
+                        0.9106606072865163
+                    ],
+                    [
+                        "different",
+                        0.9113430474529232
+                    ],
+                    [
+                        "risky",
+                        0.9162504475636734
+                    ],
+                    [
+                        "combination",
+                        0.9206633443814483
+                    ],
+                    [
+                        "high",
+                        0.9206633443814483
+                    ],
+                    [
+                        "little",
+                        0.9250972428634886
+                    ],
+                    [
+                        "idea",
+                        0.9250972428634886
+                    ],
+                    [
+                        "x",
+                        0.9251460432684097
+                    ],
+                    [
+                        "good",
+                        0.9301366646522772
+                    ],
+                    [
+                        "calculus",
+                        0.9310182084679165
+                    ],
+                    [
+                        "phooey",
+                        0.9334247637004709
+                    ],
+                    [
+                        "definite",
+                        0.937616475972407
+                    ],
+                    [
+                        "slope",
+                        0.937616475972407
+                    ],
+                    [
+                        "ratio",
+                        0.937616475972407
+                    ],
+                    [
+                        "thing close",
+                        2.7862595913986827
+                    ],
+                    [
+                        "nth power",
+                        2.894349697596129
+                    ],
+                    [
+                        "big power",
+                        3.670841173164046
+                    ],
+                    [
+                        "delta f",
+                        4.122234819007495
+                    ],
+                    [
+                        "different thing",
+                        4.3106675695471015
+                    ],
+                    [
+                        "risky case",
+                        4.668325515872896
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "delta",
+                        0.3790019510635256
+                    ],
+                    [
+                        "close",
+                        0.41311186043355497
+                    ],
+                    [
+                        "power",
+                        0.44338068723549134
+                    ],
+                    [
+                        "case",
+                        0.4494300976878968
+                    ],
+                    [
+                        "limit",
+                        0.5291675049195353
+                    ],
+                    [
+                        "infinity",
+                        0.5474051684540158
+                    ],
+                    [
+                        "thing",
+                        0.5619459416048243
+                    ],
+                    [
+                        "big",
+                        0.8862652609204101
+                    ],
+                    [
+                        "number",
+                        0.9106606072865163
+                    ],
+                    [
+                        "little",
+                        0.9250972428634886
+                    ],
+                    [
+                        "idea",
+                        0.9250972428634886
+                    ],
+                    [
+                        "x",
+                        0.9251460432684097
+                    ],
+                    [
+                        "slope",
+                        0.937616475972407
+                    ],
+                    [
+                        "ratio",
+                        0.937616475972407
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-990": {
+            "id": "kAv5pahIevE-990",
+            "heat": 0.128,
+            "start": 990.0,
+            "text": " of x goes to 0. Let's say f of x goes to 0 as x goes to 0. So there'll be an if here. I have to say what that means. And then I'm also going to have some g of x going to 0 as x goes to 0. OK, so both functions are decreasing. And my question, let me ask the question first, what about f of x over g of x? What does that do? And of course, just as I said up there, I can't tell yet. I have to know the f and the g. It's a race to 0, and I have to know who's the winner and by how much. But first, I'd better say what does it mean for a function to go to 0 as x goes to 0. Well, you know. Let me draw a graph of this function. OK, I'll just draw it. So f of x is going to 0. So here is x, and I'm going to graph f of x, and here is 0. So as x is coming down to 0, my f of x is also coming to 0.",
+            "metrics": {
+                "relativeDCReadability": 1.0282257713429892,
+                "lexicalDiversity": 0.45588235294117646,
+                "posComposition": {
+                    "IN": 0.113,
+                    "NN": 0.137,
+                    "VBZ": 0.074,
+                    "TO": 0.083,
+                    "CD": 0.059,
+                    "NNP": 0.02,
+                    "POS": 0.005,
+                    "VB": 0.088,
+                    "RB": 0.074,
+                    "EX": 0.01,
+                    "MD": 0.02,
+                    "DT": 0.064,
+                    "PRP": 0.074,
+                    "VBP": 0.034,
+                    "WP": 0.025,
+                    "CC": 0.044,
+                    "VBG": 0.034,
+                    "NNS": 0.005,
+                    "PRP$": 0.01,
+                    "FW": 0.005,
+                    "VBD": 0.005,
+                    "WRB": 0.005,
+                    "JJ": 0.015
+                },
+                "syllableRate": 1.875,
+                "topicScores": [
+                    [
+                        "x",
+                        0.2219744464779129
+                    ],
+                    [
+                        "f",
+                        0.32208214960940806
+                    ],
+                    [
+                        "function",
+                        0.4648259558289513
+                    ],
+                    [
+                        "g",
+                        0.5756458400551657
+                    ],
+                    [
+                        "question",
+                        0.5887895390367031
+                    ],
+                    [
+                        "graph",
+                        0.5915857240526516
+                    ],
+                    [
+                        "course",
+                        0.9439592225068071
+                    ],
+                    [
+                        "race",
+                        0.9510026131678202
+                    ],
+                    [
+                        "winner",
+                        0.9510026131678202
+                    ]
+                ],
+                "topTopicSimilarity": 0.4444444444444444,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.2219744464779129
+                    ],
+                    [
+                        "f",
+                        0.32208214960940806
+                    ],
+                    [
+                        "function",
+                        0.4648259558289513
+                    ],
+                    [
+                        "g",
+                        0.5756458400551657
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1080": {
+            "id": "kAv5pahIevE-1080",
+            "heat": 0.111,
+            "start": 1080.0,
+            "text": " So it could come like so. That's a pretty sensible, smooth, nice approach to 0. That could be my f of x. And it may be a g of x is smaller, but also approaching 0 in a nice, smooth way. This is a case where you can see those, as x goes that way-- maybe the arrow should be going that way, because x is going to 0-- my f of x is getting smaller, my g of x is getting smaller. And I'll say exactly what that means, but you know what it means. It means that if I put a little, like these lines, if I put a little band there, it gets into that band. Actually, g will get into the band sooner. But then f will safely get into the band. Now, the question is what about f of x over g of x? OK. Can we say? Now, I'm going to suppose that f of x has a definite slope, s. And this one has a definite slope, t. In other words, I am going to suppose-- Here look, this is called, named after a French guy,",
+            "metrics": {
+                "relativeDCReadability": 0.9812528300380567,
+                "lexicalDiversity": 0.49246231155778897,
+                "posComposition": {
+                    "IN": 0.126,
+                    "PRP": 0.065,
+                    "MD": 0.045,
+                    "VB": 0.06,
+                    "DT": 0.121,
+                    "VBZ": 0.075,
+                    "RB": 0.045,
+                    "JJ": 0.06,
+                    "NN": 0.166,
+                    "TO": 0.02,
+                    "CD": 0.015,
+                    "PRP$": 0.015,
+                    "CC": 0.03,
+                    "JJR": 0.015,
+                    "VBG": 0.035,
+                    "WRB": 0.005,
+                    ":": 0.015,
+                    "WP": 0.015,
+                    "VBP": 0.025,
+                    "VBD": 0.01,
+                    "NNS": 0.01,
+                    "EX": 0.005,
+                    "NNP": 0.01,
+                    "VBN": 0.01
+                },
+                "syllableRate": 2.008,
+                "topicScores": [
+                    [
+                        "x",
+                        0.2561196216511177
+                    ],
+                    [
+                        "f",
+                        0.3301812973566068
+                    ],
+                    [
+                        "band",
+                        0.36405725396450417
+                    ],
+                    [
+                        "g",
+                        0.36591077696989915
+                    ],
+                    [
+                        "small",
+                        0.4160753935751104
+                    ],
+                    [
+                        "smooth",
+                        0.523775617248046
+                    ],
+                    [
+                        "approach",
+                        0.532742896010195
+                    ],
+                    [
+                        "nice",
+                        0.5354975961978736
+                    ],
+                    [
+                        "way",
+                        0.5406633669614592
+                    ],
+                    [
+                        "definite",
+                        0.5463968729490551
+                    ],
+                    [
+                        "slope",
+                        0.557044188339267
+                    ],
+                    [
+                        "little",
+                        0.560757160699456
+                    ],
+                    [
+                        "french",
+                        0.6830393880818951
+                    ],
+                    [
+                        "sensible",
+                        0.8650957280102037
+                    ],
+                    [
+                        "s.",
+                        0.9085248738090033
+                    ],
+                    [
+                        "t.",
+                        0.9098034583873316
+                    ],
+                    [
+                        "case",
+                        0.9117315560227243
+                    ],
+                    [
+                        "arrow",
+                        0.9166194186763887
+                    ],
+                    [
+                        "line",
+                        0.9174022492310403
+                    ],
+                    [
+                        "guy",
+                        0.9179058381826557
+                    ],
+                    [
+                        "question",
+                        0.9236942029171594
+                    ],
+                    [
+                        "word",
+                        0.9296281359292305
+                    ],
+                    [
+                        "suppose--",
+                        0.9345899862445696
+                    ],
+                    [
+                        "french guy",
+                        1.6807196569863605
+                    ],
+                    [
+                        "definite slope",
+                        2.0493465021939135
+                    ],
+                    [
+                        "smooth way",
+                        2.4649315675491534
+                    ],
+                    [
+                        "nice approach",
+                        2.5293289416250464
+                    ],
+                    [
+                        "little band",
+                        3.0208775728637156
+                    ]
+                ],
+                "topTopicSimilarity": 0.35714285714285715,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.2561196216511177
+                    ],
+                    [
+                        "f",
+                        0.3301812973566068
+                    ],
+                    [
+                        "band",
+                        0.36405725396450417
+                    ],
+                    [
+                        "g",
+                        0.36591077696989915
+                    ],
+                    [
+                        "small",
+                        0.4160753935751104
+                    ],
+                    [
+                        "approach",
+                        0.532742896010195
+                    ],
+                    [
+                        "way",
+                        0.5406633669614592
+                    ],
+                    [
+                        "slope",
+                        0.557044188339267
+                    ],
+                    [
+                        "little",
+                        0.560757160699456
+                    ],
+                    [
+                        "case",
+                        0.9117315560227243
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1170": {
+            "id": "kAv5pahIevE-1170",
+            "heat": 0.1,
+            "start": 1170.0,
+            "text": " L'Hopital, the hospital rule. OK, so it's just a little trick, because this comes up of what's happening in this race to 0. And the natural idea is that f of x is really, since f is 0 there, and I'm really just going a little way. So maybe I call that delta x, just to emphasize that I'm looking really near 0. And that f of x is really going to be delta f. And that g of x is really going to be delta g, because let me draw the picture, delta f is that height. Here is delta x, and here is the height. It's because that point is 0, 0. So the differences I'm taking, the f of x in the delta, the f of x plus delta x is just f at delta x, just that height. And g is this smaller one. Do you have an idea of what this answer's going to be?",
+            "metrics": {
+                "relativeDCReadability": 1.0701735059417132,
+                "lexicalDiversity": 0.49101796407185627,
+                "posComposition": {
+                    "NNP": 0.024,
+                    "DT": 0.114,
+                    "NN": 0.192,
+                    "IN": 0.138,
+                    "PRP": 0.048,
+                    "VBZ": 0.096,
+                    "RB": 0.084,
+                    "JJ": 0.048,
+                    "WP": 0.012,
+                    "VBG": 0.042,
+                    "TO": 0.03,
+                    "CD": 0.036,
+                    "CC": 0.042,
+                    "EX": 0.006,
+                    "VBP": 0.03,
+                    "VB": 0.042,
+                    "NNS": 0.006,
+                    "VBN": 0.006,
+                    "JJR": 0.006
+                },
+                "syllableRate": 1.775,
+                "topicScores": [
+                    [
+                        "x",
+                        0.23483865181010294
+                    ],
+                    [
+                        "delta",
+                        0.26192194646226835
+                    ],
+                    [
+                        "f",
+                        0.26855441577805783
+                    ],
+                    [
+                        "L'Hopital",
+                        0.3676265521343607
+                    ],
+                    [
+                        "height",
+                        0.3856588751612984
+                    ],
+                    [
+                        "little",
+                        0.5047080349293238
+                    ],
+                    [
+                        "idea",
+                        0.5562786930863757
+                    ],
+                    [
+                        "rule",
+                        0.7588514393051105
+                    ],
+                    [
+                        "hospital",
+                        0.7734747901638431
+                    ],
+                    [
+                        "trick",
+                        0.8475193356353468
+                    ],
+                    [
+                        "way",
+                        0.8519780979241123
+                    ],
+                    [
+                        "race",
+                        0.857020002169148
+                    ],
+                    [
+                        "natural",
+                        0.879294548242238
+                    ],
+                    [
+                        "picture",
+                        0.8980585470142312
+                    ],
+                    [
+                        "small",
+                        0.9110160913275275
+                    ],
+                    [
+                        "point",
+                        0.9121397203131357
+                    ],
+                    [
+                        "difference",
+                        0.9147662420575972
+                    ],
+                    [
+                        "plus",
+                        0.9147662420575972
+                    ],
+                    [
+                        "answer",
+                        0.9187970683256121
+                    ],
+                    [
+                        "delta x",
+                        0.9192857325037818
+                    ],
+                    [
+                        "hospital rule",
+                        1.4210288109457834
+                    ],
+                    [
+                        "little trick",
+                        2.1052758886057963
+                    ],
+                    [
+                        "little way",
+                        2.1400543921966158
+                    ],
+                    [
+                        "x plus",
+                        2.4919225074491376
+                    ],
+                    [
+                        "plus delta",
+                        3.158101754483767
+                    ],
+                    [
+                        "natural idea",
+                        3.4495303754192017
+                    ]
+                ],
+                "topTopicSimilarity": 0.2692307692307692,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.23483865181010294
+                    ],
+                    [
+                        "delta",
+                        0.26192194646226835
+                    ],
+                    [
+                        "f",
+                        0.26855441577805783
+                    ],
+                    [
+                        "little",
+                        0.5047080349293238
+                    ],
+                    [
+                        "idea",
+                        0.5562786930863757
+                    ],
+                    [
+                        "way",
+                        0.8519780979241123
+                    ],
+                    [
+                        "small",
+                        0.9110160913275275
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1260": {
+            "id": "kAv5pahIevE-1260",
+            "heat": 0.161,
+            "start": 1260.0,
+            "text": " If I look at that ratio of this function to this function-- here the ratio, I don't know what, 3 or something. Here it's, I don't know, maybe 4, maybe more. As I'm getting closer and closer, this height is controlled by the slope. And this height, the g of x, is controlled by its slope. Look, here is the way to see it. Just divide top and bottom by delta x. Same thing. So I haven't changed anything yet. I divided the top and the bottom by delta x, just because now I'll let everything go to 0, delta x will go to 0, the delta f will go to 0, so the delta g will go to 0. But I know what this approaches. Delta f over delta x approaches the slope, s. And delta g over delta x approaches the other slope, t. So you see, this is L'Hopital's rule, that if f goes to 0, and if g goes to 0, and if they have nice slopes, then the ratio of f to g, which looks like 0 over 0, we",
+            "metrics": {
+                "relativeDCReadability": 1.199979192458403,
+                "lexicalDiversity": 0.5077720207253886,
+                "posComposition": {
+                    "IN": 0.104,
+                    "PRP": 0.067,
+                    "VBP": 0.041,
+                    "DT": 0.093,
+                    "NN": 0.171,
+                    "TO": 0.047,
+                    ":": 0.005,
+                    "RB": 0.073,
+                    "VB": 0.052,
+                    "WP": 0.01,
+                    "CD": 0.052,
+                    "CC": 0.047,
+                    "VBZ": 0.052,
+                    "JJR": 0.01,
+                    "VBG": 0.005,
+                    "RBR": 0.005,
+                    "VBN": 0.016,
+                    "VBD": 0.01,
+                    "PRP$": 0.005,
+                    "NNP": 0.031,
+                    "JJ": 0.057,
+                    "MD": 0.021,
+                    "NNS": 0.016,
+                    "POS": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.0,
+                "topicScores": [
+                    [
+                        "delta",
+                        0.2705875643418047
+                    ],
+                    [
+                        "slope",
+                        0.3258615950844846
+                    ],
+                    [
+                        "x",
+                        0.32744241862180745
+                    ],
+                    [
+                        "g",
+                        0.338628880345461
+                    ],
+                    [
+                        "f",
+                        0.38523533023970835
+                    ],
+                    [
+                        "approach",
+                        0.43227546193715627
+                    ],
+                    [
+                        "ratio",
+                        0.4345813007559562
+                    ],
+                    [
+                        "height",
+                        0.5355728546864161
+                    ],
+                    [
+                        "close",
+                        0.5570743906549527
+                    ],
+                    [
+                        "L'Hopital",
+                        0.6767323189830003
+                    ],
+                    [
+                        "function",
+                        0.8304612128192399
+                    ],
+                    [
+                        "thing",
+                        0.9030515689745815
+                    ],
+                    [
+                        "s.",
+                        0.908895661438772
+                    ],
+                    [
+                        "t.",
+                        0.9109064402393154
+                    ],
+                    [
+                        "way",
+                        0.9165174783202267
+                    ],
+                    [
+                        "rule",
+                        0.929684575257114
+                    ],
+                    [
+                        "nice",
+                        0.929684575257114
+                    ],
+                    [
+                        "delta x",
+                        1.6718654597490001
+                    ],
+                    [
+                        "nice slope",
+                        3.6106429290285056
+                    ],
+                    [
+                        "x. same thing",
+                        7.592759304841749
+                    ]
+                ],
+                "topTopicSimilarity": 0.55,
+                "sharedTopicScores": [
+                    [
+                        "delta",
+                        0.2705875643418047
+                    ],
+                    [
+                        "slope",
+                        0.3258615950844846
+                    ],
+                    [
+                        "x",
+                        0.32744241862180745
+                    ],
+                    [
+                        "g",
+                        0.338628880345461
+                    ],
+                    [
+                        "f",
+                        0.38523533023970835
+                    ],
+                    [
+                        "approach",
+                        0.43227546193715627
+                    ],
+                    [
+                        "ratio",
+                        0.4345813007559562
+                    ],
+                    [
+                        "close",
+                        0.5570743906549527
+                    ],
+                    [
+                        "function",
+                        0.8304612128192399
+                    ],
+                    [
+                        "thing",
+                        0.9030515689745815
+                    ],
+                    [
+                        "way",
+                        0.9165174783202267
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1350": {
+            "id": "kAv5pahIevE-1350",
+            "heat": 0.222,
+            "start": 1350.0,
+            "text": " can actually tell what it is by looking at the derivative, by looking at those slopes. It's the ratio of the slopes. OK, that takes a little thought and, of course, some practices. It also takes some examples to show what else could happen. Can I just draw another f, and you tell me what about f over g. I'm sorry to give you all these questions, but it's example, answer, that you get the hang of slopes. Suppose f goes much steeper. I mean, f could be the square root of x. There's f equal the square root of x. Square root of x has an infinite slope at 0. It's a good function to know, the square root of x, because this is x to the 1/2 power. And its derivative, its slope, we know will be 1/2 x to the minus 1/2 power. And then as x goes to 0, that blows up the way the picture shows. Now, what would f over g, so this is a case where f hasn't got a slope. The slope is infinite now. s is now infinite. And that ratio is going to blow up.",
+            "metrics": {
+                "relativeDCReadability": 1.0066956943730194,
+                "lexicalDiversity": 0.4975124378109453,
+                "posComposition": {
+                    "MD": 0.025,
+                    "RB": 0.06,
+                    "VB": 0.05,
+                    "WP": 0.02,
+                    "PRP": 0.065,
+                    "VBZ": 0.095,
+                    "IN": 0.095,
+                    "VBG": 0.015,
+                    "DT": 0.124,
+                    "JJ": 0.065,
+                    "NNS": 0.035,
+                    "NN": 0.154,
+                    "VBP": 0.03,
+                    "CC": 0.03,
+                    "TO": 0.035,
+                    "NNP": 0.03,
+                    "PDT": 0.005,
+                    "JJR": 0.005,
+                    "EX": 0.005,
+                    "CD": 0.025,
+                    "PRP$": 0.01,
+                    "WDT": 0.005,
+                    "RP": 0.01,
+                    "WRB": 0.005,
+                    "VBD": 0.005
+                },
+                "syllableRate": 2.083,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.2956969866783284
+                    ],
+                    [
+                        "f",
+                        0.3077260694952742
+                    ],
+                    [
+                        "x",
+                        0.34487082702317245
+                    ],
+                    [
+                        "root",
+                        0.3653232097833547
+                    ],
+                    [
+                        "square",
+                        0.42377799770178326
+                    ],
+                    [
+                        "infinite",
+                        0.4510939002242443
+                    ],
+                    [
+                        "power",
+                        0.545804198870554
+                    ],
+                    [
+                        "derivative",
+                        0.5677962695947598
+                    ],
+                    [
+                        "example",
+                        0.5692886585030404
+                    ],
+                    [
+                        "ratio",
+                        0.5806276385629737
+                    ],
+                    [
+                        "practice",
+                        0.8764929503832027
+                    ],
+                    [
+                        "course",
+                        0.8975552874122898
+                    ],
+                    [
+                        "g.",
+                        0.9014473082306732
+                    ],
+                    [
+                        "thought",
+                        0.9061861105448876
+                    ],
+                    [
+                        "steep",
+                        0.9090539808084458
+                    ],
+                    [
+                        "little",
+                        0.9138023838930978
+                    ],
+                    [
+                        "question",
+                        0.9214715103683297
+                    ],
+                    [
+                        "sorry",
+                        0.9279455121446851
+                    ],
+                    [
+                        "hang",
+                        0.9279455121446851
+                    ],
+                    [
+                        "picture",
+                        0.9327065702275481
+                    ],
+                    [
+                        "equal",
+                        0.9344341144001761
+                    ],
+                    [
+                        "good",
+                        0.935920969254861
+                    ],
+                    [
+                        "function",
+                        0.935920969254861
+                    ],
+                    [
+                        "minus",
+                        0.937200423186736
+                    ],
+                    [
+                        "way",
+                        0.9383163399865498
+                    ],
+                    [
+                        "case",
+                        0.9393007073751396
+                    ],
+                    [
+                        "square root",
+                        1.2789982724949522
+                    ],
+                    [
+                        "x. Square",
+                        1.6821373182837551
+                    ],
+                    [
+                        "infinite slope",
+                        4.008079084052998
+                    ],
+                    [
+                        "little thought",
+                        4.81649069797812
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.2956969866783284
+                    ],
+                    [
+                        "f",
+                        0.3077260694952742
+                    ],
+                    [
+                        "x",
+                        0.34487082702317245
+                    ],
+                    [
+                        "root",
+                        0.3653232097833547
+                    ],
+                    [
+                        "square",
+                        0.42377799770178326
+                    ],
+                    [
+                        "power",
+                        0.545804198870554
+                    ],
+                    [
+                        "ratio",
+                        0.5806276385629737
+                    ],
+                    [
+                        "little",
+                        0.9138023838930978
+                    ],
+                    [
+                        "function",
+                        0.935920969254861
+                    ],
+                    [
+                        "minus",
+                        0.937200423186736
+                    ],
+                    [
+                        "way",
+                        0.9383163399865498
+                    ],
+                    [
+                        "case",
+                        0.9393007073751396
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1440": {
+            "id": "kAv5pahIevE-1440",
+            "heat": 0.211,
+            "start": 1440.0,
+            "text": " This one is getting to 0 but slowly. This f is staying much bigger than the g, and the ratio would be infinite. So there's a case where L'Hopital can't help because f, this slope s, which was fine for this nice function, is not fine for this function. The slope is infinite for that square root function. OK, a bunch of examples that begin to show what can happen and the need, really, for a little bit of care on what does it mean? What would I say about that square root function? So I'll even write that down here. f of x equals square root of x at x equals 0. What would I say about that function that we know it's picture? I would say it has infinite slope. Or if you prefer, its slope is not defined. We don't have a good number there for its slope. But I would still say the function is continuous because the darn thing does get below any band.",
+            "metrics": {
+                "relativeDCReadability": 0.9849576665420823,
+                "lexicalDiversity": 0.4885057471264368,
+                "posComposition": {
+                    "DT": 0.109,
+                    "CD": 0.017,
+                    "VBZ": 0.063,
+                    "VBG": 0.011,
+                    "TO": 0.011,
+                    "CC": 0.029,
+                    "RB": 0.075,
+                    "NN": 0.167,
+                    "JJR": 0.006,
+                    "IN": 0.121,
+                    "MD": 0.046,
+                    "VB": 0.063,
+                    "NNP": 0.011,
+                    "EX": 0.011,
+                    "WRB": 0.006,
+                    "WDT": 0.011,
+                    "VBD": 0.006,
+                    "JJ": 0.075,
+                    "NNS": 0.017,
+                    "VBP": 0.034,
+                    "WP": 0.023,
+                    "PRP": 0.063,
+                    "VBN": 0.011,
+                    "PRP$": 0.011
+                },
+                "syllableRate": 1.808,
+                "topicScores": [
+                    [
+                        "function",
+                        0.3190598688298953
+                    ],
+                    [
+                        "slope",
+                        0.34465084732139606
+                    ],
+                    [
+                        "root",
+                        0.4293027648448639
+                    ],
+                    [
+                        "square",
+                        0.44141640105812074
+                    ],
+                    [
+                        "infinite",
+                        0.4460207211035133
+                    ],
+                    [
+                        "x",
+                        0.4630323938009179
+                    ],
+                    [
+                        "fine",
+                        0.543111925198483
+                    ],
+                    [
+                        "L'Hopital",
+                        0.6160120431004674
+                    ],
+                    [
+                        "g",
+                        0.8689379575734412
+                    ],
+                    [
+                        "big",
+                        0.8829510926536934
+                    ],
+                    [
+                        "ratio",
+                        0.8829510926536934
+                    ],
+                    [
+                        "nice",
+                        0.8895950155420411
+                    ],
+                    [
+                        "picture",
+                        0.8991588940061588
+                    ],
+                    [
+                        "case",
+                        0.9016494863361407
+                    ],
+                    [
+                        "band",
+                        0.9073257476942512
+                    ],
+                    [
+                        "bunch",
+                        0.9080327302836017
+                    ],
+                    [
+                        "need",
+                        0.9080327302836017
+                    ],
+                    [
+                        "example",
+                        0.9182590707859751
+                    ],
+                    [
+                        "little",
+                        0.9182590707859751
+                    ],
+                    [
+                        "bit",
+                        0.9182590707859751
+                    ],
+                    [
+                        "care",
+                        0.9182590707859751
+                    ],
+                    [
+                        "good",
+                        0.9356900749601258
+                    ],
+                    [
+                        "number",
+                        0.9356900749601258
+                    ],
+                    [
+                        "continuous",
+                        0.9368310209484743
+                    ],
+                    [
+                        "darn",
+                        0.9368310209484743
+                    ],
+                    [
+                        "thing",
+                        0.9368310209484743
+                    ],
+                    [
+                        "square root",
+                        1.5661594648337656
+                    ],
+                    [
+                        "root function",
+                        2.101139544515099
+                    ],
+                    [
+                        "slope s",
+                        3.8204076364681545
+                    ],
+                    [
+                        "infinite slope",
+                        3.871589995058765
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.3190598688298953
+                    ],
+                    [
+                        "slope",
+                        0.34465084732139606
+                    ],
+                    [
+                        "root",
+                        0.4293027648448639
+                    ],
+                    [
+                        "square",
+                        0.44141640105812074
+                    ],
+                    [
+                        "x",
+                        0.4630323938009179
+                    ],
+                    [
+                        "g",
+                        0.8689379575734412
+                    ],
+                    [
+                        "big",
+                        0.8829510926536934
+                    ],
+                    [
+                        "ratio",
+                        0.8829510926536934
+                    ],
+                    [
+                        "case",
+                        0.9016494863361407
+                    ],
+                    [
+                        "band",
+                        0.9073257476942512
+                    ],
+                    [
+                        "little",
+                        0.9182590707859751
+                    ],
+                    [
+                        "number",
+                        0.9356900749601258
+                    ],
+                    [
+                        "continuous",
+                        0.9368310209484743
+                    ],
+                    [
+                        "thing",
+                        0.9368310209484743
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1530": {
+            "id": "kAv5pahIevE-1530",
+            "heat": 0.164,
+            "start": 1530.0,
+            "text": " If I draw a little band here, the function does get into that band and stay inside. It just took a long time. It stayed out of that band as long as it could and then finally fell in just at the last minute. OK, so I would say this function has the slope not defined, not OK at x equals 0. But f of x is continuous at x equals 0. So I'm trying to make the distinction between asking for the function to be continuous is not asking as much. If a function's got a nice slope, like g, that function's got to be continuous. And more, it has to have this good slope. This f of x, this square root function will be continuous. And now I have to tell you what continuous means. It's not asking for so much as a slope, because the slope could come down infinitely at the last minute. All right, so what's a continuous function?",
+            "metrics": {
+                "relativeDCReadability": 0.97126541257439,
+                "lexicalDiversity": 0.47337278106508873,
+                "posComposition": {
+                    "IN": 0.136,
+                    "PRP": 0.059,
+                    "VBP": 0.018,
+                    "DT": 0.112,
+                    "JJ": 0.107,
+                    "NN": 0.142,
+                    "RB": 0.101,
+                    "VBZ": 0.047,
+                    "VB": 0.059,
+                    "CC": 0.03,
+                    "VBD": 0.036,
+                    "MD": 0.024,
+                    "NNP": 0.012,
+                    "NNS": 0.012,
+                    "CD": 0.012,
+                    "JJR": 0.006,
+                    "VBG": 0.024,
+                    "TO": 0.03,
+                    "POS": 0.012,
+                    "RBR": 0.006,
+                    "WP": 0.012,
+                    "RP": 0.006
+                },
+                "syllableRate": 1.808,
+                "topicScores": [
+                    [
+                        "function",
+                        0.30412318436500774
+                    ],
+                    [
+                        "continuous",
+                        0.3204362357581079
+                    ],
+                    [
+                        "slope",
+                        0.35647902225769623
+                    ],
+                    [
+                        "x",
+                        0.38290845134872886
+                    ],
+                    [
+                        "band",
+                        0.43267292423004394
+                    ],
+                    [
+                        "minute",
+                        0.5158742087494269
+                    ],
+                    [
+                        "long",
+                        0.5561274084602236
+                    ],
+                    [
+                        "little",
+                        0.840722757216679
+                    ],
+                    [
+                        "time",
+                        0.8434468292489462
+                    ],
+                    [
+                        "mean",
+                        0.9084562985617158
+                    ],
+                    [
+                        "nice",
+                        0.9213373579553007
+                    ],
+                    [
+                        "good",
+                        0.9241735563944766
+                    ],
+                    [
+                        "distinction",
+                        0.9264213288080277
+                    ],
+                    [
+                        "square",
+                        0.9264693351169307
+                    ],
+                    [
+                        "root",
+                        0.9343140555758614
+                    ],
+                    [
+                        "little band",
+                        2.6699395484789474
+                    ],
+                    [
+                        "long time",
+                        2.897855767700824
+                    ],
+                    [
+                        "continuous mean",
+                        4.471283249117049
+                    ],
+                    [
+                        "continuous function",
+                        4.5787320925400365
+                    ],
+                    [
+                        "nice slope",
+                        5.6224493499061845
+                    ],
+                    [
+                        "good slope",
+                        5.739088581342382
+                    ],
+                    [
+                        "root function",
+                        5.776890409868799
+                    ],
+                    [
+                        "square root",
+                        6.44121377088084
+                    ],
+                    [
+                        "square root function",
+                        48.80164095137191
+                    ]
+                ],
+                "topTopicSimilarity": 0.375,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.30412318436500774
+                    ],
+                    [
+                        "continuous",
+                        0.3204362357581079
+                    ],
+                    [
+                        "slope",
+                        0.35647902225769623
+                    ],
+                    [
+                        "x",
+                        0.38290845134872886
+                    ],
+                    [
+                        "band",
+                        0.43267292423004394
+                    ],
+                    [
+                        "little",
+                        0.840722757216679
+                    ],
+                    [
+                        "mean",
+                        0.9084562985617158
+                    ],
+                    [
+                        "square",
+                        0.9264693351169307
+                    ],
+                    [
+                        "root",
+                        0.9343140555758614
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1620": {
+            "id": "kAv5pahIevE-1620",
+            "heat": 0.1,
+            "start": 1620.0,
+            "text": " Continuous function means-- a continuous function, f of x, at some point-- maybe here it was 0, I'd better allow any old point. So in words, it means f of x approaches f of a as x approaches a. That's what it means to be continuous at that point. It means that there is a number, a value for f at that point. And we approach that value as we get near that point. That seems such a natural idea. That's what it means for a function to be continuous. And with this piece of chalk or with your pen, it means that I can draw the function without lifting my pen. Of course, it could do some weird stuff. OK, let me just draw here. So here's a point, a, and here is my function, f, and there is f of a. So I'm saying that the function could come along, it could come down pretty steeply, but it will get to that point. It might go on, steeper below, or it might turn back.",
+            "metrics": {
+                "relativeDCReadability": 0.8644478787588665,
+                "lexicalDiversity": 0.4644808743169399,
+                "posComposition": {
+                    "JJ": 0.038,
+                    "NN": 0.175,
+                    "NNS": 0.016,
+                    ":": 0.011,
+                    "DT": 0.126,
+                    "IN": 0.131,
+                    "RB": 0.049,
+                    "PRP": 0.093,
+                    "VBD": 0.011,
+                    "CD": 0.005,
+                    "MD": 0.044,
+                    "VB": 0.066,
+                    "NNP": 0.022,
+                    "VBZ": 0.071,
+                    "WP": 0.011,
+                    "TO": 0.016,
+                    "EX": 0.011,
+                    "CC": 0.038,
+                    "VBP": 0.016,
+                    "WDT": 0.005,
+                    "PDT": 0.005,
+                    "PRP$": 0.016,
+                    "VBG": 0.011,
+                    "RP": 0.011
+                },
+                "syllableRate": 1.883,
+                "topicScores": [
+                    [
+                        "point",
+                        0.2952714986714318
+                    ],
+                    [
+                        "continuous",
+                        0.30370359720551654
+                    ],
+                    [
+                        "f",
+                        0.3121450616268272
+                    ],
+                    [
+                        "function",
+                        0.31604481569370285
+                    ],
+                    [
+                        "x",
+                        0.4009352395794047
+                    ],
+                    [
+                        "approach",
+                        0.4348561342497482
+                    ],
+                    [
+                        "a.",
+                        0.5394082651365288
+                    ],
+                    [
+                        "value",
+                        0.5594164795522489
+                    ],
+                    [
+                        "pen",
+                        0.5708787600669245
+                    ],
+                    [
+                        "old",
+                        0.8143952087211309
+                    ],
+                    [
+                        "means--",
+                        0.8280494812392327
+                    ],
+                    [
+                        "word",
+                        0.8684843512531308
+                    ],
+                    [
+                        "idea",
+                        0.8954833792525333
+                    ],
+                    [
+                        "number",
+                        0.9004772905509535
+                    ],
+                    [
+                        "stuff",
+                        0.9063593498470978
+                    ],
+                    [
+                        "natural",
+                        0.9127898112756163
+                    ],
+                    [
+                        "steep",
+                        0.9217276243898398
+                    ],
+                    [
+                        "weird",
+                        0.9220217011488047
+                    ],
+                    [
+                        "piece",
+                        0.9262151139715266
+                    ],
+                    [
+                        "chalk",
+                        0.9262151139715266
+                    ],
+                    [
+                        "continuous function",
+                        1.0545568707356068
+                    ],
+                    [
+                        "old point",
+                        2.0776632668419963
+                    ],
+                    [
+                        "function means--",
+                        2.769131307230329
+                    ],
+                    [
+                        "natural idea",
+                        4.476094526164661
+                    ],
+                    [
+                        "weird stuff",
+                        5.08579718894834
+                    ],
+                    [
+                        "continuous function means--",
+                        5.637991896384132
+                    ],
+                    [
+                        "x approach f",
+                        10.176651984408883
+                    ]
+                ],
+                "topTopicSimilarity": 0.25925925925925924,
+                "sharedTopicScores": [
+                    [
+                        "continuous",
+                        0.30370359720551654
+                    ],
+                    [
+                        "f",
+                        0.3121450616268272
+                    ],
+                    [
+                        "function",
+                        0.31604481569370285
+                    ],
+                    [
+                        "x",
+                        0.4009352395794047
+                    ],
+                    [
+                        "approach",
+                        0.4348561342497482
+                    ],
+                    [
+                        "idea",
+                        0.8954833792525333
+                    ],
+                    [
+                        "number",
+                        0.9004772905509535
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1710": {
+            "id": "kAv5pahIevE-1710",
+            "heat": 0.116,
+            "start": 1710.0,
+            "text": " Or it might be level. But I can draw the whole thing continuously. But now that description with a piece of chalk isn't quite enough. And there's a formal definition that I have to explain. And it involves this same idea of epsilon, this same idea of a strip. It means that if I take a little strip around f of a-- so here's f of a plus a little bit, and here's f of a minus a little bit-- then that's continuous. That function is continuous, because-- now, remember, epsilon could be smaller than I drew it, smaller than I can draw it, but still positive. Then the requirement is that it has to get near a, it has to get inside that band and stay there. It can bounce all over the place. But near the point, it's got to get close. And now, how do I express that in terms of epsilon? OK, well, there's a famous description. Yeah, what do I mean by get in there and stay in there?",
+            "metrics": {
+                "relativeDCReadability": 0.9430153513815455,
+                "lexicalDiversity": 0.43478260869565216,
+                "posComposition": {
+                    "CC": 0.065,
+                    "PRP": 0.087,
+                    "MD": 0.027,
+                    "VB": 0.071,
+                    "JJ": 0.076,
+                    "DT": 0.114,
+                    "NN": 0.136,
+                    "RB": 0.082,
+                    "IN": 0.141,
+                    "VBZ": 0.071,
+                    "EX": 0.016,
+                    "VBP": 0.027,
+                    "TO": 0.022,
+                    ":": 0.016,
+                    "JJR": 0.011,
+                    "VBD": 0.011,
+                    "WRB": 0.005,
+                    "NNS": 0.005,
+                    "NNP": 0.011,
+                    "WP": 0.005
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "f",
+                        0.4309497482142328
+                    ],
+                    [
+                        "epsilon",
+                        0.440399067585704
+                    ],
+                    [
+                        "little",
+                        0.4421271525382148
+                    ],
+                    [
+                        "idea",
+                        0.5493362650696298
+                    ],
+                    [
+                        "strip",
+                        0.5503291791479542
+                    ],
+                    [
+                        "continuous",
+                        0.5530932125462055
+                    ],
+                    [
+                        "small",
+                        0.564477932896419
+                    ],
+                    [
+                        "description",
+                        0.567485535971791
+                    ],
+                    [
+                        "level",
+                        0.7654848781796619
+                    ],
+                    [
+                        "thing",
+                        0.8614460982372386
+                    ],
+                    [
+                        "bit--",
+                        0.891027617549891
+                    ],
+                    [
+                        "piece",
+                        0.8938322403153954
+                    ],
+                    [
+                        "chalk",
+                        0.8938322403153954
+                    ],
+                    [
+                        "positive",
+                        0.8979179189752262
+                    ],
+                    [
+                        "place",
+                        0.9026607419189474
+                    ],
+                    [
+                        "close",
+                        0.9045365586249533
+                    ],
+                    [
+                        "formal",
+                        0.9046852799774094
+                    ],
+                    [
+                        "definition",
+                        0.9046852799774094
+                    ],
+                    [
+                        "function",
+                        0.9175766634212857
+                    ],
+                    [
+                        "minus",
+                        0.9201936791593657
+                    ],
+                    [
+                        "point",
+                        0.9230299596053905
+                    ],
+                    [
+                        "famous",
+                        0.9255665249216887
+                    ],
+                    [
+                        "requirement",
+                        0.9273256737605323
+                    ],
+                    [
+                        "band",
+                        0.9273256737605323
+                    ],
+                    [
+                        "term",
+                        0.931597987249573
+                    ],
+                    [
+                        "little strip",
+                        3.3723836920406582
+                    ],
+                    [
+                        "little bit--",
+                        3.714646198219266
+                    ],
+                    [
+                        "formal definition",
+                        4.508290014715769
+                    ],
+                    [
+                        "famous description",
+                        4.969956938874532
+                    ]
+                ],
+                "topTopicSimilarity": 0.3793103448275862,
+                "sharedTopicScores": [
+                    [
+                        "f",
+                        0.4309497482142328
+                    ],
+                    [
+                        "epsilon",
+                        0.440399067585704
+                    ],
+                    [
+                        "little",
+                        0.4421271525382148
+                    ],
+                    [
+                        "idea",
+                        0.5493362650696298
+                    ],
+                    [
+                        "continuous",
+                        0.5530932125462055
+                    ],
+                    [
+                        "small",
+                        0.564477932896419
+                    ],
+                    [
+                        "thing",
+                        0.8614460982372386
+                    ],
+                    [
+                        "close",
+                        0.9045365586249533
+                    ],
+                    [
+                        "function",
+                        0.9175766634212857
+                    ],
+                    [
+                        "minus",
+                        0.9201936791593657
+                    ],
+                    [
+                        "band",
+                        0.9273256737605323
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1800": {
+            "id": "kAv5pahIevE-1800",
+            "heat": 0.229,
+            "start": 1800.0,
+            "text": " Ah! Can I just make a story? I'm going to use two Greek letters, epsilon and delta, hated by all calculus students and professors too, if they're truthful. OK, so the story goes, we choose a band. Ah, since their Greek letters, Socrates chooses epsilon. OK. So he's going to make it hard. He's going to make a narrow band there. And then the function has got to get into that band and stay there, close to a. OK, so what do I mean by close to a? Well, that's where delta comes in. That's, let's say, Socrates's student, Plato. Then Plato can pick his number, delta, which will be the width-- see, he says, OK, if you get really close, I've got you. So he's trying to please Socrates. So he says, woo, sorry, a had better be in there somewhere. Now these bands are getting so close, my a is, of course--",
+            "metrics": {
+                "relativeDCReadability": 0.8613772421854663,
+                "lexicalDiversity": 0.536144578313253,
+                "posComposition": {
+                    "NNP": 0.066,
+                    "MD": 0.018,
+                    "PRP": 0.084,
+                    "RB": 0.072,
+                    "VB": 0.084,
+                    "DT": 0.078,
+                    "NN": 0.09,
+                    "VBP": 0.06,
+                    "VBG": 0.03,
+                    "TO": 0.042,
+                    "CD": 0.006,
+                    "JJ": 0.048,
+                    "NNS": 0.036,
+                    "CC": 0.024,
+                    "VBN": 0.018,
+                    "IN": 0.084,
+                    "VBZ": 0.072,
+                    "PRP$": 0.018,
+                    "WP": 0.006,
+                    "WDT": 0.012,
+                    "WRB": 0.006,
+                    "POS": 0.012,
+                    ":": 0.012,
+                    "VBD": 0.006,
+                    "JJR": 0.006,
+                    "EX": 0.006
+                },
+                "syllableRate": 1.758,
+                "topicScores": [
+                    [
+                        "Socrates",
+                        0.303654506632706
+                    ],
+                    [
+                        "greek",
+                        0.3501292266303857
+                    ],
+                    [
+                        "band",
+                        0.37591151225502073
+                    ],
+                    [
+                        "close",
+                        0.37793575664559337
+                    ],
+                    [
+                        "Plato",
+                        0.3911150428389592
+                    ],
+                    [
+                        "delta",
+                        0.4391906616773128
+                    ],
+                    [
+                        "story",
+                        0.5391834197870174
+                    ],
+                    [
+                        "letter",
+                        0.5432459326378424
+                    ],
+                    [
+                        "epsilon",
+                        0.5455259454804511
+                    ],
+                    [
+                        "student",
+                        0.5635001078988434
+                    ],
+                    [
+                        "greek letter",
+                        0.5773274926285346
+                    ],
+                    [
+                        "OK",
+                        0.6530631983651296
+                    ],
+                    [
+                        "truthful",
+                        0.8872380208197592
+                    ],
+                    [
+                        "professor",
+                        0.9007648544820042
+                    ],
+                    [
+                        "calculus",
+                        0.9066630741305945
+                    ],
+                    [
+                        "hard",
+                        0.9086455049923194
+                    ],
+                    [
+                        "course--",
+                        0.9164570577598741
+                    ],
+                    [
+                        "a.",
+                        0.9242585149032947
+                    ],
+                    [
+                        "woo",
+                        0.9261693746781842
+                    ],
+                    [
+                        "sorry",
+                        0.9261693746781842
+                    ],
+                    [
+                        "narrow",
+                        0.9269769938684143
+                    ],
+                    [
+                        "number",
+                        0.928697273675148
+                    ],
+                    [
+                        "width--",
+                        0.928697273675148
+                    ],
+                    [
+                        "function",
+                        0.9288706130611395
+                    ],
+                    [
+                        "a. OK",
+                        1.5226993869426113
+                    ],
+                    [
+                        "narrow band",
+                        4.238403329786699
+                    ],
+                    [
+                        "calculus student",
+                        4.256652220447833
+                    ]
+                ],
+                "topTopicSimilarity": 0.2962962962962963,
+                "sharedTopicScores": [
+                    [
+                        "Socrates",
+                        0.303654506632706
+                    ],
+                    [
+                        "band",
+                        0.37591151225502073
+                    ],
+                    [
+                        "close",
+                        0.37793575664559337
+                    ],
+                    [
+                        "Plato",
+                        0.3911150428389592
+                    ],
+                    [
+                        "delta",
+                        0.4391906616773128
+                    ],
+                    [
+                        "epsilon",
+                        0.5455259454804511
+                    ],
+                    [
+                        "number",
+                        0.928697273675148
+                    ],
+                    [
+                        "function",
+                        0.9288706130611395
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1890": {
+            "id": "kAv5pahIevE-1890",
+            "heat": 0.354,
+            "start": 1890.0,
+            "text": " this is really a plus delta, and this guy is a minus delta. Are you kind of with me? The logic goes, for any epsilon chosen by Socrates, Plato can find a positive delta-- epsilon, of course, was some positive number, delta might be an extremely small positive number-- so that if the distance to a is smaller than Plato's distance-- so if we're in that vertical band-- then we're in Socrates's horizontal band. Then this f of x minus f of a is below epsilon. So Socrates sets up any tough requirement, any horizontal band, and then Plato meets that requirement, if the function is continuous, by choosing a vertical band that",
+            "metrics": {
+                "relativeDCReadability": 1.237565999691102,
+                "lexicalDiversity": 0.512396694214876,
+                "posComposition": {
+                    "DT": 0.149,
+                    "VBZ": 0.058,
+                    "RB": 0.074,
+                    "JJ": 0.099,
+                    "NN": 0.19,
+                    "CC": 0.025,
+                    "NNP": 0.058,
+                    "PRP": 0.033,
+                    "IN": 0.124,
+                    "VBN": 0.008,
+                    "MD": 0.017,
+                    "VB": 0.017,
+                    ":": 0.033,
+                    "VBD": 0.008,
+                    "TO": 0.008,
+                    "JJR": 0.008,
+                    "POS": 0.017,
+                    "VBP": 0.025,
+                    "NNS": 0.017,
+                    "RP": 0.008,
+                    "WDT": 0.017,
+                    "VBG": 0.008
+                },
+                "syllableRate": 1.508,
+                "topicScores": [
+                    [
+                        "Socrates",
+                        0.31663551096390685
+                    ],
+                    [
+                        "Plato",
+                        0.3220510494706582
+                    ],
+                    [
+                        "delta",
+                        0.39014912321114664
+                    ],
+                    [
+                        "band",
+                        0.42407966688741605
+                    ],
+                    [
+                        "epsilon",
+                        0.43063302174303203
+                    ],
+                    [
+                        "positive",
+                        0.44564360510995626
+                    ],
+                    [
+                        "horizontal",
+                        0.5050328778069706
+                    ],
+                    [
+                        "minus",
+                        0.5256563775520045
+                    ],
+                    [
+                        "vertical",
+                        0.5491839252141035
+                    ],
+                    [
+                        "f",
+                        0.5550561681575068
+                    ],
+                    [
+                        "small",
+                        0.5564684302178955
+                    ],
+                    [
+                        "requirement",
+                        0.55729300077212
+                    ],
+                    [
+                        "guy",
+                        0.7751016010352416
+                    ],
+                    [
+                        "logic",
+                        0.828365933518105
+                    ],
+                    [
+                        "course",
+                        0.828365933518105
+                    ],
+                    [
+                        "number",
+                        0.8471053647002463
+                    ],
+                    [
+                        "distance",
+                        0.8630850255464243
+                    ],
+                    [
+                        "tough",
+                        0.8716148258768815
+                    ],
+                    [
+                        "continuous",
+                        0.8716148258768815
+                    ],
+                    [
+                        "x",
+                        0.8766474437990103
+                    ],
+                    [
+                        "function",
+                        0.8853795042216099
+                    ],
+                    [
+                        "horizontal band",
+                        1.3340697246777353
+                    ],
+                    [
+                        "minus delta",
+                        1.8579764645531345
+                    ],
+                    [
+                        "delta-- epsilon",
+                        2.69799353424949
+                    ],
+                    [
+                        "vertical band",
+                        2.8207072938576743
+                    ],
+                    [
+                        "positive delta--",
+                        3.0818688560839456
+                    ],
+                    [
+                        "positive number",
+                        3.0818688560839456
+                    ],
+                    [
+                        "tough requirement",
+                        3.345697813948646
+                    ],
+                    [
+                        "small positive",
+                        3.6750581005832883
+                    ],
+                    [
+                        "positive delta-- epsilon",
+                        13.462138789192363
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "Socrates",
+                        0.31663551096390685
+                    ],
+                    [
+                        "Plato",
+                        0.3220510494706582
+                    ],
+                    [
+                        "delta",
+                        0.39014912321114664
+                    ],
+                    [
+                        "band",
+                        0.42407966688741605
+                    ],
+                    [
+                        "epsilon",
+                        0.43063302174303203
+                    ],
+                    [
+                        "minus",
+                        0.5256563775520045
+                    ],
+                    [
+                        "f",
+                        0.5550561681575068
+                    ],
+                    [
+                        "small",
+                        0.5564684302178955
+                    ],
+                    [
+                        "number",
+                        0.8471053647002463
+                    ],
+                    [
+                        "continuous",
+                        0.8716148258768815
+                    ],
+                    [
+                        "x",
+                        0.8766474437990103
+                    ],
+                    [
+                        "function",
+                        0.8853795042216099
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-1980": {
+            "id": "kAv5pahIevE-1980",
+            "heat": 0.227,
+            "start": 1980.0,
+            "text": " keeps everything inside Socrates's band. Do you see that? Well, it takes some thought. It takes some practice, and as always, it's not usually very hard to tell if a function is continuous. Let me show you one that isn't. A famous function that is not continuous. Here's the sine of 1 over x as x going to 0. What happens to the sine of 1 over x when x goes to 0? Well, the sine, we know, oscillates minus 1, plus 1, minus 1, plus 1. But when it's a sine of 1 over x, that oscillation really takes off, because if x gets small, 1 over x is quickly getting larger. You're running along the sine curve in a faster and faster and faster way. I can't draw it. Here's 0. But it's not staying inside a band. Even with epsilon equalling 1/2, Socrates has got Plato. Plato can't keep it in a band of 1/2 up and 1/2 down because the sine doesn't stay there. So there's a function that's not continuous. I could make it continuous by changing the function a",
+            "metrics": {
+                "relativeDCReadability": 1.132104522885287,
+                "lexicalDiversity": 0.5606060606060606,
+                "posComposition": {
+                    "NNS": 0.01,
+                    "NN": 0.131,
+                    "IN": 0.106,
+                    "NNP": 0.045,
+                    "POS": 0.005,
+                    "PRP": 0.076,
+                    "VBP": 0.015,
+                    "DT": 0.081,
+                    "VBZ": 0.101,
+                    "VBD": 0.01,
+                    "CC": 0.045,
+                    "RB": 0.096,
+                    "JJ": 0.061,
+                    "TO": 0.02,
+                    "VB": 0.035,
+                    "CD": 0.076,
+                    "WDT": 0.015,
+                    "VBG": 0.025,
+                    "WP": 0.005,
+                    "WRB": 0.01,
+                    "JJR": 0.005,
+                    "RP": 0.005,
+                    "MD": 0.015,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.183,
+                "topicScores": [
+                    [
+                        "x",
+                        0.30217517011503275
+                    ],
+                    [
+                        "sine",
+                        0.3144810587207714
+                    ],
+                    [
+                        "continuous",
+                        0.38076494293495405
+                    ],
+                    [
+                        "function",
+                        0.3858831080077242
+                    ],
+                    [
+                        "Socrates",
+                        0.422921600282761
+                    ],
+                    [
+                        "band",
+                        0.4514175713528511
+                    ],
+                    [
+                        "fast",
+                        0.45367197797269154
+                    ],
+                    [
+                        "Plato",
+                        0.4881445675063441
+                    ],
+                    [
+                        "thought",
+                        0.8958736067138221
+                    ],
+                    [
+                        "practice",
+                        0.9202865150328275
+                    ],
+                    [
+                        "large",
+                        0.9222010915997756
+                    ],
+                    [
+                        "way",
+                        0.9237321642991534
+                    ],
+                    [
+                        "hard",
+                        0.9271576845935416
+                    ],
+                    [
+                        "famous",
+                        0.9280753231585397
+                    ],
+                    [
+                        "oscillation",
+                        0.9360374023433535
+                    ],
+                    [
+                        "small",
+                        0.9360374023433535
+                    ],
+                    [
+                        "curve",
+                        0.9428092723574828
+                    ],
+                    [
+                        "epsilon",
+                        0.9462567690636567
+                    ],
+                    [
+                        "famous function",
+                        4.93643861426015
+                    ],
+                    [
+                        "sine curve",
+                        4.965467528308285
+                    ],
+                    [
+                        "fast way",
+                        5.178285405009441
+                    ]
+                ],
+                "topTopicSimilarity": 0.42857142857142855,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.30217517011503275
+                    ],
+                    [
+                        "continuous",
+                        0.38076494293495405
+                    ],
+                    [
+                        "function",
+                        0.3858831080077242
+                    ],
+                    [
+                        "Socrates",
+                        0.422921600282761
+                    ],
+                    [
+                        "band",
+                        0.4514175713528511
+                    ],
+                    [
+                        "Plato",
+                        0.4881445675063441
+                    ],
+                    [
+                        "way",
+                        0.9237321642991534
+                    ],
+                    [
+                        "small",
+                        0.9360374023433535
+                    ],
+                    [
+                        "epsilon",
+                        0.9462567690636567
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-2070": {
+            "id": "kAv5pahIevE-2070",
+            "heat": 0.1,
+            "start": 2070.0,
+            "text": " little, maybe x times sine of 1 over x. That would bring the oscillations down and work. So there you go. That's epsilon and delta. And it takes a little practice. And I just have to remember-- when you feel that the whole thing is a bad experience-- some pity for a Socrates, who actually took poison. Not because Plato gave him one that he couldn't do, for some completely different reason. But this is the meaning of a continuous function, and by getting that meaning which took hundreds of years to see. And it takes some time to get these two different things, to get the logic straight. If x is close to a, then f of x is close to f of a. That's what this means, f of x approaching f of a. That's what Socrates and Plato together had to explain.",
+            "metrics": {
+                "relativeDCReadability": 0.8977597810271377,
+                "lexicalDiversity": 0.4900662251655629,
+                "posComposition": {
+                    "JJ": 0.066,
+                    "RB": 0.073,
+                    "NNP": 0.026,
+                    "NNS": 0.033,
+                    "VBP": 0.026,
+                    "IN": 0.106,
+                    "CD": 0.013,
+                    "NN": 0.126,
+                    "WDT": 0.013,
+                    "MD": 0.013,
+                    "VB": 0.053,
+                    "DT": 0.132,
+                    "RP": 0.007,
+                    "CC": 0.053,
+                    "PRP": 0.046,
+                    "VBZ": 0.066,
+                    "TO": 0.046,
+                    ":": 0.013,
+                    "WRB": 0.007,
+                    "NNPS": 0.007,
+                    "WP": 0.02,
+                    "VBD": 0.026,
+                    "VBG": 0.02,
+                    "VBN": 0.007
+                },
+                "syllableRate": 1.667,
+                "topicScores": [
+                    [
+                        "x",
+                        0.38861188393954565
+                    ],
+                    [
+                        "f",
+                        0.39040819361854384
+                    ],
+                    [
+                        "Socrates",
+                        0.44397127634330064
+                    ],
+                    [
+                        "Plato",
+                        0.4539026425043563
+                    ],
+                    [
+                        "little",
+                        0.5329000565865444
+                    ],
+                    [
+                        "a.",
+                        0.5552233124515179
+                    ],
+                    [
+                        "close",
+                        0.5670317690760942
+                    ],
+                    [
+                        "different",
+                        0.5718395567021745
+                    ],
+                    [
+                        "time",
+                        0.5744184911306348
+                    ],
+                    [
+                        "thing",
+                        0.5761694715696636
+                    ],
+                    [
+                        "meaning",
+                        0.5874668210468968
+                    ],
+                    [
+                        "sine",
+                        0.8223099431667601
+                    ],
+                    [
+                        "delta",
+                        0.8593017321137933
+                    ],
+                    [
+                        "practice",
+                        0.8690783079948663
+                    ],
+                    [
+                        "oscillation",
+                        0.8744481519185962
+                    ],
+                    [
+                        "poison",
+                        0.8760068777700984
+                    ],
+                    [
+                        "reason",
+                        0.8812248974234589
+                    ],
+                    [
+                        "straight",
+                        0.8886575698945679
+                    ],
+                    [
+                        "epsilon",
+                        0.9051487628333938
+                    ],
+                    [
+                        "continuous",
+                        0.9131071355218995
+                    ],
+                    [
+                        "function",
+                        0.9131071355218995
+                    ],
+                    [
+                        "logic",
+                        0.9157074096355231
+                    ],
+                    [
+                        "bad",
+                        0.9169366599370534
+                    ],
+                    [
+                        "experience--",
+                        0.9169366599370534
+                    ],
+                    [
+                        "pity",
+                        0.9169366599370534
+                    ],
+                    [
+                        "hundred",
+                        0.9234493291435898
+                    ],
+                    [
+                        "year",
+                        0.9234493291435898
+                    ],
+                    [
+                        "little practice",
+                        2.7600580883111734
+                    ],
+                    [
+                        "time sine",
+                        2.9786283290132975
+                    ],
+                    [
+                        "different reason",
+                        3.967540157430815
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.38861188393954565
+                    ],
+                    [
+                        "f",
+                        0.39040819361854384
+                    ],
+                    [
+                        "Socrates",
+                        0.44397127634330064
+                    ],
+                    [
+                        "Plato",
+                        0.4539026425043563
+                    ],
+                    [
+                        "little",
+                        0.5329000565865444
+                    ],
+                    [
+                        "close",
+                        0.5670317690760942
+                    ],
+                    [
+                        "thing",
+                        0.5761694715696636
+                    ],
+                    [
+                        "delta",
+                        0.8593017321137933
+                    ],
+                    [
+                        "epsilon",
+                        0.9051487628333938
+                    ],
+                    [
+                        "continuous",
+                        0.9131071355218995
+                    ],
+                    [
+                        "function",
+                        0.9131071355218995
+                    ]
+                ]
+            }
+        },
+        "kAv5pahIevE-2160": {
+            "id": "kAv5pahIevE-2160",
+            "heat": 0.1,
+            "start": 2160.0,
+            "text": " OK, thank you. ANNOUNCER: This has been a production of MIT OpenCourseWare and Gilbert Strang. Funding for this video was provided by the Lord Foundation. To help OCW continue to provide free and open access to MIT courses, please make a donation at ocw.mit.edu/donate.",
+            "metrics": {
+                "relativeDCReadability": 1.286429236418677,
+                "lexicalDiversity": 0.5909090909090909,
+                "posComposition": {
+                    "JJ": 0.068,
+                    "NN": 0.136,
+                    "PRP": 0.023,
+                    "VBP": 0.023,
+                    "DT": 0.114,
+                    "VBZ": 0.023,
+                    "VBN": 0.045,
+                    "IN": 0.091,
+                    "NNP": 0.205,
+                    "CC": 0.045,
+                    "VBD": 0.023,
+                    "TO": 0.068,
+                    "VB": 0.114,
+                    "NNS": 0.023
+                },
+                "syllableRate": 0.65,
+                "topicScores": [
+                    [
+                        "ANNOUNCER",
+                        0.36613429229157995
+                    ],
+                    [
+                        "MIT",
+                        0.4774363619430136
+                    ],
+                    [
+                        "Strang",
+                        0.6000045235993613
+                    ],
+                    [
+                        "Foundation",
+                        0.6284070752970082
+                    ],
+                    [
+                        "Gilbert",
+                        0.6736041711790512
+                    ],
+                    [
+                        "Gilbert Strang",
+                        0.6783185324424444
+                    ],
+                    [
+                        "Lord",
+                        0.6993988871383771
+                    ],
+                    [
+                        "OCW",
+                        0.7423010397085662
+                    ],
+                    [
+                        "Lord Foundation",
+                        0.7841442678548121
+                    ],
+                    [
+                        "funding",
+                        0.8515945950879085
+                    ],
+                    [
+                        "course",
+                        0.9115833784483441
+                    ],
+                    [
+                        "production",
+                        0.9121847587989594
+                    ],
+                    [
+                        "OpenCourseWare",
+                        0.9121847587989594
+                    ],
+                    [
+                        "video",
+                        0.9213268349028786
+                    ],
+                    [
+                        "free",
+                        0.9271588668312515
+                    ],
+                    [
+                        "open",
+                        0.9271588668312515
+                    ],
+                    [
+                        "access",
+                        0.9271588668312515
+                    ],
+                    [
+                        "donation",
+                        0.9271588668312515
+                    ],
+                    [
+                        "MIT course",
+                        2.223853592677156
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        2.2285902499199346
+                    ],
+                    [
+                        "open access",
+                        6.123702744876654
+                    ]
+                ],
+                "topTopicSimilarity": 0.0,
+                "sharedTopicScores": []
+            }
+        }
+    }
+}
