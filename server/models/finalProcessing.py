@@ -157,7 +157,7 @@ def convertToCSV(convertDir: str, outFile: str, includeHeatMap: bool = True):
                 if tag in posC:
                     posCList.append(posC[tag])
                 else:
-                   posCList.append(0)
+                    posCList.append(0)
             chunkTopicScores = dict()
             for row in chunkDict["sharedTopicScores"]:
                 chunkTopicScores[row[0]] = row[1]
