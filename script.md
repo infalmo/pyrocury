@@ -7,7 +7,7 @@ Consider your experience with video tutorials - you skip the introduction, aggre
 *Some hype inducing background music*
 
 Presenting Metrophon - an AI powered tool to speedrun your education. Built using state-of-the-art AI tech, and boasting of original research done by our team - Metrophon analyzes, highlights and summarizes any lecture, appropriately speeding up and slowing down the video throughout, to a pace you're comfortable with, so you only spend your time on whats important.
-Reduces the time spent on each lecture by as much as 40%, allowing you to learn more in lesser amount of time.
+Reduces the time spent on each lecture by as much as 60%, allowing you to learn more in lesser amount of time.
 
 *Demo*
 
