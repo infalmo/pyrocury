@@ -8,6 +8,7 @@ from tkinter.ttk import *
 import customtkinter
 import time
 from server.models.server import process
+from server.models.runModel import ComplexityNN
 customtkinter.set_appearance_mode("Light")
 customtkinter.set_default_color_theme("customcolor.json")
 
@@ -63,9 +64,9 @@ videoURLStr = ""
 def findURL():
 	def returnURL():
 		videoURLStr = url_entrybox.get()
-		process(videoURLStr)
+		outFilePath = process(videoURLStr)
 		videoFilePathVar.set(
-			
+			outFilePath
 		)
 		videoPlayerScreen.configure(state=NORMAL)
 		url_window.destroy()
