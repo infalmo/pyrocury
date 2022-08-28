@@ -1,0 +1,4807 @@
+{
+    "metadata": {
+        "id": "yUdiM3j1W9k",
+        "avgHeat": 0.35,
+        "runtime": 2247.2599999999998,
+        "dale-challReadabilityScore": 235.0621078860898,
+        "lexicalDiversity": 0.5333762610002146,
+        "posComposition": {
+            "NN": 0.152,
+            "IN": 0.11,
+            "DT": 0.118,
+            "PRP": 0.05,
+            "VBP": 0.037,
+            "RB": 0.068,
+            "VB": 0.039,
+            "PRP$": 0.006,
+            "VBZ": 0.045,
+            "JJ": 0.091,
+            "NNP": 0.035,
+            "CC": 0.039,
+            "TO": 0.023,
+            "NNS": 0.045,
+            "VBG": 0.02,
+            "WDT": 0.005,
+            "VBN": 0.009,
+            "MD": 0.016,
+            "CD": 0.067,
+            "WRB": 0.005,
+            "POS": 0.005,
+            "PDT": 0.0,
+            "VBD": 0.006,
+            "JJR": 0.002,
+            "WP": 0.003,
+            "RP": 0.001,
+            "JJS": 0.0,
+            "EX": 0.002,
+            "RBR": 0.001,
+            "NNPS": 0.0
+        },
+        "syllableRate": 3.032,
+        "topicScores": [
+            [
+                "J Omega T",
+                0.010357869607628203
+            ],
+            [
+                "omega t",
+                0.03958830193627552
+            ],
+            [
+                "J Omega C",
+                0.04528747382976225
+            ],
+            [
+                "Omega T time",
+                0.05558985017471381
+            ],
+            [
+                "cosine omega t",
+                0.06005989903975732
+            ],
+            [
+                "frequency Omega T",
+                0.07221737799783993
+            ],
+            [
+                "phase",
+                0.07901468780291827
+            ],
+            [
+                "J V",
+                0.08130862975780655
+            ],
+            [
+                "J Omega L",
+                0.08624514218637143
+            ],
+            [
+                "phase shift",
+                0.08678984473930751
+            ],
+            [
+                "complex",
+                0.08840789977089897
+            ],
+            [
+                "complex number",
+                0.08847959164691169
+            ],
+            [
+                "phase V",
+                0.0909044429158705
+            ],
+            [
+                "point",
+                0.09206571725522711
+            ],
+            [
+                "sum",
+                0.10219408631974743
+            ],
+            [
+                "complex Exponential",
+                0.1095755937973264
+            ],
+            [
+                "function",
+                0.11632421374825405
+            ],
+            [
+                "plus",
+                0.11870677086422843
+            ],
+            [
+                "J time",
+                0.11946877321162896
+            ],
+            [
+                "degree",
+                0.12397301494847147
+            ],
+            [
+                "impedance",
+                0.13392428688466176
+            ],
+            [
+                "sinusoid",
+                0.1347296930206663
+            ],
+            [
+                "phase negative",
+                0.1352751970149367
+            ],
+            [
+                "current",
+                0.137981793243662
+            ],
+            [
+                "Omega C phase",
+                0.14090727137646705
+            ],
+            [
+                "circuit",
+                0.14493639696244107
+            ],
+            [
+                "equal",
+                0.14517084045331705
+            ],
+            [
+                "real",
+                0.14569891846889105
+            ],
+            [
+                "new",
+                0.15537585106026386
+            ],
+            [
+                "angular frequency",
+                0.1612016542842728
+            ]
+        ],
+        "topicsList": [
+            "J Omega T",
+            "omega t",
+            "J Omega C",
+            "Omega T time",
+            "cosine omega t",
+            "frequency Omega T",
+            "phase",
+            "J V",
+            "J Omega L",
+            "phase shift",
+            "complex",
+            "complex number",
+            "phase V",
+            "point",
+            "sum",
+            "complex Exponential",
+            "function",
+            "plus",
+            "J time",
+            "degree",
+            "impedance",
+            "sinusoid",
+            "phase negative",
+            "current",
+            "Omega C phase",
+            "circuit",
+            "equal",
+            "real",
+            "new",
+            "angular frequency"
+        ]
+    },
+    "chunks": {
+        "yUdiM3j1W9k-0": {
+            "id": "yUdiM3j1W9k-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " today for those of you do not know me my name is dr. Carter and in this topic we room to discuss phasers so basically we're going to be looking at the sum of sinusoidal functions all of which have the same frequency we're going to see that the trigonometry involved with this is quite complex and then we will see that we can simplify this operation by transforming two complex numbers or phasers and therefore we will have a phase of representation of these sinusoids we will then convert this trigonometric addition into phasor or complex number addition we will see why this phase of representation works will then carry on and look at phase and multiplication phasor inverses which we will then use and apply to linear circuits with alternating current so let's consider an arbitrary sinusoid it will have some period t the frequency is 1 over the period and the angular frequency is 2 pi times the frequency the angular frequency being in radians it's always possible to write such a sinusoid in terms of new codes of Omega T where nu is the amplitude and with a phase shift V now the cosine function is periodic and therefore we can actually restrict fee to be a value between negative PI and positive PI radians",
+            "metrics": {
+                "relativeDCReadability": 0.08468584930848118,
+                "lexicalDiversity": 0.4663677130044843,
+                "posComposition": {
+                    "NN": 0.17,
+                    "IN": 0.117,
+                    "DT": 0.108,
+                    "PRP": 0.063,
+                    "VBP": 0.018,
+                    "RB": 0.054,
+                    "VB": 0.085,
+                    "PRP$": 0.004,
+                    "VBZ": 0.031,
+                    "JJ": 0.072,
+                    "NNP": 0.027,
+                    "CC": 0.054,
+                    "TO": 0.027,
+                    "NNS": 0.058,
+                    "VBG": 0.027,
+                    "WDT": 0.009,
+                    "VBN": 0.004,
+                    "MD": 0.04,
+                    "CD": 0.013,
+                    "WRB": 0.009,
+                    "POS": 0.004,
+                    "PDT": 0.004
+                },
+                "syllableRate": 2.883,
+                "topicScores": [
+                    [
+                        "omega T",
+                        0.12510420213233245
+                    ],
+                    [
+                        "positive PI radian",
+                        0.17081384057729673
+                    ],
+                    [
+                        "phase shift V",
+                        0.19211150961167994
+                    ],
+                    [
+                        "frequency",
+                        0.21153512002420374
+                    ],
+                    [
+                        "negative PI",
+                        0.21791890829935437
+                    ],
+                    [
+                        "angular frequency",
+                        0.21838045848419482
+                    ],
+                    [
+                        "complex",
+                        0.3016189461050131
+                    ],
+                    [
+                        "sinusoid",
+                        0.3016189461050131
+                    ],
+                    [
+                        "complex number",
+                        0.30620101425973834
+                    ],
+                    [
+                        "multiplication phasor inverse",
+                        0.31161076628816364
+                    ],
+                    [
+                        "Carter",
+                        0.3146160289053873
+                    ],
+                    [
+                        "representation",
+                        0.3200382482989519
+                    ],
+                    [
+                        "linear circuit",
+                        0.33532015693119216
+                    ],
+                    [
+                        "pi time",
+                        0.33532015693119216
+                    ],
+                    [
+                        "new code",
+                        0.33532015693119216
+                    ],
+                    [
+                        "representation work",
+                        0.34082358962883386
+                    ],
+                    [
+                        "period",
+                        0.3417423666883823
+                    ],
+                    [
+                        "phaser",
+                        0.36182490106480497
+                    ],
+                    [
+                        "function",
+                        0.36182490106480497
+                    ],
+                    [
+                        "addition",
+                        0.36182490106480497
+                    ],
+                    [
+                        "period t",
+                        0.3725482911431997
+                    ],
+                    [
+                        "sinusoidal function",
+                        0.4032698657340182
+                    ],
+                    [
+                        "trigonometric addition",
+                        0.4032698657340182
+                    ],
+                    [
+                        "cosine function",
+                        0.4032698657340182
+                    ],
+                    [
+                        "today",
+                        0.4109149347781519
+                    ],
+                    [
+                        "arbitrary sinusoid",
+                        0.4332630412318375
+                    ],
+                    [
+                        "number addition",
+                        0.4505875737735374
+                    ],
+                    [
+                        "dr",
+                        0.472563066511236
+                    ],
+                    [
+                        "complex number addition",
+                        0.47868366839450155
+                    ],
+                    [
+                        "topic",
+                        0.5011146828956289
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "angular frequency",
+                        0.21838045848419482
+                    ],
+                    [
+                        "complex",
+                        0.3016189461050131
+                    ],
+                    [
+                        "sinusoid",
+                        0.3016189461050131
+                    ],
+                    [
+                        "complex number",
+                        0.30620101425973834
+                    ],
+                    [
+                        "function",
+                        0.36182490106480497
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-90": {
+            "id": "yUdiM3j1W9k-90",
+            "heat": 0.145,
+            "start": 90.0,
+            "text": " engineers however throw a twist into this the angular frequency is always in terms of radians that the phase shift is usually written in terms of degrees so therefore the phase shift will be restricted to values between negative 180 and 180 degrees so for example we may be looking at sinusoids of the form the coast of 377 t plus 45 degrees but this is in radians or the cosine of 377 t minus 90 degrees now a positive phase shift means that a function is leading in time so for example negative sine is cosine of T plus 90 degrees now if we're looking at if as time advances we notice that negative sine Peaks before the cosine function so therefore the sine function is lag is leading the cosine function in time the same thing happens if we look at coast of 377 T and coasts 377 T with a phase shift of plus 45 degrees the blue function the leading function peaks first and only after the blue function Peaks does cosine of three hundred and seventy seventy peak a negative phase",
+            "metrics": {
+                "relativeDCReadability": 0.0792760191747849,
+                "lexicalDiversity": 0.5401069518716578,
+                "posComposition": {
+                    "NNS": 0.086,
+                    "RB": 0.07,
+                    "VBP": 0.027,
+                    "DT": 0.107,
+                    "NN": 0.182,
+                    "IN": 0.166,
+                    "JJ": 0.064,
+                    "VBZ": 0.064,
+                    "VBN": 0.016,
+                    "MD": 0.011,
+                    "VB": 0.016,
+                    "TO": 0.005,
+                    "CD": 0.059,
+                    "CC": 0.053,
+                    "PRP": 0.021,
+                    "VBG": 0.027,
+                    "NNP": 0.027
+                },
+                "syllableRate": 2.175,
+                "topicScores": [
+                    [
+                        "t",
+                        0.16481562089034776
+                    ],
+                    [
+                        "function",
+                        0.23455375428727207
+                    ],
+                    [
+                        "Peaks",
+                        0.24175540762393122
+                    ],
+                    [
+                        "phase",
+                        0.24320229626958287
+                    ],
+                    [
+                        "degree",
+                        0.2524025846974346
+                    ],
+                    [
+                        "cosine",
+                        0.2633886449126343
+                    ],
+                    [
+                        "shift",
+                        0.26891872362376984
+                    ],
+                    [
+                        "phase shift",
+                        0.2783109665168723
+                    ],
+                    [
+                        "negative",
+                        0.2987445229877338
+                    ],
+                    [
+                        "coast",
+                        0.30310265755944976
+                    ],
+                    [
+                        "sine Peaks",
+                        0.31965827088949583
+                    ],
+                    [
+                        "time",
+                        0.32804072921596317
+                    ],
+                    [
+                        "term",
+                        0.34983148394738117
+                    ],
+                    [
+                        "example",
+                        0.34983148394738117
+                    ],
+                    [
+                        "blue",
+                        0.34983148394738117
+                    ],
+                    [
+                        "blue function Peaks",
+                        0.3503137968676219
+                    ],
+                    [
+                        "radian",
+                        0.3702159440546191
+                    ],
+                    [
+                        "angular frequency",
+                        0.3882560162038178
+                    ],
+                    [
+                        "negative sine Peaks",
+                        0.43136388595064834
+                    ],
+                    [
+                        "engineer",
+                        0.44319327270365283
+                    ],
+                    [
+                        "positive phase",
+                        0.49804930911564294
+                    ],
+                    [
+                        "twist",
+                        0.5288400223467338
+                    ],
+                    [
+                        "value",
+                        0.5288400223467338
+                    ],
+                    [
+                        "sinusoid",
+                        0.5288400223467338
+                    ],
+                    [
+                        "form",
+                        0.5288400223467338
+                    ],
+                    [
+                        "lag",
+                        0.5288400223467338
+                    ],
+                    [
+                        "thing",
+                        0.5288400223467338
+                    ],
+                    [
+                        "positive phase shift",
+                        0.5767094272219082
+                    ],
+                    [
+                        "cosine function",
+                        0.5802715244707604
+                    ],
+                    [
+                        "example negative",
+                        0.6249998834609942
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.23455375428727207
+                    ],
+                    [
+                        "phase",
+                        0.24320229626958287
+                    ],
+                    [
+                        "degree",
+                        0.2524025846974346
+                    ],
+                    [
+                        "phase shift",
+                        0.2783109665168723
+                    ],
+                    [
+                        "angular frequency",
+                        0.3882560162038178
+                    ],
+                    [
+                        "sinusoid",
+                        0.5288400223467338
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-180": {
+            "id": "yUdiM3j1W9k-180",
+            "heat": 0.333,
+            "start": 180.0,
+            "text": " shift causes a lag so for example sine of T is close fifteen minus ninety degrees so as time moves forward we notice that cosine Peaks the fourth sign well it doesn't matter whether or not you're using a sine or cosine of t minus ninety or cosine of three hundred seventy seventy and kosub three seventy seventy minus ninety degrees cosine Peaks first then the function or this sinusoid with a phase shift of negative ninety Peaks now if the phase shift is exactly 180 that means they're out of phase negative cosine is out of phase with cosine same thing with cosine of three hundred seventy seventy it is out of phase with cosine of three hundred and seventy-seven degrees T plus 180 degrees now suppose that we want to add a whole bunch of sinusoids all of which have the same angular frequency but where they may have different amplitudes and different phase shifts for example here is a sum of five trigonometric functions all with different amplitudes and phase shifts now it might not be immediately obvious but because the angular frequency is the same the result will be a sinusoid with",
+            "metrics": {
+                "relativeDCReadability": 0.07704862518153961,
+                "lexicalDiversity": 0.5326633165829145,
+                "posComposition": {
+                    "NN": 0.206,
+                    "VBZ": 0.055,
+                    "DT": 0.085,
+                    "RB": 0.08,
+                    "IN": 0.146,
+                    "NNP": 0.02,
+                    "JJ": 0.111,
+                    "NNS": 0.05,
+                    "PRP": 0.04,
+                    "VBP": 0.035,
+                    "VB": 0.03,
+                    "CC": 0.055,
+                    "VBG": 0.005,
+                    "CD": 0.04,
+                    "VBD": 0.01,
+                    "TO": 0.005,
+                    "WDT": 0.005,
+                    "WRB": 0.005,
+                    "MD": 0.015
+                },
+                "syllableRate": 2.45,
+                "topicScores": [
+                    [
+                        "cosine",
+                        0.26541986550993363
+                    ],
+                    [
+                        "phase",
+                        0.2806191112997971
+                    ],
+                    [
+                        "t",
+                        0.30635011835369935
+                    ],
+                    [
+                        "shift",
+                        0.322323266541859
+                    ],
+                    [
+                        "degree",
+                        0.3551961100927923
+                    ],
+                    [
+                        "peak",
+                        0.3713192941553624
+                    ],
+                    [
+                        "different",
+                        0.4214935324126403
+                    ],
+                    [
+                        "sinusoid",
+                        0.4234204584081276
+                    ],
+                    [
+                        "example",
+                        0.48252922462632347
+                    ],
+                    [
+                        "angular",
+                        0.5108259697859127
+                    ],
+                    [
+                        "amplitude",
+                        0.5108259697859127
+                    ],
+                    [
+                        "negative",
+                        0.5236744738463978
+                    ],
+                    [
+                        "frequency",
+                        0.5236744738463978
+                    ],
+                    [
+                        "function",
+                        0.5346811004426455
+                    ],
+                    [
+                        "kosub",
+                        0.7211392305820133
+                    ],
+                    [
+                        "cosine Peaks",
+                        0.7691785563865265
+                    ],
+                    [
+                        "lag",
+                        0.7883090394146086
+                    ],
+                    [
+                        "close",
+                        0.7883090394146086
+                    ],
+                    [
+                        "time",
+                        0.7883090394146086
+                    ],
+                    [
+                        "fourth",
+                        0.7883090394146086
+                    ],
+                    [
+                        "sign",
+                        0.7883090394146086
+                    ],
+                    [
+                        "thing",
+                        0.819027540099402
+                    ],
+                    [
+                        "bunch",
+                        0.819027540099402
+                    ],
+                    [
+                        "sum",
+                        0.819027540099402
+                    ],
+                    [
+                        "trigonometric",
+                        0.819027540099402
+                    ],
+                    [
+                        "obvious",
+                        0.819027540099402
+                    ],
+                    [
+                        "result",
+                        0.819027540099402
+                    ],
+                    [
+                        "degree t",
+                        1.021501855529717
+                    ],
+                    [
+                        "phase shift",
+                        1.1746497590204334
+                    ],
+                    [
+                        "angular frequency",
+                        1.2926645469453415
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "phase",
+                        0.2806191112997971
+                    ],
+                    [
+                        "degree",
+                        0.3551961100927923
+                    ],
+                    [
+                        "sinusoid",
+                        0.4234204584081276
+                    ],
+                    [
+                        "function",
+                        0.5346811004426455
+                    ],
+                    [
+                        "sum",
+                        0.819027540099402
+                    ],
+                    [
+                        "phase shift",
+                        1.1746497590204334
+                    ],
+                    [
+                        "angular frequency",
+                        1.2926645469453415
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-270": {
+            "id": "yUdiM3j1W9k-270",
+            "heat": 0.503,
+            "start": 270.0,
+            "text": " some unknown amplitude but with the same frequencies 370 70 plus some unknown phase shift fee in fact in Maple if you plot the five functions you can also plot the sum of these functions and you get fourteen point eight one coast of 370 seventy plus an angle or a phase shift of three point three six degrees now we're going to show that the sum of two sinusoidal functions with the same angular frequency but with different amplitudes and different phase shift still results in a sinusoid with the same frequency our derivation is not going to use trigonometry any more complex on what you learn in high school later however we're going to see how complex Exponential's can simplify all of this significantly but going back to trade 3 cos Omega T plus 92 cos Omega T plus 45 degrees using the cosine sub formula I can expand this term to get that this is equal to this expression and that's 9 cos Omega t minus 9 sine we make it t and I can add these two terms when I add the two together so something",
+            "metrics": {
+                "relativeDCReadability": 0.07818885403261921,
+                "lexicalDiversity": 0.5618556701030928,
+                "posComposition": {
+                    "DT": 0.113,
+                    "JJ": 0.082,
+                    "NN": 0.149,
+                    "CC": 0.067,
+                    "IN": 0.093,
+                    "NNS": 0.057,
+                    "CD": 0.088,
+                    "NNP": 0.036,
+                    "PRP": 0.057,
+                    "VBP": 0.036,
+                    "MD": 0.021,
+                    "RB": 0.046,
+                    "VB": 0.046,
+                    "VBG": 0.026,
+                    "TO": 0.031,
+                    "PRP$": 0.005,
+                    "VBZ": 0.021,
+                    "JJR": 0.005,
+                    "WP": 0.005,
+                    "WRB": 0.01,
+                    "POS": 0.005
+                },
+                "syllableRate": 2.283,
+                "topicScores": [
+                    [
+                        "Omega T",
+                        0.11189722978502606
+                    ],
+                    [
+                        "frequency",
+                        0.3403924140420659
+                    ],
+                    [
+                        "phase",
+                        0.3546785249132612
+                    ],
+                    [
+                        "shift",
+                        0.3546785249132612
+                    ],
+                    [
+                        "function",
+                        0.36735197540767794
+                    ],
+                    [
+                        "complex Exponential",
+                        0.37246095945215957
+                    ],
+                    [
+                        "Maple",
+                        0.3911995999909575
+                    ],
+                    [
+                        "sum",
+                        0.3916175696669227
+                    ],
+                    [
+                        "unknown",
+                        0.39735869542591573
+                    ],
+                    [
+                        "amplitude",
+                        0.4376867148154447
+                    ],
+                    [
+                        "point",
+                        0.4376867148154447
+                    ],
+                    [
+                        "degree",
+                        0.4376867148154447
+                    ],
+                    [
+                        "different",
+                        0.4376867148154447
+                    ],
+                    [
+                        "term",
+                        0.4376867148154447
+                    ],
+                    [
+                        "phase shift",
+                        0.506415747695317
+                    ],
+                    [
+                        "high school",
+                        0.5327037851181388
+                    ],
+                    [
+                        "cosine sub",
+                        0.5327037851181388
+                    ],
+                    [
+                        "sub formula",
+                        0.5327037851181388
+                    ],
+                    [
+                        "cosine sub formula",
+                        0.5581200659473408
+                    ],
+                    [
+                        "fee",
+                        0.5895406777476483
+                    ],
+                    [
+                        "fact",
+                        0.5895406777476483
+                    ],
+                    [
+                        "coast",
+                        0.5895406777476483
+                    ],
+                    [
+                        "angle",
+                        0.5895406777476483
+                    ],
+                    [
+                        "sinusoidal",
+                        0.5895406777476483
+                    ],
+                    [
+                        "angular",
+                        0.5895406777476483
+                    ],
+                    [
+                        "derivation",
+                        0.5895406777476483
+                    ],
+                    [
+                        "trigonometry",
+                        0.5895406777476483
+                    ],
+                    [
+                        "trade",
+                        0.5895406777476483
+                    ],
+                    [
+                        "equal",
+                        0.5895406777476483
+                    ],
+                    [
+                        "expression",
+                        0.5895406777476483
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "phase",
+                        0.3546785249132612
+                    ],
+                    [
+                        "function",
+                        0.36735197540767794
+                    ],
+                    [
+                        "complex Exponential",
+                        0.37246095945215957
+                    ],
+                    [
+                        "sum",
+                        0.3916175696669227
+                    ],
+                    [
+                        "point",
+                        0.4376867148154447
+                    ],
+                    [
+                        "degree",
+                        0.4376867148154447
+                    ],
+                    [
+                        "phase shift",
+                        0.506415747695317
+                    ],
+                    [
+                        "equal",
+                        0.5895406777476483
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-360": {
+            "id": "yUdiM3j1W9k-360",
+            "heat": 0.268,
+            "start": 360.0,
+            "text": " needs to give me that sum the cosine and sine both with argument Omega T now I want to write this in terms of this formula and so all I will do is again apply the cosine sum formula and notice I have cosine Omega T and sine Omega T here well if that's true then nu cos P must equal to 12 and negative new sign fee must equal to 9 so therefore I have to equation is in two unknowns however they're nonlinear equations but still giving these two don't give up hope I can square both sides and add them well the sum of the squares of the right-hand side is just 225 if I sub square the right left hand side you can add them I get a common factor of nu squared and I'll wait a second Co squared plus sine squared is 1 so I get nu squared is equal to hundred twenty-five take the square root of both sides nu is equal to 15 let's take these two formulas again well let's take the ratio of them this will take the ratio of the second over the first the amplitudes cancel out and I'm left with canif e is equal to 9 over 12 or 0.75 well therefore fee is arctan of 0.75 and",
+            "metrics": {
+                "relativeDCReadability": 0.08094828182548651,
+                "lexicalDiversity": 0.5350877192982456,
+                "posComposition": {
+                    "NNS": 0.039,
+                    "TO": 0.035,
+                    "VB": 0.079,
+                    "PRP": 0.07,
+                    "IN": 0.079,
+                    "VBZ": 0.044,
+                    "DT": 0.105,
+                    "NN": 0.11,
+                    "CC": 0.053,
+                    "NNP": 0.035,
+                    "RB": 0.079,
+                    "VBP": 0.053,
+                    "MD": 0.031,
+                    "JJ": 0.096,
+                    "CD": 0.053,
+                    "VBG": 0.004,
+                    "RP": 0.004,
+                    "VBD": 0.009,
+                    "VBN": 0.013,
+                    "POS": 0.009
+                },
+                "syllableRate": 2.383,
+                "topicScores": [
+                    [
+                        "omega t",
+                        0.24573325389720782
+                    ],
+                    [
+                        "square",
+                        0.2660260475713174
+                    ],
+                    [
+                        "equal",
+                        0.29966360113956864
+                    ],
+                    [
+                        "nu",
+                        0.3563658180325641
+                    ],
+                    [
+                        "sum",
+                        0.4016548485313514
+                    ],
+                    [
+                        "sine",
+                        0.4045006130318877
+                    ],
+                    [
+                        "formula",
+                        0.40932743866363425
+                    ],
+                    [
+                        "cosine",
+                        0.40991855822578593
+                    ],
+                    [
+                        "right",
+                        0.4754849058587683
+                    ],
+                    [
+                        "hand",
+                        0.4754849058587683
+                    ],
+                    [
+                        "ratio",
+                        0.5060275846158228
+                    ],
+                    [
+                        "equation",
+                        0.5157778280576792
+                    ],
+                    [
+                        "fee",
+                        0.5212269811351363
+                    ],
+                    [
+                        "second",
+                        0.5212269811351363
+                    ],
+                    [
+                        "T",
+                        0.5236799279728181
+                    ],
+                    [
+                        "P",
+                        0.5236799279728181
+                    ],
+                    [
+                        "Co",
+                        0.5719473533048447
+                    ],
+                    [
+                        "argument omega T",
+                        0.7193505987184398
+                    ],
+                    [
+                        "cosine omega t",
+                        0.7388670988773093
+                    ],
+                    [
+                        "term",
+                        0.804572101368574
+                    ],
+                    [
+                        "notice",
+                        0.804572101368574
+                    ],
+                    [
+                        "true",
+                        0.804572101368574
+                    ],
+                    [
+                        "negative",
+                        0.804572101368574
+                    ],
+                    [
+                        "new",
+                        0.804572101368574
+                    ],
+                    [
+                        "sign",
+                        0.804572101368574
+                    ],
+                    [
+                        "unknown",
+                        0.804572101368574
+                    ],
+                    [
+                        "nonlinear",
+                        0.804572101368574
+                    ],
+                    [
+                        "hope",
+                        0.804572101368574
+                    ],
+                    [
+                        "left",
+                        0.804572101368574
+                    ],
+                    [
+                        "common",
+                        0.804572101368574
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "omega t",
+                        0.24573325389720782
+                    ],
+                    [
+                        "equal",
+                        0.29966360113956864
+                    ],
+                    [
+                        "sum",
+                        0.4016548485313514
+                    ],
+                    [
+                        "cosine omega t",
+                        0.7388670988773093
+                    ],
+                    [
+                        "new",
+                        0.804572101368574
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-450": {
+            "id": "yUdiM3j1W9k-450",
+            "heat": 0.344,
+            "start": 450.0,
+            "text": " therefore fee is equal to approximately 36 point eight seven degrees so therefore it follows that the sum of these two sinusoids with the same angular frequency but with different phase ships and different amplitudes does result in a sinusoid with the same angular frequency in fact it doesn't matter what the angular frequency is Omega T if Omega is equal to two I can plot both of these and I can plot their sum or I can plot this and I get the same result or if I let make is equal to five these are the two functions I can add them together and I get this function here which is equal to that now this is proof with a specific example however if you wish you can also prove this in arbitrary case now what happens if we want to add five or six sign out of sinusoids well we do this pairwise and first two that gives us a sinusoid still with frequency Omega T add that to the third sinusoid to get a new frequent a new trigonometric sinusoid add that to the fourth one keep on adding pairwise until you get a result now this is",
+            "metrics": {
+                "relativeDCReadability": 0.07472117050058813,
+                "lexicalDiversity": 0.4630541871921182,
+                "posComposition": {
+                    "RB": 0.064,
+                    "NN": 0.123,
+                    "VBZ": 0.059,
+                    "JJ": 0.103,
+                    "TO": 0.039,
+                    "CD": 0.054,
+                    "NNS": 0.03,
+                    "IN": 0.103,
+                    "PRP": 0.079,
+                    "DT": 0.123,
+                    "CC": 0.044,
+                    "VB": 0.049,
+                    "WP": 0.01,
+                    "NNP": 0.025,
+                    "MD": 0.025,
+                    "PRP$": 0.005,
+                    "VBP": 0.044,
+                    "WDT": 0.015,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.35,
+                "topicScores": [
+                    [
+                        "omega",
+                        0.31911255105822484
+                    ],
+                    [
+                        "sinusoid",
+                        0.3224169454208231
+                    ],
+                    [
+                        "equal",
+                        0.35053496218174746
+                    ],
+                    [
+                        "angular",
+                        0.3695083807412323
+                    ],
+                    [
+                        "frequency",
+                        0.37356741855041503
+                    ],
+                    [
+                        "T",
+                        0.4042976833484441
+                    ],
+                    [
+                        "result",
+                        0.4429042876809111
+                    ],
+                    [
+                        "omega T",
+                        0.479515485371338
+                    ],
+                    [
+                        "different",
+                        0.5182193104721661
+                    ],
+                    [
+                        "sum",
+                        0.5228465181620777
+                    ],
+                    [
+                        "function",
+                        0.5554175602783041
+                    ],
+                    [
+                        "new",
+                        0.5666615802072045
+                    ],
+                    [
+                        "pairwise",
+                        0.5751195291732658
+                    ],
+                    [
+                        "fee",
+                        0.7608117168333658
+                    ],
+                    [
+                        "degree",
+                        0.7867341396952099
+                    ],
+                    [
+                        "phase",
+                        0.7867341396952099
+                    ],
+                    [
+                        "ship",
+                        0.7867341396952099
+                    ],
+                    [
+                        "amplitude",
+                        0.7867341396952099
+                    ],
+                    [
+                        "fact",
+                        0.7867341396952099
+                    ],
+                    [
+                        "proof",
+                        0.8838149760268278
+                    ],
+                    [
+                        "specific",
+                        0.8838149760268278
+                    ],
+                    [
+                        "example",
+                        0.8838149760268278
+                    ],
+                    [
+                        "arbitrary",
+                        0.8838149760268278
+                    ],
+                    [
+                        "case",
+                        0.8838149760268278
+                    ],
+                    [
+                        "sign",
+                        0.8838149760268278
+                    ],
+                    [
+                        "frequent",
+                        0.8921020998481369
+                    ],
+                    [
+                        "trigonometric",
+                        0.8921020998481369
+                    ],
+                    [
+                        "fourth",
+                        0.8921020998481369
+                    ],
+                    [
+                        "angular frequency",
+                        0.8928379274973699
+                    ],
+                    [
+                        "frequency Omega",
+                        1.3611273772540602
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "sinusoid",
+                        0.3224169454208231
+                    ],
+                    [
+                        "equal",
+                        0.35053496218174746
+                    ],
+                    [
+                        "sum",
+                        0.5228465181620777
+                    ],
+                    [
+                        "function",
+                        0.5554175602783041
+                    ],
+                    [
+                        "new",
+                        0.5666615802072045
+                    ],
+                    [
+                        "degree",
+                        0.7867341396952099
+                    ],
+                    [
+                        "phase",
+                        0.7867341396952099
+                    ],
+                    [
+                        "angular frequency",
+                        0.8928379274973699
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-540": {
+            "id": "yUdiM3j1W9k-540",
+            "heat": 0.337,
+            "start": 540.0,
+            "text": " complex at best calculating all of these so it's a lot easier where we're going to simplify this problem by going into the complex domain remember that any complex number is comprised of a real part plus an imaginary part however I can also think of this complex number as an object with a magnitude new and with an angle from the positive real axis V and so every single complex number can either represented as a plus BJ or as some magnitude with an appropriate angle that is our phasor and assuming that our angular frequency is fixed I'm just going to associate new Kosovo mega T plus V with the complex phasor V phase V new phase V sorry nu is my length V is the angle so there is my complex number now normally when we're trying to calculate this sum of trigonometric functions we would have to do the operation we considered before however what we're going to see is that we can actually transform this function for",
+            "metrics": {
+                "relativeDCReadability": 0.07363428494798419,
+                "lexicalDiversity": 0.5141242937853108,
+                "posComposition": {
+                    "NN": 0.158,
+                    "IN": 0.119,
+                    "RBS": 0.006,
+                    "VBG": 0.04,
+                    "DT": 0.124,
+                    "PRP": 0.051,
+                    "VBZ": 0.045,
+                    "JJR": 0.006,
+                    "WRB": 0.011,
+                    "VBP": 0.023,
+                    "TO": 0.028,
+                    "VB": 0.051,
+                    "JJ": 0.107,
+                    "VBN": 0.017,
+                    "CC": 0.034,
+                    "RB": 0.056,
+                    "MD": 0.023,
+                    "NNP": 0.051,
+                    "WDT": 0.006,
+                    "PRP$": 0.023,
+                    "EX": 0.006,
+                    "NNS": 0.006,
+                    "VBD": 0.006,
+                    "WP": 0.006
+                },
+                "syllableRate": 2.283,
+                "topicScores": [
+                    [
+                        "complex",
+                        0.2804385342585006
+                    ],
+                    [
+                        "V",
+                        0.2908530110006862
+                    ],
+                    [
+                        "number",
+                        0.35031221289782233
+                    ],
+                    [
+                        "angle",
+                        0.4062940621202169
+                    ],
+                    [
+                        "new",
+                        0.423743194038717
+                    ],
+                    [
+                        "plus",
+                        0.423743194038717
+                    ],
+                    [
+                        "phase",
+                        0.511790169418211
+                    ],
+                    [
+                        "real",
+                        0.523766803169453
+                    ],
+                    [
+                        "magnitude",
+                        0.523766803169453
+                    ],
+                    [
+                        "phasor",
+                        0.523766803169453
+                    ],
+                    [
+                        "function",
+                        0.5268259738192853
+                    ],
+                    [
+                        "bj",
+                        0.5630216707012412
+                    ],
+                    [
+                        "Kosovo",
+                        0.5630216707012412
+                    ],
+                    [
+                        "T",
+                        0.5630216707012412
+                    ],
+                    [
+                        "phase V",
+                        0.5636994672103297
+                    ],
+                    [
+                        "lot",
+                        0.8146110689768086
+                    ],
+                    [
+                        "easy",
+                        0.8146110689768086
+                    ],
+                    [
+                        "problem",
+                        0.8146110689768086
+                    ],
+                    [
+                        "domain",
+                        0.8146110689768086
+                    ],
+                    [
+                        "imaginary",
+                        0.8146110689768086
+                    ],
+                    [
+                        "object",
+                        0.8146110689768086
+                    ],
+                    [
+                        "positive",
+                        0.8146110689768086
+                    ],
+                    [
+                        "axis",
+                        0.8146110689768086
+                    ],
+                    [
+                        "single",
+                        0.8146110689768086
+                    ],
+                    [
+                        "appropriate",
+                        0.8146110689768086
+                    ],
+                    [
+                        "angular",
+                        0.8146110689768086
+                    ],
+                    [
+                        "frequency",
+                        0.8146110689768086
+                    ],
+                    [
+                        "mega",
+                        0.8146110689768086
+                    ],
+                    [
+                        "sorry",
+                        0.8146110689768086
+                    ],
+                    [
+                        "length",
+                        0.8146110689768086
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "complex",
+                        0.2804385342585006
+                    ],
+                    [
+                        "new",
+                        0.423743194038717
+                    ],
+                    [
+                        "plus",
+                        0.423743194038717
+                    ],
+                    [
+                        "phase",
+                        0.511790169418211
+                    ],
+                    [
+                        "real",
+                        0.523766803169453
+                    ],
+                    [
+                        "function",
+                        0.5268259738192853
+                    ],
+                    [
+                        "phase V",
+                        0.5636994672103297
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-630": {
+            "id": "yUdiM3j1W9k-630",
+            "heat": 0.304,
+            "start": 630.0,
+            "text": " every single sinusoidal consider it's representation the phase nu sub K phase V sub K and then over here rather than adding these trig functions I'm just going to add these complex numbers well complex numbers addition is quite easy out of this complex number addition I'm going to get another complex number new phase fee but remember with my association new phase B is associated with a sinusoid new cosine Omega T with a phase shift of fee so these two are related so I can go back now the question is is that new that I get there as summing these complex numbers going to be the same amplitude that I get if I sum these trigonometric functions we're going to see that that's actually true and it's actually very straightforward to see once you're looking at complex Exponential's so what we're going to do is we're going to transform a trigonometric problem into a different domain the complex domain perform a very simple operation in the complex domain and then transform back into a trigonometric function or a sinusoid how are we going to do this well once again",
+            "metrics": {
+                "relativeDCReadability": 0.07732558321199733,
+                "lexicalDiversity": 0.5346534653465347,
+                "posComposition": {
+                    "DT": 0.109,
+                    "JJ": 0.134,
+                    "NN": 0.139,
+                    "VB": 0.054,
+                    "PRP": 0.064,
+                    "VBZ": 0.04,
+                    "NNP": 0.035,
+                    "CC": 0.025,
+                    "RB": 0.094,
+                    "IN": 0.099,
+                    "VBG": 0.05,
+                    "NNS": 0.025,
+                    "VBP": 0.054,
+                    "TO": 0.04,
+                    "PRP$": 0.005,
+                    "VBN": 0.01,
+                    "CD": 0.005,
+                    "MD": 0.005,
+                    "POS": 0.005,
+                    "WP": 0.005,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.6,
+                "topicScores": [
+                    [
+                        "cosine omega t",
+                        0.06747585876710162
+                    ],
+                    [
+                        "V sub K",
+                        0.07098941723047479
+                    ],
+                    [
+                        "K phase V",
+                        0.10133951164072687
+                    ],
+                    [
+                        "nu sub K",
+                        0.12373565191390709
+                    ],
+                    [
+                        "new cosine omega",
+                        0.16743658209124812
+                    ],
+                    [
+                        "phase V sub",
+                        0.17997912569681979
+                    ],
+                    [
+                        "sub K phase",
+                        0.18607670094367465
+                    ],
+                    [
+                        "complex",
+                        0.20357743639616255
+                    ],
+                    [
+                        "number",
+                        0.21719042894174762
+                    ],
+                    [
+                        "number addition",
+                        0.21797912445354536
+                    ],
+                    [
+                        "complex number",
+                        0.21978895422584202
+                    ],
+                    [
+                        "phase B",
+                        0.24635754251064576
+                    ],
+                    [
+                        "complex number addition",
+                        0.2506044473173301
+                    ],
+                    [
+                        "trigonometric function",
+                        0.2518393434260562
+                    ],
+                    [
+                        "complex Exponential",
+                        0.25293934575347193
+                    ],
+                    [
+                        "new phase B",
+                        0.2594793589209435
+                    ],
+                    [
+                        "domain",
+                        0.2730982103880953
+                    ],
+                    [
+                        "single sinusoidal",
+                        0.2813627049353658
+                    ],
+                    [
+                        "simple operation",
+                        0.29904068989313193
+                    ],
+                    [
+                        "trig function",
+                        0.33440116848139045
+                    ],
+                    [
+                        "sinusoid new cosine",
+                        0.3386145608563887
+                    ],
+                    [
+                        "fee",
+                        0.34163129473751025
+                    ],
+                    [
+                        "complex domain",
+                        0.3434404845991685
+                    ],
+                    [
+                        "trigonometric problem",
+                        0.3551258047080712
+                    ],
+                    [
+                        "different domain",
+                        0.3551258047080712
+                    ],
+                    [
+                        "association new",
+                        0.4156449248263326
+                    ],
+                    [
+                        "phase nu",
+                        0.43504587073015105
+                    ],
+                    [
+                        "phase shift",
+                        0.43504587073015105
+                    ],
+                    [
+                        "question",
+                        0.4462694601621904
+                    ],
+                    [
+                        "association new phase",
+                        0.47862126743963873
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "cosine omega t",
+                        0.06747585876710162
+                    ],
+                    [
+                        "complex",
+                        0.20357743639616255
+                    ],
+                    [
+                        "complex number",
+                        0.21978895422584202
+                    ],
+                    [
+                        "complex Exponential",
+                        0.25293934575347193
+                    ],
+                    [
+                        "phase shift",
+                        0.43504587073015105
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-720": {
+            "id": "yUdiM3j1W9k-720",
+            "heat": 0.267,
+            "start": 720.0,
+            "text": " let's remember that new phase fee this is Euler's identity it's new e to the J fee and that's just new times cosa fee plus J times nu times sine of T so a real part and an imaginary part so therefore if I'm adding a whole bunch of phasers I'm just adding the magnitudes times cosines of the angles plus J times magnitude magnitude times the signs of the angles now from our motivating example we had three cos Omega t + 90 - cos Omega T with a phase shift of 45 well that's three phase zero and 90 to Phase 45 these are those two complex numbers now if I add these two complex numbers I get a complex number that has slightly longer lengths than 92 with a slightly more shallow depth or fifteen phase thirty-five thirty-six point six eight seven this complex number or this phasor is associated with the trigonometric function fifteen cos",
+            "metrics": {
+                "relativeDCReadability": 0.07644441819034979,
+                "lexicalDiversity": 0.6158536585365854,
+                "posComposition": {
+                    "NN": 0.146,
+                    "POS": 0.012,
+                    "VB": 0.012,
+                    "IN": 0.085,
+                    "JJ": 0.116,
+                    "DT": 0.116,
+                    "VBZ": 0.037,
+                    "NNP": 0.049,
+                    "PRP": 0.037,
+                    "TO": 0.012,
+                    "CC": 0.049,
+                    "RB": 0.049,
+                    "NNS": 0.098,
+                    "VBP": 0.037,
+                    "VBG": 0.018,
+                    "PRP$": 0.006,
+                    "VBD": 0.012,
+                    "CD": 0.079,
+                    "WDT": 0.012,
+                    "RBR": 0.012,
+                    "VBN": 0.006
+                },
+                "syllableRate": 1.9,
+                "topicScores": [
+                    [
+                        "J",
+                        0.2545359539269207
+                    ],
+                    [
+                        "time",
+                        0.29981730828689895
+                    ],
+                    [
+                        "omega t",
+                        0.3107302741689865
+                    ],
+                    [
+                        "phase",
+                        0.31622721814064686
+                    ],
+                    [
+                        "T",
+                        0.36130740898088537
+                    ],
+                    [
+                        "complex",
+                        0.3655260328106942
+                    ],
+                    [
+                        "number",
+                        0.3655260328106942
+                    ],
+                    [
+                        "new",
+                        0.4010798930670722
+                    ],
+                    [
+                        "fee",
+                        0.4101731131626064
+                    ],
+                    [
+                        "magnitude",
+                        0.4122693336791781
+                    ],
+                    [
+                        "Euler",
+                        0.43944705867911105
+                    ],
+                    [
+                        "J time",
+                        0.4730256373364129
+                    ],
+                    [
+                        "angle",
+                        0.49922387508525695
+                    ],
+                    [
+                        "identity",
+                        0.7064227595210042
+                    ],
+                    [
+                        "cosa",
+                        0.7064227595210042
+                    ],
+                    [
+                        "sine",
+                        0.7064227595210042
+                    ],
+                    [
+                        "J fee",
+                        0.7170778355271015
+                    ],
+                    [
+                        "point",
+                        0.7574325624147525
+                    ],
+                    [
+                        "real",
+                        0.7836170494177376
+                    ],
+                    [
+                        "imaginary",
+                        0.7836170494177376
+                    ],
+                    [
+                        "bunch",
+                        0.7836170494177376
+                    ],
+                    [
+                        "cosine",
+                        0.7836170494177376
+                    ],
+                    [
+                        "sign",
+                        0.7836170494177376
+                    ],
+                    [
+                        "motivating",
+                        0.7836170494177376
+                    ],
+                    [
+                        "example",
+                        0.7836170494177376
+                    ],
+                    [
+                        "shift",
+                        0.7836170494177376
+                    ],
+                    [
+                        "long",
+                        0.7836170494177376
+                    ],
+                    [
+                        "length",
+                        0.7836170494177376
+                    ],
+                    [
+                        "shallow",
+                        0.7836170494177376
+                    ],
+                    [
+                        "depth",
+                        0.7836170494177376
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "omega t",
+                        0.3107302741689865
+                    ],
+                    [
+                        "phase",
+                        0.31622721814064686
+                    ],
+                    [
+                        "complex",
+                        0.3655260328106942
+                    ],
+                    [
+                        "new",
+                        0.4010798930670722
+                    ],
+                    [
+                        "J time",
+                        0.4730256373364129
+                    ],
+                    [
+                        "point",
+                        0.7574325624147525
+                    ],
+                    [
+                        "real",
+                        0.7836170494177376
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-810": {
+            "id": "yUdiM3j1W9k-810",
+            "heat": 0.214,
+            "start": 810.0,
+            "text": " Omega T with a shift of thirty six point eight seven degrees notice that there is a one-to-one transformation to one relationship between every single complex number and every single sinusoid with a different amplitude and different phase shift if I have a different amplitude I will get a different complex number if I change either component of the complex number I will get a different sinusoid so it's a one-to-one mapping between phasers and trigonometric functions of the form amplitude times cos Omega T with the phase shift let's look at our sum of five sinusoids so this first one is three-phase 75 the second one is 10 phase 50 well going into the phasor domain we are now just adding these five complex numbers straightforward enough we get fourteen point seven eight plus zero point eight seven J that is represented by the phase of fourteen point eight one phase three point three six degrees the associated trigonometric function has an amplitude of fourteen point eight one with a phase shift of three point three six so here we have a",
+            "metrics": {
+                "relativeDCReadability": 0.07427368269734516,
+                "lexicalDiversity": 0.6162162162162163,
+                "posComposition": {
+                    "NNP": 0.027,
+                    "IN": 0.114,
+                    "DT": 0.119,
+                    "NN": 0.211,
+                    "JJ": 0.114,
+                    "CD": 0.135,
+                    "NNS": 0.038,
+                    "RB": 0.043,
+                    "EX": 0.005,
+                    "VBZ": 0.032,
+                    "TO": 0.005,
+                    "CC": 0.022,
+                    "PRP": 0.043,
+                    "VBP": 0.032,
+                    "MD": 0.011,
+                    "VB": 0.011,
+                    "POS": 0.005,
+                    "PRP$": 0.005,
+                    "VBG": 0.011,
+                    "WDT": 0.005,
+                    "VBN": 0.011
+                },
+                "syllableRate": 2.375,
+                "topicScores": [
+                    [
+                        "omega T",
+                        0.16722628698612146
+                    ],
+                    [
+                        "point",
+                        0.2813662657763875
+                    ],
+                    [
+                        "phase",
+                        0.3003488106878153
+                    ],
+                    [
+                        "different",
+                        0.31773551069788164
+                    ],
+                    [
+                        "number",
+                        0.3555754104647249
+                    ],
+                    [
+                        "shift",
+                        0.35648317724954803
+                    ],
+                    [
+                        "complex",
+                        0.3620461481332576
+                    ],
+                    [
+                        "amplitude",
+                        0.3685462953232759
+                    ],
+                    [
+                        "sinusoid",
+                        0.39744654845206734
+                    ],
+                    [
+                        "single",
+                        0.5006652915260986
+                    ],
+                    [
+                        "trigonometric",
+                        0.5319508383085978
+                    ],
+                    [
+                        "function",
+                        0.5319508383085978
+                    ],
+                    [
+                        "degree",
+                        0.5372095132483476
+                    ],
+                    [
+                        "J",
+                        0.6339659887219865
+                    ],
+                    [
+                        "transformation",
+                        0.7518063356414567
+                    ],
+                    [
+                        "relationship",
+                        0.7766509375132727
+                    ],
+                    [
+                        "component",
+                        0.7766509375132727
+                    ],
+                    [
+                        "mapping",
+                        0.8201061761735657
+                    ],
+                    [
+                        "time",
+                        0.8395727750611357
+                    ],
+                    [
+                        "sum",
+                        0.8395727750611357
+                    ],
+                    [
+                        "second",
+                        0.8641344853245054
+                    ],
+                    [
+                        "phasor",
+                        0.8641344853245054
+                    ],
+                    [
+                        "domain",
+                        0.8641344853245054
+                    ],
+                    [
+                        "straightforward",
+                        0.8641344853245054
+                    ],
+                    [
+                        "associated",
+                        0.8776076888660299
+                    ],
+                    [
+                        "complex number",
+                        0.9770110216843138
+                    ],
+                    [
+                        "phase shift",
+                        1.4671225800630772
+                    ],
+                    [
+                        "different amplitude",
+                        1.4923193261310996
+                    ],
+                    [
+                        "trigonometric function",
+                        1.551122835234828
+                    ],
+                    [
+                        "single sinusoid",
+                        1.7083834271303768
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.2813662657763875
+                    ],
+                    [
+                        "phase",
+                        0.3003488106878153
+                    ],
+                    [
+                        "complex",
+                        0.3620461481332576
+                    ],
+                    [
+                        "sinusoid",
+                        0.39744654845206734
+                    ],
+                    [
+                        "function",
+                        0.5319508383085978
+                    ],
+                    [
+                        "degree",
+                        0.5372095132483476
+                    ],
+                    [
+                        "sum",
+                        0.8395727750611357
+                    ],
+                    [
+                        "complex number",
+                        0.9770110216843138
+                    ],
+                    [
+                        "phase shift",
+                        1.4671225800630772
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-900": {
+            "id": "yUdiM3j1W9k-900",
+            "heat": 0.197,
+            "start": 900.0,
+            "text": " couple graphs this first graph shows the five complex numbers we can add the five complex numbers to get this result this result is the phasor fourteen point eight one phase three point three six on top I plot the five functions in the bottom I plot some or dysfunction and they are of course identical now to see why this works we have to go to complex exponentials again now rather than having new e to the J Fe I'm going to add an Omega T into there into the exponent or a J Omega T so now I have new e to the J all times Omega T plus fee well what does that represent well Euler's formula that's new coast of Omega T plus V plus J times new sine of Omega T plus B so essentially the cosines that we've been looking at are simply the real part of this complex exponential so remember that any exponential with a fixed multiplier with animagic purely imaginary real part",
+            "metrics": {
+                "relativeDCReadability": 0.07355117465561492,
+                "lexicalDiversity": 0.5485714285714286,
+                "posComposition": {
+                    "NN": 0.143,
+                    "DT": 0.126,
+                    "JJ": 0.091,
+                    "VBZ": 0.034,
+                    "CD": 0.046,
+                    "NNS": 0.034,
+                    "PRP": 0.046,
+                    "MD": 0.006,
+                    "VB": 0.034,
+                    "TO": 0.04,
+                    "IN": 0.086,
+                    "VBP": 0.046,
+                    "CC": 0.04,
+                    "RB": 0.069,
+                    "WRB": 0.006,
+                    "VBG": 0.017,
+                    "NNP": 0.103,
+                    "EX": 0.006,
+                    "WP": 0.006,
+                    "POS": 0.006,
+                    "WDT": 0.006,
+                    "VBN": 0.011
+                },
+                "syllableRate": 2.042,
+                "topicScores": [
+                    [
+                        "Omega T",
+                        0.15775707761462443
+                    ],
+                    [
+                        "J",
+                        0.22439427263845968
+                    ],
+                    [
+                        "J Fe",
+                        0.22906182785015108
+                    ],
+                    [
+                        "J Omega T",
+                        0.29612045946802373
+                    ],
+                    [
+                        "complex",
+                        0.32419520051426465
+                    ],
+                    [
+                        "new",
+                        0.3302256790623134
+                    ],
+                    [
+                        "exponential",
+                        0.4034891992846706
+                    ],
+                    [
+                        "number",
+                        0.43263763239057307
+                    ],
+                    [
+                        "result",
+                        0.45269678066793895
+                    ],
+                    [
+                        "graph",
+                        0.45879503116710857
+                    ],
+                    [
+                        "point",
+                        0.47019190436314023
+                    ],
+                    [
+                        "time",
+                        0.48345824214640176
+                    ],
+                    [
+                        "real",
+                        0.5079883241884484
+                    ],
+                    [
+                        "omega",
+                        0.5249818355387215
+                    ],
+                    [
+                        "new e",
+                        0.5443796284933081
+                    ],
+                    [
+                        "Euler",
+                        0.5732248482358552
+                    ],
+                    [
+                        "V",
+                        0.5732248482358552
+                    ],
+                    [
+                        "B",
+                        0.5732248482358552
+                    ],
+                    [
+                        "time Omega T",
+                        0.5882001160208514
+                    ],
+                    [
+                        "couple",
+                        0.6105214195341728
+                    ],
+                    [
+                        "J time",
+                        0.6645695549488078
+                    ],
+                    [
+                        "complex number",
+                        0.6731209581156303
+                    ],
+                    [
+                        "fee",
+                        0.7023057924042756
+                    ],
+                    [
+                        "phasor",
+                        0.7036590397814559
+                    ],
+                    [
+                        "phase",
+                        0.7036590397814559
+                    ],
+                    [
+                        "function",
+                        0.7036590397814559
+                    ],
+                    [
+                        "dysfunction",
+                        0.7036590397814559
+                    ],
+                    [
+                        "course",
+                        0.7036590397814559
+                    ],
+                    [
+                        "identical",
+                        0.7036590397814559
+                    ],
+                    [
+                        "work",
+                        0.7036590397814559
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "J Omega T",
+                        0.29612045946802373
+                    ],
+                    [
+                        "complex",
+                        0.32419520051426465
+                    ],
+                    [
+                        "new",
+                        0.3302256790623134
+                    ],
+                    [
+                        "point",
+                        0.47019190436314023
+                    ],
+                    [
+                        "real",
+                        0.5079883241884484
+                    ],
+                    [
+                        "J time",
+                        0.6645695549488078
+                    ],
+                    [
+                        "complex number",
+                        0.6731209581156303
+                    ],
+                    [
+                        "phase",
+                        0.7036590397814559
+                    ],
+                    [
+                        "function",
+                        0.7036590397814559
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-990": {
+            "id": "yUdiM3j1W9k-990",
+            "heat": 0.179,
+            "start": 990.0,
+            "text": " right it's our exponent as T changes we are simply spiraling in the complex plane if we take the projection onto the real axis in this case we just get fourteen point eight one cosine of three seventy seventy plus a phase shift if we project down into the imaginary plane we get fourteen point eight one sine of 3 77 T plus a phase shift of three point three six degrees now notice that if I sum two complex Exponential's of this form what happens well here I have a exponent of e raised to a sum well the power of a sum is just the product of the powers so each of these can be converted into e to the J Omega T times e to the J t1 the first case and the second case e to the J Omega T times e to the J V - oh wait a second I can factor out that that term of e to the J Omega T it's up there so what's left nu 1 e to the J V 1",
+            "metrics": {
+                "relativeDCReadability": 0.07454268872187904,
+                "lexicalDiversity": 0.532258064516129,
+                "posComposition": {
+                    "NN": 0.161,
+                    "PRP": 0.054,
+                    "VBZ": 0.032,
+                    "PRP$": 0.005,
+                    "IN": 0.118,
+                    "NNP": 0.091,
+                    "VBP": 0.048,
+                    "RB": 0.043,
+                    "VBG": 0.005,
+                    "DT": 0.14,
+                    "JJ": 0.065,
+                    "VB": 0.022,
+                    "CD": 0.07,
+                    "CC": 0.016,
+                    "RP": 0.016,
+                    "NNS": 0.022,
+                    "POS": 0.005,
+                    "WP": 0.011,
+                    "VBN": 0.016,
+                    "TO": 0.038,
+                    "MD": 0.016,
+                    "VBD": 0.005
+                },
+                "syllableRate": 1.958,
+                "topicScores": [
+                    [
+                        "J Omega T",
+                        0.03231697382577364
+                    ],
+                    [
+                        "Omega T time",
+                        0.09861578090745568
+                    ],
+                    [
+                        "J V",
+                        0.1080666655369608
+                    ],
+                    [
+                        "T time e",
+                        0.22758226064904746
+                    ],
+                    [
+                        "point",
+                        0.30504959757343447
+                    ],
+                    [
+                        "sum",
+                        0.3215957663668817
+                    ],
+                    [
+                        "J t1",
+                        0.3396802714978261
+                    ],
+                    [
+                        "t change",
+                        0.3500441760015576
+                    ],
+                    [
+                        "case",
+                        0.3502516047482958
+                    ],
+                    [
+                        "complex Exponential",
+                        0.3522796442386539
+                    ],
+                    [
+                        "phase shift",
+                        0.369352286699114
+                    ],
+                    [
+                        "plane",
+                        0.39321453465233713
+                    ],
+                    [
+                        "exponent",
+                        0.42697786197666665
+                    ],
+                    [
+                        "power",
+                        0.46534901743789603
+                    ],
+                    [
+                        "second",
+                        0.4789265466267359
+                    ],
+                    [
+                        "projection",
+                        0.6566934242452152
+                    ],
+                    [
+                        "real",
+                        0.6566934242452152
+                    ],
+                    [
+                        "axis",
+                        0.6566934242452152
+                    ],
+                    [
+                        "cosine",
+                        0.6566934242452152
+                    ],
+                    [
+                        "imaginary",
+                        0.6566934242452152
+                    ],
+                    [
+                        "degree",
+                        0.6566934242452152
+                    ],
+                    [
+                        "form",
+                        0.6566934242452152
+                    ],
+                    [
+                        "imaginary plane",
+                        0.6928242852935591
+                    ],
+                    [
+                        "term",
+                        0.7128313277572679
+                    ],
+                    [
+                        "complex plane",
+                        0.7294075504462768
+                    ],
+                    [
+                        "product",
+                        0.7421916499404416
+                    ],
+                    [
+                        "real axis",
+                        0.7582301761710661
+                    ],
+                    [
+                        "nu",
+                        0.7777152344281966
+                    ],
+                    [
+                        "case e",
+                        0.782327076366725
+                    ],
+                    [
+                        "second case",
+                        1.1355584530186962
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "J Omega T",
+                        0.03231697382577364
+                    ],
+                    [
+                        "Omega T time",
+                        0.09861578090745568
+                    ],
+                    [
+                        "J V",
+                        0.1080666655369608
+                    ],
+                    [
+                        "point",
+                        0.30504959757343447
+                    ],
+                    [
+                        "sum",
+                        0.3215957663668817
+                    ],
+                    [
+                        "complex Exponential",
+                        0.3522796442386539
+                    ],
+                    [
+                        "phase shift",
+                        0.369352286699114
+                    ],
+                    [
+                        "real",
+                        0.6566934242452152
+                    ],
+                    [
+                        "degree",
+                        0.6566934242452152
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1080": {
+            "id": "yUdiM3j1W9k-1080",
+            "heat": 0.272,
+            "start": 1080.0,
+            "text": " that's our first phaser nu 2 e to the j v 2 is a second phaser nu 2 phase V 2 so essentially calculating this sum of two complex Exponential's is reduced to calculating a phaser addition this component remains unchanged now recall that the real part of a sum of complex numbers is the sum of the real parts so we were trying to calculate the sum of these two trigonometric functions well this is the real part of this complex exponential this is the real part of this complex exponential I'll break them apart the sum of two real parts is just the real part of the sum and from here we saw that this sum is nothing more than a phaser addition times e to the J Omega T so to calculate this all I need to do is calculate that phaser addition the e to the J Omega T remains unchanged so previously we use trigonometry to",
+            "metrics": {
+                "relativeDCReadability": 0.0703040862548671,
+                "lexicalDiversity": 0.524390243902439,
+                "posComposition": {
+                    "DT": 0.171,
+                    "VBZ": 0.067,
+                    "PRP$": 0.006,
+                    "JJ": 0.085,
+                    "NN": 0.183,
+                    "RB": 0.067,
+                    "CD": 0.043,
+                    "TO": 0.049,
+                    "NNP": 0.049,
+                    "VBG": 0.018,
+                    "IN": 0.091,
+                    "POS": 0.006,
+                    "VBN": 0.006,
+                    "VBP": 0.024,
+                    "NNS": 0.03,
+                    "PRP": 0.037,
+                    "VBD": 0.012,
+                    "VB": 0.03,
+                    "MD": 0.006,
+                    "RP": 0.006,
+                    "CC": 0.006,
+                    "JJR": 0.006
+                },
+                "syllableRate": 1.942,
+                "topicScores": [
+                    [
+                        "J Omega T",
+                        0.17280995981182914
+                    ],
+                    [
+                        "real",
+                        0.2467912260157227
+                    ],
+                    [
+                        "sum",
+                        0.26154523276967234
+                    ],
+                    [
+                        "phaser",
+                        0.2965494107958608
+                    ],
+                    [
+                        "complex",
+                        0.32798454183496323
+                    ],
+                    [
+                        "addition",
+                        0.36864868024382813
+                    ],
+                    [
+                        "unchanged",
+                        0.47155915057374437
+                    ],
+                    [
+                        "nu",
+                        0.47994121646551585
+                    ],
+                    [
+                        "exponential",
+                        0.5011915578711332
+                    ],
+                    [
+                        "V",
+                        0.5068093715458587
+                    ],
+                    [
+                        "real part",
+                        0.6186496283921171
+                    ],
+                    [
+                        "complex Exponential",
+                        0.6285689625735653
+                    ],
+                    [
+                        "phase V",
+                        0.6480038570362691
+                    ],
+                    [
+                        "phaser addition",
+                        0.6499259118773753
+                    ],
+                    [
+                        "function",
+                        0.7105202389874452
+                    ],
+                    [
+                        "trigonometric",
+                        0.7564802024395411
+                    ],
+                    [
+                        "j",
+                        0.7758445793121775
+                    ],
+                    [
+                        "second",
+                        0.7758445793121775
+                    ],
+                    [
+                        "component",
+                        0.7758445793121775
+                    ],
+                    [
+                        "number",
+                        0.7758445793121775
+                    ],
+                    [
+                        "time",
+                        0.8079311108245558
+                    ],
+                    [
+                        "phaser nu",
+                        0.882528788320639
+                    ],
+                    [
+                        "trigonometric function",
+                        1.1621364232796172
+                    ],
+                    [
+                        "time e",
+                        1.3571576803365564
+                    ],
+                    [
+                        "complex number",
+                        1.4440884205867537
+                    ],
+                    [
+                        "second phaser",
+                        1.4675424765407217
+                    ],
+                    [
+                        "addition time",
+                        1.4733219791066359
+                    ],
+                    [
+                        "j v",
+                        1.5121513467062775
+                    ],
+                    [
+                        "phaser addition time",
+                        3.4318351193695644
+                    ]
+                ],
+                "topTopicSimilarity": 0.27586206896551724,
+                "sharedTopicScores": [
+                    [
+                        "J Omega T",
+                        0.17280995981182914
+                    ],
+                    [
+                        "real",
+                        0.2467912260157227
+                    ],
+                    [
+                        "sum",
+                        0.26154523276967234
+                    ],
+                    [
+                        "complex",
+                        0.32798454183496323
+                    ],
+                    [
+                        "complex Exponential",
+                        0.6285689625735653
+                    ],
+                    [
+                        "phase V",
+                        0.6480038570362691
+                    ],
+                    [
+                        "function",
+                        0.7105202389874452
+                    ],
+                    [
+                        "complex number",
+                        1.4440884205867537
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1170": {
+            "id": "yUdiM3j1W9k-1170",
+            "heat": 0.229,
+            "start": 1170.0,
+            "text": " show that the sum of two sinusoids was in fact with the same frequency was something that had the same frequency now we're using complex Exponential's so we see that the real part of this plus the real part of that is the real part e to the J Omega T with the sum of the two phasers J Omega T remains unchanged throughout but that is why we require that the frequency is unchanged so now we're just going to go on to phasor multiplication and phasor inverses and then we will use this to solve voltages across a few very simple linear circuits in series and in parallel if I want to take a product of two phasers are one phase 1 T 1 R 2 phase V 2 I take the product of the magnitudes and I add the angles so for example 45 5 phase 45 times 2 phase negative 60 multiplies the real magnitudes add the add the angles and I get 10 phase negative 15 this generalizes to arbitrary products if I",
+            "metrics": {
+                "relativeDCReadability": 0.0775595496862892,
+                "lexicalDiversity": 0.5193370165745856,
+                "posComposition": {
+                    "NN": 0.138,
+                    "IN": 0.116,
+                    "DT": 0.127,
+                    "CD": 0.083,
+                    "NNS": 0.072,
+                    "VBD": 0.017,
+                    "JJ": 0.088,
+                    "WDT": 0.006,
+                    "RB": 0.039,
+                    "PRP": 0.055,
+                    "VBP": 0.055,
+                    "VBG": 0.011,
+                    "NNP": 0.055,
+                    "POS": 0.006,
+                    "CC": 0.039,
+                    "VBZ": 0.022,
+                    "TO": 0.033,
+                    "WRB": 0.006,
+                    "VB": 0.028,
+                    "MD": 0.006
+                },
+                "syllableRate": 2.075,
+                "topicScores": [
+                    [
+                        "J Omega T",
+                        0.09581321720636303
+                    ],
+                    [
+                        "real",
+                        0.28656257552976533
+                    ],
+                    [
+                        "phase",
+                        0.2895773186811733
+                    ],
+                    [
+                        "product",
+                        0.33440139875102454
+                    ],
+                    [
+                        "frequency",
+                        0.3372131894389026
+                    ],
+                    [
+                        "angle",
+                        0.4158268280918596
+                    ],
+                    [
+                        "sum",
+                        0.43880570448401746
+                    ],
+                    [
+                        "negative",
+                        0.4411491981585584
+                    ],
+                    [
+                        "phasor",
+                        0.4540138610472158
+                    ],
+                    [
+                        "magnitude",
+                        0.4540138610472158
+                    ],
+                    [
+                        "unchanged",
+                        0.4676884468214352
+                    ],
+                    [
+                        "Exponential",
+                        0.48167681516236843
+                    ],
+                    [
+                        "V",
+                        0.48167681516236843
+                    ],
+                    [
+                        "complex Exponential",
+                        0.5554831484264895
+                    ],
+                    [
+                        "phase V",
+                        0.5638622678753562
+                    ],
+                    [
+                        "phase negative",
+                        0.6928492927336687
+                    ],
+                    [
+                        "sinusoid",
+                        0.7413953114500614
+                    ],
+                    [
+                        "fact",
+                        0.7413953114500614
+                    ],
+                    [
+                        "multiplication",
+                        0.7413953114500614
+                    ],
+                    [
+                        "inverse",
+                        0.7413953114500614
+                    ],
+                    [
+                        "voltage",
+                        0.7413953114500614
+                    ],
+                    [
+                        "simple",
+                        0.7413953114500614
+                    ],
+                    [
+                        "linear",
+                        0.7413953114500614
+                    ],
+                    [
+                        "circuit",
+                        0.7413953114500614
+                    ],
+                    [
+                        "series",
+                        0.7413953114500614
+                    ],
+                    [
+                        "parallel",
+                        0.7413953114500614
+                    ],
+                    [
+                        "example",
+                        0.7413953114500614
+                    ],
+                    [
+                        "time",
+                        0.7413953114500614
+                    ],
+                    [
+                        "multiplie",
+                        0.7413953114500614
+                    ],
+                    [
+                        "arbitrary",
+                        0.7604600676602412
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "J Omega T",
+                        0.09581321720636303
+                    ],
+                    [
+                        "real",
+                        0.28656257552976533
+                    ],
+                    [
+                        "phase",
+                        0.2895773186811733
+                    ],
+                    [
+                        "sum",
+                        0.43880570448401746
+                    ],
+                    [
+                        "complex Exponential",
+                        0.5554831484264895
+                    ],
+                    [
+                        "phase V",
+                        0.5638622678753562
+                    ],
+                    [
+                        "phase negative",
+                        0.6928492927336687
+                    ],
+                    [
+                        "sinusoid",
+                        0.7413953114500614
+                    ],
+                    [
+                        "circuit",
+                        0.7413953114500614
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1260": {
+            "id": "yUdiM3j1W9k-1260",
+            "heat": 0.311,
+            "start": 1260.0,
+            "text": " want to take the product of n objects that's just the product of the end magnitudes with a phase of phase the sum of the angles now the inverse of our phase B is just 1 over R phase negative fee for example the inverse of v phase 45 degrees inverse is 1 over 5 or 0.2 phase negative 45 and why is this true well what we can see that it's true at least by taking the product of the phasor our phase feet multiplied by its inverse we multiply the real at the magnitudes that's equal to 1 we add the angles V Plus negative V is 0 well one phase 0 is the real number 1 so now let's apply this to linear circuits we're going to be dealing with alternating current and if we're dealing with alternating current then we can actually interpret all of this in terms of complex impedances so whether or not we have a resistor inductor or capacitor they all have a complex impedance when we are dealing with complex when with alternating current so generalized resistance complex resistance is called impedance so it's resistance plus it",
+            "metrics": {
+                "relativeDCReadability": 0.08073060051601837,
+                "lexicalDiversity": 0.5198019801980198,
+                "posComposition": {
+                    "NN": 0.149,
+                    "TO": 0.02,
+                    "VB": 0.03,
+                    "DT": 0.104,
+                    "IN": 0.129,
+                    "JJ": 0.089,
+                    "NNS": 0.045,
+                    "WDT": 0.01,
+                    "VBZ": 0.054,
+                    "RB": 0.059,
+                    "PRP$": 0.015,
+                    "NNP": 0.025,
+                    "CD": 0.054,
+                    "CC": 0.03,
+                    "WRB": 0.015,
+                    "WP": 0.005,
+                    "PRP": 0.059,
+                    "MD": 0.01,
+                    "JJS": 0.005,
+                    "VBG": 0.04,
+                    "VBN": 0.01,
+                    "VBP": 0.04,
+                    "POS": 0.005
+                },
+                "syllableRate": 2.408,
+                "topicScores": [
+                    [
+                        "phase",
+                        0.2612771101193139
+                    ],
+                    [
+                        "product",
+                        0.3355326475280785
+                    ],
+                    [
+                        "inverse",
+                        0.3406032563392903
+                    ],
+                    [
+                        "complex",
+                        0.3406032563392903
+                    ],
+                    [
+                        "current",
+                        0.36138181950934983
+                    ],
+                    [
+                        "impedance",
+                        0.3790074528171624
+                    ],
+                    [
+                        "resistance",
+                        0.38661585050804004
+                    ],
+                    [
+                        "negative",
+                        0.39100958335106256
+                    ],
+                    [
+                        "magnitude",
+                        0.4764355225645274
+                    ],
+                    [
+                        "angle",
+                        0.4764355225645274
+                    ],
+                    [
+                        "true",
+                        0.4764355225645274
+                    ],
+                    [
+                        "real",
+                        0.4764355225645274
+                    ],
+                    [
+                        "b",
+                        0.49383416844395694
+                    ],
+                    [
+                        "V",
+                        0.49383416844395694
+                    ],
+                    [
+                        "angle V",
+                        0.5946679387352998
+                    ],
+                    [
+                        "phase b",
+                        0.6920694294746939
+                    ],
+                    [
+                        "r phase",
+                        0.6920694294746939
+                    ],
+                    [
+                        "object",
+                        0.7547333497705654
+                    ],
+                    [
+                        "end",
+                        0.7547333497705654
+                    ],
+                    [
+                        "sum",
+                        0.7547333497705654
+                    ],
+                    [
+                        "fee",
+                        0.7547333497705654
+                    ],
+                    [
+                        "example",
+                        0.7547333497705654
+                    ],
+                    [
+                        "degree",
+                        0.7547333497705654
+                    ],
+                    [
+                        "phasor",
+                        0.7547333497705654
+                    ],
+                    [
+                        "foot",
+                        0.7547333497705654
+                    ],
+                    [
+                        "equal",
+                        0.7547333497705654
+                    ],
+                    [
+                        "number",
+                        0.7547333497705654
+                    ],
+                    [
+                        "linear",
+                        0.7547333497705654
+                    ],
+                    [
+                        "circuit",
+                        0.7547333497705654
+                    ],
+                    [
+                        "term",
+                        0.7547333497705654
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "phase",
+                        0.2612771101193139
+                    ],
+                    [
+                        "complex",
+                        0.3406032563392903
+                    ],
+                    [
+                        "current",
+                        0.36138181950934983
+                    ],
+                    [
+                        "impedance",
+                        0.3790074528171624
+                    ],
+                    [
+                        "real",
+                        0.4764355225645274
+                    ],
+                    [
+                        "sum",
+                        0.7547333497705654
+                    ],
+                    [
+                        "degree",
+                        0.7547333497705654
+                    ],
+                    [
+                        "equal",
+                        0.7547333497705654
+                    ],
+                    [
+                        "circuit",
+                        0.7547333497705654
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1350": {
+            "id": "yUdiM3j1W9k-1350",
+            "heat": 0.666,
+            "start": 1350.0,
+            "text": " reactance generalized complex conductance is admittance and it is conductance plus an imaginary susceptance now Ohm's law was voltage is equal to current times resistance well in this case for alternating current it remains unchanged voltage is equal to current times the complex resistance or the complex impedance now the impedance of each of the linear circuits actually does act like a phasor so the if we have an inductor with inductance L its impedance to a linear circuit as art doing alternating current is J Omega L or just Omega L times 90 degrees the higher the frequency the more it impedes the alternating current resistance is not affected by the current so resistance is just the impedance of a resistor is just the resistance phase zero the impedance of a capacitor is 1 over J Omega C where C is the",
+            "metrics": {
+                "relativeDCReadability": 0.0747688095885319,
+                "lexicalDiversity": 0.5277777777777778,
+                "posComposition": {
+                    "NN": 0.181,
+                    "VBD": 0.014,
+                    "JJ": 0.111,
+                    "VBZ": 0.097,
+                    "RB": 0.069,
+                    "CC": 0.028,
+                    "PRP": 0.028,
+                    "DT": 0.153,
+                    "NNP": 0.076,
+                    "POS": 0.007,
+                    "TO": 0.021,
+                    "NNS": 0.028,
+                    "IN": 0.09,
+                    "VBG": 0.028,
+                    "VB": 0.007,
+                    "VBP": 0.007,
+                    "PRP$": 0.007,
+                    "CD": 0.021,
+                    "JJR": 0.014,
+                    "VBN": 0.007,
+                    "WRB": 0.007
+                },
+                "syllableRate": 1.992,
+                "topicScores": [
+                    [
+                        "J Omega",
+                        0.18315055273597008
+                    ],
+                    [
+                        "J Omega L",
+                        0.1963637388367198
+                    ],
+                    [
+                        "J Omega C",
+                        0.20856795129946357
+                    ],
+                    [
+                        "current",
+                        0.25543510818832443
+                    ],
+                    [
+                        "impedance",
+                        0.27537290949305293
+                    ],
+                    [
+                        "resistance",
+                        0.29426782483254943
+                    ],
+                    [
+                        "complex",
+                        0.3364812596845996
+                    ],
+                    [
+                        "Omega L times",
+                        0.37230796348406553
+                    ],
+                    [
+                        "equal",
+                        0.3940052413013653
+                    ],
+                    [
+                        "conductance",
+                        0.41089519602154984
+                    ],
+                    [
+                        "voltage",
+                        0.43372206830285276
+                    ],
+                    [
+                        "linear",
+                        0.4504340015943558
+                    ],
+                    [
+                        "circuit",
+                        0.45043400159435587
+                    ],
+                    [
+                        "imaginary susceptance",
+                        0.4526622616686034
+                    ],
+                    [
+                        "Ohm",
+                        0.45336685483606115
+                    ],
+                    [
+                        "inductance l",
+                        0.49465717113794855
+                    ],
+                    [
+                        "reactance",
+                        0.5314996344471373
+                    ],
+                    [
+                        "admittance",
+                        0.6109253356513242
+                    ],
+                    [
+                        "current time",
+                        0.6134003800345383
+                    ],
+                    [
+                        "linear circuit",
+                        0.6558500366744131
+                    ],
+                    [
+                        "law",
+                        0.7026608801035493
+                    ],
+                    [
+                        "case",
+                        0.7026608801035493
+                    ],
+                    [
+                        "unchanged",
+                        0.7026608801035493
+                    ],
+                    [
+                        "phasor",
+                        0.7026608801035493
+                    ],
+                    [
+                        "inductor",
+                        0.7026608801035493
+                    ],
+                    [
+                        "art",
+                        0.7026608801035493
+                    ],
+                    [
+                        "degree",
+                        0.7026608801035493
+                    ],
+                    [
+                        "high",
+                        0.7026608801035493
+                    ],
+                    [
+                        "frequency",
+                        0.7026608801035493
+                    ],
+                    [
+                        "resistor",
+                        0.7026608801035493
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "J Omega L",
+                        0.1963637388367198
+                    ],
+                    [
+                        "J Omega C",
+                        0.20856795129946357
+                    ],
+                    [
+                        "current",
+                        0.25543510818832443
+                    ],
+                    [
+                        "impedance",
+                        0.27537290949305293
+                    ],
+                    [
+                        "complex",
+                        0.3364812596845996
+                    ],
+                    [
+                        "equal",
+                        0.3940052413013653
+                    ],
+                    [
+                        "circuit",
+                        0.45043400159435587
+                    ],
+                    [
+                        "degree",
+                        0.7026608801035493
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1440": {
+            "id": "yUdiM3j1W9k-1440",
+            "heat": 0.677,
+            "start": 1440.0,
+            "text": " capacitance of that capacitor and 1 over J Omega C is just 1 over Omega C phase negative 90 so notice that the higher the frequency the less your impedes or resists an alternating current so again capacitance and inductance of our frequency dependent now we can use this to determine the voltage across a linear circuit by using the formula set is equal to hot v is equal to AI z now let's say we have these three circuit elements in series a resistor two owns a conduct that inductor with 50 million thirds and a capacitor with 750 millets sorry 50 mil Henry's the total impedance is the sum of the impedance we're trying to get across here so it's the impedance of each of the circuit elements added together well to phase zero plus Omega zero point zero five phase 90 plus one over zero point seven five Omega a is negative 90 is a complex number so if Omega is equal to one then we can just substitute one into both locations",
+            "metrics": {
+                "relativeDCReadability": 0.07779794950559187,
+                "lexicalDiversity": 0.5777777777777777,
+                "posComposition": {
+                    "NN": 0.156,
+                    "IN": 0.094,
+                    "DT": 0.122,
+                    "CC": 0.033,
+                    "CD": 0.117,
+                    "NNP": 0.056,
+                    "VBZ": 0.061,
+                    "RB": 0.067,
+                    "JJ": 0.072,
+                    "JJR": 0.011,
+                    "PRP$": 0.011,
+                    "NNS": 0.028,
+                    "PRP": 0.028,
+                    "MD": 0.011,
+                    "VB": 0.028,
+                    "TO": 0.033,
+                    "VBG": 0.011,
+                    "VBN": 0.011,
+                    "VBP": 0.028,
+                    "POS": 0.011,
+                    "WDT": 0.011
+                },
+                "syllableRate": 2.333,
+                "topicScores": [
+                    [
+                        "Omega C",
+                        0.25579836440795817
+                    ],
+                    [
+                        "J Omega C",
+                        0.3372969351618448
+                    ],
+                    [
+                        "omega",
+                        0.364038486176794
+                    ],
+                    [
+                        "equal",
+                        0.3744314183355527
+                    ],
+                    [
+                        "impedance",
+                        0.38073405768991286
+                    ],
+                    [
+                        "phase",
+                        0.3969195057989647
+                    ],
+                    [
+                        "circuit",
+                        0.4011739535685679
+                    ],
+                    [
+                        "negative",
+                        0.48499027145817014
+                    ],
+                    [
+                        "element",
+                        0.48499027145817014
+                    ],
+                    [
+                        "capacitance",
+                        0.48877497652660074
+                    ],
+                    [
+                        "point",
+                        0.4986943103827527
+                    ],
+                    [
+                        "capacitor",
+                        0.5086655211800492
+                    ],
+                    [
+                        "frequency",
+                        0.5086655211800492
+                    ],
+                    [
+                        "AI",
+                        0.5260261936533807
+                    ],
+                    [
+                        "Henry",
+                        0.5260261936533807
+                    ],
+                    [
+                        "AI z",
+                        0.7013497212417581
+                    ],
+                    [
+                        "mil Henry",
+                        0.7013497212417581
+                    ],
+                    [
+                        "C phase",
+                        0.7226395979150257
+                    ],
+                    [
+                        "Omega C phase",
+                        0.7231378620543937
+                    ],
+                    [
+                        "number",
+                        0.7440105723916443
+                    ],
+                    [
+                        "location",
+                        0.7661726193015583
+                    ],
+                    [
+                        "high",
+                        0.7836707979950246
+                    ],
+                    [
+                        "impede",
+                        0.7836707979950246
+                    ],
+                    [
+                        "current",
+                        0.7836707979950246
+                    ],
+                    [
+                        "inductance",
+                        0.7836707979950246
+                    ],
+                    [
+                        "dependent",
+                        0.7836707979950246
+                    ],
+                    [
+                        "voltage",
+                        0.7836707979950246
+                    ],
+                    [
+                        "linear",
+                        0.7836707979950246
+                    ],
+                    [
+                        "formula",
+                        0.7836707979950246
+                    ],
+                    [
+                        "hot",
+                        0.7836707979950246
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "J Omega C",
+                        0.3372969351618448
+                    ],
+                    [
+                        "equal",
+                        0.3744314183355527
+                    ],
+                    [
+                        "impedance",
+                        0.38073405768991286
+                    ],
+                    [
+                        "phase",
+                        0.3969195057989647
+                    ],
+                    [
+                        "circuit",
+                        0.4011739535685679
+                    ],
+                    [
+                        "point",
+                        0.4986943103827527
+                    ],
+                    [
+                        "Omega C phase",
+                        0.7231378620543937
+                    ],
+                    [
+                        "current",
+                        0.7836707979950246
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1530": {
+            "id": "yUdiM3j1W9k-1530",
+            "heat": 0.559,
+            "start": 1530.0,
+            "text": " calculate this complex number and we get two point three seven six phase negative thirty-two point six nine let's say that with this impedance we have a complex current or current that is 10 cosine T amps amperes well voltage across here then can be calculated by just taking the product of this phasor and the associative phasor ten phase zero of the current tenth a zero times a is just 10 times beam magnitude so we get twenty two point seven six phase negative thirty-two point six nine so therefore the voltage is peaking at twenty three point seven six two peaking at point three point seven six and has a phase shift of negative thirty-two point six nine that means it's lagging behind the current peaks and then after it the voltage Peaks up yes the voltage Peaks now let's say we have a different current three hundred and seventy seventy instead of three hundred and instead of one T well let's recall that the impedance of the capacitor was to phase zero the impedance of the inductor is Omega zero point zero five days ninety and the",
+            "metrics": {
+                "relativeDCReadability": 0.07394630227953954,
+                "lexicalDiversity": 0.6288659793814433,
+                "posComposition": {
+                    "NN": 0.17,
+                    "DT": 0.103,
+                    "JJ": 0.119,
+                    "CC": 0.041,
+                    "PRP": 0.031,
+                    "VBP": 0.031,
+                    "CD": 0.149,
+                    "POS": 0.015,
+                    "VB": 0.031,
+                    "IN": 0.088,
+                    "WDT": 0.01,
+                    "VBZ": 0.046,
+                    "NNP": 0.021,
+                    "NNS": 0.026,
+                    "RB": 0.072,
+                    "MD": 0.005,
+                    "VBN": 0.005,
+                    "VBG": 0.021,
+                    "VBD": 0.01,
+                    "TO": 0.005
+                },
+                "syllableRate": 2.308,
+                "topicScores": [
+                    [
+                        "point",
+                        0.24039156736565293
+                    ],
+                    [
+                        "phase",
+                        0.3224132352541002
+                    ],
+                    [
+                        "current",
+                        0.3410927230786944
+                    ],
+                    [
+                        "voltage",
+                        0.3686328950988268
+                    ],
+                    [
+                        "peak",
+                        0.3784089771602448
+                    ],
+                    [
+                        "negative",
+                        0.3860329862838699
+                    ],
+                    [
+                        "impedance",
+                        0.42364085702611454
+                    ],
+                    [
+                        "complex",
+                        0.5273747391401895
+                    ],
+                    [
+                        "phasor",
+                        0.5504087055712825
+                    ],
+                    [
+                        "time",
+                        0.5504087055712825
+                    ],
+                    [
+                        "omega",
+                        0.6334498910867314
+                    ],
+                    [
+                        "number",
+                        0.836767056939875
+                    ],
+                    [
+                        "cosine",
+                        0.8616875614731389
+                    ],
+                    [
+                        "amp",
+                        0.8616875614731389
+                    ],
+                    [
+                        "product",
+                        0.8616875614731389
+                    ],
+                    [
+                        "associative",
+                        0.8616875614731389
+                    ],
+                    [
+                        "tenth",
+                        0.8616875614731389
+                    ],
+                    [
+                        "beam",
+                        0.8616875614731389
+                    ],
+                    [
+                        "magnitude",
+                        0.8616875614731389
+                    ],
+                    [
+                        "peaking",
+                        0.8753684191736666
+                    ],
+                    [
+                        "shift",
+                        0.8753684191736666
+                    ],
+                    [
+                        "different",
+                        0.8841790588945626
+                    ],
+                    [
+                        "capacitor",
+                        0.8841790588945626
+                    ],
+                    [
+                        "inductor",
+                        0.8841790588945626
+                    ],
+                    [
+                        "day",
+                        0.8841790588945626
+                    ],
+                    [
+                        "cosine t",
+                        1.1353379779932609
+                    ],
+                    [
+                        "t amp",
+                        1.1353379779932609
+                    ],
+                    [
+                        "phase negative",
+                        1.1386603773992288
+                    ],
+                    [
+                        "voltage Peaks",
+                        1.1843338085050583
+                    ],
+                    [
+                        "current peak",
+                        2.005669250670128
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.24039156736565293
+                    ],
+                    [
+                        "phase",
+                        0.3224132352541002
+                    ],
+                    [
+                        "current",
+                        0.3410927230786944
+                    ],
+                    [
+                        "impedance",
+                        0.42364085702611454
+                    ],
+                    [
+                        "complex",
+                        0.5273747391401895
+                    ],
+                    [
+                        "phase negative",
+                        1.1386603773992288
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1620": {
+            "id": "yUdiM3j1W9k-1620",
+            "heat": 0.415,
+            "start": 1620.0,
+            "text": " impedance of this capacitor is 1 over Omega zero point zero seven five sorry 0.75 phase negative ninety so now we have to substitute 375 into each of those locations and calculate it and we get eighteen point nine five phase eighty three point nine four so therefore if we want to calculate the voltage across this circuit with this current passing through it V is equal to I said since we're multiplying the magnitude by ten and so therefore we get one hundred and eighty nine point five phase a three point nine four with a higher frequency the inductor is impeding that current that very quickly alternating current and therefore this is producing the significant effect as you can see here phase 90 so this is positive this is the dominant effect of this circuit with such a high frequency so therefore the voltage peaks at one hundred and eighty nine point five and it has a lead of eighty three point nine",
+            "metrics": {
+                "relativeDCReadability": 0.06819970607272571,
+                "lexicalDiversity": 0.5602409638554217,
+                "posComposition": {
+                    "NN": 0.163,
+                    "IN": 0.108,
+                    "DT": 0.114,
+                    "VBZ": 0.042,
+                    "CD": 0.157,
+                    "NNP": 0.012,
+                    "JJ": 0.084,
+                    "RB": 0.072,
+                    "PRP": 0.06,
+                    "VBP": 0.03,
+                    "TO": 0.018,
+                    "VB": 0.03,
+                    "NNS": 0.018,
+                    "CC": 0.042,
+                    "VBD": 0.006,
+                    "VBG": 0.024,
+                    "JJR": 0.006,
+                    "MD": 0.006,
+                    "PDT": 0.006
+                },
+                "syllableRate": 2.0,
+                "topicScores": [
+                    [
+                        "point",
+                        0.287652242977721
+                    ],
+                    [
+                        "phase",
+                        0.38726242416212436
+                    ],
+                    [
+                        "current",
+                        0.4611120170103296
+                    ],
+                    [
+                        "circuit",
+                        0.5433193450437329
+                    ],
+                    [
+                        "high",
+                        0.5433193450437329
+                    ],
+                    [
+                        "frequency",
+                        0.5433193450437329
+                    ],
+                    [
+                        "voltage",
+                        0.5559870918535312
+                    ],
+                    [
+                        "effect",
+                        0.5559870918535312
+                    ],
+                    [
+                        "omega",
+                        0.5892659926677266
+                    ],
+                    [
+                        "impedance",
+                        0.7886592252296956
+                    ],
+                    [
+                        "capacitor",
+                        0.8631367602823937
+                    ],
+                    [
+                        "sorry",
+                        0.8631367602823937
+                    ],
+                    [
+                        "negative",
+                        0.8631367602823937
+                    ],
+                    [
+                        "location",
+                        0.8631367602823937
+                    ],
+                    [
+                        "equal",
+                        0.884586717271994
+                    ],
+                    [
+                        "magnitude",
+                        0.884586717271994
+                    ],
+                    [
+                        "inductor",
+                        0.884586717271994
+                    ],
+                    [
+                        "significant",
+                        0.884586717271994
+                    ],
+                    [
+                        "positive",
+                        0.8962752067391517
+                    ],
+                    [
+                        "dominant",
+                        0.8962752067391517
+                    ],
+                    [
+                        "lead",
+                        0.9090550868317963
+                    ],
+                    [
+                        "high frequency",
+                        1.810403599904366
+                    ],
+                    [
+                        "phase negative",
+                        3.466852022662915
+                    ],
+                    [
+                        "significant effect",
+                        3.535442545494498
+                    ],
+                    [
+                        "dominant effect",
+                        3.757701330111641
+                    ]
+                ],
+                "topTopicSimilarity": 0.28,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.287652242977721
+                    ],
+                    [
+                        "phase",
+                        0.38726242416212436
+                    ],
+                    [
+                        "current",
+                        0.4611120170103296
+                    ],
+                    [
+                        "circuit",
+                        0.5433193450437329
+                    ],
+                    [
+                        "impedance",
+                        0.7886592252296956
+                    ],
+                    [
+                        "equal",
+                        0.884586717271994
+                    ],
+                    [
+                        "phase negative",
+                        3.466852022662915
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1710": {
+            "id": "yUdiM3j1W9k-1710",
+            "heat": 0.358,
+            "start": 1710.0,
+            "text": " four degrees now let's consider these same three circuit elements but let's consider them in parallel now how does this work well because they're in parallel let's deal with how much can get through well however much can be admitted through the admittance is the sum of what can be admitted through the first one plus the sum will can be admitted to the second one plus the sum what can be admitted through the third one well the admittance of each of these is just 1 over their impedance and so the admittance Y of this circuit is just the sum of the 3 admittances of each of those or the sum of the reciprocals of the impedances I can calculate that value if Omega is equal to 1 I can substitute Omega Z want both of those calculate the admittance and the impedance 1 is 1 over that so I can calculate the inverse of this so to the inverse of the magnitude and with a sign change on the phase shift so there is my impedance of this circuit element and if I now have a current of 10 Coastie passing through that circuit I can now calculate the voltage across it the",
+            "metrics": {
+                "relativeDCReadability": 0.0768727757167298,
+                "lexicalDiversity": 0.40476190476190477,
+                "posComposition": {
+                    "CD": 0.052,
+                    "NNS": 0.024,
+                    "RB": 0.076,
+                    "VBP": 0.024,
+                    "POS": 0.014,
+                    "VB": 0.052,
+                    "DT": 0.176,
+                    "JJ": 0.043,
+                    "NN": 0.143,
+                    "CC": 0.038,
+                    "PRP": 0.038,
+                    "IN": 0.143,
+                    "WRB": 0.01,
+                    "VBZ": 0.033,
+                    "MD": 0.048,
+                    "VBN": 0.019,
+                    "WP": 0.01,
+                    "TO": 0.014,
+                    "PRP$": 0.01,
+                    "NNP": 0.024,
+                    "EX": 0.005,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "sum",
+                        0.1948308997560119
+                    ],
+                    [
+                        "admittance",
+                        0.21725932766200617
+                    ],
+                    [
+                        "Omega Z",
+                        0.26298401866859283
+                    ],
+                    [
+                        "impedance",
+                        0.26664970446234487
+                    ],
+                    [
+                        "circuit",
+                        0.26789676253782474
+                    ],
+                    [
+                        "parallel",
+                        0.37630624924307876
+                    ],
+                    [
+                        "element",
+                        0.39375681105121624
+                    ],
+                    [
+                        "circuit element",
+                        0.40034994149032116
+                    ],
+                    [
+                        "inverse",
+                        0.44854872538114454
+                    ],
+                    [
+                        "Y",
+                        0.4563160570480783
+                    ],
+                    [
+                        "omega",
+                        0.4563160570480783
+                    ],
+                    [
+                        "Coastie",
+                        0.5049567662635835
+                    ],
+                    [
+                        "degree",
+                        0.6035997879055452
+                    ],
+                    [
+                        "second",
+                        0.6208652357529955
+                    ],
+                    [
+                        "reciprocal",
+                        0.7113644198350565
+                    ],
+                    [
+                        "value",
+                        0.7113644198350565
+                    ],
+                    [
+                        "equal",
+                        0.7113644198350565
+                    ],
+                    [
+                        "magnitude",
+                        0.7497032125887354
+                    ],
+                    [
+                        "sign",
+                        0.7497032125887354
+                    ],
+                    [
+                        "change",
+                        0.7497032125887354
+                    ],
+                    [
+                        "phase",
+                        0.7497032125887354
+                    ],
+                    [
+                        "shift",
+                        0.7497032125887354
+                    ],
+                    [
+                        "current",
+                        0.7497032125887354
+                    ],
+                    [
+                        "voltage",
+                        0.7497032125887354
+                    ],
+                    [
+                        "sign change",
+                        1.2833912650371202
+                    ],
+                    [
+                        "phase shift",
+                        1.2833912650371202
+                    ]
+                ],
+                "topTopicSimilarity": 0.3076923076923077,
+                "sharedTopicScores": [
+                    [
+                        "sum",
+                        0.1948308997560119
+                    ],
+                    [
+                        "impedance",
+                        0.26664970446234487
+                    ],
+                    [
+                        "circuit",
+                        0.26789676253782474
+                    ],
+                    [
+                        "degree",
+                        0.6035997879055452
+                    ],
+                    [
+                        "equal",
+                        0.7113644198350565
+                    ],
+                    [
+                        "phase",
+                        0.7497032125887354
+                    ],
+                    [
+                        "current",
+                        0.7497032125887354
+                    ],
+                    [
+                        "phase shift",
+                        1.2833912650371202
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1800": {
+            "id": "yUdiM3j1W9k-1800",
+            "heat": 0.33,
+            "start": 1800.0,
+            "text": " equals I said assumption again multiplied the real multiply the magnitude by 10 I get zero point five two seven six phase eighty three point nine four so the voltage is leading the current by 83 or approximately 84 degrees let's say I instead have three hundred and seventy seven as my frequency well then again I have to substitute 377 into my impedances calculate the admittances take the sum of the admittances that gives me my Y I can now calculate the impedance by taking the reciprocal well be reciprocal of this is just 1 over magnitude negative 89.9 so again will notice that the impedance is very small this does not seem to impede a very high-frequency signal or curd so again if we have a current of 10 coasts 370 70 passing through this circuit if that is my impedance then the voltage across the circuit is very small 0.037 3537 phase negative 89.9 essentially this is lagging behind by 90 degrees and so therefore my voltage is very small",
+            "metrics": {
+                "relativeDCReadability": 0.07324373997071428,
+                "lexicalDiversity": 0.5172413793103449,
+                "posComposition": {
+                    "NNS": 0.04,
+                    "PRP": 0.04,
+                    "VBD": 0.017,
+                    "NN": 0.126,
+                    "RB": 0.126,
+                    "DT": 0.109,
+                    "JJ": 0.069,
+                    "IN": 0.098,
+                    "CD": 0.132,
+                    "VBP": 0.04,
+                    "VBZ": 0.052,
+                    "VBG": 0.017,
+                    "CC": 0.023,
+                    "POS": 0.006,
+                    "VB": 0.04,
+                    "VBN": 0.006,
+                    "PRP$": 0.029,
+                    "TO": 0.011,
+                    "WDT": 0.006,
+                    "MD": 0.011
+                },
+                "syllableRate": 2.15,
+                "topicScores": [
+                    [
+                        "impedance",
+                        0.35189193892969006
+                    ],
+                    [
+                        "small",
+                        0.36063695447812516
+                    ],
+                    [
+                        "voltage",
+                        0.3865694538485607
+                    ],
+                    [
+                        "frequency",
+                        0.4704015018646216
+                    ],
+                    [
+                        "multiply",
+                        0.4747156351980432
+                    ],
+                    [
+                        "point",
+                        0.48938849463791717
+                    ],
+                    [
+                        "magnitude",
+                        0.4932531043439544
+                    ],
+                    [
+                        "phase",
+                        0.4932531043439544
+                    ],
+                    [
+                        "negative",
+                        0.4979092637520494
+                    ],
+                    [
+                        "current",
+                        0.500231468036871
+                    ],
+                    [
+                        "degree",
+                        0.5057227167479471
+                    ],
+                    [
+                        "admittance",
+                        0.5087441208873095
+                    ],
+                    [
+                        "reciprocal",
+                        0.5209611670186047
+                    ],
+                    [
+                        "circuit",
+                        0.5209611670186047
+                    ],
+                    [
+                        "Y",
+                        0.5859471475947884
+                    ],
+                    [
+                        "assumption",
+                        0.7683268224317296
+                    ],
+                    [
+                        "real",
+                        0.7683268224317296
+                    ],
+                    [
+                        "high",
+                        0.8021023237095416
+                    ],
+                    [
+                        "signal",
+                        0.8021023237095416
+                    ],
+                    [
+                        "curd",
+                        0.8196241130904931
+                    ],
+                    [
+                        "coast",
+                        0.8196241130904931
+                    ],
+                    [
+                        "real multiply",
+                        1.3701966552909948
+                    ],
+                    [
+                        "frequency signal",
+                        1.487700927463511
+                    ],
+                    [
+                        "magnitude negative",
+                        1.6107031688722753
+                    ],
+                    [
+                        "phase negative",
+                        1.6107031688722753
+                    ]
+                ],
+                "topTopicSimilarity": 0.32,
+                "sharedTopicScores": [
+                    [
+                        "impedance",
+                        0.35189193892969006
+                    ],
+                    [
+                        "point",
+                        0.48938849463791717
+                    ],
+                    [
+                        "phase",
+                        0.4932531043439544
+                    ],
+                    [
+                        "current",
+                        0.500231468036871
+                    ],
+                    [
+                        "degree",
+                        0.5057227167479471
+                    ],
+                    [
+                        "circuit",
+                        0.5209611670186047
+                    ],
+                    [
+                        "real",
+                        0.7683268224317296
+                    ],
+                    [
+                        "phase negative",
+                        1.6107031688722753
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1890": {
+            "id": "yUdiM3j1W9k-1890",
+            "heat": 0.248,
+            "start": 1890.0,
+            "text": " again this should also be intuitive because capacitors are essentially short circuits for high-frequency signals and so essentially the current can just pass right through the kapap the alternating current can pass right through the capacitor now there's a really cool effect here going on notice that if we have a number of circuit elements we can calculate the impedance the impedance ends up being a complex number well a resistor determines the real part a capacitor determines a pilot an inductor determines a positive imaginary part capacitor determines a negative imaginary part so this essentially tells you that any linear circuit consisting of only inductors capacitors and resistors can be replaced by a single resistor and a single capacitor in series or a single resistor in a single inductor in the series depending on the sign of the imaginary part or at the same time they can be represented by an inductor and a resistor in parallel or after a passenger in peril again",
+            "metrics": {
+                "relativeDCReadability": 0.07186372804129454,
+                "lexicalDiversity": 0.4879518072289157,
+                "posComposition": {
+                    "RB": 0.084,
+                    "DT": 0.181,
+                    "MD": 0.036,
+                    "VB": 0.036,
+                    "JJ": 0.114,
+                    "IN": 0.133,
+                    "NNS": 0.042,
+                    "VBP": 0.012,
+                    "NN": 0.205,
+                    "CC": 0.042,
+                    "VBG": 0.024,
+                    "EX": 0.006,
+                    "VBZ": 0.042,
+                    "PRP": 0.024,
+                    "RP": 0.006,
+                    "VBN": 0.012
+                },
+                "syllableRate": 2.467,
+                "topicScores": [
+                    [
+                        "resistor",
+                        0.22475547004634522
+                    ],
+                    [
+                        "single",
+                        0.23405360830504401
+                    ],
+                    [
+                        "capacitor",
+                        0.24211823679211983
+                    ],
+                    [
+                        "inductor",
+                        0.2642928821271222
+                    ],
+                    [
+                        "imaginary",
+                        0.2780589240953133
+                    ],
+                    [
+                        "single resistor",
+                        0.29113071582944344
+                    ],
+                    [
+                        "frequency signal",
+                        0.29249418356815854
+                    ],
+                    [
+                        "circuit",
+                        0.31456903722983276
+                    ],
+                    [
+                        "current",
+                        0.3241215301267699
+                    ],
+                    [
+                        "cool effect",
+                        0.3357225681979132
+                    ],
+                    [
+                        "number",
+                        0.3439764140330646
+                    ],
+                    [
+                        "impedance",
+                        0.3439764140330646
+                    ],
+                    [
+                        "series",
+                        0.3439764140330646
+                    ],
+                    [
+                        "complex number",
+                        0.37613152711407843
+                    ],
+                    [
+                        "positive imaginary",
+                        0.38658557885392203
+                    ],
+                    [
+                        "negative imaginary",
+                        0.38658557885392203
+                    ],
+                    [
+                        "short circuit",
+                        0.4607324207977503
+                    ],
+                    [
+                        "circuit element",
+                        0.4607324207977503
+                    ],
+                    [
+                        "linear circuit",
+                        0.4607324207977503
+                    ],
+                    [
+                        "high",
+                        0.475712231853518
+                    ],
+                    [
+                        "peril",
+                        0.475712231853518
+                    ],
+                    [
+                        "single inductor",
+                        0.500379419720246
+                    ],
+                    [
+                        "intuitive",
+                        0.5013397457508444
+                    ],
+                    [
+                        "kapap",
+                        0.5013397457508444
+                    ],
+                    [
+                        "notice",
+                        0.5013397457508444
+                    ],
+                    [
+                        "real",
+                        0.5013397457508444
+                    ],
+                    [
+                        "pilot",
+                        0.5013397457508444
+                    ],
+                    [
+                        "time",
+                        0.5013397457508444
+                    ],
+                    [
+                        "parallel",
+                        0.5013397457508444
+                    ],
+                    [
+                        "passenger",
+                        0.5013397457508444
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "circuit",
+                        0.31456903722983276
+                    ],
+                    [
+                        "current",
+                        0.3241215301267699
+                    ],
+                    [
+                        "impedance",
+                        0.3439764140330646
+                    ],
+                    [
+                        "complex number",
+                        0.37613152711407843
+                    ],
+                    [
+                        "real",
+                        0.5013397457508444
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-1980": {
+            "id": "yUdiM3j1W9k-1980",
+            "heat": 0.214,
+            "start": 1980.0,
+            "text": " depending on the sign of the imaginary part however you as long as we're dealing with you remember from any resistors any circuit resistors can be simplified to a single resistor well if we're dealing with alternating current any circuit of inductors capacitors and resistors in the simplified into something containing only a resistor and either an inductor or capacitor so if you find observations the techniques that we've discussed here do not work if the frequencies of the different sinusoids differ I've used three hundred and seventy seven as my angular frequency a lot this is actually a very deliberate choice in North America we have 60 Hertz well 60 times 2pi to get the end of the frequency is three hundred and seventy six point nine nine and change well approximating 2 pi times 60 with three hundred and seventy one has a relative set three hundred seventy seven has a relative error of 0.02 six percent very nice approximation European power on the other hand is at 100 volts sorry at 50 Hertz if it's a 50 Hertz the angular frequency is a hundred pi which is 3.14 and change now mathematicians",
+            "metrics": {
+                "relativeDCReadability": 0.07487442865172461,
+                "lexicalDiversity": 0.565,
+                "posComposition": {
+                    "VBG": 0.03,
+                    "IN": 0.115,
+                    "DT": 0.12,
+                    "NN": 0.145,
+                    "JJ": 0.07,
+                    "RB": 0.07,
+                    "PRP": 0.045,
+                    "VBP": 0.05,
+                    "NNS": 0.065,
+                    "MD": 0.005,
+                    "VB": 0.025,
+                    "VBN": 0.02,
+                    "TO": 0.01,
+                    "CC": 0.04,
+                    "CD": 0.105,
+                    "PRP$": 0.005,
+                    "VBZ": 0.045,
+                    "NNP": 0.025,
+                    "VBD": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.683,
+                "topicScores": [
+                    [
+                        "North America",
+                        0.1474825562014502
+                    ],
+                    [
+                        "approximation european power",
+                        0.1981556000273201
+                    ],
+                    [
+                        "Hertz",
+                        0.2126348742031874
+                    ],
+                    [
+                        "frequency",
+                        0.2700776364736045
+                    ],
+                    [
+                        "resistor",
+                        0.28575253615354906
+                    ],
+                    [
+                        "relative",
+                        0.3531013392021298
+                    ],
+                    [
+                        "circuit",
+                        0.37647417882442025
+                    ],
+                    [
+                        "inductor",
+                        0.37647417882442025
+                    ],
+                    [
+                        "capacitor",
+                        0.37647417882442025
+                    ],
+                    [
+                        "angular",
+                        0.37647417882442025
+                    ],
+                    [
+                        "change",
+                        0.37647417882442025
+                    ],
+                    [
+                        "angular frequency",
+                        0.37725041660354774
+                    ],
+                    [
+                        "time",
+                        0.3975947896154215
+                    ],
+                    [
+                        "pi",
+                        0.3975947896154215
+                    ],
+                    [
+                        "different sinusoid",
+                        0.4136058423834671
+                    ],
+                    [
+                        "deliberate choice",
+                        0.4136058423834671
+                    ],
+                    [
+                        "nice approximation",
+                        0.4136058423834671
+                    ],
+                    [
+                        "volt sorry",
+                        0.4136058423834671
+                    ],
+                    [
+                        "relative set",
+                        0.43415328998619146
+                    ],
+                    [
+                        "relative error",
+                        0.43415328998619146
+                    ],
+                    [
+                        "mathematician",
+                        0.43751554863472875
+                    ],
+                    [
+                        "point",
+                        0.49178757291270775
+                    ],
+                    [
+                        "time 2pi",
+                        0.5171515085639167
+                    ],
+                    [
+                        "sign",
+                        0.5409151765174435
+                    ],
+                    [
+                        "imaginary",
+                        0.5409151765174435
+                    ],
+                    [
+                        "single",
+                        0.5409151765174435
+                    ],
+                    [
+                        "current",
+                        0.5409151765174435
+                    ],
+                    [
+                        "simplified",
+                        0.5409151765174435
+                    ],
+                    [
+                        "observation",
+                        0.5409151765174435
+                    ],
+                    [
+                        "technique",
+                        0.5409151765174435
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "circuit",
+                        0.37647417882442025
+                    ],
+                    [
+                        "angular frequency",
+                        0.37725041660354774
+                    ],
+                    [
+                        "point",
+                        0.49178757291270775
+                    ],
+                    [
+                        "current",
+                        0.5409151765174435
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-2070": {
+            "id": "yUdiM3j1W9k-2070",
+            "heat": 0.337,
+            "start": 2070.0,
+            "text": " may note that it's odd that we're mixing radians and degrees however there is a justification for this well recall that our phase shifts are 180 degrees or less or PI radians or less now you have to ask yourself I know what 120 degrees looks like is it really obvious at 2.0 94 or 2 PI over 3 is on negative is 120 degrees how quickly you can very quickly tell 45 degrees is that on the other hand remembering that 45 degrees is 0.78 5 radians it's a little bit more difficult also is it entirely obvious that two point nine four two point zero nine four and zero point five two four are orthogonal they differ by 45 degrees even if we were to add multiples of Pi in there it would not be obvious that these two are orthogonal finally three phase power requires roots of unity and these are even worse if we want to write them with radians they're very easy to write in terms of degrees so in summary we've discussed sums of sinusoidal functions we've seen how the",
+            "metrics": {
+                "relativeDCReadability": 0.07277533503700151,
+                "lexicalDiversity": 0.5520833333333334,
+                "posComposition": {
+                    "MD": 0.016,
+                    "VB": 0.042,
+                    "IN": 0.125,
+                    "PRP": 0.089,
+                    "VBZ": 0.052,
+                    "JJ": 0.068,
+                    "VBP": 0.062,
+                    "VBG": 0.01,
+                    "NNS": 0.099,
+                    "CC": 0.036,
+                    "RB": 0.073,
+                    "EX": 0.01,
+                    "DT": 0.036,
+                    "NN": 0.057,
+                    "PRP$": 0.005,
+                    "CD": 0.13,
+                    "JJR": 0.016,
+                    "NNPS": 0.01,
+                    "TO": 0.021,
+                    "WP": 0.005,
+                    "WRB": 0.01,
+                    "RBR": 0.005,
+                    "VBD": 0.005,
+                    "NNP": 0.005,
+                    "VBN": 0.01
+                },
+                "syllableRate": 2.217,
+                "topicScores": [
+                    [
+                        "degree",
+                        0.2377358214897627
+                    ],
+                    [
+                        "radian",
+                        0.30923312336831327
+                    ],
+                    [
+                        "obvious",
+                        0.3369116282480993
+                    ],
+                    [
+                        "point",
+                        0.3369116282480993
+                    ],
+                    [
+                        "orthogonal",
+                        0.4204348061582928
+                    ],
+                    [
+                        "phase",
+                        0.4350618087883602
+                    ],
+                    [
+                        "PI",
+                        0.4477123916652296
+                    ],
+                    [
+                        "PI radian",
+                        0.4737636385241358
+                    ],
+                    [
+                        "odd",
+                        0.66914413247504
+                    ],
+                    [
+                        "justification",
+                        0.66914413247504
+                    ],
+                    [
+                        "recall",
+                        0.66914413247504
+                    ],
+                    [
+                        "shift",
+                        0.66914413247504
+                    ],
+                    [
+                        "negative",
+                        0.66914413247504
+                    ],
+                    [
+                        "hand",
+                        0.66914413247504
+                    ],
+                    [
+                        "little",
+                        0.66914413247504
+                    ],
+                    [
+                        "bit",
+                        0.66914413247504
+                    ],
+                    [
+                        "difficult",
+                        0.66914413247504
+                    ],
+                    [
+                        "multiple",
+                        0.66914413247504
+                    ],
+                    [
+                        "power",
+                        0.66914413247504
+                    ],
+                    [
+                        "root",
+                        0.66914413247504
+                    ],
+                    [
+                        "unity",
+                        0.66914413247504
+                    ],
+                    [
+                        "bad",
+                        0.66914413247504
+                    ],
+                    [
+                        "easy",
+                        0.66914413247504
+                    ],
+                    [
+                        "term",
+                        0.66914413247504
+                    ],
+                    [
+                        "summary",
+                        0.66914413247504
+                    ],
+                    [
+                        "sinusoidal",
+                        0.66914413247504
+                    ],
+                    [
+                        "function",
+                        0.66914413247504
+                    ],
+                    [
+                        "little bit",
+                        0.8107867954577986
+                    ],
+                    [
+                        "sinusoidal function",
+                        0.8107867954577986
+                    ],
+                    [
+                        "phase shift",
+                        0.8567095127430995
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "degree",
+                        0.2377358214897627
+                    ],
+                    [
+                        "point",
+                        0.3369116282480993
+                    ],
+                    [
+                        "phase",
+                        0.4350618087883602
+                    ],
+                    [
+                        "function",
+                        0.66914413247504
+                    ],
+                    [
+                        "phase shift",
+                        0.8567095127430995
+                    ]
+                ]
+            }
+        },
+        "yUdiM3j1W9k-2160": {
+            "id": "yUdiM3j1W9k-2160",
+            "heat": 0.521,
+            "start": 2160.0,
+            "text": " trigonometry is exceptionally annoying and we saw that instead we can associate every single sinusoid as long as the frequency remains same angular frequency by new phase V where nu is the amplitude and fee is the phase shift therefore we can transform some of trigonometric functions into a problem of summing complex numbers once we have some of those complex numbers we can transform back to a unique sinusoid we explain why this is true using complex Exponential's and then we describe phasor multiplication and phasor inverses and then we saw how we could use phasers to solve simple linear circuits so I'd like to thank dr. nearing for assistance and answering questions and hua Shan Chen who noticed a few errors in my slides remember to contribute with the Waterloo engineering and diamond fund and hopefully you have a little bit better understanding as to what phasers do thank you very much for your time have a good day",
+            "metrics": {
+                "relativeDCReadability": 0.06780071720801885,
+                "lexicalDiversity": 0.5214723926380368,
+                "posComposition": {
+                    "NN": 0.147,
+                    "VBZ": 0.031,
+                    "RB": 0.067,
+                    "JJ": 0.104,
+                    "CC": 0.055,
+                    "PRP": 0.074,
+                    "VBD": 0.018,
+                    "IN": 0.086,
+                    "MD": 0.031,
+                    "VB": 0.061,
+                    "DT": 0.086,
+                    "NNP": 0.031,
+                    "WRB": 0.018,
+                    "NNS": 0.061,
+                    "VBG": 0.025,
+                    "VBP": 0.037,
+                    "TO": 0.031,
+                    "POS": 0.006,
+                    "WP": 0.012,
+                    "PRP$": 0.012,
+                    "RBR": 0.006
+                },
+                "syllableRate": 2.133,
+                "topicScores": [
+                    [
+                        "Shan Chen",
+                        0.32930495874966526
+                    ],
+                    [
+                        "complex",
+                        0.33113136040896024
+                    ],
+                    [
+                        "complex Exponential",
+                        0.356722481785991
+                    ],
+                    [
+                        "phase v",
+                        0.36319811663959367
+                    ],
+                    [
+                        "number",
+                        0.37845419260058677
+                    ],
+                    [
+                        "phasor",
+                        0.4022667347470865
+                    ],
+                    [
+                        "new phase v",
+                        0.4098629744327505
+                    ],
+                    [
+                        "complex number",
+                        0.41582018204815535
+                    ],
+                    [
+                        "sinusoid",
+                        0.4234054741974112
+                    ],
+                    [
+                        "frequency",
+                        0.4234054741974112
+                    ],
+                    [
+                        "linear circuit",
+                        0.4256800639035236
+                    ],
+                    [
+                        "hua Shan Chen",
+                        0.44230797107953235
+                    ],
+                    [
+                        "simple linear circuit",
+                        0.47020870608311194
+                    ],
+                    [
+                        "Waterloo",
+                        0.4977219830850586
+                    ],
+                    [
+                        "trigonometry",
+                        0.5096436852710908
+                    ],
+                    [
+                        "Waterloo engineering",
+                        0.5460880219827662
+                    ],
+                    [
+                        "day",
+                        0.6100154398149511
+                    ],
+                    [
+                        "annoying",
+                        0.618896397712328
+                    ],
+                    [
+                        "single",
+                        0.618896397712328
+                    ],
+                    [
+                        "angular",
+                        0.618896397712328
+                    ],
+                    [
+                        "amplitude",
+                        0.618896397712328
+                    ],
+                    [
+                        "fee",
+                        0.618896397712328
+                    ],
+                    [
+                        "shift",
+                        0.618896397712328
+                    ],
+                    [
+                        "function",
+                        0.618896397712328
+                    ],
+                    [
+                        "problem",
+                        0.618896397712328
+                    ],
+                    [
+                        "unique",
+                        0.618896397712328
+                    ],
+                    [
+                        "true",
+                        0.618896397712328
+                    ],
+                    [
+                        "multiplication",
+                        0.618896397712328
+                    ],
+                    [
+                        "inverse",
+                        0.618896397712328
+                    ],
+                    [
+                        "trigonometric function",
+                        0.6208315786373028
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "complex",
+                        0.33113136040896024
+                    ],
+                    [
+                        "complex Exponential",
+                        0.356722481785991
+                    ],
+                    [
+                        "complex number",
+                        0.41582018204815535
+                    ],
+                    [
+                        "sinusoid",
+                        0.4234054741974112
+                    ],
+                    [
+                        "function",
+                        0.618896397712328
+                    ]
+                ]
+            }
+        }
+    }
+}

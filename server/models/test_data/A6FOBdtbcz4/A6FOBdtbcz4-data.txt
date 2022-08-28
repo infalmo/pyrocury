@@ -1,0 +1,5178 @@
+{
+    "metadata": {
+        "id": "A6FOBdtbcz4",
+        "avgHeat": 0.36,
+        "runtime": 2240.6,
+        "dale-challReadabilityScore": 7.7243114852370836,
+        "lexicalDiversity": 0.508547666718004,
+        "posComposition": {
+            "DT": 0.097,
+            "JJ": 0.069,
+            "NN": 0.145,
+            "VBZ": 0.049,
+            "VBN": 0.011,
+            "IN": 0.11,
+            "NNP": 0.019,
+            "PRP$": 0.005,
+            "MD": 0.024,
+            "VB": 0.062,
+            "VBP": 0.046,
+            "TO": 0.03,
+            "NNS": 0.052,
+            "CC": 0.037,
+            "RB": 0.069,
+            "WP": 0.007,
+            "PRP": 0.067,
+            "VBG": 0.023,
+            "WDT": 0.013,
+            "RBR": 0.007,
+            "VBD": 0.005,
+            "PDT": 0.001,
+            "WRB": 0.01,
+            "CD": 0.018,
+            "JJR": 0.007,
+            "RP": 0.004,
+            ":": 0.004,
+            "POS": 0.004,
+            "EX": 0.004,
+            "JJS": 0.0,
+            "UH": 0.0,
+            "RBS": 0.0
+        },
+        "syllableRate": 4.138,
+        "topicScores": [
+            [
+                "ok",
+                0.05473173589385617
+            ],
+            [
+                "input",
+                0.12427110173779725
+            ],
+            [
+                "labor",
+                0.1290102602308196
+            ],
+            [
+                "capital",
+                0.1295946215375723
+            ],
+            [
+                "production",
+                0.12994577524968462
+            ],
+            [
+                "run",
+                0.13791578709041427
+            ],
+            [
+                "worker",
+                0.14188882216244425
+            ],
+            [
+                "scale",
+                0.14980205694479404
+            ],
+            [
+                "return",
+                0.15303642417234048
+            ],
+            [
+                "marginal",
+                0.15361150378710306
+            ],
+            [
+                "unit",
+                0.15529962454723173
+            ],
+            [
+                "firm",
+                0.16483562417797828
+            ],
+            [
+                "PROFESSOR",
+                0.16843410848101067
+            ],
+            [
+                "good",
+                0.17574836077414974
+            ],
+            [
+                "isoquant",
+                0.17661616257674478
+            ],
+            [
+                "increase",
+                0.17898865809692907
+            ],
+            [
+                "audience",
+                0.1833314566063342
+            ],
+            [
+                "Creative Commons",
+                0.18408422679877914
+            ],
+            [
+                "output",
+                0.1850927266419447
+            ],
+            [
+                "curve",
+                0.1857496786691356
+            ],
+            [
+                "function",
+                0.18679735348495818
+            ],
+            [
+                "short",
+                0.1933310319204065
+            ],
+            [
+                "long",
+                0.19509849102886745
+            ],
+            [
+                "little",
+                0.20093389009896273
+            ],
+            [
+                "day",
+                0.20228392201334466
+            ],
+            [
+                "change",
+                0.20734064886071749
+            ],
+            [
+                "variable",
+                0.21009830851529465
+            ],
+            [
+                "rate",
+                0.21124904656021434
+            ],
+            [
+                "theory",
+                0.21299254150217117
+            ],
+            [
+                "utility",
+                0.21310404552717682
+            ]
+        ],
+        "topicsList": [
+            "ok",
+            "input",
+            "labor",
+            "capital",
+            "production",
+            "run",
+            "worker",
+            "scale",
+            "return",
+            "marginal",
+            "unit",
+            "firm",
+            "PROFESSOR",
+            "good",
+            "isoquant",
+            "increase",
+            "audience",
+            "Creative Commons",
+            "output",
+            "curve",
+            "function",
+            "short",
+            "long",
+            "little",
+            "day",
+            "change",
+            "variable",
+            "rate",
+            "theory",
+            "utility"
+        ]
+    },
+    "chunks": {
+        "A6FOBdtbcz4-0": {
+            "id": "A6FOBdtbcz4-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. PROFESSOR: Now what I'm going to do is, I'm going to turn and start producer theory, OK, which will not be in the exam, but be the next subject to the course. OK, and we're going to spend a little bit longer on this. So what we've been doing so far is saying, look, we introduced the course with supply and demand curves, elasticities, all that. Hint, all that's on the exam too. OK, and all that. Then we say, well gee, where do supply and demand curves come from? Well, demand curves come from utility maximization. And we talked about how where indifference curves come from, how the tangency with the budget constraints leads to the demand curve. That's where demand curves come from. We talked about what underlies demand curves is income and substitution effects. OK, now let's come to supply curves. What underlies supply curves? Now on the one hand, this will be much easier than demand curves, because a lot of the logic is the same. So we can march more quickly through the analysis, because it's basically the same kind of tangency of curves with straight lines that yield supply curves that we've seen with consumer theory. On the other hand, supply curves are a ton harder, because now we don't just have the",
+            "metrics": {
+                "relativeDCReadability": 1.0760139182051076,
+                "lexicalDiversity": 0.5073529411764706,
+                "posComposition": {
+                    "DT": 0.099,
+                    "JJ": 0.048,
+                    "NN": 0.165,
+                    "VBZ": 0.048,
+                    "VBN": 0.015,
+                    "IN": 0.11,
+                    "NNP": 0.044,
+                    "PRP$": 0.004,
+                    "MD": 0.015,
+                    "VB": 0.055,
+                    "VBP": 0.07,
+                    "TO": 0.029,
+                    "NNS": 0.062,
+                    "CC": 0.033,
+                    "RB": 0.059,
+                    "WP": 0.015,
+                    "PRP": 0.048,
+                    "VBG": 0.018,
+                    "WDT": 0.015,
+                    "RBR": 0.007,
+                    "VBD": 0.011,
+                    "PDT": 0.004,
+                    "WRB": 0.018,
+                    "CD": 0.004,
+                    "JJR": 0.004
+                },
+                "syllableRate": 3.367,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.20127866894305735
+                    ],
+                    [
+                        "curve",
+                        0.21582254481299296
+                    ],
+                    [
+                        "MIT",
+                        0.24927937168908765
+                    ],
+                    [
+                        "demand",
+                        0.27070400987226984
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.2844215944203462
+                    ],
+                    [
+                        "supply",
+                        0.3057282403646847
+                    ],
+                    [
+                        "course",
+                        0.4159952920824721
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.44648266786974206
+                    ],
+                    [
+                        "exam",
+                        0.5404563530533338
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5491745562865417
+                    ],
+                    [
+                        "theory",
+                        0.5565089235496007
+                    ],
+                    [
+                        "hand",
+                        0.5615760467591767
+                    ],
+                    [
+                        "tangency",
+                        0.5716538218286692
+                    ],
+                    [
+                        "MIT course",
+                        0.7088063441650782
+                    ],
+                    [
+                        "demand curve",
+                        0.7145227544208254
+                    ],
+                    [
+                        "following",
+                        0.8016255727061804
+                    ],
+                    [
+                        "content",
+                        0.8129388964827169
+                    ],
+                    [
+                        "free",
+                        0.8390748885477791
+                    ],
+                    [
+                        "support",
+                        0.8587908071498254
+                    ],
+                    [
+                        "ocw.mit.edu",
+                        0.8637004511238746
+                    ],
+                    [
+                        "high",
+                        0.8673833294603659
+                    ],
+                    [
+                        "quality",
+                        0.8673833294603659
+                    ],
+                    [
+                        "educational",
+                        0.8673833294603659
+                    ],
+                    [
+                        "resource",
+                        0.8673833294603659
+                    ],
+                    [
+                        "donation",
+                        0.8882539057881272
+                    ],
+                    [
+                        "additional",
+                        0.8882539057881272
+                    ],
+                    [
+                        "material",
+                        0.8882539057881272
+                    ],
+                    [
+                        "hundred",
+                        0.8882539057881272
+                    ],
+                    [
+                        "Hint",
+                        0.8888660999323783
+                    ],
+                    [
+                        "producer",
+                        0.8928509024066168
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.20127866894305735
+                    ],
+                    [
+                        "curve",
+                        0.21582254481299296
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5491745562865417
+                    ],
+                    [
+                        "theory",
+                        0.5565089235496007
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-90": {
+            "id": "A6FOBdtbcz4-90",
+            "heat": 0.355,
+            "start": 90.0,
+            "text": " price as given to consumers. The suppliers actually make up the price. With consumers, we said the price -- you just went to the store. you're given a price. And you choose what to buy at those prices. Well, who set those prices? Producers do. And that's what determines the underlying supply curve. So life gets a little bit more difficult with producers. And that's why I'll probably spend about twice as many lectures talking about producer theory as we've spent talking about consumer theory. Now, let's go to the basics. The basics are, just as we had consumers making decisions, we thought of a consumer as somebody choosing across a bundle of goods, pizza versus movies, now we're going to think of a producer very simply as a black box, where inputs go in and outputs come out. So think of the firm. Let's think of a firm, a producer, as just some black box. We're literally thinking a flow chart. You've got inputs that go in and outputs that come out. And that black box, that firm, just as individuals have a simple goal which is to maximize their utility, producers have a simple goal which is to maximize their profits. And profits are defined as revenue minus cost. OK? Producers are these black boxes, where their goal is to maximize their profits, which is revenue minus cost. And the",
+            "metrics": {
+                "relativeDCReadability": 0.9982471993931015,
+                "lexicalDiversity": 0.5206611570247934,
+                "posComposition": {
+                    "NN": 0.153,
+                    "IN": 0.099,
+                    "VBN": 0.025,
+                    "TO": 0.033,
+                    "NNS": 0.099,
+                    "DT": 0.107,
+                    "RB": 0.062,
+                    "VBP": 0.07,
+                    "RP": 0.012,
+                    "PRP": 0.05,
+                    "VBD": 0.021,
+                    ":": 0.004,
+                    "CC": 0.033,
+                    "WP": 0.012,
+                    "VB": 0.033,
+                    "VBZ": 0.033,
+                    "JJ": 0.058,
+                    "NNP": 0.012,
+                    "RBR": 0.004,
+                    "WRB": 0.012,
+                    "MD": 0.004,
+                    "VBG": 0.025,
+                    "POS": 0.004,
+                    "WDT": 0.017,
+                    "PRP$": 0.017
+                },
+                "syllableRate": 2.883,
+                "topicScores": [
+                    [
+                        "price",
+                        0.29613399635917487
+                    ],
+                    [
+                        "producer",
+                        0.29623454523680204
+                    ],
+                    [
+                        "consumer",
+                        0.3476113761567624
+                    ],
+                    [
+                        "box",
+                        0.3705759970146853
+                    ],
+                    [
+                        "black",
+                        0.3764225786459582
+                    ],
+                    [
+                        "firm",
+                        0.44251282614240134
+                    ],
+                    [
+                        "profit",
+                        0.44264181960475685
+                    ],
+                    [
+                        "goal",
+                        0.4447240698550083
+                    ],
+                    [
+                        "cost",
+                        0.5432530754733131
+                    ],
+                    [
+                        "basic",
+                        0.5568163814310837
+                    ],
+                    [
+                        "output",
+                        0.565234116972799
+                    ],
+                    [
+                        "simple",
+                        0.5663125216149332
+                    ],
+                    [
+                        "theory",
+                        0.5711358115101821
+                    ],
+                    [
+                        "input",
+                        0.5736057364631963
+                    ],
+                    [
+                        "revenue",
+                        0.5748098217581578
+                    ],
+                    [
+                        "store",
+                        0.8872874781721436
+                    ],
+                    [
+                        "supplier",
+                        0.8933443620698936
+                    ],
+                    [
+                        "curve",
+                        0.9114062650465728
+                    ],
+                    [
+                        "chart",
+                        0.9220929459995043
+                    ],
+                    [
+                        "supply",
+                        0.9250392250339604
+                    ],
+                    [
+                        "life",
+                        0.9269791357540568
+                    ],
+                    [
+                        "underlying",
+                        0.9307321328330213
+                    ],
+                    [
+                        "decision",
+                        0.931270311321274
+                    ],
+                    [
+                        "good",
+                        0.931270311321274
+                    ],
+                    [
+                        "pizza",
+                        0.931270311321274
+                    ],
+                    [
+                        "movie",
+                        0.931270311321274
+                    ],
+                    [
+                        "little",
+                        0.9325354615021946
+                    ],
+                    [
+                        "bit",
+                        0.9325354615021946
+                    ],
+                    [
+                        "difficult",
+                        0.9325354615021946
+                    ],
+                    [
+                        "lecture",
+                        0.9340623343754796
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "firm",
+                        0.44251282614240134
+                    ],
+                    [
+                        "output",
+                        0.565234116972799
+                    ],
+                    [
+                        "theory",
+                        0.5711358115101821
+                    ],
+                    [
+                        "input",
+                        0.5736057364631963
+                    ],
+                    [
+                        "curve",
+                        0.9114062650465728
+                    ],
+                    [
+                        "good",
+                        0.931270311321274
+                    ],
+                    [
+                        "little",
+                        0.9325354615021946
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-180": {
+            "id": "A6FOBdtbcz4-180",
+            "heat": 0.323,
+            "start": 180.0,
+            "text": " key to maximizing profits is efficient production. The key to maximizing profits is going to be to produce goods as efficiently as possible. OK, so profit maximization requires production efficiency. To maximize your profits, you need to produce as efficiently as possible. Now, you might ask yourself, gee, I can read about all these companies that have executive corporate jets, and the guys in these lavish lifestyles, and that doesn't seem very efficient production. I'll come back to that. OK, in a couple of lectures, we'll talk about do firms actually maximize profits, and whether they do or not. But for now, let's take as a given that they do. OK, just as it is a given that consumers maximize utility, let's take as a given that firms maximize their profits. OK? Now, to decide how to efficiently produce goods, we're going to turn and today discuss firm production functions. OK, today, we'll focus on production functions. That's essentially the technology by which a firm",
+            "metrics": {
+                "relativeDCReadability": 1.2547035854983901,
+                "lexicalDiversity": 0.5317919075144508,
+                "posComposition": {
+                    "NN": 0.098,
+                    "TO": 0.058,
+                    "VBG": 0.023,
+                    "NNS": 0.098,
+                    "VBZ": 0.035,
+                    "JJ": 0.058,
+                    "DT": 0.069,
+                    "VB": 0.092,
+                    "RB": 0.104,
+                    "IN": 0.098,
+                    "NNP": 0.012,
+                    "PRP$": 0.012,
+                    "PRP": 0.069,
+                    "VBP": 0.058,
+                    "MD": 0.029,
+                    "PDT": 0.006,
+                    "WDT": 0.017,
+                    "CC": 0.035,
+                    "VBN": 0.017,
+                    "POS": 0.006,
+                    "WRB": 0.006
+                },
+                "syllableRate": 2.325,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.19198689804550834
+                    ],
+                    [
+                        "profit",
+                        0.2962814308869354
+                    ],
+                    [
+                        "production",
+                        0.3291519337757355
+                    ],
+                    [
+                        "firm",
+                        0.38596145557048916
+                    ],
+                    [
+                        "possible",
+                        0.4936518038208612
+                    ],
+                    [
+                        "key",
+                        0.5016223687671794
+                    ],
+                    [
+                        "efficient",
+                        0.5356051935179811
+                    ],
+                    [
+                        "function",
+                        0.5395938552093272
+                    ],
+                    [
+                        "good",
+                        0.5594840843422991
+                    ],
+                    [
+                        "today",
+                        0.5697753725641368
+                    ],
+                    [
+                        "maximization",
+                        0.9048654266995305
+                    ],
+                    [
+                        "corporate",
+                        0.9096390473194149
+                    ],
+                    [
+                        "jet",
+                        0.9096390473194149
+                    ],
+                    [
+                        "lavish",
+                        0.9096390473194149
+                    ],
+                    [
+                        "lifestyle",
+                        0.9096390473194149
+                    ],
+                    [
+                        "lecture",
+                        0.9166718960609472
+                    ],
+                    [
+                        "company",
+                        0.9166852950426192
+                    ],
+                    [
+                        "executive",
+                        0.9166852950426192
+                    ],
+                    [
+                        "guy",
+                        0.9166852950426192
+                    ],
+                    [
+                        "utility",
+                        0.9212536906334291
+                    ],
+                    [
+                        "couple",
+                        0.9232160223941259
+                    ],
+                    [
+                        "consumer",
+                        0.9274664604576336
+                    ],
+                    [
+                        "technology",
+                        0.932813038651501
+                    ],
+                    [
+                        "efficient production",
+                        1.6410101691118686
+                    ],
+                    [
+                        "production function",
+                        1.685885123449059
+                    ],
+                    [
+                        "profit maximization",
+                        3.042647048015452
+                    ],
+                    [
+                        "firm production",
+                        3.2106356420075937
+                    ],
+                    [
+                        "corporate jet",
+                        4.795193114294355
+                    ],
+                    [
+                        "lavish lifestyle",
+                        4.795193114294355
+                    ],
+                    [
+                        "executive corporate",
+                        5.018757040092576
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.19198689804550834
+                    ],
+                    [
+                        "production",
+                        0.3291519337757355
+                    ],
+                    [
+                        "firm",
+                        0.38596145557048916
+                    ],
+                    [
+                        "function",
+                        0.5395938552093272
+                    ],
+                    [
+                        "good",
+                        0.5594840843422991
+                    ],
+                    [
+                        "utility",
+                        0.9212536906334291
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-270": {
+            "id": "A6FOBdtbcz4-270",
+            "heat": 0.217,
+            "start": 270.0,
+            "text": " takes inputs, or what we call factors of production, and turns them into outputs, is through this production function. So just like your utility function is a tool for which we take bundles of goods and turn them into happiness, a production function is a tool for which we take bundles of inputs and turn them into outputs. OK, but something that's a little easier to understand this, you could think of a factory where stuff comes in, and think of a belt, a mechanical belt, going through and stuff goes in and other stuff comes out. You could think of that production function. We're going to think about two different kinds of inputs that firms are going to use. Once again, to make life easy, we're going to assume firms only use two kinds of inputs. Later, we'll expand this, but from mostly intuition you can get from thinking about this-- two kinds of inputs, labor and capital. Labor and capital are the two kinds of inputs firms use. Labor is clear. It's just hours of labor, hours of work. OK? It's just hours of work in production. Capital is a lot trickier. And we'll spend a lot of time this semester struggling with what capital really means. Basically for now, think of capital as everything else that goes into production, the machines, the buildings, the land, everything. Think of capital as everything else that goes into production. So basically, when you produce stuff, you produce it with workers working with stuff.",
+            "metrics": {
+                "relativeDCReadability": 0.9208403826136022,
+                "lexicalDiversity": 0.5325670498084292,
+                "posComposition": {
+                    "VBZ": 0.061,
+                    "NNS": 0.096,
+                    "CC": 0.046,
+                    "WP": 0.008,
+                    "PRP": 0.069,
+                    "VBP": 0.046,
+                    "IN": 0.169,
+                    "NN": 0.165,
+                    "DT": 0.073,
+                    "RB": 0.05,
+                    "PRP$": 0.004,
+                    "WDT": 0.011,
+                    "VB": 0.054,
+                    "JJ": 0.023,
+                    "JJR": 0.008,
+                    "TO": 0.019,
+                    "MD": 0.019,
+                    "WRB": 0.008,
+                    "VBG": 0.027,
+                    "RP": 0.004,
+                    "CD": 0.015,
+                    "NNP": 0.023,
+                    ":": 0.004
+                },
+                "syllableRate": 3.125,
+                "topicScores": [
+                    [
+                        "production",
+                        0.28070535380172973
+                    ],
+                    [
+                        "capital",
+                        0.304074307785086
+                    ],
+                    [
+                        "input",
+                        0.31652806401718764
+                    ],
+                    [
+                        "function",
+                        0.34443537071272373
+                    ],
+                    [
+                        "stuff",
+                        0.3444722967277418
+                    ],
+                    [
+                        "kind",
+                        0.3558870896005732
+                    ],
+                    [
+                        "labor",
+                        0.3689620396598039
+                    ],
+                    [
+                        "hour",
+                        0.43452785661823146
+                    ],
+                    [
+                        "firm",
+                        0.4420332764520699
+                    ],
+                    [
+                        "work",
+                        0.44389660012246046
+                    ],
+                    [
+                        "output",
+                        0.5106291562752301
+                    ],
+                    [
+                        "tool",
+                        0.5308902455404906
+                    ],
+                    [
+                        "bundle",
+                        0.53936621434398
+                    ],
+                    [
+                        "belt",
+                        0.5530266027116671
+                    ],
+                    [
+                        "easy",
+                        0.5617577665503021
+                    ],
+                    [
+                        "lot",
+                        0.5719078675580248
+                    ],
+                    [
+                        "factor",
+                        0.8836618308239846
+                    ],
+                    [
+                        "happiness",
+                        0.8956545800234195
+                    ],
+                    [
+                        "mechanical",
+                        0.8997340144786661
+                    ],
+                    [
+                        "utility",
+                        0.9022592536731329
+                    ],
+                    [
+                        "good",
+                        0.9022592536731329
+                    ],
+                    [
+                        "little",
+                        0.9123353278504367
+                    ],
+                    [
+                        "clear",
+                        0.9177185468855382
+                    ],
+                    [
+                        "life",
+                        0.9216032191667446
+                    ],
+                    [
+                        "different",
+                        0.9233057707868303
+                    ],
+                    [
+                        "tricky",
+                        0.9237245685099713
+                    ],
+                    [
+                        "intuition",
+                        0.9293575360087114
+                    ],
+                    [
+                        "this--",
+                        0.9293575360087114
+                    ],
+                    [
+                        "machine",
+                        0.9309949195039992
+                    ],
+                    [
+                        "building",
+                        0.9309949195039992
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "production",
+                        0.28070535380172973
+                    ],
+                    [
+                        "capital",
+                        0.304074307785086
+                    ],
+                    [
+                        "input",
+                        0.31652806401718764
+                    ],
+                    [
+                        "function",
+                        0.34443537071272373
+                    ],
+                    [
+                        "labor",
+                        0.3689620396598039
+                    ],
+                    [
+                        "firm",
+                        0.4420332764520699
+                    ],
+                    [
+                        "output",
+                        0.5106291562752301
+                    ],
+                    [
+                        "utility",
+                        0.9022592536731329
+                    ],
+                    [
+                        "good",
+                        0.9022592536731329
+                    ],
+                    [
+                        "little",
+                        0.9123353278504367
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-360": {
+            "id": "A6FOBdtbcz4-360",
+            "heat": 0.215,
+            "start": 360.0,
+            "text": " Capital's the stuff. Now, this capital is sort of a composite of everything else that goes into production. And once again, we'll add some more detail on this later. OK, and the output is some output, q. That's the units of production. That's the output that is produced by the firm. So basically, we can think of a production function is q is some function of l and k. That's a production function, that the output you produce as your firm-- and by the way, we're going to use little q to represent a firm's output, and big Q to represent market output. OK, so little q, and if I slip in this, yell at me, OK? But we're going to try to consistently use little q to represent a given firm's output, and big Q to be the market's output-- So little q is some function of the amount of workers you have and the amount of capital you use. Now, the important distinction we're going to make here is between variable versus fixed inputs. Variable versus fixed inputs is an important distinction we're going to draw. Variable inputs are inputs that are easily changed, like how many hours somebody works. In principle, you could just have some work five hours one day, one hour the next day, 10 hours the day after that.",
+            "metrics": {
+                "relativeDCReadability": 1.1341696401922463,
+                "lexicalDiversity": 0.5397489539748954,
+                "posComposition": {
+                    "NN": 0.218,
+                    "POS": 0.017,
+                    "DT": 0.126,
+                    "RB": 0.05,
+                    "VBZ": 0.054,
+                    "IN": 0.092,
+                    "CC": 0.038,
+                    "PRP": 0.05,
+                    "MD": 0.013,
+                    "VB": 0.054,
+                    "JJR": 0.004,
+                    "JJ": 0.059,
+                    "NNP": 0.017,
+                    "VBD": 0.004,
+                    "NNS": 0.038,
+                    "WDT": 0.013,
+                    "VBN": 0.025,
+                    "VBP": 0.042,
+                    "PRP$": 0.004,
+                    ":": 0.008,
+                    "VBG": 0.017,
+                    "TO": 0.038,
+                    "WRB": 0.004,
+                    "CD": 0.017
+                },
+                "syllableRate": 2.833,
+                "topicScores": [
+                    [
+                        "q",
+                        0.2732673101580261
+                    ],
+                    [
+                        "output",
+                        0.2862221964918537
+                    ],
+                    [
+                        "production",
+                        0.35342578395737595
+                    ],
+                    [
+                        "little",
+                        0.3544303247435643
+                    ],
+                    [
+                        "function",
+                        0.37071631706170177
+                    ],
+                    [
+                        "input",
+                        0.37411388163748344
+                    ],
+                    [
+                        "Capital",
+                        0.38791365124871696
+                    ],
+                    [
+                        "hour",
+                        0.3893276817904532
+                    ],
+                    [
+                        "firm",
+                        0.4259894764999181
+                    ],
+                    [
+                        "variable",
+                        0.433629058665698
+                    ],
+                    [
+                        "day",
+                        0.45146037636560143
+                    ],
+                    [
+                        "big",
+                        0.5453258527989525
+                    ],
+                    [
+                        "distinction",
+                        0.5567662299185606
+                    ],
+                    [
+                        "important",
+                        0.5592703878175631
+                    ],
+                    [
+                        "market",
+                        0.567362392052478
+                    ],
+                    [
+                        "work",
+                        0.5700750234666252
+                    ],
+                    [
+                        "little q",
+                        0.7375511560124357
+                    ],
+                    [
+                        "stuff",
+                        0.7764654945218731
+                    ],
+                    [
+                        "composite",
+                        0.8722551193499952
+                    ],
+                    [
+                        "detail",
+                        0.8924540589146331
+                    ],
+                    [
+                        "k.",
+                        0.8969215425646946
+                    ],
+                    [
+                        "unit",
+                        0.910462367811899
+                    ],
+                    [
+                        "way",
+                        0.9156930118567648
+                    ],
+                    [
+                        "principle",
+                        0.9209739026622625
+                    ],
+                    [
+                        "worker",
+                        0.928002578826051
+                    ],
+                    [
+                        "big Q",
+                        1.3230976909113399
+                    ],
+                    [
+                        "production function",
+                        1.5178561078350845
+                    ],
+                    [
+                        "important distinction",
+                        2.2662576240324563
+                    ],
+                    [
+                        "variable input",
+                        3.054446912534218
+                    ],
+                    [
+                        "market output",
+                        3.3889353864822844
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "output",
+                        0.2862221964918537
+                    ],
+                    [
+                        "production",
+                        0.35342578395737595
+                    ],
+                    [
+                        "little",
+                        0.3544303247435643
+                    ],
+                    [
+                        "function",
+                        0.37071631706170177
+                    ],
+                    [
+                        "input",
+                        0.37411388163748344
+                    ],
+                    [
+                        "firm",
+                        0.4259894764999181
+                    ],
+                    [
+                        "variable",
+                        0.433629058665698
+                    ],
+                    [
+                        "day",
+                        0.45146037636560143
+                    ],
+                    [
+                        "unit",
+                        0.910462367811899
+                    ],
+                    [
+                        "worker",
+                        0.928002578826051
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-450": {
+            "id": "A6FOBdtbcz4-450",
+            "heat": 0.184,
+            "start": 450.0,
+            "text": " It's easy to change hours of work. So that's a variable input. Fixed inputs are things which are harder to change quickly, like the size of the building that the workers are building in. Once that building's built, it's pretty hard to change it. You can't like lop off 2/3 of it on one day and add it back the next day. OK, that's more of the fixed inputs. And this will lead to a critical distinction for production theory, which is the short run versus the long run. The short run versus the long run. The long run is the period over which all inputs are variable. The short run is a period over which some inputs are fixed. Let me say it again, it's very important. The short run is the period over which some inputs are fixed. The long run is the period over which all inputs are variable. Now, what does that mean? I can't tell you. OK? I can tell you that, clearly, tomorrow is the short run. Clearly, you can't vary all your inputs over one day. And probably next month is the short run. And probably even next year is the short run. There's a lot of inputs that it takes more than a month to change, or a year to change. On the other hand, 10 years from now is almost certainly the long run. There's very few inputs to production you can't change over a 10-year period. So we know a day are the short run. And we know 10 years is the long run.",
+            "metrics": {
+                "relativeDCReadability": 0.8838928839295278,
+                "lexicalDiversity": 0.5072463768115942,
+                "posComposition": {
+                    "PRP": 0.065,
+                    "VBZ": 0.069,
+                    "JJ": 0.098,
+                    "TO": 0.025,
+                    "VB": 0.054,
+                    "NNS": 0.051,
+                    "IN": 0.098,
+                    "NN": 0.145,
+                    "NNP": 0.018,
+                    "WDT": 0.029,
+                    "DT": 0.134,
+                    "VBP": 0.036,
+                    "JJR": 0.011,
+                    "RB": 0.065,
+                    "VBG": 0.004,
+                    "POS": 0.004,
+                    "MD": 0.022,
+                    "RP": 0.007,
+                    "CD": 0.018,
+                    "CC": 0.022,
+                    "VBN": 0.011,
+                    "WP": 0.004,
+                    "PRP$": 0.004,
+                    "EX": 0.007
+                },
+                "syllableRate": 2.942,
+                "topicScores": [
+                    [
+                        "run",
+                        0.16694412415126997
+                    ],
+                    [
+                        "short",
+                        0.22324897625347814
+                    ],
+                    [
+                        "input",
+                        0.24720640714642694
+                    ],
+                    [
+                        "short run",
+                        0.27043657286900213
+                    ],
+                    [
+                        "long",
+                        0.2774950559191664
+                    ],
+                    [
+                        "period",
+                        0.3107924249481487
+                    ],
+                    [
+                        "year",
+                        0.3436796033363616
+                    ],
+                    [
+                        "long run",
+                        0.36794827390638
+                    ],
+                    [
+                        "day",
+                        0.3855290846635835
+                    ],
+                    [
+                        "variable",
+                        0.42454053678294085
+                    ],
+                    [
+                        "hard",
+                        0.540199867230764
+                    ],
+                    [
+                        "building",
+                        0.5585493916051345
+                    ],
+                    [
+                        "production",
+                        0.5801675398764856
+                    ],
+                    [
+                        "month",
+                        0.5852755251671455
+                    ],
+                    [
+                        "work",
+                        0.818950902916854
+                    ],
+                    [
+                        "easy",
+                        0.8472018584624921
+                    ],
+                    [
+                        "hour",
+                        0.8472018584624921
+                    ],
+                    [
+                        "thing",
+                        0.9102449132346142
+                    ],
+                    [
+                        "size",
+                        0.9102449132346142
+                    ],
+                    [
+                        "worker",
+                        0.9102449132346142
+                    ],
+                    [
+                        "important",
+                        0.9278023276821288
+                    ],
+                    [
+                        "theory",
+                        0.9286101420599221
+                    ],
+                    [
+                        "critical",
+                        0.9328373038484546
+                    ],
+                    [
+                        "distinction",
+                        0.9328373038484546
+                    ],
+                    [
+                        "tomorrow",
+                        0.9422230126966871
+                    ],
+                    [
+                        "hand",
+                        0.9449604480524045
+                    ],
+                    [
+                        "lot",
+                        0.9478354405295715
+                    ],
+                    [
+                        "year period",
+                        2.4931801737641046
+                    ],
+                    [
+                        "variable input",
+                        2.6513507978232833
+                    ],
+                    [
+                        "production theory",
+                        5.844518933895465
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "run",
+                        0.16694412415126997
+                    ],
+                    [
+                        "short",
+                        0.22324897625347814
+                    ],
+                    [
+                        "input",
+                        0.24720640714642694
+                    ],
+                    [
+                        "long",
+                        0.2774950559191664
+                    ],
+                    [
+                        "day",
+                        0.3855290846635835
+                    ],
+                    [
+                        "variable",
+                        0.42454053678294085
+                    ],
+                    [
+                        "production",
+                        0.5801675398764856
+                    ],
+                    [
+                        "worker",
+                        0.9102449132346142
+                    ],
+                    [
+                        "theory",
+                        0.9286101420599221
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-540": {
+            "id": "A6FOBdtbcz4-540",
+            "heat": 0.178,
+            "start": 540.0,
+            "text": " We don't really know where the transition is, but in substance that doesn't matter for you guys. What matters is the definition of short run, long run. When someone asks you what the long run is, you say it's the period of time over which all inputs are variable. That's what matters. So it doesn't matter if you define it in days or months or years. It's a theoretical concept, which the break from the short run to the long run is the break between when some inputs are fixed and all inputs are variable. OK? Now of course, once again this is tricky. And economists recognize this subtlety. A lot of times, economists will talk about quasi-fixed factors of production, which are things which could change in between the short run and the long run. So for instance, take labor. OK, we'll talk about labor as a variable unit of production you can change in the short run. But in fact, we know in practice you can't. Most jobs, you can't ask the guys to come for an hour one day, and 10 hours the next day, five hours the day after that, maybe some jobs like hourly construction. But most jobs you guys will have, OK, your labor isn't that variable. We're typically on some kind of reasonably set work schedule. Now that work schedule can evolve. OK, but it can't change day by day. None of us are going to have jobs where they're going to say, look, work two hours today, 12 hours the next day, et cetera. OK, we're all going to have jobs with a fairly smooth distribution. There'll be peaks and valleys, but a fairly smooth distribution of our labor effort. So really, truly, there's very few inputs which are truly perfectly variable. OK? Just like there are no inputs which are truly perfectly",
+            "metrics": {
+                "relativeDCReadability": 0.9398580646183857,
+                "lexicalDiversity": 0.5229357798165137,
+                "posComposition": {
+                    "PRP": 0.061,
+                    "VBP": 0.055,
+                    "RB": 0.083,
+                    "VB": 0.058,
+                    "WRB": 0.012,
+                    "DT": 0.098,
+                    "NN": 0.159,
+                    "VBZ": 0.043,
+                    "CC": 0.037,
+                    "IN": 0.107,
+                    "WDT": 0.021,
+                    "WP": 0.009,
+                    "NNS": 0.08,
+                    "JJ": 0.067,
+                    "TO": 0.015,
+                    "VBN": 0.006,
+                    "NNP": 0.012,
+                    "MD": 0.031,
+                    "CD": 0.015,
+                    "JJS": 0.003,
+                    "PRP$": 0.006,
+                    "UH": 0.003,
+                    "VBG": 0.009,
+                    "EX": 0.009
+                },
+                "syllableRate": 3.742,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.18831990725617517
+                    ],
+                    [
+                        "run",
+                        0.23607148923017682
+                    ],
+                    [
+                        "day",
+                        0.2961333889321212
+                    ],
+                    [
+                        "variable",
+                        0.3310925040958016
+                    ],
+                    [
+                        "input",
+                        0.3346921825960278
+                    ],
+                    [
+                        "hour",
+                        0.3434495932410496
+                    ],
+                    [
+                        "long",
+                        0.34414183482356775
+                    ],
+                    [
+                        "job",
+                        0.3443187089567519
+                    ],
+                    [
+                        "short",
+                        0.36099754213054663
+                    ],
+                    [
+                        "labor",
+                        0.38202409209207866
+                    ],
+                    [
+                        "guy",
+                        0.44239611675353413
+                    ],
+                    [
+                        "work",
+                        0.44841056546364355
+                    ],
+                    [
+                        "time",
+                        0.5589038303794032
+                    ],
+                    [
+                        "smooth",
+                        0.5647200091762221
+                    ],
+                    [
+                        "distribution",
+                        0.5671741442244629
+                    ],
+                    [
+                        "economist",
+                        0.5673426202899492
+                    ],
+                    [
+                        "break",
+                        0.5674552233974492
+                    ],
+                    [
+                        "production",
+                        0.5678766172066605
+                    ],
+                    [
+                        "schedule",
+                        0.5698417548500953
+                    ],
+                    [
+                        "long run",
+                        0.6405758972293315
+                    ],
+                    [
+                        "short run",
+                        0.7247484784437396
+                    ],
+                    [
+                        "transition",
+                        0.8274118781662323
+                    ],
+                    [
+                        "substance",
+                        0.8365766805407714
+                    ],
+                    [
+                        "definition",
+                        0.8851135702603696
+                    ],
+                    [
+                        "year",
+                        0.9034755991591912
+                    ],
+                    [
+                        "period",
+                        0.9035042650161405
+                    ],
+                    [
+                        "tricky",
+                        0.9158687777318196
+                    ],
+                    [
+                        "subtlety",
+                        0.918393795446472
+                    ],
+                    [
+                        "theoretical",
+                        0.919587310046169
+                    ],
+                    [
+                        "concept",
+                        0.919587310046169
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.18831990725617517
+                    ],
+                    [
+                        "run",
+                        0.23607148923017682
+                    ],
+                    [
+                        "day",
+                        0.2961333889321212
+                    ],
+                    [
+                        "variable",
+                        0.3310925040958016
+                    ],
+                    [
+                        "input",
+                        0.3346921825960278
+                    ],
+                    [
+                        "long",
+                        0.34414183482356775
+                    ],
+                    [
+                        "short",
+                        0.36099754213054663
+                    ],
+                    [
+                        "labor",
+                        0.38202409209207866
+                    ],
+                    [
+                        "production",
+                        0.5678766172066605
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-630": {
+            "id": "A6FOBdtbcz4-630",
+            "heat": 0.253,
+            "start": 630.0,
+            "text": " fixed, but for the purposes of this model, let's think about labor as a variable input. Let's think about labor as being like hourly labor, like hourly construction, OK? And let's think about capital as being a fixed input, like a building that you can't pare down or rebuild overnight, but over a 10-year period you can. OK? Questions about that? Once again, we talked about simplifying assumptions at the beginning of the semester. This is our set of simplifying assumptions. Simplifying assumptions are that firms produce goods with two inputs, labor and capital, that labor is variable, which means you can change it minute to minute or day to day, and capital is fixed, which means you can only change it in the long run. OK? All right, so armed with that, let's now talk about how firms make short-run production decisions. And once again, these are a lot of assumptions. But at the end of the day, I'm going to be able to teach you in a couple of lectures how firms make decisions. And I'm going to be about 80% right. So that's pretty good. OK, so there are some assumptions, but we're going to go a long way with these assumptions. So let's start by considering the short run, and considering that period of time over which labor is variable but capital is fixed. Labor is variable but capital is fixed.",
+            "metrics": {
+                "relativeDCReadability": 1.021383628715161,
+                "lexicalDiversity": 0.5061224489795918,
+                "posComposition": {
+                    "VBN": 0.02,
+                    "CC": 0.057,
+                    "IN": 0.139,
+                    "DT": 0.09,
+                    "NNS": 0.065,
+                    "NN": 0.139,
+                    "POS": 0.02,
+                    "VB": 0.069,
+                    "RB": 0.061,
+                    "JJ": 0.057,
+                    "NNP": 0.024,
+                    "VBG": 0.041,
+                    "PRP": 0.045,
+                    "MD": 0.016,
+                    "RP": 0.004,
+                    "VBD": 0.004,
+                    "VBZ": 0.041,
+                    "PRP$": 0.004,
+                    "VBP": 0.045,
+                    "CD": 0.008,
+                    "WDT": 0.012,
+                    "TO": 0.024,
+                    "WRB": 0.008,
+                    "EX": 0.004
+                },
+                "syllableRate": 3.008,
+                "topicScores": [
+                    [
+                        "labor",
+                        0.28531566723794044
+                    ],
+                    [
+                        "assumption",
+                        0.311025929700831
+                    ],
+                    [
+                        "capital",
+                        0.32778402006543883
+                    ],
+                    [
+                        "variable",
+                        0.3650791515131055
+                    ],
+                    [
+                        "input",
+                        0.42569177176801504
+                    ],
+                    [
+                        "run",
+                        0.4349343781259793
+                    ],
+                    [
+                        "firm",
+                        0.4471459383806207
+                    ],
+                    [
+                        "day",
+                        0.4526816670984084
+                    ],
+                    [
+                        "hourly",
+                        0.5345744404019359
+                    ],
+                    [
+                        "decision",
+                        0.5521649880898484
+                    ],
+                    [
+                        "right",
+                        0.5580510736491148
+                    ],
+                    [
+                        "short",
+                        0.5643669068620013
+                    ],
+                    [
+                        "good",
+                        0.5704557019885216
+                    ],
+                    [
+                        "period",
+                        0.5723117918488677
+                    ],
+                    [
+                        "long",
+                        0.5745694567314518
+                    ],
+                    [
+                        "model",
+                        0.8701168087734218
+                    ],
+                    [
+                        "purpose",
+                        0.879068221751665
+                    ],
+                    [
+                        "construction",
+                        0.8906114548633904
+                    ],
+                    [
+                        "question",
+                        0.8992147568327309
+                    ],
+                    [
+                        "year",
+                        0.9017575526189698
+                    ],
+                    [
+                        "semester",
+                        0.9035636330517796
+                    ],
+                    [
+                        "building",
+                        0.9087569878469283
+                    ],
+                    [
+                        "production",
+                        0.920724383428747
+                    ],
+                    [
+                        "beginning",
+                        0.9236587947863792
+                    ],
+                    [
+                        "set",
+                        0.9264179779619729
+                    ],
+                    [
+                        "armed",
+                        0.9267190230663669
+                    ],
+                    [
+                        "lot",
+                        0.9334248030119656
+                    ],
+                    [
+                        "end",
+                        0.9346031291467742
+                    ],
+                    [
+                        "couple",
+                        0.9346031291467742
+                    ],
+                    [
+                        "lecture",
+                        0.9346031291467742
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "labor",
+                        0.28531566723794044
+                    ],
+                    [
+                        "capital",
+                        0.32778402006543883
+                    ],
+                    [
+                        "variable",
+                        0.3650791515131055
+                    ],
+                    [
+                        "input",
+                        0.42569177176801504
+                    ],
+                    [
+                        "run",
+                        0.4349343781259793
+                    ],
+                    [
+                        "firm",
+                        0.4471459383806207
+                    ],
+                    [
+                        "day",
+                        0.4526816670984084
+                    ],
+                    [
+                        "short",
+                        0.5643669068620013
+                    ],
+                    [
+                        "good",
+                        0.5704557019885216
+                    ],
+                    [
+                        "long",
+                        0.5745694567314518
+                    ],
+                    [
+                        "production",
+                        0.920724383428747
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-720": {
+            "id": "A6FOBdtbcz4-720",
+            "heat": 0.177,
+            "start": 720.0,
+            "text": " That is, you have a given plant, but you can adjust how many workers you use every day in that plant. And now the firm has to decide, given that that plant exists, how many workers should I hire to produce my good? How many workers should I hire to produce my good? And the key concept that's going to determine that is something we'll call the marginal product of labor, which is the change in total output resulting from the next unit of labor used-- that is, delta q, delta l-- is the marginal product of labor. It's going to be the change in total output from another unit of labor, once again holding capital constant because that's fixed. So really, it's really at a given k bar, but that's implicit in the fact it's the short run. So the given level of capital, what is the change in output for another unit of labor? And once we get to the short run, I shouldn't have to write this. If I tell you short run, you should know this is true. But technically, we would write that out. Now, what we're going to do here is we're typically going to assume this-- hint, hint-- if you're comfortable with consumer theory, this is like marginal utility. Marginal product is like marginal utility. Just as the marginal utility was your utility from another",
+            "metrics": {
+                "relativeDCReadability": 1.021798495281452,
+                "lexicalDiversity": 0.5020242914979757,
+                "posComposition": {
+                    "DT": 0.121,
+                    "VBZ": 0.073,
+                    "PRP": 0.073,
+                    "VBP": 0.028,
+                    "VBN": 0.024,
+                    "NN": 0.174,
+                    "CC": 0.024,
+                    "MD": 0.028,
+                    "VB": 0.065,
+                    "WRB": 0.008,
+                    "JJ": 0.089,
+                    "NNS": 0.012,
+                    "IN": 0.105,
+                    "RB": 0.053,
+                    "TO": 0.036,
+                    "PRP$": 0.012,
+                    "NNP": 0.012,
+                    "WDT": 0.008,
+                    "VBG": 0.024,
+                    ":": 0.016,
+                    "WP": 0.008,
+                    "VBD": 0.004
+                },
+                "syllableRate": 2.908,
+                "topicScores": [
+                    [
+                        "marginal",
+                        0.2718063923432596
+                    ],
+                    [
+                        "labor",
+                        0.29103296570382997
+                    ],
+                    [
+                        "plant",
+                        0.34932030885835386
+                    ],
+                    [
+                        "worker",
+                        0.34998470547454874
+                    ],
+                    [
+                        "utility",
+                        0.36312220768464565
+                    ],
+                    [
+                        "change",
+                        0.38116004804207226
+                    ],
+                    [
+                        "output",
+                        0.39833486764633824
+                    ],
+                    [
+                        "unit",
+                        0.39833486764633824
+                    ],
+                    [
+                        "run",
+                        0.40243915710634803
+                    ],
+                    [
+                        "short",
+                        0.4024391571063481
+                    ],
+                    [
+                        "product",
+                        0.40475651336946455
+                    ],
+                    [
+                        "good",
+                        0.45082674639384
+                    ],
+                    [
+                        "total",
+                        0.5167641460506587
+                    ],
+                    [
+                        "delta",
+                        0.5342111573831645
+                    ],
+                    [
+                        "capital",
+                        0.5446281509033151
+                    ],
+                    [
+                        "day",
+                        0.7902189790344814
+                    ],
+                    [
+                        "marginal product",
+                        0.8078891092364282
+                    ],
+                    [
+                        "firm",
+                        0.8500563978334095
+                    ],
+                    [
+                        "q",
+                        0.8694423058356667
+                    ],
+                    [
+                        "key",
+                        0.885943458721242
+                    ],
+                    [
+                        "concept",
+                        0.885943458721242
+                    ],
+                    [
+                        "used--",
+                        0.885943458721242
+                    ],
+                    [
+                        "true",
+                        0.8891405224504236
+                    ],
+                    [
+                        "bar",
+                        0.8928437507815445
+                    ],
+                    [
+                        "constant",
+                        0.8940969559555532
+                    ],
+                    [
+                        "implicit",
+                        0.8998540722119642
+                    ],
+                    [
+                        "fact",
+                        0.8998540722119642
+                    ],
+                    [
+                        "marginal utility",
+                        0.9020002390801422
+                    ],
+                    [
+                        "level",
+                        0.9041783016673819
+                    ],
+                    [
+                        "hint",
+                        0.9084554590982145
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "marginal",
+                        0.2718063923432596
+                    ],
+                    [
+                        "labor",
+                        0.29103296570382997
+                    ],
+                    [
+                        "worker",
+                        0.34998470547454874
+                    ],
+                    [
+                        "utility",
+                        0.36312220768464565
+                    ],
+                    [
+                        "change",
+                        0.38116004804207226
+                    ],
+                    [
+                        "output",
+                        0.39833486764633824
+                    ],
+                    [
+                        "unit",
+                        0.39833486764633824
+                    ],
+                    [
+                        "run",
+                        0.40243915710634803
+                    ],
+                    [
+                        "short",
+                        0.4024391571063481
+                    ],
+                    [
+                        "good",
+                        0.45082674639384
+                    ],
+                    [
+                        "capital",
+                        0.5446281509033151
+                    ],
+                    [
+                        "day",
+                        0.7902189790344814
+                    ],
+                    [
+                        "firm",
+                        0.8500563978334095
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-810": {
+            "id": "A6FOBdtbcz4-810",
+            "heat": 0.188,
+            "start": 810.0,
+            "text": " unit of one good, holding the other good fixed, marginal product is the marginal production from another unit of an input, holding the other input fixed. So just sort of a parallel to keep in mind. And just as we've assumed and discussed the intuition for diminishing marginal utility, we're going to typically assume diminishing marginal product. So we're going to assume diminishing marginal product. That is, from a given level of labor, the next worker you add increases your total product by less than the previous one. Now once again, just like we have a non- satiation rule in utility, we're not going to say the next worker doesn't help. Every worker helps. But every worker helps less and less and less, just like every pizza means less and less and less to you. Now, the trick here, once again, this is like consumer theory, only more subtle. With consumer theory, it's pretty clear that once you had one pizza, clearly, the second pizza means less. And once you've seen one movie, your first-place prize, the movie you most want to see, clearly the next movie you want to see means a little bit less. Producer theory is a little more subtle. And you can imagine ranges over which more workers help. They can work together. So that actually two workers can do more than twice what",
+            "metrics": {
+                "relativeDCReadability": 0.9808151534108452,
+                "lexicalDiversity": 0.548936170212766,
+                "posComposition": {
+                    "NN": 0.153,
+                    "IN": 0.085,
+                    "CD": 0.021,
+                    "JJ": 0.098,
+                    "VBG": 0.034,
+                    "DT": 0.089,
+                    "VBN": 0.026,
+                    "VBZ": 0.047,
+                    "RB": 0.106,
+                    "TO": 0.03,
+                    "VB": 0.047,
+                    "CC": 0.038,
+                    "PRP": 0.06,
+                    "VBP": 0.043,
+                    "WDT": 0.009,
+                    "NNS": 0.017,
+                    "PRP$": 0.009,
+                    "JJR": 0.017,
+                    "NNP": 0.009,
+                    "RBR": 0.038,
+                    "VBD": 0.004,
+                    "RBS": 0.004,
+                    "MD": 0.013,
+                    "WP": 0.004
+                },
+                "syllableRate": 2.9,
+                "topicScores": [
+                    [
+                        "worker",
+                        0.3077747515076772
+                    ],
+                    [
+                        "marginal",
+                        0.3160065982859446
+                    ],
+                    [
+                        "product",
+                        0.3548330441879511
+                    ],
+                    [
+                        "theory",
+                        0.4416889628966001
+                    ],
+                    [
+                        "pizza",
+                        0.4459784174080788
+                    ],
+                    [
+                        "movie",
+                        0.448840161832269
+                    ],
+                    [
+                        "unit",
+                        0.5204670565962413
+                    ],
+                    [
+                        "good",
+                        0.5310622514963755
+                    ],
+                    [
+                        "subtle",
+                        0.5407519812376441
+                    ],
+                    [
+                        "input",
+                        0.5463851622337326
+                    ],
+                    [
+                        "utility",
+                        0.5480163834101895
+                    ],
+                    [
+                        "consumer",
+                        0.5539211175052128
+                    ],
+                    [
+                        "little",
+                        0.5715305976502444
+                    ],
+                    [
+                        "mind",
+                        0.8808600816549564
+                    ],
+                    [
+                        "production",
+                        0.8943874356259641
+                    ],
+                    [
+                        "parallel",
+                        0.9051897403378982
+                    ],
+                    [
+                        "intuition",
+                        0.9121038897160781
+                    ],
+                    [
+                        "labor",
+                        0.9144484167955472
+                    ],
+                    [
+                        "previous",
+                        0.9144484167955472
+                    ],
+                    [
+                        "producer",
+                        0.9151988312605315
+                    ],
+                    [
+                        "trick",
+                        0.917582581545096
+                    ],
+                    [
+                        "place",
+                        0.9206053161014539
+                    ],
+                    [
+                        "prize",
+                        0.9206053161014539
+                    ],
+                    [
+                        "level",
+                        0.9206232617576794
+                    ],
+                    [
+                        "total",
+                        0.9206232617576794
+                    ],
+                    [
+                        "satiation",
+                        0.9234830688129593
+                    ],
+                    [
+                        "rule",
+                        0.9234830688129593
+                    ],
+                    [
+                        "second",
+                        0.9252973770713051
+                    ],
+                    [
+                        "bit",
+                        0.9266082416515484
+                    ],
+                    [
+                        "clear",
+                        0.9307484783164883
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "worker",
+                        0.3077747515076772
+                    ],
+                    [
+                        "marginal",
+                        0.3160065982859446
+                    ],
+                    [
+                        "theory",
+                        0.4416889628966001
+                    ],
+                    [
+                        "unit",
+                        0.5204670565962413
+                    ],
+                    [
+                        "good",
+                        0.5310622514963755
+                    ],
+                    [
+                        "input",
+                        0.5463851622337326
+                    ],
+                    [
+                        "utility",
+                        0.5480163834101895
+                    ],
+                    [
+                        "little",
+                        0.5715305976502444
+                    ],
+                    [
+                        "production",
+                        0.8943874356259641
+                    ],
+                    [
+                        "labor",
+                        0.9144484167955472
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-900": {
+            "id": "A6FOBdtbcz4-900",
+            "heat": 0.165,
+            "start": 900.0,
+            "text": " one worker can do. And we'll talk about that. But we're going to focus in the main on ranges over which each additional worker does less and less and less. And the reason is because, to remember, this is less than two-- Yeah? AUDIENCE: Is there going to be a point where actually additional workers won't do anything, because of like constrain to the amounts of other inputs? PROFESSOR: Once again, we're not going to get-- just like there's a point at which extra pizza will make you barf-- OK, we're assuming we don't get to that point. But yes, technically of course, at some point more is not better. At some point, extra workers just sit around. And so I agree. So basically, it's a little tricky. You could imagine an initial range where more workers would help. Then there's the main range we'll focus on each additional worker does less and less and less. And you could imagine that running out, which is a worker does nothing. But let's just now assume we don't get there. So basically, what's the intuition? Now the intuition for in utility theory, for diminishing marginal utility, I thought was pretty easy, which is each pizza means less. The intuition for why each worker does less, I find a little bit harder. You could say, well, gee, why should one worker do less than the next worker? Why shouldn't the next worker do less than the first? And the key is this part, that we're holding capital constant. The reason each worker does less is because they only have the same amount of stuff to work with. And the classic example we use here is the example",
+            "metrics": {
+                "relativeDCReadability": 0.9088056016144429,
+                "lexicalDiversity": 0.48344370860927155,
+                "posComposition": {
+                    "CD": 0.01,
+                    "NN": 0.129,
+                    "MD": 0.036,
+                    "VB": 0.056,
+                    "CC": 0.043,
+                    "PRP": 0.06,
+                    "IN": 0.089,
+                    "DT": 0.106,
+                    "VBP": 0.046,
+                    "VBG": 0.023,
+                    "TO": 0.023,
+                    "JJ": 0.07,
+                    "NNS": 0.02,
+                    "WDT": 0.013,
+                    "VBZ": 0.06,
+                    "RBR": 0.036,
+                    "JJR": 0.017,
+                    ":": 0.01,
+                    "PRP$": 0.003,
+                    "NNP": 0.013,
+                    "RB": 0.089,
+                    "WRB": 0.017,
+                    "EX": 0.007,
+                    "UH": 0.003,
+                    "RP": 0.003,
+                    "POS": 0.003,
+                    "WP": 0.003,
+                    "VBD": 0.01
+                },
+                "syllableRate": 3.467,
+                "topicScores": [
+                    [
+                        "worker",
+                        0.2331870491882379
+                    ],
+                    [
+                        "point",
+                        0.33703269469928043
+                    ],
+                    [
+                        "additional",
+                        0.43332344782195176
+                    ],
+                    [
+                        "intuition",
+                        0.43792384880520735
+                    ],
+                    [
+                        "range",
+                        0.4506402331421897
+                    ],
+                    [
+                        "main",
+                        0.562048062104761
+                    ],
+                    [
+                        "extra",
+                        0.5700697595584601
+                    ],
+                    [
+                        "reason",
+                        0.5707485486360125
+                    ],
+                    [
+                        "little",
+                        0.5727221501850134
+                    ],
+                    [
+                        "example",
+                        0.5788531451059041
+                    ],
+                    [
+                        "pizza",
+                        0.5789501927419383
+                    ],
+                    [
+                        "utility",
+                        0.5810290866978901
+                    ],
+                    [
+                        "audience",
+                        0.5917557457881615
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6035218981915051
+                    ],
+                    [
+                        "two--",
+                        0.8885135205306792
+                    ],
+                    [
+                        "input",
+                        0.9021453044804996
+                    ],
+                    [
+                        "tricky",
+                        0.9165285520113515
+                    ],
+                    [
+                        "barf--",
+                        0.9201397910109744
+                    ],
+                    [
+                        "course",
+                        0.9230155601027021
+                    ],
+                    [
+                        "constant",
+                        0.9268235719183522
+                    ],
+                    [
+                        "theory",
+                        0.9352552057923771
+                    ],
+                    [
+                        "marginal",
+                        0.9352552057923771
+                    ],
+                    [
+                        "easy",
+                        0.9352552057923771
+                    ],
+                    [
+                        "initial",
+                        0.9354320464655493
+                    ],
+                    [
+                        "bit",
+                        0.9359702234238023
+                    ],
+                    [
+                        "capital",
+                        0.9377843026707912
+                    ],
+                    [
+                        "key",
+                        0.9423809643564122
+                    ],
+                    [
+                        "stuff",
+                        0.9428619555808001
+                    ],
+                    [
+                        "classic",
+                        0.9433099532452993
+                    ],
+                    [
+                        "additional worker",
+                        1.4827496218883134
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "worker",
+                        0.2331870491882379
+                    ],
+                    [
+                        "little",
+                        0.5727221501850134
+                    ],
+                    [
+                        "utility",
+                        0.5810290866978901
+                    ],
+                    [
+                        "audience",
+                        0.5917557457881615
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6035218981915051
+                    ],
+                    [
+                        "input",
+                        0.9021453044804996
+                    ],
+                    [
+                        "theory",
+                        0.9352552057923771
+                    ],
+                    [
+                        "marginal",
+                        0.9352552057923771
+                    ],
+                    [
+                        "capital",
+                        0.9377843026707912
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-990": {
+            "id": "A6FOBdtbcz4-990",
+            "heat": 0.291,
+            "start": 990.0,
+            "text": " of digging a hole. You go to dig a hole and your capital's a shovel. And let's say for some reason the shovels are out, so you can't get another shovel for a while. OK, so there's one shovel. So you have one worker digging a hole, then the next worker comes along and that's where he can help because he can spell the first worker. And maybe the next worker's just as good because he can work more hours, but probably it's a little bit less good. But certainly by the time you add a fourth and a fifth and a sixth person, with one shovel, they probably each help because they can rotate and rest each other. But certainly the sixth person is not going to help dig the hole as much as that second person did, or the third, or fourth, or fifth person, because only one shovel. So they can share a little bit and share the burden a little bit. But at some point each additional worker helps less because they have to share the same shovel. So that's what diminishing marginal product is, because capital's fixed. With a certain amount of capital to work with, each additional worker just can't help as much as the one before. Now eventually, you can add more shovels. And you could have wheelbarrows. So some people could run the wheelbarrows, some people could run the shovels. But that's the long run. In the short run, there's the one shovel, so each additional worker does less good. And that's the intuition. Once again, not as clean as with consumption, where it's easy to see each additional pizza is worth less, because you could imagine the second worker might actually help. They could rest, et cetera, and you could imagine eventually the ninth worker does nothing because there's",
+            "metrics": {
+                "relativeDCReadability": 0.7754209884208737,
+                "lexicalDiversity": 0.5046439628482973,
+                "posComposition": {
+                    "IN": 0.08,
+                    "VBG": 0.012,
+                    "DT": 0.146,
+                    "NN": 0.152,
+                    "PRP": 0.056,
+                    "VBP": 0.015,
+                    "TO": 0.015,
+                    "VB": 0.068,
+                    "CC": 0.062,
+                    "PRP$": 0.003,
+                    "POS": 0.012,
+                    "NNS": 0.025,
+                    "RP": 0.003,
+                    "RB": 0.09,
+                    "MD": 0.046,
+                    "NNP": 0.003,
+                    "EX": 0.009,
+                    "VBZ": 0.05,
+                    "CD": 0.019,
+                    "JJ": 0.099,
+                    "WRB": 0.006,
+                    "RBR": 0.009,
+                    "VBD": 0.003,
+                    "WP": 0.003,
+                    "VBN": 0.003,
+                    "JJR": 0.009
+                },
+                "syllableRate": 3.667,
+                "topicScores": [
+                    [
+                        "shovel",
+                        0.24976603070701145
+                    ],
+                    [
+                        "worker",
+                        0.26528044172941595
+                    ],
+                    [
+                        "help",
+                        0.31942764330241646
+                    ],
+                    [
+                        "hole",
+                        0.35292407989920366
+                    ],
+                    [
+                        "additional",
+                        0.37933025195283915
+                    ],
+                    [
+                        "run",
+                        0.381506353603047
+                    ],
+                    [
+                        "person",
+                        0.3873080208124239
+                    ],
+                    [
+                        "bit",
+                        0.4352961602672528
+                    ],
+                    [
+                        "little",
+                        0.4381128658030418
+                    ],
+                    [
+                        "good",
+                        0.44612307542302626
+                    ],
+                    [
+                        "capital",
+                        0.45188096316554915
+                    ],
+                    [
+                        "sixth",
+                        0.5659176820833673
+                    ],
+                    [
+                        "fourth",
+                        0.5684097301860049
+                    ],
+                    [
+                        "fifth",
+                        0.5684097301860049
+                    ],
+                    [
+                        "people",
+                        0.571573517997491
+                    ],
+                    [
+                        "wheelbarrow",
+                        0.5740878123275255
+                    ],
+                    [
+                        "second",
+                        0.582483933901686
+                    ],
+                    [
+                        "reason",
+                        0.9079507804245218
+                    ],
+                    [
+                        "hour",
+                        0.9226519495578113
+                    ],
+                    [
+                        "time",
+                        0.9310769058933122
+                    ],
+                    [
+                        "intuition",
+                        0.9312321361320326
+                    ],
+                    [
+                        "product",
+                        0.9342407224332854
+                    ],
+                    [
+                        "burden",
+                        0.9356178735862407
+                    ],
+                    [
+                        "point",
+                        0.9373025746202376
+                    ],
+                    [
+                        "et",
+                        0.9375314994050457
+                    ],
+                    [
+                        "cetera",
+                        0.9375314994050457
+                    ],
+                    [
+                        "marginal",
+                        0.9387286459341826
+                    ],
+                    [
+                        "long",
+                        0.9394083032140202
+                    ],
+                    [
+                        "certain",
+                        0.9399556360879202
+                    ],
+                    [
+                        "short",
+                        0.9401381920584577
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "worker",
+                        0.26528044172941595
+                    ],
+                    [
+                        "run",
+                        0.381506353603047
+                    ],
+                    [
+                        "little",
+                        0.4381128658030418
+                    ],
+                    [
+                        "good",
+                        0.44612307542302626
+                    ],
+                    [
+                        "capital",
+                        0.45188096316554915
+                    ],
+                    [
+                        "marginal",
+                        0.9387286459341826
+                    ],
+                    [
+                        "long",
+                        0.9394083032140202
+                    ],
+                    [
+                        "short",
+                        0.9401381920584577
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1080": {
+            "id": "A6FOBdtbcz4-1080",
+            "heat": 0.417,
+            "start": 1080.0,
+            "text": " nothing left to do. But let's focus on that range where it's intuitive. We're staying between the second and sixth worker, which is when a worker would help, but they help less and less and less. OK, and that's the diminishing marginal product. Questions about that? That's short-run production. And we're going to come back to this. But I just want to introduce these concepts. Now let's talk about long-run production. Now in the long run, all inputs are variable. That's how we defined the long run. So now a firm doesn't just choose how many workers to hire, or how many hours of labor to buy. It chooses both l and k, and has to trade them off, just like you chose both pizzas and movies and had to trade them off. So the long-run production theory is the same, basically the same mechanics, as utility theory. There's a production function. You have two inputs. You trade them off. Just like you're a consumer. You have two goods to consume. You trade them off. The difference is going to be that ultimately production is going to self-- the difference is, when you decide how to trade them off as a consumer, you're given a budget constraint. The difference with production is the budget constraint is going to be itself determined by the same system.",
+            "metrics": {
+                "relativeDCReadability": 0.9437804049374227,
+                "lexicalDiversity": 0.46218487394957986,
+                "posComposition": {
+                    "NN": 0.13,
+                    "VBD": 0.013,
+                    "TO": 0.055,
+                    "VB": 0.076,
+                    "CC": 0.055,
+                    "PRP": 0.092,
+                    "IN": 0.059,
+                    "DT": 0.113,
+                    "WRB": 0.029,
+                    "VBZ": 0.059,
+                    "JJ": 0.076,
+                    "VBP": 0.055,
+                    "VBG": 0.021,
+                    "WDT": 0.004,
+                    "MD": 0.004,
+                    "RBR": 0.013,
+                    "NNS": 0.042,
+                    "RB": 0.042,
+                    "POS": 0.008,
+                    "NNP": 0.008,
+                    "RP": 0.021,
+                    "EX": 0.004,
+                    "CD": 0.008,
+                    ":": 0.004,
+                    "VBN": 0.008
+                },
+                "syllableRate": 2.742,
+                "topicScores": [
+                    [
+                        "production",
+                        0.3010796339552692
+                    ],
+                    [
+                        "run",
+                        0.30117572555750555
+                    ],
+                    [
+                        "long",
+                        0.351844633734627
+                    ],
+                    [
+                        "difference",
+                        0.43624314727351376
+                    ],
+                    [
+                        "worker",
+                        0.44124148126018764
+                    ],
+                    [
+                        "consumer",
+                        0.5612120940694041
+                    ],
+                    [
+                        "input",
+                        0.5621338632520654
+                    ],
+                    [
+                        "constraint",
+                        0.5664853058101159
+                    ],
+                    [
+                        "budget",
+                        0.5696383159600145
+                    ],
+                    [
+                        "theory",
+                        0.5724077212935696
+                    ],
+                    [
+                        "intuitive",
+                        0.8417683089194021
+                    ],
+                    [
+                        "range",
+                        0.8706829228926507
+                    ],
+                    [
+                        "sixth",
+                        0.8835555669737757
+                    ],
+                    [
+                        "question",
+                        0.8879222359970698
+                    ],
+                    [
+                        "second",
+                        0.891099420249953
+                    ],
+                    [
+                        "marginal",
+                        0.8953361301835513
+                    ],
+                    [
+                        "concept",
+                        0.9020959786701105
+                    ],
+                    [
+                        "variable",
+                        0.9073982671043139
+                    ],
+                    [
+                        "short",
+                        0.9082198652271002
+                    ],
+                    [
+                        "function",
+                        0.9152951690681844
+                    ],
+                    [
+                        "utility",
+                        0.9202857328278313
+                    ],
+                    [
+                        "system",
+                        0.9211805491493876
+                    ],
+                    [
+                        "mechanic",
+                        0.9258537675676278
+                    ],
+                    [
+                        "firm",
+                        0.9285019895552986
+                    ],
+                    [
+                        "hour",
+                        0.9285019895552986
+                    ],
+                    [
+                        "labor",
+                        0.9285019895552986
+                    ],
+                    [
+                        "pizza",
+                        0.9297608890224257
+                    ],
+                    [
+                        "movie",
+                        0.9297608890224257
+                    ],
+                    [
+                        "good",
+                        0.934958030005796
+                    ],
+                    [
+                        "long run",
+                        1.102510875423402
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "production",
+                        0.3010796339552692
+                    ],
+                    [
+                        "run",
+                        0.30117572555750555
+                    ],
+                    [
+                        "long",
+                        0.351844633734627
+                    ],
+                    [
+                        "worker",
+                        0.44124148126018764
+                    ],
+                    [
+                        "input",
+                        0.5621338632520654
+                    ],
+                    [
+                        "theory",
+                        0.5724077212935696
+                    ],
+                    [
+                        "marginal",
+                        0.8953361301835513
+                    ],
+                    [
+                        "variable",
+                        0.9073982671043139
+                    ],
+                    [
+                        "short",
+                        0.9082198652271002
+                    ],
+                    [
+                        "function",
+                        0.9152951690681844
+                    ],
+                    [
+                        "utility",
+                        0.9202857328278313
+                    ],
+                    [
+                        "firm",
+                        0.9285019895552986
+                    ],
+                    [
+                        "labor",
+                        0.9285019895552986
+                    ],
+                    [
+                        "good",
+                        0.934958030005796
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1170": {
+            "id": "A6FOBdtbcz4-1170",
+            "heat": 0.285,
+            "start": 1170.0,
+            "text": " So you're not only going to develop your production function, but you're going to develop your budget constraint and, you're going to decide both. It's a little bit funky but we'll get to it. But for now, let's just think about the parallels to consumer theory, and think about a production function which is q-- little q-- is the square root of k times l. That same functional form I used with pizza and movies, where utility is the square root of pizza times movies. Now I'm going to say what you produce of your good is the square root of k times l. Now let's go to figure 8-3. And what we see here is, if you're trading off k and l and deciding to produce, then you get what's called isoquants. Isoquants are the parallel to indifference curves. Once again, this is all the same mechanics. Just as there were sets of goods across which you were indifferent, two pizzas and one movie versus one pizza and two movies. Isoquants are sets of inputs along which production is the same. So along a given isoquant, q is fixed. Each of those isoquants is a different level of q, but they show how you can vary k and l to get the same amount of q. So producing q equals square root of 2. I can use two units of capital and one unit of labor, or one unit of capital and two of labor. So I can choose lots of combinations of k and l along",
+            "metrics": {
+                "relativeDCReadability": 1.0486691378020137,
+                "lexicalDiversity": 0.5111111111111111,
+                "posComposition": {
+                    "RB": 0.048,
+                    "PRP": 0.063,
+                    "VBP": 0.044,
+                    "VBG": 0.026,
+                    "TO": 0.037,
+                    "VB": 0.063,
+                    "PRP$": 0.011,
+                    "NN": 0.141,
+                    "CC": 0.063,
+                    "DT": 0.063,
+                    "VBZ": 0.041,
+                    "JJ": 0.07,
+                    "MD": 0.015,
+                    "IN": 0.104,
+                    "POS": 0.007,
+                    "NNS": 0.089,
+                    "WDT": 0.011,
+                    "CD": 0.037,
+                    ":": 0.007,
+                    "VBD": 0.011,
+                    "WRB": 0.007,
+                    "WP": 0.011,
+                    "RP": 0.004,
+                    "VBN": 0.011,
+                    "PDT": 0.004,
+                    "EX": 0.004,
+                    "NNP": 0.007
+                },
+                "syllableRate": 3.05,
+                "topicScores": [
+                    [
+                        "k",
+                        0.30743542050237155
+                    ],
+                    [
+                        "square",
+                        0.31612415653250214
+                    ],
+                    [
+                        "isoquant",
+                        0.31944072328913875
+                    ],
+                    [
+                        "root",
+                        0.3244025442488459
+                    ],
+                    [
+                        "movie",
+                        0.3535273669578624
+                    ],
+                    [
+                        "pizza",
+                        0.36645941841095475
+                    ],
+                    [
+                        "time",
+                        0.38229812241657646
+                    ],
+                    [
+                        "l",
+                        0.41636919750180845
+                    ],
+                    [
+                        "production",
+                        0.4178118630394626
+                    ],
+                    [
+                        "unit",
+                        0.43328874255823224
+                    ],
+                    [
+                        "function",
+                        0.4924420770621624
+                    ],
+                    [
+                        "little",
+                        0.5107111413038622
+                    ],
+                    [
+                        "parallel",
+                        0.5306255707677989
+                    ],
+                    [
+                        "square root",
+                        0.5325706453074893
+                    ],
+                    [
+                        "q--",
+                        0.5375570870296172
+                    ],
+                    [
+                        "set",
+                        0.5457883290644214
+                    ],
+                    [
+                        "good",
+                        0.546353587967424
+                    ],
+                    [
+                        "capital",
+                        0.550842905610171
+                    ],
+                    [
+                        "labor",
+                        0.550842905610171
+                    ],
+                    [
+                        "constraint",
+                        0.7724005910475534
+                    ],
+                    [
+                        "budget",
+                        0.7858951665590604
+                    ],
+                    [
+                        "bit",
+                        0.846726681604006
+                    ],
+                    [
+                        "funky",
+                        0.846726681604006
+                    ],
+                    [
+                        "consumer",
+                        0.8612515370535075
+                    ],
+                    [
+                        "theory",
+                        0.8612515370535075
+                    ],
+                    [
+                        "utility",
+                        0.874969265191801
+                    ],
+                    [
+                        "curve",
+                        0.8821801404140285
+                    ],
+                    [
+                        "form",
+                        0.8833012623819249
+                    ],
+                    [
+                        "mechanic",
+                        0.8855899448192434
+                    ],
+                    [
+                        "indifference",
+                        0.8984393138626007
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "isoquant",
+                        0.31944072328913875
+                    ],
+                    [
+                        "production",
+                        0.4178118630394626
+                    ],
+                    [
+                        "unit",
+                        0.43328874255823224
+                    ],
+                    [
+                        "function",
+                        0.4924420770621624
+                    ],
+                    [
+                        "little",
+                        0.5107111413038622
+                    ],
+                    [
+                        "good",
+                        0.546353587967424
+                    ],
+                    [
+                        "capital",
+                        0.550842905610171
+                    ],
+                    [
+                        "labor",
+                        0.550842905610171
+                    ],
+                    [
+                        "theory",
+                        0.8612515370535075
+                    ],
+                    [
+                        "utility",
+                        0.874969265191801
+                    ],
+                    [
+                        "curve",
+                        0.8821801404140285
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1260": {
+            "id": "A6FOBdtbcz4-1260",
+            "heat": 0.265,
+            "start": 1260.0,
+            "text": " that isoquant to produce a given amount of output. And isoquants have all the same features as in indifference curves. The further out the better because you're producing more. They can't cross. All the same set of things we have in the indifference curves are true with isoquants as well. And they slope downwards because there's a trade off between capital and labor. Now, what's going to determine the slope of an isoquant? Can someone tell me what determines the slope of an isoquant? What determines if isoquants are steep or shallow? Well, what determines the slope of a indifference curve? Yes, go ahead. AUDIENCE: It's based on the ratio of how much labor is worth versus capital? PROFESSOR: Right, and what do we call that? What determines how much they're worth from each other? What determines the slope of a indifference curve? The marginal rate of substitution, it was the substitutability between goods. Likewise, the substitutability between labor and capital will determine the slope of these isoquants. So to see an example, let's do an extreme example here. Let's consider goods that are perfectly substitutable. So like, I don't know, just like a Harvard undergraduate and a beanie baby. OK, perfectly substitutable.",
+            "metrics": {
+                "relativeDCReadability": 1.155345147340846,
+                "lexicalDiversity": 0.49528301886792453,
+                "posComposition": {
+                    "DT": 0.132,
+                    "NN": 0.165,
+                    "TO": 0.014,
+                    "VB": 0.047,
+                    "VBN": 0.009,
+                    "IN": 0.123,
+                    "CC": 0.033,
+                    "NNS": 0.047,
+                    "VBP": 0.052,
+                    "PDT": 0.009,
+                    "JJ": 0.08,
+                    "VBZ": 0.047,
+                    "JJR": 0.005,
+                    "PRP": 0.047,
+                    "VBG": 0.009,
+                    "RBR": 0.005,
+                    "MD": 0.014,
+                    "RB": 0.047,
+                    "EX": 0.005,
+                    "RP": 0.005,
+                    "WP": 0.028,
+                    "WDT": 0.009,
+                    "NNP": 0.042,
+                    "WRB": 0.009,
+                    "VBD": 0.005,
+                    "POS": 0.009
+                },
+                "syllableRate": 2.775,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.30118101536633834
+                    ],
+                    [
+                        "isoquant",
+                        0.3013855626110375
+                    ],
+                    [
+                        "indifference",
+                        0.36710512292091985
+                    ],
+                    [
+                        "curve",
+                        0.370829050661803
+                    ],
+                    [
+                        "capital",
+                        0.4616570969644565
+                    ],
+                    [
+                        "labor",
+                        0.4616570969644565
+                    ],
+                    [
+                        "substitutable",
+                        0.549150637704826
+                    ],
+                    [
+                        "substitutability",
+                        0.5752004685005919
+                    ],
+                    [
+                        "example",
+                        0.5828409767172921
+                    ],
+                    [
+                        "worth",
+                        0.5838093970962234
+                    ],
+                    [
+                        "good",
+                        0.5845201330096572
+                    ],
+                    [
+                        "audience",
+                        0.6107793108688028
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6185048933218962
+                    ],
+                    [
+                        "Harvard",
+                        0.7289116227547136
+                    ],
+                    [
+                        "output",
+                        0.8536179250914312
+                    ],
+                    [
+                        "feature",
+                        0.90748544397215
+                    ],
+                    [
+                        "shallow",
+                        0.9148302882384299
+                    ],
+                    [
+                        "set",
+                        0.9274970357631447
+                    ],
+                    [
+                        "thing",
+                        0.9274970357631447
+                    ],
+                    [
+                        "true",
+                        0.9274970357631447
+                    ],
+                    [
+                        "baby",
+                        0.9281532775887075
+                    ],
+                    [
+                        "downward",
+                        0.9307195582666581
+                    ],
+                    [
+                        "trade",
+                        0.9307195582666581
+                    ],
+                    [
+                        "steep",
+                        0.9369753204758352
+                    ],
+                    [
+                        "marginal",
+                        0.9395834281252661
+                    ],
+                    [
+                        "substitution",
+                        0.9395834281252661
+                    ],
+                    [
+                        "beanie",
+                        0.9416466409886349
+                    ],
+                    [
+                        "ratio",
+                        0.9416650689463262
+                    ],
+                    [
+                        "rate",
+                        0.9451509492001113
+                    ],
+                    [
+                        "extreme",
+                        0.9461633165605178
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "isoquant",
+                        0.3013855626110375
+                    ],
+                    [
+                        "curve",
+                        0.370829050661803
+                    ],
+                    [
+                        "capital",
+                        0.4616570969644565
+                    ],
+                    [
+                        "labor",
+                        0.4616570969644565
+                    ],
+                    [
+                        "good",
+                        0.5845201330096572
+                    ],
+                    [
+                        "audience",
+                        0.6107793108688028
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6185048933218962
+                    ],
+                    [
+                        "output",
+                        0.8536179250914312
+                    ],
+                    [
+                        "marginal",
+                        0.9395834281252661
+                    ],
+                    [
+                        "rate",
+                        0.9451509492001113
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1350": {
+            "id": "A6FOBdtbcz4-1350",
+            "heat": 0.299,
+            "start": 1350.0,
+            "text": " Figure 8-4a shows the case of perfectly substitutable inputs. In that case, you would have a linear isoquant, because what that would mean is you don't care if you have three capital and one labor, or three labor and one capital. You don't care. You don't care if you have two labor and two capital, or three labor and one capital, as long as you get a total of four. That's all that matters. They're perfectly substitutable inputs, which would say that it would be something like q equals k plus l would be the case of perfectly substitutable inputs. You don't care if it's k or l, you just care about the total. That'd be perfectly substitutable inputs. That would be a linear isoquant. OK, on the other hand, let's think about goods which are not at all substitutable like cereal and cereal boxes. The cereal wouldn't be any good unless you have a box to put it in. The box doesn't do anything unless you have cereal to put in it. That would be like in 8-4b. 8-4b would show you non-substitutable inputs where basically, given the amount of one input, it doesn't matter how much you have of the other. So for example, if you take these-- these we often call non-substitutable isoquants-- Leontief production functions. Leontief production function, for Wassily Leontief, some old economist. And basically, the Leontief production function is that",
+            "metrics": {
+                "relativeDCReadability": 1.0400365930850526,
+                "lexicalDiversity": 0.544,
+                "posComposition": {
+                    "NN": 0.148,
+                    "CD": 0.044,
+                    "VBZ": 0.024,
+                    "DT": 0.08,
+                    "IN": 0.116,
+                    "RB": 0.072,
+                    "JJ": 0.072,
+                    "NNS": 0.044,
+                    "PRP": 0.084,
+                    "MD": 0.04,
+                    "VB": 0.08,
+                    "WP": 0.004,
+                    "WDT": 0.028,
+                    "VBP": 0.06,
+                    "CC": 0.04,
+                    "POS": 0.008,
+                    "TO": 0.008,
+                    "VBN": 0.008,
+                    "WRB": 0.008,
+                    "NNP": 0.024,
+                    ":": 0.008
+                },
+                "syllableRate": 3.067,
+                "topicScores": [
+                    [
+                        "substitutable",
+                        0.28352423976508573
+                    ],
+                    [
+                        "input",
+                        0.30229857679423516
+                    ],
+                    [
+                        "Leontief",
+                        0.3316739154374757
+                    ],
+                    [
+                        "labor",
+                        0.3675015031903909
+                    ],
+                    [
+                        "capital",
+                        0.36823390788955834
+                    ],
+                    [
+                        "Figure",
+                        0.3831085572130437
+                    ],
+                    [
+                        "cereal",
+                        0.39840054851161494
+                    ],
+                    [
+                        "case",
+                        0.42345085298363333
+                    ],
+                    [
+                        "production",
+                        0.443525849588955
+                    ],
+                    [
+                        "function",
+                        0.44578004267182303
+                    ],
+                    [
+                        "box",
+                        0.45579086230126026
+                    ],
+                    [
+                        "isoquant",
+                        0.5451118504341491
+                    ],
+                    [
+                        "linear",
+                        0.5483901718615338
+                    ],
+                    [
+                        "4b",
+                        0.56222755586489
+                    ],
+                    [
+                        "total",
+                        0.5670170671639333
+                    ],
+                    [
+                        "k",
+                        0.5721662001346947
+                    ],
+                    [
+                        "non",
+                        0.573040306917785
+                    ],
+                    [
+                        "good",
+                        0.5840827564918509
+                    ],
+                    [
+                        "Wassily",
+                        0.685154881617886
+                    ],
+                    [
+                        "Wassily Leontief",
+                        0.8331671414191204
+                    ],
+                    [
+                        "4a",
+                        0.8332211363284135
+                    ],
+                    [
+                        "Leontief production",
+                        0.9020300848091923
+                    ],
+                    [
+                        "economist",
+                        0.9268972936508207
+                    ],
+                    [
+                        "hand",
+                        0.9326581630246455
+                    ],
+                    [
+                        "old",
+                        0.9335511927244275
+                    ],
+                    [
+                        "example",
+                        0.9385468351103738
+                    ],
+                    [
+                        "these--",
+                        0.943699132280697
+                    ],
+                    [
+                        "substitutable input",
+                        1.0039362751233984
+                    ],
+                    [
+                        "isoquants-- Leontief",
+                        1.6495892320598156
+                    ],
+                    [
+                        "production function",
+                        1.8907417697572533
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "input",
+                        0.30229857679423516
+                    ],
+                    [
+                        "labor",
+                        0.3675015031903909
+                    ],
+                    [
+                        "capital",
+                        0.36823390788955834
+                    ],
+                    [
+                        "production",
+                        0.443525849588955
+                    ],
+                    [
+                        "function",
+                        0.44578004267182303
+                    ],
+                    [
+                        "isoquant",
+                        0.5451118504341491
+                    ],
+                    [
+                        "good",
+                        0.5840827564918509
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1440": {
+            "id": "A6FOBdtbcz4-1440",
+            "heat": 0.35,
+            "start": 1440.0,
+            "text": " your production, q equals the Min of k and l, is the Leontief production function. So given how much k you have, given you have 10 cereal boxes, once you have 10 chunks of cereal, it doesn't matter if you have 10, 11, 12, 1 million. You only have 10 cereal boxes. So given an amount of k, then it doesn't matter how much l you have. Once you get to the amount of l you need to fill the cereal boxes, it doesn't matter, and vice versa. So basically, they're perfectly non-substitutable. So all that determines your output is which you have the least of. OK, so substitutabilities determine the slope of the isoquants and of this production function. Now in general, we'll be in between these cases. There'll be some substitutability. Goods won't be perfectly substitutable, but they'll be somewhat substitutable. So in general, we'll be in between these cases. And more generally, just as the slope of the indifference curve is the marginal rate of substitution, the slope of the isoquant we will call the marginal rate of technical substitution. The marginal rate of technical substitution-- the rate at which you can substitute one input for another in a production function is the marginal rate of technical substitution-- which we'll define as delta k, delta l for a given q bar, the",
+            "metrics": {
+                "relativeDCReadability": 1.1645307714338402,
+                "lexicalDiversity": 0.4936708860759494,
+                "posComposition": {
+                    "PRP$": 0.008,
+                    "NN": 0.186,
+                    "VBZ": 0.038,
+                    "DT": 0.105,
+                    "NNP": 0.025,
+                    "IN": 0.118,
+                    "CC": 0.021,
+                    "JJ": 0.068,
+                    "VBN": 0.017,
+                    "WRB": 0.008,
+                    "PRP": 0.08,
+                    "VBP": 0.046,
+                    "CD": 0.038,
+                    "NNS": 0.038,
+                    "RB": 0.072,
+                    "VB": 0.051,
+                    "TO": 0.008,
+                    "PDT": 0.004,
+                    "WDT": 0.013,
+                    "JJS": 0.004,
+                    "MD": 0.034,
+                    "EX": 0.004,
+                    "RBR": 0.004,
+                    ":": 0.008
+                },
+                "syllableRate": 3.025,
+                "topicScores": [
+                    [
+                        "rate",
+                        0.3212567273510703
+                    ],
+                    [
+                        "cereal",
+                        0.33611923731500315
+                    ],
+                    [
+                        "marginal",
+                        0.35138672412637106
+                    ],
+                    [
+                        "production",
+                        0.3658183153359482
+                    ],
+                    [
+                        "k",
+                        0.37084831901624365
+                    ],
+                    [
+                        "box",
+                        0.39320225455252444
+                    ],
+                    [
+                        "Min",
+                        0.420021496210366
+                    ],
+                    [
+                        "Leontief",
+                        0.420021496210366
+                    ],
+                    [
+                        "slope",
+                        0.42189727863239845
+                    ],
+                    [
+                        "function",
+                        0.42268974179162677
+                    ],
+                    [
+                        "substitutable",
+                        0.42999146808322086
+                    ],
+                    [
+                        "technical",
+                        0.4316782119171106
+                    ],
+                    [
+                        "case",
+                        0.5244101362839693
+                    ],
+                    [
+                        "general",
+                        0.5472018861521072
+                    ],
+                    [
+                        "Leontief production",
+                        0.5546486962582963
+                    ],
+                    [
+                        "substitutability",
+                        0.556810635846377
+                    ],
+                    [
+                        "q",
+                        0.5578271956234571
+                    ],
+                    [
+                        "isoquant",
+                        0.5594505213476662
+                    ],
+                    [
+                        "substitution",
+                        0.5655512581131462
+                    ],
+                    [
+                        "delta",
+                        0.5759354434293661
+                    ],
+                    [
+                        "cereal box",
+                        0.7944824005588605
+                    ],
+                    [
+                        "chunk",
+                        0.8708826816145638
+                    ],
+                    [
+                        "marginal rate",
+                        0.9049568214993149
+                    ],
+                    [
+                        "non",
+                        0.9081210020211593
+                    ],
+                    [
+                        "good",
+                        0.9087890969712198
+                    ],
+                    [
+                        "output",
+                        0.9182106506715547
+                    ],
+                    [
+                        "bar",
+                        0.9257723467290069
+                    ],
+                    [
+                        "indifference",
+                        0.9298767386404783
+                    ],
+                    [
+                        "curve",
+                        0.9298767386404783
+                    ],
+                    [
+                        "input",
+                        0.9309858818758168
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "rate",
+                        0.3212567273510703
+                    ],
+                    [
+                        "marginal",
+                        0.35138672412637106
+                    ],
+                    [
+                        "production",
+                        0.3658183153359482
+                    ],
+                    [
+                        "function",
+                        0.42268974179162677
+                    ],
+                    [
+                        "isoquant",
+                        0.5594505213476662
+                    ],
+                    [
+                        "good",
+                        0.9087890969712198
+                    ],
+                    [
+                        "output",
+                        0.9182106506715547
+                    ],
+                    [
+                        "curve",
+                        0.9298767386404783
+                    ],
+                    [
+                        "input",
+                        0.9309858818758168
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1530": {
+            "id": "A6FOBdtbcz4-1530",
+            "heat": 0.41,
+            "start": 1530.0,
+            "text": " rate at which you can trade off k for l to hold q bar fixed. Now, as with marginal rate of substitution, the marginal rate of technical substitution will change along the isoquant. So if you go to figure 8-5, here we've drawn a typical isoquant for the production function q equals square root of k times l. So the production function is q equals the square root of k times l. And here's a isoquant. This is the isoquant of all combinations which produce two units. This is the q equals 2 isoquant. Now, unlike utility-- remember utility?-- we said where u equals 2 was meaningless. Utility was an ordinal concept, not a cardinal concept. Here, quantity is meaningful. If you produce four, you would have only produced twice as much as if you produced two. We can care about both the ordinality and the cardinality of these outcomes. So we can say, what are the combinations of inputs which lead you to produce two units? What's all these combinations of inputs? So whereas you can have one unit of labor and four units of capital, two of each, or four units of labor and one unit of capital, all will produce two units of the output. And what you can see is that the marginal rate of technical substitution varies. So for instance, when we start with four units of capital and one unit of labor, and we think about adding a second",
+            "metrics": {
+                "relativeDCReadability": 1.1456993719269561,
+                "lexicalDiversity": 0.516,
+                "posComposition": {
+                    "NN": 0.168,
+                    "IN": 0.148,
+                    "WDT": 0.016,
+                    "PRP": 0.056,
+                    "MD": 0.032,
+                    "VB": 0.048,
+                    "RP": 0.004,
+                    "TO": 0.012,
+                    "JJ": 0.072,
+                    "VBN": 0.012,
+                    "RB": 0.036,
+                    "DT": 0.104,
+                    "VBP": 0.04,
+                    "NNS": 0.076,
+                    "VBZ": 0.028,
+                    "RBR": 0.004,
+                    "CC": 0.032,
+                    "CD": 0.056,
+                    ":": 0.008,
+                    "VBD": 0.016,
+                    "WRB": 0.008,
+                    "NNP": 0.012,
+                    "WP": 0.008,
+                    "VBG": 0.004
+                },
+                "syllableRate": 3.083,
+                "topicScores": [
+                    [
+                        "unit",
+                        0.24106368046703053
+                    ],
+                    [
+                        "isoquant",
+                        0.3225622657273919
+                    ],
+                    [
+                        "rate",
+                        0.35087603364981707
+                    ],
+                    [
+                        "k",
+                        0.41075286413748174
+                    ],
+                    [
+                        "marginal",
+                        0.4189241253823585
+                    ],
+                    [
+                        "labor",
+                        0.4252930153952553
+                    ],
+                    [
+                        "substitution",
+                        0.42879308403080013
+                    ],
+                    [
+                        "capital",
+                        0.4354641289113426
+                    ],
+                    [
+                        "combination",
+                        0.4408879299816426
+                    ],
+                    [
+                        "l.",
+                        0.4985924663007066
+                    ],
+                    [
+                        "function",
+                        0.5232498503689254
+                    ],
+                    [
+                        "square",
+                        0.5232498503689254
+                    ],
+                    [
+                        "root",
+                        0.5232498503689254
+                    ],
+                    [
+                        "production",
+                        0.533451838296969
+                    ],
+                    [
+                        "technical",
+                        0.5500486846760234
+                    ],
+                    [
+                        "input",
+                        0.554363222246227
+                    ],
+                    [
+                        "concept",
+                        0.5653972104212055
+                    ],
+                    [
+                        "bar",
+                        0.8004180841601449
+                    ],
+                    [
+                        "times",
+                        0.8723615212244464
+                    ],
+                    [
+                        "typical",
+                        0.8891039306634397
+                    ],
+                    [
+                        "meaningless",
+                        0.8993117957135528
+                    ],
+                    [
+                        "utility",
+                        0.9018468607726804
+                    ],
+                    [
+                        "meaningful",
+                        0.9039967819840445
+                    ],
+                    [
+                        "outcome",
+                        0.9074675406433873
+                    ],
+                    [
+                        "output",
+                        0.9113154215095801
+                    ],
+                    [
+                        "varie",
+                        0.9123521439970885
+                    ],
+                    [
+                        "second",
+                        0.9132966463056292
+                    ],
+                    [
+                        "ordinal",
+                        0.9174759183981446
+                    ],
+                    [
+                        "cardinal",
+                        0.9174759183981446
+                    ],
+                    [
+                        "quantity",
+                        0.9193141325370459
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "unit",
+                        0.24106368046703053
+                    ],
+                    [
+                        "isoquant",
+                        0.3225622657273919
+                    ],
+                    [
+                        "rate",
+                        0.35087603364981707
+                    ],
+                    [
+                        "marginal",
+                        0.4189241253823585
+                    ],
+                    [
+                        "labor",
+                        0.4252930153952553
+                    ],
+                    [
+                        "capital",
+                        0.4354641289113426
+                    ],
+                    [
+                        "function",
+                        0.5232498503689254
+                    ],
+                    [
+                        "production",
+                        0.533451838296969
+                    ],
+                    [
+                        "input",
+                        0.554363222246227
+                    ],
+                    [
+                        "utility",
+                        0.9018468607726804
+                    ],
+                    [
+                        "output",
+                        0.9113154215095801
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1620": {
+            "id": "A6FOBdtbcz4-1620",
+            "heat": 0.345,
+            "start": 1620.0,
+            "text": " unit of labor, then the marginal rate of technical substitution is minus 2. That is, one unit of labor is worth two units of capital. In other words, we can produce the same amount of widgets of q, but if we replace two units of capital with one unit of labor, so at that point we're very capital-intensive, and that unit of labor is very valuable. On the other hand, now if you imagine we're down at 4-1, at the third point-- we are probably using a, b, c-- now we're at the third point, where you have we have four units of labor and one unit of capital. Now, if you'd be willing to give up two units of labor just to get one unit of capital, that's the marginal rate of technical substitution is now minus 1/2. When you're very labor-intensive, you'd be happy to give up a lot of labor to get a little capital. Once again, the principle of diminishing marginal product, just like the principle of diminishing marginal utility, implies that the marginal rate of technical substitution is going to be falling as you go down the isoquant. Just like the marginal rate of substitution fell as you went down the indifference curve, the marginal rate of technical substitution is going to fall as you go down the isoquant. And why is this? Once again it's because of this diminishing marginal productivity. That is, as you add more and more labor, given capital,",
+            "metrics": {
+                "relativeDCReadability": 1.051250632067632,
+                "lexicalDiversity": 0.47674418604651164,
+                "posComposition": {
+                    "NN": 0.178,
+                    "IN": 0.155,
+                    "RB": 0.066,
+                    "DT": 0.081,
+                    "JJ": 0.101,
+                    "VBZ": 0.043,
+                    "CC": 0.023,
+                    "CD": 0.039,
+                    "WDT": 0.012,
+                    "NNS": 0.027,
+                    "PRP": 0.066,
+                    "MD": 0.012,
+                    "VB": 0.039,
+                    "VBP": 0.047,
+                    "RP": 0.019,
+                    ":": 0.008,
+                    "VBG": 0.027,
+                    "WRB": 0.012,
+                    "TO": 0.023,
+                    "NNP": 0.004,
+                    "VBD": 0.008,
+                    "JJR": 0.008,
+                    "VBN": 0.004
+                },
+                "syllableRate": 3.275,
+                "topicScores": [
+                    [
+                        "unit",
+                        0.22004029401558015
+                    ],
+                    [
+                        "labor",
+                        0.24822555522331824
+                    ],
+                    [
+                        "marginal",
+                        0.25420817460808637
+                    ],
+                    [
+                        "capital",
+                        0.2712187009484176
+                    ],
+                    [
+                        "rate",
+                        0.287100893623836
+                    ],
+                    [
+                        "substitution",
+                        0.3127084867474563
+                    ],
+                    [
+                        "technical",
+                        0.32172836909592073
+                    ],
+                    [
+                        "isoquant",
+                        0.5264744724996268
+                    ],
+                    [
+                        "intensive",
+                        0.5477708920105301
+                    ],
+                    [
+                        "point",
+                        0.5574942533935322
+                    ],
+                    [
+                        "principle",
+                        0.5584093886288202
+                    ],
+                    [
+                        "marginal rate",
+                        0.5755536719508141
+                    ],
+                    [
+                        "technical substitution",
+                        0.6564900335958845
+                    ],
+                    [
+                        "valuable",
+                        0.8920286099809385
+                    ],
+                    [
+                        "worth",
+                        0.9058399464116212
+                    ],
+                    [
+                        "word",
+                        0.9065074366071351
+                    ],
+                    [
+                        "hand",
+                        0.9116565540279363
+                    ],
+                    [
+                        "c--",
+                        0.9116565540279363
+                    ],
+                    [
+                        "widget",
+                        0.9127112512427431
+                    ],
+                    [
+                        "productivity",
+                        0.9145325559509475
+                    ],
+                    [
+                        "little",
+                        0.9185464396603786
+                    ],
+                    [
+                        "utility",
+                        0.9209980252559485
+                    ],
+                    [
+                        "willing",
+                        0.9211768418677028
+                    ],
+                    [
+                        "indifference",
+                        0.9230338166559638
+                    ],
+                    [
+                        "curve",
+                        0.9230338166559638
+                    ],
+                    [
+                        "happy",
+                        0.9240183504650696
+                    ],
+                    [
+                        "lot",
+                        0.9240183504650696
+                    ],
+                    [
+                        "marginal productivity",
+                        2.8015499679365004
+                    ],
+                    [
+                        "marginal utility",
+                        2.8783653102854547
+                    ],
+                    [
+                        "little capital",
+                        2.9585291247836674
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "unit",
+                        0.22004029401558015
+                    ],
+                    [
+                        "labor",
+                        0.24822555522331824
+                    ],
+                    [
+                        "marginal",
+                        0.25420817460808637
+                    ],
+                    [
+                        "capital",
+                        0.2712187009484176
+                    ],
+                    [
+                        "rate",
+                        0.287100893623836
+                    ],
+                    [
+                        "isoquant",
+                        0.5264744724996268
+                    ],
+                    [
+                        "little",
+                        0.9185464396603786
+                    ],
+                    [
+                        "utility",
+                        0.9209980252559485
+                    ],
+                    [
+                        "curve",
+                        0.9230338166559638
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1710": {
+            "id": "A6FOBdtbcz4-1710",
+            "heat": 0.358,
+            "start": 1710.0,
+            "text": " each unit of labor can do less and less. And likewise, as you add more and more capital, given an amount of workers to use it, each unit of capital can do less and less. So it's a very different approach, but gets you the same answer, which is with consumption, each piece does less and less for you, but we can see that as consumers. Here's the notions of labor, each worker does less and less for you, holding capital fixed. And each machine by the same logic, if you have one guy in the hole, it doesn't matter how many shovels you throw there. He still is only one guy. So each machines is doing less and less by the same logic. And those diminishing marginal products lead to this decreasing marginal rate of technical substitution as you move along the isoquant. That's about the most technical statement I'll make all semester. OK, questions about that, about what's going on here? That's production theory. That's what you need to know to know basically how firms produce things. Now, what we're going to do is, now take this basic production theory, and turn it into actually understanding how firms make decisions on how much to produce. But before we do that, I want to talk about one other concept, which is very important for thinking about production theory. And it comes back to these assumptions that we make which might be a little bit unrealistic, which is the concept of returns to scale.",
+            "metrics": {
+                "relativeDCReadability": 0.9086226425668372,
+                "lexicalDiversity": 0.44866920152091255,
+                "posComposition": {
+                    "DT": 0.099,
+                    "NN": 0.118,
+                    "IN": 0.114,
+                    "MD": 0.019,
+                    "VB": 0.053,
+                    "JJR": 0.019,
+                    "CC": 0.053,
+                    "RBR": 0.03,
+                    "RB": 0.049,
+                    "PRP": 0.076,
+                    "VBP": 0.049,
+                    "VBN": 0.008,
+                    "NNS": 0.049,
+                    "TO": 0.034,
+                    "VBZ": 0.065,
+                    "JJ": 0.065,
+                    "WDT": 0.019,
+                    "VBG": 0.03,
+                    "CD": 0.011,
+                    "WRB": 0.015,
+                    "EX": 0.004,
+                    "NNP": 0.004,
+                    "RBS": 0.004,
+                    "WP": 0.011
+                },
+                "syllableRate": 3.067,
+                "topicScores": [
+                    [
+                        "capital",
+                        0.4097328443005164
+                    ],
+                    [
+                        "theory",
+                        0.4190426257104697
+                    ],
+                    [
+                        "production",
+                        0.42353823473340096
+                    ],
+                    [
+                        "unit",
+                        0.45679907312995877
+                    ],
+                    [
+                        "labor",
+                        0.5116411390881563
+                    ],
+                    [
+                        "logic",
+                        0.5198560399891347
+                    ],
+                    [
+                        "worker",
+                        0.5286359023401511
+                    ],
+                    [
+                        "guy",
+                        0.5338728346136564
+                    ],
+                    [
+                        "machine",
+                        0.5469940415603766
+                    ],
+                    [
+                        "technical",
+                        0.5608377720399006
+                    ],
+                    [
+                        "firm",
+                        0.5608954999648106
+                    ],
+                    [
+                        "concept",
+                        0.5650166344347584
+                    ],
+                    [
+                        "marginal",
+                        0.5670254139752667
+                    ],
+                    [
+                        "consumer",
+                        0.8475208632165904
+                    ],
+                    [
+                        "different",
+                        0.8686768864183237
+                    ],
+                    [
+                        "approach",
+                        0.8686768864183237
+                    ],
+                    [
+                        "answer",
+                        0.8686768864183237
+                    ],
+                    [
+                        "consumption",
+                        0.8686768864183237
+                    ],
+                    [
+                        "piece",
+                        0.8686768864183239
+                    ],
+                    [
+                        "isoquant",
+                        0.8879098137243051
+                    ],
+                    [
+                        "notion",
+                        0.8900116070835462
+                    ],
+                    [
+                        "hole",
+                        0.8901766800548642
+                    ],
+                    [
+                        "semester",
+                        0.8911742523749054
+                    ],
+                    [
+                        "shovel",
+                        0.8979077993523776
+                    ],
+                    [
+                        "thing",
+                        0.8981805470885266
+                    ],
+                    [
+                        "scale",
+                        0.9028155074768939
+                    ],
+                    [
+                        "question",
+                        0.9093009681620051
+                    ],
+                    [
+                        "rate",
+                        0.91094538712643
+                    ],
+                    [
+                        "substitution",
+                        0.91094538712643
+                    ],
+                    [
+                        "statement",
+                        0.9136042308505243
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "capital",
+                        0.4097328443005164
+                    ],
+                    [
+                        "theory",
+                        0.4190426257104697
+                    ],
+                    [
+                        "production",
+                        0.42353823473340096
+                    ],
+                    [
+                        "unit",
+                        0.45679907312995877
+                    ],
+                    [
+                        "labor",
+                        0.5116411390881563
+                    ],
+                    [
+                        "worker",
+                        0.5286359023401511
+                    ],
+                    [
+                        "firm",
+                        0.5608954999648106
+                    ],
+                    [
+                        "marginal",
+                        0.5670254139752667
+                    ],
+                    [
+                        "isoquant",
+                        0.8879098137243051
+                    ],
+                    [
+                        "scale",
+                        0.9028155074768939
+                    ],
+                    [
+                        "rate",
+                        0.91094538712643
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1800": {
+            "id": "A6FOBdtbcz4-1800",
+            "heat": 0.388,
+            "start": 1800.0,
+            "text": " The concept of returns to scale. So here the question is, what happens if we increase all inputs proportionally? Return to scale. By scale, I mean, what if we just double everything, twice as much labor and twice as much capital. That's an increase in scale, increasing all inputs proportionally, twice as much labor, twice as much capital, half as much labor, half as much capital. So a change in scale is an equal increase or decrease in all inputs? Equal proportional. So what happens if we increase all inputs, increase or decrease proportionally? And this is an interesting case, because it's like, OK, what if we just make the firm half as big? What happens? Well, the answer is, it depends on the production process. Some production processes will exhibit what we call constant returns to scale. This is a convenient form. It's convenient because the way constant returns to scale works is, it says that f of 2l, 2k, is equal to 2 times f of l, k. That is, if it's constant, you can just pull the 2 out. Doubling the inputs leads to doubling the outputs, which equals to 2q, I'll write here.",
+            "metrics": {
+                "relativeDCReadability": 1.0531287101726015,
+                "lexicalDiversity": 0.5247524752475248,
+                "posComposition": {
+                    "DT": 0.104,
+                    "NN": 0.158,
+                    "IN": 0.109,
+                    "NNS": 0.054,
+                    "TO": 0.035,
+                    "VB": 0.045,
+                    "RB": 0.094,
+                    "VBZ": 0.089,
+                    "WP": 0.03,
+                    "PRP": 0.064,
+                    "VBP": 0.025,
+                    "NNP": 0.025,
+                    "JJ": 0.084,
+                    "CC": 0.02,
+                    "VBG": 0.015,
+                    "MD": 0.015,
+                    "CD": 0.025,
+                    "WDT": 0.01
+                },
+                "syllableRate": 2.375,
+                "topicScores": [
+                    [
+                        "scale",
+                        0.25892906936616733
+                    ],
+                    [
+                        "increase",
+                        0.28941663243106447
+                    ],
+                    [
+                        "input",
+                        0.30999892504039817
+                    ],
+                    [
+                        "return",
+                        0.3455490670595889
+                    ],
+                    [
+                        "equal",
+                        0.3652425239413736
+                    ],
+                    [
+                        "capital",
+                        0.3980380310927993
+                    ],
+                    [
+                        "labor",
+                        0.40450511187471583
+                    ],
+                    [
+                        "half",
+                        0.42573859125439484
+                    ],
+                    [
+                        "constant",
+                        0.444429303598133
+                    ],
+                    [
+                        "production",
+                        0.5575157957000224
+                    ],
+                    [
+                        "process",
+                        0.5582012937289264
+                    ],
+                    [
+                        "convenient",
+                        0.5644430662873872
+                    ],
+                    [
+                        "concept",
+                        0.8085028822864486
+                    ],
+                    [
+                        "question",
+                        0.8640224648503424
+                    ],
+                    [
+                        "proportional",
+                        0.8939695759963107
+                    ],
+                    [
+                        "big",
+                        0.907493509715987
+                    ],
+                    [
+                        "form",
+                        0.915049137582727
+                    ],
+                    [
+                        "change",
+                        0.9152779947135663
+                    ],
+                    [
+                        "answer",
+                        0.9177175035728524
+                    ],
+                    [
+                        "interesting",
+                        0.9192071884552286
+                    ],
+                    [
+                        "case",
+                        0.9192071884552286
+                    ],
+                    [
+                        "firm",
+                        0.9242683437136064
+                    ],
+                    [
+                        "work",
+                        0.9270515577393672
+                    ],
+                    [
+                        "2l",
+                        0.9270515577393672
+                    ],
+                    [
+                        "k.",
+                        0.9270515577393672
+                    ],
+                    [
+                        "output",
+                        0.928091683289211
+                    ],
+                    [
+                        "way",
+                        0.9316578482969533
+                    ],
+                    [
+                        "time",
+                        0.9316578482969533
+                    ],
+                    [
+                        "lead",
+                        0.932637068087177
+                    ],
+                    [
+                        "constant return",
+                        1.5687108611764924
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "scale",
+                        0.25892906936616733
+                    ],
+                    [
+                        "increase",
+                        0.28941663243106447
+                    ],
+                    [
+                        "input",
+                        0.30999892504039817
+                    ],
+                    [
+                        "return",
+                        0.3455490670595889
+                    ],
+                    [
+                        "capital",
+                        0.3980380310927993
+                    ],
+                    [
+                        "labor",
+                        0.40450511187471583
+                    ],
+                    [
+                        "production",
+                        0.5575157957000224
+                    ],
+                    [
+                        "change",
+                        0.9152779947135663
+                    ],
+                    [
+                        "firm",
+                        0.9242683437136064
+                    ],
+                    [
+                        "output",
+                        0.928091683289211
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1890": {
+            "id": "A6FOBdtbcz4-1890",
+            "heat": 0.546,
+            "start": 1890.0,
+            "text": " Doubling the inputs equals doubling the outputs. So if I have twice as much labor and capital, that's the same as twice producing what I had with the original labor and capital which will get me twice the original production. That's the constant returns to scale. So every time I double my firm, I get exactly twice as much stuff out. We can contrast that with increasing returns to scale, IRS, which says that f of 2l, 2k, is greater than 2 times f of l, k. Or it's greater than 2q. That is, when I double my firm, I produce more than twice as much stuff. That'd be increasing returns to scale. On the other hand, we could also have decreasing returns to scale, which not surprisingly means that f of 2l, 2k, is less than 2 times f of l, k, or less than 2q. That would be decreasing returns to scale, which is when I double my firm I get less than twice as much stuff. Can anyone give me an example or some reason why returns to scale is going to be increasing or decreasing? Think about firms out there. Give me some that, by returns to scale, would be increasing or decreasing, any examples you can think of. There's no right answer here. Yeah. Go ahead, on the end. AUDIENCE: Oh, if you're mining something, you can only get to",
+            "metrics": {
+                "relativeDCReadability": 1.0765490252293688,
+                "lexicalDiversity": 0.5062240663900415,
+                "posComposition": {
+                    "VBG": 0.054,
+                    "DT": 0.058,
+                    "JJ": 0.066,
+                    "NNS": 0.054,
+                    "IN": 0.124,
+                    "PRP": 0.071,
+                    "VBP": 0.033,
+                    "RB": 0.071,
+                    "NN": 0.095,
+                    "CC": 0.029,
+                    "WDT": 0.033,
+                    "VBZ": 0.046,
+                    "WP": 0.004,
+                    "VBD": 0.004,
+                    "MD": 0.033,
+                    "VB": 0.075,
+                    "TO": 0.037,
+                    "PRP$": 0.012,
+                    "NNP": 0.025,
+                    "CD": 0.033,
+                    "JJR": 0.025,
+                    "WRB": 0.012,
+                    "EX": 0.004
+                },
+                "syllableRate": 2.692,
+                "topicScores": [
+                    [
+                        "scale",
+                        0.2520553309918724
+                    ],
+                    [
+                        "return",
+                        0.26584259017404877
+                    ],
+                    [
+                        "firm",
+                        0.35947340372715175
+                    ],
+                    [
+                        "stuff",
+                        0.40887512705122225
+                    ],
+                    [
+                        "time",
+                        0.4272521608281478
+                    ],
+                    [
+                        "capital",
+                        0.5252441879679183
+                    ],
+                    [
+                        "labor",
+                        0.530888939002214
+                    ],
+                    [
+                        "original",
+                        0.5335533608414624
+                    ],
+                    [
+                        "2q",
+                        0.5372988114471142
+                    ],
+                    [
+                        "2l",
+                        0.5386094142159883
+                    ],
+                    [
+                        "great",
+                        0.5477816789816763
+                    ],
+                    [
+                        "example",
+                        0.5740856439157225
+                    ],
+                    [
+                        "IRS",
+                        0.5982699241628124
+                    ],
+                    [
+                        "audience",
+                        0.6320420481859358
+                    ],
+                    [
+                        "output",
+                        0.7997383297156954
+                    ],
+                    [
+                        "input",
+                        0.8335941673250781
+                    ],
+                    [
+                        "production",
+                        0.8573506308287967
+                    ],
+                    [
+                        "k.",
+                        0.8918771282367453
+                    ],
+                    [
+                        "constant",
+                        0.9015995260125932
+                    ],
+                    [
+                        "end",
+                        0.9252679074090527
+                    ],
+                    [
+                        "hand",
+                        0.9262111003987582
+                    ],
+                    [
+                        "answer",
+                        0.9334246951612135
+                    ],
+                    [
+                        "reason",
+                        0.9343474607343443
+                    ],
+                    [
+                        "right",
+                        0.9378046757341
+                    ],
+                    [
+                        "time f",
+                        1.6154744784984867
+                    ],
+                    [
+                        "original labor",
+                        2.4670829553271516
+                    ],
+                    [
+                        "constant return",
+                        2.559360557990341
+                    ],
+                    [
+                        "original production",
+                        2.6367459361610948
+                    ],
+                    [
+                        "right answer",
+                        7.0237531058154214
+                    ]
+                ],
+                "topTopicSimilarity": 0.3103448275862069,
+                "sharedTopicScores": [
+                    [
+                        "scale",
+                        0.2520553309918724
+                    ],
+                    [
+                        "return",
+                        0.26584259017404877
+                    ],
+                    [
+                        "firm",
+                        0.35947340372715175
+                    ],
+                    [
+                        "capital",
+                        0.5252441879679183
+                    ],
+                    [
+                        "labor",
+                        0.530888939002214
+                    ],
+                    [
+                        "audience",
+                        0.6320420481859358
+                    ],
+                    [
+                        "output",
+                        0.7997383297156954
+                    ],
+                    [
+                        "input",
+                        0.8335941673250781
+                    ],
+                    [
+                        "production",
+                        0.8573506308287967
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-1980": {
+            "id": "A6FOBdtbcz4-1980",
+            "heat": 0.538,
+            "start": 1980.0,
+            "text": " stuff at one time, so having more equipment and more people doesn't mean you can get more out of it? PROFESSOR: Right, so if there's a limited resource, you could imagine decreasing returns to scale. Good. What else? Yeah. AUDIENCE: If the company gets harder to manage, that could be decreasing returns to scale? PROFESSOR: Right, exactly. If you're an entrepreneur, you've got a great idea, but it turns out that idea only works if you really are hands-on about it. You're not Mark Zuckerberg, who can just farm the thing out, it's really your idea. And you've got to be there. Then after it expands and you lose control of the production, it might not be as effective because you're not there making it happen. Any ideas why return-- Yeah. AUDIENCE: If you or [UNINTELLIGIBLE] PROFESSOR: So that's an example of increasing returns to scale. Increasing returns to scale would be, gee, maybe if I'm bigger, I can get a better deal on the inputs. But that's not quite right, because we haven't really got into prices yet. I'm looking-- that's really a market response-- I'm looking for a more technological story, a technological story of increasing returns. Go ahead. AUDIENCE: If you're bigger, you can hire a specialist to do work, like a manager who can [INAUDIBLE] PROFESSOR: Exactly. So it's the opposite, which is, let's say you have an idea which is pretty good, but in fact it's replicable. And right now, you're trying to manage some guys. And then all of a sudden, when you get twice as big, you bring other people in who can effectively replicate your idea, and really expand it in a very effective way. You can have increasing returns to scale.",
+            "metrics": {
+                "relativeDCReadability": 0.9222626665637959,
+                "lexicalDiversity": 0.4984025559105431,
+                "posComposition": {
+                    "NN": 0.086,
+                    "IN": 0.093,
+                    "CD": 0.003,
+                    "RB": 0.109,
+                    "VBG": 0.035,
+                    "RBR": 0.006,
+                    "CC": 0.032,
+                    "JJR": 0.019,
+                    "NNS": 0.038,
+                    "VBZ": 0.048,
+                    "VB": 0.08,
+                    "PRP": 0.102,
+                    "MD": 0.035,
+                    "NNP": 0.048,
+                    "EX": 0.003,
+                    "DT": 0.073,
+                    "JJ": 0.048,
+                    "TO": 0.029,
+                    "WP": 0.013,
+                    "VBP": 0.051,
+                    "VBN": 0.006,
+                    "RP": 0.003,
+                    "PRP$": 0.006,
+                    "WRB": 0.006,
+                    ":": 0.01,
+                    "UH": 0.003,
+                    "WDT": 0.01,
+                    "POS": 0.003
+                },
+                "syllableRate": 3.808,
+                "topicScores": [
+                    [
+                        "PROFESSOR",
+                        0.24145988082397596
+                    ],
+                    [
+                        "audience",
+                        0.24705421281344006
+                    ],
+                    [
+                        "return",
+                        0.28178590787448915
+                    ],
+                    [
+                        "scale",
+                        0.3078142819466203
+                    ],
+                    [
+                        "idea",
+                        0.3182018473288962
+                    ],
+                    [
+                        "right",
+                        0.3721995709038971
+                    ],
+                    [
+                        "big",
+                        0.442405568832413
+                    ],
+                    [
+                        "good",
+                        0.5611593614305682
+                    ],
+                    [
+                        "technological",
+                        0.5688434415223226
+                    ],
+                    [
+                        "work",
+                        0.5765893497624457
+                    ],
+                    [
+                        "people",
+                        0.5773497820090078
+                    ],
+                    [
+                        "effective",
+                        0.577946455637287
+                    ],
+                    [
+                        "story",
+                        0.5780586312496238
+                    ],
+                    [
+                        "Mark",
+                        0.668507440778535
+                    ],
+                    [
+                        "Zuckerberg",
+                        0.668507440778535
+                    ],
+                    [
+                        "UNINTELLIGIBLE",
+                        0.6777423305865364
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.69195803957393
+                    ],
+                    [
+                        "Mark Zuckerberg",
+                        0.8079985077942674
+                    ],
+                    [
+                        "stuff",
+                        0.8547483824931897
+                    ],
+                    [
+                        "time",
+                        0.8716086529661283
+                    ],
+                    [
+                        "equipment",
+                        0.8790070496889597
+                    ],
+                    [
+                        "limited",
+                        0.9029265150770842
+                    ],
+                    [
+                        "resource",
+                        0.9029265150770842
+                    ],
+                    [
+                        "input",
+                        0.9276069845001822
+                    ],
+                    [
+                        "company",
+                        0.9286129212379987
+                    ],
+                    [
+                        "hard",
+                        0.9286129212379987
+                    ],
+                    [
+                        "market",
+                        0.9287561656530048
+                    ],
+                    [
+                        "entrepreneur",
+                        0.9290475449524207
+                    ],
+                    [
+                        "great",
+                        0.9290475449524207
+                    ],
+                    [
+                        "hand",
+                        0.9290475449524207
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "PROFESSOR",
+                        0.24145988082397596
+                    ],
+                    [
+                        "audience",
+                        0.24705421281344006
+                    ],
+                    [
+                        "return",
+                        0.28178590787448915
+                    ],
+                    [
+                        "scale",
+                        0.3078142819466203
+                    ],
+                    [
+                        "good",
+                        0.5611593614305682
+                    ],
+                    [
+                        "input",
+                        0.9276069845001822
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-2070": {
+            "id": "A6FOBdtbcz4-2070",
+            "heat": 0.213,
+            "start": 2070.0,
+            "text": " Now, so an example of what that looks like, if you go to the last page in the handout, figure 8-6a shows constant returns to scale. So let's start with 8-6a, that's constant returns to scale. So here-- and these are from the textbook-- for example, when we doubled the inputs from 100 labor, 100 capital, to 200 labor, 200 capital, you doubled output. Those are constant returns to scale isoquants. The last page shows decreasing and increasing returns to scale. So for instance, tobacco is an example of decreasing returns to scale, because there's only so much leaf that you have that you can produce. So here, when you double the inputs from 100 to 200, your output only goes from 100 to 142. OK, and if you want to double the 200 units, you've got to go way the heck up there on inputs. On the other hand, primary metal production is something where you can have increasing returns to scale, because there's such high costs of building a plant that once it's built, so just like I said, gee, in fact that second digger of the hole might actually make it more productive. Once that plant's built, there's one worker banging around the plant, a second worker adds a huge amount to productivity because they can specialize. Basically, increasing returns to scale is going to come from specialization. So if you build this big plant to build primary, to build steel, one worker in that plant is no good, because he's got to pour the steel, then run over and cool it down, et cetera. Once you have two, they can specialize, and three, they can specialize more.",
+            "metrics": {
+                "relativeDCReadability": 1.0150777618610065,
+                "lexicalDiversity": 0.5102739726027398,
+                "posComposition": {
+                    "RB": 0.058,
+                    "DT": 0.079,
+                    "NN": 0.14,
+                    "IN": 0.116,
+                    "WP": 0.003,
+                    "VBZ": 0.045,
+                    "PRP": 0.065,
+                    "VBP": 0.031,
+                    "TO": 0.062,
+                    "JJ": 0.065,
+                    "NNS": 0.051,
+                    "VB": 0.079,
+                    "NNP": 0.017,
+                    "POS": 0.007,
+                    ":": 0.007,
+                    "CC": 0.017,
+                    "WRB": 0.01,
+                    "VBD": 0.014,
+                    "CD": 0.045,
+                    "VBG": 0.027,
+                    "EX": 0.01,
+                    "MD": 0.021,
+                    "PRP$": 0.003,
+                    "VBN": 0.01,
+                    "WDT": 0.003,
+                    "RBR": 0.007,
+                    "RP": 0.003,
+                    "JJR": 0.003
+                },
+                "syllableRate": 3.283,
+                "topicScores": [
+                    [
+                        "scale",
+                        0.21498657925491466
+                    ],
+                    [
+                        "return",
+                        0.22401571051523997
+                    ],
+                    [
+                        "plant",
+                        0.33219456380649637
+                    ],
+                    [
+                        "constant",
+                        0.3651777327702236
+                    ],
+                    [
+                        "example",
+                        0.39431364833614374
+                    ],
+                    [
+                        "input",
+                        0.3954479131807767
+                    ],
+                    [
+                        "worker",
+                        0.4339833798334135
+                    ],
+                    [
+                        "6a",
+                        0.4599835268276475
+                    ],
+                    [
+                        "constant return",
+                        0.4819966539523451
+                    ],
+                    [
+                        "page",
+                        0.5106051180730281
+                    ],
+                    [
+                        "capital",
+                        0.5223361001112261
+                    ],
+                    [
+                        "output",
+                        0.5291652815094836
+                    ],
+                    [
+                        "labor",
+                        0.5310357029456982
+                    ],
+                    [
+                        "primary",
+                        0.550489217421623
+                    ],
+                    [
+                        "second",
+                        0.5520130767710957
+                    ],
+                    [
+                        "steel",
+                        0.5640712082351267
+                    ],
+                    [
+                        "figure",
+                        0.7803453119570417
+                    ],
+                    [
+                        "handout",
+                        0.7898500128289363
+                    ],
+                    [
+                        "here--",
+                        0.8730089605889912
+                    ],
+                    [
+                        "isoquant",
+                        0.8736272259595638
+                    ],
+                    [
+                        "textbook--",
+                        0.8789609489080246
+                    ],
+                    [
+                        "instance",
+                        0.8996534475543286
+                    ],
+                    [
+                        "tobacco",
+                        0.8996534475543286
+                    ],
+                    [
+                        "productive",
+                        0.9003407833198722
+                    ],
+                    [
+                        "cetera",
+                        0.9016495490095205
+                    ],
+                    [
+                        "leaf",
+                        0.9044932451121007
+                    ],
+                    [
+                        "specialization",
+                        0.9049829497728128
+                    ],
+                    [
+                        "unit",
+                        0.9073843519207737
+                    ],
+                    [
+                        "metal",
+                        0.9101390271097237
+                    ],
+                    [
+                        "fact",
+                        0.9101390271097237
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "scale",
+                        0.21498657925491466
+                    ],
+                    [
+                        "return",
+                        0.22401571051523997
+                    ],
+                    [
+                        "input",
+                        0.3954479131807767
+                    ],
+                    [
+                        "worker",
+                        0.4339833798334135
+                    ],
+                    [
+                        "capital",
+                        0.5223361001112261
+                    ],
+                    [
+                        "output",
+                        0.5291652815094836
+                    ],
+                    [
+                        "labor",
+                        0.5310357029456982
+                    ],
+                    [
+                        "isoquant",
+                        0.8736272259595638
+                    ],
+                    [
+                        "unit",
+                        0.9073843519207737
+                    ]
+                ]
+            }
+        },
+        "A6FOBdtbcz4-2160": {
+            "id": "A6FOBdtbcz4-2160",
+            "heat": 0.201,
+            "start": 2160.0,
+            "text": " You might think of something like that would have increasing returns to scale through specialization. And that's illustrated here, where doubling the inputs actually leads to more than doubling the output. Now we're going to talk about all these cases. Typically, economists are suspicious of increasing returns to scale. Anybody, anybody who ever has an IPO, whoever starts a firm will always tell you that they have increasing returns to scale. Well, we say, I've got a great idea and the bigger, the more, the better it's going to be. And they're generally wrong. Generally, we think of increasing returns to scale as being like a free lunch. And we don't like free lunches, we economists. We think, gee, if it's really increasing returns to scale, you would have already expanded there. OK, if it's really such a good idea to get bigger, why aren't you bigger already? Now, it doesn't mean you can-- Yeah. AUDIENCE: Well, they need capital. PROFESSOR: Well, they need capital, and so that would be their argument. And that's great. And typically, they're wrong. But that would be why you would argue that they need capital to get bigger. So typically, we like decreasing returns to scale. That's going to be our sort of default assumption of the world. In other words, here's a way to think about it, think about we're dealing with mature firms. We're modeling, for instance, mature firms. We think that for mature firms, at least, there's not increasing returns to scale, because in a mature firm they would have hit that point already. Now they're on the decreasing part. So that's where we're going to focus for the rest of the semester. OK, let me stop there. And good luck tomorrow night. And we'll come back to talk more about production on Wednesday.",
+            "metrics": {
+                "relativeDCReadability": 0.865852855206398,
+                "lexicalDiversity": 0.5292307692307693,
+                "posComposition": {
+                    "PRP": 0.102,
+                    "MD": 0.031,
+                    "VB": 0.089,
+                    "IN": 0.092,
+                    "NN": 0.095,
+                    "DT": 0.071,
+                    "VBG": 0.052,
+                    "NNS": 0.049,
+                    "TO": 0.049,
+                    "CC": 0.031,
+                    "VBZ": 0.04,
+                    "VBN": 0.009,
+                    "RB": 0.08,
+                    "WRB": 0.012,
+                    "RBR": 0.006,
+                    "VBP": 0.065,
+                    "PDT": 0.003,
+                    "JJ": 0.043,
+                    "NNP": 0.031,
+                    "WP": 0.003,
+                    "VBD": 0.003,
+                    "JJR": 0.018,
+                    ":": 0.003,
+                    "WDT": 0.006,
+                    "PRP$": 0.006,
+                    "JJS": 0.003,
+                    "EX": 0.006
+                },
+                "syllableRate": 3.85,
+                "topicScores": [
+                    [
+                        "return",
+                        0.25526871406965185
+                    ],
+                    [
+                        "scale",
+                        0.2618943045418606
+                    ],
+                    [
+                        "firm",
+                        0.336480766289806
+                    ],
+                    [
+                        "big",
+                        0.3765177969844358
+                    ],
+                    [
+                        "mature",
+                        0.3804180179878843
+                    ],
+                    [
+                        "capital",
+                        0.43621767518429644
+                    ],
+                    [
+                        "wrong",
+                        0.5565376503028299
+                    ],
+                    [
+                        "free",
+                        0.5569674551468763
+                    ],
+                    [
+                        "economist",
+                        0.557133747132258
+                    ],
+                    [
+                        "lunch",
+                        0.5605185818843957
+                    ],
+                    [
+                        "idea",
+                        0.5698110718812501
+                    ],
+                    [
+                        "great",
+                        0.5732962315780011
+                    ],
+                    [
+                        "good",
+                        0.5812550953034716
+                    ],
+                    [
+                        "IPO",
+                        0.6029892227651377
+                    ],
+                    [
+                        "audience",
+                        0.6298535683891823
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6367204092244751
+                    ],
+                    [
+                        "Wednesday",
+                        0.6885532188266767
+                    ],
+                    [
+                        "specialization",
+                        0.8218751679258886
+                    ],
+                    [
+                        "output",
+                        0.8741214206553627
+                    ],
+                    [
+                        "input",
+                        0.8925566086839725
+                    ],
+                    [
+                        "case",
+                        0.8940611027271564
+                    ],
+                    [
+                        "suspicious",
+                        0.9192381993327627
+                    ],
+                    [
+                        "argument",
+                        0.9354455400042373
+                    ],
+                    [
+                        "world",
+                        0.9384831224040114
+                    ],
+                    [
+                        "semester",
+                        0.9406005421700889
+                    ],
+                    [
+                        "night",
+                        0.9412857825738256
+                    ],
+                    [
+                        "instance",
+                        0.9428215155861742
+                    ],
+                    [
+                        "point",
+                        0.9463341689569571
+                    ],
+                    [
+                        "tomorrow",
+                        0.9476391263813022
+                    ],
+                    [
+                        "sort",
+                        0.9480525656371606
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "return",
+                        0.25526871406965185
+                    ],
+                    [
+                        "scale",
+                        0.2618943045418606
+                    ],
+                    [
+                        "firm",
+                        0.336480766289806
+                    ],
+                    [
+                        "capital",
+                        0.43621767518429644
+                    ],
+                    [
+                        "good",
+                        0.5812550953034716
+                    ],
+                    [
+                        "audience",
+                        0.6298535683891823
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6367204092244751
+                    ],
+                    [
+                        "output",
+                        0.8741214206553627
+                    ],
+                    [
+                        "input",
+                        0.8925566086839725
+                    ]
+                ]
+            }
+        }
+    }
+}

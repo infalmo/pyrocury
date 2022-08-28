@@ -1,0 +1,5069 @@
+{
+    "metadata": {
+        "id": "tBBJ2TSTa1Q",
+        "avgHeat": 0.01,
+        "runtime": 2308.2999999999997,
+        "dale-challReadabilityScore": 8.098851165602902,
+        "lexicalDiversity": 0.4749306592703222,
+        "posComposition": {
+            "NNP": 0.029,
+            "PRP": 0.078,
+            "VBP": 0.041,
+            "JJ": 0.071,
+            "IN": 0.09,
+            "NNS": 0.026,
+            "RB": 0.064,
+            "VB": 0.052,
+            "JJR": 0.002,
+            "DT": 0.129,
+            "CC": 0.041,
+            "NN": 0.133,
+            "VBZ": 0.058,
+            ":": 0.008,
+            "TO": 0.02,
+            "WDT": 0.011,
+            "MD": 0.018,
+            "VBG": 0.024,
+            "POS": 0.004,
+            "CD": 0.033,
+            "PRP$": 0.007,
+            "RP": 0.01,
+            "VBN": 0.008,
+            "VBD": 0.016,
+            "WRB": 0.009,
+            "``": 0.0,
+            "''": 0.0,
+            "RBR": 0.002,
+            "WP": 0.008,
+            "EX": 0.004,
+            "FW": 0.0,
+            "$": 0.0,
+            "PDT": 0.001,
+            "RBS": 0.001,
+            "NNPS": 0.0,
+            "JJS": 0.001,
+            "UH": 0.0
+        },
+        "syllableRate": 2.675,
+        "topicScores": [
+            [
+                "ok",
+                0.06615577961213667
+            ],
+            [
+                "derivative",
+                0.10960153829150328
+            ],
+            [
+                "Mass Pike",
+                0.12539646907097496
+            ],
+            [
+                "slope",
+                0.1325126314128905
+            ],
+            [
+                "point",
+                0.14050695109225408
+            ],
+            [
+                "second",
+                0.14323954598413977
+            ],
+            [
+                "x",
+                0.14689976197367932
+            ],
+            [
+                "square",
+                0.15410469291879175
+            ],
+            [
+                "MIT",
+                0.16024503959455746
+            ],
+            [
+                "graph",
+                0.16785662451145003
+            ],
+            [
+                "y",
+                0.1701578855519347
+            ],
+            [
+                "maximum",
+                0.17374873435360552
+            ],
+            [
+                "prime",
+                0.18533880354930582
+            ],
+            [
+                "equal",
+                0.18791352941929373
+            ],
+            [
+                "minimum",
+                0.1885115639962224
+            ],
+            [
+                "function",
+                0.1905708711006303
+            ],
+            [
+                "minus",
+                0.19378204753555364
+            ],
+            [
+                "time",
+                0.19507721763937547
+            ],
+            [
+                "second derivative",
+                0.20560178060743667
+            ],
+            [
+                "distance",
+                0.2062707185393745
+            ],
+            [
+                "curve",
+                0.21098309386596634
+            ],
+            [
+                "sine",
+                0.218038837791873
+            ],
+            [
+                "speed",
+                0.21867689977103247
+            ],
+            [
+                "bending",
+                0.22405470008916853
+            ],
+            [
+                "negative",
+                0.22412129837010197
+            ],
+            [
+                "double",
+                0.23782630811291489
+            ],
+            [
+                "positive",
+                0.24011005593133583
+            ],
+            [
+                "inflection",
+                0.24011488073624188
+            ],
+            [
+                "word",
+                0.24116228944211981
+            ],
+            [
+                "root",
+                0.24126091319995746
+            ]
+        ],
+        "topicsList": [
+            "ok",
+            "derivative",
+            "Mass Pike",
+            "slope",
+            "point",
+            "second",
+            "x",
+            "square",
+            "MIT",
+            "graph",
+            "y",
+            "maximum",
+            "prime",
+            "equal",
+            "minimum",
+            "function",
+            "minus",
+            "time",
+            "second derivative",
+            "distance",
+            "curve",
+            "sine",
+            "speed",
+            "bending",
+            "negative",
+            "double",
+            "positive",
+            "inflection",
+            "word",
+            "root"
+        ]
+    },
+    "chunks": {
+        "tBBJ2TSTa1Q-0": {
+            "id": "tBBJ2TSTa1Q-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: Hi. Well, I hope you're ready for second derivatives. We don't go higher than that in many problems, but the second derivative is an important-- the derivative of the derivative is an important thing to know, especially in problems with maximum and minimum, which is the big application of derivatives, to locate a maximum or a minimum, and to decide which one it is. And I can tell you right away, locating a maximum, minimum, is the first derivative's job. The first derivative is 0. If I have a maximum or a minimum, and we'll have pictures, somewhere in the middle of my function I'll recognize by derivative equals 0. Slope equals 0, that the function is leveling off, either bending down or bending up, maximum or minimum.",
+            "metrics": {
+                "relativeDCReadability": 1.105967820325703,
+                "lexicalDiversity": 0.5111111111111111,
+                "posComposition": {
+                    "NNP": 0.03,
+                    "PRP": 0.067,
+                    "VBP": 0.03,
+                    "JJ": 0.111,
+                    "IN": 0.089,
+                    "NNS": 0.052,
+                    "RB": 0.037,
+                    "VB": 0.052,
+                    "JJR": 0.007,
+                    "DT": 0.126,
+                    "CC": 0.067,
+                    "NN": 0.126,
+                    "VBZ": 0.052,
+                    ":": 0.007,
+                    "TO": 0.022,
+                    "WDT": 0.015,
+                    "MD": 0.022,
+                    "VBG": 0.03,
+                    "POS": 0.007,
+                    "CD": 0.022,
+                    "PRP$": 0.007,
+                    "RP": 0.022
+                },
+                "syllableRate": 1.8,
+                "topicScores": [
+                    [
+                        "derivative",
+                        0.27235040320256076
+                    ],
+                    [
+                        "minimum",
+                        0.31093420741791533
+                    ],
+                    [
+                        "maximum",
+                        0.3214810363751092
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.4313240354467597
+                    ],
+                    [
+                        "second",
+                        0.5439155775971918
+                    ],
+                    [
+                        "problem",
+                        0.56067520682051
+                    ],
+                    [
+                        "function",
+                        0.5710884413376351
+                    ],
+                    [
+                        "job",
+                        0.8800797879528754
+                    ],
+                    [
+                        "Slope",
+                        0.8923659897325888
+                    ],
+                    [
+                        "ready",
+                        0.897759876060535
+                    ],
+                    [
+                        "high",
+                        0.9051590868070865
+                    ],
+                    [
+                        "important--",
+                        0.9051590868070865
+                    ],
+                    [
+                        "thing",
+                        0.9051590868070865
+                    ],
+                    [
+                        "big",
+                        0.9051590868070865
+                    ],
+                    [
+                        "application",
+                        0.9051590868070865
+                    ],
+                    [
+                        "picture",
+                        0.9092379279446957
+                    ],
+                    [
+                        "middle",
+                        0.9173558872557939
+                    ],
+                    [
+                        "second derivative",
+                        1.8361918361000986
+                    ],
+                    [
+                        "important thing",
+                        4.534431627137612
+                    ],
+                    [
+                        "big application",
+                        4.534431627137612
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "derivative",
+                        0.27235040320256076
+                    ],
+                    [
+                        "minimum",
+                        0.31093420741791533
+                    ],
+                    [
+                        "maximum",
+                        0.3214810363751092
+                    ],
+                    [
+                        "second",
+                        0.5439155775971918
+                    ],
+                    [
+                        "function",
+                        0.5710884413376351
+                    ],
+                    [
+                        "second derivative",
+                        1.8361918361000986
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-90": {
+            "id": "tBBJ2TSTa1Q-90",
+            "heat": 0.414,
+            "start": 90.0,
+            "text": " OK, and it's the second derivative that tells me which it is. The second derivative tells me the bending of the graph. OK, so we now will have three generations. The big picture of calculus started with two functions: the distance and the speed. And we discussed in detail the connection between them. How to recover the speed if we know the distance, take the derivative. Now comes the derivative of the speed, which in that language, in the distance-speed-time language, the second derivative is the acceleration, the rate at which your speed is changing, the rate at which you're speeding up or slowing down. And this is the way I would write that. If the speed is the first derivative-- df dt-- this is the way you write the second derivative, and you say d second f dt squared. d second f dt squared. OK, so that's you could say the physics example: distance, speed, acceleration. And I say physics because, of course, acceleration is the a",
+            "metrics": {
+                "relativeDCReadability": 0.9525389800143513,
+                "lexicalDiversity": 0.47398843930635837,
+                "posComposition": {
+                    "NN": 0.202,
+                    "CC": 0.04,
+                    "PRP": 0.081,
+                    "VBZ": 0.064,
+                    "DT": 0.173,
+                    "JJ": 0.092,
+                    "WDT": 0.029,
+                    "NNS": 0.029,
+                    "IN": 0.098,
+                    "NNP": 0.012,
+                    "RB": 0.012,
+                    "MD": 0.017,
+                    "VB": 0.029,
+                    "CD": 0.012,
+                    "VBN": 0.006,
+                    "VBD": 0.017,
+                    "WRB": 0.006,
+                    "TO": 0.006,
+                    "VBP": 0.029,
+                    "PRP$": 0.006,
+                    "VBG": 0.017,
+                    "RP": 0.012,
+                    ":": 0.012
+                },
+                "syllableRate": 2.067,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.2224601402425901
+                    ],
+                    [
+                        "speed",
+                        0.2598162239051434
+                    ],
+                    [
+                        "second",
+                        0.2622416180106393
+                    ],
+                    [
+                        "derivative",
+                        0.2636522185031901
+                    ],
+                    [
+                        "distance",
+                        0.3396545644239107
+                    ],
+                    [
+                        "acceleration",
+                        0.41307930216603944
+                    ],
+                    [
+                        "second derivative",
+                        0.5156857349487041
+                    ],
+                    [
+                        "rate",
+                        0.5278763603179419
+                    ],
+                    [
+                        "f",
+                        0.5320137868656042
+                    ],
+                    [
+                        "way",
+                        0.5405717139617895
+                    ],
+                    [
+                        "physics",
+                        0.5458928869833064
+                    ],
+                    [
+                        "language",
+                        0.5476868747089807
+                    ],
+                    [
+                        "graph",
+                        0.8215785422748966
+                    ],
+                    [
+                        "generation",
+                        0.848397739994622
+                    ],
+                    [
+                        "bending",
+                        0.8494948324103403
+                    ],
+                    [
+                        "big",
+                        0.8786790475027265
+                    ],
+                    [
+                        "function",
+                        0.8786790475027265
+                    ],
+                    [
+                        "picture",
+                        0.8854981926999705
+                    ],
+                    [
+                        "calculus",
+                        0.8854981926999705
+                    ],
+                    [
+                        "time",
+                        0.8915580604254929
+                    ],
+                    [
+                        "detail",
+                        0.8936797005084522
+                    ],
+                    [
+                        "connection",
+                        0.8936797005084522
+                    ],
+                    [
+                        "course",
+                        0.9066392254226288
+                    ],
+                    [
+                        "df",
+                        0.9099610063766486
+                    ],
+                    [
+                        "dt--",
+                        0.9099610063766486
+                    ],
+                    [
+                        "example",
+                        0.9106792699198945
+                    ],
+                    [
+                        "second f",
+                        1.032846222417809
+                    ],
+                    [
+                        "time language",
+                        3.423383359069147
+                    ],
+                    [
+                        "big picture",
+                        3.505899070666387
+                    ],
+                    [
+                        "physics example",
+                        3.715595259950229
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.2224601402425901
+                    ],
+                    [
+                        "speed",
+                        0.2598162239051434
+                    ],
+                    [
+                        "second",
+                        0.2622416180106393
+                    ],
+                    [
+                        "derivative",
+                        0.2636522185031901
+                    ],
+                    [
+                        "distance",
+                        0.3396545644239107
+                    ],
+                    [
+                        "second derivative",
+                        0.5156857349487041
+                    ],
+                    [
+                        "graph",
+                        0.8215785422748966
+                    ],
+                    [
+                        "bending",
+                        0.8494948324103403
+                    ],
+                    [
+                        "function",
+                        0.8786790475027265
+                    ],
+                    [
+                        "time",
+                        0.8915580604254929
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-180": {
+            "id": "tBBJ2TSTa1Q-180",
+            "heat": 0.0,
+            "start": 180.0,
+            "text": " in Newton's Law f equals ma. For a graph, like these graphs here, I won't especially use those physics words. I'll use graph words. So I would say function one would be the height of the graph. And in this case, that height is y equals x squared, so it's a simple parabola. Here would be the slope. I would use the word \"slope\" for the second function. And the slope of y equals x squared we know is 2x, so we see the slope increasing. And you see on this picture the slope is increasing. As x increases, I'm going up more steeply. Now, it's the second derivative. And what shall I call that? Bending. Bending is the natural word for the second derivative on a graph. And what do I-- the derivative of 2x is 2, a constant, a positive constant, and that positive constant tells me that the slope is going upwards and that the curve is bending upwards. So in this simple case, we connect these three",
+            "metrics": {
+                "relativeDCReadability": 1.0422484337505864,
+                "lexicalDiversity": 0.5166666666666667,
+                "posComposition": {
+                    "IN": 0.111,
+                    "NNP": 0.017,
+                    "POS": 0.006,
+                    "NN": 0.156,
+                    "NNS": 0.061,
+                    "VBP": 0.05,
+                    "DT": 0.139,
+                    "RB": 0.039,
+                    "PRP": 0.078,
+                    "MD": 0.039,
+                    "VB": 0.039,
+                    "JJ": 0.061,
+                    "CD": 0.028,
+                    "CC": 0.039,
+                    "WDT": 0.006,
+                    "VBZ": 0.05,
+                    "VBN": 0.011,
+                    "``": 0.006,
+                    "''": 0.006,
+                    "VBG": 0.033,
+                    "RP": 0.006,
+                    "RBR": 0.006,
+                    "WP": 0.011,
+                    ":": 0.006
+                },
+                "syllableRate": 1.925,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.31344320216784105
+                    ],
+                    [
+                        "graph",
+                        0.3412851360490051
+                    ],
+                    [
+                        "word",
+                        0.37658188445928326
+                    ],
+                    [
+                        "Newton",
+                        0.42953427903806973
+                    ],
+                    [
+                        "second",
+                        0.43505985235980643
+                    ],
+                    [
+                        "increase",
+                        0.44035527328743906
+                    ],
+                    [
+                        "Law",
+                        0.4441901479240196
+                    ],
+                    [
+                        "derivative",
+                        0.44538290468130914
+                    ],
+                    [
+                        "constant",
+                        0.4551590778358817
+                    ],
+                    [
+                        "y",
+                        0.5622284834671554
+                    ],
+                    [
+                        "function",
+                        0.564054393212357
+                    ],
+                    [
+                        "height",
+                        0.5646562663347974
+                    ],
+                    [
+                        "case",
+                        0.5677280549728553
+                    ],
+                    [
+                        "simple",
+                        0.5746992966033719
+                    ],
+                    [
+                        "positive",
+                        0.5779435712111367
+                    ],
+                    [
+                        "2x",
+                        0.5798311782344884
+                    ],
+                    [
+                        "Law f",
+                        0.5894297543734427
+                    ],
+                    [
+                        "ma",
+                        0.7850844459446102
+                    ],
+                    [
+                        "physics",
+                        0.8728942470802875
+                    ],
+                    [
+                        "parabola",
+                        0.8911547034845712
+                    ],
+                    [
+                        "bending",
+                        0.9166357704489081
+                    ],
+                    [
+                        "picture",
+                        0.9316232748960837
+                    ],
+                    [
+                        "natural",
+                        0.938342997334015
+                    ],
+                    [
+                        "curve",
+                        0.9392326786380755
+                    ],
+                    [
+                        "second derivative",
+                        2.1741111060370457
+                    ],
+                    [
+                        "positive constant",
+                        3.166846265779825
+                    ],
+                    [
+                        "physics word",
+                        3.2239591872897884
+                    ],
+                    [
+                        "graph word",
+                        3.374459226237207
+                    ],
+                    [
+                        "second function",
+                        3.5023024369962523
+                    ],
+                    [
+                        "simple parabola",
+                        4.311582056033319
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.31344320216784105
+                    ],
+                    [
+                        "graph",
+                        0.3412851360490051
+                    ],
+                    [
+                        "word",
+                        0.37658188445928326
+                    ],
+                    [
+                        "second",
+                        0.43505985235980643
+                    ],
+                    [
+                        "derivative",
+                        0.44538290468130914
+                    ],
+                    [
+                        "y",
+                        0.5622284834671554
+                    ],
+                    [
+                        "function",
+                        0.564054393212357
+                    ],
+                    [
+                        "positive",
+                        0.5779435712111367
+                    ],
+                    [
+                        "bending",
+                        0.9166357704489081
+                    ],
+                    [
+                        "curve",
+                        0.9392326786380755
+                    ],
+                    [
+                        "second derivative",
+                        2.1741111060370457
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-270": {
+            "id": "tBBJ2TSTa1Q-270",
+            "heat": 0.0,
+            "start": 270.0,
+            "text": " descriptions of our function. It's positive. It's slope is positive. And its second derivative-- bending-- is positive. And that gives us a function that goes like that. Now, let me go to a different function. Let me take a second example now, an example where not everything is positive. But let's make it familiar. Take sine x. So sine x starts out like that. So this is a graph of sine x up to 90 degrees, pi over 2, so that's y equals sine x. OK, what do you think about its slope? We know the derivative of sine x, but before we write it down, look at the graph. The slope is positive, right? But the slope actually starts out at 1. Better make it look a little more realistic. That's a slope of 1 there. So the slope starts at 1 and the slope drops to a slope of 0 up there. So a slope of 1. I see here is a 1.",
+            "metrics": {
+                "relativeDCReadability": 1.1099234221640983,
+                "lexicalDiversity": 0.5058139534883721,
+                "posComposition": {
+                    "NNS": 0.023,
+                    "IN": 0.099,
+                    "PRP$": 0.017,
+                    "NN": 0.14,
+                    "PRP": 0.076,
+                    "VBZ": 0.093,
+                    "JJ": 0.087,
+                    "CC": 0.035,
+                    ":": 0.012,
+                    "DT": 0.116,
+                    "WDT": 0.006,
+                    "RB": 0.064,
+                    "VB": 0.041,
+                    "TO": 0.017,
+                    "WRB": 0.006,
+                    "NNP": 0.047,
+                    "RP": 0.017,
+                    "CD": 0.047,
+                    "VBP": 0.041,
+                    "WP": 0.006,
+                    "RBR": 0.006,
+                    "EX": 0.006
+                },
+                "syllableRate": 1.842,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.26828979424632016
+                    ],
+                    [
+                        "positive",
+                        0.3145596348871366
+                    ],
+                    [
+                        "sine",
+                        0.34630679716545176
+                    ],
+                    [
+                        "function",
+                        0.42771651573283076
+                    ],
+                    [
+                        "x",
+                        0.4453692598835799
+                    ],
+                    [
+                        "second",
+                        0.5715532002904783
+                    ],
+                    [
+                        "example",
+                        0.5738529450571941
+                    ],
+                    [
+                        "graph",
+                        0.5750501843712361
+                    ],
+                    [
+                        "OK",
+                        0.6761667830183872
+                    ],
+                    [
+                        "description",
+                        0.7927913914807592
+                    ],
+                    [
+                        "familiar",
+                        0.9088704552206401
+                    ],
+                    [
+                        "right",
+                        0.9103983771905821
+                    ],
+                    [
+                        "derivative--",
+                        0.9136275299718862
+                    ],
+                    [
+                        "bending--",
+                        0.9136275299718862
+                    ],
+                    [
+                        "different",
+                        0.9176894176971746
+                    ],
+                    [
+                        "realistic",
+                        0.9212360704264998
+                    ],
+                    [
+                        "degree",
+                        0.929965271010694
+                    ],
+                    [
+                        "pi",
+                        0.929965271010694
+                    ],
+                    [
+                        "y",
+                        0.9357878305675691
+                    ],
+                    [
+                        "x. OK",
+                        1.5674659965331255
+                    ],
+                    [
+                        "sine x",
+                        2.482931952007967
+                    ],
+                    [
+                        "different function",
+                        3.6516353216554123
+                    ],
+                    [
+                        "second example",
+                        4.679861754692471
+                    ],
+                    [
+                        "second derivative--",
+                        4.802025572905402
+                    ],
+                    [
+                        "derivative-- bending--",
+                        5.050165437607179
+                    ],
+                    [
+                        "sine x. OK",
+                        7.923970208934542
+                    ],
+                    [
+                        "second derivative-- bending--",
+                        33.88877490555509
+                    ]
+                ],
+                "topTopicSimilarity": 0.2962962962962963,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.26828979424632016
+                    ],
+                    [
+                        "positive",
+                        0.3145596348871366
+                    ],
+                    [
+                        "sine",
+                        0.34630679716545176
+                    ],
+                    [
+                        "function",
+                        0.42771651573283076
+                    ],
+                    [
+                        "x",
+                        0.4453692598835799
+                    ],
+                    [
+                        "second",
+                        0.5715532002904783
+                    ],
+                    [
+                        "graph",
+                        0.5750501843712361
+                    ],
+                    [
+                        "y",
+                        0.9357878305675691
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-360": {
+            "id": "tBBJ2TSTa1Q-360",
+            "heat": 0.0,
+            "start": 360.0,
+            "text": " Here I'm graphing y prime. dy dx I sometimes write as y prime, just because it's shorter, and particularly, it'll be shorter for a second derivative. So y prime, we know the derivative of sine x is cos x, which is pretty neat actually, that we start with a familiar function, and then we get its twin, its other half. And the cosine is the slope of the sine curve, and it starts at 1, a slope of 1, and it comes down to 0, as we know the cosine does. So that's a graph of the cosine. And now, of course, we have three generations. I'm going to graph y double prime. Let me put it up here. y double prime, the second derivative, the derivative of the cosine of x is minus sine x. OK, let's just-- from the picture, what am I seeing here? I'm seeing a slope of 0. I'm taking now the slope of the slope. So here it starts at 0. The slope is downwards, so the second derivative is going to be negative.",
+            "metrics": {
+                "relativeDCReadability": 1.148264841727884,
+                "lexicalDiversity": 0.4656084656084656,
+                "posComposition": {
+                    "RB": 0.079,
+                    "PRP": 0.095,
+                    "VBP": 0.058,
+                    "VBG": 0.032,
+                    "NN": 0.159,
+                    "JJ": 0.111,
+                    "IN": 0.106,
+                    "VBZ": 0.063,
+                    "JJR": 0.011,
+                    "CC": 0.032,
+                    "MD": 0.005,
+                    "VB": 0.026,
+                    "DT": 0.106,
+                    "NNP": 0.021,
+                    "WDT": 0.005,
+                    "PRP$": 0.011,
+                    "CD": 0.032,
+                    "TO": 0.016,
+                    "NNS": 0.011,
+                    "RP": 0.005,
+                    "POS": 0.005,
+                    ":": 0.005,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.033,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.301517212566941
+                    ],
+                    [
+                        "y",
+                        0.3029639461133024
+                    ],
+                    [
+                        "prime",
+                        0.3097370394310445
+                    ],
+                    [
+                        "derivative",
+                        0.31927199007415336
+                    ],
+                    [
+                        "cosine",
+                        0.366010730477342
+                    ],
+                    [
+                        "second",
+                        0.42389976102789567
+                    ],
+                    [
+                        "graph",
+                        0.4325444224952886
+                    ],
+                    [
+                        "x",
+                        0.4380350733048584
+                    ],
+                    [
+                        "double",
+                        0.539800583670509
+                    ],
+                    [
+                        "short",
+                        0.5461690348415809
+                    ],
+                    [
+                        "OK",
+                        0.6604387909931494
+                    ],
+                    [
+                        "dy",
+                        0.801347591770346
+                    ],
+                    [
+                        "y prime",
+                        0.8406125368385603
+                    ],
+                    [
+                        "dx",
+                        0.8679502064507421
+                    ],
+                    [
+                        "half",
+                        0.8810970866295563
+                    ],
+                    [
+                        "neat",
+                        0.8981543284709721
+                    ],
+                    [
+                        "familiar",
+                        0.8981543284709721
+                    ],
+                    [
+                        "function",
+                        0.8981543284709721
+                    ],
+                    [
+                        "twin",
+                        0.8981543284709721
+                    ],
+                    [
+                        "generation",
+                        0.9000193058697039
+                    ],
+                    [
+                        "curve",
+                        0.9055279963492847
+                    ],
+                    [
+                        "course",
+                        0.9077396076138357
+                    ],
+                    [
+                        "negative",
+                        0.9153740888568551
+                    ],
+                    [
+                        "picture",
+                        0.9222126524157892
+                    ],
+                    [
+                        "just--",
+                        0.9278713015757979
+                    ],
+                    [
+                        "downward",
+                        0.9279163994658669
+                    ],
+                    [
+                        "second derivative",
+                        1.1649691511040592
+                    ],
+                    [
+                        "y double",
+                        1.2811818224572613
+                    ],
+                    [
+                        "double prime",
+                        1.3721137181189524
+                    ],
+                    [
+                        "x. OK",
+                        1.5579700552099498
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.301517212566941
+                    ],
+                    [
+                        "y",
+                        0.3029639461133024
+                    ],
+                    [
+                        "prime",
+                        0.3097370394310445
+                    ],
+                    [
+                        "derivative",
+                        0.31927199007415336
+                    ],
+                    [
+                        "second",
+                        0.42389976102789567
+                    ],
+                    [
+                        "graph",
+                        0.4325444224952886
+                    ],
+                    [
+                        "x",
+                        0.4380350733048584
+                    ],
+                    [
+                        "double",
+                        0.539800583670509
+                    ],
+                    [
+                        "function",
+                        0.8981543284709721
+                    ],
+                    [
+                        "curve",
+                        0.9055279963492847
+                    ],
+                    [
+                        "negative",
+                        0.9153740888568551
+                    ],
+                    [
+                        "second derivative",
+                        1.1649691511040592
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-450": {
+            "id": "tBBJ2TSTa1Q-450",
+            "heat": 0.0,
+            "start": 450.0,
+            "text": " Oh, and it is negative, minus sign x. So the slope starts at 0 and ends at minus 1 because that now comes down at a negative slope. The slope is negative. I'm going downhill, and that's a graph of the second derivative. And which way is our function bending? It's bending down. As I go along, the slope is dropping. And I see that in the slope curve. It's falling. And I see it in the bending curve because I'm below 0 here. This is bending down, where that one was bending up. I could introduce the word convex for something that bends upwards, and bending down, I could introduce the word concave. But those are just words. The graphs are telling us much more than the words do.",
+            "metrics": {
+                "relativeDCReadability": 0.9379244430595628,
+                "lexicalDiversity": 0.4666666666666667,
+                "posComposition": {
+                    "UH": 0.007,
+                    "CC": 0.067,
+                    "PRP": 0.089,
+                    "VBZ": 0.081,
+                    "JJ": 0.037,
+                    "NNP": 0.015,
+                    "DT": 0.126,
+                    "NN": 0.133,
+                    "IN": 0.104,
+                    "CD": 0.03,
+                    "NNS": 0.037,
+                    "RB": 0.037,
+                    "VBP": 0.067,
+                    "VBG": 0.067,
+                    "WDT": 0.015,
+                    "PRP$": 0.007,
+                    "RP": 0.03,
+                    "WRB": 0.007,
+                    "VBD": 0.007,
+                    "MD": 0.015,
+                    "VB": 0.015,
+                    "RBR": 0.007
+                },
+                "syllableRate": 1.433,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.33243592312604664
+                    ],
+                    [
+                        "word",
+                        0.386605297992732
+                    ],
+                    [
+                        "negative",
+                        0.4088545628655136
+                    ],
+                    [
+                        "curve",
+                        0.5649643139398512
+                    ],
+                    [
+                        "graph",
+                        0.576875260862672
+                    ],
+                    [
+                        "x.",
+                        0.7787743807995056
+                    ],
+                    [
+                        "sign",
+                        0.7989568758725865
+                    ],
+                    [
+                        "derivative",
+                        0.8789209431459863
+                    ],
+                    [
+                        "second",
+                        0.9018381418883556
+                    ],
+                    [
+                        "function",
+                        0.9089721311776954
+                    ],
+                    [
+                        "concave",
+                        0.9108638344091126
+                    ],
+                    [
+                        "way",
+                        0.917532457758266
+                    ],
+                    [
+                        "convex",
+                        0.9351074599109097
+                    ],
+                    [
+                        "sign x.",
+                        1.6469531919098612
+                    ],
+                    [
+                        "negative slope",
+                        2.363442613610605
+                    ],
+                    [
+                        "slope curve",
+                        3.3381806622684733
+                    ],
+                    [
+                        "second derivative",
+                        3.822633899471648
+                    ],
+                    [
+                        "word concave",
+                        4.484105814262482
+                    ],
+                    [
+                        "word convex",
+                        5.227333899925409
+                    ]
+                ],
+                "topTopicSimilarity": 0.47368421052631576,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.33243592312604664
+                    ],
+                    [
+                        "word",
+                        0.386605297992732
+                    ],
+                    [
+                        "negative",
+                        0.4088545628655136
+                    ],
+                    [
+                        "curve",
+                        0.5649643139398512
+                    ],
+                    [
+                        "graph",
+                        0.576875260862672
+                    ],
+                    [
+                        "derivative",
+                        0.8789209431459863
+                    ],
+                    [
+                        "second",
+                        0.9018381418883556
+                    ],
+                    [
+                        "function",
+                        0.9089721311776954
+                    ],
+                    [
+                        "second derivative",
+                        3.822633899471648
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-540": {
+            "id": "tBBJ2TSTa1Q-540",
+            "heat": 0.0,
+            "start": 540.0,
+            "text": " OK, so do you see that picture bending down, but going up? So the slope is positive here, but the second derivative, the slope is dropping. So the second derivative-- and you have to pay attention to keep them straight. The second derivative is telling us that the original one is bending down. OK, let me continue these graphs just a little beyond 90 degrees, pi over 2, because you'll see something interesting. So what happens in the next part of the graph? So this is going-- the sine curve, of course, continues on its way downwards. So the slope is going negative, as I know the cosine curve will do, as the cosine curve will come like that. The slope down to minus 1, the slope-- do you see here? The slope is negative, so on this slope graph, I'm below 0. And the slope is 0. Let me put a little mark at these points here, at these three points. Those are important points. In fact, that is a maximum, of course.",
+            "metrics": {
+                "relativeDCReadability": 0.9670442308496955,
+                "lexicalDiversity": 0.4860335195530726,
+                "posComposition": {
+                    "NNP": 0.022,
+                    "RB": 0.045,
+                    "VBP": 0.039,
+                    "PRP": 0.056,
+                    "VB": 0.067,
+                    "IN": 0.117,
+                    "NN": 0.156,
+                    "VBG": 0.045,
+                    "RP": 0.017,
+                    "CC": 0.022,
+                    "DT": 0.145,
+                    "VBZ": 0.061,
+                    "JJ": 0.073,
+                    ":": 0.017,
+                    "TO": 0.017,
+                    "VBD": 0.006,
+                    "CD": 0.034,
+                    "NNS": 0.028,
+                    "MD": 0.017,
+                    "WP": 0.006,
+                    "PRP$": 0.006,
+                    "WDT": 0.006
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.277349842134057
+                    ],
+                    [
+                        "ok",
+                        0.2947867709645891
+                    ],
+                    [
+                        "second",
+                        0.4002060601916955
+                    ],
+                    [
+                        "curve",
+                        0.42900609095168235
+                    ],
+                    [
+                        "graph",
+                        0.4380596785950197
+                    ],
+                    [
+                        "point",
+                        0.4387026359811291
+                    ],
+                    [
+                        "derivative",
+                        0.5207761865248502
+                    ],
+                    [
+                        "course",
+                        0.5356188780710959
+                    ],
+                    [
+                        "negative",
+                        0.5544233759324639
+                    ],
+                    [
+                        "cosine",
+                        0.5560410963341532
+                    ],
+                    [
+                        "little",
+                        0.5630516919458753
+                    ],
+                    [
+                        "picture",
+                        0.8139708464971357
+                    ],
+                    [
+                        "positive",
+                        0.8576509694583467
+                    ],
+                    [
+                        "straight",
+                        0.8581860568766978
+                    ],
+                    [
+                        "interesting",
+                        0.8811684244629284
+                    ],
+                    [
+                        "attention",
+                        0.8889271379212189
+                    ],
+                    [
+                        "downward",
+                        0.8923322861132623
+                    ],
+                    [
+                        "degree",
+                        0.8997240286052607
+                    ],
+                    [
+                        "original",
+                        0.9002256316772683
+                    ],
+                    [
+                        "way",
+                        0.9093240352134913
+                    ],
+                    [
+                        "going--",
+                        0.9163925894625891
+                    ],
+                    [
+                        "fact",
+                        0.9165234857954346
+                    ],
+                    [
+                        "important",
+                        0.9221502043316194
+                    ],
+                    [
+                        "maximum",
+                        0.9233714874957596
+                    ],
+                    [
+                        "mark",
+                        0.9270146830326683
+                    ],
+                    [
+                        "second derivative",
+                        1.2284031365842942
+                    ],
+                    [
+                        "cosine curve",
+                        1.9566487717297818
+                    ],
+                    [
+                        "slope graph",
+                        2.689692386870922
+                    ],
+                    [
+                        "important point",
+                        4.2383296135291495
+                    ],
+                    [
+                        "way downward",
+                        4.302766635487295
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.277349842134057
+                    ],
+                    [
+                        "ok",
+                        0.2947867709645891
+                    ],
+                    [
+                        "second",
+                        0.4002060601916955
+                    ],
+                    [
+                        "curve",
+                        0.42900609095168235
+                    ],
+                    [
+                        "graph",
+                        0.4380596785950197
+                    ],
+                    [
+                        "point",
+                        0.4387026359811291
+                    ],
+                    [
+                        "derivative",
+                        0.5207761865248502
+                    ],
+                    [
+                        "negative",
+                        0.5544233759324639
+                    ],
+                    [
+                        "positive",
+                        0.8576509694583467
+                    ],
+                    [
+                        "maximum",
+                        0.9233714874957596
+                    ],
+                    [
+                        "second derivative",
+                        1.2284031365842942
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-630": {
+            "id": "tBBJ2TSTa1Q-630",
+            "heat": 0.0,
+            "start": 630.0,
+            "text": " The sine curve hits its maximum at 1. At that point when it hits its maximum, what's its slope? When you hit a maximum, you're not going up anymore. You haven't started down. The slope is 0 right there. What's the second derivative? What's the bending at a maximum? The bending tells you that the slope is going down, so the bending is negative. The bending is negative at a maximum. Good. OK, now I'm going to continue this sine curve for another 90 degrees, the cosine curve, and I'll continue the bending curve, so I have minus sine x, which will go back up. OK, now what? Now what? And then, of course, it would continue along. OK, there's something interesting happening at 180 degrees, at pi. Can I identify that point? So there's 180 degrees. Something's happening there. I don't see-- I don't quite know how to say what yet, but something's happening there.",
+            "metrics": {
+                "relativeDCReadability": 1.0789090456172048,
+                "lexicalDiversity": 0.5176470588235295,
+                "posComposition": {
+                    "DT": 0.1,
+                    "NN": 0.159,
+                    "VBZ": 0.076,
+                    "PRP$": 0.018,
+                    "IN": 0.053,
+                    "CD": 0.029,
+                    "WRB": 0.018,
+                    "PRP": 0.071,
+                    "JJ": 0.053,
+                    "WP": 0.035,
+                    "VBP": 0.047,
+                    "RB": 0.124,
+                    "VBG": 0.035,
+                    "RP": 0.018,
+                    "VBN": 0.012,
+                    "EX": 0.018,
+                    "TO": 0.012,
+                    "VB": 0.041,
+                    "NNS": 0.018,
+                    "CC": 0.018,
+                    "MD": 0.018,
+                    "WDT": 0.006,
+                    "NNP": 0.012,
+                    "POS": 0.006,
+                    ":": 0.006
+                },
+                "syllableRate": 1.925,
+                "topicScores": [
+                    [
+                        "maximum",
+                        0.32506209044272494
+                    ],
+                    [
+                        "bending",
+                        0.38226779143859657
+                    ],
+                    [
+                        "curve",
+                        0.39412685502658007
+                    ],
+                    [
+                        "slope",
+                        0.4389307446613004
+                    ],
+                    [
+                        "degree",
+                        0.4559784511034324
+                    ],
+                    [
+                        "sine",
+                        0.4580015313014873
+                    ],
+                    [
+                        "negative",
+                        0.5648745334336572
+                    ],
+                    [
+                        "point",
+                        0.5734380563640018
+                    ],
+                    [
+                        "good",
+                        0.8882069408858153
+                    ],
+                    [
+                        "derivative",
+                        0.9097510400894726
+                    ],
+                    [
+                        "pi",
+                        0.9196365030274195
+                    ],
+                    [
+                        "second",
+                        0.9264265253666081
+                    ],
+                    [
+                        "cosine",
+                        0.9308430681018681
+                    ],
+                    [
+                        "see--",
+                        0.9314064036950477
+                    ],
+                    [
+                        "course",
+                        0.9344718797059453
+                    ],
+                    [
+                        "interesting",
+                        0.9470350401571545
+                    ],
+                    [
+                        "sine curve",
+                        3.2700976302474394
+                    ],
+                    [
+                        "second derivative",
+                        5.36203119500656
+                    ],
+                    [
+                        "cosine curve",
+                        5.749749006307843
+                    ],
+                    [
+                        "sine x",
+                        6.079242849297564
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "maximum",
+                        0.32506209044272494
+                    ],
+                    [
+                        "bending",
+                        0.38226779143859657
+                    ],
+                    [
+                        "curve",
+                        0.39412685502658007
+                    ],
+                    [
+                        "slope",
+                        0.4389307446613004
+                    ],
+                    [
+                        "sine",
+                        0.4580015313014873
+                    ],
+                    [
+                        "negative",
+                        0.5648745334336572
+                    ],
+                    [
+                        "point",
+                        0.5734380563640018
+                    ],
+                    [
+                        "derivative",
+                        0.9097510400894726
+                    ],
+                    [
+                        "second",
+                        0.9264265253666081
+                    ],
+                    [
+                        "second derivative",
+                        5.36203119500656
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-720": {
+            "id": "tBBJ2TSTa1Q-720",
+            "heat": 0.0,
+            "start": 720.0,
+            "text": " It's got to show up here, and it has to show up here. So whatever is happening is showing up by a point where y double prime, the second derivative, is 0. That's my new little observation, not as big a deal as maximum or minimum. This was a max here. And we identified it as a max because the second derivative was negative. Now I'm interested in this point. Can you see what's happening at this point as far as bending goes? This curve is bending down. But when I continue, the bending changes to up. This is a point where the bending changes. The second derivative changes sign, and we see it here. Up to this square point, the bending is below 0. The bending is downwards as I come to here. But then there's something rather special that-- you see, can I try to blow that point up? Here the bending is down, and there it turns to up, and right in there with the-- this is called-- so this is my final word to introduce--",
+            "metrics": {
+                "relativeDCReadability": 0.7922044450496311,
+                "lexicalDiversity": 0.40425531914893614,
+                "posComposition": {
+                    "PRP": 0.069,
+                    "VBZ": 0.096,
+                    "VBD": 0.021,
+                    "TO": 0.043,
+                    "VB": 0.043,
+                    "RP": 0.021,
+                    "RB": 0.096,
+                    "CC": 0.043,
+                    "WP": 0.011,
+                    "VBG": 0.021,
+                    "IN": 0.064,
+                    "DT": 0.128,
+                    "NN": 0.133,
+                    "WRB": 0.016,
+                    "JJ": 0.074,
+                    "CD": 0.011,
+                    "WDT": 0.005,
+                    "POS": 0.005,
+                    "PRP$": 0.011,
+                    "VBP": 0.027,
+                    "MD": 0.011,
+                    "NNS": 0.016,
+                    "EX": 0.011,
+                    ":": 0.021,
+                    "VBN": 0.005
+                },
+                "syllableRate": 2.042,
+                "topicScores": [
+                    [
+                        "point",
+                        0.30129565807954717
+                    ],
+                    [
+                        "bending",
+                        0.3622933684896501
+                    ],
+                    [
+                        "second",
+                        0.394918060547473
+                    ],
+                    [
+                        "derivative",
+                        0.40180859118768986
+                    ],
+                    [
+                        "change",
+                        0.42579896052458144
+                    ],
+                    [
+                        "max",
+                        0.5352257650909026
+                    ],
+                    [
+                        "double",
+                        0.8432307327542096
+                    ],
+                    [
+                        "prime",
+                        0.8432307327542096
+                    ],
+                    [
+                        "minimum",
+                        0.8438101540420584
+                    ],
+                    [
+                        "y",
+                        0.8546278445560058
+                    ],
+                    [
+                        "little",
+                        0.8673209068994066
+                    ],
+                    [
+                        "observation",
+                        0.8673209068994066
+                    ],
+                    [
+                        "negative",
+                        0.8687660132458997
+                    ],
+                    [
+                        "second derivative",
+                        0.8688349930146105
+                    ],
+                    [
+                        "new",
+                        0.8772216704260878
+                    ],
+                    [
+                        "big",
+                        0.8772216704260878
+                    ],
+                    [
+                        "deal",
+                        0.8772216704260878
+                    ],
+                    [
+                        "maximum",
+                        0.8772216704260878
+                    ],
+                    [
+                        "introduce--",
+                        0.9002921302968052
+                    ],
+                    [
+                        "curve",
+                        0.9030650437020152
+                    ],
+                    [
+                        "interested",
+                        0.9030803993045969
+                    ],
+                    [
+                        "sign",
+                        0.9103424106303908
+                    ],
+                    [
+                        "square",
+                        0.9120846123170229
+                    ],
+                    [
+                        "downward",
+                        0.9203696947069628
+                    ],
+                    [
+                        "special",
+                        0.921616535699756
+                    ],
+                    [
+                        "that--",
+                        0.921616535699756
+                    ],
+                    [
+                        "the--",
+                        0.9227276963973442
+                    ],
+                    [
+                        "called--",
+                        0.9227276963973442
+                    ],
+                    [
+                        "final",
+                        0.9227276963973442
+                    ],
+                    [
+                        "word",
+                        0.9227276963973442
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.30129565807954717
+                    ],
+                    [
+                        "bending",
+                        0.3622933684896501
+                    ],
+                    [
+                        "second",
+                        0.394918060547473
+                    ],
+                    [
+                        "derivative",
+                        0.40180859118768986
+                    ],
+                    [
+                        "double",
+                        0.8432307327542096
+                    ],
+                    [
+                        "prime",
+                        0.8432307327542096
+                    ],
+                    [
+                        "minimum",
+                        0.8438101540420584
+                    ],
+                    [
+                        "y",
+                        0.8546278445560058
+                    ],
+                    [
+                        "negative",
+                        0.8687660132458997
+                    ],
+                    [
+                        "second derivative",
+                        0.8688349930146105
+                    ],
+                    [
+                        "maximum",
+                        0.8772216704260878
+                    ],
+                    [
+                        "curve",
+                        0.9030650437020152
+                    ],
+                    [
+                        "square",
+                        0.9120846123170229
+                    ],
+                    [
+                        "word",
+                        0.9227276963973442
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-810": {
+            "id": "tBBJ2TSTa1Q-810",
+            "heat": 0.0,
+            "start": 810.0,
+            "text": " inflection point. Don't ask me why. An inflection point is a point where the second derivative is 0. And what does that mean? That means at that moment, it stopped bending down, and it's going to start bending up. The second derivative is passing through 0. The sign of bending is changing. It's changing from concave here to convex there. That's a significant point on the graph. Not as big a thing as the max or the min that we had over there. So let me draw one more example and identify all these different points. OK, so here we go. I drew it ahead of time because it's got a few loops, and I wanted to get it in good form. OK, here it is. This is my function: x cubed minus x squared. Well, before I look at the picture, what would be the first calculus thing I do? I take the derivative. y prime is the derivative of x cubed, is three x squared minus the derivative of x squared, which is 2x.",
+            "metrics": {
+                "relativeDCReadability": 0.9477027468079282,
+                "lexicalDiversity": 0.4696132596685083,
+                "posComposition": {
+                    "NN": 0.166,
+                    "VBP": 0.022,
+                    "RB": 0.055,
+                    "VB": 0.055,
+                    "PRP": 0.088,
+                    "WRB": 0.011,
+                    "DT": 0.127,
+                    "VBZ": 0.083,
+                    "JJ": 0.061,
+                    "CD": 0.028,
+                    "CC": 0.039,
+                    "WP": 0.011,
+                    "IN": 0.083,
+                    "VBD": 0.05,
+                    "VBG": 0.033,
+                    "TO": 0.017,
+                    "RP": 0.006,
+                    "EX": 0.006,
+                    "NNP": 0.022,
+                    "JJR": 0.006,
+                    "NNS": 0.011,
+                    "FW": 0.006,
+                    "PRP$": 0.006,
+                    "MD": 0.006,
+                    "WDT": 0.006
+                },
+                "syllableRate": 1.958,
+                "topicScores": [
+                    [
+                        "derivative",
+                        0.33039232188451273
+                    ],
+                    [
+                        "point",
+                        0.33325194699295124
+                    ],
+                    [
+                        "inflection",
+                        0.5120373560306415
+                    ],
+                    [
+                        "second",
+                        0.5331934469936759
+                    ],
+                    [
+                        "cubed",
+                        0.5667579506802207
+                    ],
+                    [
+                        "minus",
+                        0.5759453684616253
+                    ],
+                    [
+                        "thing",
+                        0.5789596485029304
+                    ],
+                    [
+                        "graph",
+                        0.9042930208031967
+                    ],
+                    [
+                        "moment",
+                        0.9085253358828648
+                    ],
+                    [
+                        "form",
+                        0.9111841790508177
+                    ],
+                    [
+                        "sign",
+                        0.9156368263817197
+                    ],
+                    [
+                        "y",
+                        0.9163296445646568
+                    ],
+                    [
+                        "different",
+                        0.9235856028164857
+                    ],
+                    [
+                        "concave",
+                        0.9248923191357696
+                    ],
+                    [
+                        "loop",
+                        0.9261053227285582
+                    ],
+                    [
+                        "good",
+                        0.9261053227285582
+                    ],
+                    [
+                        "significant",
+                        0.9268357309405049
+                    ],
+                    [
+                        "function",
+                        0.9281035470125286
+                    ],
+                    [
+                        "big",
+                        0.9284817082966916
+                    ],
+                    [
+                        "max",
+                        0.9284817082966916
+                    ],
+                    [
+                        "picture",
+                        0.9289593150754333
+                    ],
+                    [
+                        "example",
+                        0.9298985748800697
+                    ],
+                    [
+                        "prime",
+                        0.9304523251563067
+                    ],
+                    [
+                        "time",
+                        0.932225403928567
+                    ],
+                    [
+                        "calculus",
+                        0.9348596497916943
+                    ],
+                    [
+                        "inflection point",
+                        1.4659718667088042
+                    ],
+                    [
+                        "second derivative",
+                        1.636578813536441
+                    ],
+                    [
+                        "different point",
+                        3.8927767218305958
+                    ],
+                    [
+                        "significant point",
+                        3.9607328555232306
+                    ],
+                    [
+                        "cubed minus",
+                        4.555732843089315
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "derivative",
+                        0.33039232188451273
+                    ],
+                    [
+                        "point",
+                        0.33325194699295124
+                    ],
+                    [
+                        "inflection",
+                        0.5120373560306415
+                    ],
+                    [
+                        "second",
+                        0.5331934469936759
+                    ],
+                    [
+                        "minus",
+                        0.5759453684616253
+                    ],
+                    [
+                        "graph",
+                        0.9042930208031967
+                    ],
+                    [
+                        "y",
+                        0.9163296445646568
+                    ],
+                    [
+                        "function",
+                        0.9281035470125286
+                    ],
+                    [
+                        "prime",
+                        0.9304523251563067
+                    ],
+                    [
+                        "time",
+                        0.932225403928567
+                    ],
+                    [
+                        "second derivative",
+                        1.636578813536441
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-900": {
+            "id": "tBBJ2TSTa1Q-900",
+            "heat": 0.0,
+            "start": 900.0,
+            "text": " And now today, I take the derivative of that. I take the second derivative, y double prime. So the second derivative is the derivative of this. x squared is going to give me 2x, and I have a 3, so it's all together 6x. And minus 2x, the slope of that is minus 2, right? Cubic, quadratic, linear, and if I cared about y triple prime, which I don't, constant. And then the fourth derivatives and all the rest would be 0 for this case. OK, now somehow, those derivatives, those formulas for y, y prime, y double prime should tell me details about this graph. And the first thing I'm interested in and the most important thing is max and min. So let me set y prime to be-- which is 3x squared minus 2x. I'll set it to be 0 because I want to look for max, or min. And I look for both at the same time by setting y prime equals 0, and then I find out which I've got by looking at y double prime. So let me set y prime to be 0.",
+            "metrics": {
+                "relativeDCReadability": 1.1644669023686889,
+                "lexicalDiversity": 0.4564102564102564,
+                "posComposition": {
+                    "CC": 0.072,
+                    "RB": 0.041,
+                    "NN": 0.108,
+                    "PRP": 0.087,
+                    "VBP": 0.051,
+                    "DT": 0.103,
+                    "IN": 0.092,
+                    "JJ": 0.123,
+                    "VBZ": 0.031,
+                    "VBD": 0.01,
+                    "VBG": 0.015,
+                    "TO": 0.026,
+                    "VB": 0.067,
+                    "CD": 0.056,
+                    "$": 0.005,
+                    "NNP": 0.026,
+                    "WDT": 0.015,
+                    "NNS": 0.031,
+                    "PDT": 0.005,
+                    "MD": 0.015,
+                    "RBS": 0.005,
+                    ":": 0.005,
+                    "RP": 0.005,
+                    "VBN": 0.005
+                },
+                "syllableRate": 2.067,
+                "topicScores": [
+                    [
+                        "y",
+                        0.25784727106356214
+                    ],
+                    [
+                        "prime",
+                        0.26219860739527767
+                    ],
+                    [
+                        "derivative",
+                        0.30176169496728555
+                    ],
+                    [
+                        "double",
+                        0.40863703948395563
+                    ],
+                    [
+                        "2x",
+                        0.43255013165953154
+                    ],
+                    [
+                        "second",
+                        0.5309002403067472
+                    ],
+                    [
+                        "min",
+                        0.54227689588329
+                    ],
+                    [
+                        "max",
+                        0.5720992344119316
+                    ],
+                    [
+                        "thing",
+                        0.5769038940946986
+                    ],
+                    [
+                        "today",
+                        0.8663237955750841
+                    ],
+                    [
+                        "right",
+                        0.8859349985842541
+                    ],
+                    [
+                        "cubic",
+                        0.8907873001343382
+                    ],
+                    [
+                        "constant",
+                        0.8907873001343382
+                    ],
+                    [
+                        "case",
+                        0.9034520738843584
+                    ],
+                    [
+                        "graph",
+                        0.9063116311146295
+                    ],
+                    [
+                        "quadratic",
+                        0.9079977345585019
+                    ],
+                    [
+                        "linear",
+                        0.9079977345585019
+                    ],
+                    [
+                        "slope",
+                        0.911282759517781
+                    ],
+                    [
+                        "triple",
+                        0.9151600329179509
+                    ],
+                    [
+                        "formula",
+                        0.9206603161274104
+                    ],
+                    [
+                        "fourth",
+                        0.9243690859661018
+                    ],
+                    [
+                        "rest",
+                        0.9243690859661018
+                    ],
+                    [
+                        "detail",
+                        0.9266594144870268
+                    ],
+                    [
+                        "interested",
+                        0.9285606344113599
+                    ],
+                    [
+                        "important",
+                        0.9285606344113599
+                    ],
+                    [
+                        "be--",
+                        0.9301707302384552
+                    ],
+                    [
+                        "time",
+                        0.9327656118743839
+                    ],
+                    [
+                        "double prime",
+                        1.058979075518662
+                    ],
+                    [
+                        "y prime",
+                        1.0643208892363278
+                    ],
+                    [
+                        "y double",
+                        1.1668677415417983
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "y",
+                        0.25784727106356214
+                    ],
+                    [
+                        "prime",
+                        0.26219860739527767
+                    ],
+                    [
+                        "derivative",
+                        0.30176169496728555
+                    ],
+                    [
+                        "double",
+                        0.40863703948395563
+                    ],
+                    [
+                        "second",
+                        0.5309002403067472
+                    ],
+                    [
+                        "graph",
+                        0.9063116311146295
+                    ],
+                    [
+                        "slope",
+                        0.911282759517781
+                    ],
+                    [
+                        "time",
+                        0.9327656118743839
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-990": {
+            "id": "tBBJ2TSTa1Q-990",
+            "heat": 0.0,
+            "start": 990.0,
+            "text": " What are the solutions? Where are the points on the curve where it's stationary? It's not climbing and it's not dropping? Well, I see them on the curve here. That is a point where the slope is 0. And I see one down here. There is a point where the slope is 0, but I can find them with algebra. I solve 3x squared equals to 2x, and I see it's a quadratic equation. I expect to find two roots. One of them is x equals 0, and the other one is what? If I cancel those x's to find a non-zero, canceling those x's leaves me with 3x equals 2 or x equals 2/3. Yeah, and that's what our graph shows. OK, now we can see on the graph which is a max and which is a min. And by the way, let me just notice, of course, this is the max. But let me just notice that it's what I would call a local maximum. It's not the absolute top of the function because the",
+            "metrics": {
+                "relativeDCReadability": 1.013789241079894,
+                "lexicalDiversity": 0.43010752688172044,
+                "posComposition": {
+                    "WP": 0.022,
+                    "VBP": 0.043,
+                    "DT": 0.134,
+                    "NNS": 0.043,
+                    "WRB": 0.022,
+                    "IN": 0.065,
+                    "NN": 0.113,
+                    "PRP": 0.113,
+                    "VBZ": 0.091,
+                    "JJ": 0.048,
+                    "RB": 0.059,
+                    "VBG": 0.011,
+                    "CC": 0.054,
+                    "NNP": 0.022,
+                    "CD": 0.059,
+                    "EX": 0.005,
+                    "MD": 0.016,
+                    "VB": 0.038,
+                    "TO": 0.016,
+                    "POS": 0.011,
+                    "PRP$": 0.005,
+                    "WDT": 0.011
+                },
+                "syllableRate": 1.842,
+                "topicScores": [
+                    [
+                        "x",
+                        0.37976833423239237
+                    ],
+                    [
+                        "point",
+                        0.3954061806929818
+                    ],
+                    [
+                        "curve",
+                        0.5189206267988586
+                    ],
+                    [
+                        "slope",
+                        0.522063015787554
+                    ],
+                    [
+                        "3x",
+                        0.5500641794782261
+                    ],
+                    [
+                        "max",
+                        0.5528550022849038
+                    ],
+                    [
+                        "graph",
+                        0.5634022286668168
+                    ],
+                    [
+                        "solution",
+                        0.8152142910394675
+                    ],
+                    [
+                        "stationary",
+                        0.8428070900012182
+                    ],
+                    [
+                        "algebra",
+                        0.8842741425576262
+                    ],
+                    [
+                        "equation",
+                        0.887631064090027
+                    ],
+                    [
+                        "root",
+                        0.8904243862703015
+                    ],
+                    [
+                        "min",
+                        0.8982017110196304
+                    ],
+                    [
+                        "maximum",
+                        0.9008737269508613
+                    ],
+                    [
+                        "quadratic",
+                        0.904539395630783
+                    ],
+                    [
+                        "course",
+                        0.9077045198592688
+                    ],
+                    [
+                        "non",
+                        0.9107713842836971
+                    ],
+                    [
+                        "way",
+                        0.9148875050576284
+                    ],
+                    [
+                        "local",
+                        0.9159780351091629
+                    ],
+                    [
+                        "absolute",
+                        0.9232204125446233
+                    ],
+                    [
+                        "function",
+                        0.9232204125446233
+                    ],
+                    [
+                        "quadratic equation",
+                        4.0734963488343015
+                    ],
+                    [
+                        "local maximum",
+                        4.720187191988762
+                    ]
+                ],
+                "topTopicSimilarity": 0.34782608695652173,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.37976833423239237
+                    ],
+                    [
+                        "point",
+                        0.3954061806929818
+                    ],
+                    [
+                        "curve",
+                        0.5189206267988586
+                    ],
+                    [
+                        "slope",
+                        0.522063015787554
+                    ],
+                    [
+                        "graph",
+                        0.5634022286668168
+                    ],
+                    [
+                        "root",
+                        0.8904243862703015
+                    ],
+                    [
+                        "maximum",
+                        0.9008737269508613
+                    ],
+                    [
+                        "function",
+                        0.9232204125446233
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1080": {
+            "id": "tBBJ2TSTa1Q-1080",
+            "heat": 0.0,
+            "start": 1080.0,
+            "text": " function later on is climbing off to infinity. This would be way a maximum in its neighborhood, so a maximum, and it's only a local max. And what do I expect to see at a maximum at x equals 0? I expect to see the slope 0 at x equals 0, which it is. Check. And at a maximum, I need to know the second derivative. OK, here's my formula. At x equals 0, I see y double prime if x is 0 is minus 2. Good. Negative second derivative tells me I'm bending down, as the graph confirms, and the place where the slope is 0 is a maximum and not a minimum. What about the other one? What about at x equals 2/3? At that point, y double prime, looking at my formula here for y double prime, is what? 6 times 2/3 is 4 minus 2 is plus 2. 4 minus 2 is 2. So this will be-- this is positive, so I'm expecting a min.",
+            "metrics": {
+                "relativeDCReadability": 1.2139553783124675,
+                "lexicalDiversity": 0.4942528735632184,
+                "posComposition": {
+                    "NN": 0.115,
+                    "RB": 0.046,
+                    "IN": 0.098,
+                    "VBZ": 0.069,
+                    "VBG": 0.023,
+                    "RP": 0.011,
+                    "TO": 0.023,
+                    "DT": 0.103,
+                    "MD": 0.011,
+                    "VB": 0.034,
+                    "PRP$": 0.017,
+                    "CC": 0.034,
+                    "PRP": 0.052,
+                    "JJ": 0.109,
+                    "WP": 0.023,
+                    "VBP": 0.034,
+                    "NNP": 0.017,
+                    "NNS": 0.04,
+                    "CD": 0.098,
+                    "WDT": 0.006,
+                    "NNPS": 0.006,
+                    "POS": 0.006,
+                    "EX": 0.006,
+                    "VBN": 0.006,
+                    "WRB": 0.006,
+                    ":": 0.006
+                },
+                "syllableRate": 1.942,
+                "topicScores": [
+                    [
+                        "x",
+                        0.31905893035855165
+                    ],
+                    [
+                        "maximum",
+                        0.32699935886790443
+                    ],
+                    [
+                        "double",
+                        0.42799089872872026
+                    ],
+                    [
+                        "prime",
+                        0.43593247702538984
+                    ],
+                    [
+                        "y",
+                        0.4400316875420186
+                    ],
+                    [
+                        "slope",
+                        0.5517003865703614
+                    ],
+                    [
+                        "second",
+                        0.5579670186278939
+                    ],
+                    [
+                        "derivative",
+                        0.5588432990220259
+                    ],
+                    [
+                        "formula",
+                        0.5621491789888456
+                    ],
+                    [
+                        "function",
+                        0.7758023565404992
+                    ],
+                    [
+                        "infinity",
+                        0.7758023565404992
+                    ],
+                    [
+                        "neighborhood",
+                        0.8641663492696416
+                    ],
+                    [
+                        "local",
+                        0.8641663492696416
+                    ],
+                    [
+                        "good",
+                        0.8718366017158466
+                    ],
+                    [
+                        "negative",
+                        0.90767109297942
+                    ],
+                    [
+                        "minimum",
+                        0.90767109297942
+                    ],
+                    [
+                        "graph",
+                        0.9231326491759603
+                    ],
+                    [
+                        "point",
+                        0.9271343725394591
+                    ],
+                    [
+                        "time",
+                        0.9281734087725501
+                    ],
+                    [
+                        "place",
+                        0.9294801847464783
+                    ],
+                    [
+                        "positive",
+                        0.9299516266484833
+                    ],
+                    [
+                        "double prime",
+                        1.4708358121608978
+                    ],
+                    [
+                        "y double",
+                        1.526902917687055
+                    ],
+                    [
+                        "second derivative",
+                        2.2808101656490045
+                    ],
+                    [
+                        "local max",
+                        2.6358475467763762
+                    ],
+                    [
+                        "negative second",
+                        4.0685548474791045
+                    ],
+                    [
+                        "negative second derivative",
+                        22.21915095077463
+                    ]
+                ],
+                "topTopicSimilarity": 0.5925925925925926,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.31905893035855165
+                    ],
+                    [
+                        "maximum",
+                        0.32699935886790443
+                    ],
+                    [
+                        "double",
+                        0.42799089872872026
+                    ],
+                    [
+                        "prime",
+                        0.43593247702538984
+                    ],
+                    [
+                        "y",
+                        0.4400316875420186
+                    ],
+                    [
+                        "slope",
+                        0.5517003865703614
+                    ],
+                    [
+                        "second",
+                        0.5579670186278939
+                    ],
+                    [
+                        "derivative",
+                        0.5588432990220259
+                    ],
+                    [
+                        "function",
+                        0.7758023565404992
+                    ],
+                    [
+                        "negative",
+                        0.90767109297942
+                    ],
+                    [
+                        "minimum",
+                        0.90767109297942
+                    ],
+                    [
+                        "graph",
+                        0.9231326491759603
+                    ],
+                    [
+                        "point",
+                        0.9271343725394591
+                    ],
+                    [
+                        "time",
+                        0.9281734087725501
+                    ],
+                    [
+                        "positive",
+                        0.9299516266484833
+                    ],
+                    [
+                        "second derivative",
+                        2.2808101656490045
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1170": {
+            "id": "tBBJ2TSTa1Q-1170",
+            "heat": 0.0,
+            "start": 1170.0,
+            "text": " At x equals 2/3, I'm expecting a min. And, of course, it is. And again, it's only a local minimum. The derivative can only tell you what's happening very, very close to that point. The derivative doesn't know that over here the function is going further down. So this is a min, and again, a local min. OK, those are maximum and minimum when we know the function. Oh yeah, I better do the inflection point. Do you remember what the inflection point is? The inflection point is when the bending changes from-- up to here I see that bending down. From here, I see it bending up. So I will not be surprised if that's the point where the bending is changing, and 1/3 is the inflection point. And now how do we find an inflection point? How do we identify this point? Well, y double prime was negative. y double prime was positive. At that point, y double prime is 0. This is an inflection point. And it is. At x equals to 1/3, I do have 6 times 1/3.",
+            "metrics": {
+                "relativeDCReadability": 0.9799057481778064,
+                "lexicalDiversity": 0.4148936170212766,
+                "posComposition": {
+                    "IN": 0.053,
+                    "NNP": 0.032,
+                    "NNS": 0.021,
+                    "CD": 0.032,
+                    "PRP": 0.08,
+                    "VBP": 0.048,
+                    "VBG": 0.032,
+                    "DT": 0.133,
+                    "NN": 0.17,
+                    "CC": 0.037,
+                    "VBZ": 0.074,
+                    "RB": 0.096,
+                    "JJ": 0.053,
+                    "MD": 0.011,
+                    "VB": 0.037,
+                    "WP": 0.011,
+                    "TO": 0.016,
+                    "WRB": 0.027,
+                    "JJR": 0.005,
+                    ":": 0.005,
+                    "RP": 0.011,
+                    "VBN": 0.005,
+                    "VBD": 0.011
+                },
+                "syllableRate": 2.1,
+                "topicScores": [
+                    [
+                        "point",
+                        0.24496017992148594
+                    ],
+                    [
+                        "inflection",
+                        0.28846833178562925
+                    ],
+                    [
+                        "double",
+                        0.4182567512502204
+                    ],
+                    [
+                        "min",
+                        0.4245825412046279
+                    ],
+                    [
+                        "y",
+                        0.43367433255138904
+                    ],
+                    [
+                        "prime",
+                        0.4378974423658321
+                    ],
+                    [
+                        "local",
+                        0.546558924566663
+                    ],
+                    [
+                        "derivative",
+                        0.5502842127293053
+                    ],
+                    [
+                        "function",
+                        0.5595502619113509
+                    ],
+                    [
+                        "x",
+                        0.559929641587324
+                    ],
+                    [
+                        "minimum",
+                        0.5625210401070548
+                    ],
+                    [
+                        "bending",
+                        0.5719203914723423
+                    ],
+                    [
+                        "change",
+                        0.5738543301244249
+                    ],
+                    [
+                        "inflection point",
+                        0.7791908673784925
+                    ],
+                    [
+                        "course",
+                        0.8720831837548042
+                    ],
+                    [
+                        "close",
+                        0.9107903506906954
+                    ],
+                    [
+                        "negative",
+                        0.9265657198894026
+                    ],
+                    [
+                        "positive",
+                        0.9275184736398882
+                    ],
+                    [
+                        "maximum",
+                        0.9310557756515508
+                    ],
+                    [
+                        "from--",
+                        0.9372832244605582
+                    ],
+                    [
+                        "surprised",
+                        0.9399370522666439
+                    ],
+                    [
+                        "time",
+                        0.9414236128753167
+                    ],
+                    [
+                        "y double",
+                        1.3218179663380252
+                    ],
+                    [
+                        "double prime",
+                        1.3699575181287944
+                    ],
+                    [
+                        "local min",
+                        2.7823030617216298
+                    ],
+                    [
+                        "local minimum",
+                        3.3926941520395926
+                    ],
+                    [
+                        "bending change",
+                        4.697054633318125
+                    ],
+                    [
+                        "change from--",
+                        5.7794003657046655
+                    ],
+                    [
+                        "bending change from--",
+                        40.80328120341471
+                    ]
+                ],
+                "topTopicSimilarity": 0.4827586206896552,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.24496017992148594
+                    ],
+                    [
+                        "inflection",
+                        0.28846833178562925
+                    ],
+                    [
+                        "double",
+                        0.4182567512502204
+                    ],
+                    [
+                        "y",
+                        0.43367433255138904
+                    ],
+                    [
+                        "prime",
+                        0.4378974423658321
+                    ],
+                    [
+                        "derivative",
+                        0.5502842127293053
+                    ],
+                    [
+                        "function",
+                        0.5595502619113509
+                    ],
+                    [
+                        "x",
+                        0.559929641587324
+                    ],
+                    [
+                        "minimum",
+                        0.5625210401070548
+                    ],
+                    [
+                        "bending",
+                        0.5719203914723423
+                    ],
+                    [
+                        "negative",
+                        0.9265657198894026
+                    ],
+                    [
+                        "positive",
+                        0.9275184736398882
+                    ],
+                    [
+                        "maximum",
+                        0.9310557756515508
+                    ],
+                    [
+                        "time",
+                        0.9414236128753167
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1260": {
+            "id": "tBBJ2TSTa1Q-1260",
+            "heat": 0.0,
+            "start": 1260.0,
+            "text": " 2 subtract 2, I have 0. So that is truly an inflection point. And now I know all the essential points about the curve. And these are the quantities-- oh! Say you're an economist. You're looking now at the statistics for the US economy or the world economy. OK, I suppose we're in a-- we had a local maximum there, a happy time a little while ago, but it went downhill, right? If y is, say, the gross product for the world or gross national product, it started down. The slope of that curve was negative. The bending was even negative. It was going down faster all the time. Now, at a certain moment, the economy kept going down, but you could see some sign of hope. And what was the sign of hope? It was the fact that it started bending up. And probably that's where we are as I'm making this video. I suspect we're still going down, but we're bending up.",
+            "metrics": {
+                "relativeDCReadability": 0.9236269088682559,
+                "lexicalDiversity": 0.45664739884393063,
+                "posComposition": {
+                    "CD": 0.017,
+                    "JJ": 0.075,
+                    "PRP": 0.104,
+                    "VBP": 0.081,
+                    "IN": 0.081,
+                    "DT": 0.156,
+                    "VBZ": 0.017,
+                    "RB": 0.052,
+                    "NN": 0.145,
+                    "CC": 0.052,
+                    "PDT": 0.012,
+                    "NNS": 0.023,
+                    ":": 0.012,
+                    "VBG": 0.04,
+                    "NNP": 0.006,
+                    "VBD": 0.058,
+                    "EX": 0.006,
+                    "RP": 0.035,
+                    "RBR": 0.006,
+                    "MD": 0.006,
+                    "VB": 0.006,
+                    "WDT": 0.006,
+                    "WRB": 0.006
+                },
+                "syllableRate": 1.933,
+                "topicScores": [
+                    [
+                        "economy",
+                        0.4319630637010194
+                    ],
+                    [
+                        "hope",
+                        0.5194196131302625
+                    ],
+                    [
+                        "point",
+                        0.5228171208363508
+                    ],
+                    [
+                        "negative",
+                        0.5280775220875998
+                    ],
+                    [
+                        "curve",
+                        0.5540037952300826
+                    ],
+                    [
+                        "world",
+                        0.5552295937834459
+                    ],
+                    [
+                        "sign",
+                        0.5613251871183095
+                    ],
+                    [
+                        "time",
+                        0.5621090724288548
+                    ],
+                    [
+                        "gross",
+                        0.5640514975485628
+                    ],
+                    [
+                        "product",
+                        0.5640514975485628
+                    ],
+                    [
+                        "subtract",
+                        0.7728466409240013
+                    ],
+                    [
+                        "inflection",
+                        0.8495189615811537
+                    ],
+                    [
+                        "quantities--",
+                        0.8636075006062116
+                    ],
+                    [
+                        "economist",
+                        0.8798728884627315
+                    ],
+                    [
+                        "right",
+                        0.8813258885178274
+                    ],
+                    [
+                        "essential",
+                        0.8827654942827684
+                    ],
+                    [
+                        "a--",
+                        0.8889396010234966
+                    ],
+                    [
+                        "video",
+                        0.9060454635350015
+                    ],
+                    [
+                        "maximum",
+                        0.9099764688407183
+                    ],
+                    [
+                        "happy",
+                        0.9099764688407183
+                    ],
+                    [
+                        "statistic",
+                        0.9116030494319421
+                    ],
+                    [
+                        "national",
+                        0.9122692192608324
+                    ],
+                    [
+                        "slope",
+                        0.9142125675722529
+                    ],
+                    [
+                        "bending",
+                        0.9158865140865253
+                    ],
+                    [
+                        "local",
+                        0.9173131008119825
+                    ],
+                    [
+                        "little",
+                        0.9173131008119825
+                    ],
+                    [
+                        "certain",
+                        0.9186377422753211
+                    ],
+                    [
+                        "moment",
+                        0.9186377422753211
+                    ],
+                    [
+                        "fact",
+                        0.9273440663042911
+                    ],
+                    [
+                        "inflection point",
+                        2.377808843694255
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.5228171208363508
+                    ],
+                    [
+                        "negative",
+                        0.5280775220875998
+                    ],
+                    [
+                        "curve",
+                        0.5540037952300826
+                    ],
+                    [
+                        "time",
+                        0.5621090724288548
+                    ],
+                    [
+                        "inflection",
+                        0.8495189615811537
+                    ],
+                    [
+                        "maximum",
+                        0.9099764688407183
+                    ],
+                    [
+                        "slope",
+                        0.9142125675722529
+                    ],
+                    [
+                        "bending",
+                        0.9158865140865253
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1350": {
+            "id": "tBBJ2TSTa1Q-1350",
+            "heat": 0.0,
+            "start": 1350.0,
+            "text": " And at some point, hopefully tomorrow, we'll hit minimum and start really up. So I don't know. I would guess we're somewhere in there, and I don't know where. If I knew where, mathematics would be even more useful than it is, which would be hard to do. OK, so that's an example of how the second derivative comes in. Now, I started by giving this lecture the title Max and Min and saying those are the biggest applications of the derivative. Set the derivative to 0 and solve. Locate maximum points, minimum points. That's what calculus is most-- many of the word problems, most of the ones I see in use, involve derivative equals 0. OK, so let me take a particular example. So these were graphs, simple functions which I chose: sine x, x squared, x cubed minus x squared. Now let me tell you the problem because this is how math really comes.",
+            "metrics": {
+                "relativeDCReadability": 1.0660366042458418,
+                "lexicalDiversity": 0.5214723926380368,
+                "posComposition": {
+                    "CC": 0.043,
+                    "IN": 0.092,
+                    "DT": 0.098,
+                    "NN": 0.061,
+                    "RB": 0.067,
+                    "PRP": 0.08,
+                    "MD": 0.025,
+                    "VB": 0.08,
+                    "JJ": 0.098,
+                    "VBP": 0.037,
+                    "EX": 0.006,
+                    "WRB": 0.025,
+                    "VBD": 0.031,
+                    "NNS": 0.055,
+                    "RBR": 0.006,
+                    "VBZ": 0.043,
+                    "WDT": 0.018,
+                    "TO": 0.012,
+                    "NNP": 0.055,
+                    "VBN": 0.012,
+                    "VBG": 0.012,
+                    "JJS": 0.006,
+                    "CD": 0.012,
+                    "WP": 0.006,
+                    "RBS": 0.012,
+                    ":": 0.006
+                },
+                "syllableRate": 1.867,
+                "topicScores": [
+                    [
+                        "derivative",
+                        0.37137824970505345
+                    ],
+                    [
+                        "x",
+                        0.3858210601262948
+                    ],
+                    [
+                        "point",
+                        0.43702128879917324
+                    ],
+                    [
+                        "minimum",
+                        0.5530476463164515
+                    ],
+                    [
+                        "example",
+                        0.561815266902675
+                    ],
+                    [
+                        "problem",
+                        0.5641044359541173
+                    ],
+                    [
+                        "Max",
+                        0.6603538160710469
+                    ],
+                    [
+                        "Min",
+                        0.6603538160710469
+                    ],
+                    [
+                        "tomorrow",
+                        0.8384294233375711
+                    ],
+                    [
+                        "locate",
+                        0.8923320148398044
+                    ],
+                    [
+                        "mathematics",
+                        0.8959459451987909
+                    ],
+                    [
+                        "maximum",
+                        0.9028326819792858
+                    ],
+                    [
+                        "useful",
+                        0.9051287207662853
+                    ],
+                    [
+                        "hard",
+                        0.9051287207662853
+                    ],
+                    [
+                        "second",
+                        0.9103462613903273
+                    ],
+                    [
+                        "word",
+                        0.9141624667018271
+                    ],
+                    [
+                        "lecture",
+                        0.9142606124280906
+                    ],
+                    [
+                        "title",
+                        0.9142606124280906
+                    ],
+                    [
+                        "big",
+                        0.9142606124280906
+                    ],
+                    [
+                        "application",
+                        0.9142606124280906
+                    ],
+                    [
+                        "particular",
+                        0.9160677356176129
+                    ],
+                    [
+                        "graph",
+                        0.917708741173994
+                    ],
+                    [
+                        "simple",
+                        0.917708741173994
+                    ],
+                    [
+                        "function",
+                        0.917708741173994
+                    ],
+                    [
+                        "calculus",
+                        0.9218778091227254
+                    ],
+                    [
+                        "most--",
+                        0.9218778091227254
+                    ],
+                    [
+                        "one",
+                        0.9218778091227254
+                    ],
+                    [
+                        "minus",
+                        0.9251314386640439
+                    ],
+                    [
+                        "title Max",
+                        1.5235668609750892
+                    ],
+                    [
+                        "minimum point",
+                        3.2762558794711527
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "derivative",
+                        0.37137824970505345
+                    ],
+                    [
+                        "x",
+                        0.3858210601262948
+                    ],
+                    [
+                        "point",
+                        0.43702128879917324
+                    ],
+                    [
+                        "minimum",
+                        0.5530476463164515
+                    ],
+                    [
+                        "maximum",
+                        0.9028326819792858
+                    ],
+                    [
+                        "second",
+                        0.9103462613903273
+                    ],
+                    [
+                        "word",
+                        0.9141624667018271
+                    ],
+                    [
+                        "graph",
+                        0.917708741173994
+                    ],
+                    [
+                        "function",
+                        0.917708741173994
+                    ],
+                    [
+                        "minus",
+                        0.9251314386640439
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1440": {
+            "id": "tBBJ2TSTa1Q-1440",
+            "heat": 0.0,
+            "start": 1440.0,
+            "text": " Let me tell you the problem, and let's create the function. OK, so much it's the problem I faced this morning and every morning. I live here. So OK, so here's home. And there is a-- the Mass Pike is the fast road to MIT. So let me put in the Mass Pike here, and let's say that's MIT, and I'm trying to get there as fast as possible. OK, so for part of the time, I'm going to have to drive on city streets. I do have to drive on city streets, and then I get to go on the Mass Pike, which is, let's say, twice as fast. The question is should I go directly over to the fast road and then take off? Let's take off on a good morning. The Mass Pike could be twice as slow, but let's assume twice as fast. Should I go straight over? Probably not. That's not the best way. I should probably pick up the Mass Pike on some road. I could go directly to MIT on the city streets at the slow rate, say 30 miles an hour or 30 kilometers an hour and 60, so speeds 30 and 60 as my speeds.",
+            "metrics": {
+                "relativeDCReadability": 0.9159039660362027,
+                "lexicalDiversity": 0.5138888888888888,
+                "posComposition": {
+                    "VB": 0.102,
+                    "PRP": 0.069,
+                    "DT": 0.111,
+                    "NN": 0.106,
+                    "CC": 0.051,
+                    "NNP": 0.083,
+                    "RB": 0.106,
+                    "JJ": 0.042,
+                    "VBZ": 0.032,
+                    "VBD": 0.005,
+                    "VBP": 0.032,
+                    "IN": 0.083,
+                    "POS": 0.023,
+                    "EX": 0.005,
+                    ":": 0.005,
+                    "TO": 0.037,
+                    "VBG": 0.009,
+                    "NNS": 0.028,
+                    "WDT": 0.005,
+                    "MD": 0.019,
+                    "RP": 0.014,
+                    "JJS": 0.005,
+                    "CD": 0.023,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.15,
+                "topicScores": [
+                    [
+                        "Mass Pike",
+                        0.20045147980408853
+                    ],
+                    [
+                        "MIT",
+                        0.32173356513764
+                    ],
+                    [
+                        "fast",
+                        0.33785166949021944
+                    ],
+                    [
+                        "city",
+                        0.42827627349082226
+                    ],
+                    [
+                        "street",
+                        0.440046722175955
+                    ],
+                    [
+                        "morning",
+                        0.44515068631280486
+                    ],
+                    [
+                        "road",
+                        0.44843150478814864
+                    ],
+                    [
+                        "problem",
+                        0.5196789121453732
+                    ],
+                    [
+                        "good",
+                        0.5782939743632883
+                    ],
+                    [
+                        "slow",
+                        0.5796250311311053
+                    ],
+                    [
+                        "speed",
+                        0.5838595374194441
+                    ],
+                    [
+                        "hour",
+                        0.5888760880635046
+                    ],
+                    [
+                        "function",
+                        0.7969169269288653
+                    ],
+                    [
+                        "home",
+                        0.890010493095052
+                    ],
+                    [
+                        "possible",
+                        0.9034791216495712
+                    ],
+                    [
+                        "way",
+                        0.9219455922830861
+                    ],
+                    [
+                        "a--",
+                        0.9229045133426411
+                    ],
+                    [
+                        "time",
+                        0.9238713322503218
+                    ],
+                    [
+                        "question",
+                        0.9288507585238606
+                    ],
+                    [
+                        "rate",
+                        0.9375773067791577
+                    ],
+                    [
+                        "mile",
+                        0.9430502710609105
+                    ],
+                    [
+                        "kilometer",
+                        0.9430502710609105
+                    ],
+                    [
+                        "city street",
+                        1.5312510520859717
+                    ],
+                    [
+                        "fast road",
+                        2.280080104393546
+                    ],
+                    [
+                        "good morning",
+                        4.435589827396447
+                    ],
+                    [
+                        "good way",
+                        5.452928570955167
+                    ],
+                    [
+                        "slow rate",
+                        6.211740241633629
+                    ]
+                ],
+                "topTopicSimilarity": 0.18518518518518517,
+                "sharedTopicScores": [
+                    [
+                        "Mass Pike",
+                        0.20045147980408853
+                    ],
+                    [
+                        "MIT",
+                        0.32173356513764
+                    ],
+                    [
+                        "speed",
+                        0.5838595374194441
+                    ],
+                    [
+                        "function",
+                        0.7969169269288653
+                    ],
+                    [
+                        "time",
+                        0.9238713322503218
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1530": {
+            "id": "tBBJ2TSTa1Q-1530",
+            "heat": 0.0,
+            "start": 1530.0,
+            "text": " OK, so now I should have put in some measure. Let's call that distance a, whatever it is. Maybe it's about three miles. And let me call-- so that's the direct distance. If I just went direct to the turnpike, I would go a distance a at 30 miles an hour, and then I would go a distance-- shall I call that b?-- at 60. So that's one possibility. But I think it's not the best. I think better to-- and you know better than me. I think I should probably angle over here and pick up this-- my question is where should I join the Mass Pike. And let's-- so we get a calculus problem, let's model it. Suppose that I can join it anywhere I like, not just at a couple of entrances. Anywhere. And the question is where? So calculus deals with the continuous choice of x. So that is the unknown. I could take that as the unknown x. That was a key step, of course, deciding what should be the unknown. I could also have taken this angle as an unknown, and that",
+            "metrics": {
+                "relativeDCReadability": 0.924114535362522,
+                "lexicalDiversity": 0.4626865671641791,
+                "posComposition": {
+                    "NNS": 0.025,
+                    "RB": 0.065,
+                    "PRP": 0.114,
+                    "MD": 0.05,
+                    "VB": 0.065,
+                    "VBN": 0.01,
+                    "IN": 0.1,
+                    "DT": 0.114,
+                    "NN": 0.119,
+                    "NNP": 0.045,
+                    "POS": 0.015,
+                    "WDT": 0.02,
+                    "VBZ": 0.04,
+                    "CD": 0.02,
+                    "CC": 0.04,
+                    ":": 0.03,
+                    "JJ": 0.045,
+                    "VBD": 0.01,
+                    "TO": 0.01,
+                    "VBP": 0.025,
+                    "JJS": 0.005,
+                    "JJR": 0.005,
+                    "RP": 0.005,
+                    "PRP$": 0.005,
+                    "WRB": 0.01,
+                    "VBG": 0.005,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.108,
+                "topicScores": [
+                    [
+                        "unknown",
+                        0.3604558502330715
+                    ],
+                    [
+                        "ok",
+                        0.3696079437027883
+                    ],
+                    [
+                        "distance",
+                        0.41205683704245766
+                    ],
+                    [
+                        "mile",
+                        0.5388097750239825
+                    ],
+                    [
+                        "x.",
+                        0.5434007387603184
+                    ],
+                    [
+                        "direct",
+                        0.5478890412294553
+                    ],
+                    [
+                        "question",
+                        0.5562672845782581
+                    ],
+                    [
+                        "calculus",
+                        0.5626014719350708
+                    ],
+                    [
+                        "well",
+                        0.5703869693368027
+                    ],
+                    [
+                        "angle",
+                        0.5726159304694194
+                    ],
+                    [
+                        "Pike",
+                        0.6278243340370844
+                    ],
+                    [
+                        "Mass",
+                        0.6553982177462649
+                    ],
+                    [
+                        "Mass Pike",
+                        0.6991630165885655
+                    ],
+                    [
+                        "measure",
+                        0.751828806561368
+                    ],
+                    [
+                        "possibility",
+                        0.8784409125363152
+                    ],
+                    [
+                        "good",
+                        0.8835701145603221
+                    ],
+                    [
+                        "turnpike",
+                        0.8924103030804028
+                    ],
+                    [
+                        "hour",
+                        0.8924103030804028
+                    ],
+                    [
+                        "entrance",
+                        0.8959063444125017
+                    ],
+                    [
+                        "b?--",
+                        0.901022809595041
+                    ],
+                    [
+                        "let's--",
+                        0.9111844423865112
+                    ],
+                    [
+                        "problem",
+                        0.9111844423865112
+                    ],
+                    [
+                        "course",
+                        0.9133614035280911
+                    ],
+                    [
+                        "to--",
+                        0.9137008309942362
+                    ],
+                    [
+                        "couple",
+                        0.9202502326881588
+                    ],
+                    [
+                        "key",
+                        0.9207781198148826
+                    ],
+                    [
+                        "step",
+                        0.9207781198148826
+                    ],
+                    [
+                        "deal",
+                        0.9243897242385919
+                    ],
+                    [
+                        "continuous",
+                        0.9243897242385919
+                    ],
+                    [
+                        "choice",
+                        0.9243897242385919
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.3696079437027883
+                    ],
+                    [
+                        "distance",
+                        0.41205683704245766
+                    ],
+                    [
+                        "Mass Pike",
+                        0.6991630165885655
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1620": {
+            "id": "tBBJ2TSTa1Q-1620",
+            "heat": 0.0,
+            "start": 1620.0,
+            "text": " would be quite neat, too. But let me take that x. So this distance is then b minus x. So that's what I travel on the Mass Pike, so my time to minimize. I'm trying to minimize my time. OK, so on this Mass Pike when I travel at 60, I have distance divided by 60 is the time, right? Am I remembering correctly? Let's just remember. Distance is speed times time. That's the one we know. And then if I divide by the speed, the time is the distance divided by the speed, the distance divided by the speed on the pike. And now I have the distance on the city streets. OK, so that speed is going to be 30. So the time is going to be a bit longer for the distance, and what is that distance? OK, that was a. This was x. Pythagoras is the great leveler of mathematics.",
+            "metrics": {
+                "relativeDCReadability": 1.0182559249561747,
+                "lexicalDiversity": 0.44936708860759494,
+                "posComposition": {
+                    "MD": 0.006,
+                    "VB": 0.051,
+                    "RB": 0.057,
+                    "JJ": 0.032,
+                    "CC": 0.025,
+                    "PRP": 0.057,
+                    "DT": 0.146,
+                    "NNP": 0.082,
+                    "NN": 0.139,
+                    "VBZ": 0.063,
+                    "WDT": 0.013,
+                    "WP": 0.013,
+                    "VBP": 0.051,
+                    "IN": 0.095,
+                    "PRP$": 0.013,
+                    "TO": 0.025,
+                    "VBG": 0.025,
+                    "WRB": 0.006,
+                    "CD": 0.025,
+                    "VBN": 0.025,
+                    "POS": 0.006,
+                    "NNS": 0.019,
+                    "RBR": 0.006,
+                    "VBD": 0.019
+                },
+                "syllableRate": 1.692,
+                "topicScores": [
+                    [
+                        "distance",
+                        0.27086505850908116
+                    ],
+                    [
+                        "time",
+                        0.2850113960625315
+                    ],
+                    [
+                        "speed",
+                        0.3354894076072648
+                    ],
+                    [
+                        "Mass Pike",
+                        0.3508017105215762
+                    ],
+                    [
+                        "x.",
+                        0.4400573192959573
+                    ],
+                    [
+                        "Pythagoras",
+                        0.7029072095198868
+                    ],
+                    [
+                        "neat",
+                        0.864941066561421
+                    ],
+                    [
+                        "right",
+                        0.8882746303180054
+                    ],
+                    [
+                        "b",
+                        0.9055754112800006
+                    ],
+                    [
+                        "pike",
+                        0.9107821143059374
+                    ],
+                    [
+                        "street",
+                        0.9123235543391905
+                    ],
+                    [
+                        "a.",
+                        0.9159881967697358
+                    ],
+                    [
+                        "mathematic",
+                        0.9169752710731875
+                    ],
+                    [
+                        "city",
+                        0.9264204996996912
+                    ],
+                    [
+                        "bit",
+                        0.9342867722756246
+                    ],
+                    [
+                        "great",
+                        0.9359240893183929
+                    ],
+                    [
+                        "leveler",
+                        0.9359240893183929
+                    ],
+                    [
+                        "time time",
+                        2.718625901712485
+                    ],
+                    [
+                        "speed time",
+                        2.8686095469829653
+                    ],
+                    [
+                        "city street",
+                        5.459749816587681
+                    ],
+                    [
+                        "great leveler",
+                        7.061519127091943
+                    ],
+                    [
+                        "speed time time",
+                        11.75636450362411
+                    ]
+                ],
+                "topTopicSimilarity": 0.18181818181818182,
+                "sharedTopicScores": [
+                    [
+                        "distance",
+                        0.27086505850908116
+                    ],
+                    [
+                        "time",
+                        0.2850113960625315
+                    ],
+                    [
+                        "speed",
+                        0.3354894076072648
+                    ],
+                    [
+                        "Mass Pike",
+                        0.3508017105215762
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1710": {
+            "id": "tBBJ2TSTa1Q-1710",
+            "heat": 0.0,
+            "start": 1710.0,
+            "text": " That's the distance on the city streets. And now what do I do? I've got an expression for the time. This is the quantity I'm trying to minimize. I minimize it by taking its derivative and set the derivative to 0. Take the derivative and set the derivative to 0. So now this is where I use the formulas of calculus. So the derivative, now I'm ready to write the derivative, and I'll set it to 0. So the derivative of that, b is a constant, so I have minus 1/60; is that OK? Plus whatever the derivative of this is. Well, I have 1/30. I always take the constant first. Now I have to deal with that expression. That is some quantity square root. The square root is the 1/2 power, so I have 1/2 times this quantity to one lower power. That's the minus 1/2 power. That means that I still have a square root, but now it's a minus 1/2 power. It's down here. And then the chain rule says don't forget the derivative of what's inside, which is 2x.",
+            "metrics": {
+                "relativeDCReadability": 1.0355808205995434,
+                "lexicalDiversity": 0.44559585492227977,
+                "posComposition": {
+                    "DT": 0.166,
+                    "VBZ": 0.083,
+                    "NN": 0.13,
+                    "IN": 0.073,
+                    "NNS": 0.01,
+                    "CC": 0.036,
+                    "RB": 0.067,
+                    "WP": 0.01,
+                    "VBP": 0.067,
+                    "PRP": 0.088,
+                    "VBD": 0.016,
+                    "VBG": 0.01,
+                    "TO": 0.036,
+                    "VB": 0.036,
+                    "PRP$": 0.005,
+                    "JJ": 0.078,
+                    "CD": 0.052,
+                    "WRB": 0.005,
+                    "MD": 0.005,
+                    "VBN": 0.005,
+                    "WDT": 0.016,
+                    "JJR": 0.005
+                },
+                "syllableRate": 2.142,
+                "topicScores": [
+                    [
+                        "derivative",
+                        0.2536022198672515
+                    ],
+                    [
+                        "power",
+                        0.37317866317094617
+                    ],
+                    [
+                        "square",
+                        0.4421122493250777
+                    ],
+                    [
+                        "root",
+                        0.4438107234005583
+                    ],
+                    [
+                        "minus",
+                        0.44388009582015525
+                    ],
+                    [
+                        "quantity",
+                        0.4534327730534951
+                    ],
+                    [
+                        "expression",
+                        0.5673983669197008
+                    ],
+                    [
+                        "time",
+                        0.5689979091570123
+                    ],
+                    [
+                        "constant",
+                        0.5709596296026799
+                    ],
+                    [
+                        "ok",
+                        0.6401666349822053
+                    ],
+                    [
+                        "street",
+                        0.8487455793944424
+                    ],
+                    [
+                        "city",
+                        0.8706524272237669
+                    ],
+                    [
+                        "distance",
+                        0.8799396647441434
+                    ],
+                    [
+                        "calculus",
+                        0.9067079064423327
+                    ],
+                    [
+                        "formula",
+                        0.9269765589094128
+                    ],
+                    [
+                        "ready",
+                        0.9291939738470849
+                    ],
+                    [
+                        "low",
+                        0.9327334316844457
+                    ],
+                    [
+                        "inside",
+                        0.9355589370057341
+                    ],
+                    [
+                        "chain",
+                        0.9405043077960432
+                    ],
+                    [
+                        "rule",
+                        0.9405043077960432
+                    ],
+                    [
+                        "square root",
+                        1.8240316314894227
+                    ],
+                    [
+                        "city street",
+                        2.830865727330565
+                    ],
+                    [
+                        "quantity square",
+                        4.047260856026714
+                    ],
+                    [
+                        "low power",
+                        4.213980266074378
+                    ],
+                    [
+                        "chain rule",
+                        7.661634769506658
+                    ],
+                    [
+                        "quantity square root",
+                        22.35692125876848
+                    ]
+                ],
+                "topTopicSimilarity": 0.2692307692307692,
+                "sharedTopicScores": [
+                    [
+                        "derivative",
+                        0.2536022198672515
+                    ],
+                    [
+                        "square",
+                        0.4421122493250777
+                    ],
+                    [
+                        "root",
+                        0.4438107234005583
+                    ],
+                    [
+                        "minus",
+                        0.44388009582015525
+                    ],
+                    [
+                        "time",
+                        0.5689979091570123
+                    ],
+                    [
+                        "ok",
+                        0.6401666349822053
+                    ],
+                    [
+                        "distance",
+                        0.8799396647441434
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1800": {
+            "id": "tBBJ2TSTa1Q-1800",
+            "heat": 0.0,
+            "start": 1800.0,
+            "text": " OK, depending on what order you've seen these videos and read text, you know the chain rule, or you see it now. It's a very, very valuable rule to find derivatives as the function gets complicated. And the thing to remember, there will be a proper discussion of the chain rule. It's so important. But you're seeing it here that the thing to remember is take also the derivative of what's inside the a squared plus x squared, and the derivative of the x squared is the 2x. OK, and that I have to set to 0. And, of course, I'm going to cancel the 2's, and I'll set it to 0. What does that mean \"set to zero\"? Here's something minus. Here's something plus. I guess what I really want is to make them equal. When the 1/60 equals this messier expression, at that point the minus term cancels the plus term. I get 0 for the derivative, so I'm looking for derivative equals 0. That's my equation now. OK, now I just have to solve it. All right, let's see. If I wanted to solve that, I would probably multiply through by 60. Can I do this? I'll multiply both sides by 60.",
+            "metrics": {
+                "relativeDCReadability": 0.9901928863799642,
+                "lexicalDiversity": 0.49321266968325794,
+                "posComposition": {
+                    "JJ": 0.054,
+                    "VBG": 0.018,
+                    "IN": 0.081,
+                    "WP": 0.018,
+                    "NN": 0.104,
+                    "PRP": 0.104,
+                    "VBP": 0.054,
+                    "VBN": 0.018,
+                    "DT": 0.113,
+                    "NNS": 0.023,
+                    "CC": 0.05,
+                    "VB": 0.077,
+                    "RB": 0.063,
+                    "VBZ": 0.05,
+                    "TO": 0.05,
+                    "EX": 0.005,
+                    "MD": 0.023,
+                    "VBD": 0.009,
+                    "CD": 0.041,
+                    "NNP": 0.009,
+                    "POS": 0.014,
+                    "``": 0.005,
+                    "''": 0.005,
+                    "WRB": 0.005,
+                    "JJR": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.408,
+                "topicScores": [
+                    [
+                        "derivative",
+                        0.3409415392985885
+                    ],
+                    [
+                        "rule",
+                        0.3957977656979648
+                    ],
+                    [
+                        "plus",
+                        0.446126528608786
+                    ],
+                    [
+                        "equal",
+                        0.4495988768282128
+                    ],
+                    [
+                        "chain",
+                        0.49785985800432037
+                    ],
+                    [
+                        "thing",
+                        0.5349230486797779
+                    ],
+                    [
+                        "x",
+                        0.5592325144949946
+                    ],
+                    [
+                        "minus",
+                        0.5691533200768374
+                    ],
+                    [
+                        "term",
+                        0.5706862304899606
+                    ],
+                    [
+                        "text",
+                        0.8133426283122699
+                    ],
+                    [
+                        "order",
+                        0.8264654335154532
+                    ],
+                    [
+                        "video",
+                        0.8264654335154532
+                    ],
+                    [
+                        "complicated",
+                        0.8442313917749658
+                    ],
+                    [
+                        "valuable",
+                        0.867688679523918
+                    ],
+                    [
+                        "function",
+                        0.8775658732426451
+                    ],
+                    [
+                        "important",
+                        0.8813179473118683
+                    ],
+                    [
+                        "proper",
+                        0.8970242160938725
+                    ],
+                    [
+                        "discussion",
+                        0.8970242160938725
+                    ],
+                    [
+                        "course",
+                        0.908639008192166
+                    ],
+                    [
+                        "squared",
+                        0.914340714329007
+                    ],
+                    [
+                        "messy",
+                        0.9267338511028625
+                    ],
+                    [
+                        "expression",
+                        0.9267338511028625
+                    ],
+                    [
+                        "equation",
+                        0.9291577220943436
+                    ],
+                    [
+                        "point",
+                        0.9325459156699517
+                    ],
+                    [
+                        "side",
+                        0.9386609255151075
+                    ],
+                    [
+                        "chain rule",
+                        1.0499336698848636
+                    ],
+                    [
+                        "valuable rule",
+                        2.193444306982423
+                    ],
+                    [
+                        "proper discussion",
+                        4.119081199689817
+                    ],
+                    [
+                        "plus term",
+                        4.182888903303074
+                    ],
+                    [
+                        "minus term",
+                        4.433367394011066
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "derivative",
+                        0.3409415392985885
+                    ],
+                    [
+                        "equal",
+                        0.4495988768282128
+                    ],
+                    [
+                        "x",
+                        0.5592325144949946
+                    ],
+                    [
+                        "minus",
+                        0.5691533200768374
+                    ],
+                    [
+                        "function",
+                        0.8775658732426451
+                    ],
+                    [
+                        "point",
+                        0.9325459156699517
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1890": {
+            "id": "tBBJ2TSTa1Q-1890",
+            "heat": 0.0,
+            "start": 1890.0,
+            "text": " That will cancel the 30 and leave an extra 2, so I'll have a 2x here. And let me multiply also by this miserable square root that's in the denominator to get it up there. I think that's what I've got. That's the same equation as this one, just simplified. Multiply through by 60. Multiply through by square root of a squared plus x squared, and it's looking good. All right, how am I going to solve that? Well, the only mess up is the square root. Get rid of that by squaring both sides. So now I square both sides, and I get a squared plus x squared, and the square of 2x is 4x squared. All right, now I have an equation that's way better. In fact, even better if I subtract x squared from both sides. My equation is telling me that a squared should be 3x squared. In other words, this good x is-- now I'm ready to take the square root and find x itself. So put the 3 here. Take the square root. I'm getting a over the square root of 3.",
+            "metrics": {
+                "relativeDCReadability": 0.8472034251843199,
+                "lexicalDiversity": 0.48484848484848486,
+                "posComposition": {
+                    "DT": 0.146,
+                    "MD": 0.015,
+                    "VB": 0.051,
+                    "CD": 0.051,
+                    "CC": 0.04,
+                    "JJ": 0.086,
+                    "RB": 0.076,
+                    "PRP": 0.076,
+                    "IN": 0.096,
+                    "NN": 0.086,
+                    "WDT": 0.01,
+                    "VBZ": 0.045,
+                    "TO": 0.015,
+                    "VBP": 0.051,
+                    "WP": 0.005,
+                    "VBD": 0.015,
+                    "VBN": 0.035,
+                    "NNP": 0.025,
+                    "VBG": 0.025,
+                    "WRB": 0.005,
+                    "RP": 0.005,
+                    "NNS": 0.02,
+                    "RBR": 0.01,
+                    "PRP$": 0.005,
+                    ":": 0.005
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "square",
+                        0.22586123580442471
+                    ],
+                    [
+                        "root",
+                        0.30766664806623195
+                    ],
+                    [
+                        "x",
+                        0.3490916339083464
+                    ],
+                    [
+                        "side",
+                        0.43300406435741595
+                    ],
+                    [
+                        "equation",
+                        0.456279528393199
+                    ],
+                    [
+                        "good",
+                        0.5736726339662699
+                    ],
+                    [
+                        "2x",
+                        0.5739296608218714
+                    ],
+                    [
+                        "extra",
+                        0.8822165631441954
+                    ],
+                    [
+                        "miserable",
+                        0.9090127773718434
+                    ],
+                    [
+                        "denominator",
+                        0.9090127773718434
+                    ],
+                    [
+                        "fact",
+                        0.930346309457073
+                    ],
+                    [
+                        "4x",
+                        0.933946079567555
+                    ],
+                    [
+                        "mess",
+                        0.9363830331698048
+                    ],
+                    [
+                        "word",
+                        0.9383250990970632
+                    ],
+                    [
+                        "is--",
+                        0.9434948676008933
+                    ],
+                    [
+                        "ready",
+                        0.9434948676008933
+                    ],
+                    [
+                        "square root",
+                        1.1415186787516256
+                    ],
+                    [
+                        "miserable square",
+                        4.053737284527848
+                    ],
+                    [
+                        "good x",
+                        4.570926709906477
+                    ],
+                    [
+                        "x is--",
+                        5.729438207292879
+                    ],
+                    [
+                        "miserable square root",
+                        19.135986332995838
+                    ],
+                    [
+                        "good x is--",
+                        41.84379122235027
+                    ]
+                ],
+                "topTopicSimilarity": 0.18181818181818182,
+                "sharedTopicScores": [
+                    [
+                        "square",
+                        0.22586123580442471
+                    ],
+                    [
+                        "root",
+                        0.30766664806623195
+                    ],
+                    [
+                        "x",
+                        0.3490916339083464
+                    ],
+                    [
+                        "word",
+                        0.9383250990970632
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-1980": {
+            "id": "tBBJ2TSTa1Q-1980",
+            "heat": 0.0,
+            "start": 1980.0,
+            "text": " So there is a word problem, a minimum problem, where we had to create the function to minimize, which was the time, trying to get to work as quickly as possible. After naming the key quantity x, then taking the derivative, then simplifying, that's where the little work of calculus comes in, in the end getting something nice, solving it, and getting the answer a over square root of 3. So we now know what to do driving in if there's an entrance where we want to get it. And actually, it is a beautiful answer. If this is a over the square root of 3, this will turn out to be 30 degrees, pi over 6-- I think. Yeah, I think that's right. So that's the conclusion from calculus. Drive at a 30-degree angle. Hope that there's a road going that way-- sorry about that point-- and join the turnpike. And probably the reason for that nice answer, 30 degrees, came-- I can't help but imagine that because I chose 30 and 60 here, a ratio of 1:2, and then somehow the fact that the sine",
+            "metrics": {
+                "relativeDCReadability": 0.9997137897627525,
+                "lexicalDiversity": 0.48223350253807107,
+                "posComposition": {
+                    "RB": 0.056,
+                    "EX": 0.015,
+                    "VBZ": 0.046,
+                    "DT": 0.147,
+                    "NN": 0.137,
+                    "WRB": 0.015,
+                    "PRP": 0.051,
+                    "VBD": 0.02,
+                    "TO": 0.036,
+                    "VB": 0.061,
+                    "WDT": 0.01,
+                    "VBG": 0.046,
+                    "IN": 0.117,
+                    "JJ": 0.061,
+                    "NNP": 0.015,
+                    "CC": 0.036,
+                    "CD": 0.041,
+                    "VBP": 0.036,
+                    "WP": 0.005,
+                    "MD": 0.01,
+                    "RP": 0.005,
+                    "NNS": 0.01,
+                    ":": 0.02,
+                    "UH": 0.005
+                },
+                "syllableRate": 2.175,
+                "topicScores": [
+                    [
+                        "degree",
+                        0.3984876918057294
+                    ],
+                    [
+                        "answer",
+                        0.4177011540801518
+                    ],
+                    [
+                        "problem",
+                        0.44632481361441306
+                    ],
+                    [
+                        "work",
+                        0.4892968440760917
+                    ],
+                    [
+                        "square",
+                        0.4993540144447743
+                    ],
+                    [
+                        "root",
+                        0.4993540144447743
+                    ],
+                    [
+                        "calculus",
+                        0.5266636326232497
+                    ],
+                    [
+                        "nice",
+                        0.5372109660532486
+                    ],
+                    [
+                        "possible",
+                        0.7248593616396879
+                    ],
+                    [
+                        "minimum",
+                        0.7430220245073853
+                    ],
+                    [
+                        "word",
+                        0.7596275823926838
+                    ],
+                    [
+                        "time",
+                        0.7596275823926838
+                    ],
+                    [
+                        "function",
+                        0.774824779895426
+                    ],
+                    [
+                        "quantity",
+                        0.8262724684531418
+                    ],
+                    [
+                        "x",
+                        0.8262724684531418
+                    ],
+                    [
+                        "derivative",
+                        0.8262724684531418
+                    ],
+                    [
+                        "key",
+                        0.838153872896815
+                    ],
+                    [
+                        "little",
+                        0.838153872896815
+                    ],
+                    [
+                        "end",
+                        0.838153872896815
+                    ],
+                    [
+                        "angle",
+                        0.8616665614196972
+                    ],
+                    [
+                        "right",
+                        0.8627183491989997
+                    ],
+                    [
+                        "entrance",
+                        0.8628973449090627
+                    ],
+                    [
+                        "beautiful",
+                        0.8669610137151788
+                    ],
+                    [
+                        "pi",
+                        0.8762820013709904
+                    ],
+                    [
+                        "way--",
+                        0.8765337465344387
+                    ],
+                    [
+                        "sorry",
+                        0.8795655020275686
+                    ],
+                    [
+                        "turnpike",
+                        0.8795655020275686
+                    ],
+                    [
+                        "sine",
+                        0.8821396868990802
+                    ],
+                    [
+                        "conclusion",
+                        0.896046592072868
+                    ],
+                    [
+                        "came--",
+                        0.8997810207533071
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "square",
+                        0.4993540144447743
+                    ],
+                    [
+                        "root",
+                        0.4993540144447743
+                    ],
+                    [
+                        "minimum",
+                        0.7430220245073853
+                    ],
+                    [
+                        "word",
+                        0.7596275823926838
+                    ],
+                    [
+                        "time",
+                        0.7596275823926838
+                    ],
+                    [
+                        "function",
+                        0.774824779895426
+                    ],
+                    [
+                        "x",
+                        0.8262724684531418
+                    ],
+                    [
+                        "derivative",
+                        0.8262724684531418
+                    ],
+                    [
+                        "sine",
+                        0.8821396868990802
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-2070": {
+            "id": "tBBJ2TSTa1Q-2070",
+            "heat": 0.0,
+            "start": 2070.0,
+            "text": " of 30 degrees is 1/2, those two facts have got to be connected. So I change these 30 and 60 numbers, I'll change my answer, but basically, the picture won't change much. And there's another little point to make to really complete this problem. It could have happened that the distance on the turnpike was very small and that this was a dumb move. That 30-degree angle could be overshooting MIT if MIT was there. So that's a case in which the minimum time didn't happen where the derivative bottomed out. If MIT was here, the good idea would be go straight for it. Yeah, the extra part on the turn-- you wouldn't drive on the turnpike at all. And that's a signal that somehow in the graph, which I didn't graph this function, but if I did, then this stuff would be locating the minimum of the graph. But this extra example where you go straight for MIT would be a case in which the minimum is at the end.",
+            "metrics": {
+                "relativeDCReadability": 0.9510856833699357,
+                "lexicalDiversity": 0.4722222222222222,
+                "posComposition": {
+                    "IN": 0.106,
+                    "CD": 0.028,
+                    "NNS": 0.017,
+                    "VBZ": 0.033,
+                    "DT": 0.156,
+                    "VBP": 0.017,
+                    "VBN": 0.017,
+                    "TO": 0.017,
+                    "VB": 0.078,
+                    "NNP": 0.033,
+                    "PRP": 0.044,
+                    "CC": 0.039,
+                    "MD": 0.044,
+                    "PRP$": 0.006,
+                    "NN": 0.144,
+                    "RB": 0.078,
+                    "EX": 0.006,
+                    "JJ": 0.039,
+                    "VBD": 0.044,
+                    "VBG": 0.011,
+                    "WDT": 0.022,
+                    "WRB": 0.011,
+                    "RP": 0.006,
+                    ":": 0.006
+                },
+                "syllableRate": 1.95,
+                "topicScores": [
+                    [
+                        "MIT",
+                        0.2668543496390804
+                    ],
+                    [
+                        "minimum",
+                        0.42742826214619367
+                    ],
+                    [
+                        "graph",
+                        0.4396673268627193
+                    ],
+                    [
+                        "degree",
+                        0.5143265890417373
+                    ],
+                    [
+                        "case",
+                        0.5186337240516384
+                    ],
+                    [
+                        "turnpike",
+                        0.5351791957426899
+                    ],
+                    [
+                        "extra",
+                        0.5563528673285828
+                    ],
+                    [
+                        "fact",
+                        0.7799062513915882
+                    ],
+                    [
+                        "problem",
+                        0.8240295052708043
+                    ],
+                    [
+                        "number",
+                        0.8279732901532855
+                    ],
+                    [
+                        "answer",
+                        0.8279732901532855
+                    ],
+                    [
+                        "picture",
+                        0.8279732901532855
+                    ],
+                    [
+                        "little",
+                        0.8663341729840811
+                    ],
+                    [
+                        "point",
+                        0.8663341729840811
+                    ],
+                    [
+                        "dumb",
+                        0.8683269675711532
+                    ],
+                    [
+                        "end",
+                        0.8765014585326408
+                    ],
+                    [
+                        "angle",
+                        0.8775657688584496
+                    ],
+                    [
+                        "distance",
+                        0.8796196305243235
+                    ],
+                    [
+                        "small",
+                        0.8796196305243235
+                    ],
+                    [
+                        "good",
+                        0.8890254634148205
+                    ],
+                    [
+                        "time",
+                        0.8942094161449742
+                    ],
+                    [
+                        "derivative",
+                        0.8942094161449742
+                    ],
+                    [
+                        "function",
+                        0.8960275884001389
+                    ],
+                    [
+                        "idea",
+                        0.8987499534751237
+                    ],
+                    [
+                        "turn--",
+                        0.9023141986452033
+                    ],
+                    [
+                        "signal",
+                        0.905203921281959
+                    ],
+                    [
+                        "stuff",
+                        0.905203921281959
+                    ],
+                    [
+                        "example",
+                        0.9076058791722716
+                    ],
+                    [
+                        "degree angle",
+                        2.5134737844640584
+                    ],
+                    [
+                        "little point",
+                        3.0085767392467817
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "MIT",
+                        0.2668543496390804
+                    ],
+                    [
+                        "minimum",
+                        0.42742826214619367
+                    ],
+                    [
+                        "graph",
+                        0.4396673268627193
+                    ],
+                    [
+                        "point",
+                        0.8663341729840811
+                    ],
+                    [
+                        "distance",
+                        0.8796196305243235
+                    ],
+                    [
+                        "time",
+                        0.8942094161449742
+                    ],
+                    [
+                        "derivative",
+                        0.8942094161449742
+                    ],
+                    [
+                        "function",
+                        0.8960275884001389
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-2160": {
+            "id": "tBBJ2TSTa1Q-2160",
+            "heat": 0.0,
+            "start": 2160.0,
+            "text": " And, of course, that could happen. You could have a graph that just goes down, and then it ends, so the minimum is there. Even though the graph looks like it's still going down, the graph ended. What can you do? That's the best point there is. OK, so that is a-- can I recap this lecture coming first over here? So the lecture is about maximum and minimum, and we learned which it is by the second derivative. So then we had examples. There was an example of a minimum when the second derivative was positive. Here was an example of a local maximum when the second derivative was negative. Here with the sine and cosine, those are nice examples. And it takes some patience to go through them. I suggest you take another simple function, like start with cosine x. Find its maximum. Find its minimum. Find its inflection points so the inflection points are where the bending is 0 because it's changing from bending one way to bending the other way. We didn't need an inflection test-- so actually, I didn't complete the lecture, because I didn't compute the second derivative and show that",
+            "metrics": {
+                "relativeDCReadability": 0.9713799343371381,
+                "lexicalDiversity": 0.45365853658536587,
+                "posComposition": {
+                    "CC": 0.034,
+                    "IN": 0.093,
+                    "NN": 0.151,
+                    "WDT": 0.015,
+                    "MD": 0.02,
+                    "VB": 0.039,
+                    "PRP": 0.078,
+                    "DT": 0.132,
+                    "RB": 0.088,
+                    "VBZ": 0.063,
+                    "VBG": 0.024,
+                    "RP": 0.005,
+                    "VBD": 0.049,
+                    "WP": 0.005,
+                    "JJS": 0.005,
+                    "EX": 0.01,
+                    "NNP": 0.024,
+                    ":": 0.01,
+                    "JJ": 0.068,
+                    "NNS": 0.02,
+                    "WRB": 0.015,
+                    "VBP": 0.02,
+                    "TO": 0.01,
+                    "PRP$": 0.015,
+                    "CD": 0.01
+                },
+                "syllableRate": 2.383,
+                "topicScores": [
+                    [
+                        "second",
+                        0.35823411309261205
+                    ],
+                    [
+                        "example",
+                        0.36045092370992454
+                    ],
+                    [
+                        "derivative",
+                        0.36105593503387556
+                    ],
+                    [
+                        "minimum",
+                        0.38800149283394386
+                    ],
+                    [
+                        "graph",
+                        0.43261023484196487
+                    ],
+                    [
+                        "point",
+                        0.4495316107138956
+                    ],
+                    [
+                        "lecture",
+                        0.4505062374199913
+                    ],
+                    [
+                        "maximum",
+                        0.4522759025376949
+                    ],
+                    [
+                        "inflection",
+                        0.4563360318133837
+                    ],
+                    [
+                        "cosine",
+                        0.5756550844218135
+                    ],
+                    [
+                        "way",
+                        0.5794529102840228
+                    ],
+                    [
+                        "course",
+                        0.8497975840995625
+                    ],
+                    [
+                        "positive",
+                        0.9034106800864015
+                    ],
+                    [
+                        "negative",
+                        0.9055299359150669
+                    ],
+                    [
+                        "good",
+                        0.9163488552614668
+                    ],
+                    [
+                        "nice",
+                        0.9236138959980202
+                    ],
+                    [
+                        "simple",
+                        0.9261327575753124
+                    ],
+                    [
+                        "function",
+                        0.9261327575753124
+                    ],
+                    [
+                        "local",
+                        0.9288091309268485
+                    ],
+                    [
+                        "patience",
+                        0.9314508813039811
+                    ],
+                    [
+                        "x.",
+                        0.9325369326287615
+                    ],
+                    [
+                        "bending",
+                        0.93437356091227
+                    ],
+                    [
+                        "test--",
+                        0.9351599122631631
+                    ],
+                    [
+                        "second derivative",
+                        0.9922525544681582
+                    ],
+                    [
+                        "inflection point",
+                        2.884976356555647
+                    ],
+                    [
+                        "nice example",
+                        3.4054892416395144
+                    ],
+                    [
+                        "good point",
+                        4.677158839596666
+                    ],
+                    [
+                        "local maximum",
+                        5.256098755932236
+                    ],
+                    [
+                        "cosine x.",
+                        5.704164306265996
+                    ],
+                    [
+                        "inflection test--",
+                        5.825674249713902
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "second",
+                        0.35823411309261205
+                    ],
+                    [
+                        "derivative",
+                        0.36105593503387556
+                    ],
+                    [
+                        "minimum",
+                        0.38800149283394386
+                    ],
+                    [
+                        "graph",
+                        0.43261023484196487
+                    ],
+                    [
+                        "point",
+                        0.4495316107138956
+                    ],
+                    [
+                        "maximum",
+                        0.4522759025376949
+                    ],
+                    [
+                        "inflection",
+                        0.4563360318133837
+                    ],
+                    [
+                        "positive",
+                        0.9034106800864015
+                    ],
+                    [
+                        "negative",
+                        0.9055299359150669
+                    ],
+                    [
+                        "function",
+                        0.9261327575753124
+                    ],
+                    [
+                        "bending",
+                        0.93437356091227
+                    ],
+                    [
+                        "second derivative",
+                        0.9922525544681582
+                    ]
+                ]
+            }
+        },
+        "tBBJ2TSTa1Q-2250": {
+            "id": "tBBJ2TSTa1Q-2250",
+            "heat": 0.0,
+            "start": 2250.0,
+            "text": " this was truly a minimum. I could have done that. I would have had to take the derivative of this, which would be one level messier, and look at its sign. I wouldn't have to set it to 0. I would be looking at the sign of the second derivative. And in this problem, it would be safely come out positive sign, meaning bending upwards, meaning that this point I've identified by all these steps was truly the minimum time, not a maximum. OK, that's a big part of important calculus applications. Thanks. NARRATOR: This has been a production of MIT OpenCourseWare and Gilbert Strang. Funding for this video was provided by the Lord Foundation. To help OCW continue to provide free and open access to MIT courses, please make a donation at ocw.mit.edu/donate.",
+            "metrics": {
+                "relativeDCReadability": 1.00375968210119,
+                "lexicalDiversity": 0.5255474452554745,
+                "posComposition": {
+                    "DT": 0.124,
+                    "VBD": 0.022,
+                    "RB": 0.036,
+                    "NN": 0.131,
+                    "PRP": 0.051,
+                    "MD": 0.044,
+                    "VB": 0.095,
+                    "VBN": 0.044,
+                    "IN": 0.095,
+                    "TO": 0.044,
+                    "WDT": 0.015,
+                    "CD": 0.015,
+                    "CC": 0.029,
+                    "PRP$": 0.007,
+                    "VBG": 0.029,
+                    "JJ": 0.066,
+                    "RP": 0.007,
+                    "NNS": 0.029,
+                    "VBP": 0.007,
+                    "PDT": 0.007,
+                    "NNP": 0.088,
+                    "VBZ": 0.015
+                },
+                "syllableRate": 1.733,
+                "topicScores": [
+                    [
+                        "sign",
+                        0.42922584716048323
+                    ],
+                    [
+                        "MIT",
+                        0.43840857719456455
+                    ],
+                    [
+                        "minimum",
+                        0.5189864462278633
+                    ],
+                    [
+                        "derivative",
+                        0.5328958905897913
+                    ],
+                    [
+                        "narrator",
+                        0.5618971939927685
+                    ],
+                    [
+                        "Strang",
+                        0.64131130253762
+                    ],
+                    [
+                        "Foundation",
+                        0.6469337964973504
+                    ],
+                    [
+                        "Gilbert",
+                        0.6780242508071362
+                    ],
+                    [
+                        "Lord",
+                        0.6833554052262942
+                    ],
+                    [
+                        "OCW",
+                        0.7035089617011808
+                    ],
+                    [
+                        "Gilbert Strang",
+                        0.7693622675615959
+                    ],
+                    [
+                        "Lord Foundation",
+                        0.7923899995704974
+                    ],
+                    [
+                        "thank",
+                        0.8138912213428419
+                    ],
+                    [
+                        "maximum",
+                        0.8663531103625945
+                    ],
+                    [
+                        "level",
+                        0.8665281000694127
+                    ],
+                    [
+                        "messy",
+                        0.8665281000694127
+                    ],
+                    [
+                        "application",
+                        0.8719179909613385
+                    ],
+                    [
+                        "funding",
+                        0.8853285841346913
+                    ],
+                    [
+                        "second",
+                        0.8883344642905696
+                    ],
+                    [
+                        "problem",
+                        0.8943678319884555
+                    ],
+                    [
+                        "positive",
+                        0.8943678319884555
+                    ],
+                    [
+                        "time",
+                        0.8943678319884555
+                    ],
+                    [
+                        "calculus",
+                        0.898902338809206
+                    ],
+                    [
+                        "point",
+                        0.905287229706984
+                    ],
+                    [
+                        "step",
+                        0.905287229706984
+                    ],
+                    [
+                        "big",
+                        0.9094004794017984
+                    ],
+                    [
+                        "important",
+                        0.9094004794017984
+                    ],
+                    [
+                        "course",
+                        0.9115320019172233
+                    ],
+                    [
+                        "production",
+                        0.9174104517239031
+                    ],
+                    [
+                        "OpenCourseWare",
+                        0.9174104517239031
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "MIT",
+                        0.43840857719456455
+                    ],
+                    [
+                        "minimum",
+                        0.5189864462278633
+                    ],
+                    [
+                        "derivative",
+                        0.5328958905897913
+                    ],
+                    [
+                        "maximum",
+                        0.8663531103625945
+                    ],
+                    [
+                        "second",
+                        0.8883344642905696
+                    ],
+                    [
+                        "positive",
+                        0.8943678319884555
+                    ],
+                    [
+                        "time",
+                        0.8943678319884555
+                    ],
+                    [
+                        "point",
+                        0.905287229706984
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -104,13 +104,13 @@ def videoProcessing(heatmap: str, chunkedTranscript: str, totalText: str, baseTr
 
 if __name__ == "__main__":
     for id in os.listdir('test_data'):
-        print("Processing" + id)
-        if os.path.exists(f'test_data\\{id}\\{id}-data.txt') == False:
+        print("Processing " + id)
+        if os.path.exists(f'test_data\\{id}\\{id}-data.json') == False:
             videoProcessing(f'test_data\\{id}\\{id}-heatmap.csv',
                         f'processed_test_data\\{id}.json', 
                         f'test_data\\{id}\\{id}-wholeTranscript.txt',
                         f'test_data\\{id}\\{id}-transcript.json',
-                        id, f'test_data\\{id}\\{id}-data.txt')
+                        id, f'test_data\\{id}\\{id}-data.json')
 #print(heatmapMedian('test_data\\_eGNSuTBc60\\_eGNSuTBc60-heatmap.csv'))
     
     

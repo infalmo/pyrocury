@@ -1,0 +1,2589 @@
+{
+    "metadata": {
+        "id": "rkvEM5Y3N60",
+        "avgHeat": 0.3,
+        "runtime": 1053.65,
+        "dale-challReadabilityScore": 9.816151508787444,
+        "lexicalDiversity": 0.5288184438040345,
+        "posComposition": {
+            "DT": 0.124,
+            "JJ": 0.097,
+            "NN": 0.178,
+            "VBZ": 0.036,
+            "VBN": 0.023,
+            "IN": 0.14,
+            "NNP": 0.05,
+            "PRP$": 0.001,
+            "MD": 0.016,
+            "VB": 0.04,
+            "VBP": 0.02,
+            "TO": 0.022,
+            "NNS": 0.034,
+            "CC": 0.04,
+            "PRP": 0.039,
+            "VBG": 0.024,
+            "RB": 0.059,
+            "RBR": 0.003,
+            "CD": 0.012,
+            "JJS": 0.001,
+            "JJR": 0.001,
+            "EX": 0.003,
+            "WDT": 0.008,
+            "VBD": 0.011,
+            "WP": 0.003,
+            "RP": 0.002,
+            "``": 0.004,
+            "''": 0.004,
+            "POS": 0.001,
+            "WRB": 0.002
+        },
+        "syllableRate": 3.312,
+        "topicScores": [
+            [
+                "MUSIC ENRICO CARUSO",
+                0.05123278915478615
+            ],
+            [
+                "VESTI LA",
+                0.08159696575312217
+            ],
+            [
+                "processing",
+                0.1166334122315422
+            ],
+            [
+                "signal",
+                0.12400199253398754
+            ],
+            [
+                "digital",
+                0.12997769685854157
+            ],
+            [
+                "signal processing",
+                0.14011461839228492
+            ],
+            [
+                "GIUBBA",
+                0.14285033215220796
+            ],
+            [
+                "digital signal",
+                0.16057785800511043
+            ],
+            [
+                "VESTI LA GIUBBA",
+                0.1632400072983225
+            ],
+            [
+                "recording",
+                0.1716719008445583
+            ],
+            [
+                "Creative Commons",
+                0.179565066560532
+            ],
+            [
+                "course",
+                0.1964490987210262
+            ],
+            [
+                "fact",
+                0.19673666369302922
+            ],
+            [
+                "example",
+                0.20113202795492602
+            ],
+            [
+                "digital signal processing",
+                0.20558075261229158
+            ],
+            [
+                "Caruso",
+                0.20809747522384045
+            ],
+            [
+                "image",
+                0.20895793007803562
+            ],
+            [
+                "Professor",
+                0.20952108591877663
+            ],
+            [
+                "technique",
+                0.21142568085639651
+            ],
+            [
+                "MIT",
+                0.21221944304208634
+            ],
+            [
+                "Professor Stockham",
+                0.22121715877971618
+            ],
+            [
+                "area",
+                0.2315039738090519
+            ],
+            [
+                "original",
+                0.2394560685163843
+            ],
+            [
+                "system",
+                0.24137143070860498
+            ],
+            [
+                "noise",
+                0.25246395355047585
+            ],
+            [
+                "important",
+                0.2716230019429954
+            ],
+            [
+                "type",
+                0.2850682645505787
+            ],
+            [
+                "dynamic",
+                0.2864888000813365
+            ],
+            [
+                "range",
+                0.2874690487417106
+            ],
+            [
+                "background",
+                0.2875446733906417
+            ]
+        ],
+        "topicsList": [
+            "MUSIC ENRICO CARUSO",
+            "VESTI LA",
+            "processing",
+            "signal",
+            "digital",
+            "signal processing",
+            "GIUBBA",
+            "digital signal",
+            "VESTI LA GIUBBA",
+            "recording",
+            "Creative Commons",
+            "course",
+            "fact",
+            "example",
+            "digital signal processing",
+            "Caruso",
+            "image",
+            "Professor",
+            "technique",
+            "MIT",
+            "Professor Stockham",
+            "area",
+            "original",
+            "system",
+            "noise",
+            "important",
+            "type",
+            "dynamic",
+            "range",
+            "background"
+        ]
+    },
+    "chunks": {
+        "rkvEM5Y3N60-0": {
+            "id": "rkvEM5Y3N60-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. [MUSIC PLAYING] ALAN OPPENHEIM: Hi, I'm Alan Oppenheim. And I'd like to welcome you to this self-study course on digital signal processing. The fact that you're interested in taking the course suggests that you're probably aware of the important role that digital techniques have been playing in signal processing, in general. And in fact, the impact of digital technology has been rather dramatic. And the indications are that it will be even more so in the future. One of the primary advantages to digital as",
+            "metrics": {
+                "relativeDCReadability": 1.0126346567467652,
+                "lexicalDiversity": 0.5681818181818182,
+                "posComposition": {
+                    "DT": 0.083,
+                    "JJ": 0.144,
+                    "NN": 0.114,
+                    "VBZ": 0.023,
+                    "VBN": 0.023,
+                    "IN": 0.144,
+                    "NNP": 0.098,
+                    "PRP$": 0.008,
+                    "MD": 0.023,
+                    "VB": 0.053,
+                    "VBP": 0.053,
+                    "TO": 0.038,
+                    "NNS": 0.053,
+                    "CC": 0.03,
+                    "PRP": 0.045,
+                    "VBG": 0.023,
+                    "RB": 0.03,
+                    "RBR": 0.008,
+                    "CD": 0.008
+                },
+                "syllableRate": 1.983,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.27217083955854554
+                    ],
+                    [
+                        "MIT",
+                        0.3079542794096089
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.35279988769475984
+                    ],
+                    [
+                        "digital",
+                        0.39711656715116256
+                    ],
+                    [
+                        "music playing",
+                        0.43167950595757276
+                    ],
+                    [
+                        "course",
+                        0.4517438328694557
+                    ],
+                    [
+                        "ALAN OPPENHEIM",
+                        0.4803724216477427
+                    ],
+                    [
+                        "OpenCourseWare",
+                        0.5392716277227955
+                    ],
+                    [
+                        "processing",
+                        0.5442668631788155
+                    ],
+                    [
+                        "signal",
+                        0.5489054996258563
+                    ],
+                    [
+                        "fact",
+                        0.5664324996495533
+                    ],
+                    [
+                        "Oppenheim",
+                        0.6141145750163931
+                    ],
+                    [
+                        "Alan",
+                        0.6624164536942553
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.701361693771347
+                    ],
+                    [
+                        "following",
+                        0.775500760416119
+                    ],
+                    [
+                        "free",
+                        0.788236163073286
+                    ],
+                    [
+                        "content",
+                        0.8002491996696551
+                    ],
+                    [
+                        "ocw.mit.edu",
+                        0.8189628102551462
+                    ],
+                    [
+                        "support",
+                        0.8386793207277419
+                    ],
+                    [
+                        "general",
+                        0.8419746645900945
+                    ],
+                    [
+                        "high",
+                        0.8577406744132852
+                    ],
+                    [
+                        "quality",
+                        0.8577406744132852
+                    ],
+                    [
+                        "educational",
+                        0.8577406744132852
+                    ],
+                    [
+                        "resource",
+                        0.8577406744132852
+                    ],
+                    [
+                        "dramatic",
+                        0.8695335188793175
+                    ],
+                    [
+                        "future",
+                        0.8727122055067777
+                    ],
+                    [
+                        "donation",
+                        0.8799186794921053
+                    ],
+                    [
+                        "additional",
+                        0.8799186794921053
+                    ],
+                    [
+                        "material",
+                        0.8799186794921053
+                    ],
+                    [
+                        "hundred",
+                        0.8799186794921053
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.27217083955854554
+                    ],
+                    [
+                        "MIT",
+                        0.3079542794096089
+                    ],
+                    [
+                        "digital",
+                        0.39711656715116256
+                    ],
+                    [
+                        "course",
+                        0.4517438328694557
+                    ],
+                    [
+                        "processing",
+                        0.5442668631788155
+                    ],
+                    [
+                        "signal",
+                        0.5489054996258563
+                    ],
+                    [
+                        "fact",
+                        0.5664324996495533
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-90": {
+            "id": "rkvEM5Y3N60-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " opposed to analog signal processing techniques is the tremendous flexibility that digital techniques and digital signal processing offers. And because of this flexibility, digital signal processing techniques have found application in a rather large or wide variety of areas. Speech processing, for example, has represented one of the major areas of application of digital signal processing for, at least, the past decade. Both analysis of speech and synthesis of speech rely very heavily on the notions of, for example, digital filtering, other notions, such as the fast Fourier transform algorithm, and a variety of the other digital signal processing techniques and algorithms. More generally, in communication systems, digital signal processing is being used for coding, for multiplexing and, in fact, there is a considerable amount of work being done at present directed toward, basically, replacing all of the present filtering in communications and telephone systems by digital filters instead of analog filters. And I think that it's likely that, in the not too distant future, we'll see most of the filtering in communication systems being done digitally. Seismic data processing represents",
+            "metrics": {
+                "relativeDCReadability": 1.1676502705782033,
+                "lexicalDiversity": 0.5737704918032787,
+                "posComposition": {
+                    "VBN": 0.038,
+                    "TO": 0.005,
+                    "VB": 0.016,
+                    "JJ": 0.142,
+                    "NN": 0.208,
+                    "NNS": 0.082,
+                    "VBZ": 0.033,
+                    "DT": 0.082,
+                    "IN": 0.186,
+                    "CC": 0.049,
+                    "VBP": 0.011,
+                    "RB": 0.049,
+                    "NNP": 0.016,
+                    "CD": 0.005,
+                    "JJS": 0.011,
+                    "JJR": 0.005,
+                    "VBG": 0.033,
+                    "EX": 0.005,
+                    "PRP": 0.016,
+                    "MD": 0.005
+                },
+                "syllableRate": 2.917,
+                "topicScores": [
+                    [
+                        "processing",
+                        0.22811585745692697
+                    ],
+                    [
+                        "digital",
+                        0.25068857712050735
+                    ],
+                    [
+                        "signal",
+                        0.25731827040346816
+                    ],
+                    [
+                        "technique",
+                        0.33681585948386994
+                    ],
+                    [
+                        "signal processing",
+                        0.3895624845670068
+                    ],
+                    [
+                        "filtering",
+                        0.4016520600446896
+                    ],
+                    [
+                        "communication",
+                        0.4051625676721996
+                    ],
+                    [
+                        "speech",
+                        0.4151379797312274
+                    ],
+                    [
+                        "system",
+                        0.4186944100740822
+                    ],
+                    [
+                        "example",
+                        0.4993769095160011
+                    ],
+                    [
+                        "flexibility",
+                        0.49954805607014213
+                    ],
+                    [
+                        "area",
+                        0.5188092157376988
+                    ],
+                    [
+                        "digital signal",
+                        0.5213639234176081
+                    ],
+                    [
+                        "variety",
+                        0.526696302559515
+                    ],
+                    [
+                        "analog",
+                        0.5295883739646643
+                    ],
+                    [
+                        "application",
+                        0.5305829800245294
+                    ],
+                    [
+                        "notion",
+                        0.5422879783582982
+                    ],
+                    [
+                        "algorithm",
+                        0.5422879783582982
+                    ],
+                    [
+                        "present",
+                        0.5606787374136396
+                    ],
+                    [
+                        "fourier",
+                        0.610836381623313
+                    ],
+                    [
+                        "processing technique",
+                        0.6507933489453446
+                    ],
+                    [
+                        "offer",
+                        0.8040067100729054
+                    ],
+                    [
+                        "tremendous",
+                        0.8412013410883779
+                    ],
+                    [
+                        "decade",
+                        0.8489568191368151
+                    ],
+                    [
+                        "past",
+                        0.8600067568022325
+                    ],
+                    [
+                        "large",
+                        0.8655536427376664
+                    ],
+                    [
+                        "wide",
+                        0.8655536427376664
+                    ],
+                    [
+                        "seismic",
+                        0.876621239231637
+                    ],
+                    [
+                        "multiplexing",
+                        0.8766402116118807
+                    ],
+                    [
+                        "fact",
+                        0.8766402116118807
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "processing",
+                        0.22811585745692697
+                    ],
+                    [
+                        "digital",
+                        0.25068857712050735
+                    ],
+                    [
+                        "signal",
+                        0.25731827040346816
+                    ],
+                    [
+                        "technique",
+                        0.33681585948386994
+                    ],
+                    [
+                        "signal processing",
+                        0.3895624845670068
+                    ],
+                    [
+                        "system",
+                        0.4186944100740822
+                    ],
+                    [
+                        "example",
+                        0.4993769095160011
+                    ],
+                    [
+                        "area",
+                        0.5188092157376988
+                    ],
+                    [
+                        "digital signal",
+                        0.5213639234176081
+                    ],
+                    [
+                        "fact",
+                        0.8766402116118807
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-180": {
+            "id": "rkvEM5Y3N60-180",
+            "heat": 0.251,
+            "start": 180.0,
+            "text": " another very important area in which the flexibility of digital signal processing is very heavily exploited. In fact, seismic and speech processing have probably been the two major catalysts for most of the important developments in digital signal processing. In audio recording and processing, digital signal processing provides an opportunity for some very sophisticated processing and enhancement. And in fact, fairly recently, Professor Thomas Stockham at the University of Utah has been applying some sophisticated digital signal processing techniques to the restoration of old Caruso recordings. The problem, in that case, is that the recordings that were originally made in the days of Caruso involved a recording horn, as I've illustrated here. The singer, of course, singing into the recording horn. And the output of the recording horn being stored on a recording disk. The problem in that particular application is the fact that the frequency response of the recording horn is not flat. And what this tended to do is give the resulting recording",
+            "metrics": {
+                "relativeDCReadability": 0.9895395041808568,
+                "lexicalDiversity": 0.5240963855421686,
+                "posComposition": {
+                    "DT": 0.157,
+                    "RB": 0.06,
+                    "JJ": 0.096,
+                    "NN": 0.229,
+                    "IN": 0.145,
+                    "WDT": 0.012,
+                    "VBZ": 0.048,
+                    "VBN": 0.036,
+                    "CC": 0.036,
+                    "VBP": 0.012,
+                    "CD": 0.006,
+                    "NNS": 0.03,
+                    "JJS": 0.006,
+                    "NNP": 0.042,
+                    "VBG": 0.03,
+                    "TO": 0.012,
+                    "VBD": 0.018,
+                    "PRP": 0.006,
+                    "WP": 0.006,
+                    "VB": 0.012
+                },
+                "syllableRate": 2.533,
+                "topicScores": [
+                    [
+                        "recording",
+                        0.23617446384839924
+                    ],
+                    [
+                        "processing",
+                        0.2595064231577793
+                    ],
+                    [
+                        "signal",
+                        0.2977654696411728
+                    ],
+                    [
+                        "digital",
+                        0.30627625621330706
+                    ],
+                    [
+                        "horn",
+                        0.32488185489524873
+                    ],
+                    [
+                        "Caruso",
+                        0.3541478496863787
+                    ],
+                    [
+                        "fact",
+                        0.4020162796438745
+                    ],
+                    [
+                        "digital signal",
+                        0.41658324494230375
+                    ],
+                    [
+                        "important",
+                        0.4716218800477821
+                    ],
+                    [
+                        "problem",
+                        0.4972319683475658
+                    ],
+                    [
+                        "signal processing",
+                        0.5020495937709843
+                    ],
+                    [
+                        "Professor Thomas",
+                        0.5031461168252996
+                    ],
+                    [
+                        "sophisticated",
+                        0.5162435242123826
+                    ],
+                    [
+                        "Thomas Stockham",
+                        0.5205809673756655
+                    ],
+                    [
+                        "Professor Thomas Stockham",
+                        0.5258053142262236
+                    ],
+                    [
+                        "University",
+                        0.5917418332342952
+                    ],
+                    [
+                        "Utah",
+                        0.5917418332342952
+                    ],
+                    [
+                        "recording horn",
+                        0.6244650522307927
+                    ],
+                    [
+                        "area",
+                        0.7631937658498978
+                    ],
+                    [
+                        "flexibility",
+                        0.7631937658498978
+                    ],
+                    [
+                        "Caruso recording",
+                        0.7869241861278963
+                    ],
+                    [
+                        "seismic",
+                        0.8161028553961522
+                    ],
+                    [
+                        "enhancement",
+                        0.8167607534754866
+                    ],
+                    [
+                        "speech",
+                        0.8290723865973465
+                    ],
+                    [
+                        "major",
+                        0.8290723865973465
+                    ],
+                    [
+                        "catalyst",
+                        0.8290723865973465
+                    ],
+                    [
+                        "development",
+                        0.8290723865973465
+                    ],
+                    [
+                        "audio",
+                        0.8435884284176436
+                    ],
+                    [
+                        "opportunity",
+                        0.8549640085500919
+                    ],
+                    [
+                        "disk",
+                        0.8592454942632894
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "recording",
+                        0.23617446384839924
+                    ],
+                    [
+                        "processing",
+                        0.2595064231577793
+                    ],
+                    [
+                        "signal",
+                        0.2977654696411728
+                    ],
+                    [
+                        "digital",
+                        0.30627625621330706
+                    ],
+                    [
+                        "Caruso",
+                        0.3541478496863787
+                    ],
+                    [
+                        "fact",
+                        0.4020162796438745
+                    ],
+                    [
+                        "digital signal",
+                        0.41658324494230375
+                    ],
+                    [
+                        "important",
+                        0.4716218800477821
+                    ],
+                    [
+                        "signal processing",
+                        0.5020495937709843
+                    ],
+                    [
+                        "area",
+                        0.7631937658498978
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-270": {
+            "id": "rkvEM5Y3N60-270",
+            "heat": 0.218,
+            "start": 270.0,
+            "text": " a, sort of, megaphone type of distortion. And one of the objectives in enhancing or restoring some of these old Caruso recordings is to compensate, in a sense, for the frequency distortion introduced by the recording horn. What Professor Stockham has done, basically, is to use digital signal processing techniques to, first of all, estimate the frequency response of the recording horn. And second, to compensate for that frequency response. And all of the work that he carried out was done digitally, primarily, as I indicated previously, primarily to capitalize on the flexibility that digital signal processing offers. And some of the results that he obtained are rather dramatic. And let me just illustrate in a very short passage what some of this has sounded like. What I borrowed from Professor Stockham is a recording of the restoration that he generated on a digital computer. And this particular recording is a two track recording with the original segment recorded on channel 1 and the process segment recorded on channel 2. And that will allow us to switch back and forth between these.",
+            "metrics": {
+                "relativeDCReadability": 0.9396926123937227,
+                "lexicalDiversity": 0.489010989010989,
+                "posComposition": {
+                    "DT": 0.154,
+                    "NN": 0.176,
+                    "IN": 0.159,
+                    "CC": 0.055,
+                    "CD": 0.022,
+                    "NNS": 0.027,
+                    "VBG": 0.016,
+                    "JJ": 0.049,
+                    "NNP": 0.027,
+                    "VBZ": 0.033,
+                    "TO": 0.033,
+                    "VB": 0.044,
+                    "VBN": 0.033,
+                    "VBD": 0.038,
+                    "WP": 0.016,
+                    "RB": 0.049,
+                    "VBP": 0.016,
+                    "PRP": 0.038,
+                    "RP": 0.005,
+                    "MD": 0.005
+                },
+                "syllableRate": 2.55,
+                "topicScores": [
+                    [
+                        "recording",
+                        0.3167842693116216
+                    ],
+                    [
+                        "Professor",
+                        0.3912941898610626
+                    ],
+                    [
+                        "Stockham",
+                        0.3996718042857535
+                    ],
+                    [
+                        "frequency",
+                        0.4069801709424694
+                    ],
+                    [
+                        "Professor Stockham",
+                        0.40826451834474636
+                    ],
+                    [
+                        "digital",
+                        0.4298861748756197
+                    ],
+                    [
+                        "horn",
+                        0.43862518548809365
+                    ],
+                    [
+                        "distortion",
+                        0.4980609868773898
+                    ],
+                    [
+                        "response",
+                        0.5248715201524323
+                    ],
+                    [
+                        "processing",
+                        0.5252640230197304
+                    ],
+                    [
+                        "signal",
+                        0.5335719254869573
+                    ],
+                    [
+                        "Caruso",
+                        0.5444229869738888
+                    ],
+                    [
+                        "segment",
+                        0.5530681702129583
+                    ],
+                    [
+                        "channel",
+                        0.556458815498803
+                    ],
+                    [
+                        "megaphone",
+                        0.776956365494558
+                    ],
+                    [
+                        "type",
+                        0.776956365494558
+                    ],
+                    [
+                        "sense",
+                        0.8398099054003935
+                    ],
+                    [
+                        "objective",
+                        0.8545982891266123
+                    ],
+                    [
+                        "old",
+                        0.8545982891266123
+                    ],
+                    [
+                        "offer",
+                        0.8587243273049978
+                    ],
+                    [
+                        "technique",
+                        0.8643411767688399
+                    ],
+                    [
+                        "dramatic",
+                        0.8661164323850976
+                    ],
+                    [
+                        "old Caruso",
+                        0.8700780244021643
+                    ],
+                    [
+                        "computer",
+                        0.8760751912765247
+                    ],
+                    [
+                        "work",
+                        0.8974657394342246
+                    ],
+                    [
+                        "flexibility",
+                        0.8974657394342246
+                    ],
+                    [
+                        "result",
+                        0.903059577323707
+                    ],
+                    [
+                        "short",
+                        0.9072596602562092
+                    ],
+                    [
+                        "passage",
+                        0.9072596602562092
+                    ],
+                    [
+                        "restoration",
+                        0.9105541564537426
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "recording",
+                        0.3167842693116216
+                    ],
+                    [
+                        "Professor",
+                        0.3912941898610626
+                    ],
+                    [
+                        "Professor Stockham",
+                        0.40826451834474636
+                    ],
+                    [
+                        "digital",
+                        0.4298861748756197
+                    ],
+                    [
+                        "processing",
+                        0.5252640230197304
+                    ],
+                    [
+                        "signal",
+                        0.5335719254869573
+                    ],
+                    [
+                        "Caruso",
+                        0.5444229869738888
+                    ],
+                    [
+                        "type",
+                        0.776956365494558
+                    ],
+                    [
+                        "technique",
+                        0.8643411767688399
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-360": {
+            "id": "rkvEM5Y3N60-360",
+            "heat": 0.492,
+            "start": 360.0,
+            "text": " The particular piece that is illustrated here is a section from the famous aria \"Vesti La Giubba\" as sung, of course, by Enrico Caruso. So let me just quickly illustrate this as an example of some of the type of processing that is currently being done using digital signal processing techniques. Let me begin, first of all, by playing a little bit of the original. And then, I'll switch to the result of Professor Stockholm's enhancement. And then, switch back and forth a few times to present a comparison. So we begin, first of all, with the original. [MUSIC ENRICO CARUSO, \"VESTI LA  GIUBBA\"] And then switch to the enhanced. [MUSIC ENRICO CARUSO, \"VESTI LA  GIUBBA\"] Back to the original. [MUSIC ENRICO CARUSO, \"VESTI LA GIUBBA\"] And then, once more, to the enhanced. [MUSIC ENRICO CARUSO, \"VESTI LA  GIUBBA\"] And I think what you can observe with that is a fairly dramatic increase in the improvement in the quality of the recording.",
+            "metrics": {
+                "relativeDCReadability": 1.113778878864589,
+                "lexicalDiversity": 0.5517241379310345,
+                "posComposition": {
+                    "DT": 0.132,
+                    "JJ": 0.069,
+                    "NN": 0.098,
+                    "WDT": 0.011,
+                    "VBZ": 0.029,
+                    "VBN": 0.011,
+                    "RB": 0.075,
+                    "IN": 0.109,
+                    "``": 0.029,
+                    "NNP": 0.19,
+                    "''": 0.029,
+                    "VB": 0.052,
+                    "PRP": 0.034,
+                    "VBG": 0.017,
+                    "NNS": 0.011,
+                    "CC": 0.034,
+                    "MD": 0.011,
+                    "TO": 0.029,
+                    "POS": 0.006,
+                    "VBP": 0.011,
+                    "RBR": 0.006,
+                    "WP": 0.006
+                },
+                "syllableRate": 2.258,
+                "topicScores": [
+                    [
+                        "MUSIC ENRICO CARUSO",
+                        0.07325573971947343
+                    ],
+                    [
+                        "VESTI LA",
+                        0.11992375235194082
+                    ],
+                    [
+                        "Vesti La Giubba",
+                        0.12064576743700976
+                    ],
+                    [
+                        "Enrico Caruso",
+                        0.19306783058446716
+                    ],
+                    [
+                        "GIUBBA",
+                        0.19937891150472226
+                    ],
+                    [
+                        "original",
+                        0.39361224983941673
+                    ],
+                    [
+                        "processing",
+                        0.5445350307489544
+                    ],
+                    [
+                        "Professor",
+                        0.6191504485579636
+                    ],
+                    [
+                        "Stockholm",
+                        0.6191504485579636
+                    ],
+                    [
+                        "Professor Stockholm",
+                        0.6216582920040222
+                    ],
+                    [
+                        "sung",
+                        0.7903122767777969
+                    ],
+                    [
+                        "course",
+                        0.7903122767777969
+                    ],
+                    [
+                        "particular",
+                        0.8076703561391168
+                    ],
+                    [
+                        "famous",
+                        0.8076703561391168
+                    ],
+                    [
+                        "aria",
+                        0.8076703561391168
+                    ],
+                    [
+                        "piece",
+                        0.8231053429932094
+                    ],
+                    [
+                        "section",
+                        0.8231053429932094
+                    ],
+                    [
+                        "technique",
+                        0.8349728947806411
+                    ],
+                    [
+                        "enhancement",
+                        0.8739346192551419
+                    ],
+                    [
+                        "example",
+                        0.8750456283164589
+                    ],
+                    [
+                        "type",
+                        0.8750456283164589
+                    ],
+                    [
+                        "digital",
+                        0.8750456283164589
+                    ],
+                    [
+                        "signal",
+                        0.8750456283164589
+                    ],
+                    [
+                        "comparison",
+                        0.8828330523296568
+                    ],
+                    [
+                        "little",
+                        0.894856521593087
+                    ],
+                    [
+                        "bit",
+                        0.894856521593087
+                    ],
+                    [
+                        "result",
+                        0.9056159102897933
+                    ],
+                    [
+                        "recording",
+                        0.9086532753336796
+                    ],
+                    [
+                        "time",
+                        0.9125019848966447
+                    ],
+                    [
+                        "dramatic",
+                        0.9322855162033081
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "MUSIC ENRICO CARUSO",
+                        0.07325573971947343
+                    ],
+                    [
+                        "VESTI LA",
+                        0.11992375235194082
+                    ],
+                    [
+                        "GIUBBA",
+                        0.19937891150472226
+                    ],
+                    [
+                        "original",
+                        0.39361224983941673
+                    ],
+                    [
+                        "processing",
+                        0.5445350307489544
+                    ],
+                    [
+                        "Professor",
+                        0.6191504485579636
+                    ],
+                    [
+                        "course",
+                        0.7903122767777969
+                    ],
+                    [
+                        "technique",
+                        0.8349728947806411
+                    ],
+                    [
+                        "example",
+                        0.8750456283164589
+                    ],
+                    [
+                        "type",
+                        0.8750456283164589
+                    ],
+                    [
+                        "digital",
+                        0.8750456283164589
+                    ],
+                    [
+                        "signal",
+                        0.8750456283164589
+                    ],
+                    [
+                        "recording",
+                        0.9086532753336796
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-450": {
+            "id": "rkvEM5Y3N60-450",
+            "heat": 1.0,
+            "start": 450.0,
+            "text": " Primarily, the megaphone type of quality in the original has been, essentially, eliminated. Now to go even further in illustrating some of the flexibility of digital signal processing. One of the things that we observe with this particular recording and this particular example is that, although there is some enhancement that's been implemented, there still is some background noise that is present in, both, the original and the enhanced or restored. And so one of the things, obviously, that we would like to do is remove this background noise. In fact, using some rather sophisticated signal processing techniques, Professor Stockham, together with Neil J. Miller, have not only removed the background noise but, with the same processing, removed also the orchestral accompaniment. Now this is, first of all, rather dramatic. Second of all, somewhat useful in the sense that in carrying out a complete restoration one can imagine then redubbing a new orchestra on top of the restored recording. So let me just play a little bit of this to, in fact, show you that it really has been possible to not only remove the background noise but also to remove the orchestral accompaniment.",
+            "metrics": {
+                "relativeDCReadability": 0.8661163041715925,
+                "lexicalDiversity": 0.48205128205128206,
+                "posComposition": {
+                    "RB": 0.108,
+                    "DT": 0.149,
+                    "NN": 0.149,
+                    "IN": 0.133,
+                    "JJ": 0.103,
+                    "VBZ": 0.046,
+                    "VBN": 0.031,
+                    "TO": 0.026,
+                    "VB": 0.046,
+                    "RBR": 0.005,
+                    "VBG": 0.026,
+                    "CD": 0.015,
+                    "NNS": 0.015,
+                    "PRP": 0.026,
+                    "VBP": 0.01,
+                    "CC": 0.031,
+                    "EX": 0.01,
+                    "WDT": 0.01,
+                    "MD": 0.01,
+                    "NNP": 0.036,
+                    "VBD": 0.01,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.65,
+                "topicScores": [
+                    [
+                        "background",
+                        0.31747242973738454
+                    ],
+                    [
+                        "noise",
+                        0.32243029081360963
+                    ],
+                    [
+                        "processing",
+                        0.3996682172221524
+                    ],
+                    [
+                        "accompaniment",
+                        0.47788613732143215
+                    ],
+                    [
+                        "original",
+                        0.47789520777021477
+                    ],
+                    [
+                        "thing",
+                        0.4965233765079152
+                    ],
+                    [
+                        "fact",
+                        0.504497290023177
+                    ],
+                    [
+                        "signal",
+                        0.5061019305577561
+                    ],
+                    [
+                        "orchestral",
+                        0.5083047850940452
+                    ],
+                    [
+                        "Professor Stockham",
+                        0.5104509137094758
+                    ],
+                    [
+                        "recording",
+                        0.5233412794173308
+                    ],
+                    [
+                        "particular",
+                        0.5259973737312519
+                    ],
+                    [
+                        "background noise",
+                        0.5303832466231538
+                    ],
+                    [
+                        "J. Miller",
+                        0.5434935385432088
+                    ],
+                    [
+                        "Neil J.",
+                        0.5598130765898113
+                    ],
+                    [
+                        "Neil J. Miller",
+                        0.5981877901251275
+                    ],
+                    [
+                        "megaphone",
+                        0.7508928757405906
+                    ],
+                    [
+                        "type",
+                        0.7652751389743074
+                    ],
+                    [
+                        "quality",
+                        0.7652751389743074
+                    ],
+                    [
+                        "flexibility",
+                        0.8307031738373735
+                    ],
+                    [
+                        "digital",
+                        0.8307031738373735
+                    ],
+                    [
+                        "present",
+                        0.846471160041043
+                    ],
+                    [
+                        "dramatic",
+                        0.8477512522107873
+                    ],
+                    [
+                        "example",
+                        0.8563905581118634
+                    ],
+                    [
+                        "enhancement",
+                        0.8563905581118634
+                    ],
+                    [
+                        "enhanced",
+                        0.8563905581118634
+                    ],
+                    [
+                        "technique",
+                        0.8710668122511996
+                    ],
+                    [
+                        "sophisticated",
+                        0.8796230889563863
+                    ],
+                    [
+                        "useful",
+                        0.8830537386189576
+                    ],
+                    [
+                        "sense",
+                        0.8909141573700066
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "background",
+                        0.31747242973738454
+                    ],
+                    [
+                        "noise",
+                        0.32243029081360963
+                    ],
+                    [
+                        "processing",
+                        0.3996682172221524
+                    ],
+                    [
+                        "original",
+                        0.47789520777021477
+                    ],
+                    [
+                        "fact",
+                        0.504497290023177
+                    ],
+                    [
+                        "signal",
+                        0.5061019305577561
+                    ],
+                    [
+                        "Professor Stockham",
+                        0.5104509137094758
+                    ],
+                    [
+                        "recording",
+                        0.5233412794173308
+                    ],
+                    [
+                        "type",
+                        0.7652751389743074
+                    ],
+                    [
+                        "digital",
+                        0.8307031738373735
+                    ],
+                    [
+                        "example",
+                        0.8563905581118634
+                    ],
+                    [
+                        "technique",
+                        0.8710668122511996
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-540": {
+            "id": "rkvEM5Y3N60-540",
+            "heat": 0.431,
+            "start": 540.0,
+            "text": " So first let me move forward on the tape to the right place. And what you'll hear now in this case, on channel 1, is the Caruso recording restored as I indicated previously. And on channel 2 is the result of further processing, the restored recording, to eliminate, both, the background noise and also the orchestra. So we'll begin with the restored, which includes the orchestra. And then, the orchestra removed. [MUSIC ENRICO CARUSO, \"VESTI LA GIUBBA\"] That's with the orchestra. [MUSIC ENRICO CARUSO, \"VESTI LA  GIUBBA\"] And with the orchestra and the background noise removed. [MUSIC ENRICO CARUSO, \"VESTI LA  GIUBBA\"] And then, once more, back to the orchestral [INAUDIBLE].. [MUSIC ENRICO CARUSO, \"VESTI LA GIUBBA\"] Well I think that you'll probably have to admit that, in fact, it's a rather dramatic example of some sophisticated digital signal processing.",
+            "metrics": {
+                "relativeDCReadability": 1.1790641491915712,
+                "lexicalDiversity": 0.5909090909090909,
+                "posComposition": {
+                    "RB": 0.071,
+                    "JJ": 0.065,
+                    "VB": 0.045,
+                    "PRP": 0.045,
+                    "IN": 0.091,
+                    "DT": 0.117,
+                    "NN": 0.117,
+                    "TO": 0.026,
+                    "CC": 0.045,
+                    "WP": 0.006,
+                    "MD": 0.019,
+                    "CD": 0.013,
+                    "VBZ": 0.032,
+                    "NNP": 0.182,
+                    "VBD": 0.019,
+                    "NNS": 0.013,
+                    "VBG": 0.006,
+                    "WDT": 0.013,
+                    "``": 0.026,
+                    "''": 0.026,
+                    "VBN": 0.006,
+                    "RBR": 0.006,
+                    "VBP": 0.006
+                },
+                "syllableRate": 2.05,
+                "topicScores": [
+                    [
+                        "MUSIC ENRICO CARUSO",
+                        0.06448104053322917
+                    ],
+                    [
+                        "VESTI LA",
+                        0.1091023285484533
+                    ],
+                    [
+                        "VESTI LA GIUBBA",
+                        0.15522659434417507
+                    ],
+                    [
+                        "orchestra",
+                        0.3074198111420642
+                    ],
+                    [
+                        "channel",
+                        0.5191147775939136
+                    ],
+                    [
+                        "recording",
+                        0.5274728365958219
+                    ],
+                    [
+                        "Caruso",
+                        0.5334678631260181
+                    ],
+                    [
+                        "background",
+                        0.5424995876370451
+                    ],
+                    [
+                        "noise",
+                        0.5435540208005682
+                    ],
+                    [
+                        "processing",
+                        0.5562795971916055
+                    ],
+                    [
+                        "place",
+                        0.7709333282880245
+                    ],
+                    [
+                        "right",
+                        0.8043576417315701
+                    ],
+                    [
+                        "Caruso recording",
+                        0.8050290381756979
+                    ],
+                    [
+                        "tape",
+                        0.8185858500884466
+                    ],
+                    [
+                        "case",
+                        0.8608722210670908
+                    ],
+                    [
+                        "result",
+                        0.8919295154338476
+                    ],
+                    [
+                        "fact",
+                        0.9154339517520217
+                    ],
+                    [
+                        "signal",
+                        0.9226882649346579
+                    ],
+                    [
+                        "dramatic",
+                        0.9290696771572152
+                    ],
+                    [
+                        "example",
+                        0.9290696771572152
+                    ],
+                    [
+                        "sophisticated",
+                        0.9290696771572152
+                    ],
+                    [
+                        "digital",
+                        0.9290696771572152
+                    ],
+                    [
+                        "right place",
+                        1.6323140132568394
+                    ],
+                    [
+                        "background noise",
+                        1.8028786288670113
+                    ],
+                    [
+                        "signal processing",
+                        4.362445347353162
+                    ],
+                    [
+                        "digital signal",
+                        6.0048460851735905
+                    ],
+                    [
+                        "dramatic example",
+                        6.308363651861405
+                    ],
+                    [
+                        "sophisticated digital",
+                        6.308363651861405
+                    ],
+                    [
+                        "digital signal processing",
+                        34.78888336524318
+                    ],
+                    [
+                        "sophisticated digital signal",
+                        52.326012443283695
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "MUSIC ENRICO CARUSO",
+                        0.06448104053322917
+                    ],
+                    [
+                        "VESTI LA",
+                        0.1091023285484533
+                    ],
+                    [
+                        "VESTI LA GIUBBA",
+                        0.15522659434417507
+                    ],
+                    [
+                        "recording",
+                        0.5274728365958219
+                    ],
+                    [
+                        "Caruso",
+                        0.5334678631260181
+                    ],
+                    [
+                        "background",
+                        0.5424995876370451
+                    ],
+                    [
+                        "noise",
+                        0.5435540208005682
+                    ],
+                    [
+                        "processing",
+                        0.5562795971916055
+                    ],
+                    [
+                        "fact",
+                        0.9154339517520217
+                    ],
+                    [
+                        "signal",
+                        0.9226882649346579
+                    ],
+                    [
+                        "example",
+                        0.9290696771572152
+                    ],
+                    [
+                        "digital",
+                        0.9290696771572152
+                    ],
+                    [
+                        "signal processing",
+                        4.362445347353162
+                    ],
+                    [
+                        "digital signal",
+                        6.0048460851735905
+                    ],
+                    [
+                        "digital signal processing",
+                        34.78888336524318
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-630": {
+            "id": "rkvEM5Y3N60-630",
+            "heat": 0.333,
+            "start": 630.0,
+            "text": " Another area in which digital signal processing has tremendous potential is in the area of digital image processing. And in that case, the basic notion is to treat an image as a two dimensional signal digitized, of course. And one is then afforded the possibility of applying digital signal processing techniques to the two dimensional signal. For example, in a very simple signal processing environment, we might be interested in low pass filtering a digital image. For example, if the image has considerable grain noise, grain noise, in fact, tends to be high frequency. And low pass filtering then will tend to reduce or eliminate noise of that type. Or we might be interested in high pass filtering. For example, if we wanted to enhance edges in a picture, the procedure would be or one procedure might be to apply a two dimensional high pass filter. More elaborately, we could consider some processing, which is directed at general image enhancement. And one example that I'd like to show you is some digital image processing that was carried out directed at simultaneously reducing the dynamic range of an image",
+            "metrics": {
+                "relativeDCReadability": 0.9959422913124485,
+                "lexicalDiversity": 0.5661375661375662,
+                "posComposition": {
+                    "DT": 0.101,
+                    "NN": 0.259,
+                    "IN": 0.111,
+                    "WDT": 0.021,
+                    "JJ": 0.116,
+                    "VBZ": 0.037,
+                    "CC": 0.037,
+                    "TO": 0.037,
+                    "VB": 0.074,
+                    "CD": 0.032,
+                    "RB": 0.026,
+                    "VBN": 0.021,
+                    "VBG": 0.021,
+                    "NNS": 0.016,
+                    "PRP": 0.032,
+                    "MD": 0.037,
+                    "VBD": 0.011,
+                    "RBR": 0.005,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.692,
+                "topicScores": [
+                    [
+                        "image",
+                        0.2958532018481222
+                    ],
+                    [
+                        "processing",
+                        0.3088502556391715
+                    ],
+                    [
+                        "signal",
+                        0.3211297553000172
+                    ],
+                    [
+                        "digital",
+                        0.3266979014615857
+                    ],
+                    [
+                        "example",
+                        0.36122547534957494
+                    ],
+                    [
+                        "pass",
+                        0.3668050194440078
+                    ],
+                    [
+                        "dimensional",
+                        0.41882428728353777
+                    ],
+                    [
+                        "noise",
+                        0.4418965645747247
+                    ],
+                    [
+                        "high",
+                        0.44775357396376414
+                    ],
+                    [
+                        "area",
+                        0.5123539785018898
+                    ],
+                    [
+                        "interested",
+                        0.5422396231410441
+                    ],
+                    [
+                        "grain",
+                        0.5480083584186696
+                    ],
+                    [
+                        "filter",
+                        0.5516338739205479
+                    ],
+                    [
+                        "filtering",
+                        0.5534068490442594
+                    ],
+                    [
+                        "low",
+                        0.5538897266361158
+                    ],
+                    [
+                        "procedure",
+                        0.5727370863190513
+                    ],
+                    [
+                        "course",
+                        0.8036949106319153
+                    ],
+                    [
+                        "tremendous",
+                        0.8180781943110134
+                    ],
+                    [
+                        "potential",
+                        0.8180781943110134
+                    ],
+                    [
+                        "case",
+                        0.8578884460302579
+                    ],
+                    [
+                        "basic",
+                        0.8578884460302579
+                    ],
+                    [
+                        "notion",
+                        0.8712637001728966
+                    ],
+                    [
+                        "frequency",
+                        0.8749860063138956
+                    ],
+                    [
+                        "type",
+                        0.8816445094119683
+                    ],
+                    [
+                        "fact",
+                        0.8884355102567161
+                    ],
+                    [
+                        "possibility",
+                        0.8915999205375862
+                    ],
+                    [
+                        "technique",
+                        0.8915999205375862
+                    ],
+                    [
+                        "environment",
+                        0.892138857214596
+                    ],
+                    [
+                        "enhancement",
+                        0.8937897472621699
+                    ],
+                    [
+                        "simple",
+                        0.9026563076185361
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "image",
+                        0.2958532018481222
+                    ],
+                    [
+                        "processing",
+                        0.3088502556391715
+                    ],
+                    [
+                        "signal",
+                        0.3211297553000172
+                    ],
+                    [
+                        "digital",
+                        0.3266979014615857
+                    ],
+                    [
+                        "example",
+                        0.36122547534957494
+                    ],
+                    [
+                        "noise",
+                        0.4418965645747247
+                    ],
+                    [
+                        "area",
+                        0.5123539785018898
+                    ],
+                    [
+                        "course",
+                        0.8036949106319153
+                    ],
+                    [
+                        "type",
+                        0.8816445094119683
+                    ],
+                    [
+                        "fact",
+                        0.8884355102567161
+                    ],
+                    [
+                        "technique",
+                        0.8915999205375862
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-720": {
+            "id": "rkvEM5Y3N60-720",
+            "heat": 0.314,
+            "start": 720.0,
+            "text": " and increasing the contrast of the image. Generally, photographically, these are conflicting requirements. But with some sophisticated processing, it's possible to simultaneously reduce the dynamic range and increase the contrast. To illustrate how this works with an example, the first slide that I'll show you is an original image, which is, of course, a digital image displayed on a computer scope. And one of the things that we notice about that image is that it has a rather high dynamic range. For example, the snow outside the boiler room is rather bright. The inside of the boiler room is dark. And of course, the contrast inside the boiler room is relatively low because of the fact that the illumination inside the boiler room is relatively low. So one type of processing that we could consider is the simultaneous enhancement of contrast, and reduction of dynamic range, and applying some two dimensional signal processing. The result is what I show you on the next slide where, here, we've processed to bring out the detail inside the boiler room. You can notice that the dynamic range, in fact, is reduced.",
+            "metrics": {
+                "relativeDCReadability": 0.8589628107676419,
+                "lexicalDiversity": 0.5078534031413613,
+                "posComposition": {
+                    "CC": 0.037,
+                    "VBG": 0.026,
+                    "DT": 0.162,
+                    "NN": 0.22,
+                    "IN": 0.141,
+                    "NNP": 0.005,
+                    "RB": 0.042,
+                    "VBP": 0.021,
+                    "NNS": 0.01,
+                    "JJ": 0.089,
+                    "PRP": 0.052,
+                    "VBZ": 0.068,
+                    "TO": 0.016,
+                    "VB": 0.037,
+                    "WRB": 0.01,
+                    "MD": 0.016,
+                    "WDT": 0.005,
+                    "VBN": 0.016,
+                    "CD": 0.016,
+                    "WP": 0.005,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.5,
+                "topicScores": [
+                    [
+                        "boiler",
+                        0.2740935025490395
+                    ],
+                    [
+                        "room",
+                        0.27613290482551156
+                    ],
+                    [
+                        "contrast",
+                        0.3306413518387026
+                    ],
+                    [
+                        "range",
+                        0.33110184935650655
+                    ],
+                    [
+                        "inside",
+                        0.33488169660329337
+                    ],
+                    [
+                        "dynamic",
+                        0.3402330196964032
+                    ],
+                    [
+                        "image",
+                        0.3528661748018037
+                    ],
+                    [
+                        "boiler room",
+                        0.3958345813583966
+                    ],
+                    [
+                        "processing",
+                        0.42700667766108075
+                    ],
+                    [
+                        "example",
+                        0.5115186356806521
+                    ],
+                    [
+                        "course",
+                        0.5196212575672888
+                    ],
+                    [
+                        "slide",
+                        0.5364913997941441
+                    ],
+                    [
+                        "low",
+                        0.5387064395806851
+                    ],
+                    [
+                        "fact",
+                        0.5457455001519835
+                    ],
+                    [
+                        "dynamic range",
+                        0.6661559556530116
+                    ],
+                    [
+                        "requirement",
+                        0.8086730211308276
+                    ],
+                    [
+                        "conflicting",
+                        0.8322273928476485
+                    ],
+                    [
+                        "scope",
+                        0.8527489370933944
+                    ],
+                    [
+                        "sophisticated",
+                        0.8577231177688087
+                    ],
+                    [
+                        "possible",
+                        0.8666880182662307
+                    ],
+                    [
+                        "bright",
+                        0.8701144991271116
+                    ],
+                    [
+                        "original",
+                        0.8717377401727192
+                    ],
+                    [
+                        "digital",
+                        0.8717377401727192
+                    ],
+                    [
+                        "computer",
+                        0.8717377401727192
+                    ],
+                    [
+                        "dark",
+                        0.8755452593705221
+                    ],
+                    [
+                        "snow",
+                        0.8871602466101702
+                    ],
+                    [
+                        "thing",
+                        0.8884716181275428
+                    ],
+                    [
+                        "high",
+                        0.8884716181275428
+                    ],
+                    [
+                        "reduction",
+                        0.8988044447174504
+                    ],
+                    [
+                        "signal",
+                        0.8988044447174504
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "range",
+                        0.33110184935650655
+                    ],
+                    [
+                        "dynamic",
+                        0.3402330196964032
+                    ],
+                    [
+                        "image",
+                        0.3528661748018037
+                    ],
+                    [
+                        "processing",
+                        0.42700667766108075
+                    ],
+                    [
+                        "example",
+                        0.5115186356806521
+                    ],
+                    [
+                        "course",
+                        0.5196212575672888
+                    ],
+                    [
+                        "fact",
+                        0.5457455001519835
+                    ],
+                    [
+                        "original",
+                        0.8717377401727192
+                    ],
+                    [
+                        "digital",
+                        0.8717377401727192
+                    ],
+                    [
+                        "signal",
+                        0.8988044447174504
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-810": {
+            "id": "rkvEM5Y3N60-810",
+            "heat": 0.308,
+            "start": 810.0,
+            "text": " The snow is darker than it was in the original. The boiler room is brighter than it was in the original, suggesting reduced dynamic range. But also, the contrast is very clearly enhanced. Just as another example of the same type of processing. First, let's look at an original where we observe that there's a brightly illuminated area, which is where the radome moves is. And then, a more dimly illuminated area. The details in the right hand corner with the trees and leaves. And as a result of processing to, again, increase the contrast and reduce the dynamic range, we see in the resulting processed image that the detail in the dimly illuminated areas, in fact, is brought out rather dramatically. So this is one example of some rather sophisticated digital signal processing applied to two dimensional signals. Namely, to images. And I should mention incidentally that the type of processing that was applied for this image enhancement is discussed in considerable detail in chapter 10 of the text. Now there are, of course, a long list of other applications",
+            "metrics": {
+                "relativeDCReadability": 0.9976784288969305,
+                "lexicalDiversity": 0.48633879781420764,
+                "posComposition": {
+                    "DT": 0.142,
+                    "NN": 0.197,
+                    "VBZ": 0.049,
+                    "JJR": 0.011,
+                    "IN": 0.148,
+                    "PRP": 0.027,
+                    "VBD": 0.022,
+                    "JJ": 0.082,
+                    "VBN": 0.038,
+                    "CC": 0.033,
+                    "RB": 0.071,
+                    "NNP": 0.011,
+                    "VBG": 0.005,
+                    "POS": 0.005,
+                    "WRB": 0.011,
+                    "VBP": 0.016,
+                    "EX": 0.011,
+                    "WDT": 0.011,
+                    "NNS": 0.044,
+                    "RBR": 0.005,
+                    "TO": 0.016,
+                    "VB": 0.016,
+                    "RP": 0.005,
+                    "CD": 0.016,
+                    "MD": 0.005
+                },
+                "syllableRate": 2.467,
+                "topicScores": [
+                    [
+                        "original",
+                        0.38154815629317096
+                    ],
+                    [
+                        "area",
+                        0.4039212495315762
+                    ],
+                    [
+                        "detail",
+                        0.41047869288875477
+                    ],
+                    [
+                        "processing",
+                        0.4191222826422447
+                    ],
+                    [
+                        "image",
+                        0.43069430329886504
+                    ],
+                    [
+                        "dynamic",
+                        0.5072445398595001
+                    ],
+                    [
+                        "range",
+                        0.5153229392236917
+                    ],
+                    [
+                        "type",
+                        0.5272785598441232
+                    ],
+                    [
+                        "contrast",
+                        0.5311533955610719
+                    ],
+                    [
+                        "example",
+                        0.542483320671303
+                    ],
+                    [
+                        "signal",
+                        0.5557962467993623
+                    ],
+                    [
+                        "result",
+                        0.5560257849933616
+                    ],
+                    [
+                        "snow",
+                        0.7623198511803525
+                    ],
+                    [
+                        "dark",
+                        0.7780509030695536
+                    ],
+                    [
+                        "boiler",
+                        0.8283869234158318
+                    ],
+                    [
+                        "room",
+                        0.8406592589171134
+                    ],
+                    [
+                        "bright",
+                        0.8406592589171134
+                    ],
+                    [
+                        "leave",
+                        0.8691099015605359
+                    ],
+                    [
+                        "illuminated",
+                        0.8778777463314857
+                    ],
+                    [
+                        "move",
+                        0.8778777463314857
+                    ],
+                    [
+                        "text",
+                        0.8827749816471884
+                    ],
+                    [
+                        "fact",
+                        0.8839610172217452
+                    ],
+                    [
+                        "application",
+                        0.8849851866312421
+                    ],
+                    [
+                        "radome",
+                        0.8870932896750013
+                    ],
+                    [
+                        "course",
+                        0.8945506047835818
+                    ],
+                    [
+                        "dimensional",
+                        0.8962980819553787
+                    ],
+                    [
+                        "hand",
+                        0.8977651089122451
+                    ],
+                    [
+                        "corner",
+                        0.8977651089122451
+                    ],
+                    [
+                        "tree",
+                        0.8977651089122451
+                    ],
+                    [
+                        "long",
+                        0.9030104017500344
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "original",
+                        0.38154815629317096
+                    ],
+                    [
+                        "area",
+                        0.4039212495315762
+                    ],
+                    [
+                        "processing",
+                        0.4191222826422447
+                    ],
+                    [
+                        "image",
+                        0.43069430329886504
+                    ],
+                    [
+                        "dynamic",
+                        0.5072445398595001
+                    ],
+                    [
+                        "range",
+                        0.5153229392236917
+                    ],
+                    [
+                        "type",
+                        0.5272785598441232
+                    ],
+                    [
+                        "example",
+                        0.542483320671303
+                    ],
+                    [
+                        "signal",
+                        0.5557962467993623
+                    ],
+                    [
+                        "fact",
+                        0.8839610172217452
+                    ],
+                    [
+                        "course",
+                        0.8945506047835818
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-900": {
+            "id": "rkvEM5Y3N60-900",
+            "heat": 0.321,
+            "start": 900.0,
+            "text": " of digital signal processing. In the biomedical area, for example, digital signal processing techniques are playing a very important role. In radar and sonar, those are two additional areas in which digital signal processing is extremely important. And I'm sure that there are other areas that you're aware of that I, perhaps, might not be where digital signal processing is particularly important because of its flexibility. Specifically, in this course, we won't be focusing on applications. Although, it's important to keep in mind as we go through the course that the material that we're talking about has very important applications. In the course, we'll be concentrating specifically on the fundamentals and techniques of digital signal processing. As I've indicated in the study guide, I will be assuming that you previously have had a course in linear system theory, continuous time linear system theory, including Fourier and Laplace transforms. But I will not be assuming any specific background in discrete time signals and systems in Z-transforms, et cetera. In fact, in the next lecture, lecture two, we will begin from the beginning.",
+            "metrics": {
+                "relativeDCReadability": 1.0484699170339495,
+                "lexicalDiversity": 0.526595744680851,
+                "posComposition": {
+                    "IN": 0.165,
+                    "JJ": 0.117,
+                    "NN": 0.191,
+                    "DT": 0.074,
+                    "NNS": 0.053,
+                    "VBP": 0.048,
+                    "VBG": 0.037,
+                    "RB": 0.059,
+                    "CC": 0.032,
+                    "CD": 0.011,
+                    "WDT": 0.005,
+                    "VBZ": 0.021,
+                    "PRP": 0.069,
+                    "EX": 0.005,
+                    "MD": 0.032,
+                    "VB": 0.037,
+                    "WRB": 0.005,
+                    "PRP$": 0.005,
+                    "TO": 0.005,
+                    "VBN": 0.011,
+                    "NNP": 0.016
+                },
+                "syllableRate": 2.733,
+                "topicScores": [
+                    [
+                        "processing",
+                        0.2744391503596634
+                    ],
+                    [
+                        "signal",
+                        0.27712744988382837
+                    ],
+                    [
+                        "digital",
+                        0.29579087172018914
+                    ],
+                    [
+                        "important",
+                        0.32900563036773833
+                    ],
+                    [
+                        "course",
+                        0.36872229421175384
+                    ],
+                    [
+                        "area",
+                        0.43122552755581733
+                    ],
+                    [
+                        "system",
+                        0.4372032517606735
+                    ],
+                    [
+                        "signal processing",
+                        0.476506321091093
+                    ],
+                    [
+                        "application",
+                        0.5251038277164024
+                    ],
+                    [
+                        "transform",
+                        0.5478821825188122
+                    ],
+                    [
+                        "theory",
+                        0.5520336333439686
+                    ],
+                    [
+                        "technique",
+                        0.5576330063642593
+                    ],
+                    [
+                        "linear",
+                        0.5628443418846809
+                    ],
+                    [
+                        "time",
+                        0.5634476954220439
+                    ],
+                    [
+                        "lecture",
+                        0.5659880568964476
+                    ],
+                    [
+                        "digital signal",
+                        0.5680128343087414
+                    ],
+                    [
+                        "Fourier",
+                        0.6553193730136548
+                    ],
+                    [
+                        "Laplace",
+                        0.6553193730136548
+                    ],
+                    [
+                        "Z",
+                        0.6616865496324756
+                    ],
+                    [
+                        "role",
+                        0.846884069688004
+                    ],
+                    [
+                        "example",
+                        0.8597186400777558
+                    ],
+                    [
+                        "biomedical",
+                        0.8710792832630291
+                    ],
+                    [
+                        "flexibility",
+                        0.8714236207131979
+                    ],
+                    [
+                        "cetera",
+                        0.8826795397319339
+                    ],
+                    [
+                        "radar",
+                        0.8839562837377906
+                    ],
+                    [
+                        "sonar",
+                        0.8839562837377906
+                    ],
+                    [
+                        "additional",
+                        0.8931645142482798
+                    ],
+                    [
+                        "beginning",
+                        0.8957356423072036
+                    ],
+                    [
+                        "sure",
+                        0.9008595694472977
+                    ],
+                    [
+                        "aware",
+                        0.9008595694472977
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "processing",
+                        0.2744391503596634
+                    ],
+                    [
+                        "signal",
+                        0.27712744988382837
+                    ],
+                    [
+                        "digital",
+                        0.29579087172018914
+                    ],
+                    [
+                        "important",
+                        0.32900563036773833
+                    ],
+                    [
+                        "course",
+                        0.36872229421175384
+                    ],
+                    [
+                        "area",
+                        0.43122552755581733
+                    ],
+                    [
+                        "system",
+                        0.4372032517606735
+                    ],
+                    [
+                        "signal processing",
+                        0.476506321091093
+                    ],
+                    [
+                        "technique",
+                        0.5576330063642593
+                    ],
+                    [
+                        "digital signal",
+                        0.5680128343087414
+                    ],
+                    [
+                        "example",
+                        0.8597186400777558
+                    ]
+                ]
+            }
+        },
+        "rkvEM5Y3N60-990": {
+            "id": "rkvEM5Y3N60-990",
+            "heat": 0.355,
+            "start": 990.0,
+            "text": " Namely, we will begin with a definition of discrete time signals and systems. And if you feel a little rusty on basic linear system theory for continuous time systems, it might be well before then to do just a little bit of reviewing. And I suggest some possible books in the study guide. I would also suggest, before beginning the next lecture, that you read the introduction to the text. And perhaps, also browse through the text and the study guide to get a general impression of the scope of the course, and some of the objectives of the course. As I indicated, next time, we will begin with the definition of discrete time signals and systems. I sincerely hope that you find this set of lessons to be interesting and worthwhile. And I'll see you at the next lecture. Thank you. [MUSIC PLAYING]",
+            "metrics": {
+                "relativeDCReadability": 0.8188324396252226,
+                "lexicalDiversity": 0.496551724137931,
+                "posComposition": {
+                    "RB": 0.062,
+                    "PRP": 0.09,
+                    "MD": 0.034,
+                    "VB": 0.055,
+                    "IN": 0.138,
+                    "DT": 0.131,
+                    "NN": 0.166,
+                    "JJ": 0.097,
+                    "NNS": 0.055,
+                    "CC": 0.062,
+                    "VBP": 0.048,
+                    "TO": 0.028,
+                    "VBG": 0.021,
+                    "VBD": 0.007,
+                    "NNP": 0.007
+                },
+                "syllableRate": 1.75,
+                "topicScores": [
+                    [
+                        "system",
+                        0.34892392379347825
+                    ],
+                    [
+                        "time",
+                        0.35057678817230237
+                    ],
+                    [
+                        "discrete",
+                        0.4959108417289727
+                    ],
+                    [
+                        "signal",
+                        0.4959108417289727
+                    ],
+                    [
+                        "definition",
+                        0.5121230133061732
+                    ],
+                    [
+                        "guide",
+                        0.5123051168627861
+                    ],
+                    [
+                        "lecture",
+                        0.5158760126373091
+                    ],
+                    [
+                        "study",
+                        0.5203537960401609
+                    ],
+                    [
+                        "course",
+                        0.5224998283508235
+                    ],
+                    [
+                        "little",
+                        0.5267458801368183
+                    ],
+                    [
+                        "text",
+                        0.5301242438412033
+                    ],
+                    [
+                        "music playing",
+                        0.6107796321006461
+                    ],
+                    [
+                        "rusty",
+                        0.8498025863954904
+                    ],
+                    [
+                        "basic",
+                        0.8498025863954904
+                    ],
+                    [
+                        "linear",
+                        0.8498025863954904
+                    ],
+                    [
+                        "theory",
+                        0.8498025863954904
+                    ],
+                    [
+                        "continuous",
+                        0.8498025863954904
+                    ],
+                    [
+                        "bit",
+                        0.8498025863954904
+                    ],
+                    [
+                        "worthwhile",
+                        0.8673702360501382
+                    ],
+                    [
+                        "possible",
+                        0.8730349436221574
+                    ],
+                    [
+                        "book",
+                        0.8730349436221574
+                    ],
+                    [
+                        "introduction",
+                        0.885742228710981
+                    ],
+                    [
+                        "general",
+                        0.8939083885362856
+                    ],
+                    [
+                        "impression",
+                        0.8939083885362856
+                    ],
+                    [
+                        "scope",
+                        0.8939083885362856
+                    ],
+                    [
+                        "objective",
+                        0.8939083885362856
+                    ],
+                    [
+                        "set",
+                        0.9040057575085964
+                    ],
+                    [
+                        "lesson",
+                        0.9040057575085964
+                    ],
+                    [
+                        "interesting",
+                        0.9040057575085964
+                    ],
+                    [
+                        "discrete time",
+                        1.120753451106488
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "system",
+                        0.34892392379347825
+                    ],
+                    [
+                        "signal",
+                        0.4959108417289727
+                    ],
+                    [
+                        "course",
+                        0.5224998283508235
+                    ]
+                ]
+            }
+        }
+    }
+}

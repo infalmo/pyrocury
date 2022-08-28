@@ -1,0 +1,5052 @@
+{
+    "metadata": {
+        "id": "14UlXIZzwE4",
+        "avgHeat": 0.29,
+        "runtime": 2249.59,
+        "dale-challReadabilityScore": 7.218074922046019,
+        "lexicalDiversity": 0.4639851901716594,
+        "posComposition": {
+            "NNP": 0.035,
+            "NN": 0.099,
+            "TO": 0.033,
+            "CD": 0.025,
+            "NNS": 0.043,
+            "IN": 0.108,
+            "VBG": 0.025,
+            "DT": 0.102,
+            "PRP": 0.091,
+            "VBP": 0.052,
+            "VBZ": 0.043,
+            "RB": 0.074,
+            "CC": 0.048,
+            "VBN": 0.006,
+            "VB": 0.063,
+            "RP": 0.005,
+            "JJ": 0.046,
+            "VBD": 0.014,
+            "RBR": 0.002,
+            "MD": 0.021,
+            "WDT": 0.009,
+            "JJS": 0.001,
+            "PRP$": 0.008,
+            "EX": 0.004,
+            "WRB": 0.006,
+            "WP": 0.008,
+            "POS": 0.004,
+            ":": 0.011,
+            "``": 0.006,
+            "''": 0.006,
+            "PDT": 0.001,
+            "JJR": 0.002,
+            "RBS": 0.0,
+            "UH": 0.0,
+            "FW": 0.0
+        },
+        "syllableRate": 3.494,
+        "topicScores": [
+            [
+                "F",
+                0.10772479775134204
+            ],
+            [
+                "interval",
+                0.11607128368508007
+            ],
+            [
+                "audience",
+                0.1263478398694122
+            ],
+            [
+                "cap",
+                0.13847778879576791
+            ],
+            [
+                "SRINI",
+                0.1417439224542243
+            ],
+            [
+                "srini devada",
+                0.1458106481966923
+            ],
+            [
+                "Python",
+                0.14671776562329464
+            ],
+            [
+                "code",
+                0.1533857390570465
+            ],
+            [
+                "end",
+                0.15985128094921663
+            ],
+            [
+                "line",
+                0.1620757137357995
+            ],
+            [
+                "people",
+                0.16219573597484513
+            ],
+            [
+                "thing",
+                0.16513779143178575
+            ],
+            [
+                "command",
+                0.16554930864269693
+            ],
+            [
+                "backwards",
+                0.180620776890174
+            ],
+            [
+                "B",
+                0.18226590550741484
+            ],
+            [
+                "flip",
+                0.19695674717887426
+            ],
+            [
+                "puzzle",
+                0.19882707817916037
+            ],
+            [
+                "Ganatra",
+                0.20120760938745091
+            ],
+            [
+                "pass",
+                0.20275300022014667
+            ],
+            [
+                "start",
+                0.20361936330633734
+            ],
+            [
+                "Kevin",
+                0.2037874075441845
+            ],
+            [
+                "forward",
+                0.20911776914858035
+            ],
+            [
+                "algorithm",
+                0.21165572837456623
+            ],
+            [
+                "person",
+                0.21536834819241896
+            ],
+            [
+                "term",
+                0.21564139790545464
+            ],
+            [
+                "list",
+                0.21752821928418298
+            ],
+            [
+                "way",
+                0.2237460355907654
+            ],
+            [
+                "good",
+                0.2240731875627557
+            ],
+            [
+                "position",
+                0.2288152800873235
+            ],
+            [
+                "number",
+                0.23126043276801966
+            ]
+        ],
+        "topicsList": [
+            "F",
+            "interval",
+            "audience",
+            "cap",
+            "SRINI",
+            "srini devada",
+            "Python",
+            "code",
+            "end",
+            "line",
+            "people",
+            "thing",
+            "command",
+            "backwards",
+            "B",
+            "flip",
+            "puzzle",
+            "Ganatra",
+            "pass",
+            "start",
+            "Kevin",
+            "forward",
+            "algorithm",
+            "person",
+            "term",
+            "list",
+            "way",
+            "good",
+            "position",
+            "number"
+        ]
+    },
+    "chunks": {
+        "14UlXIZzwE4-0": {
+            "id": "14UlXIZzwE4-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " SRINI DEVADAS: Morning, everyone. Welcome to 6.S095. Thanks for registering for this class. I hope you like it. My name is Srini Devadas. I'm a professor of computer science at MIT, obviously, and I've been teaching at MIT for 30 years. So I've been at it for a while. The reason I'm teaching this IAP class is because I want to try out this way of teaching programming that starts with the recreational world of mathematical puzzles, algorithmic puzzles, and I want to connect it up to writing programs. And I have taught this material before in 6.009 that I think some of you are registered for, but I wanted to teach it in a more interactive, informal setting. And I should mention that I wrote a book on this, which is a book that's recommended, though not required, for 6.009. And so you might see this in the MIT Press Bookstore and other places. And most of the material I'm going to cover here is from the book. But I don't want you to read the book because I want you to listen to my explanations for the puzzles and try and think of the solutions",
+            "metrics": {
+                "relativeDCReadability": 1.1056386368486681,
+                "lexicalDiversity": 0.43137254901960786,
+                "posComposition": {
+                    "NNP": 0.064,
+                    "NN": 0.088,
+                    "TO": 0.044,
+                    "CD": 0.02,
+                    "NNS": 0.044,
+                    "IN": 0.147,
+                    "VBG": 0.034,
+                    "DT": 0.098,
+                    "PRP": 0.118,
+                    "VBP": 0.064,
+                    "VBZ": 0.029,
+                    "RB": 0.029,
+                    "CC": 0.054,
+                    "VBN": 0.029,
+                    "VB": 0.054,
+                    "RP": 0.01,
+                    "JJ": 0.029,
+                    "VBD": 0.01,
+                    "RBR": 0.005,
+                    "MD": 0.01,
+                    "WDT": 0.01,
+                    "JJS": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "SRINI devada",
+                        0.1691768632155599
+                    ],
+                    [
+                        "MIT",
+                        0.3183840483394378
+                    ],
+                    [
+                        "book",
+                        0.3787185701892009
+                    ],
+                    [
+                        "morning",
+                        0.3968258082777963
+                    ],
+                    [
+                        "puzzle",
+                        0.434018721276184
+                    ],
+                    [
+                        "class",
+                        0.5314233182490375
+                    ],
+                    [
+                        "material",
+                        0.5648133108289046
+                    ],
+                    [
+                        "Devadas",
+                        0.5798634891384573
+                    ],
+                    [
+                        "Srini",
+                        0.6107829869510658
+                    ],
+                    [
+                        "IAP",
+                        0.6593664324849827
+                    ],
+                    [
+                        "Press",
+                        0.6784244631183727
+                    ],
+                    [
+                        "Bookstore",
+                        0.6784244631183727
+                    ],
+                    [
+                        "MIT Press",
+                        0.7605604484534608
+                    ],
+                    [
+                        "thank",
+                        0.8318497589785095
+                    ],
+                    [
+                        "Press Bookstore",
+                        0.8527430629774312
+                    ],
+                    [
+                        "year",
+                        0.8658025427024107
+                    ],
+                    [
+                        "setting",
+                        0.8666873859204118
+                    ],
+                    [
+                        "program",
+                        0.8757813012600941
+                    ],
+                    [
+                        "place",
+                        0.884845796929291
+                    ],
+                    [
+                        "algorithmic",
+                        0.88707514852735
+                    ],
+                    [
+                        "solution",
+                        0.8889238406125748
+                    ],
+                    [
+                        "informal",
+                        0.8903608938221749
+                    ],
+                    [
+                        "reason",
+                        0.8969507312677527
+                    ],
+                    [
+                        "mathematical",
+                        0.8969507312677527
+                    ],
+                    [
+                        "writing",
+                        0.8969507312677527
+                    ],
+                    [
+                        "professor",
+                        0.8977660736475123
+                    ],
+                    [
+                        "computer",
+                        0.8977660736475123
+                    ],
+                    [
+                        "science",
+                        0.8977660736475123
+                    ],
+                    [
+                        "interactive",
+                        0.8999815279262678
+                    ],
+                    [
+                        "way",
+                        0.9056271320884733
+                    ]
+                ],
+                "topTopicSimilarity": 0.06666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "puzzle",
+                        0.434018721276184
+                    ],
+                    [
+                        "way",
+                        0.9056271320884733
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-90": {
+            "id": "14UlXIZzwE4-90",
+            "heat": 0.118,
+            "start": 90.0,
+            "text": " yourself and then obviously do some amount of coding not during lecture but offline. And I'll show you some solutions to the puzzles, and there will be some exercises. So I don't want to spend a whole lot of time on logistics. This is an IAP class, as I mentioned. I'd like this to be informal and relaxed. So we meet every day for two weeks. We have the holiday coming up on Monday, so we'll have nine total lectures roughly for an hour. It might spill over, but hopefully, you'll be OK with it because you don't have another class to go to at noon. And if you do, well, let me know, and I'll give you that five minutes of overflow personally at a time of your choosing. But hopefully, I'll keep on time. And in terms of work, this is a pass/fail. It's a for-credit class. I know some of you may be listeners, but some of you are registered for it. So I'll have to assign you a grade, so there will be some exercises. And I'm going to make it very simple. There'll be exercises up on the website. They'll be due two days from when I put them up. And you'll have options in terms of whether to do a really simple exercise that's probably going to take about five minutes or do something harder.",
+            "metrics": {
+                "relativeDCReadability": 0.8941054218847441,
+                "lexicalDiversity": 0.42276422764227645,
+                "posComposition": {
+                    "PRP": 0.126,
+                    "CC": 0.057,
+                    "RB": 0.057,
+                    "VBP": 0.041,
+                    "DT": 0.089,
+                    "NN": 0.081,
+                    "IN": 0.126,
+                    "VBG": 0.02,
+                    "MD": 0.057,
+                    "VB": 0.106,
+                    "NNS": 0.057,
+                    "TO": 0.037,
+                    "EX": 0.012,
+                    "JJ": 0.041,
+                    "VBZ": 0.02,
+                    "VBD": 0.008,
+                    "NNP": 0.012,
+                    "CD": 0.02,
+                    "RP": 0.016,
+                    "PRP$": 0.004,
+                    "VBN": 0.004,
+                    "WRB": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 2.7,
+                "topicScores": [
+                    [
+                        "exercise",
+                        0.3693589111592512
+                    ],
+                    [
+                        "class",
+                        0.43347918262503476
+                    ],
+                    [
+                        "time",
+                        0.43880082703813245
+                    ],
+                    [
+                        "lecture",
+                        0.5500004714660728
+                    ],
+                    [
+                        "term",
+                        0.5615919015027347
+                    ],
+                    [
+                        "minute",
+                        0.5670615488247134
+                    ],
+                    [
+                        "simple",
+                        0.5675819210498548
+                    ],
+                    [
+                        "day",
+                        0.5706558424840823
+                    ],
+                    [
+                        "IAP",
+                        0.5894984749112802
+                    ],
+                    [
+                        "Monday",
+                        0.6356356237528634
+                    ],
+                    [
+                        "ok",
+                        0.6561859663543066
+                    ],
+                    [
+                        "offline",
+                        0.7635835627322354
+                    ],
+                    [
+                        "puzzle",
+                        0.8536060985789798
+                    ],
+                    [
+                        "logistic",
+                        0.8552314003500953
+                    ],
+                    [
+                        "solution",
+                        0.8639259844890358
+                    ],
+                    [
+                        "relaxed",
+                        0.8786248773713958
+                    ],
+                    [
+                        "week",
+                        0.885115014292033
+                    ],
+                    [
+                        "lot",
+                        0.8852686914699408
+                    ],
+                    [
+                        "hour",
+                        0.8899978666848015
+                    ],
+                    [
+                        "noon",
+                        0.8938338122347775
+                    ],
+                    [
+                        "choosing",
+                        0.8969457484619006
+                    ],
+                    [
+                        "informal",
+                        0.9043512228172004
+                    ],
+                    [
+                        "website",
+                        0.9092029658964949
+                    ],
+                    [
+                        "credit",
+                        0.9114248462782758
+                    ],
+                    [
+                        "holiday",
+                        0.9135508051516368
+                    ],
+                    [
+                        "total",
+                        0.9135508051516368
+                    ],
+                    [
+                        "work",
+                        0.9167148587633355
+                    ],
+                    [
+                        "pass",
+                        0.9167148587633355
+                    ],
+                    [
+                        "overflow",
+                        0.9191461993113025
+                    ],
+                    [
+                        "listener",
+                        0.9197666351150842
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "term",
+                        0.5615919015027347
+                    ],
+                    [
+                        "puzzle",
+                        0.8536060985789798
+                    ],
+                    [
+                        "pass",
+                        0.9167148587633355
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-180": {
+            "id": "14UlXIZzwE4-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " And for each of the puzzles, there are two or three exercises, and you get to do all of them if you want. You can choose to do one or the other. I'm going to have office hours every day from 1:00 to 2:00. I don't plan on putting solutions up to the exercises. The solutions to the puzzles themselves, they'll be shown mostly in lecture and put up on the Stellar website, but the solutions to the exercises, I'm not going to put up. But if you ever get stuck, well, that's what office hours are for. And if you can't solve the exercises, I'll help to solve them. So with that, without further ado, let's dive in and talk about puzzles and solving puzzles using algorithms and then programs. I'd really like this to be interactive, so please ask questions and suggest solutions that I haven't thought of. That'd be great. In my second edition, whenever that is, you'll get credit for that. So the first puzzle, I tried to have, I don't know, funny titles for all of these puzzles-- intriguing. And so the first puzzle is called \"You Will All Conform.\" This is really a warm-up puzzle. As you'll see-- this is true for any class-- things are going to get more complicated as we go along.",
+            "metrics": {
+                "relativeDCReadability": 0.9591123723981007,
+                "lexicalDiversity": 0.4625,
+                "posComposition": {
+                    "CC": 0.054,
+                    "IN": 0.104,
+                    "DT": 0.108,
+                    "NNS": 0.079,
+                    "EX": 0.004,
+                    "VBP": 0.054,
+                    "CD": 0.021,
+                    "PRP": 0.087,
+                    "TO": 0.05,
+                    "VB": 0.087,
+                    "MD": 0.033,
+                    "JJ": 0.054,
+                    "VBG": 0.025,
+                    "NN": 0.071,
+                    "RB": 0.062,
+                    "VBN": 0.017,
+                    "RP": 0.008,
+                    "NNP": 0.013,
+                    "VBZ": 0.021,
+                    "WP": 0.004,
+                    "POS": 0.004,
+                    "PRP$": 0.004,
+                    "WDT": 0.004,
+                    "VBD": 0.004,
+                    ":": 0.013,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "RBR": 0.004
+                },
+                "syllableRate": 2.642,
+                "topicScores": [
+                    [
+                        "puzzle",
+                        0.29553858287511175
+                    ],
+                    [
+                        "exercise",
+                        0.3435216895761874
+                    ],
+                    [
+                        "solution",
+                        0.3723823605175595
+                    ],
+                    [
+                        "office",
+                        0.5533217240618649
+                    ],
+                    [
+                        "hour",
+                        0.5533217240618649
+                    ],
+                    [
+                        "stellar",
+                        0.617631048188006
+                    ],
+                    [
+                        "Conform",
+                        0.6545450261076866
+                    ],
+                    [
+                        "day",
+                        0.8928621335898462
+                    ],
+                    [
+                        "program",
+                        0.8985656041835607
+                    ],
+                    [
+                        "website",
+                        0.902956260259448
+                    ],
+                    [
+                        "great",
+                        0.9040387518614258
+                    ],
+                    [
+                        "intriguing",
+                        0.9079611656810328
+                    ],
+                    [
+                        "stuck",
+                        0.9082811706667154
+                    ],
+                    [
+                        "lecture",
+                        0.91080894031641
+                    ],
+                    [
+                        "ado",
+                        0.9154098758721768
+                    ],
+                    [
+                        "interactive",
+                        0.917947432622231
+                    ],
+                    [
+                        "second",
+                        0.9218406699745753
+                    ],
+                    [
+                        "edition",
+                        0.9218406699745753
+                    ],
+                    [
+                        "algorithm",
+                        0.9223414919789409
+                    ],
+                    [
+                        "funny",
+                        0.9233782463946207
+                    ],
+                    [
+                        "title",
+                        0.9233782463946207
+                    ],
+                    [
+                        "question",
+                        0.9246882194496739
+                    ],
+                    [
+                        "warm",
+                        0.9259042552200373
+                    ],
+                    [
+                        "credit",
+                        0.9282866062270839
+                    ],
+                    [
+                        "true",
+                        0.933013908175746
+                    ],
+                    [
+                        "class--",
+                        0.933013908175746
+                    ],
+                    [
+                        "thing",
+                        0.933013908175746
+                    ],
+                    [
+                        "complicated",
+                        0.933013908175746
+                    ],
+                    [
+                        "stellar website",
+                        1.2608773030780378
+                    ],
+                    [
+                        "office hour",
+                        2.1017732455513367
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "puzzle",
+                        0.29553858287511175
+                    ],
+                    [
+                        "algorithm",
+                        0.9223414919789409
+                    ],
+                    [
+                        "thing",
+                        0.933013908175746
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-270": {
+            "id": "14UlXIZzwE4-270",
+            "heat": 0.133,
+            "start": 270.0,
+            "text": " So we'll probably do 10 or 12 puzzles in the next two weeks. And by the end, you're going to see things like memoization and dynamic programming and things like that towards the end of next week. And if you don't know what those mean, well, that's great because hopefully, you will know by the end of the two weeks. And a lot of these things are algorithmic insights, are insights that will help you in Course 6 classes, for sure, and perhaps even if you follow a career outside of Course 6. So this particular puzzle is, as I said, a fairly simple puzzle, at least to describe. And the setting is as follows. So you're a gatekeeper at a baseball game. We'll just call it a baseball game because baseball players wear caps, and most people are watching games with caps on. And so you're a gatekeeper, and there are a bunch of people standing in line. Let's just say each of them knows their number. And this is Python, so the number starts at 0 as opposed to 1. And there are a whole bunch of people standing in line waiting to get in, and they all have caps. And some of them are wearing their caps forward, so with the--",
+            "metrics": {
+                "relativeDCReadability": 0.8315899119677286,
+                "lexicalDiversity": 0.47533632286995514,
+                "posComposition": {
+                    "IN": 0.152,
+                    "PRP": 0.063,
+                    "MD": 0.018,
+                    "RB": 0.054,
+                    "VB": 0.04,
+                    "CD": 0.036,
+                    "CC": 0.067,
+                    "NNS": 0.081,
+                    "DT": 0.112,
+                    "JJ": 0.045,
+                    "NN": 0.108,
+                    "VBP": 0.063,
+                    "VBG": 0.027,
+                    "TO": 0.018,
+                    "VBZ": 0.036,
+                    "WP": 0.004,
+                    "WDT": 0.009,
+                    "NNP": 0.022,
+                    "VBD": 0.004,
+                    "JJS": 0.009,
+                    "EX": 0.009,
+                    "POS": 0.004,
+                    "PRP$": 0.009,
+                    "VBN": 0.004,
+                    ":": 0.004
+                },
+                "syllableRate": 2.35,
+                "topicScores": [
+                    [
+                        "week",
+                        0.34069835272737437
+                    ],
+                    [
+                        "Course",
+                        0.3677107777046764
+                    ],
+                    [
+                        "cap",
+                        0.3806025203095137
+                    ],
+                    [
+                        "end",
+                        0.3966702032107537
+                    ],
+                    [
+                        "thing",
+                        0.4290985537009853
+                    ],
+                    [
+                        "people",
+                        0.4329210840687889
+                    ],
+                    [
+                        "puzzle",
+                        0.43533966797430923
+                    ],
+                    [
+                        "game",
+                        0.4382712630824232
+                    ],
+                    [
+                        "baseball",
+                        0.44161413271482447
+                    ],
+                    [
+                        "insight",
+                        0.5433998702856122
+                    ],
+                    [
+                        "line",
+                        0.5475619899217509
+                    ],
+                    [
+                        "gatekeeper",
+                        0.5486184984915454
+                    ],
+                    [
+                        "bunch",
+                        0.5507604791418719
+                    ],
+                    [
+                        "number",
+                        0.5643861178259596
+                    ],
+                    [
+                        "Python",
+                        0.6718905437588161
+                    ],
+                    [
+                        "memoization",
+                        0.8651582093152135
+                    ],
+                    [
+                        "dynamic",
+                        0.8651582093152135
+                    ],
+                    [
+                        "programming",
+                        0.8651582093152135
+                    ],
+                    [
+                        "mean",
+                        0.8761254600270271
+                    ],
+                    [
+                        "sure",
+                        0.8779928365015829
+                    ],
+                    [
+                        "great",
+                        0.8863330749449111
+                    ],
+                    [
+                        "algorithmic",
+                        0.8885629129600978
+                    ],
+                    [
+                        "class",
+                        0.8885629129600978
+                    ],
+                    [
+                        "simple",
+                        0.8965510199753765
+                    ],
+                    [
+                        "lot",
+                        0.8978651225434301
+                    ],
+                    [
+                        "career",
+                        0.8978651225434301
+                    ],
+                    [
+                        "particular",
+                        0.9052575203214349
+                    ],
+                    [
+                        "setting",
+                        0.9104686781499511
+                    ],
+                    [
+                        "player",
+                        0.917442816528993
+                    ],
+                    [
+                        "baseball game",
+                        2.163108369364613
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "cap",
+                        0.3806025203095137
+                    ],
+                    [
+                        "end",
+                        0.3966702032107537
+                    ],
+                    [
+                        "thing",
+                        0.4290985537009853
+                    ],
+                    [
+                        "people",
+                        0.4329210840687889
+                    ],
+                    [
+                        "puzzle",
+                        0.43533966797430923
+                    ],
+                    [
+                        "line",
+                        0.5475619899217509
+                    ],
+                    [
+                        "number",
+                        0.5643861178259596
+                    ],
+                    [
+                        "Python",
+                        0.6718905437588161
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-360": {
+            "id": "14UlXIZzwE4-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " I guess, what do you call it? What's the front of the cap called? The shade-- the thing that gives you shade up front. And so we just say-- let me try and draw this out. So this person is wearing his cap like that, and this lady here is wearing her cap like this. So that's forwards, and that's backwards. So your job here is straightforward. You can only let all of these people into line-- sorry-- into the stadium who are in line if they all conform. So they all have to wear their caps in a particular orientation, and you don't particularly care which one. And so they all have to be forwards, all, let's say, 13 of them. Or they all have to be backwards. Now, all of them know their position on the line. So this person knows that his position is 0, this lady here knows that her position is 1, et cetera, et cetera. And so obviously, you'd like to minimize the amount of work that you do, and you could certainly choose--",
+            "metrics": {
+                "relativeDCReadability": 0.845547205153292,
+                "lexicalDiversity": 0.41361256544502617,
+                "posComposition": {
+                    "PRP": 0.089,
+                    "VBP": 0.068,
+                    "WP": 0.016,
+                    "VB": 0.068,
+                    "VBZ": 0.058,
+                    "DT": 0.126,
+                    "NN": 0.136,
+                    "IN": 0.094,
+                    "VBD": 0.005,
+                    ":": 0.026,
+                    "WDT": 0.016,
+                    "RP": 0.01,
+                    "JJ": 0.016,
+                    "CC": 0.047,
+                    "RB": 0.079,
+                    "VBG": 0.01,
+                    "PRP$": 0.037,
+                    "NNP": 0.005,
+                    "NNS": 0.031,
+                    "MD": 0.016,
+                    "TO": 0.021,
+                    "CD": 0.021,
+                    "POS": 0.005
+                },
+                "syllableRate": 2.0,
+                "topicScores": [
+                    [
+                        "cap",
+                        0.3816655061490795
+                    ],
+                    [
+                        "position",
+                        0.4578297235507228
+                    ],
+                    [
+                        "cetera",
+                        0.5527867285805039
+                    ],
+                    [
+                        "lady",
+                        0.5576532224584339
+                    ],
+                    [
+                        "forward",
+                        0.55955949554692
+                    ],
+                    [
+                        "person",
+                        0.5644213830179252
+                    ],
+                    [
+                        "line",
+                        0.571079973344375
+                    ],
+                    [
+                        "shade--",
+                        0.8852155080080853
+                    ],
+                    [
+                        "straightforward",
+                        0.8929937656604797
+                    ],
+                    [
+                        "thing",
+                        0.8957537059617745
+                    ],
+                    [
+                        "particular",
+                        0.9191072847363969
+                    ],
+                    [
+                        "orientation",
+                        0.9191072847363969
+                    ],
+                    [
+                        "job",
+                        0.9216798500143528
+                    ],
+                    [
+                        "people",
+                        0.9245047116872832
+                    ],
+                    [
+                        "sorry--",
+                        0.9245047116872832
+                    ],
+                    [
+                        "stadium",
+                        0.9245047116872832
+                    ],
+                    [
+                        "work",
+                        0.9339521813374662
+                    ],
+                    [
+                        "et cetera",
+                        2.2047345065052983
+                    ],
+                    [
+                        "particular orientation",
+                        5.44156409878549
+                    ],
+                    [
+                        "line-- sorry--",
+                        5.8827369760541
+                    ]
+                ],
+                "topTopicSimilarity": 0.35,
+                "sharedTopicScores": [
+                    [
+                        "cap",
+                        0.3816655061490795
+                    ],
+                    [
+                        "position",
+                        0.4578297235507228
+                    ],
+                    [
+                        "forward",
+                        0.55955949554692
+                    ],
+                    [
+                        "person",
+                        0.5644213830179252
+                    ],
+                    [
+                        "line",
+                        0.571079973344375
+                    ],
+                    [
+                        "thing",
+                        0.8957537059617745
+                    ],
+                    [
+                        "people",
+                        0.9245047116872832
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-450": {
+            "id": "14UlXIZzwE4-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " let's say you want everyone to be forwards. You could say, hey, lady in position 1, flip your cap. Oh, I should mention something that is important. So people have a different definition of forwards and backwards. It's sort of what's natural and what's unnatural to them. So we think that this person has his cap on forwards. But for all you know, he thinks he's got his cap on backwards or vice versa. So you can't assume that the definition of \"forwards\" and \"backwards\" is identical for all of the people in line and really is the same as your definition. It seems kind of unreasonable. Hey, this is a puzzle, so let's not argue about that. We can argue about other things, like how to write Python programs properly. So what you have to do now is you have to call out commands that correspond to saying, person in position 0, flip your cap. That's all you can say. You can just say, flip your cap. You can obviously see how these caps are oriented, and you can ask-- let's say that you had something like that. I'm just making this up as I go along, in terms of I'm not going to draw all the caps here. But this is what it looks like. And so according to you, you see F, B, B, in terms",
+            "metrics": {
+                "relativeDCReadability": 0.9119695607499122,
+                "lexicalDiversity": 0.46122448979591835,
+                "posComposition": {
+                    "NN": 0.102,
+                    "POS": 0.008,
+                    "VB": 0.069,
+                    "PRP": 0.106,
+                    "VBP": 0.049,
+                    "TO": 0.033,
+                    "NNS": 0.069,
+                    "MD": 0.033,
+                    "JJ": 0.041,
+                    "IN": 0.118,
+                    "CD": 0.008,
+                    "PRP$": 0.024,
+                    "WDT": 0.008,
+                    "VBZ": 0.061,
+                    "DT": 0.069,
+                    "CC": 0.037,
+                    "WP": 0.016,
+                    "VBD": 0.008,
+                    "RB": 0.061,
+                    "``": 0.008,
+                    "''": 0.008,
+                    "NNP": 0.016,
+                    "WRB": 0.008,
+                    "RP": 0.008,
+                    "VBG": 0.016,
+                    "VBN": 0.004,
+                    ":": 0.004,
+                    "PDT": 0.004
+                },
+                "syllableRate": 2.65,
+                "topicScores": [
+                    [
+                        "cap",
+                        0.2894624775390116
+                    ],
+                    [
+                        "forward",
+                        0.42267119325771685
+                    ],
+                    [
+                        "definition",
+                        0.43988482797698747
+                    ],
+                    [
+                        "position",
+                        0.5563282086824538
+                    ],
+                    [
+                        "term",
+                        0.5576175978626794
+                    ],
+                    [
+                        "people",
+                        0.5649456757586473
+                    ],
+                    [
+                        "person",
+                        0.5718115094821016
+                    ],
+                    [
+                        "Python",
+                        0.6829572222844107
+                    ],
+                    [
+                        "B",
+                        0.6843313832181331
+                    ],
+                    [
+                        "F",
+                        0.6959271306121578
+                    ],
+                    [
+                        "lady",
+                        0.8696172059664756
+                    ],
+                    [
+                        "important",
+                        0.8701141245900659
+                    ],
+                    [
+                        "versa",
+                        0.9017172108761229
+                    ],
+                    [
+                        "unreasonable",
+                        0.9080013982620597
+                    ],
+                    [
+                        "different",
+                        0.9089926986923118
+                    ],
+                    [
+                        "natural",
+                        0.915655354679816
+                    ],
+                    [
+                        "unnatural",
+                        0.915655354679816
+                    ],
+                    [
+                        "identical",
+                        0.9203320585954998
+                    ],
+                    [
+                        "puzzle",
+                        0.9247291247960375
+                    ],
+                    [
+                        "thing",
+                        0.9264187320268586
+                    ],
+                    [
+                        "program",
+                        0.9264187320268586
+                    ],
+                    [
+                        "line",
+                        0.926611749094405
+                    ],
+                    [
+                        "command",
+                        0.9336014448324551
+                    ],
+                    [
+                        "Python program",
+                        1.722602453464527
+                    ],
+                    [
+                        "different definition",
+                        3.992615766341002
+                    ]
+                ],
+                "topTopicSimilarity": 0.52,
+                "sharedTopicScores": [
+                    [
+                        "cap",
+                        0.2894624775390116
+                    ],
+                    [
+                        "forward",
+                        0.42267119325771685
+                    ],
+                    [
+                        "position",
+                        0.5563282086824538
+                    ],
+                    [
+                        "term",
+                        0.5576175978626794
+                    ],
+                    [
+                        "people",
+                        0.5649456757586473
+                    ],
+                    [
+                        "person",
+                        0.5718115094821016
+                    ],
+                    [
+                        "Python",
+                        0.6829572222844107
+                    ],
+                    [
+                        "B",
+                        0.6843313832181331
+                    ],
+                    [
+                        "F",
+                        0.6959271306121578
+                    ],
+                    [
+                        "puzzle",
+                        0.9247291247960375
+                    ],
+                    [
+                        "thing",
+                        0.9264187320268586
+                    ],
+                    [
+                        "line",
+                        0.926611749094405
+                    ],
+                    [
+                        "command",
+                        0.9336014448324551
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-540": {
+            "id": "14UlXIZzwE4-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " of Forwards and Backwards. And let's say you decide that you want everyone to have their cap on forwards. Then you could say, person in position 1, flip your cap. Person in position 2, flip your cap. And then person in position 4, 7, et cetera. And you want to make it easier on yourself because people do know their indices, their positions in line. And so to save yourself some trouble, you could say, people in positions 1 through 2-- and the implication is that it's inclusive-- flip your caps. And so that takes care of these two. And perhaps 8 here and 9 had their caps on backwards, and you could say, people in positions 7 through 9, flip your caps. So in this particular example, assuming that things ended with 10 people in line, 0 through 9, you could get away with three commands. You could say, 1 through 2-- and the implication, as I said, is this is inclusive-- flip. And then you could say, 4, flip. And then you could say, 7 through 9, flip.",
+            "metrics": {
+                "relativeDCReadability": 1.0486163602809992,
+                "lexicalDiversity": 0.543010752688172,
+                "posComposition": {
+                    "IN": 0.14,
+                    "NNP": 0.016,
+                    "CC": 0.07,
+                    "VB": 0.075,
+                    "PRP": 0.086,
+                    "VBP": 0.022,
+                    "NN": 0.124,
+                    "TO": 0.016,
+                    "PRP$": 0.043,
+                    "NNS": 0.086,
+                    "RB": 0.048,
+                    "MD": 0.038,
+                    "CD": 0.108,
+                    "JJR": 0.005,
+                    "DT": 0.032,
+                    ":": 0.022,
+                    "VBZ": 0.027,
+                    "JJ": 0.016,
+                    "VBD": 0.016,
+                    "VBG": 0.005,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.025,
+                "topicScores": [
+                    [
+                        "flip",
+                        0.25394441716685934
+                    ],
+                    [
+                        "cap",
+                        0.2748083771001345
+                    ],
+                    [
+                        "position",
+                        0.2858039877779228
+                    ],
+                    [
+                        "people",
+                        0.36896088157909873
+                    ],
+                    [
+                        "Backwards",
+                        0.38725127223967726
+                    ],
+                    [
+                        "person",
+                        0.4073735104950122
+                    ],
+                    [
+                        "Forwards",
+                        0.40954391364499493
+                    ],
+                    [
+                        "line",
+                        0.5535957883265564
+                    ],
+                    [
+                        "inclusive--",
+                        0.5570275659383597
+                    ],
+                    [
+                        "implication",
+                        0.5577763685918115
+                    ],
+                    [
+                        "cetera",
+                        0.8919364356810655
+                    ],
+                    [
+                        "command",
+                        0.9145570661015671
+                    ],
+                    [
+                        "index",
+                        0.9171935920206694
+                    ],
+                    [
+                        "trouble",
+                        0.9201662489624197
+                    ],
+                    [
+                        "easy",
+                        0.9227487414908563
+                    ],
+                    [
+                        "particular",
+                        0.9262645754046379
+                    ],
+                    [
+                        "example",
+                        0.9262645754046379
+                    ],
+                    [
+                        "care",
+                        0.9277958556525159
+                    ],
+                    [
+                        "thing",
+                        0.9312567984752458
+                    ],
+                    [
+                        "inclusive-- flip",
+                        2.054349551089174
+                    ],
+                    [
+                        "et cetera",
+                        4.235012430378091
+                    ],
+                    [
+                        "particular example",
+                        6.040570906466469
+                    ]
+                ],
+                "topTopicSimilarity": 0.36363636363636365,
+                "sharedTopicScores": [
+                    [
+                        "flip",
+                        0.25394441716685934
+                    ],
+                    [
+                        "cap",
+                        0.2748083771001345
+                    ],
+                    [
+                        "position",
+                        0.2858039877779228
+                    ],
+                    [
+                        "people",
+                        0.36896088157909873
+                    ],
+                    [
+                        "person",
+                        0.4073735104950122
+                    ],
+                    [
+                        "line",
+                        0.5535957883265564
+                    ],
+                    [
+                        "command",
+                        0.9145570661015671
+                    ],
+                    [
+                        "thing",
+                        0.9312567984752458
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-630": {
+            "id": "14UlXIZzwE4-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " And if you did it the other way, you could also say, person at 0, flip, and so this would go backwards. Person at 3, flip. Obviously, you can't say, 0 through 3 because that would be wrong. And then you could say 5 through 6 here. So you would get three commands in that case, as well. But if in fact, for argument's sake, let's just say that I'm going to just turn this into 10 and put an F down here. Then these three commands would still work if you wanted to focus on the B's, on the Backwards people, and make them make them go forwards. But if you wanted to make all of the forward people go backwards, you would need 1, 2, 3, 4, four commands. So in this particular case, you're better off doing that as opposed to doing four commands. So first straightforward question is-- and I'm not talking about code yet-- algorithmically, just in terms of pseudocode-- and I'm happy with English--",
+            "metrics": {
+                "relativeDCReadability": 0.9680591577222223,
+                "lexicalDiversity": 0.532967032967033,
+                "posComposition": {
+                    "CC": 0.049,
+                    "IN": 0.143,
+                    "PRP": 0.082,
+                    "VBD": 0.022,
+                    "DT": 0.066,
+                    "JJ": 0.033,
+                    "NN": 0.071,
+                    "MD": 0.044,
+                    "RB": 0.115,
+                    "VB": 0.077,
+                    "CD": 0.082,
+                    "NNS": 0.049,
+                    "NNP": 0.027,
+                    "POS": 0.016,
+                    "VBP": 0.033,
+                    "VBG": 0.022,
+                    "TO": 0.022,
+                    "JJR": 0.005,
+                    "RP": 0.005,
+                    "VBN": 0.005,
+                    "VBZ": 0.005,
+                    ":": 0.022
+                },
+                "syllableRate": 1.908,
+                "topicScores": [
+                    [
+                        "backwards",
+                        0.3535824704710579
+                    ],
+                    [
+                        "command",
+                        0.35502881413536613
+                    ],
+                    [
+                        "flip",
+                        0.45810148878578166
+                    ],
+                    [
+                        "person",
+                        0.46284066469968116
+                    ],
+                    [
+                        "people",
+                        0.5449600659671965
+                    ],
+                    [
+                        "case",
+                        0.5459893560057454
+                    ],
+                    [
+                        "F",
+                        0.6291586266702642
+                    ],
+                    [
+                        "B",
+                        0.629245211931711
+                    ],
+                    [
+                        "way",
+                        0.7785129152608506
+                    ],
+                    [
+                        "wrong",
+                        0.8438036913453415
+                    ],
+                    [
+                        "yet--",
+                        0.8911580816015993
+                    ],
+                    [
+                        "fact",
+                        0.8934408253525907
+                    ],
+                    [
+                        "sake",
+                        0.8934408253525907
+                    ],
+                    [
+                        "argument",
+                        0.8934408253525908
+                    ],
+                    [
+                        "particular",
+                        0.9045066777080649
+                    ],
+                    [
+                        "code",
+                        0.9069244859102519
+                    ],
+                    [
+                        "forward",
+                        0.9086076611058177
+                    ],
+                    [
+                        "straightforward",
+                        0.9135910698562341
+                    ],
+                    [
+                        "question",
+                        0.9135910698562341
+                    ],
+                    [
+                        "is--",
+                        0.9135910698562341
+                    ],
+                    [
+                        "term",
+                        0.9155078494010547
+                    ],
+                    [
+                        "pseudocode--",
+                        0.9155078494010547
+                    ],
+                    [
+                        "happy",
+                        0.9155078494010547
+                    ],
+                    [
+                        "backwards people",
+                        1.569422873331937
+                    ],
+                    [
+                        "particular case",
+                        3.602681466824092
+                    ],
+                    [
+                        "forward people",
+                        3.6468819140594264
+                    ],
+                    [
+                        "code yet--",
+                        4.21412005668397
+                    ],
+                    [
+                        "straightforward question",
+                        5.047727806204716
+                    ],
+                    [
+                        "question is--",
+                        5.047727806204716
+                    ]
+                ],
+                "topTopicSimilarity": 0.3793103448275862,
+                "sharedTopicScores": [
+                    [
+                        "backwards",
+                        0.3535824704710579
+                    ],
+                    [
+                        "command",
+                        0.35502881413536613
+                    ],
+                    [
+                        "flip",
+                        0.45810148878578166
+                    ],
+                    [
+                        "person",
+                        0.46284066469968116
+                    ],
+                    [
+                        "people",
+                        0.5449600659671965
+                    ],
+                    [
+                        "F",
+                        0.6291586266702642
+                    ],
+                    [
+                        "B",
+                        0.629245211931711
+                    ],
+                    [
+                        "way",
+                        0.7785129152608506
+                    ],
+                    [
+                        "code",
+                        0.9069244859102519
+                    ],
+                    [
+                        "forward",
+                        0.9086076611058177
+                    ],
+                    [
+                        "term",
+                        0.9155078494010547
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-720": {
+            "id": "14UlXIZzwE4-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " how would you determine the minimum set of commands given a particular set of people? There's an arbitrary set of people. You want to make sure that you have the absolute minimum set of commands, and you're going to have to use these intervals. So you definitely want to look for all the contiguous intervals because obviously, if you say 1 followed and then that's a separate command, then you say 2 and that's a separate command, you end up having more commands than necessary. So anyone want to tell me I guess roughly, in terms of pseudocode, how this would work? Yeah, go ahead. AUDIENCE: Well, you could go down the line and look at the groups. So start with the 0. You've got to write 0. Group them. And then whatever the second one is-- so whatever the second group is, if it's F or B, those are the ones that need to be flipped because that's going to be the minimum number of commands. And then so from what you pass through, whenever you get to those, you just tell them to flip. SRINI DEVADAS: Sounds good. Do you have anything to add to that? AUDIENCE: No. I was going to say, you find the backwards interval or forward interval. And whichever is the lower, then-- SRINI DEVADAS: Lower. That's good. Good. Excellent. And so both of you had it right. So let me explain what these two gentlemen-- what was your name?",
+            "metrics": {
+                "relativeDCReadability": 1.010654009887798,
+                "lexicalDiversity": 0.48249027237354086,
+                "posComposition": {
+                    "WRB": 0.008,
+                    "MD": 0.012,
+                    "PRP": 0.093,
+                    "VB": 0.074,
+                    "DT": 0.101,
+                    "JJ": 0.062,
+                    "NN": 0.078,
+                    "IN": 0.074,
+                    "NNS": 0.051,
+                    "VBN": 0.012,
+                    "EX": 0.004,
+                    "VBZ": 0.031,
+                    "VBP": 0.062,
+                    "TO": 0.051,
+                    "CC": 0.039,
+                    "VBG": 0.016,
+                    "RB": 0.066,
+                    "PDT": 0.004,
+                    "CD": 0.019,
+                    "VBD": 0.016,
+                    "RP": 0.008,
+                    "JJR": 0.008,
+                    "NNP": 0.074,
+                    ":": 0.012,
+                    "WDT": 0.008,
+                    "WP": 0.012,
+                    "POS": 0.004,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 2.925,
+                "topicScores": [
+                    [
+                        "command",
+                        0.29946395112028396
+                    ],
+                    [
+                        "audience",
+                        0.32671453715898924
+                    ],
+                    [
+                        "set",
+                        0.32724624429284166
+                    ],
+                    [
+                        "interval",
+                        0.3812060081533981
+                    ],
+                    [
+                        "good",
+                        0.41487273244087514
+                    ],
+                    [
+                        "minimum",
+                        0.41581105120157075
+                    ],
+                    [
+                        "group",
+                        0.42772803520513814
+                    ],
+                    [
+                        "people",
+                        0.4370793762799088
+                    ],
+                    [
+                        "separate",
+                        0.5206574971937966
+                    ],
+                    [
+                        "low",
+                        0.5604098790469778
+                    ],
+                    [
+                        "second",
+                        0.5688279157317586
+                    ],
+                    [
+                        "srini",
+                        0.643342887604603
+                    ],
+                    [
+                        "devada",
+                        0.6687369655354183
+                    ],
+                    [
+                        "B",
+                        0.6722271591410761
+                    ],
+                    [
+                        "F",
+                        0.6830563430747201
+                    ],
+                    [
+                        "srini devada",
+                        0.7550854448419981
+                    ],
+                    [
+                        "particular",
+                        0.8208924106229751
+                    ],
+                    [
+                        "arbitrary",
+                        0.873382510058538
+                    ],
+                    [
+                        "necessary",
+                        0.8785804471735709
+                    ],
+                    [
+                        "sure",
+                        0.8934249680001941
+                    ],
+                    [
+                        "absolute",
+                        0.8934249680001941
+                    ],
+                    [
+                        "excellent",
+                        0.8950025607070266
+                    ],
+                    [
+                        "term",
+                        0.9041603724940651
+                    ],
+                    [
+                        "pseudocode",
+                        0.9041603724940651
+                    ],
+                    [
+                        "contiguous",
+                        0.9043151843528536
+                    ],
+                    [
+                        "right",
+                        0.9212561927736398
+                    ],
+                    [
+                        "line",
+                        0.9227628572229974
+                    ],
+                    [
+                        "forward",
+                        0.9296742313238782
+                    ],
+                    [
+                        "is--",
+                        0.9300914751818294
+                    ],
+                    [
+                        "number",
+                        0.9300914751818294
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "command",
+                        0.29946395112028396
+                    ],
+                    [
+                        "audience",
+                        0.32671453715898924
+                    ],
+                    [
+                        "interval",
+                        0.3812060081533981
+                    ],
+                    [
+                        "good",
+                        0.41487273244087514
+                    ],
+                    [
+                        "people",
+                        0.4370793762799088
+                    ],
+                    [
+                        "B",
+                        0.6722271591410761
+                    ],
+                    [
+                        "F",
+                        0.6830563430747201
+                    ],
+                    [
+                        "srini devada",
+                        0.7550854448419981
+                    ],
+                    [
+                        "term",
+                        0.9041603724940651
+                    ],
+                    [
+                        "line",
+                        0.9227628572229974
+                    ],
+                    [
+                        "forward",
+                        0.9296742313238782
+                    ],
+                    [
+                        "number",
+                        0.9300914751818294
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-810": {
+            "id": "14UlXIZzwE4-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " AUDIENCE: Ganatra. SRINI DEVADAS: Ganatra? Yours? AUDIENCE: Fadi. SRINI DEVADAS: Fadi? AUDIENCE: Yeah. SRINI DEVADAS: So Ganatra and Fadi said-- so basically, this is, as I said, the natural algorithm that you would use. The natural algorithm would be that you walk through this list, and you start computing what I would call-- you called it \"groups,\" Ganatra. But I'd call them \"intervals,\" and an interval is something that is unbroken. It's contiguous. It's a contiguous set of people who all have their caps in the same orientation, be it forward or backwards. And what you would do in this case is you would compute the-- you would say, I want to look at the forward intervals. And the forward intervals would be 0, 0 because that's essentially what you have in here. And going through that list, you would also say, I'm going to be computing the backward intervals. And in this case, you discover 1, 2 as the backwards interval. So I'm going to write them out like that. And in general, in the mathematical notation, when you put square brackets, these are closed intervals. So 0 is included. And we're going to see a puzzle where you might see something a little bit different, so I wanted to point that out. So 1, 2 are both inside this interval. And these two you would generate as you would go through the list, and then you would generate 3, 3 over here.",
+            "metrics": {
+                "relativeDCReadability": 1.1262915539304603,
+                "lexicalDiversity": 0.5077519379844961,
+                "posComposition": {
+                    "NNP": 0.074,
+                    "CC": 0.05,
+                    "VBD": 0.016,
+                    ":": 0.012,
+                    "RB": 0.047,
+                    "DT": 0.105,
+                    "VBZ": 0.031,
+                    "IN": 0.081,
+                    "PRP": 0.112,
+                    "JJ": 0.047,
+                    "NN": 0.074,
+                    "MD": 0.05,
+                    "VB": 0.074,
+                    "VBP": 0.05,
+                    "VBG": 0.023,
+                    "WP": 0.016,
+                    "``": 0.008,
+                    "NNS": 0.043,
+                    "''": 0.008,
+                    "WDT": 0.004,
+                    "PRP$": 0.004,
+                    "TO": 0.019,
+                    "CD": 0.039,
+                    "RP": 0.004,
+                    "WRB": 0.008,
+                    "VBN": 0.004
+                },
+                "syllableRate": 3.092,
+                "topicScores": [
+                    [
+                        "Ganatra",
+                        0.22432506072265598
+                    ],
+                    [
+                        "interval",
+                        0.27168913732236305
+                    ],
+                    [
+                        "Fadi",
+                        0.28249274280739584
+                    ],
+                    [
+                        "audience",
+                        0.3215723939224424
+                    ],
+                    [
+                        "srini",
+                        0.34365867204883627
+                    ],
+                    [
+                        "list",
+                        0.4372401005020258
+                    ],
+                    [
+                        "forward",
+                        0.44785861598561016
+                    ],
+                    [
+                        "srini devada",
+                        0.5312127549814778
+                    ],
+                    [
+                        "natural",
+                        0.5518218855491621
+                    ],
+                    [
+                        "case",
+                        0.5603501557503293
+                    ],
+                    [
+                        "algorithm",
+                        0.5634779679128641
+                    ],
+                    [
+                        "contiguous",
+                        0.5661454202959538
+                    ],
+                    [
+                        "backwards",
+                        0.5711610589334475
+                    ],
+                    [
+                        "group",
+                        0.9071452942270192
+                    ],
+                    [
+                        "said--",
+                        0.9295730377491229
+                    ],
+                    [
+                        "orientation",
+                        0.9314584409705237
+                    ],
+                    [
+                        "set",
+                        0.9363000812541298
+                    ],
+                    [
+                        "people",
+                        0.9363000812541298
+                    ],
+                    [
+                        "cap",
+                        0.9363000812541298
+                    ],
+                    [
+                        "general",
+                        0.9376654454708161
+                    ],
+                    [
+                        "mathematical",
+                        0.9376654454708161
+                    ],
+                    [
+                        "notation",
+                        0.9376654454708161
+                    ],
+                    [
+                        "square",
+                        0.9376654454708161
+                    ],
+                    [
+                        "bracket",
+                        0.9376654454708161
+                    ],
+                    [
+                        "closed",
+                        0.9376654454708161
+                    ],
+                    [
+                        "bit",
+                        0.9388070300815198
+                    ],
+                    [
+                        "different",
+                        0.9388070300815198
+                    ],
+                    [
+                        "puzzle",
+                        0.9431612560532164
+                    ],
+                    [
+                        "little",
+                        0.9431612560532164
+                    ],
+                    [
+                        "Fadi said--",
+                        1.1061289948277027
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "Ganatra",
+                        0.22432506072265598
+                    ],
+                    [
+                        "interval",
+                        0.27168913732236305
+                    ],
+                    [
+                        "audience",
+                        0.3215723939224424
+                    ],
+                    [
+                        "list",
+                        0.4372401005020258
+                    ],
+                    [
+                        "forward",
+                        0.44785861598561016
+                    ],
+                    [
+                        "srini devada",
+                        0.5312127549814778
+                    ],
+                    [
+                        "algorithm",
+                        0.5634779679128641
+                    ],
+                    [
+                        "backwards",
+                        0.5711610589334475
+                    ],
+                    [
+                        "people",
+                        0.9363000812541298
+                    ],
+                    [
+                        "cap",
+                        0.9363000812541298
+                    ],
+                    [
+                        "puzzle",
+                        0.9431612560532164
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-900": {
+            "id": "14UlXIZzwE4-900",
+            "heat": 0.107,
+            "start": 900.0,
+            "text": " And then you would generate 4-- yeah, that's right, just 4-- I'm sorry, 4, 4 over here, if you want to call it an interval. You could represent this differently. There's nothing that stopping you in Python to have these slightly more complicated representations where you just have 0 here as a number. And if it's just a number, then it represents an interval of length 1, but let's just be uniform about this. Usually, when you have special cases and if you do things heterogeneously, then you have more code to write. It might get more efficient, but there's usually more code to write. So you do 4, 4 here. And then you'd go up, and then you'd have 5 comma 6. And then you would do 7 comma-- I'm sorry, 7 comma 9. So this is the first time you actually have something interesting, in the sense that the interval has a representation that only has two numbers in it, whereas you actually have three people in that interval. And obviously, this could be arbitrarily large in the context of people getting into a baseball game-- and so 7 through 9 and then finally here 10 through 10. And so now you go ahead, and you count and you realize that there's four intervals here and three intervals here. And then you say, I'm going to go ahead and go with the backwards and asking the people who are-- well,",
+            "metrics": {
+                "relativeDCReadability": 1.0927384088147547,
+                "lexicalDiversity": 0.4573643410852713,
+                "posComposition": {
+                    "CC": 0.07,
+                    "RB": 0.143,
+                    "PRP": 0.105,
+                    "MD": 0.027,
+                    "VB": 0.058,
+                    "CD": 0.081,
+                    ":": 0.019,
+                    "NN": 0.085,
+                    "WDT": 0.004,
+                    "VBZ": 0.035,
+                    "JJ": 0.035,
+                    "VBP": 0.062,
+                    "IN": 0.089,
+                    "TO": 0.019,
+                    "DT": 0.07,
+                    "EX": 0.012,
+                    "VBG": 0.016,
+                    "NNP": 0.004,
+                    "RBR": 0.012,
+                    "NNS": 0.039,
+                    "WRB": 0.008,
+                    "JJR": 0.004,
+                    "WP": 0.004
+                },
+                "syllableRate": 2.967,
+                "topicScores": [
+                    [
+                        "interval",
+                        0.31023563035507995
+                    ],
+                    [
+                        "number",
+                        0.4266945007969016
+                    ],
+                    [
+                        "people",
+                        0.4496710392365202
+                    ],
+                    [
+                        "sorry",
+                        0.532381055107294
+                    ],
+                    [
+                        "code",
+                        0.5375801854661724
+                    ],
+                    [
+                        "comma",
+                        0.5538240439112762
+                    ],
+                    [
+                        "representation",
+                        0.562609211538539
+                    ],
+                    [
+                        "Python",
+                        0.5986271108939957
+                    ],
+                    [
+                        "right",
+                        0.853123182954192
+                    ],
+                    [
+                        "complicated",
+                        0.8962159454092969
+                    ],
+                    [
+                        "length",
+                        0.8963727909580737
+                    ],
+                    [
+                        "thing",
+                        0.9020197458142744
+                    ],
+                    [
+                        "uniform",
+                        0.9037149081280668
+                    ],
+                    [
+                        "efficient",
+                        0.9062602044112947
+                    ],
+                    [
+                        "special",
+                        0.9090023857434232
+                    ],
+                    [
+                        "case",
+                        0.9090023857434232
+                    ],
+                    [
+                        "interesting",
+                        0.9164197388667166
+                    ],
+                    [
+                        "time",
+                        0.9224643641622343
+                    ],
+                    [
+                        "sense",
+                        0.9224643641622343
+                    ],
+                    [
+                        "large",
+                        0.9239906827313507
+                    ],
+                    [
+                        "context",
+                        0.9239906827313507
+                    ],
+                    [
+                        "baseball",
+                        0.9239906827313507
+                    ],
+                    [
+                        "game--",
+                        0.9239906827313507
+                    ],
+                    [
+                        "backwards",
+                        0.9264981083853069
+                    ],
+                    [
+                        "complicated representation",
+                        3.9793049184378555
+                    ],
+                    [
+                        "special case",
+                        4.756566454344084
+                    ],
+                    [
+                        "baseball game--",
+                        5.838017435392154
+                    ]
+                ],
+                "topTopicSimilarity": 0.25925925925925924,
+                "sharedTopicScores": [
+                    [
+                        "interval",
+                        0.31023563035507995
+                    ],
+                    [
+                        "number",
+                        0.4266945007969016
+                    ],
+                    [
+                        "people",
+                        0.4496710392365202
+                    ],
+                    [
+                        "code",
+                        0.5375801854661724
+                    ],
+                    [
+                        "Python",
+                        0.5986271108939957
+                    ],
+                    [
+                        "thing",
+                        0.9020197458142744
+                    ],
+                    [
+                        "backwards",
+                        0.9264981083853069
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-990": {
+            "id": "14UlXIZzwE4-990",
+            "heat": 0.14,
+            "start": 990.0,
+            "text": " according to you-- backwards to flip their caps so we're all good. So I'm going to show you code that implements exactly this algorithm. And while you see the code, I want you to think about this harder question. This code is going to do exactly what we describe. It's going to go compute all of these things, and as you can imagine, he's going to make a pass through this entire Python list, this group of people, this queue of people, and is going to do this computation. Then it's going to say, 4 is greater than 3. And then it's going to go through and start calling out commands for each of the backward intervals. So in some sense, it's going to make two passes over the list. So the first pass is to get all of the intervals together. Then there's a check. And then the second pass is to take those backward intervals, in this case, and call out those commands. So that's what I mean by two passes. Yeah, please. AUDIENCE: You don't necessarily need to count them, the 4 and 3 because whichever orientation interval comes second is always going-- SRINI DEVADAS: Brilliant. Brilliant.",
+            "metrics": {
+                "relativeDCReadability": 1.0110636717060673,
+                "lexicalDiversity": 0.49056603773584906,
+                "posComposition": {
+                    "VBG": 0.052,
+                    "TO": 0.066,
+                    "PRP": 0.08,
+                    ":": 0.009,
+                    "NNS": 0.061,
+                    "VB": 0.08,
+                    "PRP$": 0.005,
+                    "IN": 0.099,
+                    "VBP": 0.047,
+                    "DT": 0.118,
+                    "JJ": 0.038,
+                    "NNP": 0.038,
+                    "RB": 0.047,
+                    "NN": 0.09,
+                    "CC": 0.038,
+                    "JJR": 0.009,
+                    "VBZ": 0.066,
+                    "WP": 0.009,
+                    "MD": 0.005,
+                    "CD": 0.028,
+                    "RP": 0.009,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.4,
+                "topicScores": [
+                    [
+                        "pass",
+                        0.33695257378611104
+                    ],
+                    [
+                        "interval",
+                        0.3784547916499691
+                    ],
+                    [
+                        "code",
+                        0.4276185271831835
+                    ],
+                    [
+                        "Brilliant",
+                        0.4919625033839923
+                    ],
+                    [
+                        "people",
+                        0.5514355854475734
+                    ],
+                    [
+                        "list",
+                        0.5531161497079702
+                    ],
+                    [
+                        "backward",
+                        0.5538643006930724
+                    ],
+                    [
+                        "command",
+                        0.5567272154113536
+                    ],
+                    [
+                        "second",
+                        0.5719645890998688
+                    ],
+                    [
+                        "audience",
+                        0.6073719725955188
+                    ],
+                    [
+                        "Python",
+                        0.6194842633650276
+                    ],
+                    [
+                        "SRINI",
+                        0.6894913763601428
+                    ],
+                    [
+                        "good",
+                        0.7656402015175554
+                    ],
+                    [
+                        "you--",
+                        0.8164016818721628
+                    ],
+                    [
+                        "cap",
+                        0.8164016818721628
+                    ],
+                    [
+                        "algorithm",
+                        0.830988951000865
+                    ],
+                    [
+                        "question",
+                        0.8566404574071028
+                    ],
+                    [
+                        "computation",
+                        0.8798382330761162
+                    ],
+                    [
+                        "hard",
+                        0.8806272583890254
+                    ],
+                    [
+                        "thing",
+                        0.900394911336454
+                    ],
+                    [
+                        "group",
+                        0.900394911336454
+                    ],
+                    [
+                        "queue",
+                        0.900394911336454
+                    ],
+                    [
+                        "check",
+                        0.900561720631834
+                    ],
+                    [
+                        "entire",
+                        0.9088108057040324
+                    ],
+                    [
+                        "sense",
+                        0.9131456075788569
+                    ],
+                    [
+                        "great",
+                        0.9138451213957085
+                    ],
+                    [
+                        "case",
+                        0.9197334445594416
+                    ],
+                    [
+                        "orientation",
+                        0.931475802570502
+                    ],
+                    [
+                        "going--",
+                        0.931475802570502
+                    ],
+                    [
+                        "Python list",
+                        1.188577706539735
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "pass",
+                        0.33695257378611104
+                    ],
+                    [
+                        "interval",
+                        0.3784547916499691
+                    ],
+                    [
+                        "code",
+                        0.4276185271831835
+                    ],
+                    [
+                        "people",
+                        0.5514355854475734
+                    ],
+                    [
+                        "list",
+                        0.5531161497079702
+                    ],
+                    [
+                        "command",
+                        0.5567272154113536
+                    ],
+                    [
+                        "audience",
+                        0.6073719725955188
+                    ],
+                    [
+                        "Python",
+                        0.6194842633650276
+                    ],
+                    [
+                        "SRINI",
+                        0.6894913763601428
+                    ],
+                    [
+                        "good",
+                        0.7656402015175554
+                    ],
+                    [
+                        "cap",
+                        0.8164016818721628
+                    ],
+                    [
+                        "algorithm",
+                        0.830988951000865
+                    ],
+                    [
+                        "thing",
+                        0.900394911336454
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1080": {
+            "id": "14UlXIZzwE4-1080",
+            "heat": 0.106,
+            "start": 1080.0,
+            "text": " So I was going to say-- if you didn't understand what Ganatra said, wonderful because then you can think about the question I'm going to ask and ignore what he said. And then we'll get to, I guess, the more efficient code. But what I was going to ask was, is there a way that I'm looking at this, and I'm just going-- and I'm going to just start calling out by-- the moment I see that there's an interval, the moment I see-- this is an interval. And I'm going to make a call with respect to whether I'm going to call out a command or not. And I'm going to do this in one pass through this array. I want to do this in one pass through the array. I want to look at this, and I say, I see the interval 0, 0. Is that going to be something that I need to worry about in terms of that person having to flip his cap? And then I see B, B. And I say, oh, the interval is 1 comma 2. Is that something I'm going to have to deal with in terms of a command? And so someone else other than Ganatra, tell me if there's a one-pass algorithm. And explain to me why you can do this in one pass",
+            "metrics": {
+                "relativeDCReadability": 1.0092678783462776,
+                "lexicalDiversity": 0.4149377593360996,
+                "posComposition": {
+                    "RB": 0.046,
+                    "PRP": 0.112,
+                    "VBD": 0.025,
+                    "VBG": 0.054,
+                    "TO": 0.071,
+                    "VB": 0.087,
+                    ":": 0.017,
+                    "IN": 0.108,
+                    "WP": 0.012,
+                    "NNP": 0.012,
+                    "JJ": 0.025,
+                    "MD": 0.012,
+                    "DT": 0.091,
+                    "NN": 0.108,
+                    "VBP": 0.071,
+                    "CC": 0.054,
+                    "RBR": 0.004,
+                    "VBZ": 0.025,
+                    "RP": 0.008,
+                    "EX": 0.008,
+                    "CD": 0.029,
+                    "WDT": 0.004,
+                    "NNS": 0.008,
+                    "PRP$": 0.004,
+                    "WRB": 0.004
+                },
+                "syllableRate": 2.483,
+                "topicScores": [
+                    [
+                        "pass",
+                        0.33309924208393304
+                    ],
+                    [
+                        "interval",
+                        0.34683593999128104
+                    ],
+                    [
+                        "Ganatra",
+                        0.3791761183112704
+                    ],
+                    [
+                        "array",
+                        0.507857945506255
+                    ],
+                    [
+                        "moment",
+                        0.528476326389884
+                    ],
+                    [
+                        "command",
+                        0.538745816579275
+                    ],
+                    [
+                        "term",
+                        0.544998251176431
+                    ],
+                    [
+                        "B.",
+                        0.617817884999979
+                    ],
+                    [
+                        "wonderful",
+                        0.8344665962329736
+                    ],
+                    [
+                        "code",
+                        0.8400644576003761
+                    ],
+                    [
+                        "question",
+                        0.8442708391072422
+                    ],
+                    [
+                        "going--",
+                        0.8555255140711295
+                    ],
+                    [
+                        "efficient",
+                        0.8596794130102482
+                    ],
+                    [
+                        "way",
+                        0.8813493226947167
+                    ],
+                    [
+                        "cap",
+                        0.8884025511002929
+                    ],
+                    [
+                        "algorithm",
+                        0.8884693602585733
+                    ],
+                    [
+                        "respect",
+                        0.895754318364253
+                    ],
+                    [
+                        "person",
+                        0.9089750617935695
+                    ],
+                    [
+                        "pass algorithm",
+                        2.196635281361755
+                    ],
+                    [
+                        "efficient code",
+                        2.599532173419424
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "pass",
+                        0.33309924208393304
+                    ],
+                    [
+                        "interval",
+                        0.34683593999128104
+                    ],
+                    [
+                        "Ganatra",
+                        0.3791761183112704
+                    ],
+                    [
+                        "command",
+                        0.538745816579275
+                    ],
+                    [
+                        "term",
+                        0.544998251176431
+                    ],
+                    [
+                        "code",
+                        0.8400644576003761
+                    ],
+                    [
+                        "way",
+                        0.8813493226947167
+                    ],
+                    [
+                        "cap",
+                        0.8884025511002929
+                    ],
+                    [
+                        "algorithm",
+                        0.8884693602585733
+                    ],
+                    [
+                        "person",
+                        0.9089750617935695
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1170": {
+            "id": "14UlXIZzwE4-1170",
+            "heat": 0.142,
+            "start": 1170.0,
+            "text": " through the array. And just in terms of code, I'll preview this. The first algorithm needs-- according to my coding, which, isn't great-- 26 lines of code. The second one needs eight lines of code. So yeah, go ahead. AUDIENCE: So after you see the first interval, you know that the second interval at the very least is going to have the same number of commands as the first one. So you might as well always go with the second one. So once you've identified what type the first interval is, you iterate through the list seeing-- and once you identify the first and second intervals, you iterate through every type of the second interval and do a command for that. SRINI DEVADAS: That's absolutely right. What was your name? AUDIENCE: Kevin. SRINI DEVADAS: Kevin? So you had it right. And Kevin has it right, as well. So the observation here is actually-- it was said a little bit differently by Kevin, but I'm going to say it a little bit differently. The observation is simply that if you look at the very first orientation, the very first orientation is something which, at best, is going to be a tie. So if you had it ending with 10 people, 0 through 9, then the number of forward intervals is the same as the number of backwards intervals.",
+            "metrics": {
+                "relativeDCReadability": 1.0453456934207597,
+                "lexicalDiversity": 0.4872881355932203,
+                "posComposition": {
+                    "IN": 0.114,
+                    "DT": 0.114,
+                    "NN": 0.106,
+                    "CC": 0.025,
+                    "RB": 0.106,
+                    "NNS": 0.042,
+                    "PRP": 0.072,
+                    "MD": 0.008,
+                    "VB": 0.021,
+                    "JJ": 0.081,
+                    ":": 0.017,
+                    "VBG": 0.025,
+                    "TO": 0.017,
+                    "PRP$": 0.008,
+                    "WDT": 0.008,
+                    "VBZ": 0.042,
+                    "CD": 0.034,
+                    "NNP": 0.064,
+                    "VBP": 0.042,
+                    "JJS": 0.004,
+                    "VBN": 0.004,
+                    "WP": 0.008,
+                    "VBD": 0.025,
+                    "POS": 0.004,
+                    "RBS": 0.004
+                },
+                "syllableRate": 2.8,
+                "topicScores": [
+                    [
+                        "Kevin",
+                        0.2623244019954998
+                    ],
+                    [
+                        "interval",
+                        0.27692943206406423
+                    ],
+                    [
+                        "second",
+                        0.318835731104742
+                    ],
+                    [
+                        "code",
+                        0.3783655754713042
+                    ],
+                    [
+                        "right",
+                        0.4239631805532632
+                    ],
+                    [
+                        "number",
+                        0.4373171576279043
+                    ],
+                    [
+                        "line",
+                        0.5285247642705385
+                    ],
+                    [
+                        "audience",
+                        0.5562416651789163
+                    ],
+                    [
+                        "bit",
+                        0.5570913826344212
+                    ],
+                    [
+                        "observation",
+                        0.5575081184819458
+                    ],
+                    [
+                        "little",
+                        0.5625590474813685
+                    ],
+                    [
+                        "command",
+                        0.5636905093179174
+                    ],
+                    [
+                        "orientation",
+                        0.56548541296047
+                    ],
+                    [
+                        "type",
+                        0.5665306276281961
+                    ],
+                    [
+                        "srini",
+                        0.6202707020784268
+                    ],
+                    [
+                        "devada",
+                        0.6442805360993012
+                    ],
+                    [
+                        "srini devada",
+                        0.6656349181591196
+                    ],
+                    [
+                        "array",
+                        0.7686716307705769
+                    ],
+                    [
+                        "term",
+                        0.8646929572979788
+                    ],
+                    [
+                        "coding",
+                        0.8777610423612378
+                    ],
+                    [
+                        "algorithm",
+                        0.885931250859579
+                    ],
+                    [
+                        "needs--",
+                        0.885931250859579
+                    ],
+                    [
+                        "great--",
+                        0.885931250859579
+                    ],
+                    [
+                        "tie",
+                        0.9125547712295438
+                    ],
+                    [
+                        "good",
+                        0.9191129063038636
+                    ],
+                    [
+                        "list",
+                        0.9196308812437703
+                    ],
+                    [
+                        "seeing--",
+                        0.9196308812437703
+                    ],
+                    [
+                        "people",
+                        0.9257982066954413
+                    ],
+                    [
+                        "backwards",
+                        0.9257982066954413
+                    ],
+                    [
+                        "forward",
+                        0.9310100608687452
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "Kevin",
+                        0.2623244019954998
+                    ],
+                    [
+                        "interval",
+                        0.27692943206406423
+                    ],
+                    [
+                        "code",
+                        0.3783655754713042
+                    ],
+                    [
+                        "number",
+                        0.4373171576279043
+                    ],
+                    [
+                        "line",
+                        0.5285247642705385
+                    ],
+                    [
+                        "audience",
+                        0.5562416651789163
+                    ],
+                    [
+                        "command",
+                        0.5636905093179174
+                    ],
+                    [
+                        "srini devada",
+                        0.6656349181591196
+                    ],
+                    [
+                        "term",
+                        0.8646929572979788
+                    ],
+                    [
+                        "algorithm",
+                        0.885931250859579
+                    ],
+                    [
+                        "good",
+                        0.9191129063038636
+                    ],
+                    [
+                        "list",
+                        0.9196308812437703
+                    ],
+                    [
+                        "people",
+                        0.9257982066954413
+                    ],
+                    [
+                        "backwards",
+                        0.9257982066954413
+                    ],
+                    [
+                        "forward",
+                        0.9310100608687452
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1260": {
+            "id": "14UlXIZzwE4-1260",
+            "heat": 0.335,
+            "start": 1260.0,
+            "text": " And if you went here, obviously, the number of forward intervals is greater than the number of backwards intervals. So you really only have to look at the first person in line not to determine the intervals because when you see the first person in line, you have no idea what the intervals are that are coming after. You have to generate those intervals, so you have to make your pass through the array. But the first person in line gives it away in terms of what the final result is going to be with respect to your decision as to what set of commands you're going to call up. And so because this is an F, you basically say, I'm going to go, and I'm going to make the people with the B's flip their caps. And that's a small observation in terms of its insight. But obviously, it's potent, in the sense that it's going to give you a one-pass algorithm versus a two-pass algorithm. And as I mentioned, it's going to give you a substantial reduction in the amount of code that you write. So I'm going to show you a bunch of code now. So this is usually how this is going to go, by the way, this entire class. And this is kind of my way of teaching, at least this type of material that's algorithmic and has data structures and so on.",
+            "metrics": {
+                "relativeDCReadability": 1.0017568605797753,
+                "lexicalDiversity": 0.42338709677419356,
+                "posComposition": {
+                    "CC": 0.04,
+                    "IN": 0.137,
+                    "PRP": 0.081,
+                    "VBD": 0.008,
+                    "RB": 0.06,
+                    "DT": 0.121,
+                    "NN": 0.129,
+                    "JJ": 0.044,
+                    "NNS": 0.048,
+                    "VBZ": 0.056,
+                    "JJR": 0.004,
+                    "VBP": 0.056,
+                    "TO": 0.056,
+                    "VB": 0.048,
+                    "WRB": 0.008,
+                    "WP": 0.012,
+                    "VBG": 0.04,
+                    "PRP$": 0.02,
+                    "RP": 0.004,
+                    "NNP": 0.008,
+                    "POS": 0.004,
+                    "JJS": 0.004,
+                    "WDT": 0.004,
+                    "VBN": 0.004
+                },
+                "syllableRate": 2.825,
+                "topicScores": [
+                    [
+                        "interval",
+                        0.28980578182348454
+                    ],
+                    [
+                        "person",
+                        0.33932299261518306
+                    ],
+                    [
+                        "line",
+                        0.3775537004897767
+                    ],
+                    [
+                        "pass",
+                        0.4149574696720235
+                    ],
+                    [
+                        "number",
+                        0.4350351053354702
+                    ],
+                    [
+                        "term",
+                        0.5209755451952456
+                    ],
+                    [
+                        "algorithm",
+                        0.5221759220510852
+                    ],
+                    [
+                        "code",
+                        0.5383701897922826
+                    ],
+                    [
+                        "way",
+                        0.5505265507588621
+                    ],
+                    [
+                        "F",
+                        0.5984644792256346
+                    ],
+                    [
+                        "backwards",
+                        0.7541846584419217
+                    ],
+                    [
+                        "forward",
+                        0.7696216125731048
+                    ],
+                    [
+                        "great",
+                        0.7696216125731048
+                    ],
+                    [
+                        "array",
+                        0.8238889223159923
+                    ],
+                    [
+                        "idea",
+                        0.8341007407890595
+                    ],
+                    [
+                        "cap",
+                        0.8514674864542555
+                    ],
+                    [
+                        "insight",
+                        0.8591770298561762
+                    ],
+                    [
+                        "final",
+                        0.8732371141193278
+                    ],
+                    [
+                        "result",
+                        0.8732371141193278
+                    ],
+                    [
+                        "respect",
+                        0.8732371141193278
+                    ],
+                    [
+                        "decision",
+                        0.8732371141193278
+                    ],
+                    [
+                        "set",
+                        0.8732371141193278
+                    ],
+                    [
+                        "command",
+                        0.8732371141193278
+                    ],
+                    [
+                        "class",
+                        0.8763965075243311
+                    ],
+                    [
+                        "people",
+                        0.8821781435778663
+                    ],
+                    [
+                        "flip",
+                        0.8821781435778663
+                    ],
+                    [
+                        "potent",
+                        0.8848668797047051
+                    ],
+                    [
+                        "entire",
+                        0.8861273394649295
+                    ],
+                    [
+                        "small",
+                        0.8885023921634454
+                    ],
+                    [
+                        "observation",
+                        0.8885023921634454
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "interval",
+                        0.28980578182348454
+                    ],
+                    [
+                        "person",
+                        0.33932299261518306
+                    ],
+                    [
+                        "line",
+                        0.3775537004897767
+                    ],
+                    [
+                        "pass",
+                        0.4149574696720235
+                    ],
+                    [
+                        "number",
+                        0.4350351053354702
+                    ],
+                    [
+                        "term",
+                        0.5209755451952456
+                    ],
+                    [
+                        "algorithm",
+                        0.5221759220510852
+                    ],
+                    [
+                        "code",
+                        0.5383701897922826
+                    ],
+                    [
+                        "way",
+                        0.5505265507588621
+                    ],
+                    [
+                        "F",
+                        0.5984644792256346
+                    ],
+                    [
+                        "backwards",
+                        0.7541846584419217
+                    ],
+                    [
+                        "forward",
+                        0.7696216125731048
+                    ],
+                    [
+                        "cap",
+                        0.8514674864542555
+                    ],
+                    [
+                        "command",
+                        0.8732371141193278
+                    ],
+                    [
+                        "people",
+                        0.8821781435778663
+                    ],
+                    [
+                        "flip",
+                        0.8821781435778663
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1350": {
+            "id": "14UlXIZzwE4-1350",
+            "heat": 0.325,
+            "start": 1350.0,
+            "text": " I like explaining to people what they're going to see in the code without having to deal with Python syntax and worrying about whether it's while loops or for loops and things like that and tuples or arrays and things like that. So let's get into that. I don't need this. Ah, good. So the naive algorithm first-- so what you see here is an input. So \"caps\" is simply an input Python list that has, as you can see from our examples, the F's and the B's. And so F is Forwards, and B is Backwards. And there are a couple of different Python lists so you can run them with different things. And all of this hopefully is not at all surprising to you because we went through all of this in terms of the pseudocode. So the first initialization-- and I can just highlight that to make it easy. So that's initialization. And this part here-- the comment sort of gives it away-- is you're making a pass through the array, computing the intervals. And so how do you actually get the intervals? And there's one line of code that does that. And oh, by the way, if there are any questions about Python syntax, just don't feel shy. Just tell me.",
+            "metrics": {
+                "relativeDCReadability": 0.988783933505971,
+                "lexicalDiversity": 0.43722943722943725,
+                "posComposition": {
+                    "PRP": 0.069,
+                    "VBP": 0.035,
+                    "VBG": 0.026,
+                    "TO": 0.022,
+                    "NNS": 0.065,
+                    "WP": 0.009,
+                    "VB": 0.065,
+                    "IN": 0.126,
+                    "DT": 0.117,
+                    "NN": 0.087,
+                    "NNP": 0.061,
+                    "CC": 0.069,
+                    "VBZ": 0.048,
+                    "POS": 0.017,
+                    "RB": 0.074,
+                    "VBD": 0.009,
+                    "JJ": 0.026,
+                    ":": 0.017,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "WDT": 0.013,
+                    "MD": 0.013,
+                    "PRP$": 0.004,
+                    "EX": 0.013,
+                    "WRB": 0.004,
+                    "CD": 0.004
+                },
+                "syllableRate": 2.517,
+                "topicScores": [
+                    [
+                        "Python",
+                        0.2720740484576944
+                    ],
+                    [
+                        "F",
+                        0.39796114020276285
+                    ],
+                    [
+                        "thing",
+                        0.40066359212652025
+                    ],
+                    [
+                        "loop",
+                        0.4914747183522301
+                    ],
+                    [
+                        "interval",
+                        0.5237878397092233
+                    ],
+                    [
+                        "input",
+                        0.5355009989111085
+                    ],
+                    [
+                        "syntax",
+                        0.55068029838556
+                    ],
+                    [
+                        "list",
+                        0.5534551296322822
+                    ],
+                    [
+                        "array",
+                        0.5545174675736558
+                    ],
+                    [
+                        "code",
+                        0.5621830440509595
+                    ],
+                    [
+                        "different",
+                        0.56464718043066
+                    ],
+                    [
+                        "B",
+                        0.6278710107275073
+                    ],
+                    [
+                        "Forwards",
+                        0.6392308606179358
+                    ],
+                    [
+                        "Python syntax",
+                        0.775462821156913
+                    ],
+                    [
+                        "Python list",
+                        0.7842272096957523
+                    ],
+                    [
+                        "people",
+                        0.7945827452832939
+                    ],
+                    [
+                        "tuple",
+                        0.7945827452832939
+                    ],
+                    [
+                        "good",
+                        0.8394132183072751
+                    ],
+                    [
+                        "cap",
+                        0.8830840676535902
+                    ],
+                    [
+                        "pseudocode",
+                        0.884503325277953
+                    ],
+                    [
+                        "easy",
+                        0.8873645321707128
+                    ],
+                    [
+                        "initialization",
+                        0.8897929061581831
+                    ],
+                    [
+                        "example",
+                        0.8932666856234969
+                    ],
+                    [
+                        "naive",
+                        0.8965826916486755
+                    ],
+                    [
+                        "algorithm",
+                        0.8965826916486755
+                    ],
+                    [
+                        "first--",
+                        0.8965826916486755
+                    ],
+                    [
+                        "shy",
+                        0.8967755235555173
+                    ],
+                    [
+                        "couple",
+                        0.9097724965785365
+                    ],
+                    [
+                        "surprising",
+                        0.9124629934442081
+                    ],
+                    [
+                        "term",
+                        0.9124629934442081
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "Python",
+                        0.2720740484576944
+                    ],
+                    [
+                        "F",
+                        0.39796114020276285
+                    ],
+                    [
+                        "thing",
+                        0.40066359212652025
+                    ],
+                    [
+                        "interval",
+                        0.5237878397092233
+                    ],
+                    [
+                        "list",
+                        0.5534551296322822
+                    ],
+                    [
+                        "code",
+                        0.5621830440509595
+                    ],
+                    [
+                        "B",
+                        0.6278710107275073
+                    ],
+                    [
+                        "people",
+                        0.7945827452832939
+                    ],
+                    [
+                        "good",
+                        0.8394132183072751
+                    ],
+                    [
+                        "cap",
+                        0.8830840676535902
+                    ],
+                    [
+                        "algorithm",
+                        0.8965826916486755
+                    ],
+                    [
+                        "term",
+                        0.9124629934442081
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1440": {
+            "id": "14UlXIZzwE4-1440",
+            "heat": 0.196,
+            "start": 1440.0,
+            "text": " Ask me a question, and I'm happy to explain it. I don't want to explain things that you all know, obviously. But if any one of you doesn't know any particular thing, please don't feel shy. Syntax is something that sometimes you even forget. I tend to forget things. So this thing here is essentially something that decides on what the intervals are. And the insight here is simple. You know that this interval ended when you see something here that is different from what the previous one is. So that's when you know. So you generate the interval when you go and find something that is different from the current location that you're pointing to. So that's really what's going on out here. In this line, you say, you're setting a \"start\" here. \"Start\" is your counter, and remember, \"start\" is getting set again here. Initially, it was set to 0. And if you ever get to the point where you're looking at \"i,\" it's the next thing you're looking at, and if \"caps start,\" which is the start of the interval, is different from \"i,\" it meant that the interval that began with \"start\" ended. And so you essentially say, well, that needs to end at i minus 1 because obviously, \"caps start\" is different from \"caps size.\" So this is the end of the interval right here. And this particular thing, our interval,",
+            "metrics": {
+                "relativeDCReadability": 0.9969441281836879,
+                "lexicalDiversity": 0.48872180451127817,
+                "posComposition": {
+                    "VB": 0.041,
+                    "PRP": 0.086,
+                    "DT": 0.09,
+                    "NN": 0.117,
+                    "CC": 0.034,
+                    "VBP": 0.071,
+                    "JJ": 0.06,
+                    "TO": 0.026,
+                    "RB": 0.086,
+                    "NNS": 0.015,
+                    "IN": 0.094,
+                    "CD": 0.015,
+                    "VBZ": 0.075,
+                    "NNP": 0.015,
+                    "WDT": 0.023,
+                    "WP": 0.011,
+                    "VBD": 0.015,
+                    "WRB": 0.015,
+                    "VBG": 0.023,
+                    "``": 0.034,
+                    "''": 0.034,
+                    "PRP$": 0.008,
+                    "VBN": 0.011
+                },
+                "syllableRate": 2.933,
+                "topicScores": [
+                    [
+                        "start",
+                        0.26664389317861376
+                    ],
+                    [
+                        "interval",
+                        0.28829630029740894
+                    ],
+                    [
+                        "thing",
+                        0.3080163235128208
+                    ],
+                    [
+                        "different",
+                        0.35479998928303985
+                    ],
+                    [
+                        "end",
+                        0.38959777068449297
+                    ],
+                    [
+                        "cap",
+                        0.4412852320463657
+                    ],
+                    [
+                        "particular",
+                        0.5668631491922187
+                    ],
+                    [
+                        "point",
+                        0.5786115583291543
+                    ],
+                    [
+                        "question",
+                        0.8832236185730533
+                    ],
+                    [
+                        "happy",
+                        0.8902698276948037
+                    ],
+                    [
+                        "shy",
+                        0.8993494459736259
+                    ],
+                    [
+                        "Syntax",
+                        0.9066455805009762
+                    ],
+                    [
+                        "simple",
+                        0.9186683908166879
+                    ],
+                    [
+                        "size",
+                        0.9263734959337493
+                    ],
+                    [
+                        "insight",
+                        0.9335651551412328
+                    ],
+                    [
+                        "previous",
+                        0.9355964022404456
+                    ],
+                    [
+                        "line",
+                        0.936987050629993
+                    ],
+                    [
+                        "counter",
+                        0.9379912293605207
+                    ],
+                    [
+                        "current",
+                        0.9387081440644087
+                    ],
+                    [
+                        "location",
+                        0.9387081440644087
+                    ],
+                    [
+                        "particular thing",
+                        2.1971549200951297
+                    ],
+                    [
+                        "cap size",
+                        4.4821521643142415
+                    ],
+                    [
+                        "current location",
+                        7.415594346738202
+                    ]
+                ],
+                "topTopicSimilarity": 0.2608695652173913,
+                "sharedTopicScores": [
+                    [
+                        "start",
+                        0.26664389317861376
+                    ],
+                    [
+                        "interval",
+                        0.28829630029740894
+                    ],
+                    [
+                        "thing",
+                        0.3080163235128208
+                    ],
+                    [
+                        "end",
+                        0.38959777068449297
+                    ],
+                    [
+                        "cap",
+                        0.4412852320463657
+                    ],
+                    [
+                        "line",
+                        0.936987050629993
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1530": {
+            "id": "14UlXIZzwE4-1530",
+            "heat": 0.201,
+            "start": 1530.0,
+            "text": " is something that includes both these two numbers, so it's not exactly that. But it also includes-- where did my chalk go? It also includes whether this is an F or not. So each of these things has-- I'm not going to write it out for all of those things-- but has the orientation inside of it. So that's what you have out here. That's why we have three of these in this tuple. This is a tuple because it's got round brackets around it. I could have made it a list if I wanted. And so that's essentially what we have here. And now, here's what happens. In this particular piece of code, when you get to the end and you fall off the end-- so if you just end, then this code essentially skips over and doesn't actually put in the last interval because you don't see something. When you come up here and you're off the end of the array, you fall off the edge of the array, you don't see a B that is different from F. So if you just wrote that code-- so it's something that I'd say many people would have a quote, \"bug,\" where they wouldn't add this part of the code here because they didn't realize",
+            "metrics": {
+                "relativeDCReadability": 0.9296803536892405,
+                "lexicalDiversity": 0.4008438818565401,
+                "posComposition": {
+                    "VBZ": 0.08,
+                    "NN": 0.097,
+                    "WDT": 0.008,
+                    "CC": 0.038,
+                    "DT": 0.114,
+                    "CD": 0.008,
+                    "NNS": 0.021,
+                    "IN": 0.143,
+                    "PRP": 0.114,
+                    "RB": 0.11,
+                    ":": 0.021,
+                    "WRB": 0.021,
+                    "VBD": 0.021,
+                    "PRP$": 0.004,
+                    "VB": 0.046,
+                    "NNP": 0.021,
+                    "VBP": 0.046,
+                    "VBG": 0.004,
+                    "TO": 0.008,
+                    "RP": 0.008,
+                    "WP": 0.013,
+                    "JJ": 0.021,
+                    "MD": 0.017,
+                    "VBN": 0.004,
+                    "``": 0.004,
+                    "''": 0.004
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "end",
+                        0.4476045008276904
+                    ],
+                    [
+                        "code",
+                        0.44788125724429706
+                    ],
+                    [
+                        "array",
+                        0.5369947345784385
+                    ],
+                    [
+                        "tuple",
+                        0.5541212790711358
+                    ],
+                    [
+                        "F",
+                        0.5865071974194406
+                    ],
+                    [
+                        "b",
+                        0.7000806387117634
+                    ],
+                    [
+                        "number",
+                        0.7755340292099631
+                    ],
+                    [
+                        "chalk",
+                        0.8387051743076188
+                    ],
+                    [
+                        "bug",
+                        0.8463700715824227
+                    ],
+                    [
+                        "includes--",
+                        0.8528033809254048
+                    ],
+                    [
+                        "thing",
+                        0.8769156277122518
+                    ],
+                    [
+                        "quote",
+                        0.8929934102190267
+                    ],
+                    [
+                        "orientation",
+                        0.8961356936483545
+                    ],
+                    [
+                        "round",
+                        0.909376746181259
+                    ],
+                    [
+                        "bracket",
+                        0.909376746181259
+                    ],
+                    [
+                        "list",
+                        0.9120779034807079
+                    ],
+                    [
+                        "particular",
+                        0.9178624421965408
+                    ],
+                    [
+                        "piece",
+                        0.9178624421965408
+                    ],
+                    [
+                        "interval",
+                        0.9192923935788153
+                    ],
+                    [
+                        "edge",
+                        0.9205546467639345
+                    ],
+                    [
+                        "different",
+                        0.9205546467639345
+                    ],
+                    [
+                        "people",
+                        0.9216795815020326
+                    ],
+                    [
+                        "round bracket",
+                        4.779213243004386
+                    ],
+                    [
+                        "particular piece",
+                        5.3480561537788995
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "end",
+                        0.4476045008276904
+                    ],
+                    [
+                        "code",
+                        0.44788125724429706
+                    ],
+                    [
+                        "F",
+                        0.5865071974194406
+                    ],
+                    [
+                        "number",
+                        0.7755340292099631
+                    ],
+                    [
+                        "thing",
+                        0.8769156277122518
+                    ],
+                    [
+                        "list",
+                        0.9120779034807079
+                    ],
+                    [
+                        "interval",
+                        0.9192923935788153
+                    ],
+                    [
+                        "people",
+                        0.9216795815020326
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1620": {
+            "id": "14UlXIZzwE4-1620",
+            "heat": 0.19,
+            "start": 1620.0,
+            "text": " this particular point that I made. And so that last interval doesn't get added in. And so you have a bit more code here that decides on the last interval. And then you count, and then you go ahead and call the commands. So this all looks good? Yeah, we're good with this? Is there a way that I could somehow eliminate these four lines of code which are a little bit annoying and just do things in the array? How could I, with a little trick, eliminate those four lines of code? I might need a little bit more in, quote, \"pre-processing,\" but how would I eliminate that? Someone else? I'll get to you. Yeah. Go ahead. AUDIENCE: One way is you can check thoroughly you've reached the end of the-- the forward is equal to the backwards. SRINI DEVADAS: You could have an extra check. What's your name? AUDIENCE: Kanishka. SRINI DEVADAS: Kanishka? So Kanishka says that before you reach the end of the array or when you reach the end of the array, you go ahead and do a check that you've reached the end and generate the interval inside of it, which is kind of like moving this code inside of it. So that's reasonable. I'm not sure that's going to be as good as the way that I want and which I coded. Think about pre-processing.",
+            "metrics": {
+                "relativeDCReadability": 1.0329317920671517,
+                "lexicalDiversity": 0.48148148148148145,
+                "posComposition": {
+                    "DT": 0.119,
+                    "JJ": 0.07,
+                    "NN": 0.115,
+                    "IN": 0.119,
+                    "PRP": 0.095,
+                    "VBD": 0.008,
+                    "CC": 0.045,
+                    "RB": 0.058,
+                    "VBZ": 0.045,
+                    "VB": 0.053,
+                    "VBN": 0.012,
+                    "VBP": 0.058,
+                    "RBR": 0.008,
+                    "NNS": 0.021,
+                    "EX": 0.004,
+                    "MD": 0.029,
+                    "CD": 0.012,
+                    "WDT": 0.012,
+                    "VBG": 0.012,
+                    "NNP": 0.062,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "WRB": 0.008,
+                    "TO": 0.012,
+                    ":": 0.004,
+                    "WP": 0.004,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 2.642,
+                "topicScores": [
+                    [
+                        "Kanishka",
+                        0.3307046330233683
+                    ],
+                    [
+                        "code",
+                        0.35175277336404415
+                    ],
+                    [
+                        "end",
+                        0.3738511509323903
+                    ],
+                    [
+                        "bit",
+                        0.43668661004020254
+                    ],
+                    [
+                        "little",
+                        0.4421011290987255
+                    ],
+                    [
+                        "interval",
+                        0.4449390052673211
+                    ],
+                    [
+                        "array",
+                        0.44582675846202985
+                    ],
+                    [
+                        "good",
+                        0.4532652500175888
+                    ],
+                    [
+                        "way",
+                        0.45442653275023176
+                    ],
+                    [
+                        "check",
+                        0.45648483205898016
+                    ],
+                    [
+                        "processing",
+                        0.525840056361531
+                    ],
+                    [
+                        "line",
+                        0.5562981549911382
+                    ],
+                    [
+                        "pre",
+                        0.5593821557375722
+                    ],
+                    [
+                        "audience",
+                        0.607756117414358
+                    ],
+                    [
+                        "srini",
+                        0.6558760212387466
+                    ],
+                    [
+                        "devada",
+                        0.6865719398543075
+                    ],
+                    [
+                        "srini devada",
+                        0.8191941905067043
+                    ],
+                    [
+                        "particular",
+                        0.8198773220308553
+                    ],
+                    [
+                        "point",
+                        0.8345333645168138
+                    ],
+                    [
+                        "command",
+                        0.8825474624423962
+                    ],
+                    [
+                        "backward",
+                        0.9176239100208369
+                    ],
+                    [
+                        "trick",
+                        0.9222704486820427
+                    ],
+                    [
+                        "reasonable",
+                        0.922729337160178
+                    ],
+                    [
+                        "annoying",
+                        0.926654164763289
+                    ],
+                    [
+                        "thing",
+                        0.926654164763289
+                    ],
+                    [
+                        "forward",
+                        0.9329519184558185
+                    ],
+                    [
+                        "extra",
+                        0.933827733458841
+                    ],
+                    [
+                        "equal",
+                        0.9390909323834737
+                    ],
+                    [
+                        "sure",
+                        0.9434251526462295
+                    ],
+                    [
+                        "little bit",
+                        2.139204606370688
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "code",
+                        0.35175277336404415
+                    ],
+                    [
+                        "end",
+                        0.3738511509323903
+                    ],
+                    [
+                        "interval",
+                        0.4449390052673211
+                    ],
+                    [
+                        "good",
+                        0.4532652500175888
+                    ],
+                    [
+                        "way",
+                        0.45442653275023176
+                    ],
+                    [
+                        "line",
+                        0.5562981549911382
+                    ],
+                    [
+                        "audience",
+                        0.607756117414358
+                    ],
+                    [
+                        "srini devada",
+                        0.8191941905067043
+                    ],
+                    [
+                        "command",
+                        0.8825474624423962
+                    ],
+                    [
+                        "thing",
+                        0.926654164763289
+                    ],
+                    [
+                        "forward",
+                        0.9329519184558185
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1710": {
+            "id": "14UlXIZzwE4-1710",
+            "heat": 0.151,
+            "start": 1710.0,
+            "text": " Think about taking the array-- yeah? AUDIENCE: I guess you could add a wrong interval at the end. SRINI DEVADAS: You could add on a wrong interval. What was your name? AUDIENCE: Kevin. SRINI DEVADAS: Kevin, too? Just how many Kevins do we have here? So you could do this. So let me show you something that's a little bit more-- so that was 26 lines of code. And so this says-- this is the line that's interesting. So I had F and B, and so I don't want to add F or B there. But what is convenient to do, as it turns out, is to just have something that essentially says, there's an ending point. So you have an explicit end to the array that is actually not something that would crash if you tried to access it. You had n people in line, and now you have effectively n plus 1 people in line. But that n plus one person is a dummy, or you can call them \"end.\" And then if you do that, then that's it. The previous code works. You can just remove those four lines, and it'll all just work because your F or your B is not equal to \"end.\" So whatever you had at the end-- I'm sorry. I'm overloading terms here. Whatever you had at the last element-- whether it was a B because it ended here or F-- when you equate that to \"end,\" you're",
+            "metrics": {
+                "relativeDCReadability": 1.1002835180874542,
+                "lexicalDiversity": 0.45318352059925093,
+                "posComposition": {
+                    "VB": 0.06,
+                    "IN": 0.071,
+                    "VBG": 0.015,
+                    "DT": 0.082,
+                    "NN": 0.086,
+                    ":": 0.022,
+                    "UH": 0.004,
+                    "NNP": 0.079,
+                    "PRP": 0.109,
+                    "VBP": 0.041,
+                    "MD": 0.026,
+                    "JJ": 0.045,
+                    "WP": 0.007,
+                    "VBD": 0.034,
+                    "PRP$": 0.011,
+                    "RB": 0.075,
+                    "WRB": 0.007,
+                    "NNS": 0.022,
+                    "WDT": 0.022,
+                    "VBZ": 0.049,
+                    "RBR": 0.004,
+                    "CD": 0.015,
+                    "CC": 0.052,
+                    "TO": 0.026,
+                    "RP": 0.004,
+                    "EX": 0.004,
+                    "VBN": 0.004,
+                    "``": 0.011,
+                    "''": 0.011
+                },
+                "syllableRate": 2.783,
+                "topicScores": [
+                    [
+                        "end",
+                        0.3156679455190089
+                    ],
+                    [
+                        "F",
+                        0.3372690457334762
+                    ],
+                    [
+                        "line",
+                        0.3413506404960357
+                    ],
+                    [
+                        "Kevin",
+                        0.3700871284380754
+                    ],
+                    [
+                        "B",
+                        0.4122425311854373
+                    ],
+                    [
+                        "audience",
+                        0.4390923874590833
+                    ],
+                    [
+                        "srini devada",
+                        0.4763684934607628
+                    ],
+                    [
+                        "interval",
+                        0.5228068248997303
+                    ],
+                    [
+                        "wrong",
+                        0.5290359380054214
+                    ],
+                    [
+                        "code",
+                        0.5674402597000434
+                    ],
+                    [
+                        "people",
+                        0.5725119306059535
+                    ],
+                    [
+                        "SRINI",
+                        0.6003340364415326
+                    ],
+                    [
+                        "array--",
+                        0.8049107617018045
+                    ],
+                    [
+                        "bit",
+                        0.9035000920989422
+                    ],
+                    [
+                        "interesting",
+                        0.9074422693966856
+                    ],
+                    [
+                        "point",
+                        0.9104426890871483
+                    ],
+                    [
+                        "sorry",
+                        0.917810003533668
+                    ],
+                    [
+                        "little",
+                        0.9195982594168006
+                    ],
+                    [
+                        "ending",
+                        0.9254782156729244
+                    ],
+                    [
+                        "dummy",
+                        0.9283545546801824
+                    ],
+                    [
+                        "previous",
+                        0.9298593149190234
+                    ],
+                    [
+                        "equal",
+                        0.9305213371452611
+                    ],
+                    [
+                        "convenient",
+                        0.9316464015090842
+                    ],
+                    [
+                        "term",
+                        0.9322306524687305
+                    ],
+                    [
+                        "explicit",
+                        0.9326257734503758
+                    ],
+                    [
+                        "person",
+                        0.9343015658894791
+                    ],
+                    [
+                        "element--",
+                        0.9383336069034898
+                    ],
+                    [
+                        "wrong interval",
+                        1.4363866191239314
+                    ],
+                    [
+                        "explicit end",
+                        4.76320586957488
+                    ],
+                    [
+                        "little bit",
+                        4.912161086287381
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "end",
+                        0.3156679455190089
+                    ],
+                    [
+                        "F",
+                        0.3372690457334762
+                    ],
+                    [
+                        "line",
+                        0.3413506404960357
+                    ],
+                    [
+                        "Kevin",
+                        0.3700871284380754
+                    ],
+                    [
+                        "B",
+                        0.4122425311854373
+                    ],
+                    [
+                        "audience",
+                        0.4390923874590833
+                    ],
+                    [
+                        "srini devada",
+                        0.4763684934607628
+                    ],
+                    [
+                        "interval",
+                        0.5228068248997303
+                    ],
+                    [
+                        "code",
+                        0.5674402597000434
+                    ],
+                    [
+                        "people",
+                        0.5725119306059535
+                    ],
+                    [
+                        "SRINI",
+                        0.6003340364415326
+                    ],
+                    [
+                        "term",
+                        0.9322306524687305
+                    ],
+                    [
+                        "person",
+                        0.9343015658894791
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1800": {
+            "id": "14UlXIZzwE4-1800",
+            "heat": 0.125,
+            "start": 1800.0,
+            "text": " going to get an inequality. And so that last interval gets generated-- so small optimization. Tony Hoare was a very famous computer scientist-- said that \"inside every program, there's a smaller program waiting to get out.\" So this is kind of one of the themes that I'd like to harp on in this class, which is it's nice to write compact code. Usually, if you can write compact code, there are fewer bugs in it. And you don't want to go overboard. You don't want too many subtleties, but it's nice to write compact code. And so this is a little bit more compact. And then finally, here's the one-pass algorithm. So the whole thing, the \"pleaseConformonepass,\" is the smarter algorithm that essentially says, look, if I just look at the very first thing, I'm going to be able to skip that and then move on. So this is fairly complicated. You know the algorithm. Trying to map that to this code is non-trivial, so we'll spend a minute or two on it. But here's how this works. And by the way, just to make sure-- so I've repeated things here.",
+            "metrics": {
+                "relativeDCReadability": 1.0418670407542237,
+                "lexicalDiversity": 0.49760765550239233,
+                "posComposition": {
+                    "VBG": 0.019,
+                    "TO": 0.053,
+                    "VB": 0.077,
+                    "DT": 0.105,
+                    "NN": 0.11,
+                    "CC": 0.043,
+                    "RB": 0.1,
+                    "IN": 0.086,
+                    "JJ": 0.091,
+                    "VBZ": 0.067,
+                    "VBN": 0.014,
+                    ":": 0.014,
+                    "NNP": 0.01,
+                    "VBD": 0.01,
+                    "``": 0.01,
+                    "EX": 0.01,
+                    "JJR": 0.01,
+                    "RP": 0.005,
+                    "''": 0.01,
+                    "CD": 0.01,
+                    "NNS": 0.019,
+                    "PRP": 0.062,
+                    "MD": 0.014,
+                    "WDT": 0.01,
+                    "VBP": 0.033,
+                    "RBR": 0.005,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "compact",
+                        0.3381234285212474
+                    ],
+                    [
+                        "code",
+                        0.35804632188634006
+                    ],
+                    [
+                        "algorithm",
+                        0.43290943696160206
+                    ],
+                    [
+                        "thing",
+                        0.4514697062959671
+                    ],
+                    [
+                        "nice",
+                        0.5270731654206439
+                    ],
+                    [
+                        "small",
+                        0.5360210435219902
+                    ],
+                    [
+                        "program",
+                        0.5506870178016009
+                    ],
+                    [
+                        "Hoare",
+                        0.5698941863565731
+                    ],
+                    [
+                        "inequality",
+                        0.7629522790825468
+                    ],
+                    [
+                        "optimization",
+                        0.8288830178516992
+                    ],
+                    [
+                        "Tony",
+                        0.8547983010100549
+                    ],
+                    [
+                        "interval",
+                        0.8683025495735591
+                    ],
+                    [
+                        "generated--",
+                        0.8683025495735591
+                    ],
+                    [
+                        "pleaseconformonepas",
+                        0.8883745057632524
+                    ],
+                    [
+                        "famous",
+                        0.8890469682240104
+                    ],
+                    [
+                        "computer",
+                        0.8890469682240104
+                    ],
+                    [
+                        "scientist--",
+                        0.8890469682240104
+                    ],
+                    [
+                        "class",
+                        0.8912301004518263
+                    ],
+                    [
+                        "theme",
+                        0.9003346393166947
+                    ],
+                    [
+                        "complicated",
+                        0.901418766934375
+                    ],
+                    [
+                        "pass",
+                        0.9062242516716016
+                    ],
+                    [
+                        "few",
+                        0.907566697449833
+                    ],
+                    [
+                        "bug",
+                        0.907566697449833
+                    ],
+                    [
+                        "sure--",
+                        0.907741156063113
+                    ],
+                    [
+                        "subtlety",
+                        0.9087068342255755
+                    ],
+                    [
+                        "trivial",
+                        0.9138737096252916
+                    ],
+                    [
+                        "little",
+                        0.9194814153676346
+                    ],
+                    [
+                        "bit",
+                        0.9194814153676346
+                    ],
+                    [
+                        "non",
+                        0.9216127808984098
+                    ],
+                    [
+                        "smart",
+                        0.9239215496205803
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "code",
+                        0.35804632188634006
+                    ],
+                    [
+                        "algorithm",
+                        0.43290943696160206
+                    ],
+                    [
+                        "thing",
+                        0.4514697062959671
+                    ],
+                    [
+                        "interval",
+                        0.8683025495735591
+                    ],
+                    [
+                        "pass",
+                        0.9062242516716016
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1890": {
+            "id": "14UlXIZzwE4-1890",
+            "heat": 0.127,
+            "start": 1890.0,
+            "text": " So the optimized algorithm for that particular example produced these first three commands. And then the one-pass algorithm produced exactly the same commands. So this is good to do. It's always nice to have a couple of different ways of solving a problem because then you can verify things. Anyway, so this piece of code is essentially something that does a similar trick to what we had before, in terms of adding to the original list, adding an element. But we're not using \"end\" here. We're actually saying, what we want to do because we're going to go ahead and skip this, anyway-- we know we're going to skip the F. So whatever that is, we could just sort of add up here. And so that makes it easy. You don't have to worry about what the actual characters are and cooking up this \"end,\" which is different from the F or the B because hey, it's possible that people might use whatever they want to represent a forward cap or a backward cap. So this is very clean. You go ahead and put exactly that over here. You know you're going to skip that interval because you're going to skip the first interval, effectively, because that is what the algorithm allows you to do.",
+            "metrics": {
+                "relativeDCReadability": 1.0287671359797004,
+                "lexicalDiversity": 0.462882096069869,
+                "posComposition": {
+                    "IN": 0.1,
+                    "DT": 0.114,
+                    "JJ": 0.074,
+                    "NN": 0.092,
+                    "VBD": 0.009,
+                    "CD": 0.004,
+                    "NNS": 0.026,
+                    "CC": 0.035,
+                    "RB": 0.087,
+                    "VBN": 0.004,
+                    "VBZ": 0.052,
+                    "TO": 0.052,
+                    "VB": 0.07,
+                    "PRP": 0.083,
+                    "VBG": 0.044,
+                    "MD": 0.013,
+                    "NNP": 0.022,
+                    "WDT": 0.017,
+                    "WP": 0.017,
+                    "VBP": 0.057,
+                    "``": 0.009,
+                    "''": 0.009,
+                    ":": 0.004,
+                    "RP": 0.004
+                },
+                "syllableRate": 2.742,
+                "topicScores": [
+                    [
+                        "algorithm",
+                        0.4283354453521643
+                    ],
+                    [
+                        "command",
+                        0.4442034986848902
+                    ],
+                    [
+                        "end",
+                        0.5294968569720213
+                    ],
+                    [
+                        "cap",
+                        0.5532662177862769
+                    ],
+                    [
+                        "different",
+                        0.5580549710816508
+                    ],
+                    [
+                        "interval",
+                        0.5706921095223735
+                    ],
+                    [
+                        "F.",
+                        0.6542855154253336
+                    ],
+                    [
+                        "b",
+                        0.6706112814329345
+                    ],
+                    [
+                        "particular",
+                        0.7873379857751361
+                    ],
+                    [
+                        "example",
+                        0.7873379857751361
+                    ],
+                    [
+                        "pass",
+                        0.8341271757874917
+                    ],
+                    [
+                        "thing",
+                        0.846528450337464
+                    ],
+                    [
+                        "element",
+                        0.8570449348174003
+                    ],
+                    [
+                        "good",
+                        0.8713290390220161
+                    ],
+                    [
+                        "easy",
+                        0.8745719280966188
+                    ],
+                    [
+                        "clean",
+                        0.881168504316264
+                    ],
+                    [
+                        "term",
+                        0.8821979997030188
+                    ],
+                    [
+                        "original",
+                        0.8821979997030188
+                    ],
+                    [
+                        "list",
+                        0.8821979997030188
+                    ],
+                    [
+                        "nice",
+                        0.8841844098994499
+                    ],
+                    [
+                        "couple",
+                        0.8841844098994499
+                    ],
+                    [
+                        "way",
+                        0.8841844098994499
+                    ],
+                    [
+                        "problem",
+                        0.8841844098994499
+                    ],
+                    [
+                        "piece",
+                        0.8924483897366161
+                    ],
+                    [
+                        "code",
+                        0.8924483897366161
+                    ],
+                    [
+                        "similar",
+                        0.8924483897366161
+                    ],
+                    [
+                        "trick",
+                        0.8924483897366161
+                    ],
+                    [
+                        "anyway--",
+                        0.8932768508694001
+                    ],
+                    [
+                        "backward",
+                        0.9000408883908227
+                    ],
+                    [
+                        "actual",
+                        0.9088990305049148
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "algorithm",
+                        0.4283354453521643
+                    ],
+                    [
+                        "command",
+                        0.4442034986848902
+                    ],
+                    [
+                        "end",
+                        0.5294968569720213
+                    ],
+                    [
+                        "cap",
+                        0.5532662177862769
+                    ],
+                    [
+                        "interval",
+                        0.5706921095223735
+                    ],
+                    [
+                        "pass",
+                        0.8341271757874917
+                    ],
+                    [
+                        "thing",
+                        0.846528450337464
+                    ],
+                    [
+                        "good",
+                        0.8713290390220161
+                    ],
+                    [
+                        "term",
+                        0.8821979997030188
+                    ],
+                    [
+                        "list",
+                        0.8821979997030188
+                    ],
+                    [
+                        "way",
+                        0.8841844098994499
+                    ],
+                    [
+                        "code",
+                        0.8924483897366161
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-1980": {
+            "id": "14UlXIZzwE4-1980",
+            "heat": 0.1,
+            "start": 1980.0,
+            "text": " And then this part here is doing what we had before. We're not even generating the intervals. We're just directly making the commands. So there are no tuples in terms of the tuples and the appending of the intervals data structure that we had. It's all gone. I'm just going to go ahead and fire off these commands. And those commands are written in kind of a funny way because I'm going to go ahead and if I wanted to print these things out, you'd have to do this in this funny way. If you're willing to wait and collect up the intervals, you can certainly do that. But this is absolutely the most compact code that I could think of, and I'm printing a command in two different parts. I'm printing the first part of the command that says, people in positions. And that's the start of the interval \"i,\" and I'm just using a Python construct. This \"end\" here is something that the print command can recognize. And this simply says, don't give me a new line. I want to print it exactly. As you saw from when I ran the code, the printing was exactly the same as the original algorithm. And so this \"end\" simply says, don't print a new line at the end of people in positions, whatever this number is. Call it 7. And you don't print the new line. And then you have a space here because you didn't",
+            "metrics": {
+                "relativeDCReadability": 0.9855807213906403,
+                "lexicalDiversity": 0.4419475655430712,
+                "posComposition": {
+                    "CC": 0.052,
+                    "RB": 0.09,
+                    "DT": 0.146,
+                    "NN": 0.105,
+                    "VBZ": 0.034,
+                    "VBG": 0.03,
+                    "WP": 0.004,
+                    "PRP": 0.09,
+                    "VBD": 0.026,
+                    "IN": 0.101,
+                    "VBP": 0.06,
+                    "NNS": 0.056,
+                    "EX": 0.004,
+                    "VBN": 0.007,
+                    "TO": 0.022,
+                    "VB": 0.056,
+                    "JJ": 0.041,
+                    "RP": 0.007,
+                    "MD": 0.015,
+                    "RBS": 0.004,
+                    "CD": 0.007,
+                    "WDT": 0.007,
+                    "``": 0.011,
+                    "''": 0.011,
+                    "NNP": 0.007,
+                    "WRB": 0.004
+                },
+                "syllableRate": 2.892,
+                "topicScores": [
+                    [
+                        "print",
+                        0.2919230343498055
+                    ],
+                    [
+                        "command",
+                        0.31468967623531513
+                    ],
+                    [
+                        "interval",
+                        0.3624359316475413
+                    ],
+                    [
+                        "new",
+                        0.43297687951456915
+                    ],
+                    [
+                        "line",
+                        0.43297687951456915
+                    ],
+                    [
+                        "end",
+                        0.4460276298735683
+                    ],
+                    [
+                        "position",
+                        0.5530689177544011
+                    ],
+                    [
+                        "way",
+                        0.5633215635134282
+                    ],
+                    [
+                        "people",
+                        0.5633531550277683
+                    ],
+                    [
+                        "funny",
+                        0.5669696315486858
+                    ],
+                    [
+                        "tuple",
+                        0.5689611734918887
+                    ],
+                    [
+                        "code",
+                        0.5745721233198245
+                    ],
+                    [
+                        "Python",
+                        0.6732987808123718
+                    ],
+                    [
+                        "construct",
+                        0.9129651531080759
+                    ],
+                    [
+                        "term",
+                        0.9136316590252253
+                    ],
+                    [
+                        "appending",
+                        0.9136316590252253
+                    ],
+                    [
+                        "datum",
+                        0.9136316590252253
+                    ],
+                    [
+                        "structure",
+                        0.9136316590252253
+                    ],
+                    [
+                        "algorithm",
+                        0.9180553110187046
+                    ],
+                    [
+                        "thing",
+                        0.9186936920378932
+                    ],
+                    [
+                        "different",
+                        0.9231736352250041
+                    ],
+                    [
+                        "kind",
+                        0.9248293511031009
+                    ],
+                    [
+                        "willing",
+                        0.927106840556779
+                    ],
+                    [
+                        "compact",
+                        0.9289973504997462
+                    ],
+                    [
+                        "printing",
+                        0.9307428538617122
+                    ],
+                    [
+                        "original",
+                        0.9307428538617122
+                    ],
+                    [
+                        "number",
+                        0.9315695231041942
+                    ],
+                    [
+                        "start",
+                        0.9319763449414048
+                    ],
+                    [
+                        "space",
+                        0.9387285826618522
+                    ],
+                    [
+                        "new line",
+                        1.4990077946935652
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "command",
+                        0.31468967623531513
+                    ],
+                    [
+                        "interval",
+                        0.3624359316475413
+                    ],
+                    [
+                        "line",
+                        0.43297687951456915
+                    ],
+                    [
+                        "end",
+                        0.4460276298735683
+                    ],
+                    [
+                        "position",
+                        0.5530689177544011
+                    ],
+                    [
+                        "way",
+                        0.5633215635134282
+                    ],
+                    [
+                        "people",
+                        0.5633531550277683
+                    ],
+                    [
+                        "code",
+                        0.5745721233198245
+                    ],
+                    [
+                        "Python",
+                        0.6732987808123718
+                    ],
+                    [
+                        "term",
+                        0.9136316590252253
+                    ],
+                    [
+                        "algorithm",
+                        0.9180553110187046
+                    ],
+                    [
+                        "thing",
+                        0.9186936920378932
+                    ],
+                    [
+                        "number",
+                        0.9315695231041942
+                    ],
+                    [
+                        "start",
+                        0.9319763449414048
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-2070": {
+            "id": "14UlXIZzwE4-2070",
+            "heat": 0.1,
+            "start": 2070.0,
+            "text": " print a new line or a space. And you go through i minus 1, which is exactly the same as we had before. You only discover that the end of an interval after you see the person that comes after the interval. So you have to go back to i minus 1. So this makes sense? Any questions about this code? Yeah, go ahead. AUDIENCE: So the first line, like you said, if we're going to move the first-- SRINI DEVADAS: Not move, duplicate-- AUDIENCE: Duplicate the first-- SRINI DEVADAS: Yeah. So the plus there is a concatenation, and you have two lists. \"Caps\" is a list. And when you use a plus operator in Python, you can only add things that are of the same type. And so \"caps\" is a list, and \"cap 0\" is an element of the list. And so you need to make it a list in order to use the plus operator. There are also other things you could do using a pen, for example. So you could take that line, and you could do \"caps start\" at \"pen\" \"cap 0.\" And you wouldn't need all of the square brackets, but that's just neither here nor there. But I'm obviously not answering your question, so go ahead. Yeah. AUDIENCE: So I was going to say that we skip the first interval. And then we flip all the second-type orientation. SRINI DEVADAS: That's right. AUDIENCE: But here, we're focusing on the first element. Why-- SRINI DEVADAS: Ah, but that's OK because remember, the if statement is going to skip this one, too. So if I had two F's in the beginning-- I think your question is, what would",
+            "metrics": {
+                "relativeDCReadability": 1.0749665212243997,
+                "lexicalDiversity": 0.4935064935064935,
+                "posComposition": {
+                    "NN": 0.117,
+                    "DT": 0.11,
+                    "JJ": 0.045,
+                    "CC": 0.052,
+                    "PRP": 0.075,
+                    "VBP": 0.052,
+                    "IN": 0.084,
+                    "CD": 0.023,
+                    "WDT": 0.01,
+                    "VBZ": 0.036,
+                    "RB": 0.068,
+                    "VBD": 0.016,
+                    "VB": 0.055,
+                    "TO": 0.023,
+                    "FW": 0.003,
+                    "NNP": 0.084,
+                    "NNS": 0.019,
+                    "VBG": 0.019,
+                    ":": 0.016,
+                    "EX": 0.006,
+                    "``": 0.019,
+                    "''": 0.019,
+                    "WRB": 0.006,
+                    "MD": 0.019,
+                    "PRP$": 0.006,
+                    "PDT": 0.003,
+                    "POS": 0.006,
+                    "WP": 0.003
+                },
+                "syllableRate": 3.358,
+                "topicScores": [
+                    [
+                        "audience",
+                        0.24734401973449305
+                    ],
+                    [
+                        "SRINI",
+                        0.29225641173806044
+                    ],
+                    [
+                        "cap",
+                        0.3020821847758604
+                    ],
+                    [
+                        "list",
+                        0.33954970283504843
+                    ],
+                    [
+                        "interval",
+                        0.44532315782856147
+                    ],
+                    [
+                        "plus",
+                        0.4459868919716482
+                    ],
+                    [
+                        "line",
+                        0.45160750885694784
+                    ],
+                    [
+                        "question",
+                        0.4516907764279716
+                    ],
+                    [
+                        "first--",
+                        0.5679471669979282
+                    ],
+                    [
+                        "pen",
+                        0.5725179850596245
+                    ],
+                    [
+                        "operator",
+                        0.5725790280314834
+                    ],
+                    [
+                        "type",
+                        0.5734019694770446
+                    ],
+                    [
+                        "element",
+                        0.5809203246435001
+                    ],
+                    [
+                        "thing",
+                        0.583732957050514
+                    ],
+                    [
+                        "Python",
+                        0.6800566375917311
+                    ],
+                    [
+                        "devada",
+                        0.6956534374034603
+                    ],
+                    [
+                        "first-- SRINI",
+                        0.7006058386190401
+                    ],
+                    [
+                        "ok",
+                        0.7192101372154163
+                    ],
+                    [
+                        "F",
+                        0.7203667505069117
+                    ],
+                    [
+                        "space",
+                        0.8647743535733189
+                    ],
+                    [
+                        "srini devada",
+                        0.8851198775401077
+                    ],
+                    [
+                        "new",
+                        0.8900341376129348
+                    ],
+                    [
+                        "sense",
+                        0.9102004201039368
+                    ],
+                    [
+                        "code",
+                        0.9141205379884552
+                    ],
+                    [
+                        "end",
+                        0.9172840863305066
+                    ],
+                    [
+                        "person",
+                        0.9172840863305066
+                    ],
+                    [
+                        "example",
+                        0.9245625421913954
+                    ],
+                    [
+                        "duplicate--",
+                        0.9274388301283936
+                    ],
+                    [
+                        "orientation",
+                        0.9291469591032111
+                    ],
+                    [
+                        "right",
+                        0.9350020061039774
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "audience",
+                        0.24734401973449305
+                    ],
+                    [
+                        "SRINI",
+                        0.29225641173806044
+                    ],
+                    [
+                        "cap",
+                        0.3020821847758604
+                    ],
+                    [
+                        "list",
+                        0.33954970283504843
+                    ],
+                    [
+                        "interval",
+                        0.44532315782856147
+                    ],
+                    [
+                        "line",
+                        0.45160750885694784
+                    ],
+                    [
+                        "thing",
+                        0.583732957050514
+                    ],
+                    [
+                        "Python",
+                        0.6800566375917311
+                    ],
+                    [
+                        "F",
+                        0.7203667505069117
+                    ],
+                    [
+                        "srini devada",
+                        0.8851198775401077
+                    ],
+                    [
+                        "code",
+                        0.9141205379884552
+                    ],
+                    [
+                        "end",
+                        0.9172840863305066
+                    ],
+                    [
+                        "person",
+                        0.9172840863305066
+                    ]
+                ]
+            }
+        },
+        "14UlXIZzwE4-2160": {
+            "id": "14UlXIZzwE4-2160",
+            "heat": 0.1,
+            "start": 2160.0,
+            "text": " happen if I had two F's or three F's in the beginning? So I'm going to go ahead, and first thing I'm going to do is I'm going to put an F at the end here, and then maybe there's a bunch of stuff. But then the nice thing is that I'll skip this F, too, because the not equal to is not going to fire. The next line, the \"caps i not equal to i minus 1,\" this is going to be equal to. So I'm going to go ahead and go to the next iteration of the loop. That makes sense? Did people understand Fadi's question? It was a good question. So the question was, you skipped the first one. But what is making you skip this one because you want to skip the first interval? And so that if statement is making you do that. Good. So as you can see, even a fairly straightforward puzzle-- this is the simplest puzzle we're going to do here is the first one. And there are nuances associated with how you solve it but also how you code it. And this is kind of-- like I said, this was my eureka moment a few years ago, where I said, I think the way you want to teach programming, at least some aspects of programming, is in this fashion. Anyway, good. So we're done with this. Any questions about this puzzle? All right. Good.",
+            "metrics": {
+                "relativeDCReadability": 0.8959591123455465,
+                "lexicalDiversity": 0.45348837209302323,
+                "posComposition": {
+                    "VB": 0.062,
+                    "IN": 0.089,
+                    "PRP": 0.085,
+                    "VBD": 0.027,
+                    "CD": 0.019,
+                    "NNP": 0.035,
+                    "POS": 0.012,
+                    "CC": 0.039,
+                    "DT": 0.116,
+                    "NN": 0.093,
+                    "VBP": 0.054,
+                    "VBG": 0.039,
+                    "TO": 0.05,
+                    "RB": 0.07,
+                    "JJ": 0.062,
+                    "VBZ": 0.047,
+                    "EX": 0.008,
+                    "MD": 0.012,
+                    "``": 0.004,
+                    "NNS": 0.023,
+                    "FW": 0.004,
+                    "''": 0.004,
+                    "WDT": 0.004,
+                    "WP": 0.004,
+                    ":": 0.008,
+                    "JJS": 0.008,
+                    "VBN": 0.008,
+                    "WRB": 0.012,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 2.692,
+                "topicScores": [
+                    [
+                        "F",
+                        0.2183363131849635
+                    ],
+                    [
+                        "good",
+                        0.35251647540416947
+                    ],
+                    [
+                        "question",
+                        0.3679523258119824
+                    ],
+                    [
+                        "equal",
+                        0.4115243124677662
+                    ],
+                    [
+                        "thing",
+                        0.5302742095956091
+                    ],
+                    [
+                        "puzzle",
+                        0.56203037931722
+                    ],
+                    [
+                        "programming",
+                        0.5671409684769827
+                    ],
+                    [
+                        "Fadi",
+                        0.6453739202370544
+                    ],
+                    [
+                        "beginning",
+                        0.8276458166587257
+                    ],
+                    [
+                        "stuff",
+                        0.8537154031168774
+                    ],
+                    [
+                        "end",
+                        0.8719114390446647
+                    ],
+                    [
+                        "bunch",
+                        0.8798173054872547
+                    ],
+                    [
+                        "loop",
+                        0.883869460979243
+                    ],
+                    [
+                        "sense",
+                        0.8887986010528632
+                    ],
+                    [
+                        "nice",
+                        0.8919298065213401
+                    ],
+                    [
+                        "line",
+                        0.8929469423932404
+                    ],
+                    [
+                        "cap",
+                        0.8929469423932404
+                    ],
+                    [
+                        "interval",
+                        0.9006431457046178
+                    ],
+                    [
+                        "iteration",
+                        0.9051884450405038
+                    ],
+                    [
+                        "people",
+                        0.9065521192736623
+                    ],
+                    [
+                        "fashion",
+                        0.9081914795994737
+                    ],
+                    [
+                        "year",
+                        0.9202443913992678
+                    ],
+                    [
+                        "statement",
+                        0.9207501712183251
+                    ],
+                    [
+                        "straightforward",
+                        0.9233556289378594
+                    ],
+                    [
+                        "simple",
+                        0.9233556289378594
+                    ],
+                    [
+                        "nuance",
+                        0.9244441574473082
+                    ],
+                    [
+                        "kind",
+                        0.9254222213561936
+                    ],
+                    [
+                        "of--",
+                        0.9254222213561936
+                    ],
+                    [
+                        "eureka",
+                        0.9254222213561936
+                    ],
+                    [
+                        "moment",
+                        0.9254222213561936
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "F",
+                        0.2183363131849635
+                    ],
+                    [
+                        "good",
+                        0.35251647540416947
+                    ],
+                    [
+                        "thing",
+                        0.5302742095956091
+                    ],
+                    [
+                        "puzzle",
+                        0.56203037931722
+                    ],
+                    [
+                        "end",
+                        0.8719114390446647
+                    ],
+                    [
+                        "line",
+                        0.8929469423932404
+                    ],
+                    [
+                        "cap",
+                        0.8929469423932404
+                    ],
+                    [
+                        "interval",
+                        0.9006431457046178
+                    ],
+                    [
+                        "people",
+                        0.9065521192736623
+                    ]
+                ]
+            }
+        }
+    }
+}

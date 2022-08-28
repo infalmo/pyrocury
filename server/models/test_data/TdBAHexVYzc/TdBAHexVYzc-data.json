@@ -1,0 +1,2359 @@
+{
+    "metadata": {
+        "id": "TdBAHexVYzc",
+        "avgHeat": 0.32,
+        "runtime": 952.809,
+        "dale-challReadabilityScore": 9.137583387114722,
+        "lexicalDiversity": 0.5004170141784821,
+        "posComposition": {
+            "DT": 0.116,
+            "JJ": 0.071,
+            "NNS": 0.068,
+            "RB": 0.051,
+            "IN": 0.136,
+            "PRP$": 0.009,
+            "NN": 0.133,
+            "NNP": 0.043,
+            "PRP": 0.056,
+            "VBD": 0.011,
+            "VBG": 0.018,
+            "VBZ": 0.033,
+            "VBN": 0.023,
+            "TO": 0.038,
+            "VB": 0.058,
+            "WDT": 0.01,
+            "MD": 0.019,
+            "WRB": 0.008,
+            "VBP": 0.037,
+            "CC": 0.037,
+            ":": 0.005,
+            "RP": 0.003,
+            "WP": 0.003,
+            "CD": 0.003,
+            "JJS": 0.001,
+            "JJR": 0.002,
+            "POS": 0.001,
+            "EX": 0.003,
+            "``": 0.001,
+            "''": 0.001,
+            "PDT": 0.001,
+            "NNPS": 0.0
+        },
+        "syllableRate": 4.004,
+        "topicScores": [
+            [
+                "CRISPR",
+                0.06340409898926595
+            ],
+            [
+                "dna",
+                0.06404972110805349
+            ],
+            [
+                "CRISPR technology",
+                0.06544733377114359
+            ],
+            [
+                "viral dna",
+                0.14765595964537803
+            ],
+            [
+                "cell",
+                0.15047878259121572
+            ],
+            [
+                "cas9",
+                0.16842388401339395
+            ],
+            [
+                "Emmanuelle Charpentier",
+                0.17277933990212666
+            ],
+            [
+                "CRISPR system",
+                0.17730345054585156
+            ],
+            [
+                "RNA",
+                0.2049449930576311
+            ],
+            [
+                "break",
+                0.2089717656615645
+            ],
+            [
+                "change",
+                0.2149091137840602
+            ],
+            [
+                "genome",
+                0.22742370603811832
+            ],
+            [
+                "colleague",
+                0.2309893492445036
+            ],
+            [
+                "human",
+                0.2318350861593855
+            ],
+            [
+                "JD",
+                0.24463641726606583
+            ],
+            [
+                "CRISPR locus",
+                0.24831850688770538
+            ],
+            [
+                "bit",
+                0.25357996711969333
+            ],
+            [
+                "way",
+                0.25629839739802723
+            ],
+            [
+                "scientist",
+                0.27881862932739476
+            ],
+            [
+                "virus",
+                0.29757615658698194
+            ],
+            [
+                "engineering",
+                0.30029855630144775
+            ],
+            [
+                "site",
+                0.301617473382184
+            ],
+            [
+                "little",
+                0.302012176300719
+            ],
+            [
+                "sequence",
+                0.3025430334078333
+            ],
+            [
+                "new",
+                0.30310874961270556
+            ],
+            [
+                "repair",
+                0.3031618064514578
+            ],
+            [
+                "genetic",
+                0.30330684103770106
+            ],
+            [
+                "BG",
+                0.30516498111584717
+            ],
+            [
+                "animal",
+                0.3069405087199546
+            ],
+            [
+                "application",
+                0.3332194134559535
+            ]
+        ],
+        "topicsList": [
+            "CRISPR",
+            "dna",
+            "CRISPR technology",
+            "viral dna",
+            "cell",
+            "cas9",
+            "Emmanuelle Charpentier",
+            "CRISPR system",
+            "RNA",
+            "break",
+            "change",
+            "genome",
+            "colleague",
+            "human",
+            "JD",
+            "CRISPR locus",
+            "bit",
+            "way",
+            "scientist",
+            "virus",
+            "engineering",
+            "site",
+            "little",
+            "sequence",
+            "new",
+            "repair",
+            "genetic",
+            "BG",
+            "animal",
+            "application"
+        ]
+    },
+    "chunks": {
+        "TdBAHexVYzc-0": {
+            "id": "TdBAHexVYzc-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " A few years ago, with my colleague, Emmanuelle Charpentier, I invented a new technology for editing genomes. It's called CRISPR-Cas9. The CRISPR technology allows scientists to make changes to the DNA in cells that could allow us to cure genetic disease. You might be interested to know that the CRISPR technology came about through a basic research project that was aimed at discovering how bacteria fight viral infections. Bacteria have to deal with viruses in their environment, and we can think about a viral infection like a ticking time bomb -- a bacterium has only a few minutes to defuse the bomb before it gets destroyed. So, many bacteria have in their cells an adaptive immune system called CRISPR, that allows them to detect viral DNA and destroy it. Part of the CRISPR system is a protein called Cas9, that's able to seek out, cut and eventually degrade viral DNA in a specific way. And it was through our research to understand the activity of this protein, Cas9, that we realized that we could harness its function as a genetic engineering technology -- a way for scientists to delete or insert specific bits of DNA into cells",
+            "metrics": {
+                "relativeDCReadability": 1.0995999087411348,
+                "lexicalDiversity": 0.5527638190954773,
+                "posComposition": {
+                    "DT": 0.095,
+                    "JJ": 0.095,
+                    "NNS": 0.07,
+                    "RB": 0.025,
+                    "IN": 0.111,
+                    "PRP$": 0.025,
+                    "NN": 0.146,
+                    "NNP": 0.06,
+                    "PRP": 0.055,
+                    "VBD": 0.025,
+                    "VBG": 0.01,
+                    "VBZ": 0.035,
+                    "VBN": 0.025,
+                    "TO": 0.05,
+                    "VB": 0.075,
+                    "WDT": 0.02,
+                    "MD": 0.02,
+                    "WRB": 0.005,
+                    "VBP": 0.01,
+                    "CC": 0.025,
+                    ":": 0.01,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.7,
+                "topicScores": [
+                    [
+                        "Emmanuelle Charpentier",
+                        0.19732358224135377
+                    ],
+                    [
+                        "CRISPR",
+                        0.2330042072041522
+                    ],
+                    [
+                        "cas9",
+                        0.26868953782683075
+                    ],
+                    [
+                        "dna",
+                        0.28004968814194103
+                    ],
+                    [
+                        "technology",
+                        0.37021070984204735
+                    ],
+                    [
+                        "viral",
+                        0.3755751327957284
+                    ],
+                    [
+                        "cell",
+                        0.42370641206461895
+                    ],
+                    [
+                        "infection",
+                        0.526956621048162
+                    ],
+                    [
+                        "way",
+                        0.5309784501892028
+                    ],
+                    [
+                        "protein",
+                        0.5471927176189213
+                    ],
+                    [
+                        "scientist",
+                        0.5481092873547108
+                    ],
+                    [
+                        "bacteria",
+                        0.5490246964228325
+                    ],
+                    [
+                        "genetic",
+                        0.5513617114205916
+                    ],
+                    [
+                        "specific",
+                        0.557988336668949
+                    ],
+                    [
+                        "research",
+                        0.5592126275771417
+                    ],
+                    [
+                        "bomb",
+                        0.5592364419856748
+                    ],
+                    [
+                        "system",
+                        0.5608376806642524
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.6773604793387804
+                    ],
+                    [
+                        "genome",
+                        0.7077983856628877
+                    ],
+                    [
+                        "year",
+                        0.7598355348622936
+                    ],
+                    [
+                        "colleague",
+                        0.7598355348622936
+                    ],
+                    [
+                        "new",
+                        0.7812605299174039
+                    ],
+                    [
+                        "disease",
+                        0.8158564772057685
+                    ],
+                    [
+                        "viral dna",
+                        0.8263867221554568
+                    ],
+                    [
+                        "change",
+                        0.8672471664728598
+                    ],
+                    [
+                        "environment",
+                        0.8764054532793456
+                    ],
+                    [
+                        "time",
+                        0.8764054532793456
+                    ],
+                    [
+                        "bacterium",
+                        0.8764054532793456
+                    ],
+                    [
+                        "interested",
+                        0.8804544007326698
+                    ],
+                    [
+                        "basic",
+                        0.8804544007326698
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "Emmanuelle Charpentier",
+                        0.19732358224135377
+                    ],
+                    [
+                        "CRISPR",
+                        0.2330042072041522
+                    ],
+                    [
+                        "cas9",
+                        0.26868953782683075
+                    ],
+                    [
+                        "dna",
+                        0.28004968814194103
+                    ],
+                    [
+                        "cell",
+                        0.42370641206461895
+                    ],
+                    [
+                        "way",
+                        0.5309784501892028
+                    ],
+                    [
+                        "scientist",
+                        0.5481092873547108
+                    ],
+                    [
+                        "genetic",
+                        0.5513617114205916
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.6773604793387804
+                    ],
+                    [
+                        "genome",
+                        0.7077983856628877
+                    ],
+                    [
+                        "colleague",
+                        0.7598355348622936
+                    ],
+                    [
+                        "new",
+                        0.7812605299174039
+                    ],
+                    [
+                        "viral dna",
+                        0.8263867221554568
+                    ],
+                    [
+                        "change",
+                        0.8672471664728598
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-90": {
+            "id": "TdBAHexVYzc-90",
+            "heat": 0.535,
+            "start": 90.0,
+            "text": " with incredible precision -- that would offer opportunities to do things that really haven't been possible in the past. The CRISPR technology has already been used to change the DNA in the cells of mice and monkeys, other organisms as well. Chinese scientists showed recently that they could even use the CRISPR technology to change genes in human embryos. And scientists in Philadelphia showed they could use CRISPR to remove the DNA of an integrated HIV virus from infected human cells. The opportunity to do this kind of genome editing also raises various ethical issues that we have to consider, because this technology can be employed not only in adult cells, but also in the embryos of organisms, including our own species. And so, together with my colleagues, I've called for a global conversation about the technology that I co-invented, so that we can consider all of the ethical and societal implications of a technology like this. What I want to do now is tell you what the CRISPR technology is, what it can do, where we are today and why I think we need to take a prudent path forward in the way that we employ this technology. When viruses infect a cell, they inject their DNA. And in a bacterium,",
+            "metrics": {
+                "relativeDCReadability": 1.008423926131328,
+                "lexicalDiversity": 0.4766355140186916,
+                "posComposition": {
+                    "IN": 0.126,
+                    "JJ": 0.065,
+                    "NN": 0.126,
+                    ":": 0.005,
+                    "WDT": 0.009,
+                    "MD": 0.028,
+                    "VB": 0.075,
+                    "NNS": 0.07,
+                    "TO": 0.037,
+                    "RB": 0.065,
+                    "VBP": 0.047,
+                    "VBN": 0.033,
+                    "DT": 0.107,
+                    "NNP": 0.028,
+                    "VBZ": 0.019,
+                    "CC": 0.033,
+                    "VBD": 0.014,
+                    "PRP": 0.065,
+                    "VBG": 0.005,
+                    "PRP$": 0.014,
+                    "WP": 0.014,
+                    "WRB": 0.014
+                },
+                "syllableRate": 2.9,
+                "topicScores": [
+                    [
+                        "CRISPR",
+                        0.2337052110011274
+                    ],
+                    [
+                        "technology",
+                        0.2887017431700674
+                    ],
+                    [
+                        "dna",
+                        0.30483664802519894
+                    ],
+                    [
+                        "cell",
+                        0.36727759078046646
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.443376897182833
+                    ],
+                    [
+                        "opportunity",
+                        0.5082146050378521
+                    ],
+                    [
+                        "embryo",
+                        0.5240895677269821
+                    ],
+                    [
+                        "organism",
+                        0.5316231802300997
+                    ],
+                    [
+                        "scientist",
+                        0.5316231802300997
+                    ],
+                    [
+                        "human",
+                        0.5316231802300997
+                    ],
+                    [
+                        "virus",
+                        0.5534471286953296
+                    ],
+                    [
+                        "ethical",
+                        0.5571736756514567
+                    ],
+                    [
+                        "Philadelphia",
+                        0.6177505656293427
+                    ],
+                    [
+                        "HIV",
+                        0.6177505656293427
+                    ],
+                    [
+                        "past",
+                        0.7180912714275732
+                    ],
+                    [
+                        "incredible",
+                        0.7434714423669272
+                    ],
+                    [
+                        "precision",
+                        0.7659065203362689
+                    ],
+                    [
+                        "thing",
+                        0.7857771555219926
+                    ],
+                    [
+                        "possible",
+                        0.7857771555219926
+                    ],
+                    [
+                        "chinese",
+                        0.8232932738937248
+                    ],
+                    [
+                        "monkey",
+                        0.831197381964809
+                    ],
+                    [
+                        "mouse",
+                        0.8466356567749774
+                    ],
+                    [
+                        "specie",
+                        0.8509482401326038
+                    ],
+                    [
+                        "gene",
+                        0.8702830973992102
+                    ],
+                    [
+                        "bacterium",
+                        0.8728421372943731
+                    ],
+                    [
+                        "adult",
+                        0.8799951210098331
+                    ],
+                    [
+                        "infected",
+                        0.8832289627282995
+                    ],
+                    [
+                        "colleague",
+                        0.8864214600550054
+                    ],
+                    [
+                        "kind",
+                        0.8915527562629315
+                    ],
+                    [
+                        "genome",
+                        0.8915527562629315
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "CRISPR",
+                        0.2337052110011274
+                    ],
+                    [
+                        "dna",
+                        0.30483664802519894
+                    ],
+                    [
+                        "cell",
+                        0.36727759078046646
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.443376897182833
+                    ],
+                    [
+                        "scientist",
+                        0.5316231802300997
+                    ],
+                    [
+                        "human",
+                        0.5316231802300997
+                    ],
+                    [
+                        "virus",
+                        0.5534471286953296
+                    ],
+                    [
+                        "colleague",
+                        0.8864214600550054
+                    ],
+                    [
+                        "genome",
+                        0.8915527562629315
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-180": {
+            "id": "TdBAHexVYzc-180",
+            "heat": 0.681,
+            "start": 180.0,
+            "text": " the CRISPR system allows that DNA to be plucked out of the virus, and inserted in little bits into the chromosome -- the DNA of the bacterium. And these integrated bits of viral DNA get inserted at a site called CRISPR. CRISPR stands for clustered regularly interspaced short palindromic repeats. (Laughter) A big mouthful -- you can see why we use the acronym CRISPR. It's a mechanism that allows cells to record, over time, the viruses they have been exposed to. And importantly, those bits of DNA are passed on to the cells' progeny, so cells are protected from viruses not only in one generation, but over many generations of cells. This allows the cells to keep a record of infection, and as my colleague, Blake Wiedenheft, likes to say, the CRISPR locus is effectively a genetic vaccination card in cells. Once those bits of DNA have been inserted into the bacterial chromosome, the cell then makes a little copy of a molecule called RNA, which is orange in this picture, that is an exact replicate of the viral DNA. RNA is a chemical cousin of DNA, and it allows interaction with DNA molecules that have a matching sequence. So those little bits of RNA from the CRISPR locus associate -- they bind -- to protein called Cas9,",
+            "metrics": {
+                "relativeDCReadability": 1.0129916145980007,
+                "lexicalDiversity": 0.5342465753424658,
+                "posComposition": {
+                    "DT": 0.137,
+                    "NNP": 0.078,
+                    "NN": 0.151,
+                    "VBZ": 0.055,
+                    "IN": 0.128,
+                    "TO": 0.032,
+                    "VB": 0.027,
+                    "VBN": 0.068,
+                    "CC": 0.027,
+                    "JJ": 0.064,
+                    "NNS": 0.073,
+                    ":": 0.018,
+                    "RB": 0.037,
+                    "VBP": 0.041,
+                    "PRP": 0.027,
+                    "MD": 0.005,
+                    "WRB": 0.005,
+                    "WDT": 0.018,
+                    "CD": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.933,
+                "topicScores": [
+                    [
+                        "CRISPR",
+                        0.2003169662408095
+                    ],
+                    [
+                        "DNA",
+                        0.2589454101168616
+                    ],
+                    [
+                        "cell",
+                        0.29262087242208384
+                    ],
+                    [
+                        "bit",
+                        0.3223069385095915
+                    ],
+                    [
+                        "RNA",
+                        0.3272019559950746
+                    ],
+                    [
+                        "virus",
+                        0.42906787826266307
+                    ],
+                    [
+                        "little",
+                        0.43761571047965897
+                    ],
+                    [
+                        "chromosome",
+                        0.5248106806652588
+                    ],
+                    [
+                        "Laughter",
+                        0.5283847786670701
+                    ],
+                    [
+                        "viral",
+                        0.547802180440866
+                    ],
+                    [
+                        "locus",
+                        0.5485764808875643
+                    ],
+                    [
+                        "record",
+                        0.5600657191522163
+                    ],
+                    [
+                        "generation",
+                        0.5681420929425267
+                    ],
+                    [
+                        "molecule",
+                        0.5689505046510646
+                    ],
+                    [
+                        "CRISPR locus",
+                        0.6036640824229231
+                    ],
+                    [
+                        "Blake",
+                        0.6428758753710728
+                    ],
+                    [
+                        "Wiedenheft",
+                        0.6428758753710728
+                    ],
+                    [
+                        "cas9",
+                        0.6449201127131488
+                    ],
+                    [
+                        "Blake Wiedenheft",
+                        0.7044177911373032
+                    ],
+                    [
+                        "bacterium",
+                        0.8139221933395155
+                    ],
+                    [
+                        "system",
+                        0.8561902343946947
+                    ],
+                    [
+                        "repeat",
+                        0.8570026907967018
+                    ],
+                    [
+                        "site",
+                        0.8785757332980885
+                    ],
+                    [
+                        "palindromic",
+                        0.8809373070488099
+                    ],
+                    [
+                        "big",
+                        0.8853800449275445
+                    ],
+                    [
+                        "time",
+                        0.890253029650941
+                    ],
+                    [
+                        "short",
+                        0.8907978339155307
+                    ],
+                    [
+                        "sequence",
+                        0.8919732527737462
+                    ],
+                    [
+                        "progeny",
+                        0.8940811362160438
+                    ],
+                    [
+                        "mouthful",
+                        0.8953863868017456
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "CRISPR",
+                        0.2003169662408095
+                    ],
+                    [
+                        "cell",
+                        0.29262087242208384
+                    ],
+                    [
+                        "bit",
+                        0.3223069385095915
+                    ],
+                    [
+                        "RNA",
+                        0.3272019559950746
+                    ],
+                    [
+                        "virus",
+                        0.42906787826266307
+                    ],
+                    [
+                        "little",
+                        0.43761571047965897
+                    ],
+                    [
+                        "CRISPR locus",
+                        0.6036640824229231
+                    ],
+                    [
+                        "cas9",
+                        0.6449201127131488
+                    ],
+                    [
+                        "site",
+                        0.8785757332980885
+                    ],
+                    [
+                        "sequence",
+                        0.8919732527737462
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-270": {
+            "id": "TdBAHexVYzc-270",
+            "heat": 0.628,
+            "start": 270.0,
+            "text": " which is white in the picture, and form a complex that functions like a sentinel in the cell. It searches through all of the DNA in the cell, to find sites that match the sequences in the bound RNAs. And when those sites are found -- as you can see here, the blue molecule is DNA -- this complex associates with that DNA and allows the Cas9 cleaver to cut up the viral DNA. It makes a very precise break. So we can think of the Cas9 RNA sentinel complex like a pair of scissors that can cut DNA -- it makes a double-stranded break in the DNA helix. And importantly, this complex is programmable, so it can be programmed to recognize particular DNA sequences, and make a break in the DNA at that site. As I'm going to tell you now, we recognized that that activity could be harnessed for genome engineering, to allow cells to make a very precise change to the DNA at the site where this break was introduced. That's sort of analogous to the way that we use a word-processing program to fix a typo in a document. The reason we envisioned using the CRISPR system for genome engineering is because cells have the ability to detect broken DNA and repair it. So when a plant or an animal cell detects a double-stranded break in its DNA,",
+            "metrics": {
+                "relativeDCReadability": 0.9871612959208128,
+                "lexicalDiversity": 0.4829059829059829,
+                "posComposition": {
+                    "WDT": 0.013,
+                    "VBZ": 0.047,
+                    "JJ": 0.064,
+                    "IN": 0.12,
+                    "DT": 0.171,
+                    "NN": 0.179,
+                    "CC": 0.03,
+                    "VB": 0.064,
+                    "NNS": 0.034,
+                    "PRP": 0.051,
+                    "TO": 0.043,
+                    "VBP": 0.021,
+                    "NNP": 0.043,
+                    "WRB": 0.013,
+                    "VBN": 0.017,
+                    ":": 0.013,
+                    "MD": 0.021,
+                    "RB": 0.026,
+                    "RP": 0.004,
+                    "VBG": 0.009,
+                    "VBD": 0.013,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 2.9,
+                "topicScores": [
+                    [
+                        "dna",
+                        0.16578620309539202
+                    ],
+                    [
+                        "break",
+                        0.29298810012889037
+                    ],
+                    [
+                        "cell",
+                        0.317148162522238
+                    ],
+                    [
+                        "complex",
+                        0.35326923934994253
+                    ],
+                    [
+                        "site",
+                        0.35702543929951425
+                    ],
+                    [
+                        "cas9",
+                        0.3647544063800426
+                    ],
+                    [
+                        "double",
+                        0.5160958231447378
+                    ],
+                    [
+                        "precise",
+                        0.519679607407435
+                    ],
+                    [
+                        "genome",
+                        0.5271055389419234
+                    ],
+                    [
+                        "engineering",
+                        0.528216351240194
+                    ],
+                    [
+                        "sentinel",
+                        0.5298060070003826
+                    ],
+                    [
+                        "sequence",
+                        0.5311176600346931
+                    ],
+                    [
+                        "program",
+                        0.5348262907728907
+                    ],
+                    [
+                        "cas9 RNA",
+                        0.5645826224568552
+                    ],
+                    [
+                        "CRISPR",
+                        0.658719828240382
+                    ],
+                    [
+                        "picture",
+                        0.8180202110252981
+                    ],
+                    [
+                        "RNAs",
+                        0.8199572651735216
+                    ],
+                    [
+                        "white",
+                        0.8303501175193619
+                    ],
+                    [
+                        "function",
+                        0.8303501175193619
+                    ],
+                    [
+                        "helix",
+                        0.8558953823597876
+                    ],
+                    [
+                        "blue",
+                        0.8603147680605948
+                    ],
+                    [
+                        "viral",
+                        0.8603147680605948
+                    ],
+                    [
+                        "molecule",
+                        0.8702336273411523
+                    ],
+                    [
+                        "associate",
+                        0.8702336273411523
+                    ],
+                    [
+                        "cleaver",
+                        0.8702336273411523
+                    ],
+                    [
+                        "document",
+                        0.870294179810026
+                    ],
+                    [
+                        "activity",
+                        0.8816681158350729
+                    ],
+                    [
+                        "programmable",
+                        0.8821017424063404
+                    ],
+                    [
+                        "pair",
+                        0.8858133012044794
+                    ],
+                    [
+                        "scissor",
+                        0.8858133012044794
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "dna",
+                        0.16578620309539202
+                    ],
+                    [
+                        "break",
+                        0.29298810012889037
+                    ],
+                    [
+                        "cell",
+                        0.317148162522238
+                    ],
+                    [
+                        "site",
+                        0.35702543929951425
+                    ],
+                    [
+                        "cas9",
+                        0.3647544063800426
+                    ],
+                    [
+                        "genome",
+                        0.5271055389419234
+                    ],
+                    [
+                        "engineering",
+                        0.528216351240194
+                    ],
+                    [
+                        "sequence",
+                        0.5311176600346931
+                    ],
+                    [
+                        "CRISPR",
+                        0.658719828240382
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-360": {
+            "id": "TdBAHexVYzc-360",
+            "heat": 0.563,
+            "start": 360.0,
+            "text": " it can fix that break, either by pasting together the ends of the broken DNA with a little, tiny change in the sequence of that position, or it can repair the break by integrating a new piece of DNA at the site of the cut. So if we have a way to introduce double-stranded breaks into DNA at precise places, we can trigger cells to repair those breaks, by either the disruption or incorporation of new genetic information. So if we were able to program the CRISPR technology to make a break in DNA at the position at or near a mutation causing cystic fibrosis, for example, we could trigger cells to repair that mutation. Genome engineering is actually not new, it's been in development since the 1970s. We've had technologies for sequencing DNA, for copying DNA, and even for manipulating DNA. And these technologies were very promising, but the problem was that they were either inefficient, or they were difficult enough to use that most scientists had not adopted them for use in their own laboratories, or certainly for many clinical applications. So, the opportunity to take a technology like CRISPR and utilize it has appeal,",
+            "metrics": {
+                "relativeDCReadability": 0.9893206490713241,
+                "lexicalDiversity": 0.48743718592964824,
+                "posComposition": {
+                    "PRP": 0.06,
+                    "MD": 0.02,
+                    "VB": 0.055,
+                    "DT": 0.121,
+                    "NN": 0.161,
+                    "CC": 0.06,
+                    "IN": 0.156,
+                    "VBG": 0.03,
+                    "RB": 0.05,
+                    "NNS": 0.055,
+                    "JJ": 0.085,
+                    "VBP": 0.01,
+                    "TO": 0.035,
+                    "VBD": 0.035,
+                    "NNP": 0.025,
+                    "VBZ": 0.015,
+                    "VBN": 0.01,
+                    "CD": 0.005,
+                    "JJS": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.733,
+                "topicScores": [
+                    [
+                        "dna",
+                        0.18692944773049328
+                    ],
+                    [
+                        "break",
+                        0.29522021187814823
+                    ],
+                    [
+                        "technology",
+                        0.3702240526126336
+                    ],
+                    [
+                        "CRISPR",
+                        0.3837696743499006
+                    ],
+                    [
+                        "new",
+                        0.39842637904570144
+                    ],
+                    [
+                        "cell",
+                        0.4734932930059917
+                    ],
+                    [
+                        "position",
+                        0.4788007334769893
+                    ],
+                    [
+                        "sequence",
+                        0.5133713717333479
+                    ],
+                    [
+                        "mutation",
+                        0.5234359512121805
+                    ],
+                    [
+                        "use",
+                        0.5558835054214694
+                    ],
+                    [
+                        "broken dna",
+                        0.6590680449808769
+                    ],
+                    [
+                        "cut",
+                        0.6959222092074632
+                    ],
+                    [
+                        "little",
+                        0.7385943345822792
+                    ],
+                    [
+                        "tiny",
+                        0.7385943345822792
+                    ],
+                    [
+                        "change",
+                        0.7385943345822792
+                    ],
+                    [
+                        "end",
+                        0.7569915153119928
+                    ],
+                    [
+                        "piece",
+                        0.7569915153119928
+                    ],
+                    [
+                        "site",
+                        0.7569915153119928
+                    ],
+                    [
+                        "information",
+                        0.7749981328944052
+                    ],
+                    [
+                        "double",
+                        0.8096092140019064
+                    ],
+                    [
+                        "precise",
+                        0.8096092140019064
+                    ],
+                    [
+                        "place",
+                        0.8096092140019064
+                    ],
+                    [
+                        "genetic",
+                        0.8096092140019064
+                    ],
+                    [
+                        "example",
+                        0.8234496775152212
+                    ],
+                    [
+                        "way",
+                        0.8241981229966339
+                    ],
+                    [
+                        "disruption",
+                        0.8241981229966339
+                    ],
+                    [
+                        "incorporation",
+                        0.8241981229966339
+                    ],
+                    [
+                        "genome",
+                        0.8251544099570758
+                    ],
+                    [
+                        "cystic",
+                        0.8378725273433223
+                    ],
+                    [
+                        "fibrosis",
+                        0.8378725273433223
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "dna",
+                        0.18692944773049328
+                    ],
+                    [
+                        "break",
+                        0.29522021187814823
+                    ],
+                    [
+                        "CRISPR",
+                        0.3837696743499006
+                    ],
+                    [
+                        "new",
+                        0.39842637904570144
+                    ],
+                    [
+                        "cell",
+                        0.4734932930059917
+                    ],
+                    [
+                        "sequence",
+                        0.5133713717333479
+                    ],
+                    [
+                        "little",
+                        0.7385943345822792
+                    ],
+                    [
+                        "change",
+                        0.7385943345822792
+                    ],
+                    [
+                        "site",
+                        0.7569915153119928
+                    ],
+                    [
+                        "genetic",
+                        0.8096092140019064
+                    ],
+                    [
+                        "way",
+                        0.8241981229966339
+                    ],
+                    [
+                        "genome",
+                        0.8251544099570758
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-450": {
+            "id": "TdBAHexVYzc-450",
+            "heat": 0.557,
+            "start": 450.0,
+            "text": " because of its relative simplicity. We can think of older genome engineering technologies as similar to having to rewire your computer each time you want to run a new piece of software, whereas the CRISPR technology is like software for the genome, we can program it easily, using these little bits of RNA. So once a double-stranded break is made in DNA, we can induce repair, and thereby potentially achieve astounding things, like being able to correct mutations that cause sickle cell anemia or cause Huntington's Disease. I actually think that the first applications of the CRISPR technology are going to happen in the blood, where it's relatively easier to deliver this tool into cells, compared to solid tissues. Right now, a lot of the work that's going on applies to animal models of human disease, such as mice. The technology is being used to make very precise changes that allow us to study the way that these changes in the cell's DNA affect either a tissue or, in this case, an entire organism. Now in this example, the CRISPR technology was used to disrupt a gene by making a tiny change in the DNA in a gene that is responsible for the black coat color of these mice. Imagine that these white mice differ from their pigmented litter-mates",
+            "metrics": {
+                "relativeDCReadability": 1.0278897008071,
+                "lexicalDiversity": 0.5426008968609866,
+                "posComposition": {
+                    "IN": 0.135,
+                    "PRP$": 0.013,
+                    "JJ": 0.076,
+                    "NN": 0.166,
+                    "PRP": 0.036,
+                    "MD": 0.013,
+                    "VB": 0.054,
+                    "JJR": 0.004,
+                    "NNS": 0.067,
+                    "TO": 0.049,
+                    "VBG": 0.036,
+                    "DT": 0.126,
+                    "VBP": 0.036,
+                    "NNP": 0.045,
+                    "VBZ": 0.027,
+                    "RB": 0.04,
+                    "VBN": 0.022,
+                    "CC": 0.018,
+                    "WDT": 0.018,
+                    "POS": 0.009,
+                    "WRB": 0.004,
+                    "VBD": 0.004
+                },
+                "syllableRate": 2.95,
+                "topicScores": [
+                    [
+                        "CRISPR",
+                        0.2439297874280789
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.2879734628949781
+                    ],
+                    [
+                        "dna",
+                        0.40487685562763454
+                    ],
+                    [
+                        "mouse",
+                        0.4093233637365166
+                    ],
+                    [
+                        "cell",
+                        0.4216916178546945
+                    ],
+                    [
+                        "change",
+                        0.4273348119071258
+                    ],
+                    [
+                        "RNA",
+                        0.471697813487959
+                    ],
+                    [
+                        "genome",
+                        0.5101888717525797
+                    ],
+                    [
+                        "software",
+                        0.5101888717525797
+                    ],
+                    [
+                        "tissue",
+                        0.517821279562286
+                    ],
+                    [
+                        "Disease",
+                        0.5204087146877433
+                    ],
+                    [
+                        "gene",
+                        0.5494470303757398
+                    ],
+                    [
+                        "Huntington",
+                        0.5739165813161116
+                    ],
+                    [
+                        "simplicity",
+                        0.6836243327192514
+                    ],
+                    [
+                        "relative",
+                        0.7322452969859294
+                    ],
+                    [
+                        "old",
+                        0.8209763415090411
+                    ],
+                    [
+                        "engineering",
+                        0.8209763415090411
+                    ],
+                    [
+                        "similar",
+                        0.8209763415090411
+                    ],
+                    [
+                        "computer",
+                        0.8209763415090411
+                    ],
+                    [
+                        "time",
+                        0.8209763415090411
+                    ],
+                    [
+                        "new",
+                        0.8209763415090411
+                    ],
+                    [
+                        "piece",
+                        0.8209763415090411
+                    ],
+                    [
+                        "little",
+                        0.8209763415090411
+                    ],
+                    [
+                        "bit",
+                        0.8209763415090411
+                    ],
+                    [
+                        "mate",
+                        0.8319467600023711
+                    ],
+                    [
+                        "double",
+                        0.8333908390563414
+                    ],
+                    [
+                        "break",
+                        0.8333908390563414
+                    ],
+                    [
+                        "repair",
+                        0.8333908390563414
+                    ],
+                    [
+                        "astounding",
+                        0.8333908390563414
+                    ],
+                    [
+                        "thing",
+                        0.8333908390563414
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "CRISPR",
+                        0.2439297874280789
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.2879734628949781
+                    ],
+                    [
+                        "dna",
+                        0.40487685562763454
+                    ],
+                    [
+                        "cell",
+                        0.4216916178546945
+                    ],
+                    [
+                        "change",
+                        0.4273348119071258
+                    ],
+                    [
+                        "RNA",
+                        0.471697813487959
+                    ],
+                    [
+                        "genome",
+                        0.5101888717525797
+                    ],
+                    [
+                        "engineering",
+                        0.8209763415090411
+                    ],
+                    [
+                        "new",
+                        0.8209763415090411
+                    ],
+                    [
+                        "little",
+                        0.8209763415090411
+                    ],
+                    [
+                        "bit",
+                        0.8209763415090411
+                    ],
+                    [
+                        "break",
+                        0.8333908390563414
+                    ],
+                    [
+                        "repair",
+                        0.8333908390563414
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-540": {
+            "id": "TdBAHexVYzc-540",
+            "heat": 0.611,
+            "start": 540.0,
+            "text": " by just a tiny change at one gene in the entire genome, and they're otherwise completely normal. And when we sequence the DNA from these animals, we find that the change in the DNA has occurred at exactly the place where we induced it, using the CRISPR technology. Additional experiments are going on in other animals that are useful for creating models for human disease, such as monkeys. And here we find that we can use these systems to test the application of this technology in particular tissues, for example, figuring out how to deliver the CRISPR tool into cells. We also want to understand better how to control the way that DNA is repaired after it's cut, and also to figure out how to control and limit any kind of off-target, or unintended effects of using the technology. I think that we will see clinical application of this technology, certainly in adults, within the next 10 years. I think that it's likely that we will see clinical trials and possibly even approved therapies within that time, which is a very exciting thing to think about. And because of the excitement around this technology, there's a lot of interest in start-up companies that have been founded to commercialize the CRISPR technology, and lots of venture capitalists that have been investing in these companies.",
+            "metrics": {
+                "relativeDCReadability": 0.9909741542144329,
+                "lexicalDiversity": 0.4845814977973568,
+                "posComposition": {
+                    "IN": 0.159,
+                    "RB": 0.048,
+                    "DT": 0.106,
+                    "JJ": 0.066,
+                    "NN": 0.123,
+                    "CD": 0.009,
+                    "CC": 0.04,
+                    "PRP": 0.062,
+                    "VBP": 0.048,
+                    "WRB": 0.022,
+                    "NNS": 0.075,
+                    "VBZ": 0.026,
+                    "VBN": 0.026,
+                    "VBD": 0.004,
+                    "VBG": 0.026,
+                    "NNP": 0.022,
+                    "WDT": 0.018,
+                    "MD": 0.013,
+                    "VB": 0.053,
+                    "TO": 0.035,
+                    "RP": 0.009,
+                    "JJR": 0.004,
+                    "EX": 0.004
+                },
+                "syllableRate": 3.033,
+                "topicScores": [
+                    [
+                        "CRISPR",
+                        0.27572256096998216
+                    ],
+                    [
+                        "technology",
+                        0.2844696918064095
+                    ],
+                    [
+                        "dna",
+                        0.3272911022458499
+                    ],
+                    [
+                        "change",
+                        0.49397085025566284
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.4965119772389319
+                    ],
+                    [
+                        "animal",
+                        0.5130147325679789
+                    ],
+                    [
+                        "application",
+                        0.5234679570100952
+                    ],
+                    [
+                        "clinical",
+                        0.5310993248090656
+                    ],
+                    [
+                        "company",
+                        0.5480106486480671
+                    ],
+                    [
+                        "lot",
+                        0.5511944311916698
+                    ],
+                    [
+                        "normal",
+                        0.6968908391889216
+                    ],
+                    [
+                        "entire",
+                        0.7442357720968161
+                    ],
+                    [
+                        "genome",
+                        0.7442357720968161
+                    ],
+                    [
+                        "tiny",
+                        0.7642704039576665
+                    ],
+                    [
+                        "gene",
+                        0.7642704039576665
+                    ],
+                    [
+                        "additional",
+                        0.8078877824169619
+                    ],
+                    [
+                        "monkey",
+                        0.8078877824169619
+                    ],
+                    [
+                        "cell",
+                        0.825814412473671
+                    ],
+                    [
+                        "place",
+                        0.8299162576222975
+                    ],
+                    [
+                        "human",
+                        0.8418302502627628
+                    ],
+                    [
+                        "disease",
+                        0.8418302502627628
+                    ],
+                    [
+                        "experiment",
+                        0.8418302502627629
+                    ],
+                    [
+                        "example",
+                        0.8425729386241383
+                    ],
+                    [
+                        "year",
+                        0.84578195568871
+                    ],
+                    [
+                        "target",
+                        0.8533135034658709
+                    ],
+                    [
+                        "useful",
+                        0.8557023003788812
+                    ],
+                    [
+                        "model",
+                        0.8557023003788812
+                    ],
+                    [
+                        "particular",
+                        0.8571496336220332
+                    ],
+                    [
+                        "tissue",
+                        0.8571496336220332
+                    ],
+                    [
+                        "unintended",
+                        0.86705261414422
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "CRISPR",
+                        0.27572256096998216
+                    ],
+                    [
+                        "dna",
+                        0.3272911022458499
+                    ],
+                    [
+                        "change",
+                        0.49397085025566284
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.4965119772389319
+                    ],
+                    [
+                        "animal",
+                        0.5130147325679789
+                    ],
+                    [
+                        "application",
+                        0.5234679570100952
+                    ],
+                    [
+                        "genome",
+                        0.7442357720968161
+                    ],
+                    [
+                        "cell",
+                        0.825814412473671
+                    ],
+                    [
+                        "human",
+                        0.8418302502627628
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-630": {
+            "id": "TdBAHexVYzc-630",
+            "heat": 0.534,
+            "start": 630.0,
+            "text": " But we have to also consider that the CRISPR technology can be used for things like enhancement. Imagine that we could try to engineer humans that have enhanced properties, such as stronger bones, or less susceptibility to cardiovascular disease or even to have properties that we would consider maybe to be desirable, like a different eye color or to be taller, things like that. \"Designer humans,\" if you will. Right now, the genetic information to understand what types of genes would give rise to these traits is mostly not known. But it's important to know that the CRISPR technology gives us a tool to make such changes, once that knowledge becomes available. This raises a number of ethical questions that we have to carefully consider, and this is why I and my colleagues have called for a global pause in any clinical application of the CRISPR technology in human embryos, to give us time to really consider all of the various implications of doing so. And actually, there is an important precedent for such a pause from the 1970s, when scientists got together to call for a moratorium on the use of molecular cloning, until the safety of that technology could be tested carefully and validated. So, genome-engineered humans are not with us yet,",
+            "metrics": {
+                "relativeDCReadability": 0.9845384135741955,
+                "lexicalDiversity": 0.5023041474654378,
+                "posComposition": {
+                    "CC": 0.041,
+                    "PRP": 0.046,
+                    "VBP": 0.023,
+                    "TO": 0.065,
+                    "RB": 0.074,
+                    "VB": 0.088,
+                    "IN": 0.129,
+                    "DT": 0.101,
+                    "NNP": 0.023,
+                    "NN": 0.106,
+                    "MD": 0.028,
+                    "VBN": 0.023,
+                    "NNS": 0.074,
+                    "JJ": 0.078,
+                    "WDT": 0.005,
+                    "JJR": 0.009,
+                    "``": 0.005,
+                    "''": 0.005,
+                    "WP": 0.005,
+                    "VBZ": 0.032,
+                    "WRB": 0.009,
+                    "PRP$": 0.005,
+                    "VBG": 0.005,
+                    "EX": 0.005,
+                    "PDT": 0.005,
+                    "CD": 0.005,
+                    "VBD": 0.009
+                },
+                "syllableRate": 2.9,
+                "topicScores": [
+                    [
+                        "CRISPR",
+                        0.2598628998440995
+                    ],
+                    [
+                        "technology",
+                        0.34712885546894473
+                    ],
+                    [
+                        "human",
+                        0.3506995001974501
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.3604419560593291
+                    ],
+                    [
+                        "thing",
+                        0.4683693211450861
+                    ],
+                    [
+                        "property",
+                        0.503938115126994
+                    ],
+                    [
+                        "designer",
+                        0.504286922468995
+                    ],
+                    [
+                        "important",
+                        0.5383215429881951
+                    ],
+                    [
+                        "pause",
+                        0.5403432897042553
+                    ],
+                    [
+                        "designer human",
+                        0.6967568046788396
+                    ],
+                    [
+                        "enhancement",
+                        0.7011850888412879
+                    ],
+                    [
+                        "strong",
+                        0.8152055849652895
+                    ],
+                    [
+                        "bone",
+                        0.8152055849652895
+                    ],
+                    [
+                        "desirable",
+                        0.8152055849652895
+                    ],
+                    [
+                        "tall",
+                        0.8152055849652895
+                    ],
+                    [
+                        "susceptibility",
+                        0.8301630100278915
+                    ],
+                    [
+                        "cardiovascular",
+                        0.8301630100278915
+                    ],
+                    [
+                        "disease",
+                        0.8301630100278915
+                    ],
+                    [
+                        "different",
+                        0.8301630100278915
+                    ],
+                    [
+                        "eye",
+                        0.8301630100278915
+                    ],
+                    [
+                        "color",
+                        0.8301630100278915
+                    ],
+                    [
+                        "available",
+                        0.8402369144120415
+                    ],
+                    [
+                        "genetic",
+                        0.858040776641707
+                    ],
+                    [
+                        "change",
+                        0.8678915009454369
+                    ],
+                    [
+                        "information",
+                        0.8700836252217993
+                    ],
+                    [
+                        "type",
+                        0.8700836252217993
+                    ],
+                    [
+                        "trait",
+                        0.8700836252217993
+                    ],
+                    [
+                        "genome",
+                        0.8727339300559946
+                    ],
+                    [
+                        "embryo",
+                        0.8748738355401671
+                    ],
+                    [
+                        "tool",
+                        0.8792163158590985
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "CRISPR",
+                        0.2598628998440995
+                    ],
+                    [
+                        "human",
+                        0.3506995001974501
+                    ],
+                    [
+                        "CRISPR technology",
+                        0.3604419560593291
+                    ],
+                    [
+                        "genetic",
+                        0.858040776641707
+                    ],
+                    [
+                        "change",
+                        0.8678915009454369
+                    ],
+                    [
+                        "genome",
+                        0.8727339300559946
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-720": {
+            "id": "TdBAHexVYzc-720",
+            "heat": 0.441,
+            "start": 720.0,
+            "text": " but this is no longer science fiction. Genome-engineered animals and plants are happening right now. And this puts in front of all of us a huge responsibility, to consider carefully both the unintended consequences as well as the intended impacts of a scientific breakthrough. Thank you. (Applause) (Applause ends) Bruno Giussani: Jennifer, this is a technology with huge consequences, as you pointed out. Your attitude about asking for a pause or a moratorium or a quarantine is incredibly responsible. There are, of course, the therapeutic results of this, but then there are the un-therapeutic ones and they seem to be the ones gaining traction, particularly in the media. This is one of the latest issues of The Economist -- \"Editing humanity.\" It's all about genetic enhancement, it's not about therapeutics. What kind of reactions did you get back in March from your colleagues in the science world, when you asked or suggested that we should actually pause this for a moment and think about it? Jennifer Doudna: My colleagues were actually, I think, delighted to have the opportunity to discuss this openly. It's interesting that as I talk to people, my scientific colleagues as well as others, there's a wide variety of viewpoints about this. So clearly it's a topic that needs careful consideration and discussion. BG: There's a big meeting happening in December",
+            "metrics": {
+                "relativeDCReadability": 0.9978887767890637,
+                "lexicalDiversity": 0.4870689655172414,
+                "posComposition": {
+                    "CC": 0.043,
+                    "DT": 0.134,
+                    "VBZ": 0.056,
+                    "RB": 0.069,
+                    "JJR": 0.004,
+                    "VB": 0.03,
+                    "NN": 0.099,
+                    "NNP": 0.056,
+                    "NNS": 0.082,
+                    "VBP": 0.034,
+                    "VBG": 0.022,
+                    "IN": 0.129,
+                    "PRP": 0.06,
+                    "JJ": 0.06,
+                    "TO": 0.022,
+                    "VBD": 0.022,
+                    "RP": 0.004,
+                    "PRP$": 0.013,
+                    "EX": 0.017,
+                    "CD": 0.004,
+                    "JJS": 0.004,
+                    ":": 0.004,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "WP": 0.004,
+                    "WRB": 0.004,
+                    "MD": 0.004,
+                    "VBN": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 3.225,
+                "topicScores": [
+                    [
+                        "therapeutic",
+                        0.4305200213604988
+                    ],
+                    [
+                        "colleague",
+                        0.4373178636501898
+                    ],
+                    [
+                        "Jennifer",
+                        0.4391228564898205
+                    ],
+                    [
+                        "Applause",
+                        0.5193017130461269
+                    ],
+                    [
+                        "consequence",
+                        0.5254618912554637
+                    ],
+                    [
+                        "huge",
+                        0.5301251198244396
+                    ],
+                    [
+                        "science",
+                        0.5383614762558447
+                    ],
+                    [
+                        "scientific",
+                        0.5451525077824744
+                    ],
+                    [
+                        "pause",
+                        0.5581029595480618
+                    ],
+                    [
+                        "Giussani",
+                        0.6071843268931436
+                    ],
+                    [
+                        "Economist",
+                        0.6202660651704325
+                    ],
+                    [
+                        "BG",
+                        0.6331205848283232
+                    ],
+                    [
+                        "December",
+                        0.6494887545712179
+                    ],
+                    [
+                        "Doudna",
+                        0.6529028354085543
+                    ],
+                    [
+                        "March",
+                        0.6753596163550755
+                    ],
+                    [
+                        "fiction",
+                        0.7165402782894451
+                    ],
+                    [
+                        "Genome",
+                        0.7723881053700318
+                    ],
+                    [
+                        "long",
+                        0.7748086800603597
+                    ],
+                    [
+                        "breakthrough",
+                        0.8221777482845726
+                    ],
+                    [
+                        "animal",
+                        0.8244630910951516
+                    ],
+                    [
+                        "Jennifer Doudna",
+                        0.8328982359876063
+                    ],
+                    [
+                        "plant",
+                        0.8381413551565796
+                    ],
+                    [
+                        "Bruno",
+                        0.8432228540649859
+                    ],
+                    [
+                        "responsibility",
+                        0.8509273744200498
+                    ],
+                    [
+                        "humanity",
+                        0.8586788054623475
+                    ],
+                    [
+                        "unintended",
+                        0.8628864278450448
+                    ],
+                    [
+                        "impact",
+                        0.8628864278450448
+                    ],
+                    [
+                        "responsible",
+                        0.8636162578773656
+                    ],
+                    [
+                        "medium",
+                        0.8682359701100659
+                    ],
+                    [
+                        "course",
+                        0.8801219292545087
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "colleague",
+                        0.4373178636501898
+                    ],
+                    [
+                        "BG",
+                        0.6331205848283232
+                    ],
+                    [
+                        "animal",
+                        0.8244630910951516
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-810": {
+            "id": "TdBAHexVYzc-810",
+            "heat": 0.41,
+            "start": 810.0,
+            "text": " that you and your colleagues are calling, together with the National Academy of Sciences and others, what do you hope will come out of the meeting, practically? JD: Well, I hope that we can air the views of many different individuals and stakeholders who want to think about how to use this technology responsibly. It may not be possible to come up with a consensus point of view, but I think we should at least understand what all the issues are as we go forward. BG: Now, colleagues of yours, like George Church, for example, at Harvard, they say, \"Yeah, ethical issues basically are just a question of safety. We test and test and test again, in animals and in labs, and then once we feel it's safe enough, we move on to humans.\" So that's kind of the other school of thought, that we should actually use this opportunity and really go for it. Is there a possible split happening in the science community about this? I mean, are we going to see some people holding back because they have ethical concerns, and some others just going forward because some countries under-regulate or don't regulate at all? JD: Well, I think with any new technology, especially something like this, there are going to be a variety of viewpoints, and I think that's perfectly understandable. I think that in the end, this technology will be used for human genome engineering, but I think to do that without careful consideration and discussion of the risks and potential complications would not be responsible. BG: There are a lot of technologies and other fields of science that are developing exponentially, pretty much like yours.",
+            "metrics": {
+                "relativeDCReadability": 0.9257947331408976,
+                "lexicalDiversity": 0.47038327526132406,
+                "posComposition": {
+                    "IN": 0.146,
+                    "PRP": 0.077,
+                    "CC": 0.056,
+                    "PRP$": 0.003,
+                    "NNS": 0.077,
+                    "VBP": 0.08,
+                    "VBG": 0.024,
+                    "RB": 0.077,
+                    "DT": 0.091,
+                    "NNP": 0.038,
+                    "NNPS": 0.003,
+                    "WP": 0.01,
+                    "VB": 0.056,
+                    "MD": 0.024,
+                    "NN": 0.098,
+                    "JJ": 0.063,
+                    "TO": 0.024,
+                    "WRB": 0.003,
+                    "VBZ": 0.017,
+                    "RP": 0.003,
+                    "JJS": 0.003,
+                    "PDT": 0.003,
+                    "``": 0.003,
+                    "''": 0.003,
+                    "EX": 0.007,
+                    "VBN": 0.003,
+                    "WDT": 0.003
+                },
+                "syllableRate": 3.617,
+                "topicScores": [
+                    [
+                        "JD",
+                        0.3089954445418639
+                    ],
+                    [
+                        "National Academy",
+                        0.33067872327804776
+                    ],
+                    [
+                        "technology",
+                        0.3538707011289801
+                    ],
+                    [
+                        "Sciences",
+                        0.4985015576496825
+                    ],
+                    [
+                        "George Church",
+                        0.5130784076078884
+                    ],
+                    [
+                        "colleague",
+                        0.5138075280625318
+                    ],
+                    [
+                        "view",
+                        0.5138075280625318
+                    ],
+                    [
+                        "issue",
+                        0.5151097116538063
+                    ],
+                    [
+                        "ethical",
+                        0.5310347644870773
+                    ],
+                    [
+                        "human",
+                        0.53574329400067
+                    ],
+                    [
+                        "possible",
+                        0.5361545341083872
+                    ],
+                    [
+                        "regulate",
+                        0.5520704977573375
+                    ],
+                    [
+                        "BG",
+                        0.5560480523725716
+                    ],
+                    [
+                        "Harvard",
+                        0.5773669725481373
+                    ],
+                    [
+                        "meeting",
+                        0.8243439190917381
+                    ],
+                    [
+                        "safety",
+                        0.85891662686142
+                    ],
+                    [
+                        "different",
+                        0.8589564600060023
+                    ],
+                    [
+                        "individual",
+                        0.8589564600060023
+                    ],
+                    [
+                        "stakeholder",
+                        0.8589564600060023
+                    ],
+                    [
+                        "example",
+                        0.8672089929574068
+                    ],
+                    [
+                        "consensus",
+                        0.8728676021045033
+                    ],
+                    [
+                        "point",
+                        0.8728676021045033
+                    ],
+                    [
+                        "animal",
+                        0.8814904448882476
+                    ],
+                    [
+                        "lab",
+                        0.8814904448882476
+                    ],
+                    [
+                        "question",
+                        0.8818311676242586
+                    ],
+                    [
+                        "understandable",
+                        0.8827675532789249
+                    ],
+                    [
+                        "responsible",
+                        0.8852822234984895
+                    ],
+                    [
+                        "thought",
+                        0.8865075960335483
+                    ],
+                    [
+                        "school",
+                        0.8929403313436108
+                    ],
+                    [
+                        "opportunity",
+                        0.8929403313436108
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "JD",
+                        0.3089954445418639
+                    ],
+                    [
+                        "colleague",
+                        0.5138075280625318
+                    ],
+                    [
+                        "human",
+                        0.53574329400067
+                    ],
+                    [
+                        "BG",
+                        0.5560480523725716
+                    ],
+                    [
+                        "animal",
+                        0.8814904448882476
+                    ]
+                ]
+            }
+        },
+        "TdBAHexVYzc-900": {
+            "id": "TdBAHexVYzc-900",
+            "heat": 0.366,
+            "start": 900.0,
+            "text": " I'm thinking about artificial intelligence, autonomous robots and so on. No one seems -- aside from autonomous warfare robots -- nobody seems to have launched a similar discussion in those fields, in calling for a moratorium. Do you think that your discussion may serve as a blueprint for other fields? JD: Well, I think it's hard for scientists to get out of the laboratory. Speaking for myself, it's a little bit uncomfortable to do that. But I do think that being involved in the genesis of this really puts me and my colleagues in a position of responsibility. And I would say that I certainly hope that other technologies will be considered in the same way, just as we would want to consider something that could have implications in other fields besides biology. BG: Jennifer, thanks for coming to TED. JD: Thank you. (Applause)",
+            "metrics": {
+                "relativeDCReadability": 0.922706159641049,
+                "lexicalDiversity": 0.4965986394557823,
+                "posComposition": {
+                    "PRP": 0.082,
+                    "VBP": 0.041,
+                    "VBG": 0.027,
+                    "IN": 0.17,
+                    "JJ": 0.075,
+                    "NN": 0.109,
+                    "NNS": 0.068,
+                    "CC": 0.027,
+                    "RB": 0.034,
+                    "DT": 0.082,
+                    "VBZ": 0.034,
+                    ":": 0.014,
+                    "TO": 0.034,
+                    "VB": 0.075,
+                    "VBN": 0.02,
+                    "PRP$": 0.014,
+                    "MD": 0.034,
+                    "NNP": 0.054,
+                    "WDT": 0.007
+                },
+                "syllableRate": 1.9,
+                "topicScores": [
+                    [
+                        "JD",
+                        0.3650047698792615
+                    ],
+                    [
+                        "field",
+                        0.437087086657186
+                    ],
+                    [
+                        "thank",
+                        0.49591475933456486
+                    ],
+                    [
+                        "robot",
+                        0.5294325721322967
+                    ],
+                    [
+                        "autonomous",
+                        0.5406423897712702
+                    ],
+                    [
+                        "applause",
+                        0.5661509360226895
+                    ],
+                    [
+                        "discussion",
+                        0.5683713429699624
+                    ],
+                    [
+                        "BG",
+                        0.6225050564058191
+                    ],
+                    [
+                        "TED",
+                        0.6501559169364942
+                    ],
+                    [
+                        "Jennifer",
+                        0.6742294546916886
+                    ],
+                    [
+                        "moratorium",
+                        0.8372738767284867
+                    ],
+                    [
+                        "artificial",
+                        0.8553483912300227
+                    ],
+                    [
+                        "intelligence",
+                        0.8553483912300227
+                    ],
+                    [
+                        "laboratory",
+                        0.8631046643811945
+                    ],
+                    [
+                        "responsibility",
+                        0.8757262230135092
+                    ],
+                    [
+                        "warfare",
+                        0.8778462359635658
+                    ],
+                    [
+                        "biology",
+                        0.8799927365931218
+                    ],
+                    [
+                        "similar",
+                        0.8928708453153459
+                    ],
+                    [
+                        "blueprint",
+                        0.9038115878037953
+                    ],
+                    [
+                        "hard",
+                        0.9108163384928273
+                    ],
+                    [
+                        "scientist",
+                        0.9108163384928273
+                    ],
+                    [
+                        "way",
+                        0.9110456390247813
+                    ],
+                    [
+                        "little",
+                        0.9157501981238112
+                    ],
+                    [
+                        "bit",
+                        0.9157501981238112
+                    ],
+                    [
+                        "uncomfortable",
+                        0.9157501981238112
+                    ],
+                    [
+                        "genesis",
+                        0.9194494859071183
+                    ],
+                    [
+                        "colleague",
+                        0.9194494859071183
+                    ],
+                    [
+                        "position",
+                        0.9194494859071183
+                    ],
+                    [
+                        "technology",
+                        0.922348015114549
+                    ],
+                    [
+                        "implication",
+                        0.922348015114549
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "JD",
+                        0.3650047698792615
+                    ],
+                    [
+                        "BG",
+                        0.6225050564058191
+                    ],
+                    [
+                        "scientist",
+                        0.9108163384928273
+                    ],
+                    [
+                        "way",
+                        0.9110456390247813
+                    ],
+                    [
+                        "little",
+                        0.9157501981238112
+                    ],
+                    [
+                        "bit",
+                        0.9157501981238112
+                    ],
+                    [
+                        "colleague",
+                        0.9194494859071183
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -25,7 +25,7 @@ def relativeDCReadability(text: str, totalReadability: float) -> float:
         textDC = r.dale_chall()
     except ReadabilityException:
         #if excerpt is too short, duplicate excerpt to required length.
-        textExtensionFactor = int(100 / len(text.split(" "))) + 1
+        textExtensionFactor = max(int(100 / len(text.split(" "))) + 1, 2)
         return relativeDCReadability(text * textExtensionFactor, totalReadability)
     return textDC.score/totalReadability
 

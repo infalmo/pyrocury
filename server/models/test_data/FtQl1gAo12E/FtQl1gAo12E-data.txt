@@ -1,0 +1,4684 @@
+{
+    "metadata": {
+        "id": "FtQl1gAo12E",
+        "avgHeat": 0.11,
+        "runtime": 2075.929,
+        "dale-challReadabilityScore": 8.167947101227638,
+        "lexicalDiversity": 0.47402166703515364,
+        "posComposition": {
+            "NNP": 0.03,
+            "DT": 0.131,
+            "NN": 0.157,
+            "VBZ": 0.061,
+            "IN": 0.101,
+            "NNS": 0.021,
+            "CD": 0.027,
+            "JJ": 0.052,
+            "CC": 0.035,
+            "WRB": 0.008,
+            "VBP": 0.049,
+            "PRP": 0.083,
+            "WP": 0.01,
+            "VB": 0.052,
+            "VBG": 0.016,
+            "RB": 0.057,
+            "PRP$": 0.002,
+            "RP": 0.004,
+            "WDT": 0.008,
+            "VBD": 0.015,
+            "TO": 0.032,
+            "MD": 0.015,
+            "VBN": 0.013,
+            "EX": 0.004,
+            ":": 0.007,
+            "JJR": 0.004,
+            "RBR": 0.002,
+            "PDT": 0.001,
+            "NNPS": 0.001,
+            "JJS": 0.001,
+            "POS": 0.001,
+            "FW": 0.0,
+            "RBS": 0.0
+        },
+        "syllableRate": 2.785,
+        "topicScores": [
+            [
+                "sine",
+                0.1082255940811128
+            ],
+            [
+                "theta",
+                0.10880628076195116
+            ],
+            [
+                "cosine",
+                0.126792882347952
+            ],
+            [
+                "x",
+                0.13806610305983125
+            ],
+            [
+                "delta",
+                0.15651690635791027
+            ],
+            [
+                "right",
+                0.1670125960843148
+            ],
+            [
+                "area",
+                0.17308692000071826
+            ],
+            [
+                "slope",
+                0.17323042882531606
+            ],
+            [
+                "way",
+                0.17777558239918476
+            ],
+            [
+                "point",
+                0.17817832277503404
+            ],
+            [
+                "angle",
+                0.1799290173415569
+            ],
+            [
+                "curve",
+                0.19202939265644728
+            ],
+            [
+                "triangle",
+                0.1977131849052269
+            ],
+            [
+                "circle",
+                0.22073116372581592
+            ],
+            [
+                "derivative",
+                0.22195536384952966
+            ],
+            [
+                "ratio",
+                0.22254757844610917
+            ],
+            [
+                "time",
+                0.2228287384726767
+            ],
+            [
+                "piece",
+                0.23063371566678545
+            ],
+            [
+                "minus",
+                0.24007340418131684
+            ],
+            [
+                "picture",
+                0.24835868266082214
+            ],
+            [
+                "distance",
+                0.24849948840606748
+            ],
+            [
+                "little",
+                0.2500664978012905
+            ],
+            [
+                "formula",
+                0.2514744744659619
+            ],
+            [
+                "function",
+                0.26102258473851075
+            ],
+            [
+                "plus",
+                0.2612368840924547
+            ],
+            [
+                "motion",
+                0.26522883886456583
+            ],
+            [
+                "start",
+                0.2729394549820818
+            ],
+            [
+                "radian",
+                0.27297186496646125
+            ],
+            [
+                "measure",
+                0.2730079510880183
+            ],
+            [
+                "number",
+                0.27322155200962567
+            ]
+        ],
+        "topicsList": [
+            "sine",
+            "theta",
+            "cosine",
+            "x",
+            "delta",
+            "right",
+            "area",
+            "slope",
+            "way",
+            "point",
+            "angle",
+            "curve",
+            "triangle",
+            "circle",
+            "derivative",
+            "ratio",
+            "time",
+            "piece",
+            "minus",
+            "picture",
+            "distance",
+            "little",
+            "formula",
+            "function",
+            "plus",
+            "motion",
+            "start",
+            "radian",
+            "measure",
+            "number"
+        ]
+    },
+    "chunks": {
+        "FtQl1gAo12E-0": {
+            "id": "FtQl1gAo12E-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: OK, this lecture is about the slopes, the derivatives, of two of the great functions of mathematics: sine x and cosine x. Why do I say great functions? What sort of motion do we see sines and cosines? Well, I guess I'm thinking of oscillations. Things go back and forth. They go up and down. They go round in a circle. Your heart beats and beats and beats. Your lungs go in and out. The earth goes around the sun. So many motions are repeating motions, and that's when sines and cosines show up. The opposite is growing motions. That's where we have powers of x, x cubed, x to the n-th. Or if we really want the motion to get going, e to the x. Or decaying would be e to the minus x. So there are two kinds here. We're talking about the ones that repeat and stay level, and they all involve sines and cosines. And to make that point, I'm going to have to-- you know what sines and cosines are for triangles from trigonometry.",
+            "metrics": {
+                "relativeDCReadability": 0.9952182759323287,
+                "lexicalDiversity": 0.510752688172043,
+                "posComposition": {
+                    "NNP": 0.065,
+                    "DT": 0.086,
+                    "NN": 0.097,
+                    "VBZ": 0.027,
+                    "IN": 0.091,
+                    "NNS": 0.129,
+                    "CD": 0.011,
+                    "JJ": 0.038,
+                    "CC": 0.075,
+                    "WRB": 0.016,
+                    "VBP": 0.102,
+                    "PRP": 0.065,
+                    "WP": 0.011,
+                    "VB": 0.038,
+                    "VBG": 0.032,
+                    "RB": 0.032,
+                    "PRP$": 0.005,
+                    "RP": 0.005,
+                    "WDT": 0.011,
+                    "VBD": 0.005,
+                    "TO": 0.038,
+                    "MD": 0.005,
+                    "VBN": 0.005,
+                    "EX": 0.005,
+                    ":": 0.005
+                },
+                "syllableRate": 1.983,
+                "topicScores": [
+                    [
+                        "cosine",
+                        0.32568852176239454
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.33728429094276097
+                    ],
+                    [
+                        "motion",
+                        0.3517925202588169
+                    ],
+                    [
+                        "x",
+                        0.3889664733377875
+                    ],
+                    [
+                        "beat",
+                        0.4296552995252897
+                    ],
+                    [
+                        "function",
+                        0.5197896153799301
+                    ],
+                    [
+                        "great",
+                        0.5262933745849647
+                    ],
+                    [
+                        "derivative",
+                        0.8439977675574168
+                    ],
+                    [
+                        "lecture",
+                        0.857711849672741
+                    ],
+                    [
+                        "slope",
+                        0.857711849672741
+                    ],
+                    [
+                        "mathematic",
+                        0.857711849672741
+                    ],
+                    [
+                        "oscillation",
+                        0.8686275564592444
+                    ],
+                    [
+                        "thing",
+                        0.8778482339477053
+                    ],
+                    [
+                        "sort",
+                        0.8798937192424996
+                    ],
+                    [
+                        "circle",
+                        0.8892848256280431
+                    ],
+                    [
+                        "sun",
+                        0.8988754771892137
+                    ],
+                    [
+                        "trigonometry",
+                        0.909666931266835
+                    ],
+                    [
+                        "heart",
+                        0.9125920581828719
+                    ],
+                    [
+                        "cubed",
+                        0.9140634819022697
+                    ],
+                    [
+                        "lung",
+                        0.9152063146551733
+                    ],
+                    [
+                        "earth",
+                        0.9173779631469601
+                    ],
+                    [
+                        "opposite",
+                        0.9208029020232188
+                    ],
+                    [
+                        "minus",
+                        0.9234067703490587
+                    ],
+                    [
+                        "kind",
+                        0.9244946319251985
+                    ],
+                    [
+                        "level",
+                        0.9254720951218621
+                    ],
+                    [
+                        "point",
+                        0.9263566994806978
+                    ],
+                    [
+                        "power",
+                        0.9292359899409276
+                    ],
+                    [
+                        "one",
+                        0.9322462350982718
+                    ],
+                    [
+                        "to--",
+                        0.9330562503103924
+                    ],
+                    [
+                        "triangle",
+                        0.9330562503103924
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "cosine",
+                        0.32568852176239454
+                    ],
+                    [
+                        "motion",
+                        0.3517925202588169
+                    ],
+                    [
+                        "x",
+                        0.3889664733377875
+                    ],
+                    [
+                        "function",
+                        0.5197896153799301
+                    ],
+                    [
+                        "derivative",
+                        0.8439977675574168
+                    ],
+                    [
+                        "slope",
+                        0.857711849672741
+                    ],
+                    [
+                        "circle",
+                        0.8892848256280431
+                    ],
+                    [
+                        "minus",
+                        0.9234067703490587
+                    ],
+                    [
+                        "point",
+                        0.9263566994806978
+                    ],
+                    [
+                        "triangle",
+                        0.9330562503103924
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-90": {
+            "id": "FtQl1gAo12E-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " But I have to make those triangles move. So I'm going to put the triangle in a circle, with one corner at the center, and another corner on the circle, and I'm going to move that point. So it's going to be circular motion. It's going to be the motion that-- the perfect model of repeating motion, around and around the circle. And then the answer we're going to get is just great. The derivative of sine x turns out to be cosine x. And the derivative of cosine x turns out to be minus sine x. You couldn't ask for more. So my interest is always to explain those, but then I want to really-- we're seeing this limit stuff in taking a derivative, and here's a chance for me to find a limit. This turns out to be the crucial quantity: the sine of an angle divided by the angle, when the angle goes to 0. Of course, when it's at 0, the sine of 0 is 0, so we have 0 over 0. This is the big problem of calculus. You can't be at the limit, because it's 0 over 0 at that point. But you can be close to it. And then if we drew a graph, had a calculator, whatever we",
+            "metrics": {
+                "relativeDCReadability": 0.9354031360199428,
+                "lexicalDiversity": 0.4497816593886463,
+                "posComposition": {
+                    "CC": 0.044,
+                    "PRP": 0.079,
+                    "VBP": 0.035,
+                    "TO": 0.061,
+                    "VB": 0.061,
+                    "DT": 0.135,
+                    "NNS": 0.004,
+                    "RB": 0.052,
+                    "VBG": 0.035,
+                    "NN": 0.157,
+                    "IN": 0.109,
+                    "CD": 0.039,
+                    "VBZ": 0.057,
+                    "JJ": 0.044,
+                    "WDT": 0.009,
+                    ":": 0.009,
+                    "NNP": 0.013,
+                    "RP": 0.013,
+                    "MD": 0.013,
+                    "JJR": 0.004,
+                    "PRP$": 0.004,
+                    "VBN": 0.004,
+                    "WRB": 0.009,
+                    "VBD": 0.009
+                },
+                "syllableRate": 2.492,
+                "topicScores": [
+                    [
+                        "sine",
+                        0.3688257758559649
+                    ],
+                    [
+                        "circle",
+                        0.41108202611567624
+                    ],
+                    [
+                        "motion",
+                        0.42177263585140295
+                    ],
+                    [
+                        "derivative",
+                        0.4263118644417273
+                    ],
+                    [
+                        "limit",
+                        0.4425657833574815
+                    ],
+                    [
+                        "angle",
+                        0.4475466374155217
+                    ],
+                    [
+                        "point",
+                        0.5234277102088506
+                    ],
+                    [
+                        "triangle",
+                        0.5247808412630619
+                    ],
+                    [
+                        "x.",
+                        0.5305942524470456
+                    ],
+                    [
+                        "corner",
+                        0.5386336238150848
+                    ],
+                    [
+                        "cosine",
+                        0.5568569119235464
+                    ],
+                    [
+                        "center",
+                        0.8748838232589169
+                    ],
+                    [
+                        "great",
+                        0.8853029691049517
+                    ],
+                    [
+                        "circular",
+                        0.8874299233080055
+                    ],
+                    [
+                        "perfect",
+                        0.9026064324456865
+                    ],
+                    [
+                        "model",
+                        0.9026064324456865
+                    ],
+                    [
+                        "calculus",
+                        0.9054314556826157
+                    ],
+                    [
+                        "answer",
+                        0.9079485814650304
+                    ],
+                    [
+                        "crucial",
+                        0.9156914108408927
+                    ],
+                    [
+                        "quantity",
+                        0.9156914108408927
+                    ],
+                    [
+                        "interest",
+                        0.9197613440039515
+                    ],
+                    [
+                        "stuff",
+                        0.9197613440039515
+                    ],
+                    [
+                        "chance",
+                        0.9197613440039515
+                    ],
+                    [
+                        "graph",
+                        0.9221952614113658
+                    ],
+                    [
+                        "calculator",
+                        0.9221952614113658
+                    ],
+                    [
+                        "big",
+                        0.9244421099165709
+                    ],
+                    [
+                        "problem",
+                        0.9244421099165709
+                    ],
+                    [
+                        "close",
+                        0.9266891253918963
+                    ],
+                    [
+                        "sine x",
+                        2.7391513901165383
+                    ],
+                    [
+                        "cosine x.",
+                        2.8795723405440143
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "sine",
+                        0.3688257758559649
+                    ],
+                    [
+                        "circle",
+                        0.41108202611567624
+                    ],
+                    [
+                        "motion",
+                        0.42177263585140295
+                    ],
+                    [
+                        "derivative",
+                        0.4263118644417273
+                    ],
+                    [
+                        "angle",
+                        0.4475466374155217
+                    ],
+                    [
+                        "point",
+                        0.5234277102088506
+                    ],
+                    [
+                        "triangle",
+                        0.5247808412630619
+                    ],
+                    [
+                        "cosine",
+                        0.5568569119235464
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-180": {
+            "id": "FtQl1gAo12E-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " do, we would see that that ratio is very close to 1, but today we're going to actually prove it from the meaning of sine theta. Now remember what that meaning is. So back to the start of the world. Actually back to Pythagoras, way, way back. The key fact is what you remember about right triangles, a squared plus b squared equals c squared. That's where everything starts for a right triangle. I don't know if Pythagoras knew how to prove it. I think his friends helped him. A lot of people have suggested proofs. Einstein gave a proof. Some US president even gave a proof. So it's a fundamental fact, and I'm going to divide by c squared, because I'd like the right hand side to be 1. So if I divide by c squared, I just have a squared over c squared plus b squared over c squared is 1. And I'm going to make that hypotenuse in my picture 1. So then this will be the a over c, and that ratio of the near side to the hypotenuse is the cosine. So what I have here is cosine theta squared.",
+            "metrics": {
+                "relativeDCReadability": 0.9256853189967785,
+                "lexicalDiversity": 0.504950495049505,
+                "posComposition": {
+                    "NN": 0.163,
+                    "PRP": 0.074,
+                    "MD": 0.015,
+                    "VB": 0.05,
+                    "IN": 0.104,
+                    "DT": 0.109,
+                    "VBZ": 0.045,
+                    "RB": 0.069,
+                    "TO": 0.045,
+                    "CD": 0.02,
+                    "CC": 0.03,
+                    "VBP": 0.054,
+                    "VBG": 0.015,
+                    "JJ": 0.059,
+                    "WP": 0.015,
+                    "NNP": 0.03,
+                    "NNS": 0.02,
+                    "VBD": 0.03,
+                    "WRB": 0.01,
+                    "PRP$": 0.01,
+                    "VBN": 0.035
+                },
+                "syllableRate": 2.2,
+                "topicScores": [
+                    [
+                        "c",
+                        0.29991906546089453
+                    ],
+                    [
+                        "Pythagoras",
+                        0.39311343770463925
+                    ],
+                    [
+                        "proof",
+                        0.4081186197473736
+                    ],
+                    [
+                        "right",
+                        0.44317531855942005
+                    ],
+                    [
+                        "meaning",
+                        0.5193023272757892
+                    ],
+                    [
+                        "triangle",
+                        0.5451333949666693
+                    ],
+                    [
+                        "way",
+                        0.5489821267266373
+                    ],
+                    [
+                        "ratio",
+                        0.5615219161142592
+                    ],
+                    [
+                        "theta",
+                        0.5625842778150588
+                    ],
+                    [
+                        "b",
+                        0.5635479030136352
+                    ],
+                    [
+                        "start",
+                        0.5637911864542916
+                    ],
+                    [
+                        "cosine",
+                        0.5689391289244281
+                    ],
+                    [
+                        "fact",
+                        0.5714147932312356
+                    ],
+                    [
+                        "hypotenuse",
+                        0.5816836723251756
+                    ],
+                    [
+                        "today",
+                        0.8141197742236013
+                    ],
+                    [
+                        "close",
+                        0.8277900247566179
+                    ],
+                    [
+                        "world",
+                        0.8676852849205051
+                    ],
+                    [
+                        "key",
+                        0.9075473682642402
+                    ],
+                    [
+                        "squared",
+                        0.9075473682642402
+                    ],
+                    [
+                        "Einstein",
+                        0.9085838323237132
+                    ],
+                    [
+                        "lot",
+                        0.9218906641249843
+                    ],
+                    [
+                        "friend",
+                        0.9260905588141934
+                    ],
+                    [
+                        "fundamental",
+                        0.9270812194677069
+                    ],
+                    [
+                        "people",
+                        0.9283327978176847
+                    ],
+                    [
+                        "picture",
+                        0.9294944727466192
+                    ],
+                    [
+                        "president",
+                        0.9317698962357556
+                    ],
+                    [
+                        "hand",
+                        0.9331263116314481
+                    ],
+                    [
+                        "near",
+                        0.9362833425223304
+                    ],
+                    [
+                        "right triangle",
+                        2.0632916879348633
+                    ],
+                    [
+                        "sine theta",
+                        2.6487060349022062
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.44317531855942005
+                    ],
+                    [
+                        "triangle",
+                        0.5451333949666693
+                    ],
+                    [
+                        "way",
+                        0.5489821267266373
+                    ],
+                    [
+                        "ratio",
+                        0.5615219161142592
+                    ],
+                    [
+                        "theta",
+                        0.5625842778150588
+                    ],
+                    [
+                        "start",
+                        0.5637911864542916
+                    ],
+                    [
+                        "cosine",
+                        0.5689391289244281
+                    ],
+                    [
+                        "picture",
+                        0.9294944727466192
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-270": {
+            "id": "FtQl1gAo12E-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " Let me put theta in there. Theta is that angle at the center. And what's b? So this is a over c. That's cosine theta. B over c is this point, and that's sine theta. And they add to 1. So that's Pythagoras using sines and cosines. So this is the cosine. And this vertical distance is sine theta. OK, so that's the triangle I like. That's the triangle that's going to move. As this point goes around the circle at a steady speed, this triangle is going to move. The base will go left and right, left and right. The height will go up and down, up and down, following cosine and sine. And we want to know things about the speed. OK, so that's circular motion. Now I've introduced this word radians. And let me remind you what they are and why we need them. Why don't we just use 360 degrees for the full circle? 360 degrees. Well, that's a nice number, 360.",
+            "metrics": {
+                "relativeDCReadability": 0.9540737363924103,
+                "lexicalDiversity": 0.4915254237288136,
+                "posComposition": {
+                    "VB": 0.051,
+                    "PRP": 0.062,
+                    "RP": 0.006,
+                    "IN": 0.062,
+                    "EX": 0.006,
+                    "NNP": 0.04,
+                    "VBZ": 0.096,
+                    "NN": 0.153,
+                    "DT": 0.136,
+                    "CC": 0.073,
+                    "WP": 0.011,
+                    "RB": 0.056,
+                    "JJ": 0.051,
+                    "VBP": 0.045,
+                    "TO": 0.023,
+                    "CD": 0.023,
+                    "WDT": 0.017,
+                    "VBG": 0.023,
+                    "NNS": 0.028,
+                    "MD": 0.011,
+                    "RBR": 0.006,
+                    "VBD": 0.006,
+                    "VBN": 0.006,
+                    "WRB": 0.011
+                },
+                "syllableRate": 1.867,
+                "topicScores": [
+                    [
+                        "theta",
+                        0.35387152720592535
+                    ],
+                    [
+                        "cosine",
+                        0.37260187484763446
+                    ],
+                    [
+                        "b",
+                        0.4266828316813005
+                    ],
+                    [
+                        "triangle",
+                        0.4385662567564031
+                    ],
+                    [
+                        "right",
+                        0.5593134620311244
+                    ],
+                    [
+                        "point",
+                        0.5635494403779217
+                    ],
+                    [
+                        "degree",
+                        0.5646336758961602
+                    ],
+                    [
+                        "circle",
+                        0.5671141162556418
+                    ],
+                    [
+                        "speed",
+                        0.5675608470076078
+                    ],
+                    [
+                        "left",
+                        0.5685196989773144
+                    ],
+                    [
+                        "Pythagoras",
+                        0.657764905434316
+                    ],
+                    [
+                        "center",
+                        0.8458114518819606
+                    ],
+                    [
+                        "c.",
+                        0.8825741402717893
+                    ],
+                    [
+                        "motion",
+                        0.9196597104283718
+                    ],
+                    [
+                        "radian",
+                        0.9205323246766306
+                    ],
+                    [
+                        "steady",
+                        0.9277181331159357
+                    ],
+                    [
+                        "vertical",
+                        0.928814253476931
+                    ],
+                    [
+                        "distance",
+                        0.928814253476931
+                    ],
+                    [
+                        "base",
+                        0.9288588069972851
+                    ],
+                    [
+                        "height",
+                        0.9298751133252826
+                    ],
+                    [
+                        "circular",
+                        0.9316143059246378
+                    ],
+                    [
+                        "word",
+                        0.9323666245984115
+                    ],
+                    [
+                        "nice",
+                        0.9348196039718728
+                    ],
+                    [
+                        "number",
+                        0.9348196039718728
+                    ],
+                    [
+                        "thing",
+                        0.9358663448227132
+                    ],
+                    [
+                        "cosine theta",
+                        2.4586127059610803
+                    ],
+                    [
+                        "steady speed",
+                        5.04377838621342
+                    ],
+                    [
+                        "circular motion",
+                        5.981687032979034
+                    ],
+                    [
+                        "word radian",
+                        6.055849267764236
+                    ],
+                    [
+                        "vertical distance",
+                        6.283104635454503
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "theta",
+                        0.35387152720592535
+                    ],
+                    [
+                        "cosine",
+                        0.37260187484763446
+                    ],
+                    [
+                        "triangle",
+                        0.4385662567564031
+                    ],
+                    [
+                        "right",
+                        0.5593134620311244
+                    ],
+                    [
+                        "point",
+                        0.5635494403779217
+                    ],
+                    [
+                        "circle",
+                        0.5671141162556418
+                    ],
+                    [
+                        "motion",
+                        0.9196597104283718
+                    ],
+                    [
+                        "radian",
+                        0.9205323246766306
+                    ],
+                    [
+                        "distance",
+                        0.928814253476931
+                    ],
+                    [
+                        "number",
+                        0.9348196039718728
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-360": {
+            "id": "FtQl1gAo12E-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " Somebody must have thought it was really nice, and chose it for measuring angles around the world. It's nice, but it's not natural. Somebody thought of it, so it's not good. What we need is the natural way to measure the angle. If we don't use the natural way, then this is the sine-- if I measure this x in degrees, that formula won't be right. There will be a miserable factor that I want to be 1. So I have to measure the angles the right way, and here's the idea of radians. The measure of that angle is this distance around the circle. That distance I'm going to call theta, and I'm going to say this angle is theta radians when that distance is theta. So that now, what's a full circle? A full circle would mean the angle went all the way round. I get the whole circumference, which is 2 pi. So 360 degrees is 2 pi radians. So the natural number here is 2 pi.",
+            "metrics": {
+                "relativeDCReadability": 0.9715900120971399,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "NN": 0.172,
+                    "MD": 0.022,
+                    "VB": 0.056,
+                    "VBN": 0.011,
+                    "PRP": 0.078,
+                    "VBD": 0.017,
+                    "RB": 0.056,
+                    "JJ": 0.072,
+                    "CC": 0.022,
+                    "IN": 0.083,
+                    "VBG": 0.017,
+                    "NNS": 0.039,
+                    "DT": 0.128,
+                    "VBZ": 0.072,
+                    "NNP": 0.017,
+                    "WP": 0.011,
+                    "VBP": 0.044,
+                    "TO": 0.028,
+                    ":": 0.006,
+                    "EX": 0.006,
+                    "CD": 0.028,
+                    "WRB": 0.006,
+                    "PDT": 0.006,
+                    "WDT": 0.006
+                },
+                "syllableRate": 1.95,
+                "topicScores": [
+                    [
+                        "angle",
+                        0.29923722582687706
+                    ],
+                    [
+                        "measure",
+                        0.3249623039579163
+                    ],
+                    [
+                        "natural",
+                        0.3533477496615347
+                    ],
+                    [
+                        "way",
+                        0.3559845611630334
+                    ],
+                    [
+                        "pi",
+                        0.40807170405919785
+                    ],
+                    [
+                        "circle",
+                        0.4229293736452625
+                    ],
+                    [
+                        "radian",
+                        0.43455448289860715
+                    ],
+                    [
+                        "distance",
+                        0.43757541321628574
+                    ],
+                    [
+                        "theta",
+                        0.44207186212611005
+                    ],
+                    [
+                        "nice",
+                        0.48195815751808374
+                    ],
+                    [
+                        "right",
+                        0.5436106639414239
+                    ],
+                    [
+                        "degree",
+                        0.561395345289525
+                    ],
+                    [
+                        "world",
+                        0.7631683175837046
+                    ],
+                    [
+                        "good",
+                        0.8549465479371173
+                    ],
+                    [
+                        "formula",
+                        0.895780488548366
+                    ],
+                    [
+                        "sine--",
+                        0.9031600373401375
+                    ],
+                    [
+                        "miserable",
+                        0.90847489962112
+                    ],
+                    [
+                        "factor",
+                        0.90847489962112
+                    ],
+                    [
+                        "idea",
+                        0.9124630991675652
+                    ],
+                    [
+                        "circumference",
+                        0.9175747060069411
+                    ],
+                    [
+                        "number",
+                        0.9260637906952143
+                    ],
+                    [
+                        "natural way",
+                        1.3294426398523298
+                    ],
+                    [
+                        "pi radian",
+                        2.440180209022809
+                    ],
+                    [
+                        "right way",
+                        2.4743366215524345
+                    ],
+                    [
+                        "natural number",
+                        3.162976312773969
+                    ],
+                    [
+                        "theta radian",
+                        3.3181106853732745
+                    ],
+                    [
+                        "miserable factor",
+                        4.7249715615368695
+                    ]
+                ],
+                "topTopicSimilarity": 0.37037037037037035,
+                "sharedTopicScores": [
+                    [
+                        "angle",
+                        0.29923722582687706
+                    ],
+                    [
+                        "measure",
+                        0.3249623039579163
+                    ],
+                    [
+                        "way",
+                        0.3559845611630334
+                    ],
+                    [
+                        "circle",
+                        0.4229293736452625
+                    ],
+                    [
+                        "radian",
+                        0.43455448289860715
+                    ],
+                    [
+                        "distance",
+                        0.43757541321628574
+                    ],
+                    [
+                        "theta",
+                        0.44207186212611005
+                    ],
+                    [
+                        "right",
+                        0.5436106639414239
+                    ],
+                    [
+                        "formula",
+                        0.895780488548366
+                    ],
+                    [
+                        "number",
+                        0.9260637906952143
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-450": {
+            "id": "FtQl1gAo12E-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " This can't be helped, it's the right one to use. Radians are the right way to measure an angle. So now I'm ready to do the job of finding this derivative. OK. Let me start at the key point 0. If we get this one, we get all the rest easily. So I'm looking at the graph of the sine curve. I'm starting at 0. We know what sine theta looks like, and I'm interested in the slope, the derivative. That's what this subject is about, calculus, differentiating. So I want to know the slope at that point. And it's 1. And how do we show that it's 1? So now I'm coming to the point where I'm going to give a proof that is 1. And the proof isn't just for the sake of formality or rigor or something. You really have to understand the sine function, the cosine function, and this is the heart of it. OK. So we want to show that slope is 1. How am I going to do that?",
+            "metrics": {
+                "relativeDCReadability": 0.8871935172578398,
+                "lexicalDiversity": 0.45454545454545453,
+                "posComposition": {
+                    "DT": 0.139,
+                    "MD": 0.005,
+                    "RB": 0.053,
+                    "VB": 0.059,
+                    "VBN": 0.005,
+                    "PRP": 0.102,
+                    "VBZ": 0.048,
+                    "JJ": 0.048,
+                    "NN": 0.144,
+                    "TO": 0.048,
+                    "NNPS": 0.005,
+                    "VBP": 0.08,
+                    "IN": 0.086,
+                    "VBG": 0.037,
+                    "NNP": 0.027,
+                    "CD": 0.037,
+                    "PDT": 0.005,
+                    "WP": 0.011,
+                    "NNS": 0.005,
+                    "CC": 0.037,
+                    "WRB": 0.011,
+                    "WDT": 0.005
+                },
+                "syllableRate": 1.917,
+                "topicScores": [
+                    [
+                        "point",
+                        0.43599649590156997
+                    ],
+                    [
+                        "sine",
+                        0.44028926421973724
+                    ],
+                    [
+                        "slope",
+                        0.44549341121136943
+                    ],
+                    [
+                        "right",
+                        0.47720114814338854
+                    ],
+                    [
+                        "derivative",
+                        0.5199976920762132
+                    ],
+                    [
+                        "function",
+                        0.5674570876590093
+                    ],
+                    [
+                        "proof",
+                        0.5687965821142809
+                    ],
+                    [
+                        "radian",
+                        0.8313954180287297
+                    ],
+                    [
+                        "angle",
+                        0.8313954180287297
+                    ],
+                    [
+                        "way",
+                        0.8656011167254548
+                    ],
+                    [
+                        "ready",
+                        0.886715537619008
+                    ],
+                    [
+                        "job",
+                        0.886715537619008
+                    ],
+                    [
+                        "curve",
+                        0.8913923910853185
+                    ],
+                    [
+                        "rest",
+                        0.9036150698163091
+                    ],
+                    [
+                        "key",
+                        0.9055830897960097
+                    ],
+                    [
+                        "calculus",
+                        0.9088288660258067
+                    ],
+                    [
+                        "graph",
+                        0.9146753687573235
+                    ],
+                    [
+                        "cosine",
+                        0.9176853679074488
+                    ],
+                    [
+                        "theta",
+                        0.9202043336323457
+                    ],
+                    [
+                        "interested",
+                        0.9202043336323457
+                    ],
+                    [
+                        "subject",
+                        0.9222588511745876
+                    ],
+                    [
+                        "sake",
+                        0.9289876470807291
+                    ],
+                    [
+                        "formality",
+                        0.9289876470807291
+                    ],
+                    [
+                        "rigor",
+                        0.9289876470807291
+                    ],
+                    [
+                        "heart",
+                        0.9299113550927427
+                    ],
+                    [
+                        "right way",
+                        1.895981086241933
+                    ],
+                    [
+                        "sine curve",
+                        3.649886775344684
+                    ],
+                    [
+                        "key point",
+                        3.7542551155619637
+                    ],
+                    [
+                        "sine function",
+                        3.807478457710854
+                    ],
+                    [
+                        "cosine function",
+                        4.726214970490385
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "point",
+                        0.43599649590156997
+                    ],
+                    [
+                        "sine",
+                        0.44028926421973724
+                    ],
+                    [
+                        "slope",
+                        0.44549341121136943
+                    ],
+                    [
+                        "right",
+                        0.47720114814338854
+                    ],
+                    [
+                        "derivative",
+                        0.5199976920762132
+                    ],
+                    [
+                        "function",
+                        0.5674570876590093
+                    ],
+                    [
+                        "radian",
+                        0.8313954180287297
+                    ],
+                    [
+                        "angle",
+                        0.8313954180287297
+                    ],
+                    [
+                        "way",
+                        0.8656011167254548
+                    ],
+                    [
+                        "curve",
+                        0.8913923910853185
+                    ],
+                    [
+                        "cosine",
+                        0.9176853679074488
+                    ],
+                    [
+                        "theta",
+                        0.9202043336323457
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-540": {
+            "id": "FtQl1gAo12E-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " That's the slope, right? If I go a tiny amount theta, then I go up sine theta. So in this average slope, if I take a finite step-- I could have called it delta theta, but I don't want to write deltas all the time. So I just go out a little distance theta and up to the sine curve. I stopped at the sine curve by the way. The straight line is a little above the sine curve here. And that ratio, up divided by across, that's the delta sine divided by delta theta. And because it started at 0, it's just sine theta is the distance up, and theta is the distance across. So this is the average slope. And of course you remember what calculus is doing. There's always this limiting process where you push things closer and closer to the point, and you find the slope at that point, sometimes called the instantaneous velocity or slope or derivative. Now here's the way it's going to work. I'm going to show that sine theta over theta is always below 1. So two facts I want to prove. I want to show that sine theta over theta is less-- sorry, sine theta over theta--",
+            "metrics": {
+                "relativeDCReadability": 1.080015736100974,
+                "lexicalDiversity": 0.5069124423963134,
+                "posComposition": {
+                    "DT": 0.124,
+                    "VBZ": 0.06,
+                    "NN": 0.198,
+                    "RB": 0.074,
+                    "IN": 0.088,
+                    "PRP": 0.078,
+                    "VBP": 0.055,
+                    "JJ": 0.074,
+                    "RP": 0.009,
+                    ":": 0.014,
+                    "MD": 0.005,
+                    "VB": 0.032,
+                    "VBN": 0.014,
+                    "CC": 0.046,
+                    "TO": 0.032,
+                    "NNS": 0.014,
+                    "PDT": 0.005,
+                    "NNP": 0.009,
+                    "VBD": 0.014,
+                    "CD": 0.014,
+                    "WP": 0.005,
+                    "VBG": 0.014,
+                    "EX": 0.005,
+                    "WRB": 0.005,
+                    "RBR": 0.014
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "theta",
+                        0.2429683099725496
+                    ],
+                    [
+                        "sine",
+                        0.2635774848069085
+                    ],
+                    [
+                        "slope",
+                        0.34582097811606616
+                    ],
+                    [
+                        "delta",
+                        0.39075602839418977
+                    ],
+                    [
+                        "curve",
+                        0.420458439221454
+                    ],
+                    [
+                        "distance",
+                        0.4471101546191255
+                    ],
+                    [
+                        "average",
+                        0.5579666343930769
+                    ],
+                    [
+                        "way",
+                        0.5659872561419053
+                    ],
+                    [
+                        "little",
+                        0.5675269597620312
+                    ],
+                    [
+                        "point",
+                        0.5821210391704416
+                    ],
+                    [
+                        "right",
+                        0.8338879587995284
+                    ],
+                    [
+                        "time",
+                        0.8852047372712343
+                    ],
+                    [
+                        "tiny",
+                        0.9030046671458004
+                    ],
+                    [
+                        "finite",
+                        0.9130113055368394
+                    ],
+                    [
+                        "step--",
+                        0.9130113055368394
+                    ],
+                    [
+                        "derivative",
+                        0.9156489467385102
+                    ],
+                    [
+                        "straight",
+                        0.9204127542533075
+                    ],
+                    [
+                        "ratio",
+                        0.9232795134970704
+                    ],
+                    [
+                        "line",
+                        0.9272739021282512
+                    ],
+                    [
+                        "less--",
+                        0.9346973879467931
+                    ],
+                    [
+                        "sorry",
+                        0.9346973879467931
+                    ],
+                    [
+                        "course",
+                        0.9353185157186464
+                    ],
+                    [
+                        "calculus",
+                        0.9353185157186464
+                    ],
+                    [
+                        "process",
+                        0.9366091839859968
+                    ],
+                    [
+                        "thing",
+                        0.9366091839859968
+                    ],
+                    [
+                        "instantaneous",
+                        0.9366091839859968
+                    ],
+                    [
+                        "velocity",
+                        0.9366091839859968
+                    ],
+                    [
+                        "fact",
+                        0.9396124330791569
+                    ],
+                    [
+                        "sine curve",
+                        1.3960551118628013
+                    ],
+                    [
+                        "average slope",
+                        2.3814776344679873
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "theta",
+                        0.2429683099725496
+                    ],
+                    [
+                        "sine",
+                        0.2635774848069085
+                    ],
+                    [
+                        "slope",
+                        0.34582097811606616
+                    ],
+                    [
+                        "delta",
+                        0.39075602839418977
+                    ],
+                    [
+                        "curve",
+                        0.420458439221454
+                    ],
+                    [
+                        "distance",
+                        0.4471101546191255
+                    ],
+                    [
+                        "way",
+                        0.5659872561419053
+                    ],
+                    [
+                        "little",
+                        0.5675269597620312
+                    ],
+                    [
+                        "point",
+                        0.5821210391704416
+                    ],
+                    [
+                        "right",
+                        0.8338879587995284
+                    ],
+                    [
+                        "time",
+                        0.8852047372712343
+                    ],
+                    [
+                        "derivative",
+                        0.9156489467385102
+                    ],
+                    [
+                        "ratio",
+                        0.9232795134970704
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-630": {
+            "id": "FtQl1gAo12E-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " well, let me get this right. I might as well put it the neat way. I want to show that sine theta is below theta. This is for theta greater than 0. That's what I'm doing. OK. So that tells me that this curve stays under that straight line, that 45 degree line, which I'm claiming is the tangent line. And it tells me when I divide it by the theta, it tells me that sine theta over theta is below 1. But now how much below 1? Right now if I only know this, I haven't ruled out the possibility that the slope could be much smaller. So I need something below it. And fantastically, the cosine is below it. So the other thing that I want to prove is that the cosine-- and I'll let me do it this way. I'm going to show the tangent of theta is bigger than theta. Again, some range of thetas. Positive thetas up to somewhere. I don't know, I think maybe pi over 2. But the main point is near 0, that's the main point. So can I just rewrite-- do you remember what the tangent is? Of course, sine theta over cosine theta. So this is sine theta over cosine",
+            "metrics": {
+                "relativeDCReadability": 0.9989296992842862,
+                "lexicalDiversity": 0.45454545454545453,
+                "posComposition": {
+                    "RB": 0.068,
+                    "VB": 0.055,
+                    "PRP": 0.123,
+                    "DT": 0.1,
+                    "NN": 0.159,
+                    "MD": 0.018,
+                    "IN": 0.132,
+                    "JJ": 0.045,
+                    "VBP": 0.055,
+                    "TO": 0.018,
+                    "VBZ": 0.073,
+                    "JJR": 0.014,
+                    "CD": 0.027,
+                    "WP": 0.009,
+                    "VBG": 0.014,
+                    "NNP": 0.018,
+                    "WDT": 0.009,
+                    "CC": 0.023,
+                    "WRB": 0.009,
+                    "VBN": 0.005,
+                    "RP": 0.009,
+                    ":": 0.009,
+                    "NNS": 0.005,
+                    "VBD": 0.005
+                },
+                "syllableRate": 2.308,
+                "topicScores": [
+                    [
+                        "theta",
+                        0.23170565804594845
+                    ],
+                    [
+                        "sine",
+                        0.3713126667301448
+                    ],
+                    [
+                        "cosine",
+                        0.43981835683974924
+                    ],
+                    [
+                        "tangent",
+                        0.44396379185938784
+                    ],
+                    [
+                        "line",
+                        0.44561227345533955
+                    ],
+                    [
+                        "way",
+                        0.5437043208091672
+                    ],
+                    [
+                        "right",
+                        0.5477582157173787
+                    ],
+                    [
+                        "point",
+                        0.5697744974955499
+                    ],
+                    [
+                        "main",
+                        0.573171649628652
+                    ],
+                    [
+                        "neat",
+                        0.8711390046631348
+                    ],
+                    [
+                        "great",
+                        0.9095067080958754
+                    ],
+                    [
+                        "small",
+                        0.9127650683319937
+                    ],
+                    [
+                        "straight",
+                        0.9183818238581264
+                    ],
+                    [
+                        "degree",
+                        0.9183818238581264
+                    ],
+                    [
+                        "positive",
+                        0.9212723244086041
+                    ],
+                    [
+                        "curve",
+                        0.9242962709245781
+                    ],
+                    [
+                        "possibility",
+                        0.9310890883526284
+                    ],
+                    [
+                        "slope",
+                        0.9310890883526284
+                    ],
+                    [
+                        "range",
+                        0.9321185246530684
+                    ],
+                    [
+                        "thing",
+                        0.9351556320728985
+                    ],
+                    [
+                        "big",
+                        0.9361870087463053
+                    ],
+                    [
+                        "rewrite--",
+                        0.9399793728463186
+                    ],
+                    [
+                        "main point",
+                        2.882043596435429
+                    ],
+                    [
+                        "neat way",
+                        3.0113098645656673
+                    ],
+                    [
+                        "sine theta",
+                        3.1768714950108787
+                    ],
+                    [
+                        "tangent line",
+                        3.7925510373606253
+                    ],
+                    [
+                        "theta great",
+                        4.0595455791786685
+                    ],
+                    [
+                        "positive theta",
+                        4.3399762578178604
+                    ],
+                    [
+                        "straight line",
+                        4.509169112474214
+                    ],
+                    [
+                        "degree line",
+                        4.509169112474214
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "theta",
+                        0.23170565804594845
+                    ],
+                    [
+                        "sine",
+                        0.3713126667301448
+                    ],
+                    [
+                        "cosine",
+                        0.43981835683974924
+                    ],
+                    [
+                        "way",
+                        0.5437043208091672
+                    ],
+                    [
+                        "right",
+                        0.5477582157173787
+                    ],
+                    [
+                        "point",
+                        0.5697744974955499
+                    ],
+                    [
+                        "curve",
+                        0.9242962709245781
+                    ],
+                    [
+                        "slope",
+                        0.9310890883526284
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-720": {
+            "id": "FtQl1gAo12E-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " theta, bigger than theta. We still have to prove this. And now I want to bring the theta down and move the cosine up, and that will tell me that sine theta, when I divide by the theta and multiply by the cosine theta. So that was the same as that, was the same as that. And that's what I want. That tells that this ratio is above the cosine curve. Do you see that if I can convince you, and convince myself that these are both true, that this picture is right, then-- I haven't gone into gory detail about limits. If you really insist, I'll do it later. But whatever. You can see this has just got to be true, that if this curve is squeezed between the cosine curve and the 1, then as theta gets smaller and smaller, it's squeezed to equal 1 in the limit. Allow me to say that that's pretty darn clear. OK. Whatever limit meets.",
+            "metrics": {
+                "relativeDCReadability": 0.9309380767282783,
+                "lexicalDiversity": 0.40236686390532544,
+                "posComposition": {
+                    "NN": 0.124,
+                    "JJR": 0.018,
+                    "IN": 0.142,
+                    "PRP": 0.095,
+                    "RB": 0.053,
+                    "VBP": 0.047,
+                    "TO": 0.03,
+                    "VB": 0.065,
+                    "DT": 0.136,
+                    "CC": 0.053,
+                    "RP": 0.006,
+                    "MD": 0.024,
+                    "WRB": 0.006,
+                    "VBD": 0.012,
+                    "JJ": 0.053,
+                    "VBZ": 0.053,
+                    "WP": 0.006,
+                    "NNP": 0.024,
+                    ":": 0.006,
+                    "VBN": 0.024,
+                    "NNS": 0.012,
+                    "CD": 0.012
+                },
+                "syllableRate": 1.758,
+                "topicScores": [
+                    [
+                        "theta",
+                        0.292711970363239
+                    ],
+                    [
+                        "cosine",
+                        0.37004737543695204
+                    ],
+                    [
+                        "limit",
+                        0.4408310824643932
+                    ],
+                    [
+                        "curve",
+                        0.44734241006065334
+                    ],
+                    [
+                        "true",
+                        0.548422622697766
+                    ],
+                    [
+                        "small",
+                        0.582207128037432
+                    ],
+                    [
+                        "big",
+                        0.8115228603570092
+                    ],
+                    [
+                        "multiply",
+                        0.8971849369293222
+                    ],
+                    [
+                        "clear",
+                        0.9073449779158638
+                    ],
+                    [
+                        "meet",
+                        0.9107066472766296
+                    ],
+                    [
+                        "right",
+                        0.9151518941478441
+                    ],
+                    [
+                        "then--",
+                        0.9151518941478441
+                    ],
+                    [
+                        "ratio",
+                        0.9192262883147355
+                    ],
+                    [
+                        "picture",
+                        0.9227858154311347
+                    ],
+                    [
+                        "gory",
+                        0.9227858154311347
+                    ],
+                    [
+                        "detail",
+                        0.9227858154311347
+                    ],
+                    [
+                        "darn",
+                        0.9244281060991845
+                    ],
+                    [
+                        "cosine curve",
+                        2.0972279108992877
+                    ],
+                    [
+                        "cosine theta",
+                        3.0735673382916135
+                    ],
+                    [
+                        "limit meet",
+                        4.074483117380364
+                    ],
+                    [
+                        "darn clear",
+                        5.202519692886311
+                    ],
+                    [
+                        "gory detail",
+                        5.7355335075903975
+                    ]
+                ],
+                "topTopicSimilarity": 0.2727272727272727,
+                "sharedTopicScores": [
+                    [
+                        "theta",
+                        0.292711970363239
+                    ],
+                    [
+                        "cosine",
+                        0.37004737543695204
+                    ],
+                    [
+                        "curve",
+                        0.44734241006065334
+                    ],
+                    [
+                        "right",
+                        0.9151518941478441
+                    ],
+                    [
+                        "ratio",
+                        0.9192262883147355
+                    ],
+                    [
+                        "picture",
+                        0.9227858154311347
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-810": {
+            "id": "FtQl1gAo12E-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " So these are the main facts that I need to show. And I need to show those using trig, right? I have to draw some graph that convinces you. And this isn't quite good enough, because I just sketched a sine graph. I have to say where does sine theta come from? OK. So this will be number one, and this will be number two, and when we get those two things convincing, then we know that sine theta over theta is squeezed between and approaches 1. And then we'll know the story at the start, and you'll see that it becomes easy to find these formulas all along the curve. OK. Ready for these two? Number one and number two. OK, number one. Why is sine theta-- oh, I can probably see it on this picture. Yeah, I can prove number one on this picture. Look, that piece was sine theta, right? And I want to prove that this length-- what am I trying to prove? That sine theta is below theta. Let me write it again what it is to show. In math it's always a good idea to keep reminding yourself of what it is you're doing.",
+            "metrics": {
+                "relativeDCReadability": 0.9198685515785758,
+                "lexicalDiversity": 0.47342995169082125,
+                "posComposition": {
+                    "IN": 0.087,
+                    "DT": 0.101,
+                    "VBP": 0.053,
+                    "JJ": 0.043,
+                    "NNS": 0.014,
+                    "PRP": 0.111,
+                    "TO": 0.043,
+                    "VB": 0.092,
+                    "CC": 0.043,
+                    "VBG": 0.024,
+                    "NN": 0.121,
+                    "WDT": 0.005,
+                    "VBZ": 0.058,
+                    "RB": 0.043,
+                    "VBD": 0.01,
+                    "WRB": 0.014,
+                    "VBN": 0.01,
+                    "NNP": 0.029,
+                    "MD": 0.029,
+                    "CD": 0.043,
+                    ":": 0.01,
+                    "WP": 0.014
+                },
+                "syllableRate": 2.117,
+                "topicScores": [
+                    [
+                        "number",
+                        0.3108703107732422
+                    ],
+                    [
+                        "sine",
+                        0.3192957070943763
+                    ],
+                    [
+                        "theta",
+                        0.32220918957761097
+                    ],
+                    [
+                        "right",
+                        0.5355617056826638
+                    ],
+                    [
+                        "picture",
+                        0.5359049341113178
+                    ],
+                    [
+                        "graph",
+                        0.5543522602561141
+                    ],
+                    [
+                        "good",
+                        0.5811297298918963
+                    ],
+                    [
+                        "main",
+                        0.8372801438111825
+                    ],
+                    [
+                        "fact",
+                        0.8372801438111825
+                    ],
+                    [
+                        "trig",
+                        0.874828127733424
+                    ],
+                    [
+                        "curve",
+                        0.9064616529623127
+                    ],
+                    [
+                        "ready",
+                        0.9115506873640357
+                    ],
+                    [
+                        "thing",
+                        0.9208413453412245
+                    ],
+                    [
+                        "convincing",
+                        0.9208413453412245
+                    ],
+                    [
+                        "start",
+                        0.9236939464645646
+                    ],
+                    [
+                        "story",
+                        0.9306175926595985
+                    ],
+                    [
+                        "easy",
+                        0.9306175926595985
+                    ],
+                    [
+                        "formula",
+                        0.9306175926595985
+                    ],
+                    [
+                        "piece",
+                        0.9350544817544653
+                    ],
+                    [
+                        "math",
+                        0.9377889949550002
+                    ],
+                    [
+                        "idea",
+                        0.9435119354683003
+                    ],
+                    [
+                        "main fact",
+                        2.344907149366293
+                    ],
+                    [
+                        "sine graph",
+                        3.7076762191611863
+                    ],
+                    [
+                        "thing convincing",
+                        5.576731325380816
+                    ],
+                    [
+                        "good idea",
+                        6.635886387964273
+                    ]
+                ],
+                "topTopicSimilarity": 0.36,
+                "sharedTopicScores": [
+                    [
+                        "number",
+                        0.3108703107732422
+                    ],
+                    [
+                        "sine",
+                        0.3192957070943763
+                    ],
+                    [
+                        "theta",
+                        0.32220918957761097
+                    ],
+                    [
+                        "right",
+                        0.5355617056826638
+                    ],
+                    [
+                        "picture",
+                        0.5359049341113178
+                    ],
+                    [
+                        "curve",
+                        0.9064616529623127
+                    ],
+                    [
+                        "start",
+                        0.9236939464645646
+                    ],
+                    [
+                        "formula",
+                        0.9306175926595985
+                    ],
+                    [
+                        "piece",
+                        0.9350544817544653
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-900": {
+            "id": "FtQl1gAo12E-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " Sine theta is below theta. OK. So why is it? And you see it here. That was sine theta, right? And where was theta? Well, because we measured theta in radians, theta is this curvy distance that's clearly longer. The shortest way from this to the axis there is straight down, and that's sine theta. A slower way is go round and end up at not the nearest point, and that was theta. Is that good? I could sometimes just to be even more convincing, you add a second angle, and you say OK, there's 2 sine thetas and here is 2 thetas, and clearly we all know that the shortest way from there to there is the straight way. So I regard this as done by that picture. You see we didn't just make it up. It went back to the fundamental idea of where sine theta is in a picture. Now I need another picture. Yeah, I need another picture for number two to show that tan theta is bigger than theta. That was our other job. So essentially, I need that same picture again.",
+            "metrics": {
+                "relativeDCReadability": 1.005595250024536,
+                "lexicalDiversity": 0.45549738219895286,
+                "posComposition": {
+                    "NNP": 0.021,
+                    "NN": 0.152,
+                    "VBZ": 0.068,
+                    "IN": 0.099,
+                    "WRB": 0.016,
+                    "PRP": 0.084,
+                    "CC": 0.042,
+                    "VBP": 0.047,
+                    "RB": 0.094,
+                    "DT": 0.105,
+                    "VBD": 0.037,
+                    "JJ": 0.068,
+                    "NNS": 0.01,
+                    "EX": 0.021,
+                    "WDT": 0.01,
+                    "RBR": 0.01,
+                    "JJS": 0.016,
+                    "TO": 0.026,
+                    "JJR": 0.01,
+                    "VBN": 0.01,
+                    "VB": 0.021,
+                    "RP": 0.005,
+                    "MD": 0.005,
+                    "CD": 0.016,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.075,
+                "topicScores": [
+                    [
+                        "theta",
+                        0.22511939024395908
+                    ],
+                    [
+                        "picture",
+                        0.3392648067724113
+                    ],
+                    [
+                        "sine",
+                        0.3657651026005243
+                    ],
+                    [
+                        "way",
+                        0.37931115345924626
+                    ],
+                    [
+                        "short",
+                        0.5537350402838936
+                    ],
+                    [
+                        "straight",
+                        0.5645686262348638
+                    ],
+                    [
+                        "right",
+                        0.8917094639737031
+                    ],
+                    [
+                        "long",
+                        0.9084314059056511
+                    ],
+                    [
+                        "good",
+                        0.9153436617270873
+                    ],
+                    [
+                        "radian",
+                        0.9224832077122971
+                    ],
+                    [
+                        "job",
+                        0.9236372000253742
+                    ],
+                    [
+                        "slow",
+                        0.9267709936774671
+                    ],
+                    [
+                        "near",
+                        0.9267709936774671
+                    ],
+                    [
+                        "point",
+                        0.9267709936774671
+                    ],
+                    [
+                        "curvy",
+                        0.9283551981672981
+                    ],
+                    [
+                        "distance",
+                        0.9283551981672981
+                    ],
+                    [
+                        "convincing",
+                        0.9298363425263394
+                    ],
+                    [
+                        "second",
+                        0.9298363425263394
+                    ],
+                    [
+                        "angle",
+                        0.9298363425263394
+                    ],
+                    [
+                        "axis",
+                        0.9305338868069947
+                    ],
+                    [
+                        "fundamental",
+                        0.9382564898778597
+                    ],
+                    [
+                        "idea",
+                        0.9382564898778597
+                    ],
+                    [
+                        "number",
+                        0.9398012700998104
+                    ],
+                    [
+                        "big",
+                        0.9398012700998104
+                    ],
+                    [
+                        "short way",
+                        2.1481888695675364
+                    ],
+                    [
+                        "sine theta",
+                        2.675472218141569
+                    ],
+                    [
+                        "straight way",
+                        3.7191580211192083
+                    ],
+                    [
+                        "tan theta",
+                        4.141719151287128
+                    ],
+                    [
+                        "slow way",
+                        4.4418216374621675
+                    ],
+                    [
+                        "near point",
+                        6.087396981790414
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "theta",
+                        0.22511939024395908
+                    ],
+                    [
+                        "picture",
+                        0.3392648067724113
+                    ],
+                    [
+                        "sine",
+                        0.3657651026005243
+                    ],
+                    [
+                        "way",
+                        0.37931115345924626
+                    ],
+                    [
+                        "right",
+                        0.8917094639737031
+                    ],
+                    [
+                        "radian",
+                        0.9224832077122971
+                    ],
+                    [
+                        "point",
+                        0.9267709936774671
+                    ],
+                    [
+                        "distance",
+                        0.9283551981672981
+                    ],
+                    [
+                        "angle",
+                        0.9298363425263394
+                    ],
+                    [
+                        "number",
+                        0.9398012700998104
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-990": {
+            "id": "FtQl1gAo12E-990",
+            "heat": 0.1,
+            "start": 990.0,
+            "text": " Whoops, let me draw that triangle. Yeah, and it's got a circle. OK, that's not a bad circle. It's got an angle theta. And now I'm going to-- math has always got some little trick. So this is it. Go all the way out, so now the base is 1, and this is still the angle theta. And what else do I know on that picture? Now I've scaled the triangle up from this little one, so the base is 1. So what's that height? Well, the ratio of the opposite side to the near side, that's what tangent is. Tangent is the ratio-- whatever size the triangle-- is the ratio of the opposite side to the near side. Sine to cosine, here it's tan theta is that distance, and to 1. Good. OK, but now how am I going to see this? I have to ask you-- and it's OK-- to think about area instead of distance for a moment. What about area? So what do I see of area? I see right away that the area of this triangle is smaller",
+            "metrics": {
+                "relativeDCReadability": 0.9680278442028326,
+                "lexicalDiversity": 0.4720812182741117,
+                "posComposition": {
+                    "NNP": 0.03,
+                    "VB": 0.041,
+                    "PRP": 0.071,
+                    "IN": 0.081,
+                    "NN": 0.173,
+                    "CC": 0.036,
+                    "VBZ": 0.086,
+                    "VBD": 0.01,
+                    "DT": 0.132,
+                    "WDT": 0.015,
+                    "RB": 0.071,
+                    "JJ": 0.056,
+                    "VBP": 0.036,
+                    "VBG": 0.01,
+                    "TO": 0.041,
+                    ":": 0.025,
+                    "VBN": 0.01,
+                    "PDT": 0.005,
+                    "CD": 0.02,
+                    "WP": 0.025,
+                    "RP": 0.005,
+                    "NNPS": 0.005,
+                    "NNS": 0.005,
+                    "WRB": 0.005,
+                    "JJR": 0.005
+                },
+                "syllableRate": 2.1,
+                "topicScores": [
+                    [
+                        "Whoops",
+                        0.3698204081034339
+                    ],
+                    [
+                        "area",
+                        0.37547775148838997
+                    ],
+                    [
+                        "theta",
+                        0.4262716503175828
+                    ],
+                    [
+                        "triangle",
+                        0.44213473726361324
+                    ],
+                    [
+                        "circle",
+                        0.47497155435600646
+                    ],
+                    [
+                        "near",
+                        0.5328831824385712
+                    ],
+                    [
+                        "opposite",
+                        0.5397270398496485
+                    ],
+                    [
+                        "base",
+                        0.5415896454297755
+                    ],
+                    [
+                        "ratio",
+                        0.541858291623563
+                    ],
+                    [
+                        "little",
+                        0.5522982175448676
+                    ],
+                    [
+                        "distance",
+                        0.5690420879297836
+                    ],
+                    [
+                        "OK--",
+                        0.6960433445471077
+                    ],
+                    [
+                        "bad",
+                        0.8737530712473495
+                    ],
+                    [
+                        "good",
+                        0.8746210771863765
+                    ],
+                    [
+                        "trick",
+                        0.8760832495303225
+                    ],
+                    [
+                        "picture",
+                        0.891571360968626
+                    ],
+                    [
+                        "height",
+                        0.8973788003463796
+                    ],
+                    [
+                        "Tangent",
+                        0.901543792265837
+                    ],
+                    [
+                        "to--",
+                        0.9022884010887761
+                    ],
+                    [
+                        "math",
+                        0.9022884010887761
+                    ],
+                    [
+                        "way",
+                        0.9045678594003671
+                    ],
+                    [
+                        "you--",
+                        0.9072340466553338
+                    ],
+                    [
+                        "moment",
+                        0.9083136802329668
+                    ],
+                    [
+                        "small",
+                        0.9110284742392428
+                    ],
+                    [
+                        "size",
+                        0.9228389220984854
+                    ],
+                    [
+                        "angle theta",
+                        1.6500964064901187
+                    ],
+                    [
+                        "bad circle",
+                        1.9220276216335508
+                    ],
+                    [
+                        "little trick",
+                        3.2899806369479214
+                    ],
+                    [
+                        "tan theta",
+                        3.7150122837944797
+                    ],
+                    [
+                        "to-- math",
+                        4.37994108974002
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "area",
+                        0.37547775148838997
+                    ],
+                    [
+                        "theta",
+                        0.4262716503175828
+                    ],
+                    [
+                        "triangle",
+                        0.44213473726361324
+                    ],
+                    [
+                        "circle",
+                        0.47497155435600646
+                    ],
+                    [
+                        "ratio",
+                        0.541858291623563
+                    ],
+                    [
+                        "little",
+                        0.5522982175448676
+                    ],
+                    [
+                        "distance",
+                        0.5690420879297836
+                    ],
+                    [
+                        "picture",
+                        0.891571360968626
+                    ],
+                    [
+                        "way",
+                        0.9045678594003671
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1080": {
+            "id": "FtQl1gAo12E-1080",
+            "heat": 0.1,
+            "start": 1080.0,
+            "text": " than the area-- sorry, I shouldn't have called that a triangle. That's a little piece of pie, a little sector of a circle. So the area of this shaded-- did I shade it OK-- is less than-- so this is the area of the sector. Can I just call it the pie, piece of a pie, is less than the area of the triangle. But we know what the area of the triangle is. What's the area of a triangle? We can do that. It's the base half, right? 1/2 times the base times the height. So the area of the triangle is 1/2 times the base 1 times the height. OK. Notice we've got the sign going the right way. We want tan theta to be bigger than something, so what do I hope? I hope that the area of this shaded part, the area of the circular sector, is 1/2 of theta. Wouldn't that be wonderful? If I look at those areas, nobody's in any doubt that this piece, this sector that's inside the triangle, has an area less than the area of the triangle. So now I just have to remember why is the area of this",
+            "metrics": {
+                "relativeDCReadability": 0.9585505512029674,
+                "lexicalDiversity": 0.4481132075471698,
+                "posComposition": {
+                    "IN": 0.146,
+                    "DT": 0.193,
+                    "NN": 0.198,
+                    ":": 0.019,
+                    "VBP": 0.052,
+                    "PRP": 0.066,
+                    "MD": 0.009,
+                    "RB": 0.033,
+                    "VB": 0.033,
+                    "VBN": 0.009,
+                    "WDT": 0.009,
+                    "VBZ": 0.066,
+                    "JJ": 0.038,
+                    "VBD": 0.009,
+                    "NNP": 0.019,
+                    "JJR": 0.019,
+                    "CC": 0.005,
+                    "WP": 0.014,
+                    "CD": 0.019,
+                    "NNS": 0.024,
+                    "VBG": 0.005,
+                    "TO": 0.009,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.325,
+                "topicScores": [
+                    [
+                        "area",
+                        0.20046337451564586
+                    ],
+                    [
+                        "triangle",
+                        0.24978638503168027
+                    ],
+                    [
+                        "time",
+                        0.3579107169869174
+                    ],
+                    [
+                        "sector",
+                        0.36268593479651445
+                    ],
+                    [
+                        "base",
+                        0.42169406494665945
+                    ],
+                    [
+                        "pie",
+                        0.4224619077818399
+                    ],
+                    [
+                        "piece",
+                        0.43021283426234275
+                    ],
+                    [
+                        "height",
+                        0.526446433253117
+                    ],
+                    [
+                        "little",
+                        0.5320961721664291
+                    ],
+                    [
+                        "right",
+                        0.5519688651775845
+                    ],
+                    [
+                        "theta",
+                        0.562838641156514
+                    ],
+                    [
+                        "OK--",
+                        0.6052570021109482
+                    ],
+                    [
+                        "sorry",
+                        0.8542551767848483
+                    ],
+                    [
+                        "circle",
+                        0.8763662495144614
+                    ],
+                    [
+                        "than--",
+                        0.8851156069057896
+                    ],
+                    [
+                        "shaded--",
+                        0.9036689217304893
+                    ],
+                    [
+                        "notice",
+                        0.9131069268978497
+                    ],
+                    [
+                        "way",
+                        0.9131069268978497
+                    ],
+                    [
+                        "wonderful",
+                        0.9161404771512586
+                    ],
+                    [
+                        "half",
+                        0.9177593361271893
+                    ],
+                    [
+                        "circular",
+                        0.9250162665791323
+                    ],
+                    [
+                        "sign",
+                        0.9275099907628402
+                    ],
+                    [
+                        "tan",
+                        0.9284514393453104
+                    ],
+                    [
+                        "big",
+                        0.9284514393453104
+                    ],
+                    [
+                        "doubt",
+                        0.9307896997560102
+                    ],
+                    [
+                        "base time",
+                        2.343271305523444
+                    ],
+                    [
+                        "little sector",
+                        2.450810204667279
+                    ],
+                    [
+                        "area-- sorry",
+                        2.51964141228669
+                    ],
+                    [
+                        "little piece",
+                        2.644874366508251
+                    ],
+                    [
+                        "base half",
+                        3.4253139144389637
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "area",
+                        0.20046337451564586
+                    ],
+                    [
+                        "triangle",
+                        0.24978638503168027
+                    ],
+                    [
+                        "time",
+                        0.3579107169869174
+                    ],
+                    [
+                        "piece",
+                        0.43021283426234275
+                    ],
+                    [
+                        "little",
+                        0.5320961721664291
+                    ],
+                    [
+                        "right",
+                        0.5519688651775845
+                    ],
+                    [
+                        "theta",
+                        0.562838641156514
+                    ],
+                    [
+                        "circle",
+                        0.8763662495144614
+                    ],
+                    [
+                        "way",
+                        0.9131069268978497
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1170": {
+            "id": "FtQl1gAo12E-1170",
+            "heat": 0.1,
+            "start": 1170.0,
+            "text": " sector, half of theta. You know, there's another reason why areas come up right when we use a radians, when we measure theta with radians. So remember, just think about this piece of pie compared to the whole pie. What's the area of the whole piece of pie? So I'm explaining 1/2 theta. The area of the whole pie-- I'm going to get some terrible pun here on the word pie. Unintended, forgive it. The area of that whole circle, the radius is 1, we all know what the area of a circle is pi r squared. r is 1, so the area is pi. My God, I didn't expect that. Now what about this? What fraction is this sector? Well, the whole angle would be 2 pi, and this part of it is theta, so I have the sector is theta over 2 pi, that's the angle fraction, times the pi, the whole area. Do you see it? This piece of pie, or pizza, whatever--",
+            "metrics": {
+                "relativeDCReadability": 1.0257582611458165,
+                "lexicalDiversity": 0.5114942528735632,
+                "posComposition": {
+                    "NN": 0.207,
+                    "IN": 0.092,
+                    "PRP": 0.069,
+                    "VBP": 0.046,
+                    "EX": 0.006,
+                    "VBZ": 0.063,
+                    "DT": 0.155,
+                    "WRB": 0.017,
+                    "NNS": 0.023,
+                    "RB": 0.04,
+                    "JJ": 0.063,
+                    "NNP": 0.034,
+                    "VB": 0.034,
+                    "VBN": 0.023,
+                    "TO": 0.011,
+                    "WP": 0.023,
+                    "VBG": 0.011,
+                    "CD": 0.029,
+                    ":": 0.011,
+                    "VBD": 0.011,
+                    "MD": 0.006,
+                    "CC": 0.011,
+                    "WDT": 0.011
+                },
+                "syllableRate": 1.908,
+                "topicScores": [
+                    [
+                        "area",
+                        0.28441177002201457
+                    ],
+                    [
+                        "pie",
+                        0.32249561633943763
+                    ],
+                    [
+                        "theta",
+                        0.3438386588623084
+                    ],
+                    [
+                        "piece",
+                        0.4228496511895802
+                    ],
+                    [
+                        "sector",
+                        0.4410518765145988
+                    ],
+                    [
+                        "radian",
+                        0.5311731578146178
+                    ],
+                    [
+                        "fraction",
+                        0.5734176663737369
+                    ],
+                    [
+                        "circle",
+                        0.5786018726843111
+                    ],
+                    [
+                        "angle",
+                        0.5786264926571234
+                    ],
+                    [
+                        "God",
+                        0.6596554948110893
+                    ],
+                    [
+                        "half",
+                        0.816014512781649
+                    ],
+                    [
+                        "reason",
+                        0.8794546933857853
+                    ],
+                    [
+                        "unintended",
+                        0.8960843233085937
+                    ],
+                    [
+                        "whatever--",
+                        0.9111600630723872
+                    ],
+                    [
+                        "word",
+                        0.9174252237397307
+                    ],
+                    [
+                        "radius",
+                        0.9227910414183623
+                    ],
+                    [
+                        "terrible",
+                        0.9239150984356788
+                    ],
+                    [
+                        "pun",
+                        0.9239150984356788
+                    ],
+                    [
+                        "pizza",
+                        0.926084929600334
+                    ],
+                    [
+                        "time",
+                        0.9303138253893296
+                    ],
+                    [
+                        "word pie",
+                        3.251728063317111
+                    ],
+                    [
+                        "pi r",
+                        3.967006714746459
+                    ],
+                    [
+                        "angle fraction",
+                        5.006127988977896
+                    ],
+                    [
+                        "terrible pun",
+                        5.831492785503574
+                    ]
+                ],
+                "topTopicSimilarity": 0.2916666666666667,
+                "sharedTopicScores": [
+                    [
+                        "area",
+                        0.28441177002201457
+                    ],
+                    [
+                        "theta",
+                        0.3438386588623084
+                    ],
+                    [
+                        "piece",
+                        0.4228496511895802
+                    ],
+                    [
+                        "radian",
+                        0.5311731578146178
+                    ],
+                    [
+                        "circle",
+                        0.5786018726843111
+                    ],
+                    [
+                        "angle",
+                        0.5786264926571234
+                    ],
+                    [
+                        "time",
+                        0.9303138253893296
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1260": {
+            "id": "FtQl1gAo12E-1260",
+            "heat": 0.1,
+            "start": 1260.0,
+            "text": " yeah, if I'd said pizza, I wouldn't have had that terrible pun. Forget it. So the area of this piece of pizza compared to the whole one is theta over the whole 2 pi. Suppose it was a pizza cut in the usual 6 pieces. Then this would be a 60 degree angle, but I don't want degrees. What would be the angle of that piece of pizza that's cut when the whole pizza's cut in 6? It would be 1/6 of 360. That's 60 degrees. But I don't want degrees. It's 1/6 of 2 pi. And this one is theta of 2 pi. Anyway, the pis cancel. Theta over 2 is the right answer, and now we can cancel the 1/2, and we've got what we want. That's pretty nice when you realize that we were facing for the first time, more or less, the sort of tough problem of calculus when I can't really divide theta into sine theta. Sine theta, I can't just divide it in. I have to keep them both approaching 0 over 0, and see what that ratio is doing. And now I said to conclude, I'll go back and prove the",
+            "metrics": {
+                "relativeDCReadability": 1.079735484102753,
+                "lexicalDiversity": 0.5118483412322274,
+                "posComposition": {
+                    "NN": 0.142,
+                    "IN": 0.09,
+                    "PRP": 0.095,
+                    "MD": 0.043,
+                    "VBD": 0.024,
+                    "RB": 0.052,
+                    "VB": 0.066,
+                    "VBN": 0.024,
+                    "DT": 0.109,
+                    "JJ": 0.057,
+                    "NNP": 0.024,
+                    "TO": 0.014,
+                    "VBZ": 0.038,
+                    "CD": 0.071,
+                    "NNS": 0.019,
+                    "CC": 0.043,
+                    "VBP": 0.028,
+                    "WP": 0.014,
+                    "WDT": 0.005,
+                    "WRB": 0.014,
+                    "POS": 0.005,
+                    "VBG": 0.014,
+                    "RBR": 0.009
+                },
+                "syllableRate": 2.192,
+                "topicScores": [
+                    [
+                        "pizza",
+                        0.3394911612750768
+                    ],
+                    [
+                        "theta",
+                        0.348903478570764
+                    ],
+                    [
+                        "degree",
+                        0.36221026718447435
+                    ],
+                    [
+                        "piece",
+                        0.41836860050760144
+                    ],
+                    [
+                        "cut",
+                        0.43862065451122095
+                    ],
+                    [
+                        "angle",
+                        0.5636345908099708
+                    ],
+                    [
+                        "pun",
+                        0.7760467118972578
+                    ],
+                    [
+                        "terrible",
+                        0.8105359272432487
+                    ],
+                    [
+                        "area",
+                        0.8961243150635291
+                    ],
+                    [
+                        "Sine",
+                        0.9042950354915567
+                    ],
+                    [
+                        "usual",
+                        0.9067674863815934
+                    ],
+                    [
+                        "pis",
+                        0.9180843817271057
+                    ],
+                    [
+                        "right",
+                        0.9267839268447067
+                    ],
+                    [
+                        "answer",
+                        0.9267839268447067
+                    ],
+                    [
+                        "time",
+                        0.9279381982000734
+                    ],
+                    [
+                        "sort",
+                        0.9279381982000734
+                    ],
+                    [
+                        "nice",
+                        0.934196965956803
+                    ],
+                    [
+                        "tough",
+                        0.934196965956803
+                    ],
+                    [
+                        "problem",
+                        0.934196965956803
+                    ],
+                    [
+                        "calculus",
+                        0.934196965956803
+                    ],
+                    [
+                        "ratio",
+                        0.9359915031677153
+                    ],
+                    [
+                        "terrible pun",
+                        1.6955176271655126
+                    ],
+                    [
+                        "degree angle",
+                        3.0212657617846164
+                    ],
+                    [
+                        "pizza cut",
+                        3.344847805890878
+                    ],
+                    [
+                        "Sine theta",
+                        4.422577991287966
+                    ],
+                    [
+                        "right answer",
+                        6.0886013455099155
+                    ],
+                    [
+                        "tough problem",
+                        6.856939043833173
+                    ]
+                ],
+                "topTopicSimilarity": 0.25925925925925924,
+                "sharedTopicScores": [
+                    [
+                        "theta",
+                        0.348903478570764
+                    ],
+                    [
+                        "piece",
+                        0.41836860050760144
+                    ],
+                    [
+                        "angle",
+                        0.5636345908099708
+                    ],
+                    [
+                        "area",
+                        0.8961243150635291
+                    ],
+                    [
+                        "right",
+                        0.9267839268447067
+                    ],
+                    [
+                        "time",
+                        0.9279381982000734
+                    ],
+                    [
+                        "ratio",
+                        0.9359915031677153
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1350": {
+            "id": "FtQl1gAo12E-1350",
+            "heat": 0.1,
+            "start": 1350.0,
+            "text": " slopes, find the slopes at all points. OK, so at all points-- now let's start with sine x. So what am I doing now? I'm looking at the sine curve. You remember it went up like this and down like this. I'm taking any point x. Suddenly I changed the angle from theta to x, just because I'm used to functions of x. We're just talking letters there. X is good, and this is a graph of sine x. X is measured in radians still. OK. So now what am I doing to find the derivative at some particular point? I look at the sine there. I go a little distance delta x. I go up to here, and I look to see-- I want to know the change in sine x divided by the change in x. And of course, I'm going to let the piece get smaller and smaller. That's what calculus does. The main point is my x is now here instead of being at the start. I've done it for the start, but now I have to do it for all the other x's.",
+            "metrics": {
+                "relativeDCReadability": 0.9811149542380332,
+                "lexicalDiversity": 0.4472361809045226,
+                "posComposition": {
+                    "NNS": 0.04,
+                    "VBP": 0.09,
+                    "DT": 0.111,
+                    "IN": 0.111,
+                    "NNP": 0.03,
+                    "RB": 0.09,
+                    ":": 0.01,
+                    "POS": 0.01,
+                    "VB": 0.035,
+                    "JJ": 0.03,
+                    "WP": 0.015,
+                    "PRP": 0.095,
+                    "VBG": 0.035,
+                    "NN": 0.131,
+                    "VBD": 0.01,
+                    "CC": 0.03,
+                    "VBZ": 0.04,
+                    "TO": 0.04,
+                    "VBN": 0.02,
+                    "EX": 0.005,
+                    "JJR": 0.01,
+                    "PRP$": 0.005,
+                    "PDT": 0.005
+                },
+                "syllableRate": 1.975,
+                "topicScores": [
+                    [
+                        "x.",
+                        0.3054820005021617
+                    ],
+                    [
+                        "sine",
+                        0.3461654152962105
+                    ],
+                    [
+                        "point",
+                        0.3831213198379032
+                    ],
+                    [
+                        "start",
+                        0.4473972410464682
+                    ],
+                    [
+                        "change",
+                        0.4545866618608754
+                    ],
+                    [
+                        "slope",
+                        0.5233387668375189
+                    ],
+                    [
+                        "small",
+                        0.5785797101895259
+                    ],
+                    [
+                        "curve",
+                        0.8854169572128768
+                    ],
+                    [
+                        "letter",
+                        0.9181504545819866
+                    ],
+                    [
+                        "good",
+                        0.9199749540522447
+                    ],
+                    [
+                        "radian",
+                        0.9199749540522447
+                    ],
+                    [
+                        "particular",
+                        0.9229173170646261
+                    ],
+                    [
+                        "delta",
+                        0.9252060095418028
+                    ],
+                    [
+                        "angle",
+                        0.9255365422439029
+                    ],
+                    [
+                        "theta",
+                        0.9255365422439029
+                    ],
+                    [
+                        "function",
+                        0.9255365422439029
+                    ],
+                    [
+                        "course",
+                        0.9270519178249776
+                    ],
+                    [
+                        "graph",
+                        0.9272094520047323
+                    ],
+                    [
+                        "calculus",
+                        0.9278505407405885
+                    ],
+                    [
+                        "main",
+                        0.9285819324515804
+                    ],
+                    [
+                        "derivative",
+                        0.9299060835045859
+                    ],
+                    [
+                        "little",
+                        0.932002558109533
+                    ],
+                    [
+                        "distance",
+                        0.932002558109533
+                    ],
+                    [
+                        "see--",
+                        0.9328898820809904
+                    ],
+                    [
+                        "piece",
+                        0.9336927496290284
+                    ],
+                    [
+                        "x. X",
+                        1.4493014814644112
+                    ],
+                    [
+                        "sine x.",
+                        2.081560910579783
+                    ],
+                    [
+                        "point x.",
+                        3.2176428111252924
+                    ],
+                    [
+                        "sine curve",
+                        3.814471688956129
+                    ],
+                    [
+                        "delta x.",
+                        3.8415210609850052
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "sine",
+                        0.3461654152962105
+                    ],
+                    [
+                        "point",
+                        0.3831213198379032
+                    ],
+                    [
+                        "start",
+                        0.4473972410464682
+                    ],
+                    [
+                        "slope",
+                        0.5233387668375189
+                    ],
+                    [
+                        "curve",
+                        0.8854169572128768
+                    ],
+                    [
+                        "radian",
+                        0.9199749540522447
+                    ],
+                    [
+                        "delta",
+                        0.9252060095418028
+                    ],
+                    [
+                        "angle",
+                        0.9255365422439029
+                    ],
+                    [
+                        "theta",
+                        0.9255365422439029
+                    ],
+                    [
+                        "function",
+                        0.9255365422439029
+                    ],
+                    [
+                        "derivative",
+                        0.9299060835045859
+                    ],
+                    [
+                        "little",
+                        0.932002558109533
+                    ],
+                    [
+                        "distance",
+                        0.932002558109533
+                    ],
+                    [
+                        "piece",
+                        0.9336927496290284
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1440": {
+            "id": "FtQl1gAo12E-1440",
+            "heat": 1.0,
+            "start": 1440.0,
+            "text": " So there's the x. There's the x plus delta x, a little bit long. In other words, can I write this in the familiar way, sine of x plus delta minus sine there divided by delta x? OK. So again, we can't simplify totally by just dividing the delta x in. We've got to go back to trigonometry. Trig had a formula for the sine of a plus b. Two angles added, then there's a neat formula for it. So the sine-- can I remind you of that formula? It is the sine of the first angle times the cosine of the second minus the cosine of the first angle times the sine of the second. OK? You remember this, right, from trig? The sine of a plus b is this neat thing. Now I have to subtract sine x. So now can I subtract off sine x? When I subtract off sine x, then I need a minus 1. And now I have to divide by delta x.",
+            "metrics": {
+                "relativeDCReadability": 1.2850804870213217,
+                "lexicalDiversity": 0.5028571428571429,
+                "posComposition": {
+                    "IN": 0.114,
+                    "EX": 0.017,
+                    "VBZ": 0.046,
+                    "DT": 0.143,
+                    "NNP": 0.046,
+                    "JJ": 0.091,
+                    "CC": 0.017,
+                    "VB": 0.051,
+                    "NN": 0.171,
+                    "RB": 0.074,
+                    "NNS": 0.011,
+                    "MD": 0.023,
+                    "PRP": 0.074,
+                    "VBN": 0.011,
+                    "VBG": 0.006,
+                    "VBP": 0.034,
+                    "TO": 0.023,
+                    "VBD": 0.011,
+                    "CD": 0.011,
+                    ":": 0.006,
+                    "RP": 0.011,
+                    "WRB": 0.006
+                },
+                "syllableRate": 1.858,
+                "topicScores": [
+                    [
+                        "sine",
+                        0.25324251970267153
+                    ],
+                    [
+                        "x",
+                        0.2781529606748844
+                    ],
+                    [
+                        "delta",
+                        0.31896920749428004
+                    ],
+                    [
+                        "plus",
+                        0.3670738752760868
+                    ],
+                    [
+                        "angle",
+                        0.4316392632113592
+                    ],
+                    [
+                        "formula",
+                        0.4373403229402701
+                    ],
+                    [
+                        "second",
+                        0.5554271195271262
+                    ],
+                    [
+                        "time",
+                        0.5583638450856834
+                    ],
+                    [
+                        "cosine",
+                        0.5583638450856834
+                    ],
+                    [
+                        "neat",
+                        0.5628165374563789
+                    ],
+                    [
+                        "long",
+                        0.770816243537809
+                    ],
+                    [
+                        "little",
+                        0.8059095033328658
+                    ],
+                    [
+                        "bit",
+                        0.8059095033328658
+                    ],
+                    [
+                        "word",
+                        0.8620526816234244
+                    ],
+                    [
+                        "familiar",
+                        0.8620526816234244
+                    ],
+                    [
+                        "way",
+                        0.8620526816234244
+                    ],
+                    [
+                        "trigonometry",
+                        0.882877933524351
+                    ],
+                    [
+                        "Trig",
+                        0.8891693389796774
+                    ],
+                    [
+                        "thing",
+                        0.9052595720495001
+                    ],
+                    [
+                        "b.",
+                        0.9161065855036303
+                    ],
+                    [
+                        "delta x",
+                        1.3914813444349192
+                    ],
+                    [
+                        "bit long",
+                        1.6399722248913384
+                    ],
+                    [
+                        "little bit",
+                        1.8529866877787629
+                    ],
+                    [
+                        "angle time",
+                        2.042379062490806
+                    ],
+                    [
+                        "sine x",
+                        2.3556079246553314
+                    ],
+                    [
+                        "plus delta",
+                        2.364252074044803
+                    ],
+                    [
+                        "x plus",
+                        2.4629070017775576
+                    ],
+                    [
+                        "familiar way",
+                        2.89309295618201
+                    ],
+                    [
+                        "neat formula",
+                        3.5506845371798774
+                    ],
+                    [
+                        "neat thing",
+                        4.1956300443775
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "sine",
+                        0.25324251970267153
+                    ],
+                    [
+                        "x",
+                        0.2781529606748844
+                    ],
+                    [
+                        "delta",
+                        0.31896920749428004
+                    ],
+                    [
+                        "plus",
+                        0.3670738752760868
+                    ],
+                    [
+                        "angle",
+                        0.4316392632113592
+                    ],
+                    [
+                        "formula",
+                        0.4373403229402701
+                    ],
+                    [
+                        "time",
+                        0.5583638450856834
+                    ],
+                    [
+                        "cosine",
+                        0.5583638450856834
+                    ],
+                    [
+                        "little",
+                        0.8059095033328658
+                    ],
+                    [
+                        "way",
+                        0.8620526816234244
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1530": {
+            "id": "FtQl1gAo12E-1530",
+            "heat": 0.1,
+            "start": 1530.0,
+            "text": " So I divide this by delta x, and I divide this by delta x. OK. This is an expression I can work with. That's why I had to remember this trig formula to get this expression that I can work with. Why do I say I can work with it? Because this is exactly what I've already pinned down. Delta x is now headed for 0. This point is going to come close to this one. So actually, I've got two terms. This sine delta x over delta x, what does that do as delta x goes to 0? It goes to 1. That was the point of that whole right hand board. So this thing goes to 1. Wait a minute. That's a plus sign. Everybody watching is going to think, OK, forgot trig. The sine of the sum of an angle is the sine times the cosine plus the cosine times the sine. Sorry about that one too. OK, so sine of delta x over delta x goes to 0. And now finally, this goes to 1, and actually I need another little piece. I need to know this piece, and I need to know that that ratio goes to 0.",
+            "metrics": {
+                "relativeDCReadability": 1.0449737416418368,
+                "lexicalDiversity": 0.4975845410628019,
+                "posComposition": {
+                    "RB": 0.053,
+                    "PRP": 0.068,
+                    "VBP": 0.043,
+                    "DT": 0.14,
+                    "IN": 0.092,
+                    "NN": 0.164,
+                    "CC": 0.024,
+                    "JJ": 0.039,
+                    "NNP": 0.039,
+                    "VBZ": 0.082,
+                    "MD": 0.014,
+                    "VB": 0.048,
+                    "WRB": 0.01,
+                    "VBD": 0.014,
+                    "TO": 0.063,
+                    "WP": 0.01,
+                    "VBN": 0.014,
+                    "RP": 0.005,
+                    "CD": 0.048,
+                    "VBG": 0.01,
+                    "NNS": 0.005,
+                    "FW": 0.005,
+                    "WDT": 0.01
+                },
+                "syllableRate": 2.183,
+                "topicScores": [
+                    [
+                        "delta",
+                        0.28152405172020956
+                    ],
+                    [
+                        "x",
+                        0.2883000225896575
+                    ],
+                    [
+                        "sine",
+                        0.33778955703360264
+                    ],
+                    [
+                        "OK",
+                        0.3914602673105421
+                    ],
+                    [
+                        "x. OK",
+                        0.4721701594856578
+                    ],
+                    [
+                        "expression",
+                        0.5389011068380376
+                    ],
+                    [
+                        "trig",
+                        0.5639507807157574
+                    ],
+                    [
+                        "point",
+                        0.5720380975040948
+                    ],
+                    [
+                        "piece",
+                        0.574047111808618
+                    ],
+                    [
+                        "time",
+                        0.5775400963799382
+                    ],
+                    [
+                        "cosine",
+                        0.5775400963799382
+                    ],
+                    [
+                        "plus",
+                        0.5784353980966271
+                    ],
+                    [
+                        "formula",
+                        0.9003092134401837
+                    ],
+                    [
+                        "term",
+                        0.9078683582862112
+                    ],
+                    [
+                        "board",
+                        0.9148191316231635
+                    ],
+                    [
+                        "minute",
+                        0.9179341536186807
+                    ],
+                    [
+                        "sign",
+                        0.9192157827154882
+                    ],
+                    [
+                        "sorry",
+                        0.9223135448123742
+                    ],
+                    [
+                        "forgot",
+                        0.926916553132902
+                    ],
+                    [
+                        "hand",
+                        0.9279684203120571
+                    ],
+                    [
+                        "watching",
+                        0.9327151765775701
+                    ],
+                    [
+                        "right",
+                        0.9334548730314626
+                    ],
+                    [
+                        "ratio",
+                        0.9337164609149071
+                    ],
+                    [
+                        "thing",
+                        0.934780135735916
+                    ],
+                    [
+                        "little",
+                        0.935775691231177
+                    ],
+                    [
+                        "sum",
+                        0.9386801551197549
+                    ],
+                    [
+                        "angle",
+                        0.9386801551197549
+                    ],
+                    [
+                        "delta x",
+                        1.1672063483171935
+                    ],
+                    [
+                        "delta x. OK",
+                        1.3650513497135965
+                    ],
+                    [
+                        "sine time",
+                        3.9821857539417462
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "delta",
+                        0.28152405172020956
+                    ],
+                    [
+                        "x",
+                        0.2883000225896575
+                    ],
+                    [
+                        "sine",
+                        0.33778955703360264
+                    ],
+                    [
+                        "point",
+                        0.5720380975040948
+                    ],
+                    [
+                        "piece",
+                        0.574047111808618
+                    ],
+                    [
+                        "time",
+                        0.5775400963799382
+                    ],
+                    [
+                        "cosine",
+                        0.5775400963799382
+                    ],
+                    [
+                        "plus",
+                        0.5784353980966271
+                    ],
+                    [
+                        "formula",
+                        0.9003092134401837
+                    ],
+                    [
+                        "right",
+                        0.9334548730314626
+                    ],
+                    [
+                        "ratio",
+                        0.9337164609149071
+                    ],
+                    [
+                        "little",
+                        0.935775691231177
+                    ],
+                    [
+                        "angle",
+                        0.9386801551197549
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1620": {
+            "id": "FtQl1gAo12E-1620",
+            "heat": 0.1,
+            "start": 1620.0,
+            "text": " So I need to go back to that board and look again at the cosine curve at 0. Because this will be a slope of the cosine curve at 0. And the slope comes out 0 for the cosine curve. The slope for the sine curve came out 1. Do you see how it's working? So this is gone because of the 0. This is the cosine x times 1. All together I get cosine of x. Hooray. That's the goal. That's the predicted plan, desired formula cos x for the ratio of delta of sine x over delta x as delta x goes to 0. Do you see that? So we used a trig formula, and we got the sine right a little late. Well, of course the reason I-- one reason I goofed was that the other example, the other case we need for the second formula does have a minus sign. And it survives in the end. So I would do exactly the same thing for the cosines that I did for the sines. If there's another board underneath here, I'm going to do it. Yeah, there is. Now I want to know the delta of cosine x over delta x.",
+            "metrics": {
+                "relativeDCReadability": 1.068386337113955,
+                "lexicalDiversity": 0.4714285714285714,
+                "posComposition": {
+                    "RB": 0.043,
+                    "PRP": 0.076,
+                    "VBP": 0.038,
+                    "TO": 0.024,
+                    "VB": 0.043,
+                    "DT": 0.143,
+                    "NN": 0.186,
+                    "CC": 0.019,
+                    "IN": 0.124,
+                    "CD": 0.038,
+                    "MD": 0.01,
+                    "VBZ": 0.057,
+                    "RP": 0.01,
+                    "VBD": 0.033,
+                    "NNPS": 0.005,
+                    "WRB": 0.005,
+                    "VBG": 0.01,
+                    "VBN": 0.005,
+                    "NNP": 0.038,
+                    "WDT": 0.01,
+                    "JJ": 0.057,
+                    ":": 0.005,
+                    "NNS": 0.014,
+                    "EX": 0.01
+                },
+                "syllableRate": 2.167,
+                "topicScores": [
+                    [
+                        "cosine",
+                        0.2723564341863289
+                    ],
+                    [
+                        "curve",
+                        0.30413490725912706
+                    ],
+                    [
+                        "x",
+                        0.3098476017590138
+                    ],
+                    [
+                        "delta",
+                        0.3367111328965464
+                    ],
+                    [
+                        "slope",
+                        0.4019996630318154
+                    ],
+                    [
+                        "formula",
+                        0.43951837030050045
+                    ],
+                    [
+                        "board",
+                        0.5606479468624045
+                    ],
+                    [
+                        "reason",
+                        0.5730914469860184
+                    ],
+                    [
+                        "Hooray",
+                        0.6150959674875845
+                    ],
+                    [
+                        "cosine curve",
+                        0.6820261060328262
+                    ],
+                    [
+                        "goal",
+                        0.8955501309889803
+                    ],
+                    [
+                        "time",
+                        0.9034182542415509
+                    ],
+                    [
+                        "sign",
+                        0.9039780376785846
+                    ],
+                    [
+                        "end",
+                        0.905455171914507
+                    ],
+                    [
+                        "plan",
+                        0.9119058854706409
+                    ],
+                    [
+                        "trig",
+                        0.9155367741705459
+                    ],
+                    [
+                        "little",
+                        0.9155367741705459
+                    ],
+                    [
+                        "course",
+                        0.9170035525561213
+                    ],
+                    [
+                        "example",
+                        0.9170035525561213
+                    ],
+                    [
+                        "minus",
+                        0.9170035525561213
+                    ],
+                    [
+                        "ratio",
+                        0.917783968322474
+                    ],
+                    [
+                        "case",
+                        0.9225703747397695
+                    ],
+                    [
+                        "second",
+                        0.9225703747397695
+                    ],
+                    [
+                        "thing",
+                        0.9248685298341431
+                    ],
+                    [
+                        "x. Hooray",
+                        1.180906481012804
+                    ],
+                    [
+                        "cosine x",
+                        1.5501768639938376
+                    ],
+                    [
+                        "delta x",
+                        3.117036910925725
+                    ],
+                    [
+                        "x time",
+                        3.6694136137266513
+                    ],
+                    [
+                        "trig formula",
+                        4.122700507184572
+                    ],
+                    [
+                        "second formula",
+                        4.290256682912924
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "cosine",
+                        0.2723564341863289
+                    ],
+                    [
+                        "curve",
+                        0.30413490725912706
+                    ],
+                    [
+                        "x",
+                        0.3098476017590138
+                    ],
+                    [
+                        "delta",
+                        0.3367111328965464
+                    ],
+                    [
+                        "slope",
+                        0.4019996630318154
+                    ],
+                    [
+                        "formula",
+                        0.43951837030050045
+                    ],
+                    [
+                        "time",
+                        0.9034182542415509
+                    ],
+                    [
+                        "little",
+                        0.9155367741705459
+                    ],
+                    [
+                        "minus",
+                        0.9170035525561213
+                    ],
+                    [
+                        "ratio",
+                        0.917783968322474
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1710": {
+            "id": "FtQl1gAo12E-1710",
+            "heat": 0.1,
+            "start": 1710.0,
+            "text": " That's what we do, we have to simplify that, then we have to let delta x go to 0. So what does this mean? This means the cosine a little bit along minus the cosine at the point divided by delta x. Again, we can't do that division just right away, but we can simplify this by remembering the formula that cosign-- now let me try to remember it. It's a cosine times a cosine for this guy plus a sine-- no, minus a sine times the sine. That's the formula that we all remember and go to sleep with. Now divide by delta x. Oh, first subtract cosine x. So there was a cosine x, so I want to subtract one of them. OK? And now I have to divide by the delta x. So I do that there. I do it here. And you see that we're in the same happy position. We're in the happy position that as delta x goes to 0, we know what this does. That goes to 1. We know what this does, or we soon will.",
+            "metrics": {
+                "relativeDCReadability": 0.9731170780978327,
+                "lexicalDiversity": 0.4270833333333333,
+                "posComposition": {
+                    "DT": 0.13,
+                    "VBZ": 0.057,
+                    "WP": 0.021,
+                    "PRP": 0.109,
+                    "VBP": 0.057,
+                    "VB": 0.078,
+                    "TO": 0.047,
+                    "IN": 0.089,
+                    "RB": 0.062,
+                    "NNP": 0.047,
+                    "CD": 0.021,
+                    "NN": 0.13,
+                    "JJ": 0.042,
+                    "CC": 0.036,
+                    "VBN": 0.01,
+                    "MD": 0.016,
+                    "VBG": 0.005,
+                    "WDT": 0.016,
+                    ":": 0.01,
+                    "EX": 0.01,
+                    "VBD": 0.005
+                },
+                "syllableRate": 2.0,
+                "topicScores": [
+                    [
+                        "cosine",
+                        0.32766075979749504
+                    ],
+                    [
+                        "delta",
+                        0.34894657207297847
+                    ],
+                    [
+                        "x.",
+                        0.36696646111642844
+                    ],
+                    [
+                        "formula",
+                        0.5707193928689376
+                    ],
+                    [
+                        "happy",
+                        0.5789303912938656
+                    ],
+                    [
+                        "position",
+                        0.5821549605969258
+                    ],
+                    [
+                        "time",
+                        0.5825576219554754
+                    ],
+                    [
+                        "subtract",
+                        0.5829313620772787
+                    ],
+                    [
+                        "Oh",
+                        0.6863786549126115
+                    ],
+                    [
+                        "little",
+                        0.9221207880459482
+                    ],
+                    [
+                        "bit",
+                        0.9221207880459482
+                    ],
+                    [
+                        "point",
+                        0.9221207880459482
+                    ],
+                    [
+                        "sine--",
+                        0.923854829614384
+                    ],
+                    [
+                        "division",
+                        0.9278985702669637
+                    ],
+                    [
+                        "cosign--",
+                        0.9278985702669637
+                    ],
+                    [
+                        "guy",
+                        0.9319579967947289
+                    ],
+                    [
+                        "x. Oh",
+                        1.408724279394026
+                    ],
+                    [
+                        "delta x.",
+                        1.660561369998269
+                    ],
+                    [
+                        "happy position",
+                        3.483331123627214
+                    ],
+                    [
+                        "cosine x.",
+                        3.625024030076276
+                    ],
+                    [
+                        "cosine time",
+                        5.637294567457372
+                    ],
+                    [
+                        "subtract cosine",
+                        5.661386196955013
+                    ],
+                    [
+                        "little bit",
+                        5.680327836731126
+                    ],
+                    [
+                        "delta x. Oh",
+                        6.392220517536343
+                    ]
+                ],
+                "topTopicSimilarity": 0.25,
+                "sharedTopicScores": [
+                    [
+                        "cosine",
+                        0.32766075979749504
+                    ],
+                    [
+                        "delta",
+                        0.34894657207297847
+                    ],
+                    [
+                        "formula",
+                        0.5707193928689376
+                    ],
+                    [
+                        "time",
+                        0.5825576219554754
+                    ],
+                    [
+                        "little",
+                        0.9221207880459482
+                    ],
+                    [
+                        "point",
+                        0.9221207880459482
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1800": {
+            "id": "FtQl1gAo12E-1800",
+            "heat": 0.1,
+            "start": 1800.0,
+            "text": " That goes to 0, just the way they did on the board that got raised. So that term disappeared just like before. This term survives. It's got a 1, it's got now a sine x, and it's got now a minus sign. So that's the final result, that the limit is minus sine x. That's the slope of the cosine curve. And you wouldn't want it any other way. You want that minus sign. You'll see it with second derivatives. So it's just terrific that those functions, the derivative of the sine is the cosine with a plus, the derivative of the cosine is the sine with a minus. OK. And we've almost proved it, we just didn't quite pick up this point yet, and let me do that. That will finish this lecture. Why does that ratio approach zero? What is that ratio? That ratio is coming from the cosine curve. The cosine curve at 0, the way this ratio came from the sine curve at 0. Here I'm taking-- this is delta cosine. There's lots of ways I can do this, but maybe I'll just do it the way you see it.",
+            "metrics": {
+                "relativeDCReadability": 0.9551780752543185,
+                "lexicalDiversity": 0.46153846153846156,
+                "posComposition": {
+                    "DT": 0.163,
+                    "VBZ": 0.077,
+                    "TO": 0.005,
+                    "CD": 0.024,
+                    "RB": 0.072,
+                    "NN": 0.178,
+                    "PRP": 0.096,
+                    "VBD": 0.038,
+                    "IN": 0.096,
+                    "WDT": 0.019,
+                    "VBN": 0.01,
+                    "CC": 0.034,
+                    "NNP": 0.01,
+                    "JJ": 0.029,
+                    "MD": 0.024,
+                    "VB": 0.048,
+                    "VBP": 0.024,
+                    "NNS": 0.019,
+                    "RP": 0.005,
+                    "WRB": 0.005,
+                    "WP": 0.005,
+                    "VBG": 0.01,
+                    ":": 0.005,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.142,
+                "topicScores": [
+                    [
+                        "cosine",
+                        0.30369433990524175
+                    ],
+                    [
+                        "way",
+                        0.3494564613162534
+                    ],
+                    [
+                        "curve",
+                        0.35523279379236566
+                    ],
+                    [
+                        "minus",
+                        0.3682733255726541
+                    ],
+                    [
+                        "ratio",
+                        0.3814260194521926
+                    ],
+                    [
+                        "derivative",
+                        0.4286362660700646
+                    ],
+                    [
+                        "sign",
+                        0.5274608902200844
+                    ],
+                    [
+                        "term",
+                        0.5342298224774736
+                    ],
+                    [
+                        "board",
+                        0.8265905299300041
+                    ],
+                    [
+                        "x.",
+                        0.8613383212125344
+                    ],
+                    [
+                        "final",
+                        0.9071897544884003
+                    ],
+                    [
+                        "result",
+                        0.9071897544884003
+                    ],
+                    [
+                        "limit",
+                        0.9144090241887484
+                    ],
+                    [
+                        "lecture",
+                        0.9156048274480727
+                    ],
+                    [
+                        "slope",
+                        0.9227238993050008
+                    ],
+                    [
+                        "second",
+                        0.9236056876882358
+                    ],
+                    [
+                        "function",
+                        0.9253184761379721
+                    ],
+                    [
+                        "plus",
+                        0.9253184761379721
+                    ],
+                    [
+                        "point",
+                        0.9280797277530778
+                    ],
+                    [
+                        "approach",
+                        0.9302267290752422
+                    ],
+                    [
+                        "terrific",
+                        0.9312344883874129
+                    ],
+                    [
+                        "delta",
+                        0.9333923499926505
+                    ],
+                    [
+                        "lot",
+                        0.939295069681476
+                    ],
+                    [
+                        "cosine curve",
+                        1.1847921512030144
+                    ],
+                    [
+                        "minus sign",
+                        2.5071967263416894
+                    ],
+                    [
+                        "sine x.",
+                        3.2802487135242164
+                    ],
+                    [
+                        "second derivative",
+                        3.802653829325617
+                    ],
+                    [
+                        "delta cosine",
+                        3.896910155155263
+                    ],
+                    [
+                        "final result",
+                        4.6495020877168125
+                    ],
+                    [
+                        "ratio approach",
+                        4.676964587938576
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "cosine",
+                        0.30369433990524175
+                    ],
+                    [
+                        "way",
+                        0.3494564613162534
+                    ],
+                    [
+                        "curve",
+                        0.35523279379236566
+                    ],
+                    [
+                        "minus",
+                        0.3682733255726541
+                    ],
+                    [
+                        "ratio",
+                        0.3814260194521926
+                    ],
+                    [
+                        "derivative",
+                        0.4286362660700646
+                    ],
+                    [
+                        "slope",
+                        0.9227238993050008
+                    ],
+                    [
+                        "function",
+                        0.9253184761379721
+                    ],
+                    [
+                        "plus",
+                        0.9253184761379721
+                    ],
+                    [
+                        "point",
+                        0.9280797277530778
+                    ],
+                    [
+                        "delta",
+                        0.9333923499926505
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1890": {
+            "id": "FtQl1gAo12E-1890",
+            "heat": 0.1,
+            "start": 1890.0,
+            "text": " What's the slope of the cosine at 0? Yeah, I think I can ask that without doing limits, without doing hard work. I'll just add the rest of the cosine curve, because we know it's symmetric. What's the slope at that point? This is actually the most important application of calculus, is to locate the place where a function has a maximum. The cosine, its maximum is right there. Its maximum value is 1, and it happens at theta equals 0. So the slope at a maximum-- all right, I'm going to put this-- I could get this result by these pictures, but let me do it short circuit. The slope at the maximum is 0. OK. Your intuition tells you that. If the slope was positive, the function would still be rising. It wouldn't be a maximum, it would be going higher. If the slope was negative, the function would be coming down,",
+            "metrics": {
+                "relativeDCReadability": 1.0333489499669977,
+                "lexicalDiversity": 0.4876543209876543,
+                "posComposition": {
+                    "WP": 0.012,
+                    "VBZ": 0.062,
+                    "DT": 0.16,
+                    "NN": 0.173,
+                    "IN": 0.099,
+                    "CD": 0.025,
+                    "PRP": 0.08,
+                    "VBP": 0.019,
+                    "MD": 0.043,
+                    "VB": 0.074,
+                    "VBG": 0.037,
+                    "NNS": 0.025,
+                    "JJ": 0.068,
+                    "RB": 0.025,
+                    "RBS": 0.006,
+                    "TO": 0.012,
+                    "WRB": 0.006,
+                    "PRP$": 0.019,
+                    "EX": 0.006,
+                    "CC": 0.012,
+                    ":": 0.012,
+                    "VBD": 0.012,
+                    "JJR": 0.006,
+                    "RP": 0.006
+                },
+                "syllableRate": 1.825,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.2907940989166905
+                    ],
+                    [
+                        "maximum",
+                        0.3262136589144238
+                    ],
+                    [
+                        "cosine",
+                        0.39509421198642986
+                    ],
+                    [
+                        "function",
+                        0.43480984192615624
+                    ],
+                    [
+                        "work",
+                        0.8192246237833893
+                    ],
+                    [
+                        "symmetric",
+                        0.846331467930111
+                    ],
+                    [
+                        "limit",
+                        0.8483636425468712
+                    ],
+                    [
+                        "hard",
+                        0.8483636425468712
+                    ],
+                    [
+                        "point",
+                        0.8612867259287261
+                    ],
+                    [
+                        "curve",
+                        0.8717849927523041
+                    ],
+                    [
+                        "rest",
+                        0.8823022259451908
+                    ],
+                    [
+                        "circuit",
+                        0.886993459665301
+                    ],
+                    [
+                        "calculus",
+                        0.8928387097034687
+                    ],
+                    [
+                        "high",
+                        0.8990864241105586
+                    ],
+                    [
+                        "important",
+                        0.9018234332220002
+                    ],
+                    [
+                        "application",
+                        0.9018234332220002
+                    ],
+                    [
+                        "place",
+                        0.9018234332220002
+                    ],
+                    [
+                        "picture",
+                        0.9064562007147661
+                    ],
+                    [
+                        "short",
+                        0.9064562007147661
+                    ],
+                    [
+                        "value",
+                        0.9112422790033279
+                    ],
+                    [
+                        "theta",
+                        0.9112422790033279
+                    ],
+                    [
+                        "intuition",
+                        0.9135033623563673
+                    ],
+                    [
+                        "this--",
+                        0.914408644265876
+                    ],
+                    [
+                        "result",
+                        0.914408644265876
+                    ],
+                    [
+                        "positive",
+                        0.9151898636170627
+                    ],
+                    [
+                        "negative",
+                        0.9179618371825427
+                    ],
+                    [
+                        "cosine curve",
+                        2.2141361251708105
+                    ],
+                    [
+                        "hard work",
+                        2.278692672910021
+                    ],
+                    [
+                        "maximum value",
+                        3.3178847585934186
+                    ],
+                    [
+                        "short circuit",
+                        4.102580271189218
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.2907940989166905
+                    ],
+                    [
+                        "cosine",
+                        0.39509421198642986
+                    ],
+                    [
+                        "function",
+                        0.43480984192615624
+                    ],
+                    [
+                        "point",
+                        0.8612867259287261
+                    ],
+                    [
+                        "curve",
+                        0.8717849927523041
+                    ],
+                    [
+                        "picture",
+                        0.9064562007147661
+                    ],
+                    [
+                        "theta",
+                        0.9112422790033279
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-1980": {
+            "id": "FtQl1gAo12E-1980",
+            "heat": 0.1,
+            "start": 1980.0,
+            "text": " and the maximum would have been earlier. But here the maximum is right there. The slope has to be 0 at that point. And that's the quantity that we were after, because this is the cosine of delta x. There is the cosine of delta x. Here is the 1, here is the delta x, and this ratio is height over slope. It gets to height over slope as we get closer and closer. It's the derivative, and it's 0 at a maximum. And my notes give another way to convince yourself that that's 0 by using these facts that we've already got. OK. End of the-- so let me just recap one moment, which this board will do. We now know the derivatives of two of the great functions of calculus. We already know the derivative of x to the n-th, and in the future is coming e to the x and the logarithm. Then you've got the big ones. Thank you. ANNOUNCER: This has been a production of MIT OpenCourseWare and Gilbert Strang. Funding for this video was provided by the Lord Foundation. To help OCW continue to provide free and open access",
+            "metrics": {
+                "relativeDCReadability": 1.010554919478842,
+                "lexicalDiversity": 0.45544554455445546,
+                "posComposition": {
+                    "CC": 0.054,
+                    "DT": 0.153,
+                    "NN": 0.139,
+                    "MD": 0.01,
+                    "VB": 0.054,
+                    "VBN": 0.03,
+                    "RBR": 0.01,
+                    "RB": 0.054,
+                    "VBZ": 0.069,
+                    "JJ": 0.04,
+                    "TO": 0.035,
+                    "CD": 0.03,
+                    "IN": 0.104,
+                    "PRP": 0.059,
+                    "VBD": 0.01,
+                    "EX": 0.005,
+                    "RP": 0.005,
+                    "VBP": 0.035,
+                    "PRP$": 0.005,
+                    "NNS": 0.025,
+                    "VBG": 0.01,
+                    "NNP": 0.054,
+                    ":": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.292,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.4082864851246092
+                    ],
+                    [
+                        "delta",
+                        0.41305725207013566
+                    ],
+                    [
+                        "maximum",
+                        0.4133200897315997
+                    ],
+                    [
+                        "derivative",
+                        0.4167581707580343
+                    ],
+                    [
+                        "cosine",
+                        0.5108883246250141
+                    ],
+                    [
+                        "x.",
+                        0.5279286239240724
+                    ],
+                    [
+                        "height",
+                        0.5378136470952579
+                    ],
+                    [
+                        "close",
+                        0.5505298792262358
+                    ],
+                    [
+                        "ANNOUNCER",
+                        0.6105576030245177
+                    ],
+                    [
+                        "Strang",
+                        0.6574277542435445
+                    ],
+                    [
+                        "Foundation",
+                        0.6598956349037137
+                    ],
+                    [
+                        "Gilbert",
+                        0.6818379102635914
+                    ],
+                    [
+                        "Lord",
+                        0.684214407807844
+                    ],
+                    [
+                        "MIT",
+                        0.6928337660954197
+                    ],
+                    [
+                        "OCW",
+                        0.6973209758521669
+                    ],
+                    [
+                        "Gilbert Strang",
+                        0.812445152801842
+                    ],
+                    [
+                        "Lord Foundation",
+                        0.8231876319244673
+                    ],
+                    [
+                        "point",
+                        0.849252860759684
+                    ],
+                    [
+                        "end",
+                        0.8880255827726379
+                    ],
+                    [
+                        "quantity",
+                        0.8888598242664811
+                    ],
+                    [
+                        "calculus",
+                        0.8899126701962993
+                    ],
+                    [
+                        "logarithm",
+                        0.8915802253183601
+                    ],
+                    [
+                        "funding",
+                        0.8977339598206919
+                    ],
+                    [
+                        "access",
+                        0.89866615328976
+                    ],
+                    [
+                        "ratio",
+                        0.8993836108481685
+                    ],
+                    [
+                        "moment",
+                        0.9048809119296644
+                    ],
+                    [
+                        "note",
+                        0.9081897748185793
+                    ],
+                    [
+                        "way",
+                        0.9081897748185793
+                    ],
+                    [
+                        "fact",
+                        0.9081897748185793
+                    ],
+                    [
+                        "big",
+                        0.9092416828454346
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.4082864851246092
+                    ],
+                    [
+                        "delta",
+                        0.41305725207013566
+                    ],
+                    [
+                        "derivative",
+                        0.4167581707580343
+                    ],
+                    [
+                        "cosine",
+                        0.5108883246250141
+                    ],
+                    [
+                        "point",
+                        0.849252860759684
+                    ],
+                    [
+                        "ratio",
+                        0.8993836108481685
+                    ],
+                    [
+                        "way",
+                        0.9081897748185793
+                    ]
+                ]
+            }
+        },
+        "FtQl1gAo12E-2070": {
+            "id": "FtQl1gAo12E-2070",
+            "heat": 0.1,
+            "start": 2070.0,
+            "text": " to MIT courses, please make a donation at ocw.mit.edu/donate.",
+            "metrics": {
+                "relativeDCReadability": 1.1442573289839988,
+                "lexicalDiversity": 0.6666666666666666,
+                "posComposition": {
+                    "TO": 0.111,
+                    "NNP": 0.111,
+                    "NNS": 0.111,
+                    "VB": 0.222,
+                    "DT": 0.111,
+                    "NN": 0.222,
+                    "IN": 0.111
+                },
+                "syllableRate": 0.158,
+                "topicScores": [
+                    [
+                        "MIT",
+                        0.7035307499601079
+                    ],
+                    [
+                        "course",
+                        0.9228399630255706
+                    ],
+                    [
+                        "donation",
+                        0.942126258124532
+                    ],
+                    [
+                        "MIT course",
+                        1.8510033540367057
+                    ]
+                ],
+                "topTopicSimilarity": 0.0,
+                "sharedTopicScores": []
+            }
+        }
+    }
+}

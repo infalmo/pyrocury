@@ -1,0 +1,5319 @@
+{
+    "metadata": {
+        "id": "C1lhuz6pZC0",
+        "avgHeat": 0.28,
+        "runtime": 2448.62,
+        "dale-challReadabilityScore": 7.590331850238223,
+        "lexicalDiversity": 0.4780922838309422,
+        "posComposition": {
+            "DT": 0.105,
+            "JJ": 0.047,
+            "NN": 0.141,
+            "VBZ": 0.044,
+            "VBN": 0.013,
+            "IN": 0.104,
+            "NNP": 0.027,
+            "PRP$": 0.006,
+            "MD": 0.027,
+            "VB": 0.066,
+            "VBP": 0.049,
+            "TO": 0.033,
+            "NNS": 0.035,
+            "CC": 0.035,
+            "VBD": 0.011,
+            "CD": 0.013,
+            "PRP": 0.096,
+            "WP": 0.008,
+            "EX": 0.004,
+            "VBG": 0.02,
+            "RB": 0.072,
+            ":": 0.005,
+            "PDT": 0.001,
+            "JJR": 0.006,
+            "JJS": 0.004,
+            "POS": 0.003,
+            "RBR": 0.001,
+            "WRB": 0.005,
+            "RP": 0.004,
+            "``": 0.0,
+            "''": 0.0,
+            "WDT": 0.009,
+            "RBS": 0.002,
+            "NNPS": 0.0,
+            "WP$": 0.0
+        },
+        "syllableRate": 2.879,
+        "topicScores": [
+            [
+                "item",
+                0.13778429228156602
+            ],
+            [
+                "problem",
+                0.14569446766354396
+            ],
+            [
+                "greedy",
+                0.1640063919630431
+            ],
+            [
+                "value",
+                0.16866200571044881
+            ],
+            [
+                "algorithm",
+                0.1707633962444581
+            ],
+            [
+                "good",
+                0.17541235075295453
+            ],
+            [
+                "knapsack",
+                0.17656500900942396
+            ],
+            [
+                "Creative Commons",
+                0.18091397981613513
+            ],
+            [
+                "calorie",
+                0.19722391581967438
+            ],
+            [
+                "function",
+                0.19937007253788477
+            ],
+            [
+                "right",
+                0.20285720650341274
+            ],
+            [
+                "food",
+                0.20297222149523217
+            ],
+            [
+                "set",
+                0.20549871589723487
+            ],
+            [
+                "thing",
+                0.20967308983744762
+            ],
+            [
+                "MIT",
+                0.2112136974058965
+            ],
+            [
+                "sort",
+                0.21822553532712116
+            ],
+            [
+                "time",
+                0.22501354425475983
+            ],
+            [
+                "model",
+                0.22744471924743426
+            ],
+            [
+                "answer",
+                0.23330568861731737
+            ],
+            [
+                "different",
+                0.23353623293353662
+            ],
+            [
+                "solution",
+                0.23402403418178802
+            ],
+            [
+                "point",
+                0.2344627091815151
+            ],
+            [
+                "optimization",
+                0.24066733744226199
+            ],
+            [
+                "way",
+                0.24261383622260765
+            ],
+            [
+                "lambda",
+                0.243585973892953
+            ],
+            [
+                "number",
+                0.2536531346978961
+            ],
+            [
+                "menu",
+                0.2544244966217459
+            ],
+            [
+                "question",
+                0.2665644974481743
+            ],
+            [
+                "cost",
+                0.2666596207703642
+            ],
+            [
+                "constraint",
+                0.28021243494930986
+            ]
+        ],
+        "topicsList": [
+            "item",
+            "problem",
+            "greedy",
+            "value",
+            "algorithm",
+            "good",
+            "knapsack",
+            "Creative Commons",
+            "calorie",
+            "function",
+            "right",
+            "food",
+            "set",
+            "thing",
+            "MIT",
+            "sort",
+            "time",
+            "model",
+            "answer",
+            "different",
+            "solution",
+            "point",
+            "optimization",
+            "way",
+            "lambda",
+            "number",
+            "menu",
+            "question",
+            "cost",
+            "constraint"
+        ]
+    },
+    "chunks": {
+        "C1lhuz6pZC0-0": {
+            "id": "C1lhuz6pZC0-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or to view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. JOHN GUTTAG: All right, welcome to the 60002, or if you were in 600, the second half of 600. I'm John Guttag. Let me start with a few administrative things. What's the workload? There are problem sets. They'll all be programming problems much in the style of 60001. And the goal-- really twofold. 60001 problem sets were mostly about you learning to be a programmer. A lot of that carries over. No one learns to be a programmer in half a semester. So a lot of it is to improve your skills, but also there's a lot more, I would say, conceptual, algorithmic material in 60002, and the problem sets are designed to help cement that as well as just to give you programming experience.",
+            "metrics": {
+                "relativeDCReadability": 1.1947656895847407,
+                "lexicalDiversity": 0.5344827586206896,
+                "posComposition": {
+                    "DT": 0.103,
+                    "JJ": 0.069,
+                    "NN": 0.132,
+                    "VBZ": 0.034,
+                    "VBN": 0.011,
+                    "IN": 0.115,
+                    "NNP": 0.08,
+                    "PRP$": 0.011,
+                    "MD": 0.017,
+                    "VB": 0.069,
+                    "VBP": 0.029,
+                    "TO": 0.052,
+                    "NNS": 0.057,
+                    "CC": 0.029,
+                    "VBD": 0.017,
+                    "CD": 0.034,
+                    "PRP": 0.046,
+                    "WP": 0.006,
+                    "EX": 0.011,
+                    "VBG": 0.017,
+                    "RB": 0.04,
+                    ":": 0.006,
+                    "PDT": 0.006,
+                    "JJR": 0.006
+                },
+                "syllableRate": 2.225,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.22605929315203097
+                    ],
+                    [
+                        "MIT",
+                        0.27518234768069294
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.2972821872287135
+                    ],
+                    [
+                        "problem",
+                        0.37131367890532124
+                    ],
+                    [
+                        "set",
+                        0.42876656947349595
+                    ],
+                    [
+                        "lot",
+                        0.4352330321800972
+                    ],
+                    [
+                        "JOHN GUTTAG",
+                        0.46755011233317545
+                    ],
+                    [
+                        "OpenCourseWare",
+                        0.5261258705779005
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.5351771956282957
+                    ],
+                    [
+                        "programmer",
+                        0.5442046353528758
+                    ],
+                    [
+                        "material",
+                        0.5627650866831619
+                    ],
+                    [
+                        "half",
+                        0.5675725474880653
+                    ],
+                    [
+                        "Guttag",
+                        0.5858775699068426
+                    ],
+                    [
+                        "John",
+                        0.6202022115187714
+                    ],
+                    [
+                        "following",
+                        0.7778736884132906
+                    ],
+                    [
+                        "content",
+                        0.7959956506939705
+                    ],
+                    [
+                        "free",
+                        0.8063631165956414
+                    ],
+                    [
+                        "ocw.mit.edu",
+                        0.835010107648424
+                    ],
+                    [
+                        "support",
+                        0.8405217873192119
+                    ],
+                    [
+                        "high",
+                        0.8544887584501758
+                    ],
+                    [
+                        "quality",
+                        0.8544887584501758
+                    ],
+                    [
+                        "educational",
+                        0.8544887584501758
+                    ],
+                    [
+                        "resource",
+                        0.8544887584501758
+                    ],
+                    [
+                        "course",
+                        0.864961571624214
+                    ],
+                    [
+                        "thing",
+                        0.8684256902664845
+                    ],
+                    [
+                        "workload",
+                        0.8739168308108382
+                    ],
+                    [
+                        "donation",
+                        0.877101092575794
+                    ],
+                    [
+                        "additional",
+                        0.877101092575794
+                    ],
+                    [
+                        "hundred",
+                        0.877101092575794
+                    ],
+                    [
+                        "welcome",
+                        0.878364301498599
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.22605929315203097
+                    ],
+                    [
+                        "MIT",
+                        0.27518234768069294
+                    ],
+                    [
+                        "problem",
+                        0.37131367890532124
+                    ],
+                    [
+                        "set",
+                        0.42876656947349595
+                    ],
+                    [
+                        "thing",
+                        0.8684256902664845
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-90": {
+            "id": "C1lhuz6pZC0-90",
+            "heat": 0.137,
+            "start": 90.0,
+            "text": " Finger exercises, small things. If they're taking you more than 15 minutes, let us know. They really shouldn't, and they're generally designed to help you learn a single concept, usually a programming concept. Reading assignments in the textbooks, I've already posted the first reading assignment, and essentially they should provide you a very different take on the same material we're covering in lectures and recitations. We've tried to choose different examples for lectures and from the textbooks for the most part, so you get to see things in two slightly different ways. There'll be a final exam based upon all of the above. All right, prerequisites-- experience writing object-oriented programs in Python, preferably Python 3.5. Familiarity with concepts of computational complexity. You'll see even in today's lecture, we'll be assuming that. Familiarity with some simple algorithms. If you took 60001 or you took the 60001 advanced standing exam, you'll be fine. Odds are you'll be fine anyway, but that's the safest way to do it. So the programming assignments are going to be a bit easier, at least that's what students have reported in the past,",
+            "metrics": {
+                "relativeDCReadability": 1.098253401761222,
+                "lexicalDiversity": 0.5621890547263682,
+                "posComposition": {
+                    "NN": 0.1,
+                    "VBZ": 0.015,
+                    "JJ": 0.075,
+                    "NNS": 0.075,
+                    "IN": 0.109,
+                    "PRP": 0.095,
+                    "VBP": 0.05,
+                    "VBG": 0.035,
+                    "JJR": 0.01,
+                    "CD": 0.025,
+                    "VB": 0.075,
+                    "RB": 0.055,
+                    "MD": 0.035,
+                    "CC": 0.03,
+                    "VBN": 0.025,
+                    "TO": 0.025,
+                    "DT": 0.095,
+                    "JJS": 0.01,
+                    "EX": 0.005,
+                    "NNP": 0.03,
+                    ":": 0.005,
+                    "POS": 0.005,
+                    "VBD": 0.015,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.625,
+                "topicScores": [
+                    [
+                        "Finger",
+                        0.36804178986611996
+                    ],
+                    [
+                        "Finger exercise",
+                        0.3881614153426498
+                    ],
+                    [
+                        "Python",
+                        0.39458499919167656
+                    ],
+                    [
+                        "concept",
+                        0.42655470217822594
+                    ],
+                    [
+                        "lecture",
+                        0.43513481642911755
+                    ],
+                    [
+                        "assignment",
+                        0.4382535181646719
+                    ],
+                    [
+                        "different",
+                        0.44033562622112704
+                    ],
+                    [
+                        "familiarity",
+                        0.5162376304383907
+                    ],
+                    [
+                        "thing",
+                        0.5206682706829318
+                    ],
+                    [
+                        "fine",
+                        0.535449193192478
+                    ],
+                    [
+                        "textbook",
+                        0.5383285167810731
+                    ],
+                    [
+                        "way",
+                        0.5563133257385402
+                    ],
+                    [
+                        "programming",
+                        0.5604428530234111
+                    ],
+                    [
+                        "exam",
+                        0.5615196893666163
+                    ],
+                    [
+                        "small",
+                        0.7597579616770125
+                    ],
+                    [
+                        "minute",
+                        0.8413470383666442
+                    ],
+                    [
+                        "recitation",
+                        0.8533034598111848
+                    ],
+                    [
+                        "single",
+                        0.865680564515048
+                    ],
+                    [
+                        "complexity",
+                        0.8802840319144882
+                    ],
+                    [
+                        "algorithm",
+                        0.886619140413307
+                    ],
+                    [
+                        "material",
+                        0.8895140558697884
+                    ],
+                    [
+                        "odd",
+                        0.8911678636234452
+                    ],
+                    [
+                        "past",
+                        0.8930083749978417
+                    ],
+                    [
+                        "example",
+                        0.8974418518344085
+                    ],
+                    [
+                        "prerequisites--",
+                        0.8982362347267779
+                    ],
+                    [
+                        "experience",
+                        0.8982362347267779
+                    ],
+                    [
+                        "object",
+                        0.8982362347267779
+                    ],
+                    [
+                        "computational",
+                        0.9018165884416413
+                    ],
+                    [
+                        "final",
+                        0.9030368521309832
+                    ],
+                    [
+                        "simple",
+                        0.9071324503936173
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "different",
+                        0.44033562622112704
+                    ],
+                    [
+                        "thing",
+                        0.5206682706829318
+                    ],
+                    [
+                        "way",
+                        0.5563133257385402
+                    ],
+                    [
+                        "algorithm",
+                        0.886619140413307
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-180": {
+            "id": "C1lhuz6pZC0-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " because they'll be more focused on the problem to be solved than on the actual programming. The lecture content, more abstract. The lectures will be-- and maybe I'm speaking euphemistically-- a bit faster paced. So hang on to your seats. And the course is really less about programming and more about dipping your toe into the exotic world of data science. We do want you to hone your programming skills. There'll be a few additional bits of Python. Today, for example, we'll talk about lambda abstraction. Inevitably, some comments about software engineering, how to structure your code, more emphasis in using packages. Hopefully it will go a little bit smoother than in the last problem set in 60001. And finally, it's the old joke about programming that somebody walks up to a taxi driver in New York City and says, \"I'm lost. How do I get to Carnegie Hall?\" The taxi driver turns to the person and says, \"practice, practice, practice.\" And that's really the only way to learn to program is practice, practice, practice. The main topic of the course is what I think of as computational models. How do we use computation to understand the world in which we live? What is a model? To me I think of it as an experimental device",
+            "metrics": {
+                "relativeDCReadability": 1.147754943883341,
+                "lexicalDiversity": 0.5065502183406113,
+                "posComposition": {
+                    "IN": 0.114,
+                    "PRP": 0.066,
+                    "MD": 0.022,
+                    "VB": 0.052,
+                    "JJR": 0.026,
+                    "JJ": 0.066,
+                    "DT": 0.096,
+                    "NN": 0.175,
+                    "TO": 0.048,
+                    "VBN": 0.013,
+                    "NNS": 0.035,
+                    ":": 0.009,
+                    "CC": 0.031,
+                    "RB": 0.031,
+                    "VBP": 0.035,
+                    "VBG": 0.022,
+                    "RBR": 0.004,
+                    "NNP": 0.044,
+                    "PRP$": 0.017,
+                    "VBZ": 0.044,
+                    "EX": 0.004,
+                    "WRB": 0.009,
+                    "CD": 0.004,
+                    "RP": 0.004,
+                    "``": 0.009,
+                    "''": 0.009,
+                    "WP": 0.009,
+                    "WDT": 0.004
+                },
+                "syllableRate": 2.767,
+                "topicScores": [
+                    [
+                        "practice",
+                        0.26544812590332567
+                    ],
+                    [
+                        "programming",
+                        0.37546266419795316
+                    ],
+                    [
+                        "bit",
+                        0.44372200237655085
+                    ],
+                    [
+                        "lecture",
+                        0.5000897561613636
+                    ],
+                    [
+                        "model",
+                        0.5455528830770218
+                    ],
+                    [
+                        "problem",
+                        0.5536657113190017
+                    ],
+                    [
+                        "course",
+                        0.5571897995384615
+                    ],
+                    [
+                        "taxi",
+                        0.5627955333822688
+                    ],
+                    [
+                        "world",
+                        0.5657732184867238
+                    ],
+                    [
+                        "driver",
+                        0.5676979552386218
+                    ],
+                    [
+                        "Python",
+                        0.6139425742120781
+                    ],
+                    [
+                        "Hall",
+                        0.6482404126158663
+                    ],
+                    [
+                        "Carnegie",
+                        0.6781391385735959
+                    ],
+                    [
+                        "New",
+                        0.6867125203768673
+                    ],
+                    [
+                        "York",
+                        0.6867125203768673
+                    ],
+                    [
+                        "City",
+                        0.6867125203768673
+                    ],
+                    [
+                        "Carnegie Hall",
+                        0.7844307542319492
+                    ],
+                    [
+                        "actual",
+                        0.7881435177716647
+                    ],
+                    [
+                        "abstract",
+                        0.7988091678648693
+                    ],
+                    [
+                        "focused",
+                        0.8047667861537157
+                    ],
+                    [
+                        "content",
+                        0.848459408046193
+                    ],
+                    [
+                        "seat",
+                        0.8599690368856462
+                    ],
+                    [
+                        "science",
+                        0.8697062750755715
+                    ],
+                    [
+                        "today",
+                        0.8730452931625229
+                    ],
+                    [
+                        "skill",
+                        0.8766063303909274
+                    ],
+                    [
+                        "euphemistically--",
+                        0.88289811471539
+                    ],
+                    [
+                        "abstraction",
+                        0.8858876145433007
+                    ],
+                    [
+                        "package",
+                        0.8892035974645011
+                    ],
+                    [
+                        "New York",
+                        0.8924128677822131
+                    ],
+                    [
+                        "York City",
+                        0.8924128677822131
+                    ]
+                ],
+                "topTopicSimilarity": 0.06666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "model",
+                        0.5455528830770218
+                    ],
+                    [
+                        "problem",
+                        0.5536657113190017
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-270": {
+            "id": "C1lhuz6pZC0-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " that can help us to either understand something that has happened, to sort of build a model that explains phenomena we see every day, or a model that will allow us to predict the future, something that hasn't happened. So you can think of, for example, a climate change model. We can build models that sort of explain how the climate has changed over the millennia, and then we can build probably a slightly different model that might predict what it will be like in the future. So essentially what's happening is science is moving out of the wet lab and into the computer. Increasingly, I'm sure you all see this-- those of you who are science majors-- an increasing reliance on computation rather than traditional experimentation. As we'll talk about, traditional experimentation is and will remain important, but now it has to really be supplemented by computation. We'll talk about three kinds of models-- optimization models, statistical models, and simulation models. So let's talk first about optimization models. An optimization model is a very simple thing. We start with an objective function that's either to be maximized or minimized.",
+            "metrics": {
+                "relativeDCReadability": 1.106900498032832,
+                "lexicalDiversity": 0.515,
+                "posComposition": {
+                    "WDT": 0.035,
+                    "MD": 0.05,
+                    "VB": 0.07,
+                    "PRP": 0.07,
+                    "TO": 0.025,
+                    "DT": 0.1,
+                    "NN": 0.18,
+                    "VBZ": 0.055,
+                    "VBN": 0.03,
+                    "IN": 0.11,
+                    "VBP": 0.025,
+                    "CC": 0.035,
+                    "RB": 0.055,
+                    "NNS": 0.04,
+                    "WRB": 0.005,
+                    "JJ": 0.045,
+                    "WP": 0.015,
+                    "NNP": 0.015,
+                    "VBG": 0.015,
+                    ":": 0.015,
+                    "CD": 0.005,
+                    "POS": 0.005
+                },
+                "syllableRate": 2.692,
+                "topicScores": [
+                    [
+                        "model",
+                        0.2643585335864253
+                    ],
+                    [
+                        "optimization",
+                        0.4394923975351622
+                    ],
+                    [
+                        "future",
+                        0.5257647256607748
+                    ],
+                    [
+                        "climate",
+                        0.5474521090817441
+                    ],
+                    [
+                        "change",
+                        0.5474521090817441
+                    ],
+                    [
+                        "experimentation",
+                        0.5475895964590958
+                    ],
+                    [
+                        "traditional",
+                        0.5549770030888792
+                    ],
+                    [
+                        "science",
+                        0.5648867927317114
+                    ],
+                    [
+                        "computation",
+                        0.5653512147026966
+                    ],
+                    [
+                        "day",
+                        0.860217310456125
+                    ],
+                    [
+                        "example",
+                        0.8679586714034208
+                    ],
+                    [
+                        "phenomenon",
+                        0.874170243451674
+                    ],
+                    [
+                        "computer",
+                        0.8752589748127872
+                    ],
+                    [
+                        "millennia",
+                        0.8939758075907728
+                    ],
+                    [
+                        "thing",
+                        0.8966794742962081
+                    ],
+                    [
+                        "statistical",
+                        0.9035500992319564
+                    ],
+                    [
+                        "simulation",
+                        0.9035500992319564
+                    ],
+                    [
+                        "different",
+                        0.9049314220050497
+                    ],
+                    [
+                        "important",
+                        0.9110554002469698
+                    ],
+                    [
+                        "wet",
+                        0.9118625752969846
+                    ],
+                    [
+                        "lab",
+                        0.9118625752969846
+                    ],
+                    [
+                        "sure",
+                        0.9167438452805452
+                    ],
+                    [
+                        "reliance",
+                        0.9167438452805452
+                    ],
+                    [
+                        "simple",
+                        0.9189321027194257
+                    ],
+                    [
+                        "kind",
+                        0.9232703672577751
+                    ],
+                    [
+                        "objective",
+                        0.9291498341786252
+                    ],
+                    [
+                        "function",
+                        0.9291498341786252
+                    ],
+                    [
+                        "traditional experimentation",
+                        2.0360388771096076
+                    ],
+                    [
+                        "optimization model",
+                        2.0491761798353796
+                    ],
+                    [
+                        "climate change",
+                        3.046744467529647
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "model",
+                        0.2643585335864253
+                    ],
+                    [
+                        "optimization",
+                        0.4394923975351622
+                    ],
+                    [
+                        "thing",
+                        0.8966794742962081
+                    ],
+                    [
+                        "different",
+                        0.9049314220050497
+                    ],
+                    [
+                        "function",
+                        0.9291498341786252
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-360": {
+            "id": "C1lhuz6pZC0-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " So for, example, if I'm going from New York to Boston, I might want to find a route by car or plane or train that minimizes the total travel time. So my objective function would be the number of minutes spent in transit getting from a to b. We then often have to layer on top of that objective function a set of constraints, sometimes empty, that we have to obey. So maybe the fastest way to get from New York to Boston is to take a plane, but I only have $100 to spend. So that option is off the table. So I have the constraints there on the amount of money I can spend. Or maybe I have to be in Boston before 5:00 PM and while the bus would get me there for $15, it won't get me there before 5:00. And so maybe what I'm left with is driving, something like that. So objective function, something you're either minimizing or maximizing, and a set of constraints that eliminate some solutions. And as we'll see, there's an asymmetry here. We handle these two things differently. We use these things all the time.",
+            "metrics": {
+                "relativeDCReadability": 1.0013396186046146,
+                "lexicalDiversity": 0.4626865671641791,
+                "posComposition": {
+                    "RB": 0.075,
+                    "IN": 0.129,
+                    "NN": 0.144,
+                    "PRP": 0.08,
+                    "VBP": 0.06,
+                    "VBG": 0.015,
+                    "NNP": 0.05,
+                    "TO": 0.05,
+                    "MD": 0.03,
+                    "VB": 0.065,
+                    "DT": 0.1,
+                    "CC": 0.045,
+                    "WDT": 0.01,
+                    "VBZ": 0.025,
+                    "JJ": 0.025,
+                    "PRP$": 0.005,
+                    "NNS": 0.035,
+                    "VBN": 0.005,
+                    "JJS": 0.005,
+                    "CD": 0.025,
+                    "EX": 0.015,
+                    "WP": 0.005,
+                    "PDT": 0.005
+                },
+                "syllableRate": 2.2,
+                "topicScores": [
+                    [
+                        "New York",
+                        0.22796592082808909
+                    ],
+                    [
+                        "Boston",
+                        0.30686074350093573
+                    ],
+                    [
+                        "objective",
+                        0.42492431454554996
+                    ],
+                    [
+                        "function",
+                        0.43885824293893827
+                    ],
+                    [
+                        "constraint",
+                        0.44338691879521397
+                    ],
+                    [
+                        "time",
+                        0.5349604545147049
+                    ],
+                    [
+                        "plane",
+                        0.5458433141852724
+                    ],
+                    [
+                        "set",
+                        0.5460487281250116
+                    ],
+                    [
+                        "thing",
+                        0.5709157700704179
+                    ],
+                    [
+                        "pm",
+                        0.6773227968828059
+                    ],
+                    [
+                        "example",
+                        0.7800238592996271
+                    ],
+                    [
+                        "travel",
+                        0.801370556450589
+                    ],
+                    [
+                        "route",
+                        0.8199681480073682
+                    ],
+                    [
+                        "car",
+                        0.8199681480073682
+                    ],
+                    [
+                        "total",
+                        0.8199681480073682
+                    ],
+                    [
+                        "b.",
+                        0.8229724375619264
+                    ],
+                    [
+                        "number",
+                        0.8726871068732932
+                    ],
+                    [
+                        "minute",
+                        0.8726871068732932
+                    ],
+                    [
+                        "transit",
+                        0.8726871068732932
+                    ],
+                    [
+                        "table",
+                        0.8737868181542672
+                    ],
+                    [
+                        "solution",
+                        0.892748823452451
+                    ],
+                    [
+                        "fast",
+                        0.9037709501671222
+                    ],
+                    [
+                        "way",
+                        0.9037709501671222
+                    ],
+                    [
+                        "option",
+                        0.9107783680803095
+                    ],
+                    [
+                        "money",
+                        0.915714133939377
+                    ],
+                    [
+                        "maximizing",
+                        0.9157684909764505
+                    ],
+                    [
+                        "asymmetry",
+                        0.9179270327465101
+                    ],
+                    [
+                        "bus",
+                        0.919414865900412
+                    ],
+                    [
+                        "objective function",
+                        1.4679317821793205
+                    ],
+                    [
+                        "total travel",
+                        1.9162879347720134
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.43885824293893827
+                    ],
+                    [
+                        "constraint",
+                        0.44338691879521397
+                    ],
+                    [
+                        "time",
+                        0.5349604545147049
+                    ],
+                    [
+                        "set",
+                        0.5460487281250116
+                    ],
+                    [
+                        "thing",
+                        0.5709157700704179
+                    ],
+                    [
+                        "number",
+                        0.8726871068732932
+                    ],
+                    [
+                        "solution",
+                        0.892748823452451
+                    ],
+                    [
+                        "way",
+                        0.9037709501671222
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-450": {
+            "id": "C1lhuz6pZC0-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " I commute to work using Waze, which essentially is solving-- not very well, I believe-- an optimization problem to minimize my time from home to here. When you travel, maybe you log into various advisory programs that try and optimize things for you. They're all over the place. Today you really can't avoid using optimization algorithm as you get through life. Pretty abstract. Let's talk about a specific optimization problem called the knapsack problem. The first time I talked about the knapsack problem I neglected to show a picture of a knapsack, and I was 10 minutes into it before I realized most of the class had no idea what a knapsack was. It's what we old people used to call a backpack, and they used to look more like that than they look today. So the knapsack problem involves-- usually it's told in terms of a burglar who breaks into a house and wants to steal a bunch of stuff but has a knapsack that will only hold a finite amount of stuff that he or she wishes to steal. And so the burglar has to solve the optimization problem of stealing the stuff with the most value while obeying the constraint that it all has to fit in the knapsack.",
+            "metrics": {
+                "relativeDCReadability": 1.0886367688078493,
+                "lexicalDiversity": 0.4818181818181818,
+                "posComposition": {
+                    "PRP": 0.095,
+                    "VBP": 0.041,
+                    "TO": 0.045,
+                    "VB": 0.05,
+                    "VBG": 0.023,
+                    "NNP": 0.018,
+                    "WDT": 0.014,
+                    "RB": 0.05,
+                    "VBZ": 0.045,
+                    ":": 0.014,
+                    "DT": 0.123,
+                    "NN": 0.173,
+                    "PRP$": 0.005,
+                    "IN": 0.118,
+                    "WRB": 0.005,
+                    "JJ": 0.036,
+                    "NNS": 0.023,
+                    "CC": 0.032,
+                    "MD": 0.009,
+                    "POS": 0.005,
+                    "VBD": 0.036,
+                    "CD": 0.005,
+                    "JJS": 0.005,
+                    "WP": 0.014,
+                    "VBN": 0.009,
+                    "RBR": 0.005,
+                    "RBS": 0.005
+                },
+                "syllableRate": 2.608,
+                "topicScores": [
+                    [
+                        "knapsack",
+                        0.28934821948915573
+                    ],
+                    [
+                        "problem",
+                        0.30477953543646574
+                    ],
+                    [
+                        "optimization",
+                        0.37594805258600134
+                    ],
+                    [
+                        "Waze",
+                        0.42104516589525176
+                    ],
+                    [
+                        "stuff",
+                        0.44930530929409224
+                    ],
+                    [
+                        "today",
+                        0.530453477598383
+                    ],
+                    [
+                        "time",
+                        0.5476049853912421
+                    ],
+                    [
+                        "burglar",
+                        0.565988972819886
+                    ],
+                    [
+                        "work",
+                        0.7819179471130784
+                    ],
+                    [
+                        "solving--",
+                        0.7819179471130784
+                    ],
+                    [
+                        "home",
+                        0.7819179471130784
+                    ],
+                    [
+                        "place",
+                        0.819955058163407
+                    ],
+                    [
+                        "life",
+                        0.8369828645997273
+                    ],
+                    [
+                        "advisory",
+                        0.8436546677155342
+                    ],
+                    [
+                        "program",
+                        0.8436546677155342
+                    ],
+                    [
+                        "thing",
+                        0.8436546677155342
+                    ],
+                    [
+                        "algorithm",
+                        0.8808591562606095
+                    ],
+                    [
+                        "backpack",
+                        0.892893920016834
+                    ],
+                    [
+                        "specific",
+                        0.8953165931336245
+                    ],
+                    [
+                        "picture",
+                        0.8998149344068023
+                    ],
+                    [
+                        "minute",
+                        0.8998149344068023
+                    ],
+                    [
+                        "class",
+                        0.8998149344068023
+                    ],
+                    [
+                        "idea",
+                        0.8998149344068023
+                    ],
+                    [
+                        "old",
+                        0.9033457214623242
+                    ],
+                    [
+                        "people",
+                        0.9033457214623242
+                    ],
+                    [
+                        "term",
+                        0.9062081016276539
+                    ],
+                    [
+                        "house",
+                        0.9062081016276539
+                    ],
+                    [
+                        "bunch",
+                        0.9062081016276539
+                    ],
+                    [
+                        "finite",
+                        0.9062081016276539
+                    ],
+                    [
+                        "value",
+                        0.9085871849317949
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "knapsack",
+                        0.28934821948915573
+                    ],
+                    [
+                        "problem",
+                        0.30477953543646574
+                    ],
+                    [
+                        "optimization",
+                        0.37594805258600134
+                    ],
+                    [
+                        "time",
+                        0.5476049853912421
+                    ],
+                    [
+                        "thing",
+                        0.8436546677155342
+                    ],
+                    [
+                        "algorithm",
+                        0.8808591562606095
+                    ],
+                    [
+                        "value",
+                        0.9085871849317949
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-540": {
+            "id": "C1lhuz6pZC0-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " So we have an objective function. I'll get the most for this when I fence it. And a constraint, it has to fit in my backpack. And you can guess which of these might be the most valuable items here. So here is in words, written words what I just said orally. There's more stuff than you can carry, and you have to choose which stuff to take and which to leave behind. I should point out that there are two variants of it. There's the 0/1 knapsack problem and the continuous. The 0/1 would be illustrated by something like this. So the 0/1 knapsack problem means you either take the object or you don't. I take that whole gold bar or I take none of it. The continuous or so-called fractional knapsack problem says I can take pieces of it. So maybe if I take in my gold bar and shaved it into gold dust, I then can say, well, the whole thing won't fit in, but I can fit in a path, part of it. The continuous knapsack problem is really boring. It's easy to solve. How do you think you would solve the continuous problem? Suppose you had over here a pile of gold and a pile of silver",
+            "metrics": {
+                "relativeDCReadability": 0.9711670182191865,
+                "lexicalDiversity": 0.43577981651376146,
+                "posComposition": {
+                    "IN": 0.101,
+                    "PRP": 0.124,
+                    "VBP": 0.037,
+                    "DT": 0.092,
+                    "JJ": 0.06,
+                    "NN": 0.128,
+                    "MD": 0.05,
+                    "VB": 0.087,
+                    "RBS": 0.009,
+                    "WRB": 0.005,
+                    "CC": 0.055,
+                    "VBZ": 0.037,
+                    "TO": 0.023,
+                    "PRP$": 0.009,
+                    "WDT": 0.014,
+                    "NNS": 0.023,
+                    "RB": 0.055,
+                    "VBN": 0.009,
+                    "WP": 0.005,
+                    "VBD": 0.014,
+                    "EX": 0.014,
+                    "JJR": 0.005,
+                    "RP": 0.005,
+                    "CD": 0.018,
+                    "NNP": 0.018,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.267,
+                "topicScores": [
+                    [
+                        "problem",
+                        0.3405716688255127
+                    ],
+                    [
+                        "continuous",
+                        0.36393993555947857
+                    ],
+                    [
+                        "knapsack",
+                        0.3727047157556898
+                    ],
+                    [
+                        "gold",
+                        0.3900473304419151
+                    ],
+                    [
+                        "word",
+                        0.5594646844214529
+                    ],
+                    [
+                        "bar",
+                        0.5707966940082387
+                    ],
+                    [
+                        "stuff",
+                        0.572064869966535
+                    ],
+                    [
+                        "pile",
+                        0.5741387455800586
+                    ],
+                    [
+                        "function",
+                        0.7651845477942977
+                    ],
+                    [
+                        "objective",
+                        0.800917427498626
+                    ],
+                    [
+                        "backpack",
+                        0.8563285306453373
+                    ],
+                    [
+                        "constraint",
+                        0.8803602338330161
+                    ],
+                    [
+                        "item",
+                        0.8924247067753587
+                    ],
+                    [
+                        "valuable",
+                        0.9014403097950394
+                    ],
+                    [
+                        "boring",
+                        0.9074812788634972
+                    ],
+                    [
+                        "silver",
+                        0.9109854395273969
+                    ],
+                    [
+                        "variant",
+                        0.9174284999898672
+                    ],
+                    [
+                        "fractional",
+                        0.9211247618851002
+                    ],
+                    [
+                        "dust",
+                        0.92250271409386
+                    ],
+                    [
+                        "path",
+                        0.92250271409386
+                    ],
+                    [
+                        "piece",
+                        0.9279293345286481
+                    ],
+                    [
+                        "thing",
+                        0.9291975481303234
+                    ],
+                    [
+                        "easy",
+                        0.9313136493636819
+                    ],
+                    [
+                        "knapsack problem",
+                        1.377841595507654
+                    ],
+                    [
+                        "objective function",
+                        1.58297576920247
+                    ],
+                    [
+                        "continuous knapsack",
+                        2.7215424266093673
+                    ],
+                    [
+                        "gold bar",
+                        2.8615162721363094
+                    ],
+                    [
+                        "continuous problem",
+                        2.9054218094076334
+                    ],
+                    [
+                        "fractional knapsack",
+                        3.9293969436724585
+                    ],
+                    [
+                        "valuable item",
+                        4.1142420447715535
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "problem",
+                        0.3405716688255127
+                    ],
+                    [
+                        "knapsack",
+                        0.3727047157556898
+                    ],
+                    [
+                        "function",
+                        0.7651845477942977
+                    ],
+                    [
+                        "constraint",
+                        0.8803602338330161
+                    ],
+                    [
+                        "item",
+                        0.8924247067753587
+                    ],
+                    [
+                        "thing",
+                        0.9291975481303234
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-630": {
+            "id": "C1lhuz6pZC0-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " and a pile of raisins, and you wanted to maximize your value. Well, you'd fill up your knapsack with gold until you either ran out of gold or ran out of space. If you haven't run out of space, you'll now put silver in until you run out of space. If you still haven't run out of space, well, then you'll take as many raisins as you can fit in. But you can solve it with what's called a greedy algorithm, and we'll talk much more about this as we go forward. Where you take the best thing first as long as you can and then you move on to the next thing. As we'll see, the 0/1 knapsack problem is much more complicated because once you make a decision, it will affect the future decisions. Let's look at an example, and I should probably warn you, if you're hungry, this is not going to be a fun lecture. So here is my least favorite because I always want to eat more than I'm supposed to eat. So the point is typically knapsack problems are not physical knapsacks but some conceptual idea. So let's say that I'm allowed 1,500 calories of food, and these are my options. I have to go about deciding, looking at this food--",
+            "metrics": {
+                "relativeDCReadability": 0.8656871422513386,
+                "lexicalDiversity": 0.45021645021645024,
+                "posComposition": {
+                    "CC": 0.039,
+                    "DT": 0.065,
+                    "NN": 0.113,
+                    "IN": 0.143,
+                    "NNS": 0.03,
+                    "PRP": 0.113,
+                    "VBD": 0.013,
+                    "TO": 0.026,
+                    "VB": 0.065,
+                    "PRP$": 0.017,
+                    "NNP": 0.017,
+                    "MD": 0.043,
+                    "RP": 0.004,
+                    "VBP": 0.065,
+                    "RB": 0.1,
+                    "VBN": 0.017,
+                    "JJ": 0.043,
+                    "WP": 0.004,
+                    "VBZ": 0.022,
+                    "JJR": 0.009,
+                    "WRB": 0.004,
+                    "JJS": 0.009,
+                    "CD": 0.009,
+                    "RBR": 0.004,
+                    "POS": 0.009,
+                    "VBG": 0.013,
+                    ":": 0.004
+                },
+                "syllableRate": 2.433,
+                "topicScores": [
+                    [
+                        "space",
+                        0.3028256665688072
+                    ],
+                    [
+                        "knapsack",
+                        0.3780379602133999
+                    ],
+                    [
+                        "raisin",
+                        0.5214769197108857
+                    ],
+                    [
+                        "gold",
+                        0.5297856851722457
+                    ],
+                    [
+                        "thing",
+                        0.545160866502858
+                    ],
+                    [
+                        "problem",
+                        0.5461347177009402
+                    ],
+                    [
+                        "decision",
+                        0.5515690168314803
+                    ],
+                    [
+                        "value",
+                        0.7372068234490853
+                    ],
+                    [
+                        "pile",
+                        0.7899639465693271
+                    ],
+                    [
+                        "silver",
+                        0.8730850537013779
+                    ],
+                    [
+                        "lecture",
+                        0.8796995006683375
+                    ],
+                    [
+                        "greedy",
+                        0.8848020948779356
+                    ],
+                    [
+                        "algorithm",
+                        0.8848020948779356
+                    ],
+                    [
+                        "idea",
+                        0.8860615376281717
+                    ],
+                    [
+                        "option",
+                        0.888514474249616
+                    ],
+                    [
+                        "food--",
+                        0.8906298717496383
+                    ],
+                    [
+                        "future",
+                        0.8956650046188198
+                    ],
+                    [
+                        "example",
+                        0.899325682744705
+                    ],
+                    [
+                        "hungry",
+                        0.899325682744705
+                    ],
+                    [
+                        "fun",
+                        0.899325682744705
+                    ],
+                    [
+                        "good",
+                        0.899715409255302
+                    ],
+                    [
+                        "complicated",
+                        0.9040449876211687
+                    ],
+                    [
+                        "conceptual",
+                        0.9047621652787972
+                    ],
+                    [
+                        "favorite",
+                        0.9101951605105855
+                    ],
+                    [
+                        "point",
+                        0.9124828768838122
+                    ],
+                    [
+                        "physical",
+                        0.9124828768838122
+                    ],
+                    [
+                        "calorie",
+                        0.9144219363802131
+                    ],
+                    [
+                        "knapsack problem",
+                        1.9958254417198715
+                    ],
+                    [
+                        "good thing",
+                        3.4925178576532443
+                    ],
+                    [
+                        "greedy algorithm",
+                        3.6056365468568
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "knapsack",
+                        0.3780379602133999
+                    ],
+                    [
+                        "thing",
+                        0.545160866502858
+                    ],
+                    [
+                        "problem",
+                        0.5461347177009402
+                    ],
+                    [
+                        "value",
+                        0.7372068234490853
+                    ],
+                    [
+                        "greedy",
+                        0.8848020948779356
+                    ],
+                    [
+                        "algorithm",
+                        0.8848020948779356
+                    ],
+                    [
+                        "good",
+                        0.899715409255302
+                    ],
+                    [
+                        "point",
+                        0.9124828768838122
+                    ],
+                    [
+                        "calorie",
+                        0.9144219363802131
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-720": {
+            "id": "C1lhuz6pZC0-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " and it's interesting, again, there's things showing up on your screen that are not showing up on my screen, but they're harmless, things like how my mouse works. Anyway, so I'm trying to take some fraction of this food, and it can't add up to more than 1,500 calories. The problem might be that once I take something that's 1,485 calories, I can't take anything else, or maybe 1,200 calories and everything else is more than 300. So once I take one thing, it constrains possible solutions. A greedy algorithm, as we'll see, is not guaranteed to give me the best answer. Let's look at a formalization of it. So each item is represented by a pair, the value of the item and the weight of the item. And let's assume the knapsack can accommodate items with the total weight of no more than w. I apologize for the short variable names, but they're easier to fit on a slide. Finally, we're going to have a vector l of length n representing the set of available items. This is assuming we have n items to choose from. So each element of the vector represents an item.",
+            "metrics": {
+                "relativeDCReadability": 1.1156010020716098,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "CC": 0.038,
+                    "PRP": 0.077,
+                    "VBZ": 0.048,
+                    "VBG": 0.034,
+                    "RB": 0.053,
+                    "EX": 0.005,
+                    "NNS": 0.053,
+                    "RP": 0.014,
+                    "IN": 0.111,
+                    "PRP$": 0.014,
+                    "NN": 0.154,
+                    "WDT": 0.01,
+                    "VBP": 0.043,
+                    "JJ": 0.034,
+                    "WRB": 0.005,
+                    "NNP": 0.019,
+                    "TO": 0.029,
+                    "VB": 0.058,
+                    "DT": 0.111,
+                    "MD": 0.024,
+                    "JJR": 0.019,
+                    "CD": 0.024,
+                    "NNPS": 0.005,
+                    "VBN": 0.01,
+                    "JJS": 0.005,
+                    "POS": 0.005
+                },
+                "syllableRate": 2.408,
+                "topicScores": [
+                    [
+                        "item",
+                        0.2947643297748622
+                    ],
+                    [
+                        "thing",
+                        0.4147153518587834
+                    ],
+                    [
+                        "calorie",
+                        0.4198092974218003
+                    ],
+                    [
+                        "screen",
+                        0.4779504753092038
+                    ],
+                    [
+                        "weight",
+                        0.5484172717352512
+                    ],
+                    [
+                        "vector",
+                        0.569105781345813
+                    ],
+                    [
+                        "interesting",
+                        0.7800538912888281
+                    ],
+                    [
+                        "harmless",
+                        0.7800538912888281
+                    ],
+                    [
+                        "mouse",
+                        0.7800538912888281
+                    ],
+                    [
+                        "food",
+                        0.8422118195493109
+                    ],
+                    [
+                        "solution",
+                        0.8541143697346046
+                    ],
+                    [
+                        "fraction",
+                        0.8553711465902847
+                    ],
+                    [
+                        "answer",
+                        0.8641944291663022
+                    ],
+                    [
+                        "problem",
+                        0.8664337656087169
+                    ],
+                    [
+                        "greedy",
+                        0.8770612286366374
+                    ],
+                    [
+                        "possible",
+                        0.8797106987688413
+                    ],
+                    [
+                        "slide",
+                        0.8809666035581292
+                    ],
+                    [
+                        "algorithm",
+                        0.888253554464519
+                    ],
+                    [
+                        "good",
+                        0.888253554464519
+                    ],
+                    [
+                        "pair",
+                        0.8988282141064666
+                    ],
+                    [
+                        "value",
+                        0.8988282141064666
+                    ],
+                    [
+                        "variable",
+                        0.9023900035206396
+                    ],
+                    [
+                        "name",
+                        0.9023900035206396
+                    ],
+                    [
+                        "formalization",
+                        0.9036039023458982
+                    ],
+                    [
+                        "available",
+                        0.9052777191173977
+                    ],
+                    [
+                        "knapsack",
+                        0.911060543625073
+                    ],
+                    [
+                        "total",
+                        0.911060543625073
+                    ],
+                    [
+                        "w.",
+                        0.911060543625073
+                    ],
+                    [
+                        "short",
+                        0.911060543625073
+                    ],
+                    [
+                        "easy",
+                        0.911060543625073
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "item",
+                        0.2947643297748622
+                    ],
+                    [
+                        "thing",
+                        0.4147153518587834
+                    ],
+                    [
+                        "calorie",
+                        0.4198092974218003
+                    ],
+                    [
+                        "food",
+                        0.8422118195493109
+                    ],
+                    [
+                        "solution",
+                        0.8541143697346046
+                    ],
+                    [
+                        "answer",
+                        0.8641944291663022
+                    ],
+                    [
+                        "problem",
+                        0.8664337656087169
+                    ],
+                    [
+                        "greedy",
+                        0.8770612286366374
+                    ],
+                    [
+                        "algorithm",
+                        0.888253554464519
+                    ],
+                    [
+                        "good",
+                        0.888253554464519
+                    ],
+                    [
+                        "value",
+                        0.8988282141064666
+                    ],
+                    [
+                        "knapsack",
+                        0.911060543625073
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-810": {
+            "id": "C1lhuz6pZC0-810",
+            "heat": 0.111,
+            "start": 810.0,
+            "text": " So those are the items we have. And then another vector v is going to indicate whether or not an item was taken. So essentially I'm going to use a binary number to represent the set of items I choose to take. For item three say, if bit three is zero I'm not taking the item. If bit three is one, then I am taking the item. So it just shows I can now very nicely represent what I've done by a single vector of zeros and ones. Let me pause for a second. Does anyone have any questions about this setup? It's important to get this setup because what we're going to see now depends upon that setting in your head. So I've kind of used mathematics to describe the backpack problem. And that's typically the way we deal with these optimization problems. We start with some informal description, and then we translate them into a mathematical representation. So here it is. We're going to try and find a vector v that maximizes the sum of V sub i times I sub i.",
+            "metrics": {
+                "relativeDCReadability": 1.060215572871885,
+                "lexicalDiversity": 0.4739583333333333,
+                "posComposition": {
+                    "RB": 0.083,
+                    "DT": 0.115,
+                    "VBP": 0.078,
+                    "NNS": 0.036,
+                    "PRP": 0.099,
+                    "CC": 0.031,
+                    "NN": 0.146,
+                    "VBZ": 0.047,
+                    "VBG": 0.036,
+                    "TO": 0.042,
+                    "VB": 0.068,
+                    "IN": 0.099,
+                    "VBD": 0.005,
+                    "VBN": 0.016,
+                    "JJ": 0.036,
+                    "CD": 0.026,
+                    "MD": 0.005,
+                    "WP": 0.01,
+                    "NNP": 0.01,
+                    "PRP$": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.267,
+                "topicScores": [
+                    [
+                        "item",
+                        0.30045701771668604
+                    ],
+                    [
+                        "v",
+                        0.40334808322982396
+                    ],
+                    [
+                        "vector",
+                        0.43881864763985834
+                    ],
+                    [
+                        "bit",
+                        0.4987901434030291
+                    ],
+                    [
+                        "problem",
+                        0.5334784619945248
+                    ],
+                    [
+                        "setup",
+                        0.5481515091154514
+                    ],
+                    [
+                        "zero",
+                        0.5572753529029137
+                    ],
+                    [
+                        "sub",
+                        0.5602886247800681
+                    ],
+                    [
+                        "second",
+                        0.8738564692907014
+                    ],
+                    [
+                        "binary",
+                        0.8770420410151395
+                    ],
+                    [
+                        "number",
+                        0.8770420410151395
+                    ],
+                    [
+                        "head",
+                        0.8816883346743458
+                    ],
+                    [
+                        "representation",
+                        0.8892294310825273
+                    ],
+                    [
+                        "i.",
+                        0.894223872269215
+                    ],
+                    [
+                        "single",
+                        0.9029344160181286
+                    ],
+                    [
+                        "backpack",
+                        0.9065650240944654
+                    ],
+                    [
+                        "optimization",
+                        0.9086220711468378
+                    ],
+                    [
+                        "informal",
+                        0.9103944115442906
+                    ],
+                    [
+                        "description",
+                        0.9103944115442906
+                    ],
+                    [
+                        "mathematical",
+                        0.9103944115442906
+                    ],
+                    [
+                        "question",
+                        0.9104377118488272
+                    ],
+                    [
+                        "important",
+                        0.9131102671247492
+                    ],
+                    [
+                        "setting",
+                        0.9131102671247492
+                    ],
+                    [
+                        "time",
+                        0.914526290102243
+                    ],
+                    [
+                        "way",
+                        0.9172123193357623
+                    ],
+                    [
+                        "sum",
+                        0.9214960450786243
+                    ],
+                    [
+                        "vector v",
+                        1.5296897370020723
+                    ],
+                    [
+                        "v sub",
+                        2.5257898391429103
+                    ],
+                    [
+                        "backpack problem",
+                        3.2833896411351686
+                    ],
+                    [
+                        "optimization problem",
+                        3.315541268799926
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "item",
+                        0.30045701771668604
+                    ],
+                    [
+                        "problem",
+                        0.5334784619945248
+                    ],
+                    [
+                        "number",
+                        0.8770420410151395
+                    ],
+                    [
+                        "optimization",
+                        0.9086220711468378
+                    ],
+                    [
+                        "question",
+                        0.9104377118488272
+                    ],
+                    [
+                        "time",
+                        0.914526290102243
+                    ],
+                    [
+                        "way",
+                        0.9172123193357623
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-900": {
+            "id": "C1lhuz6pZC0-900",
+            "heat": 0.2,
+            "start": 900.0,
+            "text": " Now, remember I sub i is the value of the item. V sub i is either zero or one So if I didn't take the item, I'm multiplying its value by zero. So it contributes nothing to the sum. If I did take the item, I'm multiplying its value by one. So the value of the item gets added to the sum. So that tells me the value of V. And I want to get the most valuable V I can get subject to the constraint that if I look at the item's dot weight and multiply it by V, the sum of the weights is no greater than w. So I'm playing the same trick with the values of multiplying each one by zero or one, and that's my constraint. Make sense? All right, so now we have the problem formalized. How do we solve it? Well, the most obvious solution is brute force. I enumerate all possible combinations of items; that is to say, I generate all subsets",
+            "metrics": {
+                "relativeDCReadability": 1.1255329089805606,
+                "lexicalDiversity": 0.44886363636363635,
+                "posComposition": {
+                    "RB": 0.034,
+                    "VB": 0.045,
+                    "PRP": 0.097,
+                    "VBP": 0.057,
+                    "NN": 0.165,
+                    "VBZ": 0.051,
+                    "DT": 0.136,
+                    "IN": 0.114,
+                    "NNP": 0.04,
+                    "CC": 0.028,
+                    "CD": 0.028,
+                    "NNPS": 0.006,
+                    "VBD": 0.017,
+                    "VBG": 0.023,
+                    "PRP$": 0.017,
+                    "TO": 0.028,
+                    "VBN": 0.006,
+                    "RBS": 0.011,
+                    "JJ": 0.034,
+                    "MD": 0.006,
+                    "POS": 0.006,
+                    "NNS": 0.028,
+                    "JJR": 0.006,
+                    "WP": 0.006,
+                    "WRB": 0.006,
+                    "WDT": 0.006
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "item",
+                        0.2765550964558086
+                    ],
+                    [
+                        "value",
+                        0.2820415862680954
+                    ],
+                    [
+                        "sum",
+                        0.38956982857802247
+                    ],
+                    [
+                        "sub",
+                        0.5045557939929636
+                    ],
+                    [
+                        "constraint",
+                        0.5458948051918179
+                    ],
+                    [
+                        "weight",
+                        0.5611761862480639
+                    ],
+                    [
+                        "V",
+                        0.6434098406812563
+                    ],
+                    [
+                        "v sub",
+                        0.8677537815107081
+                    ],
+                    [
+                        "sense",
+                        0.8718837745075378
+                    ],
+                    [
+                        "w.",
+                        0.8767984643044205
+                    ],
+                    [
+                        "force",
+                        0.8882598619444136
+                    ],
+                    [
+                        "subset",
+                        0.8897873375598778
+                    ],
+                    [
+                        "problem",
+                        0.9019230748275242
+                    ],
+                    [
+                        "valuable",
+                        0.902869135562251
+                    ],
+                    [
+                        "subject",
+                        0.902869135562251
+                    ],
+                    [
+                        "dot",
+                        0.902869135562251
+                    ],
+                    [
+                        "great",
+                        0.902869135562251
+                    ],
+                    [
+                        "brute",
+                        0.9050836947926234
+                    ],
+                    [
+                        "trick",
+                        0.9053240651187022
+                    ],
+                    [
+                        "obvious",
+                        0.9121481976151973
+                    ],
+                    [
+                        "solution",
+                        0.9121481976151973
+                    ],
+                    [
+                        "possible",
+                        0.9133809660177562
+                    ],
+                    [
+                        "combination",
+                        0.9133809660177562
+                    ],
+                    [
+                        "dot weight",
+                        4.077452050161677
+                    ],
+                    [
+                        "brute force",
+                        4.100727061214187
+                    ],
+                    [
+                        "obvious solution",
+                        4.952888875985865
+                    ],
+                    [
+                        "possible combination",
+                        5.033720863962899
+                    ]
+                ],
+                "topTopicSimilarity": 0.18518518518518517,
+                "sharedTopicScores": [
+                    [
+                        "item",
+                        0.2765550964558086
+                    ],
+                    [
+                        "value",
+                        0.2820415862680954
+                    ],
+                    [
+                        "constraint",
+                        0.5458948051918179
+                    ],
+                    [
+                        "problem",
+                        0.9019230748275242
+                    ],
+                    [
+                        "solution",
+                        0.9121481976151973
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-990": {
+            "id": "C1lhuz6pZC0-990",
+            "heat": 0.187,
+            "start": 990.0,
+            "text": " of the items that are available-- I don't know why it says subjects here, but we should have said items. Let me fix that. This is called the power set. So the power set of a set includes the empty subset. It includes the set that includes everything and everything in between. So subsets of size one, subsets of size two, et cetera. So now I've generated all possible sets of items. I can now go through and sum up the weights and remove all those sets that weigh more than I'm allowed. And then from the remaining combinations, choose any one whose value is the largest. I say choose any one because there could be ties, in which case I don't care which I choose. So it's pretty obvious that this is going to give you a correct answer. You're considering all possibilities and choosing a winner. Unfortunately, it's usually not very practical. What we see here is that's what the power set is if you have 100 vec. Not very practical, right, even for a fast computer generating that many possibilities is going",
+            "metrics": {
+                "relativeDCReadability": 0.8857876908651243,
+                "lexicalDiversity": 0.4793814432989691,
+                "posComposition": {
+                    "IN": 0.098,
+                    "DT": 0.113,
+                    "NNS": 0.072,
+                    "WDT": 0.026,
+                    "VBP": 0.062,
+                    "JJ": 0.052,
+                    ":": 0.005,
+                    "PRP": 0.088,
+                    "RB": 0.082,
+                    "VB": 0.052,
+                    "WRB": 0.005,
+                    "VBZ": 0.067,
+                    "CC": 0.031,
+                    "MD": 0.015,
+                    "VBD": 0.005,
+                    "VBN": 0.021,
+                    "NN": 0.103,
+                    "NNP": 0.005,
+                    "CD": 0.026,
+                    "RP": 0.005,
+                    "JJR": 0.005,
+                    "VBG": 0.031,
+                    "WP$": 0.005,
+                    "JJS": 0.005,
+                    "EX": 0.005,
+                    "TO": 0.005,
+                    "WP": 0.01
+                },
+                "syllableRate": 2.292,
+                "topicScores": [
+                    [
+                        "set",
+                        0.2908617933121416
+                    ],
+                    [
+                        "item",
+                        0.41998285787991974
+                    ],
+                    [
+                        "subset",
+                        0.4272689135567283
+                    ],
+                    [
+                        "power",
+                        0.42873770644595344
+                    ],
+                    [
+                        "practical",
+                        0.5508934437396268
+                    ],
+                    [
+                        "size",
+                        0.5514516233724739
+                    ],
+                    [
+                        "possibility",
+                        0.58063573581127
+                    ],
+                    [
+                        "available--",
+                        0.764901629271083
+                    ],
+                    [
+                        "subject",
+                        0.8594817327217831
+                    ],
+                    [
+                        "cetera",
+                        0.8783380796565525
+                    ],
+                    [
+                        "large",
+                        0.9001929184555313
+                    ],
+                    [
+                        "answer",
+                        0.904255882206706
+                    ],
+                    [
+                        "winner",
+                        0.9058984277761919
+                    ],
+                    [
+                        "combination",
+                        0.9184762176638929
+                    ],
+                    [
+                        "tie",
+                        0.9202940859693323
+                    ],
+                    [
+                        "possible",
+                        0.9214973492720383
+                    ],
+                    [
+                        "correct",
+                        0.9218595083159048
+                    ],
+                    [
+                        "weight",
+                        0.9238674799493901
+                    ],
+                    [
+                        "value",
+                        0.9258352830884077
+                    ],
+                    [
+                        "case",
+                        0.9275020070046064
+                    ],
+                    [
+                        "obvious",
+                        0.9289367971782128
+                    ],
+                    [
+                        "fast",
+                        0.9331612524198947
+                    ],
+                    [
+                        "computer",
+                        0.9331612524198947
+                    ],
+                    [
+                        "power set",
+                        1.4858646862132245
+                    ],
+                    [
+                        "et cetera",
+                        3.8006034384730105
+                    ],
+                    [
+                        "possible set",
+                        4.104257382412
+                    ],
+                    [
+                        "correct answer",
+                        5.009502813439962
+                    ],
+                    [
+                        "fast computer",
+                        6.739334449419716
+                    ]
+                ],
+                "topTopicSimilarity": 0.14285714285714285,
+                "sharedTopicScores": [
+                    [
+                        "set",
+                        0.2908617933121416
+                    ],
+                    [
+                        "item",
+                        0.41998285787991974
+                    ],
+                    [
+                        "answer",
+                        0.904255882206706
+                    ],
+                    [
+                        "value",
+                        0.9258352830884077
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1080": {
+            "id": "C1lhuz6pZC0-1080",
+            "heat": 0.116,
+            "start": 1080.0,
+            "text": " to take a rather long time. So kind of disappointing. We look at it and say, well, we got a brute force algorithm. It will solve the problem, but it'll take too long. We can't actually do it. 100 is a pretty small number, right. We often end up solving optimization problems where n is something closer to 1,000, sometimes even a million. Clearly, brute force isn't going to work. So that raises the next question, are we just being stupid? Is there a better algorithm that I should have showed you? I shouldn't say we. Am I just being stupid? Is there a better algorithm that would have given us the answer? The sad answer to that is no for the knapsack problem. And indeed many optimization problems are inherently exponential. What that means is there is no algorithm that provides an exact solution to this problem whose worst case running time is not exponential in the number of items. It is an exponentially hard problem. There is no really good solution. But that should not make you sad because while there's no perfect solution, we're going to look at a couple of really",
+            "metrics": {
+                "relativeDCReadability": 1.0493135359651682,
+                "lexicalDiversity": 0.4975124378109453,
+                "posComposition": {
+                    "TO": 0.03,
+                    "VB": 0.055,
+                    "DT": 0.114,
+                    "RB": 0.109,
+                    "JJ": 0.085,
+                    "NN": 0.149,
+                    "NNP": 0.02,
+                    "IN": 0.055,
+                    "VBG": 0.035,
+                    "PRP": 0.09,
+                    "VBP": 0.03,
+                    "CC": 0.02,
+                    "VBD": 0.005,
+                    "MD": 0.035,
+                    "CD": 0.015,
+                    "VBZ": 0.065,
+                    "RP": 0.005,
+                    "NNS": 0.015,
+                    "WRB": 0.005,
+                    "EX": 0.025,
+                    "JJR": 0.01,
+                    "VBN": 0.01,
+                    "WDT": 0.01,
+                    "WP": 0.005,
+                    "WP$": 0.005
+                },
+                "syllableRate": 2.4,
+                "topicScores": [
+                    [
+                        "problem",
+                        0.30886587064177523
+                    ],
+                    [
+                        "algorithm",
+                        0.36337797056383475
+                    ],
+                    [
+                        "solution",
+                        0.4431808465173938
+                    ],
+                    [
+                        "long",
+                        0.5086867783283244
+                    ],
+                    [
+                        "stupid",
+                        0.5096358489697947
+                    ],
+                    [
+                        "force",
+                        0.533146080648535
+                    ],
+                    [
+                        "brute",
+                        0.5400977706324113
+                    ],
+                    [
+                        "time",
+                        0.5526157543648023
+                    ],
+                    [
+                        "answer",
+                        0.5531684268789785
+                    ],
+                    [
+                        "exponential",
+                        0.5552592785657041
+                    ],
+                    [
+                        "optimization",
+                        0.5594848388630385
+                    ],
+                    [
+                        "number",
+                        0.5616590661423481
+                    ],
+                    [
+                        "sad",
+                        0.5672433819003504
+                    ],
+                    [
+                        "disappointing",
+                        0.8183362947375341
+                    ],
+                    [
+                        "small",
+                        0.895446209396447
+                    ],
+                    [
+                        "item",
+                        0.9027211894596132
+                    ],
+                    [
+                        "question",
+                        0.9063256432658224
+                    ],
+                    [
+                        "close",
+                        0.907347780848925
+                    ],
+                    [
+                        "knapsack",
+                        0.9153054750340704
+                    ],
+                    [
+                        "hard",
+                        0.9185398942869304
+                    ],
+                    [
+                        "good",
+                        0.919423605738829
+                    ],
+                    [
+                        "perfect",
+                        0.9202330787879602
+                    ],
+                    [
+                        "exact",
+                        0.9237831886284367
+                    ],
+                    [
+                        "bad",
+                        0.9237831886284367
+                    ],
+                    [
+                        "case",
+                        0.9237831886284367
+                    ],
+                    [
+                        "couple",
+                        0.9262618944112261
+                    ],
+                    [
+                        "well algorithm",
+                        1.4239291046295057
+                    ],
+                    [
+                        "brute force",
+                        1.6497878823331547
+                    ],
+                    [
+                        "optimization problem",
+                        2.099284255490394
+                    ],
+                    [
+                        "long time",
+                        2.4033742414064507
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "problem",
+                        0.30886587064177523
+                    ],
+                    [
+                        "algorithm",
+                        0.36337797056383475
+                    ],
+                    [
+                        "solution",
+                        0.4431808465173938
+                    ],
+                    [
+                        "time",
+                        0.5526157543648023
+                    ],
+                    [
+                        "answer",
+                        0.5531684268789785
+                    ],
+                    [
+                        "optimization",
+                        0.5594848388630385
+                    ],
+                    [
+                        "number",
+                        0.5616590661423481
+                    ],
+                    [
+                        "item",
+                        0.9027211894596132
+                    ],
+                    [
+                        "question",
+                        0.9063256432658224
+                    ],
+                    [
+                        "knapsack",
+                        0.9153054750340704
+                    ],
+                    [
+                        "good",
+                        0.919423605738829
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1170": {
+            "id": "C1lhuz6pZC0-1170",
+            "heat": 0.212,
+            "start": 1170.0,
+            "text": " very good solutions that will make this poor woman a happier person. So let's start with the greedy algorithm. I already talked to you about greedy algorithms. So it could hardly be simpler. We say while the knapsack is not full, put the best available item into the knapsack. When it's full, we're done. You do need to ask a question. What does best mean? Is the best item the most valuable? Is it the least expensive in terms of, say, the fewest calories, in my case? Or is it the highest ratio of value to units? Now, maybe I think a calorie in a glass of beer is worth more than a calorie in a bar of chocolate, maybe vice versa. Which gets me to a concrete example. So you're about to sit down to a meal. You know how much you value the various different foods. For example, maybe you like donuts more than you like apples. You have a calorie budget, and here we're going to have a fairly austere budget-- it's only one meal; it's not the whole day-- of 750 calories, and we're going to have to go through menus and choose what to eat.",
+            "metrics": {
+                "relativeDCReadability": 0.9654094940714044,
+                "lexicalDiversity": 0.49047619047619045,
+                "posComposition": {
+                    "RB": 0.057,
+                    "JJ": 0.062,
+                    "NNS": 0.043,
+                    "WDT": 0.005,
+                    "MD": 0.01,
+                    "VB": 0.048,
+                    "DT": 0.105,
+                    "NN": 0.167,
+                    "JJR": 0.014,
+                    "NNP": 0.014,
+                    "POS": 0.005,
+                    "IN": 0.095,
+                    "PRP": 0.1,
+                    "VBD": 0.01,
+                    "TO": 0.048,
+                    "VBP": 0.057,
+                    "VBZ": 0.048,
+                    "JJS": 0.019,
+                    "WRB": 0.01,
+                    "VBN": 0.005,
+                    "WP": 0.01,
+                    "RBS": 0.014,
+                    "PRP$": 0.005,
+                    "CC": 0.019,
+                    "RP": 0.005,
+                    "VBG": 0.01,
+                    ":": 0.01,
+                    "CD": 0.01
+                },
+                "syllableRate": 2.383,
+                "topicScores": [
+                    [
+                        "calorie",
+                        0.3424485971873074
+                    ],
+                    [
+                        "good",
+                        0.4352280560091503
+                    ],
+                    [
+                        "algorithm",
+                        0.4905445596865272
+                    ],
+                    [
+                        "greedy",
+                        0.526328430018237
+                    ],
+                    [
+                        "knapsack",
+                        0.5522373086821293
+                    ],
+                    [
+                        "item",
+                        0.5555236627143483
+                    ],
+                    [
+                        "example",
+                        0.5602690688055274
+                    ],
+                    [
+                        "meal",
+                        0.566681126300811
+                    ],
+                    [
+                        "value",
+                        0.5782873155952452
+                    ],
+                    [
+                        "person",
+                        0.8181664401504224
+                    ],
+                    [
+                        "happy",
+                        0.850628639813175
+                    ],
+                    [
+                        "solution",
+                        0.8638538360240116
+                    ],
+                    [
+                        "poor",
+                        0.8638538360240116
+                    ],
+                    [
+                        "woman",
+                        0.8638538360240116
+                    ],
+                    [
+                        "simple",
+                        0.8701426688457051
+                    ],
+                    [
+                        "question",
+                        0.8862768987546564
+                    ],
+                    [
+                        "valuable",
+                        0.8923336654536563
+                    ],
+                    [
+                        "case",
+                        0.8946676238763266
+                    ],
+                    [
+                        "unit",
+                        0.8966798442048546
+                    ],
+                    [
+                        "food",
+                        0.9026208455399968
+                    ],
+                    [
+                        "apple",
+                        0.9037484726054356
+                    ],
+                    [
+                        "few",
+                        0.9055593039307541
+                    ],
+                    [
+                        "available",
+                        0.9095567892347597
+                    ],
+                    [
+                        "term",
+                        0.9148929753184948
+                    ],
+                    [
+                        "chocolate",
+                        0.9180055389237923
+                    ],
+                    [
+                        "concrete",
+                        0.9192861512172943
+                    ],
+                    [
+                        "different",
+                        0.9214531364553445
+                    ],
+                    [
+                        "expensive",
+                        0.9229437030834942
+                    ],
+                    [
+                        "budget",
+                        0.9232269628508475
+                    ],
+                    [
+                        "high",
+                        0.9244613583745335
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "calorie",
+                        0.3424485971873074
+                    ],
+                    [
+                        "good",
+                        0.4352280560091503
+                    ],
+                    [
+                        "algorithm",
+                        0.4905445596865272
+                    ],
+                    [
+                        "greedy",
+                        0.526328430018237
+                    ],
+                    [
+                        "knapsack",
+                        0.5522373086821293
+                    ],
+                    [
+                        "item",
+                        0.5555236627143483
+                    ],
+                    [
+                        "value",
+                        0.5782873155952452
+                    ],
+                    [
+                        "solution",
+                        0.8638538360240116
+                    ],
+                    [
+                        "question",
+                        0.8862768987546564
+                    ],
+                    [
+                        "food",
+                        0.9026208455399968
+                    ],
+                    [
+                        "different",
+                        0.9214531364553445
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1260": {
+            "id": "C1lhuz6pZC0-1260",
+            "heat": 0.435,
+            "start": 1260.0,
+            "text": " That is as we've seen a knapsack problem. They should probably have a knapsack solver at every McDonald's and Burger King. So here's a menu I just made up of wine, beer, pizza, burger, fries, Coke, apples, and a donut, and the value I might place on each of these and the number of calories that actually are in each of these. And we're going to build a program that will find an optimal menu. And if you don't like this menu, you can run the program and change the values to be whatever you like. Well, as you saw if you took 60001, we like to start with an abstract data type, like to organize our program around data abstractions. So I've got this class food. I can initialize things. I have a getValue, a getCost, density, which is going to be the value divided by the cost, and then a string representation. So nothing here that you should not all be very familiar with. Then I'm going to have a function called buildMenu, which will take in a list of names and a list of values of equal length and a list of calories.",
+            "metrics": {
+                "relativeDCReadability": 1.0200780348662422,
+                "lexicalDiversity": 0.4482758620689655,
+                "posComposition": {
+                    "DT": 0.143,
+                    "VBZ": 0.015,
+                    "IN": 0.113,
+                    "PRP": 0.079,
+                    "VBP": 0.049,
+                    "VBN": 0.02,
+                    "NN": 0.163,
+                    "MD": 0.034,
+                    "RB": 0.064,
+                    "VB": 0.074,
+                    "NNP": 0.025,
+                    "POS": 0.005,
+                    "CC": 0.049,
+                    "VBD": 0.01,
+                    "JJ": 0.025,
+                    "NNS": 0.054,
+                    "WDT": 0.025,
+                    "VBG": 0.015,
+                    "TO": 0.03,
+                    "CD": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.275,
+                "topicScores": [
+                    [
+                        "value",
+                        0.3750491719434451
+                    ],
+                    [
+                        "Burger King",
+                        0.4184122281679289
+                    ],
+                    [
+                        "menu",
+                        0.42285359212732154
+                    ],
+                    [
+                        "list",
+                        0.43188552715094924
+                    ],
+                    [
+                        "program",
+                        0.43733296488945517
+                    ],
+                    [
+                        "knapsack",
+                        0.510330059254194
+                    ],
+                    [
+                        "calorie",
+                        0.5417165062069705
+                    ],
+                    [
+                        "data",
+                        0.5568608335974495
+                    ],
+                    [
+                        "Coke",
+                        0.5732916007786679
+                    ],
+                    [
+                        "problem",
+                        0.8117893772495728
+                    ],
+                    [
+                        "beer",
+                        0.8669406151445165
+                    ],
+                    [
+                        "pizza",
+                        0.8669406151445165
+                    ],
+                    [
+                        "burger",
+                        0.8669406151445165
+                    ],
+                    [
+                        "fry",
+                        0.8669406151445165
+                    ],
+                    [
+                        "apple",
+                        0.8669406151445165
+                    ],
+                    [
+                        "solver",
+                        0.8739355406526286
+                    ],
+                    [
+                        "McDonald",
+                        0.8739355406526286
+                    ],
+                    [
+                        "wine",
+                        0.8773116598570083
+                    ],
+                    [
+                        "donut",
+                        0.8773116598570083
+                    ],
+                    [
+                        "abstraction",
+                        0.877737071813323
+                    ],
+                    [
+                        "food",
+                        0.8819438564493727
+                    ],
+                    [
+                        "thing",
+                        0.8853596104689397
+                    ],
+                    [
+                        "optimal",
+                        0.8860028150908952
+                    ],
+                    [
+                        "number",
+                        0.8865644011926388
+                    ],
+                    [
+                        "representation",
+                        0.8882022857662377
+                    ],
+                    [
+                        "type",
+                        0.8967657101102247
+                    ],
+                    [
+                        "getCost",
+                        0.8975311271889325
+                    ],
+                    [
+                        "density",
+                        0.8975311271889325
+                    ],
+                    [
+                        "class",
+                        0.9003920639689684
+                    ],
+                    [
+                        "getvalue",
+                        0.905776994437784
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "value",
+                        0.3750491719434451
+                    ],
+                    [
+                        "menu",
+                        0.42285359212732154
+                    ],
+                    [
+                        "knapsack",
+                        0.510330059254194
+                    ],
+                    [
+                        "calorie",
+                        0.5417165062069705
+                    ],
+                    [
+                        "problem",
+                        0.8117893772495728
+                    ],
+                    [
+                        "food",
+                        0.8819438564493727
+                    ],
+                    [
+                        "thing",
+                        0.8853596104689397
+                    ],
+                    [
+                        "number",
+                        0.8865644011926388
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1350": {
+            "id": "C1lhuz6pZC0-1350",
+            "heat": 0.229,
+            "start": 1350.0,
+            "text": " They're all the same length. And it will build the menu. So it's going to be a menu of tuples-- a menu of foods, rather. And I build each food by giving it its name, its value, and its caloric content. Now I have a menu. Now comes the fun part. Here is an implementation of a greedy algorithm. I called it a flexible greedy primarily because of this key function over here. So you'll notice in red there's a parameter called keyfunction. That's going to be-- map the elements of items to numbers. So it will be used to sort the items. So I want to sort them from best to worst, and this function will be used to tell me what I mean by best. So maybe keyfunction will just return the value or maybe it will return the weight or maybe it will return some function of the density. But the idea here is I want to use one greedy algorithm independently",
+            "metrics": {
+                "relativeDCReadability": 0.9847749144240384,
+                "lexicalDiversity": 0.4418604651162791,
+                "posComposition": {
+                    "PRP": 0.099,
+                    "VBP": 0.035,
+                    "PDT": 0.006,
+                    "DT": 0.116,
+                    "JJ": 0.035,
+                    "NN": 0.157,
+                    "CC": 0.041,
+                    "MD": 0.041,
+                    "VB": 0.093,
+                    "IN": 0.087,
+                    "VBZ": 0.035,
+                    "VBG": 0.017,
+                    "TO": 0.047,
+                    "NNS": 0.035,
+                    ":": 0.012,
+                    "RB": 0.07,
+                    "PRP$": 0.017,
+                    "VBD": 0.006,
+                    "EX": 0.006,
+                    "VBN": 0.017,
+                    "WDT": 0.006,
+                    "JJS": 0.012,
+                    "WP": 0.006,
+                    "CD": 0.006
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "menu",
+                        0.36059362309234483
+                    ],
+                    [
+                        "greedy",
+                        0.44464030966243306
+                    ],
+                    [
+                        "function",
+                        0.4543260288229762
+                    ],
+                    [
+                        "algorithm",
+                        0.5533297983635644
+                    ],
+                    [
+                        "food",
+                        0.5552622750611212
+                    ],
+                    [
+                        "value",
+                        0.5648248612495117
+                    ],
+                    [
+                        "item",
+                        0.5676833783590585
+                    ],
+                    [
+                        "keyfunction",
+                        0.5682746387512686
+                    ],
+                    [
+                        "good",
+                        0.5749660386871388
+                    ],
+                    [
+                        "length",
+                        0.8198605979868105
+                    ],
+                    [
+                        "content",
+                        0.8714286604257173
+                    ],
+                    [
+                        "caloric",
+                        0.895595506573199
+                    ],
+                    [
+                        "number",
+                        0.8957398430926141
+                    ],
+                    [
+                        "tuples--",
+                        0.8978920443823896
+                    ],
+                    [
+                        "density",
+                        0.9010147248572415
+                    ],
+                    [
+                        "implementation",
+                        0.9174650522350696
+                    ],
+                    [
+                        "bad",
+                        0.9188617374892754
+                    ],
+                    [
+                        "flexible",
+                        0.9199463487792133
+                    ],
+                    [
+                        "red",
+                        0.9220069457328827
+                    ],
+                    [
+                        "parameter",
+                        0.9220069457328827
+                    ],
+                    [
+                        "element",
+                        0.923752619464191
+                    ],
+                    [
+                        "weight",
+                        0.9277245940850313
+                    ],
+                    [
+                        "idea",
+                        0.9287558607222387
+                    ],
+                    [
+                        "greedy algorithm",
+                        2.235698954729427
+                    ],
+                    [
+                        "caloric content",
+                        3.5547211790326845
+                    ],
+                    [
+                        "flexible greedy",
+                        4.497237766295833
+                    ],
+                    [
+                        "key function",
+                        5.094259029596209
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "menu",
+                        0.36059362309234483
+                    ],
+                    [
+                        "greedy",
+                        0.44464030966243306
+                    ],
+                    [
+                        "function",
+                        0.4543260288229762
+                    ],
+                    [
+                        "algorithm",
+                        0.5533297983635644
+                    ],
+                    [
+                        "food",
+                        0.5552622750611212
+                    ],
+                    [
+                        "value",
+                        0.5648248612495117
+                    ],
+                    [
+                        "item",
+                        0.5676833783590585
+                    ],
+                    [
+                        "good",
+                        0.5749660386871388
+                    ],
+                    [
+                        "number",
+                        0.8957398430926141
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1440": {
+            "id": "C1lhuz6pZC0-1440",
+            "heat": 0.136,
+            "start": 1440.0,
+            "text": " of my definition of best. So I use keyfunction to define what I mean by best. So I'm going to come in. I'm going to sort it from best to worst. And then for i in range len of items sub copy-- I'm being good. I've copied it. That's why you sorted rather than sort. I don't want to have a side effect in the parameter. In general, it's not good hygiene to do that. And so for-- I'll go through it in order from best to worst. And if the value is less than the maximum cost, if putting it in would keep me under the cost or not over the cost, I put it in, and I just do that until I can't put anything else in. So I might skip a few because I might get to the point where there's only a few calories left, and the next best item is over that budget but maybe further down I'll find one that is not over it and put it in. That's why I can't exit as soon as I reach-- as soon as I find an item that won't fit. And then I'll just return. Does this make sense? Does anyone have any doubts about whether this algorithm actually works?",
+            "metrics": {
+                "relativeDCReadability": 0.8851340420511722,
+                "lexicalDiversity": 0.4267241379310345,
+                "posComposition": {
+                    "IN": 0.142,
+                    "PRP$": 0.004,
+                    "NN": 0.103,
+                    "JJS": 0.013,
+                    "RB": 0.103,
+                    "PRP": 0.121,
+                    "VBP": 0.043,
+                    "TO": 0.034,
+                    "VB": 0.086,
+                    "WP": 0.004,
+                    "VBG": 0.017,
+                    "RBS": 0.004,
+                    "CC": 0.039,
+                    "NNS": 0.017,
+                    "JJ": 0.039,
+                    ":": 0.013,
+                    "VBN": 0.009,
+                    "DT": 0.078,
+                    "VBZ": 0.039,
+                    "WRB": 0.013,
+                    "VBD": 0.009,
+                    "MD": 0.039,
+                    "JJR": 0.004,
+                    "NNP": 0.009,
+                    "EX": 0.004,
+                    "RP": 0.004,
+                    "WDT": 0.009
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "good",
+                        0.2698967713321456
+                    ],
+                    [
+                        "cost",
+                        0.4347027145868945
+                    ],
+                    [
+                        "item",
+                        0.4430034404425971
+                    ],
+                    [
+                        "bad",
+                        0.50190131580163
+                    ],
+                    [
+                        "definition",
+                        0.7867441447578285
+                    ],
+                    [
+                        "keyfunction",
+                        0.8709312881078722
+                    ],
+                    [
+                        "copy--",
+                        0.8732011698004063
+                    ],
+                    [
+                        "parameter",
+                        0.8889275012525371
+                    ],
+                    [
+                        "for--",
+                        0.8933947505266189
+                    ],
+                    [
+                        "range",
+                        0.8979607478198445
+                    ],
+                    [
+                        "len",
+                        0.8979607478198445
+                    ],
+                    [
+                        "general",
+                        0.8993008296703187
+                    ],
+                    [
+                        "sense",
+                        0.90358050400716
+                    ],
+                    [
+                        "effect",
+                        0.9109294902400612
+                    ],
+                    [
+                        "maximum",
+                        0.91124352531924
+                    ],
+                    [
+                        "calorie",
+                        0.9124877704733065
+                    ],
+                    [
+                        "budget",
+                        0.9124877704733065
+                    ],
+                    [
+                        "hygiene",
+                        0.9128996818232523
+                    ],
+                    [
+                        "order",
+                        0.9160784579120305
+                    ],
+                    [
+                        "value",
+                        0.9173864593289217
+                    ],
+                    [
+                        "point",
+                        0.9185522859801574
+                    ],
+                    [
+                        "doubt",
+                        0.923604965332408
+                    ],
+                    [
+                        "algorithm",
+                        0.923604965332408
+                    ],
+                    [
+                        "good item",
+                        2.5384601015742967
+                    ],
+                    [
+                        "good hygiene",
+                        2.83385645699098
+                    ],
+                    [
+                        "maximum cost",
+                        3.8132476334294245
+                    ],
+                    [
+                        "range len",
+                        4.1635157545686035
+                    ]
+                ],
+                "topTopicSimilarity": 0.25925925925925924,
+                "sharedTopicScores": [
+                    [
+                        "good",
+                        0.2698967713321456
+                    ],
+                    [
+                        "cost",
+                        0.4347027145868945
+                    ],
+                    [
+                        "item",
+                        0.4430034404425971
+                    ],
+                    [
+                        "calorie",
+                        0.9124877704733065
+                    ],
+                    [
+                        "value",
+                        0.9173864593289217
+                    ],
+                    [
+                        "point",
+                        0.9185522859801574
+                    ],
+                    [
+                        "algorithm",
+                        0.923604965332408
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1530": {
+            "id": "C1lhuz6pZC0-1530",
+            "heat": 0.155,
+            "start": 1530.0,
+            "text": " I hope not because I think it does work. Let's ask the next question. How efficient do we think it is? What is the efficiency of this algorithm? Let's see where the time goes. That's the algorithm we just looked at. So I deleted the comment, so we'd have a little more room in the slide. Who wants to make a guess? By the way, this is the question. So please go answer the questions. We'll see how people do. But we can think about it as well together. Well, let's see where the time goes. The first thing is at the sort. So I'm going to sort all the items. And we heard from Professor Grimson how long the sort takes. See who remembers. Python uses something called timsort, which is a variant of something called quicksort, which has the same worst-case complexity as merge sort. And so we know that is n log n where n in this case",
+            "metrics": {
+                "relativeDCReadability": 0.8526160171387385,
+                "lexicalDiversity": 0.48214285714285715,
+                "posComposition": {
+                    "PRP": 0.083,
+                    "VBP": 0.042,
+                    "RB": 0.042,
+                    "IN": 0.077,
+                    "VBZ": 0.089,
+                    "VB": 0.065,
+                    "NNP": 0.065,
+                    "POS": 0.018,
+                    "DT": 0.137,
+                    "JJ": 0.048,
+                    "NN": 0.167,
+                    "WP": 0.018,
+                    "WRB": 0.03,
+                    "VBD": 0.012,
+                    "MD": 0.018,
+                    "JJR": 0.006,
+                    "TO": 0.012,
+                    "NNS": 0.018,
+                    "CC": 0.018,
+                    "VBG": 0.006,
+                    "PDT": 0.006,
+                    "VBN": 0.012,
+                    "WDT": 0.012
+                },
+                "syllableRate": 1.758,
+                "topicScores": [
+                    [
+                        "sort",
+                        0.3816253715506729
+                    ],
+                    [
+                        "question",
+                        0.38916857341580346
+                    ],
+                    [
+                        "time",
+                        0.5281599430128541
+                    ],
+                    [
+                        "algorithm",
+                        0.5487637879884654
+                    ],
+                    [
+                        "case",
+                        0.5663962997435447
+                    ],
+                    [
+                        "Professor",
+                        0.7025243009168372
+                    ],
+                    [
+                        "Grimson",
+                        0.7025243009168372
+                    ],
+                    [
+                        "efficient",
+                        0.8746320598083872
+                    ],
+                    [
+                        "slide",
+                        0.8855745538257369
+                    ],
+                    [
+                        "guess",
+                        0.8895456040444041
+                    ],
+                    [
+                        "item",
+                        0.9042572270175967
+                    ],
+                    [
+                        "comment",
+                        0.9052555655027709
+                    ],
+                    [
+                        "Python",
+                        0.9075684571102438
+                    ],
+                    [
+                        "way",
+                        0.9113357569638891
+                    ],
+                    [
+                        "little",
+                        0.9133003160716285
+                    ],
+                    [
+                        "room",
+                        0.9133003160716285
+                    ],
+                    [
+                        "people",
+                        0.9155138322698633
+                    ],
+                    [
+                        "timsort",
+                        0.9237920874206756
+                    ],
+                    [
+                        "quicksort",
+                        0.9237920874206756
+                    ],
+                    [
+                        "worst",
+                        0.9237920874206756
+                    ],
+                    [
+                        "complexity",
+                        0.9237920874206756
+                    ],
+                    [
+                        "thing",
+                        0.9267813663365309
+                    ],
+                    [
+                        "variant",
+                        0.9303839407971942
+                    ],
+                    [
+                        "log",
+                        0.9310915582708743
+                    ],
+                    [
+                        "Professor Grimson",
+                        0.9744911280707952
+                    ],
+                    [
+                        "case complexity",
+                        4.858360025512888
+                    ],
+                    [
+                        "log n",
+                        5.630198705387968
+                    ],
+                    [
+                        "little more room",
+                        35.85430789794951
+                    ]
+                ],
+                "topTopicSimilarity": 0.25,
+                "sharedTopicScores": [
+                    [
+                        "sort",
+                        0.3816253715506729
+                    ],
+                    [
+                        "question",
+                        0.38916857341580346
+                    ],
+                    [
+                        "time",
+                        0.5281599430128541
+                    ],
+                    [
+                        "algorithm",
+                        0.5487637879884654
+                    ],
+                    [
+                        "item",
+                        0.9042572270175967
+                    ],
+                    [
+                        "way",
+                        0.9113357569638891
+                    ],
+                    [
+                        "thing",
+                        0.9267813663365309
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1620": {
+            "id": "C1lhuz6pZC0-1620",
+            "heat": 0.272,
+            "start": 1620.0,
+            "text": " would be the len of items. So we know we have that. Then we have a loop. How many times do we go through this loop? Well, we go through the loop n times, once for each item because we do end up looking at every item. And if we know that, what's the order? AUDIENCE: [INAUDIBLE]. JOHN GUTTAG: N log n plus n-- I guess is order n log n, right? So it's pretty efficient. And we can do this for big numbers like a million. Log of a million times a million is not a very big number. So it's very efficient.",
+            "metrics": {
+                "relativeDCReadability": 0.9774102558488025,
+                "lexicalDiversity": 0.49074074074074076,
+                "posComposition": {
+                    "MD": 0.019,
+                    "VB": 0.037,
+                    "DT": 0.12,
+                    "NN": 0.093,
+                    "IN": 0.13,
+                    "NNS": 0.046,
+                    "PRP": 0.102,
+                    "VBP": 0.074,
+                    "RB": 0.065,
+                    "JJ": 0.102,
+                    "NNP": 0.074,
+                    "RP": 0.009,
+                    "VBG": 0.009,
+                    "CC": 0.028,
+                    "WP": 0.009,
+                    "VBZ": 0.046,
+                    ":": 0.009,
+                    "CD": 0.028
+                },
+                "syllableRate": 1.133,
+                "topicScores": [
+                    [
+                        "n",
+                        0.4043602138961991
+                    ],
+                    [
+                        "loop",
+                        0.4451985943165915
+                    ],
+                    [
+                        "item",
+                        0.45341382785544704
+                    ],
+                    [
+                        "log",
+                        0.4581579767251732
+                    ],
+                    [
+                        "time",
+                        0.4662560531239311
+                    ],
+                    [
+                        "efficient",
+                        0.5443122104308492
+                    ],
+                    [
+                        "audience",
+                        0.562210946958643
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.5703711456727952
+                    ],
+                    [
+                        "order",
+                        0.5711466138826649
+                    ],
+                    [
+                        "number",
+                        0.5763495464341996
+                    ],
+                    [
+                        "big",
+                        0.5808134409460707
+                    ],
+                    [
+                        "JOHN",
+                        0.6365684670334009
+                    ],
+                    [
+                        "GUTTAG",
+                        0.681853345749744
+                    ],
+                    [
+                        "JOHN GUTTAG",
+                        0.7669291127359861
+                    ],
+                    [
+                        "right",
+                        0.8875228290938088
+                    ],
+                    [
+                        "len",
+                        0.8884657790430743
+                    ],
+                    [
+                        "N log",
+                        1.7934314867737868
+                    ],
+                    [
+                        "big number",
+                        3.335471951791018
+                    ],
+                    [
+                        "loop n",
+                        5.0971807248020164
+                    ],
+                    [
+                        "n time",
+                        7.034146541677207
+                    ],
+                    [
+                        "N log n",
+                        13.27887061904686
+                    ],
+                    [
+                        "loop n time",
+                        45.02553908986085
+                    ]
+                ],
+                "topTopicSimilarity": 0.18181818181818182,
+                "sharedTopicScores": [
+                    [
+                        "item",
+                        0.45341382785544704
+                    ],
+                    [
+                        "time",
+                        0.4662560531239311
+                    ],
+                    [
+                        "number",
+                        0.5763495464341996
+                    ],
+                    [
+                        "right",
+                        0.8875228290938088
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1710": {
+            "id": "C1lhuz6pZC0-1710",
+            "heat": 0.125,
+            "start": 1710.0,
+            "text": " Here's some code that uses greedy. Takes in the items, the constraint, in this case will be the weight, and just calls greedy, but with the keyfunction and prints what we have. So we're going to test greedy. I actually think I used 750 in the code, but we can use 800. It doesn't matter. And here's something we haven't seen before. So used greedy by value to allocate and calls testGreedy with food, maxUnits and Food.getValue. Notice it's passing the function. That's why it's not-- no closed parentheses after it. Used greedy to allocate. And then we have something pretty interesting. What's going on with this lambda? So here we're going to be using greedy by density to allocate-- actually, sorry, this is greedy by cost. And you'll notice what we're doing is-- we don't want to pass in the cost, right, because we really want the opposite of the cost. We want to reverse the sort because we want the cheaper",
+            "metrics": {
+                "relativeDCReadability": 0.9691341005944871,
+                "lexicalDiversity": 0.48044692737430167,
+                "posComposition": {
+                    "RB": 0.089,
+                    "VBZ": 0.061,
+                    "DT": 0.095,
+                    "NN": 0.128,
+                    "IN": 0.095,
+                    "NNP": 0.022,
+                    "NNS": 0.028,
+                    "MD": 0.017,
+                    "VB": 0.073,
+                    "CC": 0.05,
+                    "VBP": 0.067,
+                    "WP": 0.017,
+                    "PRP": 0.101,
+                    "VBG": 0.039,
+                    "TO": 0.039,
+                    "VBD": 0.011,
+                    "CD": 0.011,
+                    "VBN": 0.011,
+                    "JJ": 0.017,
+                    "WRB": 0.006,
+                    ":": 0.017,
+                    "JJR": 0.006
+                },
+                "syllableRate": 2.025,
+                "topicScores": [
+                    [
+                        "greedy",
+                        0.29410630310480995
+                    ],
+                    [
+                        "cost",
+                        0.44711003777934755
+                    ],
+                    [
+                        "code",
+                        0.5441152101100776
+                    ],
+                    [
+                        "constraint",
+                        0.8491089051920442
+                    ],
+                    [
+                        "item",
+                        0.863178686663006
+                    ],
+                    [
+                        "weight",
+                        0.863178686663006
+                    ],
+                    [
+                        "case",
+                        0.875455405384078
+                    ],
+                    [
+                        "keyfunction",
+                        0.875455405384078
+                    ],
+                    [
+                        "print",
+                        0.875455405384078
+                    ],
+                    [
+                        "Food.getValue",
+                        0.8924364835952666
+                    ],
+                    [
+                        "not--",
+                        0.8992477756191257
+                    ],
+                    [
+                        "interesting",
+                        0.9057892387390751
+                    ],
+                    [
+                        "lambda",
+                        0.9074081722721855
+                    ],
+                    [
+                        "cheap",
+                        0.9112582804964193
+                    ],
+                    [
+                        "food",
+                        0.9130486098307156
+                    ],
+                    [
+                        "maxunits",
+                        0.9130486098307157
+                    ],
+                    [
+                        "closed",
+                        0.9207641504845397
+                    ],
+                    [
+                        "value",
+                        0.9212587901711841
+                    ],
+                    [
+                        "testGreedy",
+                        0.9212587901711841
+                    ],
+                    [
+                        "allocate--",
+                        0.9265656513160077
+                    ],
+                    [
+                        "parenthesis",
+                        0.9283030161058408
+                    ],
+                    [
+                        "density",
+                        0.9335923454866598
+                    ],
+                    [
+                        "is--",
+                        0.9345457947560327
+                    ],
+                    [
+                        "opposite",
+                        0.9345457947560327
+                    ],
+                    [
+                        "sort",
+                        0.9354022313437252
+                    ],
+                    [
+                        "closed parenthesis",
+                        5.884593328769582
+                    ]
+                ],
+                "topTopicSimilarity": 0.3076923076923077,
+                "sharedTopicScores": [
+                    [
+                        "greedy",
+                        0.29410630310480995
+                    ],
+                    [
+                        "cost",
+                        0.44711003777934755
+                    ],
+                    [
+                        "constraint",
+                        0.8491089051920442
+                    ],
+                    [
+                        "item",
+                        0.863178686663006
+                    ],
+                    [
+                        "lambda",
+                        0.9074081722721855
+                    ],
+                    [
+                        "food",
+                        0.9130486098307156
+                    ],
+                    [
+                        "value",
+                        0.9212587901711841
+                    ],
+                    [
+                        "sort",
+                        0.9354022313437252
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1800": {
+            "id": "C1lhuz6pZC0-1800",
+            "heat": 0.149,
+            "start": 1800.0,
+            "text": " items to get chosen first. The ones that have fewer calories, not the ones that have more calories. As it happens, when I define cost, I defined it in the obvious way, the total number of calories. So I could have gone and written another function to do it, but since it was so simple, I decided to do it in line. So let's talk about lambda and then come back to it. Lambda is used to create an anonymous function, anonymous in the sense that it has no name. So you start with the keyword lambda. You then give it a sequence of identifiers and then some expression. What lambda does is it builds a function that evaluates that expression on those parameters and returns the result of evaluating the expression. So instead of writing def, I have inline defined a function. So if we go back to it here, you can see that what I've done is lambda x one divided by Food.getCost of x. Notice food is the class name here.",
+            "metrics": {
+                "relativeDCReadability": 1.075984485459421,
+                "lexicalDiversity": 0.44886363636363635,
+                "posComposition": {
+                    "NNS": 0.045,
+                    "TO": 0.034,
+                    "VB": 0.045,
+                    "VBN": 0.04,
+                    "RB": 0.074,
+                    "DT": 0.097,
+                    "WDT": 0.017,
+                    "VBP": 0.04,
+                    "JJR": 0.011,
+                    "IN": 0.102,
+                    "PRP": 0.114,
+                    "VBZ": 0.057,
+                    "WRB": 0.006,
+                    "NN": 0.148,
+                    "VBD": 0.017,
+                    "JJ": 0.04,
+                    "NNP": 0.045,
+                    "MD": 0.011,
+                    "CC": 0.028,
+                    "POS": 0.006,
+                    "WP": 0.011,
+                    "VBG": 0.011
+                },
+                "syllableRate": 2.058,
+                "topicScores": [
+                    [
+                        "function",
+                        0.386972775925461
+                    ],
+                    [
+                        "lambda",
+                        0.39164724867980716
+                    ],
+                    [
+                        "calorie",
+                        0.40912230554106904
+                    ],
+                    [
+                        "expression",
+                        0.4447503964935639
+                    ],
+                    [
+                        "anonymous",
+                        0.5680491203733499
+                    ],
+                    [
+                        "Notice",
+                        0.7023596432716701
+                    ],
+                    [
+                        "item",
+                        0.7466641577145403
+                    ],
+                    [
+                        "few",
+                        0.8528033867345517
+                    ],
+                    [
+                        "line",
+                        0.8587094740003216
+                    ],
+                    [
+                        "cost",
+                        0.8756395091504431
+                    ],
+                    [
+                        "obvious",
+                        0.8756395091504431
+                    ],
+                    [
+                        "way",
+                        0.8756395091504431
+                    ],
+                    [
+                        "total",
+                        0.8756395091504431
+                    ],
+                    [
+                        "simple",
+                        0.8881195227147636
+                    ],
+                    [
+                        "number",
+                        0.8882529973817528
+                    ],
+                    [
+                        "keyword",
+                        0.906043362043008
+                    ],
+                    [
+                        "sense",
+                        0.9120213973199763
+                    ],
+                    [
+                        "def",
+                        0.9143221765843647
+                    ],
+                    [
+                        "sequence",
+                        0.918885360604254
+                    ],
+                    [
+                        "identifier",
+                        0.918885360604254
+                    ],
+                    [
+                        "parameter",
+                        0.9213276190609032
+                    ],
+                    [
+                        "result",
+                        0.9213276190609032
+                    ],
+                    [
+                        "Food.getCost",
+                        0.9250735641477625
+                    ],
+                    [
+                        "x.",
+                        0.9250735641477625
+                    ],
+                    [
+                        "food",
+                        0.9250735641477625
+                    ],
+                    [
+                        "class",
+                        0.9250735641477625
+                    ],
+                    [
+                        "x. Notice",
+                        1.8549758367977147
+                    ],
+                    [
+                        "Notice food",
+                        1.8549758367977147
+                    ],
+                    [
+                        "few calorie",
+                        2.3090862849425755
+                    ],
+                    [
+                        "obvious way",
+                        3.287145273290182
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.386972775925461
+                    ],
+                    [
+                        "lambda",
+                        0.39164724867980716
+                    ],
+                    [
+                        "calorie",
+                        0.40912230554106904
+                    ],
+                    [
+                        "item",
+                        0.7466641577145403
+                    ],
+                    [
+                        "cost",
+                        0.8756395091504431
+                    ],
+                    [
+                        "way",
+                        0.8756395091504431
+                    ],
+                    [
+                        "number",
+                        0.8882529973817528
+                    ],
+                    [
+                        "food",
+                        0.9250735641477625
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1890": {
+            "id": "C1lhuz6pZC0-1890",
+            "heat": 0.125,
+            "start": 1890.0,
+            "text": " So I'm taking the function getCost from the class food, and I'm passing it the parameter x, which is going to be what? What's the type of x going to be? I can wait you out. What is the type of x have to be for this lambda expression to make sense? Well, go back to the class food. What's the type of the argument of getCost? What's the name of the argument to getCost? That's an easier question. We'll go back and we'll look at it. What's the type of the argument to getCost? AUDIENCE: Food. JOHN GUTTAG: Food. Thank you. So I do have-- speaking of food, we do have a tradition in this class that people who answer questions correctly get",
+            "metrics": {
+                "relativeDCReadability": 1.0518434261988279,
+                "lexicalDiversity": 0.4701492537313433,
+                "posComposition": {
+                    "RB": 0.03,
+                    "PRP": 0.082,
+                    "VBP": 0.06,
+                    "VBG": 0.03,
+                    "DT": 0.127,
+                    "NN": 0.179,
+                    "IN": 0.082,
+                    "CC": 0.015,
+                    "NNP": 0.06,
+                    "WDT": 0.015,
+                    "VBZ": 0.052,
+                    "TO": 0.052,
+                    "VB": 0.09,
+                    "WP": 0.052,
+                    "MD": 0.022,
+                    "RP": 0.007,
+                    "NNS": 0.022,
+                    "JJ": 0.007,
+                    "JJR": 0.007,
+                    ":": 0.007
+                },
+                "syllableRate": 1.408,
+                "topicScores": [
+                    [
+                        "type",
+                        0.3162498145656013
+                    ],
+                    [
+                        "Food",
+                        0.3684169901936182
+                    ],
+                    [
+                        "x",
+                        0.4010161808456764
+                    ],
+                    [
+                        "argument",
+                        0.41302661978578836
+                    ],
+                    [
+                        "class",
+                        0.4317118381627097
+                    ],
+                    [
+                        "getCost",
+                        0.5152175264594795
+                    ],
+                    [
+                        "question",
+                        0.5653933314862631
+                    ],
+                    [
+                        "AUDIENCE",
+                        0.6261014938689121
+                    ],
+                    [
+                        "JOHN",
+                        0.6311289474947366
+                    ],
+                    [
+                        "GUTTAG",
+                        0.6684114229255272
+                    ],
+                    [
+                        "JOHN GUTTAG",
+                        0.7296662959500781
+                    ],
+                    [
+                        "parameter",
+                        0.7838507604316001
+                    ],
+                    [
+                        "function",
+                        0.8025908185456835
+                    ],
+                    [
+                        "sense",
+                        0.853414468163642
+                    ],
+                    [
+                        "lambda",
+                        0.8934312761209672
+                    ],
+                    [
+                        "expression",
+                        0.8934312761209672
+                    ],
+                    [
+                        "easy",
+                        0.9043340163512753
+                    ],
+                    [
+                        "have--",
+                        0.9244574641845363
+                    ],
+                    [
+                        "tradition",
+                        0.9244574641845363
+                    ],
+                    [
+                        "people",
+                        0.9244574641845363
+                    ],
+                    [
+                        "class food",
+                        1.7037429378399194
+                    ],
+                    [
+                        "lambda expression",
+                        3.9558789287155594
+                    ],
+                    [
+                        "easy question",
+                        4.274215308466555
+                    ]
+                ],
+                "topTopicSimilarity": 0.13043478260869565,
+                "sharedTopicScores": [
+                    [
+                        "question",
+                        0.5653933314862631
+                    ],
+                    [
+                        "function",
+                        0.8025908185456835
+                    ],
+                    [
+                        "lambda",
+                        0.8934312761209672
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-1980": {
+            "id": "C1lhuz6pZC0-1980",
+            "heat": 0.161,
+            "start": 1980.0,
+            "text": " rewarded with food. Oh, Napoli would have caught that. So it has to be of type food because it's self in the class food. So if we go back to here, this x has to be of type food, right. And sure enough, when we use it, it will be. Let's now use it. I should point out that lambda can be really handy as it is here, and it's possible to write amazing, beautiful, complicated lambda expressions. And back in the good old days of 6001 people learned to do that. And then they learned that they shouldn't. My view on lambda expressions is if I can't fit it in a single line, I just go right def and write a function definition because it's easier to debug. But for one-liners, lambda is great. Let's look at using greedy.",
+            "metrics": {
+                "relativeDCReadability": 0.9119527243471656,
+                "lexicalDiversity": 0.47619047619047616,
+                "posComposition": {
+                    "VBN": 0.014,
+                    "IN": 0.122,
+                    "NN": 0.116,
+                    "NNP": 0.034,
+                    "MD": 0.041,
+                    "VB": 0.088,
+                    "PRP": 0.116,
+                    "VBZ": 0.054,
+                    "TO": 0.041,
+                    "JJ": 0.088,
+                    "DT": 0.041,
+                    "RB": 0.082,
+                    "VBP": 0.02,
+                    "CC": 0.041,
+                    "WRB": 0.007,
+                    "POS": 0.014,
+                    "RP": 0.007,
+                    "VBD": 0.02,
+                    "NNS": 0.034,
+                    "CD": 0.007,
+                    "JJR": 0.007,
+                    "VBG": 0.007
+                },
+                "syllableRate": 1.55,
+                "topicScores": [
+                    [
+                        "food",
+                        0.3672044012031306
+                    ],
+                    [
+                        "lambda",
+                        0.38329145094487993
+                    ],
+                    [
+                        "type",
+                        0.5260620678551806
+                    ],
+                    [
+                        "expression",
+                        0.5604508314017617
+                    ],
+                    [
+                        "Napoli",
+                        0.5822348535079224
+                    ],
+                    [
+                        "class",
+                        0.89185797338263
+                    ],
+                    [
+                        "great",
+                        0.9003852242551275
+                    ],
+                    [
+                        "greedy",
+                        0.9020869830236623
+                    ],
+                    [
+                        "beautiful",
+                        0.9022947285767055
+                    ],
+                    [
+                        "self",
+                        0.9023998162005542
+                    ],
+                    [
+                        "liner",
+                        0.9113789393667374
+                    ],
+                    [
+                        "amazing",
+                        0.9124748983033042
+                    ],
+                    [
+                        "complicated",
+                        0.9124748983033042
+                    ],
+                    [
+                        "view",
+                        0.9191091014937327
+                    ],
+                    [
+                        "single",
+                        0.9191091014937327
+                    ],
+                    [
+                        "handy",
+                        0.9211845806913453
+                    ],
+                    [
+                        "possible",
+                        0.9211845806913453
+                    ],
+                    [
+                        "good",
+                        0.9235633711099285
+                    ],
+                    [
+                        "old",
+                        0.9235633711099285
+                    ],
+                    [
+                        "day",
+                        0.9235633711099285
+                    ],
+                    [
+                        "people",
+                        0.9235633711099285
+                    ],
+                    [
+                        "def",
+                        0.9272112723343165
+                    ],
+                    [
+                        "function",
+                        0.9272112723343165
+                    ],
+                    [
+                        "definition",
+                        0.9272112723343165
+                    ],
+                    [
+                        "easy",
+                        0.9272112723343165
+                    ],
+                    [
+                        "type food",
+                        1.5515138100920682
+                    ],
+                    [
+                        "lambda expression",
+                        2.3815196640087932
+                    ],
+                    [
+                        "class food",
+                        3.173934902520299
+                    ],
+                    [
+                        "complicated lambda",
+                        4.321413922409215
+                    ],
+                    [
+                        "single line",
+                        5.4417026740013705
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "food",
+                        0.3672044012031306
+                    ],
+                    [
+                        "lambda",
+                        0.38329145094487993
+                    ],
+                    [
+                        "greedy",
+                        0.9020869830236623
+                    ],
+                    [
+                        "good",
+                        0.9235633711099285
+                    ],
+                    [
+                        "function",
+                        0.9272112723343165
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-2070": {
+            "id": "C1lhuz6pZC0-2070",
+            "heat": 0.116,
+            "start": 2070.0,
+            "text": " So here's this function testGreedy, takes foods and the maximum number of units. And it's going to go through and it's going to test all three greedy algorithms. And we just saw that, and then here is the call of it. And so I picked up some names and the values. This is just the menu we saw. I'm going to build the menus, and then I'm going to call testGreedys. So let's go look at the code that does this. So here you have it or maybe you don't, because every time I switch applications Windows decides I don't want to show you the screen anyway. This really shouldn't be necessary. Keep changes. Why it keeps forgetting, I don't know. Anyway, so here's the code. It's all the code we just looked at. Now let's run it. Well, what we see here is that we use greedy by value to allocate 750 calories, and it chooses a burger, the pizza, and the wine for a total of--",
+            "metrics": {
+                "relativeDCReadability": 0.8494667180476336,
+                "lexicalDiversity": 0.45054945054945056,
+                "posComposition": {
+                    "RB": 0.121,
+                    "VBZ": 0.071,
+                    "DT": 0.115,
+                    "NN": 0.099,
+                    "NNS": 0.049,
+                    "CC": 0.06,
+                    "JJ": 0.022,
+                    "IN": 0.055,
+                    "PRP": 0.126,
+                    "VBG": 0.027,
+                    "TO": 0.033,
+                    "VB": 0.066,
+                    "CD": 0.011,
+                    "VBD": 0.022,
+                    "RP": 0.005,
+                    "VBP": 0.055,
+                    "NNP": 0.022,
+                    "POS": 0.005,
+                    "WDT": 0.005,
+                    "MD": 0.005,
+                    "WRB": 0.005,
+                    "PDT": 0.005,
+                    "WP": 0.005,
+                    ":": 0.005
+                },
+                "syllableRate": 1.933,
+                "topicScores": [
+                    [
+                        "code",
+                        0.43917844371756626
+                    ],
+                    [
+                        "value",
+                        0.5631037724763489
+                    ],
+                    [
+                        "greedy",
+                        0.566132224421443
+                    ],
+                    [
+                        "Windows",
+                        0.6688367841564026
+                    ],
+                    [
+                        "unit",
+                        0.7528706223485933
+                    ],
+                    [
+                        "function",
+                        0.7919026834195184
+                    ],
+                    [
+                        "testGreedy",
+                        0.7919026834195184
+                    ],
+                    [
+                        "food",
+                        0.7919026834195184
+                    ],
+                    [
+                        "maximum",
+                        0.8083027323032743
+                    ],
+                    [
+                        "number",
+                        0.8083027323032743
+                    ],
+                    [
+                        "algorithm",
+                        0.8209473372104522
+                    ],
+                    [
+                        "change",
+                        0.8820885888764523
+                    ],
+                    [
+                        "necessary",
+                        0.8914166120413121
+                    ],
+                    [
+                        "name",
+                        0.8968525754472896
+                    ],
+                    [
+                        "menus",
+                        0.9007683417334159
+                    ],
+                    [
+                        "of--",
+                        0.9030347624251641
+                    ],
+                    [
+                        "screen",
+                        0.9084220956954338
+                    ],
+                    [
+                        "pizza",
+                        0.9125938543896953
+                    ],
+                    [
+                        "time",
+                        0.9166063321752924
+                    ],
+                    [
+                        "application",
+                        0.9166063321752924
+                    ],
+                    [
+                        "calorie",
+                        0.9208432513272625
+                    ],
+                    [
+                        "burger",
+                        0.9208432513272625
+                    ],
+                    [
+                        "total",
+                        0.9208432513272625
+                    ],
+                    [
+                        "wine",
+                        0.9280053955891581
+                    ],
+                    [
+                        "application Windows",
+                        1.5843802179561428
+                    ],
+                    [
+                        "function testGreedy",
+                        1.681755007034682
+                    ],
+                    [
+                        "maximum number",
+                        1.884781595597617
+                    ],
+                    [
+                        "greedy algorithm",
+                        2.7970072530063455
+                    ],
+                    [
+                        "total of--",
+                        4.936601842545708
+                    ]
+                ],
+                "topTopicSimilarity": 0.27586206896551724,
+                "sharedTopicScores": [
+                    [
+                        "value",
+                        0.5631037724763489
+                    ],
+                    [
+                        "greedy",
+                        0.566132224421443
+                    ],
+                    [
+                        "function",
+                        0.7919026834195184
+                    ],
+                    [
+                        "food",
+                        0.7919026834195184
+                    ],
+                    [
+                        "number",
+                        0.8083027323032743
+                    ],
+                    [
+                        "algorithm",
+                        0.8209473372104522
+                    ],
+                    [
+                        "time",
+                        0.9166063321752924
+                    ],
+                    [
+                        "calorie",
+                        0.9208432513272625
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-2160": {
+            "id": "C1lhuz6pZC0-2160",
+            "heat": 0.195,
+            "start": 2160.0,
+            "text": " a value of 284 happiness points, if you will. On the other hand, if we use greedy by cost, I get 318 happiness points and a different menu, the apple, the wine, the cola, the beer, and the donut. I've lost the pizza and the burger. I guess this is what I signed up for when I put my preferences on. And here's another solution with 318, apple, wine-- yeah, all right. So I actually got the same solution, but it just found them in a different order. Why did it find them in a different order? Because the sort order was different because in this case I was sorting by density. From this, we see an important point about greedy algorithms, right, that we used the algorithm and we got different answers. Why do we have different answers? The problem is that a greedy algorithm makes a sequence of local optimizations, chooses the locally optimal answer at every point, and that doesn't necessarily add up",
+            "metrics": {
+                "relativeDCReadability": 1.0122891538423917,
+                "lexicalDiversity": 0.47058823529411764,
+                "posComposition": {
+                    "DT": 0.153,
+                    "NN": 0.194,
+                    "IN": 0.118,
+                    "CD": 0.018,
+                    "NNS": 0.041,
+                    "PRP": 0.1,
+                    "MD": 0.006,
+                    "JJ": 0.071,
+                    "VBP": 0.041,
+                    "CC": 0.041,
+                    "VBN": 0.006,
+                    "VBZ": 0.035,
+                    "WP": 0.006,
+                    "VBD": 0.053,
+                    "RP": 0.012,
+                    "WRB": 0.018,
+                    "PRP$": 0.006,
+                    "RB": 0.047,
+                    ":": 0.006,
+                    "NNP": 0.006,
+                    "VB": 0.018,
+                    "VBG": 0.006
+                },
+                "syllableRate": 2.092,
+                "topicScores": [
+                    [
+                        "different",
+                        0.2975211068804579
+                    ],
+                    [
+                        "point",
+                        0.37075700881607043
+                    ],
+                    [
+                        "order",
+                        0.422842200749044
+                    ],
+                    [
+                        "answer",
+                        0.4337995792126379
+                    ],
+                    [
+                        "greedy",
+                        0.43947865138003167
+                    ],
+                    [
+                        "algorithm",
+                        0.448183613111505
+                    ],
+                    [
+                        "happiness",
+                        0.48969883939751685
+                    ],
+                    [
+                        "apple",
+                        0.5136395579110985
+                    ],
+                    [
+                        "solution",
+                        0.5564125110371109
+                    ],
+                    [
+                        "sort",
+                        0.575724855641811
+                    ],
+                    [
+                        "value",
+                        0.7901985285201694
+                    ],
+                    [
+                        "donut",
+                        0.8240889117980473
+                    ],
+                    [
+                        "wine",
+                        0.8377905963215294
+                    ],
+                    [
+                        "cola",
+                        0.8377905963215294
+                    ],
+                    [
+                        "beer",
+                        0.8377905963215294
+                    ],
+                    [
+                        "hand",
+                        0.850040673600431
+                    ],
+                    [
+                        "cost",
+                        0.850040673600431
+                    ],
+                    [
+                        "menu",
+                        0.850040673600431
+                    ],
+                    [
+                        "burger",
+                        0.8505993847223212
+                    ],
+                    [
+                        "pizza",
+                        0.882760362859682
+                    ],
+                    [
+                        "preference",
+                        0.885930992870692
+                    ],
+                    [
+                        "density",
+                        0.8961470807187143
+                    ],
+                    [
+                        "problem",
+                        0.9176571131455022
+                    ],
+                    [
+                        "local",
+                        0.9176571131455022
+                    ],
+                    [
+                        "optimization",
+                        0.9176571131455022
+                    ],
+                    [
+                        "case",
+                        0.9194318693750769
+                    ],
+                    [
+                        "important",
+                        0.9212302555107064
+                    ],
+                    [
+                        "sequence",
+                        0.9241302699347697
+                    ],
+                    [
+                        "optimal",
+                        0.9241302699347697
+                    ],
+                    [
+                        "happiness point",
+                        1.2704278722093434
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "different",
+                        0.2975211068804579
+                    ],
+                    [
+                        "point",
+                        0.37075700881607043
+                    ],
+                    [
+                        "answer",
+                        0.4337995792126379
+                    ],
+                    [
+                        "greedy",
+                        0.43947865138003167
+                    ],
+                    [
+                        "algorithm",
+                        0.448183613111505
+                    ],
+                    [
+                        "solution",
+                        0.5564125110371109
+                    ],
+                    [
+                        "sort",
+                        0.575724855641811
+                    ],
+                    [
+                        "value",
+                        0.7901985285201694
+                    ],
+                    [
+                        "cost",
+                        0.850040673600431
+                    ],
+                    [
+                        "menu",
+                        0.850040673600431
+                    ],
+                    [
+                        "problem",
+                        0.9176571131455022
+                    ],
+                    [
+                        "optimization",
+                        0.9176571131455022
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-2250": {
+            "id": "C1lhuz6pZC0-2250",
+            "heat": 0.156,
+            "start": 2250.0,
+            "text": " to a globally optimal answer. This is often illustrated by showing an example of, say, hill climbing. So imagine you're in a terrain that looks something like this, and you want to get to the highest point you can get. So you might choose as a greedy algorithm if you can go up, go up; if you can't go up, you stop. So whenever you get a choice, you go up. And so if I start here, I could right in the middle maybe say, all right, it's not up but it's not down either. So I'll go either left or right. And let's say I go right, so I come to here. Then I'll just make my way up to the top of the hill, making a locally optimal decision head up at each point, and I'll get here and I'll say, well, now any place I go takes me to a lower point. So I don't want to do it, right, because the greedy algorithm says never go backwards. So I'm here and I'm happy. On the other hand, if I had gone here for my first step, then my next step up would take me up, up, up, I'd get to here,",
+            "metrics": {
+                "relativeDCReadability": 0.8139788932291911,
+                "lexicalDiversity": 0.4541284403669725,
+                "posComposition": {
+                    "TO": 0.037,
+                    "DT": 0.078,
+                    "RB": 0.17,
+                    "JJ": 0.041,
+                    "NN": 0.106,
+                    "VBZ": 0.028,
+                    "VBN": 0.009,
+                    "IN": 0.083,
+                    "VBG": 0.014,
+                    "PRP": 0.128,
+                    "VBP": 0.069,
+                    "WDT": 0.005,
+                    "CC": 0.037,
+                    "VB": 0.073,
+                    "JJS": 0.005,
+                    "MD": 0.05,
+                    "RP": 0.028,
+                    "NNS": 0.009,
+                    "VBD": 0.009,
+                    "POS": 0.005,
+                    "PRP$": 0.014,
+                    "JJR": 0.005
+                },
+                "syllableRate": 2.2,
+                "topicScores": [
+                    [
+                        "right",
+                        0.3287076845207569
+                    ],
+                    [
+                        "point",
+                        0.43808793579414557
+                    ],
+                    [
+                        "hill",
+                        0.5433653607096813
+                    ],
+                    [
+                        "optimal",
+                        0.543582511322074
+                    ],
+                    [
+                        "greedy",
+                        0.5550359640878584
+                    ],
+                    [
+                        "algorithm",
+                        0.5550359640878584
+                    ],
+                    [
+                        "step",
+                        0.5700792156317722
+                    ],
+                    [
+                        "answer",
+                        0.7718828695400581
+                    ],
+                    [
+                        "climbing",
+                        0.8243536740725298
+                    ],
+                    [
+                        "example",
+                        0.8559058237745125
+                    ],
+                    [
+                        "terrain",
+                        0.8858908882219315
+                    ],
+                    [
+                        "high",
+                        0.8858908882219315
+                    ],
+                    [
+                        "choice",
+                        0.8984335997805668
+                    ],
+                    [
+                        "happy",
+                        0.9075988917913427
+                    ],
+                    [
+                        "middle",
+                        0.9101108614171118
+                    ],
+                    [
+                        "low",
+                        0.9162553201665499
+                    ],
+                    [
+                        "hand",
+                        0.921123072165699
+                    ],
+                    [
+                        "way",
+                        0.9216700818058478
+                    ],
+                    [
+                        "decision",
+                        0.9216700818058478
+                    ],
+                    [
+                        "head",
+                        0.9216700818058478
+                    ],
+                    [
+                        "place",
+                        0.9216700818058478
+                    ],
+                    [
+                        "optimal answer",
+                        1.9852687265445532
+                    ],
+                    [
+                        "greedy algorithm",
+                        2.1594586084777654
+                    ],
+                    [
+                        "hill climbing",
+                        2.4476183774499507
+                    ],
+                    [
+                        "high point",
+                        3.468199799861636
+                    ],
+                    [
+                        "optimal decision",
+                        3.856069427165318
+                    ],
+                    [
+                        "low point",
+                        4.071014583160481
+                    ],
+                    [
+                        "decision head",
+                        5.643447361776625
+                    ],
+                    [
+                        "optimal decision head",
+                        28.014206763950238
+                    ]
+                ],
+                "topTopicSimilarity": 0.20689655172413793,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.3287076845207569
+                    ],
+                    [
+                        "point",
+                        0.43808793579414557
+                    ],
+                    [
+                        "greedy",
+                        0.5550359640878584
+                    ],
+                    [
+                        "algorithm",
+                        0.5550359640878584
+                    ],
+                    [
+                        "answer",
+                        0.7718828695400581
+                    ],
+                    [
+                        "way",
+                        0.9216700818058478
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-2340": {
+            "id": "C1lhuz6pZC0-2340",
+            "heat": 0.112,
+            "start": 2340.0,
+            "text": " and I'd stop and say, OK, no way to go but down. I don't want to go down. I'm done. And what I would find is I'm at a local maximum rather than a global maximum. And that's the problem with greedy algorithms, that you can get stuck at a local optimal point and not get to the best one. Now, we could ask the question, can I just say don't worry about a density will always get me the best answer? Well, I've tried a different experiment. Let's say I'm feeling expansive and I'm going to allow myself 1,000 calories. Well, here what we see is the winner will be greedy by value, happens to find a better answer, 424 instead of 413. So there is no way to know in advance. Sometimes this definition of best might work. Sometimes that might work. Sometimes no definition of best will work, and you can't get to a good solution--",
+            "metrics": {
+                "relativeDCReadability": 0.8975676785788644,
+                "lexicalDiversity": 0.5321637426900585,
+                "posComposition": {
+                    "CC": 0.047,
+                    "PRP": 0.088,
+                    "MD": 0.064,
+                    "VB": 0.117,
+                    "JJ": 0.041,
+                    "DT": 0.099,
+                    "NN": 0.117,
+                    "TO": 0.041,
+                    "RB": 0.088,
+                    "VBP": 0.053,
+                    "RP": 0.006,
+                    "VBN": 0.023,
+                    "WP": 0.012,
+                    "VBZ": 0.023,
+                    "IN": 0.064,
+                    "JJS": 0.023,
+                    "CD": 0.023,
+                    "NNP": 0.018,
+                    "POS": 0.006,
+                    "VBG": 0.012,
+                    "NNS": 0.012,
+                    "JJR": 0.006,
+                    "EX": 0.006,
+                    "WDT": 0.006,
+                    ":": 0.006
+                },
+                "syllableRate": 1.875,
+                "topicScores": [
+                    [
+                        "good",
+                        0.34616507380827727
+                    ],
+                    [
+                        "way",
+                        0.5482906490116234
+                    ],
+                    [
+                        "local",
+                        0.5517236235646109
+                    ],
+                    [
+                        "maximum",
+                        0.5533975910880921
+                    ],
+                    [
+                        "definition",
+                        0.56098926668105
+                    ],
+                    [
+                        "answer",
+                        0.5627953211251242
+                    ],
+                    [
+                        "greedy",
+                        0.572447734972022
+                    ],
+                    [
+                        "experiment",
+                        0.8879906674444177
+                    ],
+                    [
+                        "calorie",
+                        0.891888104661237
+                    ],
+                    [
+                        "global",
+                        0.894999987320326
+                    ],
+                    [
+                        "advance",
+                        0.8976805261747811
+                    ],
+                    [
+                        "algorithm",
+                        0.902577258891948
+                    ],
+                    [
+                        "solution--",
+                        0.9035142634663541
+                    ],
+                    [
+                        "question",
+                        0.9079208448699394
+                    ],
+                    [
+                        "different",
+                        0.9119308468569073
+                    ],
+                    [
+                        "problem",
+                        0.9127308382173754
+                    ],
+                    [
+                        "optimal",
+                        0.9127308382173754
+                    ],
+                    [
+                        "point",
+                        0.9127308382173754
+                    ],
+                    [
+                        "density",
+                        0.9175683686248965
+                    ],
+                    [
+                        "value",
+                        0.9176216374191011
+                    ],
+                    [
+                        "expansive",
+                        0.92403561137932
+                    ],
+                    [
+                        "winner",
+                        0.926335233723319
+                    ],
+                    [
+                        "local maximum",
+                        3.2918930974456275
+                    ],
+                    [
+                        "well answer",
+                        3.677390299488345
+                    ],
+                    [
+                        "local optimal",
+                        3.954118753258353
+                    ],
+                    [
+                        "good answer",
+                        3.955186630730557
+                    ],
+                    [
+                        "good solution--",
+                        4.22155059345714
+                    ],
+                    [
+                        "different experiment",
+                        4.257238834933142
+                    ],
+                    [
+                        "greedy algorithm",
+                        4.522291185017994
+                    ],
+                    [
+                        "optimal point",
+                        4.990807095715932
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "good",
+                        0.34616507380827727
+                    ],
+                    [
+                        "way",
+                        0.5482906490116234
+                    ],
+                    [
+                        "answer",
+                        0.5627953211251242
+                    ],
+                    [
+                        "greedy",
+                        0.572447734972022
+                    ],
+                    [
+                        "calorie",
+                        0.891888104661237
+                    ],
+                    [
+                        "algorithm",
+                        0.902577258891948
+                    ],
+                    [
+                        "question",
+                        0.9079208448699394
+                    ],
+                    [
+                        "different",
+                        0.9119308468569073
+                    ],
+                    [
+                        "problem",
+                        0.9127308382173754
+                    ],
+                    [
+                        "point",
+                        0.9127308382173754
+                    ],
+                    [
+                        "value",
+                        0.9176216374191011
+                    ]
+                ]
+            }
+        },
+        "C1lhuz6pZC0-2430": {
+            "id": "C1lhuz6pZC0-2430",
+            "heat": 0.158,
+            "start": 2430.0,
+            "text": " you get to a good solution. You can't get to an optimal solution with a greedy algorithm. On Wednesday, we'll talk about how do you actually guarantee finding an optimal solution in a better way than brute force. See you then.",
+            "metrics": {
+                "relativeDCReadability": 1.1041996092900195,
+                "lexicalDiversity": 0.5348837209302325,
+                "posComposition": {
+                    "PRP": 0.116,
+                    "VBP": 0.047,
+                    "TO": 0.047,
+                    "DT": 0.116,
+                    "JJ": 0.093,
+                    "NN": 0.163,
+                    "MD": 0.047,
+                    "RB": 0.07,
+                    "VB": 0.07,
+                    "IN": 0.116,
+                    "NNP": 0.047,
+                    "WRB": 0.023,
+                    "VBG": 0.023,
+                    "JJR": 0.023
+                },
+                "syllableRate": 0.55,
+                "topicScores": [
+                    [
+                        "solution",
+                        0.43676045255427987
+                    ],
+                    [
+                        "optimal",
+                        0.5639085945503446
+                    ],
+                    [
+                        "Wednesday",
+                        0.642788480861723
+                    ],
+                    [
+                        "algorithm",
+                        0.8136234543344726
+                    ],
+                    [
+                        "good",
+                        0.8274354700013229
+                    ],
+                    [
+                        "force",
+                        0.8414075892321075
+                    ],
+                    [
+                        "greedy",
+                        0.8782923295827328
+                    ],
+                    [
+                        "brute",
+                        0.8976486830251261
+                    ],
+                    [
+                        "well",
+                        0.9154512345263346
+                    ],
+                    [
+                        "way",
+                        0.9154512345263346
+                    ],
+                    [
+                        "optimal solution",
+                        2.2464838486057457
+                    ],
+                    [
+                        "greedy algorithm",
+                        2.503844898253214
+                    ],
+                    [
+                        "good solution",
+                        2.60727172024165
+                    ],
+                    [
+                        "brute force",
+                        3.0864432200502505
+                    ],
+                    [
+                        "well way",
+                        5.174782000951622
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "solution",
+                        0.43676045255427987
+                    ],
+                    [
+                        "algorithm",
+                        0.8136234543344726
+                    ],
+                    [
+                        "good",
+                        0.8274354700013229
+                    ],
+                    [
+                        "greedy",
+                        0.8782923295827328
+                    ],
+                    [
+                        "way",
+                        0.9154512345263346
+                    ]
+                ]
+            }
+        }
+    }
+}

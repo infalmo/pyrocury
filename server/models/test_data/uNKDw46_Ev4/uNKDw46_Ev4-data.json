@@ -1,0 +1,2244 @@
+{
+    "metadata": {
+        "id": "uNKDw46_Ev4",
+        "avgHeat": 0.39,
+        "runtime": 994.8100000000001,
+        "dale-challReadabilityScore": 8.208260785532929,
+        "lexicalDiversity": 0.4636118598382749,
+        "posComposition": {
+            "NNP": 0.028,
+            "PRP": 0.078,
+            "VBP": 0.05,
+            "JJ": 0.071,
+            "TO": 0.038,
+            "DT": 0.121,
+            "NN": 0.144,
+            "IN": 0.09,
+            "VBZ": 0.05,
+            "PRP$": 0.004,
+            "VB": 0.066,
+            "VBD": 0.002,
+            "NNS": 0.024,
+            "WRB": 0.004,
+            "CC": 0.03,
+            "MD": 0.023,
+            "RB": 0.057,
+            "VBG": 0.018,
+            "CD": 0.054,
+            "RP": 0.003,
+            "VBN": 0.013,
+            "POS": 0.007,
+            ":": 0.002,
+            "WDT": 0.008,
+            "WP": 0.011,
+            "JJS": 0.001,
+            "FW": 0.001,
+            "EX": 0.001,
+            "``": 0.001,
+            "''": 0.001,
+            "RBR": 0.001
+        },
+        "syllableRate": 2.384,
+        "topicScores": [
+            [
+                "x",
+                0.15347516546425036
+            ],
+            [
+                "line",
+                0.16715405177783801
+            ],
+            [
+                "equation",
+                0.1733455568497986
+            ],
+            [
+                "y",
+                0.17338635638985225
+            ],
+            [
+                "row",
+                0.19363148909507452
+            ],
+            [
+                "picture",
+                0.19381546209303432
+            ],
+            [
+                "system",
+                0.19850214407721273
+            ],
+            [
+                "vector",
+                0.19948408717997065
+            ],
+            [
+                "linear",
+                0.20395384908127714
+            ],
+            [
+                "column",
+                0.2151376581766069
+            ],
+            [
+                "point",
+                0.21709317345103638
+            ],
+            [
+                "equal",
+                0.22567666853913396
+            ],
+            [
+                "v_1",
+                0.23274961615190648
+            ],
+            [
+                "matrix",
+                0.23411398507210468
+            ],
+            [
+                "second",
+                0.23751630221126166
+            ],
+            [
+                "-1",
+                0.24459259181566562
+            ],
+            [
+                "v_2",
+                0.25224081913846536
+            ],
+            [
+                "time",
+                0.2654715687470291
+            ],
+            [
+                "coordinate",
+                0.280567364254749
+            ],
+            [
+                "hand",
+                0.29481807539033245
+            ],
+            [
+                "coefficient",
+                0.32427574237641504
+            ],
+            [
+                "unknown",
+                0.32594929053820665
+            ],
+            [
+                "sum",
+                0.32661073798848694
+            ],
+            [
+                "2y",
+                0.3529983460927719
+            ],
+            [
+                "right",
+                0.35337039271939114
+            ],
+            [
+                "form",
+                0.3535669625836886
+            ],
+            [
+                "xy",
+                0.3536274496146904
+            ],
+            [
+                "straight",
+                0.3544857468577126
+            ],
+            [
+                "inverse",
+                0.3595775041212666
+            ],
+            [
+                "left",
+                0.4000360513831213
+            ]
+        ],
+        "topicsList": [
+            "x",
+            "line",
+            "equation",
+            "y",
+            "row",
+            "picture",
+            "system",
+            "vector",
+            "linear",
+            "column",
+            "point",
+            "equal",
+            "v_1",
+            "matrix",
+            "second",
+            "-1",
+            "v_2",
+            "time",
+            "coordinate",
+            "hand",
+            "coefficient",
+            "unknown",
+            "sum",
+            "2y",
+            "right",
+            "form",
+            "xy",
+            "straight",
+            "inverse",
+            "left"
+        ]
+    },
+    "chunks": {
+        "uNKDw46_Ev4-0": {
+            "id": "uNKDw46_Ev4-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: Hello, I'm Linan. Welcome to the recitation of Linear Algebra. It's my great pleasure to guide you through the first recitation. In the first lecture, we learned some important concepts. We discussed how to view a linear system of equations from different points. And we discussed the concepts such as row picture, column picture, and the form in matrix. Some of them may be new to you. So today, we're going to use this simple example to review those concepts. We're going to work with this simple system of two equations with two unknowns. So I would like you to first solve it, and then to find out the associated row picture and column picture with this system. After you're done, we're also going to discuss the matrix form of this linear system. Why don't you pause the video now and try to work them out on your own. A good suggestion would be, you can try to sketch your answer in an xy coordinate like this. OK, I'll see you in a while.",
+            "metrics": {
+                "relativeDCReadability": 0.8923049132991081,
+                "lexicalDiversity": 0.4972677595628415,
+                "posComposition": {
+                    "NNP": 0.033,
+                    "PRP": 0.109,
+                    "VBP": 0.033,
+                    "JJ": 0.098,
+                    "TO": 0.066,
+                    "DT": 0.109,
+                    "NN": 0.131,
+                    "IN": 0.104,
+                    "VBZ": 0.005,
+                    "PRP$": 0.016,
+                    "VB": 0.098,
+                    "VBD": 0.016,
+                    "NNS": 0.038,
+                    "WRB": 0.011,
+                    "CC": 0.033,
+                    "MD": 0.027,
+                    "RB": 0.027,
+                    "VBG": 0.016,
+                    "CD": 0.011,
+                    "RP": 0.011,
+                    "VBN": 0.005
+                },
+                "syllableRate": 2.125,
+                "topicScores": [
+                    [
+                        "system",
+                        0.36691889111183856
+                    ],
+                    [
+                        "picture",
+                        0.37508322588338716
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.43204611293029116
+                    ],
+                    [
+                        "concept",
+                        0.4400578739557053
+                    ],
+                    [
+                        "Linear Algebra",
+                        0.5206974882639116
+                    ],
+                    [
+                        "recitation",
+                        0.5392776270218498
+                    ],
+                    [
+                        "Linan",
+                        0.5396177937126895
+                    ],
+                    [
+                        "column",
+                        0.5454378585276568
+                    ],
+                    [
+                        "linear",
+                        0.5618448198649258
+                    ],
+                    [
+                        "row",
+                        0.5618448198649258
+                    ],
+                    [
+                        "matrix",
+                        0.5659781197370767
+                    ],
+                    [
+                        "equation",
+                        0.5659922270438272
+                    ],
+                    [
+                        "form",
+                        0.5683418520051757
+                    ],
+                    [
+                        "simple",
+                        0.5683418520051757
+                    ],
+                    [
+                        "point",
+                        0.8863876121303526
+                    ],
+                    [
+                        "unknown",
+                        0.8984596231418885
+                    ],
+                    [
+                        "lecture",
+                        0.902725342523431
+                    ],
+                    [
+                        "important",
+                        0.902725342523431
+                    ],
+                    [
+                        "great",
+                        0.9062048685484676
+                    ],
+                    [
+                        "pleasure",
+                        0.9062048685484676
+                    ],
+                    [
+                        "today",
+                        0.9063629597440764
+                    ],
+                    [
+                        "different",
+                        0.906938414349627
+                    ],
+                    [
+                        "new",
+                        0.9207382524091462
+                    ],
+                    [
+                        "good",
+                        0.9224384341140841
+                    ],
+                    [
+                        "example",
+                        0.9227801766075058
+                    ],
+                    [
+                        "associated",
+                        0.9259992411421204
+                    ],
+                    [
+                        "video",
+                        0.9284455388219754
+                    ],
+                    [
+                        "suggestion",
+                        0.9294673006940387
+                    ],
+                    [
+                        "answer",
+                        0.9294673006940387
+                    ],
+                    [
+                        "xy",
+                        0.9294673006940387
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "system",
+                        0.36691889111183856
+                    ],
+                    [
+                        "picture",
+                        0.37508322588338716
+                    ],
+                    [
+                        "column",
+                        0.5454378585276568
+                    ],
+                    [
+                        "linear",
+                        0.5618448198649258
+                    ],
+                    [
+                        "row",
+                        0.5618448198649258
+                    ],
+                    [
+                        "matrix",
+                        0.5659781197370767
+                    ],
+                    [
+                        "equation",
+                        0.5659922270438272
+                    ],
+                    [
+                        "form",
+                        0.5683418520051757
+                    ],
+                    [
+                        "point",
+                        0.8863876121303526
+                    ],
+                    [
+                        "unknown",
+                        0.8984596231418885
+                    ],
+                    [
+                        "xy",
+                        0.9294673006940387
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-90": {
+            "id": "uNKDw46_Ev4-90",
+            "heat": 0.105,
+            "start": 90.0,
+            "text": " I hope you have just had some fun with it. Let's work on it together. Well, we're going to solve these equations. As you can see, we have two unknowns, x and y. And they have to satisfy these two equations at the same time. How would you solve it? A very simple way would be you substitute x by y, in terms of y. So let's do it this way. So we use the second equation to rewrite x as 2y minus 1. So 2y minus 1. Then you plug this into the first equation. This implies twice-- x would be replaced by this-- 2 times 2y minus 1 plus y is equal to 3. When you simplify this equation here, you will arrive at that 5y minus 2 is equal to 3. That simply tells you y is equal to 1. If y is equal to 1, then we go back to this formula.",
+            "metrics": {
+                "relativeDCReadability": 1.0576470548196606,
+                "lexicalDiversity": 0.4720496894409938,
+                "posComposition": {
+                    "PRP": 0.112,
+                    "VBP": 0.068,
+                    "VB": 0.068,
+                    "RB": 0.062,
+                    "VBN": 0.019,
+                    "DT": 0.087,
+                    "NN": 0.099,
+                    "IN": 0.081,
+                    "NNP": 0.025,
+                    "POS": 0.012,
+                    "VBG": 0.006,
+                    "TO": 0.05,
+                    "NNS": 0.043,
+                    "MD": 0.031,
+                    "CD": 0.093,
+                    "CC": 0.025,
+                    "JJ": 0.056,
+                    "VBZ": 0.037,
+                    ":": 0.012,
+                    "WRB": 0.006,
+                    "WDT": 0.006
+                },
+                "syllableRate": 1.667,
+                "topicScores": [
+                    [
+                        "equation",
+                        0.34884238184532407
+                    ],
+                    [
+                        "equal",
+                        0.3586094019010287
+                    ],
+                    [
+                        "y",
+                        0.38499657182837504
+                    ],
+                    [
+                        "x",
+                        0.39772647493760527
+                    ],
+                    [
+                        "2y",
+                        0.4408609261564412
+                    ],
+                    [
+                        "way",
+                        0.5700246912024334
+                    ],
+                    [
+                        "time",
+                        0.5719908312840226
+                    ],
+                    [
+                        "fun",
+                        0.8304790311210888
+                    ],
+                    [
+                        "unknown",
+                        0.9001077332931147
+                    ],
+                    [
+                        "formula",
+                        0.9122810411009044
+                    ],
+                    [
+                        "term",
+                        0.9162920183975221
+                    ],
+                    [
+                        "simple",
+                        0.924653221857202
+                    ],
+                    [
+                        "substitute",
+                        0.924653221857202
+                    ],
+                    [
+                        "second",
+                        0.9295854041442464
+                    ],
+                    [
+                        "twice--",
+                        0.9343010657485751
+                    ],
+                    [
+                        "simple way",
+                        5.07512653962263
+                    ],
+                    [
+                        "second equation",
+                        5.182322995345573
+                    ]
+                ],
+                "topTopicSimilarity": 0.47058823529411764,
+                "sharedTopicScores": [
+                    [
+                        "equation",
+                        0.34884238184532407
+                    ],
+                    [
+                        "equal",
+                        0.3586094019010287
+                    ],
+                    [
+                        "y",
+                        0.38499657182837504
+                    ],
+                    [
+                        "x",
+                        0.39772647493760527
+                    ],
+                    [
+                        "2y",
+                        0.4408609261564412
+                    ],
+                    [
+                        "time",
+                        0.5719908312840226
+                    ],
+                    [
+                        "unknown",
+                        0.9001077332931147
+                    ],
+                    [
+                        "second",
+                        0.9295854041442464
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-180": {
+            "id": "uNKDw46_Ev4-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " We see that x is also equal to 1. That's it. This is the answer to this linear system. And it's easy enough. Both x and y are 1. Now, let's try to find out its row picture and column picture. So I'm going to work on this xy coordinate here. First, let's look at row picture. Please review what a row picture is. So by row picture, I mean you have to look at this linear system according to each row. So what is the first row? Well, the first row is an equation with two unknowns. So 2 times x plus y is equal to 3. What is this equation, exactly? As you may remember, this equation actually gives you a straight line in xy-plane. So now let's put the line here. I want a line that satisfies 2x plus y is 3. Let's first set x to be 0. If x is 0, by the first equation, y should be 3, which is here.",
+            "metrics": {
+                "relativeDCReadability": 0.940701727560091,
+                "lexicalDiversity": 0.5172413793103449,
+                "posComposition": {
+                    "PRP": 0.063,
+                    "VBP": 0.046,
+                    "DT": 0.103,
+                    "NN": 0.161,
+                    "VBZ": 0.08,
+                    "RB": 0.063,
+                    "JJ": 0.086,
+                    "TO": 0.046,
+                    "CD": 0.057,
+                    "CC": 0.029,
+                    "NNP": 0.046,
+                    "NNS": 0.017,
+                    "VB": 0.052,
+                    "RP": 0.006,
+                    "PRP$": 0.006,
+                    "IN": 0.069,
+                    "VBG": 0.011,
+                    "POS": 0.011,
+                    "WP": 0.017,
+                    "MD": 0.011,
+                    "VBN": 0.011,
+                    "WDT": 0.006
+                },
+                "syllableRate": 1.817,
+                "topicScores": [
+                    [
+                        "row",
+                        0.2904813298353967
+                    ],
+                    [
+                        "picture",
+                        0.3367512718070619
+                    ],
+                    [
+                        "x",
+                        0.34712264880825894
+                    ],
+                    [
+                        "y",
+                        0.378734139372349
+                    ],
+                    [
+                        "equation",
+                        0.38611924918330465
+                    ],
+                    [
+                        "line",
+                        0.45530488370070704
+                    ],
+                    [
+                        "system",
+                        0.5476811269110514
+                    ],
+                    [
+                        "linear",
+                        0.5524915893532
+                    ],
+                    [
+                        "equal",
+                        0.5600510929199437
+                    ],
+                    [
+                        "xy",
+                        0.5755513118579635
+                    ],
+                    [
+                        "answer",
+                        0.9002959558381562
+                    ],
+                    [
+                        "easy",
+                        0.9030444391373885
+                    ],
+                    [
+                        "plane",
+                        0.9114949324411672
+                    ],
+                    [
+                        "column",
+                        0.9150693181855077
+                    ],
+                    [
+                        "unknown",
+                        0.9155121326931462
+                    ],
+                    [
+                        "coordinate",
+                        0.9187958513602936
+                    ],
+                    [
+                        "time",
+                        0.9359272631244371
+                    ],
+                    [
+                        "straight",
+                        0.9378556824019977
+                    ],
+                    [
+                        "2x",
+                        0.9394098429743236
+                    ],
+                    [
+                        "row picture",
+                        1.3532746014088328
+                    ],
+                    [
+                        "linear system",
+                        1.999437223146145
+                    ],
+                    [
+                        "column picture",
+                        3.9154095040828074
+                    ],
+                    [
+                        "xy coordinate",
+                        5.1785836673242285
+                    ],
+                    [
+                        "time x",
+                        5.242455432814724
+                    ],
+                    [
+                        "straight line",
+                        5.850279025126939
+                    ]
+                ],
+                "topTopicSimilarity": 0.6,
+                "sharedTopicScores": [
+                    [
+                        "row",
+                        0.2904813298353967
+                    ],
+                    [
+                        "picture",
+                        0.3367512718070619
+                    ],
+                    [
+                        "x",
+                        0.34712264880825894
+                    ],
+                    [
+                        "y",
+                        0.378734139372349
+                    ],
+                    [
+                        "equation",
+                        0.38611924918330465
+                    ],
+                    [
+                        "line",
+                        0.45530488370070704
+                    ],
+                    [
+                        "system",
+                        0.5476811269110514
+                    ],
+                    [
+                        "linear",
+                        0.5524915893532
+                    ],
+                    [
+                        "equal",
+                        0.5600510929199437
+                    ],
+                    [
+                        "xy",
+                        0.5755513118579635
+                    ],
+                    [
+                        "column",
+                        0.9150693181855077
+                    ],
+                    [
+                        "unknown",
+                        0.9155121326931462
+                    ],
+                    [
+                        "coordinate",
+                        0.9187958513602936
+                    ],
+                    [
+                        "time",
+                        0.9359272631244371
+                    ],
+                    [
+                        "straight",
+                        0.9378556824019977
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-270": {
+            "id": "uNKDw46_Ev4-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " Now, let's set x to be 1. If x is 1, then y is also 1. So what I have now are two points on the line. And this is enough, because on the xy-plane, two points will uniquely determine a straight line. And that's the line we're looking for. So all we need to do is to connect these two points. Let me try to draw this line straight. So this is the line that is given by 2x plus y is equal to 3. This is the easiest way to determine a line. You just need to pick two points that are on the line. Then you connect them, and here you have the straight line. So that's the first row. Now let's look at the second row. The second row is x minus 2y is equal to -1. Same thing. We're going to locate two points on the second line. So again, let's set x to be 0 first. If x is 0, then y should be 1/2, right? So this line has to cross this point.",
+            "metrics": {
+                "relativeDCReadability": 0.7981784896998957,
+                "lexicalDiversity": 0.46524064171123,
+                "posComposition": {
+                    "RB": 0.086,
+                    "VBP": 0.053,
+                    "POS": 0.016,
+                    "VB": 0.091,
+                    "NN": 0.128,
+                    "TO": 0.059,
+                    "CD": 0.075,
+                    "IN": 0.064,
+                    "VBN": 0.011,
+                    "VBZ": 0.075,
+                    "WP": 0.005,
+                    "PRP": 0.048,
+                    "NNS": 0.027,
+                    "DT": 0.123,
+                    "CC": 0.021,
+                    "JJ": 0.07,
+                    "MD": 0.011,
+                    "VBG": 0.011,
+                    "NNP": 0.011,
+                    "WDT": 0.011,
+                    "JJS": 0.005
+                },
+                "syllableRate": 1.767,
+                "topicScores": [
+                    [
+                        "line",
+                        0.2407924112890949
+                    ],
+                    [
+                        "point",
+                        0.3041516772068407
+                    ],
+                    [
+                        "x",
+                        0.329593012401701
+                    ],
+                    [
+                        "straight",
+                        0.4320155789418088
+                    ],
+                    [
+                        "row",
+                        0.43207163404157534
+                    ],
+                    [
+                        "y",
+                        0.4344706392526615
+                    ],
+                    [
+                        "second",
+                        0.43536363517265736
+                    ],
+                    [
+                        "equal",
+                        0.5671483432933349
+                    ],
+                    [
+                        "plane",
+                        0.9038867326515694
+                    ],
+                    [
+                        "xy",
+                        0.9107494851780684
+                    ],
+                    [
+                        "thing",
+                        0.9161863240382803
+                    ],
+                    [
+                        "right",
+                        0.9188904007620808
+                    ],
+                    [
+                        "-1",
+                        0.921755409882912
+                    ],
+                    [
+                        "2x",
+                        0.9299244769819716
+                    ],
+                    [
+                        "easy",
+                        0.9317472903388773
+                    ],
+                    [
+                        "way",
+                        0.9317472903388773
+                    ],
+                    [
+                        "2y",
+                        0.9377102935552002
+                    ],
+                    [
+                        "straight line",
+                        1.6203178137788974
+                    ],
+                    [
+                        "second row",
+                        1.9175925913854819
+                    ],
+                    [
+                        "second line",
+                        2.6406008501514053
+                    ],
+                    [
+                        "easy way",
+                        6.5845495081988625
+                    ]
+                ],
+                "topTopicSimilarity": 0.5714285714285714,
+                "sharedTopicScores": [
+                    [
+                        "line",
+                        0.2407924112890949
+                    ],
+                    [
+                        "point",
+                        0.3041516772068407
+                    ],
+                    [
+                        "x",
+                        0.329593012401701
+                    ],
+                    [
+                        "straight",
+                        0.4320155789418088
+                    ],
+                    [
+                        "row",
+                        0.43207163404157534
+                    ],
+                    [
+                        "y",
+                        0.4344706392526615
+                    ],
+                    [
+                        "second",
+                        0.43536363517265736
+                    ],
+                    [
+                        "equal",
+                        0.5671483432933349
+                    ],
+                    [
+                        "xy",
+                        0.9107494851780684
+                    ],
+                    [
+                        "right",
+                        0.9188904007620808
+                    ],
+                    [
+                        "-1",
+                        0.921755409882912
+                    ],
+                    [
+                        "2y",
+                        0.9377102935552002
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-360": {
+            "id": "uNKDw46_Ev4-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " That's x, 0; y, 1/2. Then let's put x to be 1 again. So if x is 1, then y is also 1. So we're going to use the same point here. Now we have two points in the second line to connect them. So by connecting them, I will have my second straight line. So this is the line corresponding to x minus 2y is -1. This is the row picture, because we have separated the two equations, and we look at them respectively. The first equation gives me this line, and the second equation gives me this line. Then what do I mean by solving this linear system? Well, we are putting these two lines together, and we are looking at a point which is on the first line and second line at the same time. Then clearly, that's the point where they intersect, right? We can see from the answer over there, the coordinate of this point should be (1, 1). This is also clear from the construction of the two lines. We have noticed that this point is",
+            "metrics": {
+                "relativeDCReadability": 0.8517046187799098,
+                "lexicalDiversity": 0.43548387096774194,
+                "posComposition": {
+                    "DT": 0.14,
+                    "VBZ": 0.065,
+                    "JJ": 0.07,
+                    "CD": 0.065,
+                    "RB": 0.081,
+                    "VB": 0.054,
+                    "POS": 0.005,
+                    "FW": 0.005,
+                    "TO": 0.022,
+                    "IN": 0.091,
+                    "NNP": 0.011,
+                    "NN": 0.124,
+                    "PRP": 0.086,
+                    "VBP": 0.048,
+                    "VBG": 0.032,
+                    "NNS": 0.022,
+                    "MD": 0.016,
+                    "PRP$": 0.005,
+                    "VBN": 0.016,
+                    "CC": 0.022,
+                    "WP": 0.005,
+                    "WDT": 0.005,
+                    "WRB": 0.005,
+                    "EX": 0.005
+                },
+                "syllableRate": 1.95,
+                "topicScores": [
+                    [
+                        "line",
+                        0.2652997482137108
+                    ],
+                    [
+                        "point",
+                        0.3218106000091415
+                    ],
+                    [
+                        "x",
+                        0.3764739797357698
+                    ],
+                    [
+                        "second",
+                        0.381583736542394
+                    ],
+                    [
+                        "equation",
+                        0.43853103452332703
+                    ],
+                    [
+                        "y",
+                        0.5219870255499276
+                    ],
+                    [
+                        "-1",
+                        0.899718203290633
+                    ],
+                    [
+                        "right",
+                        0.9026637825140806
+                    ],
+                    [
+                        "system",
+                        0.9084980623429246
+                    ],
+                    [
+                        "time",
+                        0.9105167526489886
+                    ],
+                    [
+                        "straight",
+                        0.9134008818983311
+                    ],
+                    [
+                        "row",
+                        0.9201666407291911
+                    ],
+                    [
+                        "picture",
+                        0.9201666407291911
+                    ],
+                    [
+                        "2y",
+                        0.9243098121229856
+                    ],
+                    [
+                        "linear",
+                        0.9245720884869638
+                    ],
+                    [
+                        "coordinate",
+                        0.9289938823607915
+                    ],
+                    [
+                        "answer",
+                        0.9351673670938728
+                    ],
+                    [
+                        "clear",
+                        0.936198569851195
+                    ],
+                    [
+                        "construction",
+                        0.936198569851195
+                    ],
+                    [
+                        "second line",
+                        2.2480106177510693
+                    ],
+                    [
+                        "second equation",
+                        3.486030191931283
+                    ],
+                    [
+                        "straight line",
+                        4.127845002877476
+                    ],
+                    [
+                        "second straight",
+                        4.243352206294786
+                    ],
+                    [
+                        "linear system",
+                        5.248904523558614
+                    ],
+                    [
+                        "row picture",
+                        5.523440048399944
+                    ],
+                    [
+                        "second straight line",
+                        22.760102279628136
+                    ]
+                ],
+                "topTopicSimilarity": 0.6153846153846154,
+                "sharedTopicScores": [
+                    [
+                        "line",
+                        0.2652997482137108
+                    ],
+                    [
+                        "point",
+                        0.3218106000091415
+                    ],
+                    [
+                        "x",
+                        0.3764739797357698
+                    ],
+                    [
+                        "second",
+                        0.381583736542394
+                    ],
+                    [
+                        "equation",
+                        0.43853103452332703
+                    ],
+                    [
+                        "y",
+                        0.5219870255499276
+                    ],
+                    [
+                        "-1",
+                        0.899718203290633
+                    ],
+                    [
+                        "right",
+                        0.9026637825140806
+                    ],
+                    [
+                        "system",
+                        0.9084980623429246
+                    ],
+                    [
+                        "time",
+                        0.9105167526489886
+                    ],
+                    [
+                        "straight",
+                        0.9134008818983311
+                    ],
+                    [
+                        "row",
+                        0.9201666407291911
+                    ],
+                    [
+                        "picture",
+                        0.9201666407291911
+                    ],
+                    [
+                        "2y",
+                        0.9243098121229856
+                    ],
+                    [
+                        "linear",
+                        0.9245720884869638
+                    ],
+                    [
+                        "coordinate",
+                        0.9289938823607915
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-450": {
+            "id": "uNKDw46_Ev4-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " on the first line and the second line at the same time. Two lines meeting at the point (1, 1). That's the row picture of this linear system. Now, let's move on to the column picture. Again, I will need an xy coordinate. So, where can I find my columns? If you look at the two equations, then you focus on the coefficient in front of x in both equations. What would that be? Well, in the first equation, I have a 2 in front of x. In the second equation, I have a 1 in front of x. I want to put them together as a column vector. Let me call it v_1. And I'm going to do the same thing to the coefficients in front of y. In the first equation, I have a 1 in front of y. In the second equation, I have a -2 in front of y. Put them together. Call it a column vector v_2.",
+            "metrics": {
+                "relativeDCReadability": 0.9506957369506521,
+                "lexicalDiversity": 0.44242424242424244,
+                "posComposition": {
+                    "IN": 0.164,
+                    "DT": 0.145,
+                    "JJ": 0.079,
+                    "NN": 0.2,
+                    "CC": 0.012,
+                    "CD": 0.042,
+                    "NNS": 0.024,
+                    "VBG": 0.012,
+                    "WDT": 0.006,
+                    "VBZ": 0.006,
+                    "RB": 0.03,
+                    "VBP": 0.055,
+                    "PRP": 0.097,
+                    "VB": 0.055,
+                    "TO": 0.024,
+                    "NNP": 0.006,
+                    "MD": 0.018,
+                    "WRB": 0.006,
+                    "PRP$": 0.006,
+                    "WP": 0.006,
+                    "VBD": 0.006
+                },
+                "syllableRate": 1.733,
+                "topicScores": [
+                    [
+                        "equation",
+                        0.28641198982021365
+                    ],
+                    [
+                        "column",
+                        0.37738787378906025
+                    ],
+                    [
+                        "line",
+                        0.38707821614945903
+                    ],
+                    [
+                        "y.",
+                        0.4223191597993295
+                    ],
+                    [
+                        "second",
+                        0.4247841525699879
+                    ],
+                    [
+                        "picture",
+                        0.5358086954110459
+                    ],
+                    [
+                        "vector",
+                        0.5487482827833985
+                    ],
+                    [
+                        "x.",
+                        0.5507333413192826
+                    ],
+                    [
+                        "coefficient",
+                        0.5539703395220426
+                    ],
+                    [
+                        "time",
+                        0.766973047415858
+                    ],
+                    [
+                        "system",
+                        0.8575520563665909
+                    ],
+                    [
+                        "point",
+                        0.8608713945147792
+                    ],
+                    [
+                        "coordinate",
+                        0.8806228776776164
+                    ],
+                    [
+                        "linear",
+                        0.8826281125809222
+                    ],
+                    [
+                        "row",
+                        0.8928456227325353
+                    ],
+                    [
+                        "xy",
+                        0.902101266126186
+                    ],
+                    [
+                        "v_1",
+                        0.9033882936166853
+                    ],
+                    [
+                        "v_2",
+                        0.9095970374225535
+                    ],
+                    [
+                        "thing",
+                        0.9296957655611918
+                    ],
+                    [
+                        "-2",
+                        0.9320288342656692
+                    ],
+                    [
+                        "second equation",
+                        1.3600380162613943
+                    ],
+                    [
+                        "second line",
+                        1.9214034505614548
+                    ],
+                    [
+                        "column vector",
+                        2.021480799335947
+                    ],
+                    [
+                        "column picture",
+                        2.908670273980572
+                    ],
+                    [
+                        "linear system",
+                        3.113525960720832
+                    ],
+                    [
+                        "row picture",
+                        3.1362866946144567
+                    ],
+                    [
+                        "vector v_2",
+                        3.7873892918892675
+                    ],
+                    [
+                        "xy coordinate",
+                        3.8640737729422674
+                    ],
+                    [
+                        "column vector v_2",
+                        19.169139495715648
+                    ]
+                ],
+                "topTopicSimilarity": 0.5517241379310345,
+                "sharedTopicScores": [
+                    [
+                        "equation",
+                        0.28641198982021365
+                    ],
+                    [
+                        "column",
+                        0.37738787378906025
+                    ],
+                    [
+                        "line",
+                        0.38707821614945903
+                    ],
+                    [
+                        "second",
+                        0.4247841525699879
+                    ],
+                    [
+                        "picture",
+                        0.5358086954110459
+                    ],
+                    [
+                        "vector",
+                        0.5487482827833985
+                    ],
+                    [
+                        "coefficient",
+                        0.5539703395220426
+                    ],
+                    [
+                        "time",
+                        0.766973047415858
+                    ],
+                    [
+                        "system",
+                        0.8575520563665909
+                    ],
+                    [
+                        "point",
+                        0.8608713945147792
+                    ],
+                    [
+                        "coordinate",
+                        0.8806228776776164
+                    ],
+                    [
+                        "linear",
+                        0.8826281125809222
+                    ],
+                    [
+                        "row",
+                        0.8928456227325353
+                    ],
+                    [
+                        "xy",
+                        0.902101266126186
+                    ],
+                    [
+                        "v_1",
+                        0.9033882936166853
+                    ],
+                    [
+                        "v_2",
+                        0.9095970374225535
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-540": {
+            "id": "uNKDw46_Ev4-540",
+            "heat": 0.111,
+            "start": 540.0,
+            "text": " These are the columns I'm looking for. Then what does that linear system say? Well, I have extracted the coefficients in front of x. Now I can consider x to be the coefficient of this vector. And same thing, I'm going to view y as the coefficient of this vector. Then what that linear system is doing is just to sum them up. That gives you the left-hand side of the linear system. What is the right-hand side? Again, you put the two constants as a column vector, which is [3, -1]. That is the right-hand side. So what I'm doing here is I'm taking the linear combination of v_1 and v_2. And the coefficients are given by x and y, respectively. And I want the result of this combination to be [3, -1]. Now let's incorporate this into this picture. I have a v_1, so I'm going to draw a vector v_1.",
+            "metrics": {
+                "relativeDCReadability": 1.0999115238691388,
+                "lexicalDiversity": 0.41509433962264153,
+                "posComposition": {
+                    "DT": 0.145,
+                    "VBP": 0.082,
+                    "NN": 0.17,
+                    "PRP": 0.075,
+                    "VBG": 0.038,
+                    "IN": 0.094,
+                    "RB": 0.063,
+                    "WP": 0.025,
+                    "VBZ": 0.05,
+                    "JJ": 0.05,
+                    "VBN": 0.013,
+                    "NNS": 0.019,
+                    "MD": 0.006,
+                    "VB": 0.057,
+                    "TO": 0.031,
+                    "CC": 0.031,
+                    "RP": 0.006,
+                    "NNP": 0.006,
+                    "CD": 0.019,
+                    "WDT": 0.013,
+                    "POS": 0.006
+                },
+                "syllableRate": 1.825,
+                "topicScores": [
+                    [
+                        "vector",
+                        0.3584188517282403
+                    ],
+                    [
+                        "linear",
+                        0.36694093145256296
+                    ],
+                    [
+                        "coefficient",
+                        0.3672940660991009
+                    ],
+                    [
+                        "hand",
+                        0.4026544876188766
+                    ],
+                    [
+                        "system",
+                        0.40820821591694006
+                    ],
+                    [
+                        "v_1",
+                        0.4464074742132492
+                    ],
+                    [
+                        "right",
+                        0.5262942355368051
+                    ],
+                    [
+                        "column",
+                        0.552395048489646
+                    ],
+                    [
+                        "x",
+                        0.5666092631373254
+                    ],
+                    [
+                        "combination",
+                        0.5735239943213251
+                    ],
+                    [
+                        "thing",
+                        0.8883652991970233
+                    ],
+                    [
+                        "v_2",
+                        0.8965387009131996
+                    ],
+                    [
+                        "left",
+                        0.9020132079242087
+                    ],
+                    [
+                        "picture",
+                        0.9024304634050765
+                    ],
+                    [
+                        "constant",
+                        0.9172916491235898
+                    ],
+                    [
+                        "result",
+                        0.9250972614149734
+                    ],
+                    [
+                        "linear system",
+                        1.1425504018072639
+                    ],
+                    [
+                        "column vector",
+                        2.6850360261999304
+                    ],
+                    [
+                        "vector v_1",
+                        2.8913679142432605
+                    ],
+                    [
+                        "linear combination",
+                        3.4343824375792886
+                    ]
+                ],
+                "topTopicSimilarity": 0.6,
+                "sharedTopicScores": [
+                    [
+                        "vector",
+                        0.3584188517282403
+                    ],
+                    [
+                        "linear",
+                        0.36694093145256296
+                    ],
+                    [
+                        "coefficient",
+                        0.3672940660991009
+                    ],
+                    [
+                        "hand",
+                        0.4026544876188766
+                    ],
+                    [
+                        "system",
+                        0.40820821591694006
+                    ],
+                    [
+                        "v_1",
+                        0.4464074742132492
+                    ],
+                    [
+                        "right",
+                        0.5262942355368051
+                    ],
+                    [
+                        "column",
+                        0.552395048489646
+                    ],
+                    [
+                        "x",
+                        0.5666092631373254
+                    ],
+                    [
+                        "v_2",
+                        0.8965387009131996
+                    ],
+                    [
+                        "left",
+                        0.9020132079242087
+                    ],
+                    [
+                        "picture",
+                        0.9024304634050765
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-630": {
+            "id": "uNKDw46_Ev4-630",
+            "heat": 0.302,
+            "start": 630.0,
+            "text": " x is 2, y is 1, so v_1 is here. That's v_1. And I need a v_2. x is 1. y is -2. So that's my v_2. I want to take the sum of x multiple of v_1 and y multiple of v_2. And I want the result to be [3,  -1]. Well, taking a hint from the previous consideration, we know that both x and y should be 1. So I'm actually summing one copy of v_1 and one copy of v_2. So how do you indicate the sum of these two vectors? You complete the parallelogram spanned by these two vectors. Then the vector given by the diagonal is the sum of v_1 and v_2. Is this vector going to be [3,  -1]? Well, we can check. The x-coordinate will be 2 plus 1, which is 3.",
+            "metrics": {
+                "relativeDCReadability": 1.2443773206159443,
+                "lexicalDiversity": 0.4788732394366197,
+                "posComposition": {
+                    "NN": 0.19,
+                    "VBZ": 0.063,
+                    "CD": 0.092,
+                    "RB": 0.028,
+                    "JJ": 0.035,
+                    "DT": 0.12,
+                    "CC": 0.049,
+                    "PRP": 0.056,
+                    "VBP": 0.049,
+                    "VBN": 0.021,
+                    "IN": 0.085,
+                    "POS": 0.007,
+                    "PRP$": 0.007,
+                    "TO": 0.021,
+                    "VB": 0.056,
+                    "NNP": 0.049,
+                    "VBG": 0.021,
+                    "MD": 0.021,
+                    "WRB": 0.007,
+                    "NNS": 0.014,
+                    "WDT": 0.007
+                },
+                "syllableRate": 1.483,
+                "topicScores": [
+                    [
+                        "v_2",
+                        0.3192959171431233
+                    ],
+                    [
+                        "v_1",
+                        0.33864785812658116
+                    ],
+                    [
+                        "x",
+                        0.34402297233075846
+                    ],
+                    [
+                        "y",
+                        0.3719993727703583
+                    ],
+                    [
+                        "sum",
+                        0.38163593639594817
+                    ],
+                    [
+                        "vector",
+                        0.38504490583128254
+                    ],
+                    [
+                        "copy",
+                        0.5745421533219204
+                    ],
+                    [
+                        "multiple",
+                        0.5755563753714579
+                    ],
+                    [
+                        "-2",
+                        0.8908883103014473
+                    ],
+                    [
+                        "previous",
+                        0.9237789943915261
+                    ],
+                    [
+                        "consideration",
+                        0.9237789943915261
+                    ],
+                    [
+                        "result",
+                        0.9281885177696768
+                    ],
+                    [
+                        "hint",
+                        0.9303718949318532
+                    ],
+                    [
+                        "coordinate",
+                        0.9330827862261861
+                    ],
+                    [
+                        "parallelogram",
+                        0.9350385660717104
+                    ],
+                    [
+                        "diagonal",
+                        0.936190282471599
+                    ],
+                    [
+                        "previous consideration",
+                        5.8197765832115005
+                    ]
+                ],
+                "topTopicSimilarity": 0.4117647058823529,
+                "sharedTopicScores": [
+                    [
+                        "v_2",
+                        0.3192959171431233
+                    ],
+                    [
+                        "v_1",
+                        0.33864785812658116
+                    ],
+                    [
+                        "x",
+                        0.34402297233075846
+                    ],
+                    [
+                        "y",
+                        0.3719993727703583
+                    ],
+                    [
+                        "sum",
+                        0.38163593639594817
+                    ],
+                    [
+                        "vector",
+                        0.38504490583128254
+                    ],
+                    [
+                        "coordinate",
+                        0.9330827862261861
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-720": {
+            "id": "uNKDw46_Ev4-720",
+            "heat": 0.372,
+            "start": 720.0,
+            "text": " That's 2 plus 1, 3. And the y-coordinate will be 1 minus 2. So 1 minus 2, which should be -1. That's it. That's one multiple of v_1 and one multiple of v_2. The sum will be [3, -1]. And that's the row picture. Where does that that \"x is equal to y is equal to 1\" come from? It comes from solving the linear system. It comes from the row picture. So here, we have found out the row picture and the column picture of this linear system. What I would like to mention is the matrix form of this linear system. So what is the matrix form? What if I put these two column vectors together? So I want to put them back to back, v_1 and v_2. And I call this matrix to be A. So if you write it out, A should be given by 2, 1; 1, -2.",
+            "metrics": {
+                "relativeDCReadability": 1.1010491461651317,
+                "lexicalDiversity": 0.4779874213836478,
+                "posComposition": {
+                    "DT": 0.113,
+                    "VBZ": 0.069,
+                    "CD": 0.094,
+                    "CC": 0.05,
+                    "NN": 0.157,
+                    "MD": 0.031,
+                    "VB": 0.063,
+                    "RB": 0.038,
+                    "NNS": 0.013,
+                    "WDT": 0.006,
+                    "NNP": 0.038,
+                    "PRP": 0.069,
+                    "IN": 0.069,
+                    "WRB": 0.006,
+                    "``": 0.006,
+                    "JJ": 0.044,
+                    "TO": 0.038,
+                    "''": 0.006,
+                    "VBN": 0.019,
+                    "VBG": 0.006,
+                    "VBP": 0.031,
+                    "RP": 0.013,
+                    "WP": 0.019
+                },
+                "syllableRate": 1.608,
+                "topicScores": [
+                    [
+                        "picture",
+                        0.37612879310823877
+                    ],
+                    [
+                        "system",
+                        0.40379028694865293
+                    ],
+                    [
+                        "linear",
+                        0.42901409546040375
+                    ],
+                    [
+                        "row",
+                        0.4353052842611843
+                    ],
+                    [
+                        "matrix",
+                        0.45159093708823544
+                    ],
+                    [
+                        "-1",
+                        0.5316134873042283
+                    ],
+                    [
+                        "v_2",
+                        0.5550331954235413
+                    ],
+                    [
+                        "form",
+                        0.5646125552103204
+                    ],
+                    [
+                        "multiple",
+                        0.5687979861091399
+                    ],
+                    [
+                        "v_1",
+                        0.5748742633460915
+                    ],
+                    [
+                        "equal",
+                        0.5753024448807034
+                    ],
+                    [
+                        "column",
+                        0.5868175543171413
+                    ],
+                    [
+                        "A.",
+                        0.677242227406769
+                    ],
+                    [
+                        "coordinate",
+                        0.894194616130917
+                    ],
+                    [
+                        "-2",
+                        0.9106949782956312
+                    ],
+                    [
+                        "sum",
+                        0.920474082611791
+                    ],
+                    [
+                        "vector",
+                        0.9338839979358667
+                    ],
+                    [
+                        "linear system",
+                        1.1282767787785304
+                    ],
+                    [
+                        "row picture",
+                        1.58631090595888
+                    ],
+                    [
+                        "matrix form",
+                        2.6594158481992127
+                    ],
+                    [
+                        "column picture",
+                        4.327171810889363
+                    ],
+                    [
+                        "column vector",
+                        6.6097938026797145
+                    ]
+                ],
+                "topTopicSimilarity": 0.6363636363636364,
+                "sharedTopicScores": [
+                    [
+                        "picture",
+                        0.37612879310823877
+                    ],
+                    [
+                        "system",
+                        0.40379028694865293
+                    ],
+                    [
+                        "linear",
+                        0.42901409546040375
+                    ],
+                    [
+                        "row",
+                        0.4353052842611843
+                    ],
+                    [
+                        "matrix",
+                        0.45159093708823544
+                    ],
+                    [
+                        "-1",
+                        0.5316134873042283
+                    ],
+                    [
+                        "v_2",
+                        0.5550331954235413
+                    ],
+                    [
+                        "form",
+                        0.5646125552103204
+                    ],
+                    [
+                        "v_1",
+                        0.5748742633460915
+                    ],
+                    [
+                        "equal",
+                        0.5753024448807034
+                    ],
+                    [
+                        "column",
+                        0.5868175543171413
+                    ],
+                    [
+                        "coordinate",
+                        0.894194616130917
+                    ],
+                    [
+                        "sum",
+                        0.920474082611791
+                    ],
+                    [
+                        "vector",
+                        0.9338839979358667
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-810": {
+            "id": "uNKDw46_Ev4-810",
+            "heat": 0.149,
+            "start": 810.0,
+            "text": " Matrix A has v_1 and v_2 as its column vectors, and it's a 2-by-2 matrix. If I consider-- if I take this into account, then what will be the left-hand side of the linear system? In other words, what would be the left-hand side of this equation? This is actually matrix A multiplying a vector given by x, y. So that's [2, 1; 1, -2] multiplying x and y. So you put both unknowns together as a column vector. That's the left-hand side of the equation. And again, the right-hand side is given by this column vector, [3; -1]. This is the matrix form of this linear system. We can actually solve this directly. In other words, we can get this unknown vector at once, both x-coordinate and y-coordinate. Let's recall, if you have a scalar equation like this-- let's say a is some constant times x is unknown is equal to b. If a is non-zero, what would be x?",
+            "metrics": {
+                "relativeDCReadability": 1.1670449748802043,
+                "lexicalDiversity": 0.4880952380952381,
+                "posComposition": {
+                    "NNP": 0.048,
+                    "VBZ": 0.065,
+                    "NN": 0.143,
+                    "CC": 0.03,
+                    "IN": 0.101,
+                    "PRP$": 0.006,
+                    "NNS": 0.024,
+                    "PRP": 0.042,
+                    "DT": 0.149,
+                    "JJ": 0.119,
+                    "VBP": 0.03,
+                    ":": 0.012,
+                    "RB": 0.054,
+                    "WP": 0.018,
+                    "MD": 0.03,
+                    "VB": 0.054,
+                    "VBG": 0.012,
+                    "VBN": 0.012,
+                    "WDT": 0.012,
+                    "CD": 0.024,
+                    "POS": 0.012,
+                    "TO": 0.006
+                },
+                "syllableRate": 1.95,
+                "topicScores": [
+                    [
+                        "hand",
+                        0.33290064637669325
+                    ],
+                    [
+                        "vector",
+                        0.3350344464924645
+                    ],
+                    [
+                        "x",
+                        0.34704888873527384
+                    ],
+                    [
+                        "left",
+                        0.3724678038946938
+                    ],
+                    [
+                        "Matrix",
+                        0.3952557614546012
+                    ],
+                    [
+                        "column",
+                        0.4169752688828387
+                    ],
+                    [
+                        "equation",
+                        0.43890994622539486
+                    ],
+                    [
+                        "unknown",
+                        0.45994382941320655
+                    ],
+                    [
+                        "y.",
+                        0.5029504575570495
+                    ],
+                    [
+                        "system",
+                        0.5191559461232834
+                    ],
+                    [
+                        "linear",
+                        0.537693672134117
+                    ],
+                    [
+                        "word",
+                        0.5468620874977085
+                    ],
+                    [
+                        "coordinate",
+                        0.5690874473099395
+                    ],
+                    [
+                        "by-2",
+                        0.7860941870782533
+                    ],
+                    [
+                        "v_1",
+                        0.8211255847850365
+                    ],
+                    [
+                        "v_2",
+                        0.8211255847850365
+                    ],
+                    [
+                        "account",
+                        0.8611237825528691
+                    ],
+                    [
+                        "consider--",
+                        0.8735578747820176
+                    ],
+                    [
+                        "b.",
+                        0.9059451639714896
+                    ],
+                    [
+                        "multiplying",
+                        0.9076452102299114
+                    ],
+                    [
+                        "right",
+                        0.9082833860689743
+                    ],
+                    [
+                        "non",
+                        0.9253804509141047
+                    ],
+                    [
+                        "form",
+                        0.9271436512339691
+                    ],
+                    [
+                        "scalar",
+                        0.9314258740118044
+                    ],
+                    [
+                        "this--",
+                        0.9314258740118044
+                    ],
+                    [
+                        "constant",
+                        0.9314258740118044
+                    ],
+                    [
+                        "time",
+                        0.9314258740118044
+                    ],
+                    [
+                        "equal",
+                        0.9314258740118044
+                    ],
+                    [
+                        "column vector",
+                        1.3001417662469965
+                    ],
+                    [
+                        "linear system",
+                        1.4809446545676832
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "hand",
+                        0.33290064637669325
+                    ],
+                    [
+                        "vector",
+                        0.3350344464924645
+                    ],
+                    [
+                        "x",
+                        0.34704888873527384
+                    ],
+                    [
+                        "left",
+                        0.3724678038946938
+                    ],
+                    [
+                        "column",
+                        0.4169752688828387
+                    ],
+                    [
+                        "equation",
+                        0.43890994622539486
+                    ],
+                    [
+                        "unknown",
+                        0.45994382941320655
+                    ],
+                    [
+                        "system",
+                        0.5191559461232834
+                    ],
+                    [
+                        "linear",
+                        0.537693672134117
+                    ],
+                    [
+                        "coordinate",
+                        0.5690874473099395
+                    ],
+                    [
+                        "v_1",
+                        0.8211255847850365
+                    ],
+                    [
+                        "v_2",
+                        0.8211255847850365
+                    ],
+                    [
+                        "right",
+                        0.9082833860689743
+                    ],
+                    [
+                        "form",
+                        0.9271436512339691
+                    ],
+                    [
+                        "time",
+                        0.9314258740118044
+                    ],
+                    [
+                        "equal",
+                        0.9314258740118044
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-900": {
+            "id": "uNKDw46_Ev4-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " So clearly, x should be b over a. I can also write it as a inverse times b. That's what we do when we have numbers. So here, what we want to apply is a similar idea but to matrix. What you want to find is a matrix A inverse such that A inverse times A is equal to an identity matrix, which is [1, 0; 0, 1]. This may be new to you, but as you go further into this course, this idea will become more and more natural. If such an inverse matrix exists, then what would be this vector here? Then [x; y] will simply be A inverse times [3; -1]. That will give you the answer. Here, I'm not going to go into detail, but we will return to this later in this course. I hope this simple example is helpful to you in reviewing what you've learned in the lecture.",
+            "metrics": {
+                "relativeDCReadability": 1.0277761377623558,
+                "lexicalDiversity": 0.4050632911392405,
+                "posComposition": {
+                    "RB": 0.082,
+                    "NN": 0.114,
+                    "MD": 0.051,
+                    "VB": 0.076,
+                    "VBN": 0.013,
+                    "IN": 0.063,
+                    "PRP": 0.089,
+                    "DT": 0.108,
+                    "NNS": 0.025,
+                    "VBP": 0.057,
+                    "VBZ": 0.044,
+                    "WP": 0.032,
+                    "WRB": 0.006,
+                    "TO": 0.051,
+                    "JJ": 0.07,
+                    "CC": 0.025,
+                    "NNP": 0.025,
+                    "WDT": 0.013,
+                    "CD": 0.032,
+                    "RBR": 0.013,
+                    "VBG": 0.013
+                },
+                "syllableRate": 1.692,
+                "topicScores": [
+                    [
+                        "inverse",
+                        0.3379296093141414
+                    ],
+                    [
+                        "matrix",
+                        0.37795978837027727
+                    ],
+                    [
+                        "time",
+                        0.40771586938835475
+                    ],
+                    [
+                        "course",
+                        0.5438792367137737
+                    ],
+                    [
+                        "idea",
+                        0.5546683547183598
+                    ],
+                    [
+                        "b.",
+                        0.740711034833968
+                    ],
+                    [
+                        "a.",
+                        0.8081415667403402
+                    ],
+                    [
+                        "number",
+                        0.8112977945155442
+                    ],
+                    [
+                        "natural",
+                        0.8649132216340443
+                    ],
+                    [
+                        "answer",
+                        0.8816087855623217
+                    ],
+                    [
+                        "identity",
+                        0.8849783893939713
+                    ],
+                    [
+                        "similar",
+                        0.8851151267132746
+                    ],
+                    [
+                        "lecture",
+                        0.887882719652291
+                    ],
+                    [
+                        "equal",
+                        0.8967563473874789
+                    ],
+                    [
+                        "vector",
+                        0.8989932858213869
+                    ],
+                    [
+                        "new",
+                        0.9042204361157786
+                    ],
+                    [
+                        "detail",
+                        0.909540911968183
+                    ],
+                    [
+                        "simple",
+                        0.9211159027700597
+                    ],
+                    [
+                        "example",
+                        0.9211159027700597
+                    ],
+                    [
+                        "helpful",
+                        0.9211159027700597
+                    ],
+                    [
+                        "inverse time",
+                        1.2379725761669285
+                    ],
+                    [
+                        "time b.",
+                        1.5252479789501192
+                    ],
+                    [
+                        "inverse matrix",
+                        3.284685940022303
+                    ],
+                    [
+                        "identity matrix",
+                        3.4773381359546844
+                    ],
+                    [
+                        "similar idea",
+                        3.507143240952303
+                    ],
+                    [
+                        "simple example",
+                        5.598678560620944
+                    ]
+                ],
+                "topTopicSimilarity": 0.19230769230769232,
+                "sharedTopicScores": [
+                    [
+                        "inverse",
+                        0.3379296093141414
+                    ],
+                    [
+                        "matrix",
+                        0.37795978837027727
+                    ],
+                    [
+                        "time",
+                        0.40771586938835475
+                    ],
+                    [
+                        "equal",
+                        0.8967563473874789
+                    ],
+                    [
+                        "vector",
+                        0.8989932858213869
+                    ]
+                ]
+            }
+        },
+        "uNKDw46_Ev4-990": {
+            "id": "uNKDw46_Ev4-990",
+            "heat": 0.1,
+            "start": 990.0,
+            "text": " Thank you for watching, and I'm looking forward to seeing you again.",
+            "metrics": {
+                "relativeDCReadability": 0.07251231601328272,
+                "lexicalDiversity": 0.46153846153846156,
+                "posComposition": {
+                    "NNP": 0.077,
+                    "PRP": 0.231,
+                    "IN": 0.077,
+                    "VBG": 0.231,
+                    "CC": 0.077,
+                    "VBP": 0.077,
+                    "RB": 0.154,
+                    "TO": 0.077
+                },
+                "syllableRate": 0.15,
+                "topicScores": [
+                    [
+                        "watching",
+                        0.8909090909090909
+                    ]
+                ],
+                "topTopicSimilarity": 0.0,
+                "sharedTopicScores": []
+            }
+        }
+    }
+}

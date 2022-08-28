@@ -1,0 +1,3713 @@
+{
+    "metadata": {
+        "id": "bBC-nXj3Ng4",
+        "avgHeat": 0.37,
+        "runtime": 1558.9,
+        "dale-challReadabilityScore": 8.656295088876895,
+        "lexicalDiversity": 0.49867724867724866,
+        "posComposition": {
+            "WP": 0.007,
+            "VBZ": 0.051,
+            "PRP": 0.054,
+            "VB": 0.053,
+            "TO": 0.033,
+            "DT": 0.115,
+            "JJ": 0.079,
+            "NNS": 0.05,
+            "VBP": 0.034,
+            "RB": 0.049,
+            "VBN": 0.012,
+            "IN": 0.133,
+            "NN": 0.153,
+            "NNP": 0.037,
+            "VBD": 0.012,
+            "CC": 0.026,
+            "JJS": 0.001,
+            "VBG": 0.022,
+            "WRB": 0.008,
+            "MD": 0.017,
+            "PRP$": 0.007,
+            "JJR": 0.005,
+            "RBR": 0.004,
+            "RP": 0.004,
+            "EX": 0.004,
+            "CD": 0.017,
+            ":": 0.0,
+            "WDT": 0.007,
+            "PDT": 0.002,
+            "RBS": 0.001
+        },
+        "syllableRate": 4.191,
+        "topicScores": [
+            [
+                "Bob",
+                0.08782597298970156
+            ],
+            [
+                "Alice",
+                0.09039446632230166
+            ],
+            [
+                "block",
+                0.12026717242599431
+            ],
+            [
+                "transaction",
+                0.12915360488403496
+            ],
+            [
+                "work",
+                0.1354169428643671
+            ],
+            [
+                "ledger",
+                0.14777227943596372
+            ],
+            [
+                "bitcoin",
+                0.1629379715018429
+            ],
+            [
+                "signature",
+                0.16438919724346518
+            ],
+            [
+                "hash",
+                0.1659276392501643
+            ],
+            [
+                "way",
+                0.1704422870847394
+            ],
+            [
+                "Charlie",
+                0.1716759185291493
+            ],
+            [
+                "number",
+                0.18103905705198894
+            ],
+            [
+                "key",
+                0.181686083912006
+            ],
+            [
+                "new",
+                0.1819741184384048
+            ],
+            [
+                "start",
+                0.19052530070304205
+            ],
+            [
+                "look",
+                0.19604956951208852
+            ],
+            [
+                "miner",
+                0.19831081717746835
+            ],
+            [
+                "message",
+                0.20124523066869698
+            ],
+            [
+                "trust",
+                0.21030470167557808
+            ],
+            [
+                "mean",
+                0.21113254206108234
+            ],
+            [
+                "function",
+                0.21516961865911152
+            ],
+            [
+                "change",
+                0.2171015396820107
+            ],
+            [
+                "money",
+                0.22551777488201974
+            ],
+            [
+                "zero",
+                0.2315785037268314
+            ],
+            [
+                "LedgerDollars",
+                0.23339707425333406
+            ],
+            [
+                "reward",
+                0.23761856223115316
+            ],
+            [
+                "public",
+                0.2397324968852849
+            ],
+            [
+                "special",
+                0.24378135978011137
+            ],
+            [
+                "broadcast",
+                0.24455828206630048
+            ],
+            [
+                "protocol",
+                0.24550561753426062
+            ]
+        ],
+        "topicsList": [
+            "Bob",
+            "Alice",
+            "block",
+            "transaction",
+            "work",
+            "ledger",
+            "bitcoin",
+            "signature",
+            "hash",
+            "way",
+            "Charlie",
+            "number",
+            "key",
+            "new",
+            "start",
+            "look",
+            "miner",
+            "message",
+            "trust",
+            "mean",
+            "function",
+            "change",
+            "money",
+            "zero",
+            "LedgerDollars",
+            "reward",
+            "public",
+            "special",
+            "broadcast",
+            "protocol"
+        ]
+    },
+    "chunks": {
+        "bBC-nXj3Ng4-0": {
+            "id": "bBC-nXj3Ng4-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " What does it mean to have a bitcoin? Many people have now heard of bitcoin, that\u2019s it\u2019s a fully digital currency, with no government to issue it and no banks needed to manage accounts and verify transactions. That no one actually knows who invented it. Yet many people don\u2019t know the answer to this question, at least not in full. To get there, and to make sure the technical details underlying this answer feel motivated, we\u2019re going to walk through step-by-step how you might have invented your own version of Bitcoin. We\u2019ll start with you keeping track of payments with your friends using a communal ledger. Then, as you trust your friends and the world less and less, and if you\u2019re clever enough to bring in a few tools of cryptography to help circumvent the need for trust, what you end up with what\u2019s called a \u201ccryptocurrency\u201d. Bitcoin is just the first implemented example of a cryptocurrency, and there are now thousands more on exchanges with traditional currencies. Walking the path of inventing your own can help set the foundation for understanding some of the more recent players in the game, and recognizing where there\u2019s room for different design choices. In fact, one of the reasons I chose this topic is in response to the unprecedented leap in attention, investment and...well.. hype directed at these currencies in just the last year. I won\u2019t comment or speculate on the current or future exchange rates, but I think we\u2019d all agree that anyone looking to buy a cryptocurrency should really know what it is.",
+            "metrics": {
+                "relativeDCReadability": 1.0324791933435178,
+                "lexicalDiversity": 0.4808362369337979,
+                "posComposition": {
+                    "WP": 0.017,
+                    "VBZ": 0.024,
+                    "PRP": 0.056,
+                    "VB": 0.066,
+                    "TO": 0.038,
+                    "DT": 0.101,
+                    "JJ": 0.087,
+                    "NNS": 0.063,
+                    "VBP": 0.045,
+                    "RB": 0.052,
+                    "VBN": 0.01,
+                    "IN": 0.118,
+                    "NN": 0.139,
+                    "NNP": 0.021,
+                    "VBD": 0.021,
+                    "CC": 0.042,
+                    "JJS": 0.003,
+                    "VBG": 0.031,
+                    "WRB": 0.007,
+                    "MD": 0.01,
+                    "PRP$": 0.014,
+                    "JJR": 0.003,
+                    "RBR": 0.01,
+                    "RP": 0.003,
+                    "EX": 0.007,
+                    "CD": 0.003,
+                    ":": 0.003
+                },
+                "syllableRate": 3.45,
+                "topicScores": [
+                    [
+                        "bitcoin",
+                        0.41184513191020367
+                    ],
+                    [
+                        "cryptocurrency",
+                        0.4155364183462202
+                    ],
+                    [
+                        "people",
+                        0.5235767290854575
+                    ],
+                    [
+                        "step",
+                        0.5484797727857795
+                    ],
+                    [
+                        "friend",
+                        0.5489711230549473
+                    ],
+                    [
+                        "answer",
+                        0.5507268414402067
+                    ],
+                    [
+                        "need",
+                        0.5507268414402067
+                    ],
+                    [
+                        "exchange",
+                        0.558144429400723
+                    ],
+                    [
+                        "trust",
+                        0.560160952197005
+                    ],
+                    [
+                        "transaction",
+                        0.8162012600135709
+                    ],
+                    [
+                        "digital",
+                        0.8489495254779371
+                    ],
+                    [
+                        "ledger",
+                        0.8587932946271025
+                    ],
+                    [
+                        "government",
+                        0.8622993224528754
+                    ],
+                    [
+                        "bank",
+                        0.8622993224528754
+                    ],
+                    [
+                        "account",
+                        0.8622993224528754
+                    ],
+                    [
+                        "choice",
+                        0.8706410448513037
+                    ],
+                    [
+                        "question",
+                        0.8732076104856163
+                    ],
+                    [
+                        "year",
+                        0.8733785218100282
+                    ],
+                    [
+                        "motivated",
+                        0.8799478384457464
+                    ],
+                    [
+                        "communal",
+                        0.885021778095729
+                    ],
+                    [
+                        "fact",
+                        0.8861915290246635
+                    ],
+                    [
+                        "investment",
+                        0.8861915290246635
+                    ],
+                    [
+                        "sure",
+                        0.8909100547321102
+                    ],
+                    [
+                        "technical",
+                        0.8909100547321102
+                    ],
+                    [
+                        "detail",
+                        0.8909100547321102
+                    ],
+                    [
+                        "version",
+                        0.8909100547321102
+                    ],
+                    [
+                        "traditional",
+                        0.8922459036879957
+                    ],
+                    [
+                        "game",
+                        0.8949380861818136
+                    ],
+                    [
+                        "design",
+                        0.8949380861818136
+                    ],
+                    [
+                        "track",
+                        0.8955756639814266
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "bitcoin",
+                        0.41184513191020367
+                    ],
+                    [
+                        "trust",
+                        0.560160952197005
+                    ],
+                    [
+                        "transaction",
+                        0.8162012600135709
+                    ],
+                    [
+                        "ledger",
+                        0.8587932946271025
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-90": {
+            "id": "bBC-nXj3Ng4-90",
+            "heat": 0.489,
+            "start": 90.0,
+            "text": " Not just in terms of analogies with vague connections to gold-mining, I mean an actual direct description of what computers are doing when sending, receiving and creating cryptocurrencies. One thing worth stressing, by the way, is that even though you and I will dig into the underlying details here, which takes some meaningful time, you don\u2019t actually need to know those details to use a cryptocurrency, just like you don\u2019t need to know the details of what happens under the hood when you swipe a credit card. Like any other digital payments, there are plenty of user-friendly applications that let you send and receive these currencies very easily. The difference is that the backbone underlying this is not a bank verifying transactions, but a clever system of decentralized trustless verification based on some of the math born in cryptography. To start, set aside the thought of cryptocurrencies for a few minutes. We\u2019re going to start the story with something more down to earth: Ledgers, and digital signatures. If you and your friends exchange money pretty frequently, paying your share of the dinner bill and such, it can be inconvenient to exchange cash all the time. So you might keep a communal ledger that records payments you intend to make in the future. Alice pays Bob $20, Bob pays Charlie $40, things like that. This ledger will be something public and accessible to everyone, like a website where anyone can",
+            "metrics": {
+                "relativeDCReadability": 0.9997567905279438,
+                "lexicalDiversity": 0.5102040816326531,
+                "posComposition": {
+                    "RB": 0.057,
+                    "IN": 0.106,
+                    "NNS": 0.086,
+                    "JJ": 0.082,
+                    "TO": 0.041,
+                    "PRP": 0.049,
+                    "VBP": 0.045,
+                    "DT": 0.114,
+                    "NN": 0.143,
+                    "WP": 0.008,
+                    "VBG": 0.037,
+                    "WRB": 0.012,
+                    "CC": 0.033,
+                    "CD": 0.012,
+                    "VBZ": 0.024,
+                    "MD": 0.02,
+                    "VB": 0.065,
+                    "WDT": 0.012,
+                    "EX": 0.004,
+                    "VBN": 0.008,
+                    "RBR": 0.004,
+                    "NNP": 0.024,
+                    "PRP$": 0.008,
+                    "PDT": 0.004
+                },
+                "syllableRate": 3.142,
+                "topicScores": [
+                    [
+                        "detail",
+                        0.3879597388585493
+                    ],
+                    [
+                        "Bob",
+                        0.40948636630795654
+                    ],
+                    [
+                        "ledger",
+                        0.4201071345584156
+                    ],
+                    [
+                        "cryptocurrencie",
+                        0.5052767653836985
+                    ],
+                    [
+                        "time",
+                        0.5173651920657415
+                    ],
+                    [
+                        "digital",
+                        0.5173651920657415
+                    ],
+                    [
+                        "thing",
+                        0.5298880910802694
+                    ],
+                    [
+                        "payment",
+                        0.5361302980908423
+                    ],
+                    [
+                        "Charlie",
+                        0.6625054565196433
+                    ],
+                    [
+                        "mining",
+                        0.722358976053349
+                    ],
+                    [
+                        "gold",
+                        0.7414988641713915
+                    ],
+                    [
+                        "term",
+                        0.7589284218989962
+                    ],
+                    [
+                        "analogy",
+                        0.7589284218989962
+                    ],
+                    [
+                        "vague",
+                        0.7589284218989962
+                    ],
+                    [
+                        "connection",
+                        0.7589284218989962
+                    ],
+                    [
+                        "actual",
+                        0.7589284218989962
+                    ],
+                    [
+                        "direct",
+                        0.7589284218989962
+                    ],
+                    [
+                        "description",
+                        0.7589284218989962
+                    ],
+                    [
+                        "computer",
+                        0.7589284218989962
+                    ],
+                    [
+                        "card",
+                        0.7794397029159198
+                    ],
+                    [
+                        "worth",
+                        0.8119256082899995
+                    ],
+                    [
+                        "way",
+                        0.8119256082899995
+                    ],
+                    [
+                        "meaningful",
+                        0.8119256082899995
+                    ],
+                    [
+                        "credit",
+                        0.8119256082899995
+                    ],
+                    [
+                        "hood",
+                        0.825722681670752
+                    ],
+                    [
+                        "cryptography",
+                        0.8288245713957684
+                    ],
+                    [
+                        "user",
+                        0.8399130492451695
+                    ],
+                    [
+                        "friendly",
+                        0.8399130492451695
+                    ],
+                    [
+                        "application",
+                        0.8399130492451695
+                    ],
+                    [
+                        "minute",
+                        0.8403253704101482
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Bob",
+                        0.40948636630795654
+                    ],
+                    [
+                        "ledger",
+                        0.4201071345584156
+                    ],
+                    [
+                        "Charlie",
+                        0.6625054565196433
+                    ],
+                    [
+                        "way",
+                        0.8119256082899995
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-180": {
+            "id": "bBC-nXj3Ng4-180",
+            "heat": 0.276,
+            "start": 180.0,
+            "text": " go and just add new lines. At the end of every month, you all look through the list of transactions and tally everything up. If you\u2019ve spent more than you received, you put that money into the pot, and if you\u2019ve received more than you spent, you take that much money out. So the protocol for being part of this system looks something like this: Anyone can add lines to the ledger, and at the end of every month everyone gets together to settles up with real money. One problem with a public ledger like this is that when anyone can add a line, what\u2019s to prevent Bob from going in and writing \u201cAlice pays Bob $100\u201d without Alice approving? How are we supposed to trust that all these transactions are what the sender meant for them to be? This is where the first bit of cryptography comes in: Digital signatures. Like a handwritten signature, the idea here is that Alice should be able to add something next to a transaction that proves that she has seen it, and approved of it. And it should be infeasible for anyone else to forge her signature. At first it might seem like digital signatures shouldn\u2019t even be possible, since whatever data makes up the signature can just be read and copied by any computer, so how do you prevent forgeries? The way this works is that everyone generates what\u2019s called a public key/private key pair, each of which looks like some string of bits. The private key is sometimes also called the \u201csecret\u201d key, so that we can abbreviate it to sk while abbreviating the public key as pk.",
+            "metrics": {
+                "relativeDCReadability": 0.9134141575228538,
+                "lexicalDiversity": 0.4879725085910653,
+                "posComposition": {
+                    "VB": 0.062,
+                    "CC": 0.027,
+                    "RB": 0.034,
+                    "JJ": 0.072,
+                    "NNS": 0.034,
+                    "IN": 0.155,
+                    "DT": 0.11,
+                    "NN": 0.165,
+                    "PRP": 0.058,
+                    "VBP": 0.034,
+                    "RP": 0.01,
+                    "JJR": 0.007,
+                    "VBD": 0.024,
+                    "VBG": 0.017,
+                    "VBZ": 0.048,
+                    "MD": 0.024,
+                    "TO": 0.031,
+                    "CD": 0.007,
+                    "WRB": 0.014,
+                    "WP": 0.01,
+                    "NNP": 0.027,
+                    "PDT": 0.003,
+                    "WDT": 0.01,
+                    "VBN": 0.01,
+                    "PRP$": 0.003
+                },
+                "syllableRate": 3.333,
+                "topicScores": [
+                    [
+                        "Alice",
+                        0.31836169089143945
+                    ],
+                    [
+                        "key",
+                        0.3422768436909782
+                    ],
+                    [
+                        "signature",
+                        0.3443993592301801
+                    ],
+                    [
+                        "Bob",
+                        0.4091625808912922
+                    ],
+                    [
+                        "line",
+                        0.41175312887588783
+                    ],
+                    [
+                        "money",
+                        0.4246399189908313
+                    ],
+                    [
+                        "public",
+                        0.4379947885915742
+                    ],
+                    [
+                        "transaction",
+                        0.4448621302043857
+                    ],
+                    [
+                        "end",
+                        0.5051374979592196
+                    ],
+                    [
+                        "month",
+                        0.523242986003196
+                    ],
+                    [
+                        "ledger",
+                        0.5525523983307945
+                    ],
+                    [
+                        "private",
+                        0.5542227556411854
+                    ],
+                    [
+                        "bit",
+                        0.5590188810487333
+                    ],
+                    [
+                        "Digital",
+                        0.6366748721635694
+                    ],
+                    [
+                        "new",
+                        0.8410209456082522
+                    ],
+                    [
+                        "list",
+                        0.8769048461396369
+                    ],
+                    [
+                        "pot",
+                        0.8787620993992343
+                    ],
+                    [
+                        "real",
+                        0.8873636981478615
+                    ],
+                    [
+                        "forgery",
+                        0.8888205949225996
+                    ],
+                    [
+                        "pk",
+                        0.8927749335701985
+                    ],
+                    [
+                        "problem",
+                        0.8934432254441788
+                    ],
+                    [
+                        "protocol",
+                        0.8972169702934123
+                    ],
+                    [
+                        "system",
+                        0.8972169702934123
+                    ],
+                    [
+                        "settle",
+                        0.8972169702934123
+                    ],
+                    [
+                        "secret",
+                        0.9032370878483591
+                    ],
+                    [
+                        "handwritten",
+                        0.9045088551963777
+                    ],
+                    [
+                        "idea",
+                        0.9045088551963777
+                    ],
+                    [
+                        "sender",
+                        0.907032191681422
+                    ],
+                    [
+                        "possible",
+                        0.90897649958926
+                    ],
+                    [
+                        "computer",
+                        0.90897649958926
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Alice",
+                        0.31836169089143945
+                    ],
+                    [
+                        "key",
+                        0.3422768436909782
+                    ],
+                    [
+                        "signature",
+                        0.3443993592301801
+                    ],
+                    [
+                        "Bob",
+                        0.4091625808912922
+                    ],
+                    [
+                        "money",
+                        0.4246399189908313
+                    ],
+                    [
+                        "public",
+                        0.4379947885915742
+                    ],
+                    [
+                        "transaction",
+                        0.4448621302043857
+                    ],
+                    [
+                        "ledger",
+                        0.5525523983307945
+                    ],
+                    [
+                        "new",
+                        0.8410209456082522
+                    ],
+                    [
+                        "protocol",
+                        0.8972169702934123
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-270": {
+            "id": "bBC-nXj3Ng4-270",
+            "heat": 0.27,
+            "start": 270.0,
+            "text": " As the names suggest, the secret key is something you should keep to yourself. In the real world, your handwritten signature looks the same no matter what document you\u2019re signing. A digital signatures is much stronger, because it changes for different messages. It looks like a string of 1\u2019s and 0\u2019s, commonly something like 256 bits, and altering the message even slightly completely changes what your signature on that message should look like. Formally, producing a signature involves some function that depends both on the message itself, and on your private key. The private key ensures that only you can produce the signature, and the fact that it depends on the message means no one can just copy one of your signatures to forge it on another message. Hand-in-hand with this is a function to verify that a signature is valid, and this is where the public key comes into play. All it does it output true or false to indicate if this was a signature created by the private key associated with the public key you use for the verification. I won\u2019t go into the details how how exactly these functions work, but the idea is that it should be completely infeasible to find a valid signature if you don\u2019t know the secret key. Specifically there is no strategy better than just guessing and checking if random signatures are valid using the public key until you hit one that works.",
+            "metrics": {
+                "relativeDCReadability": 1.021763583706689,
+                "lexicalDiversity": 0.4820717131474104,
+                "posComposition": {
+                    "IN": 0.12,
+                    "DT": 0.139,
+                    "NNS": 0.036,
+                    "VBP": 0.036,
+                    "JJ": 0.092,
+                    "NN": 0.155,
+                    "VBZ": 0.076,
+                    "PRP": 0.064,
+                    "MD": 0.02,
+                    "VB": 0.04,
+                    "TO": 0.02,
+                    "PRP$": 0.016,
+                    "WP": 0.008,
+                    "VBG": 0.024,
+                    "NNP": 0.016,
+                    "RB": 0.04,
+                    "JJR": 0.008,
+                    "CD": 0.02,
+                    "CC": 0.032,
+                    "WRB": 0.012,
+                    "PDT": 0.004,
+                    "VBD": 0.008,
+                    "VBN": 0.008,
+                    "EX": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 3.1,
+                "topicScores": [
+                    [
+                        "signature",
+                        0.24418348963743053
+                    ],
+                    [
+                        "key",
+                        0.24635487519134888
+                    ],
+                    [
+                        "message",
+                        0.28502022768774915
+                    ],
+                    [
+                        "private",
+                        0.39977104140521846
+                    ],
+                    [
+                        "public",
+                        0.4102978190239418
+                    ],
+                    [
+                        "valid",
+                        0.4201539280714726
+                    ],
+                    [
+                        "function",
+                        0.42767449329816654
+                    ],
+                    [
+                        "secret",
+                        0.5032551995180753
+                    ],
+                    [
+                        "hand",
+                        0.5367294423710849
+                    ],
+                    [
+                        "name",
+                        0.7535801440014971
+                    ],
+                    [
+                        "real",
+                        0.8215077451476905
+                    ],
+                    [
+                        "world",
+                        0.8215077451476905
+                    ],
+                    [
+                        "handwritten",
+                        0.8215077451476905
+                    ],
+                    [
+                        "private key",
+                        0.8311452245681006
+                    ],
+                    [
+                        "document",
+                        0.833649408773082
+                    ],
+                    [
+                        "digital",
+                        0.8483356201632744
+                    ],
+                    [
+                        "strong",
+                        0.8483356201632744
+                    ],
+                    [
+                        "different",
+                        0.8483356201632744
+                    ],
+                    [
+                        "bit",
+                        0.8631273749113144
+                    ],
+                    [
+                        "play",
+                        0.8646132220610248
+                    ],
+                    [
+                        "verification",
+                        0.8692042787469517
+                    ],
+                    [
+                        "detail",
+                        0.8874697950705739
+                    ],
+                    [
+                        "fact",
+                        0.8881792196570666
+                    ],
+                    [
+                        "public key",
+                        0.8920785335373328
+                    ],
+                    [
+                        "true",
+                        0.8966926124148615
+                    ],
+                    [
+                        "false",
+                        0.8966926124148615
+                    ],
+                    [
+                        "idea",
+                        0.8997301519842581
+                    ],
+                    [
+                        "infeasible",
+                        0.8997301519842581
+                    ],
+                    [
+                        "strategy",
+                        0.9022558287495307
+                    ],
+                    [
+                        "random",
+                        0.9022558287495307
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "signature",
+                        0.24418348963743053
+                    ],
+                    [
+                        "key",
+                        0.24635487519134888
+                    ],
+                    [
+                        "message",
+                        0.28502022768774915
+                    ],
+                    [
+                        "public",
+                        0.4102978190239418
+                    ],
+                    [
+                        "function",
+                        0.42767449329816654
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-360": {
+            "id": "bBC-nXj3Ng4-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " There are 2^{256} possible signatures with 256 bits, and you\u2019d need to find the one that work. This is a stupidly large number. To call it astronomically large would be giving way to much credit to astronomy. In fact, I made a supplemental video devoted just to illustrating what a huge number this is. Let\u2019s just say that when you verify a signature against a given message and public key, you can feel extremely confident that the only way someone could have produced it is if they knew the secret key associated with the public key. There\u2019s one slight problem here: If Alice signs a transaction like \u201cAlice pays Bob $100\u201d, even though Bob can\u2019t forge Alice\u2019s signature on new messages, he could just copy that same line as many times as he wants, since the message/signature combination is valid. To get around that, we make it so that when you sign a transaction, the message has to include some unique id associated with that transaction. That way, if Alice pays Bob $100 multiple times, each transaction requires a completely new signature. Alright, great, digital signatures remove a huge aspect of trust in our initial protocol. But even still, this relies on an honors system of sorts. Namely, you\u2019re trusting that everyone will actually follow through and settle up in cash",
+            "metrics": {
+                "relativeDCReadability": 1.0592284705824913,
+                "lexicalDiversity": 0.5677966101694916,
+                "posComposition": {
+                    "EX": 0.008,
+                    "VBP": 0.025,
+                    "CD": 0.025,
+                    "JJ": 0.106,
+                    "NNS": 0.042,
+                    "IN": 0.11,
+                    "CC": 0.017,
+                    "PRP": 0.055,
+                    "NN": 0.153,
+                    "TO": 0.03,
+                    "VB": 0.068,
+                    "DT": 0.106,
+                    "WDT": 0.004,
+                    "VBZ": 0.047,
+                    "RB": 0.055,
+                    "MD": 0.025,
+                    "VBG": 0.013,
+                    "VBD": 0.008,
+                    "VBN": 0.021,
+                    "WP": 0.004,
+                    "NNP": 0.055,
+                    "WRB": 0.008,
+                    "JJR": 0.004,
+                    "PRP$": 0.004,
+                    "RP": 0.004
+                },
+                "syllableRate": 2.95,
+                "topicScores": [
+                    [
+                        "Alice",
+                        0.2591087759121716
+                    ],
+                    [
+                        "Bob",
+                        0.2989571438155544
+                    ],
+                    [
+                        "signature",
+                        0.3122477923377381
+                    ],
+                    [
+                        "transaction",
+                        0.3640276997923156
+                    ],
+                    [
+                        "message",
+                        0.3734036627614087
+                    ],
+                    [
+                        "key",
+                        0.42363438614479987
+                    ],
+                    [
+                        "way",
+                        0.4316441337861246
+                    ],
+                    [
+                        "large",
+                        0.5226365548423071
+                    ],
+                    [
+                        "number",
+                        0.52282858588745
+                    ],
+                    [
+                        "public",
+                        0.5364645382639167
+                    ],
+                    [
+                        "new",
+                        0.5481718970402896
+                    ],
+                    [
+                        "huge",
+                        0.5494665839721461
+                    ],
+                    [
+                        "time",
+                        0.5538676386470988
+                    ],
+                    [
+                        "trust",
+                        0.5652272346326991
+                    ],
+                    [
+                        "work",
+                        0.7262829201168068
+                    ],
+                    [
+                        "possible",
+                        0.7682214928254426
+                    ],
+                    [
+                        "bit",
+                        0.7682214928254426
+                    ],
+                    [
+                        "astronomy",
+                        0.8291552752361576
+                    ],
+                    [
+                        "fact",
+                        0.8598294801453572
+                    ],
+                    [
+                        "valid",
+                        0.8635628911064006
+                    ],
+                    [
+                        "credit",
+                        0.8704214432904918
+                    ],
+                    [
+                        "protocol",
+                        0.877305384887023
+                    ],
+                    [
+                        "sort",
+                        0.8803207796199313
+                    ],
+                    [
+                        "cash",
+                        0.8828809706612565
+                    ],
+                    [
+                        "supplemental",
+                        0.8833553521413025
+                    ],
+                    [
+                        "video",
+                        0.8833553521413025
+                    ],
+                    [
+                        "problem",
+                        0.8877193624617091
+                    ],
+                    [
+                        "combination",
+                        0.8877193624617091
+                    ],
+                    [
+                        "great",
+                        0.8890894186549274
+                    ],
+                    [
+                        "confident",
+                        0.8916712412682555
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "Alice",
+                        0.2591087759121716
+                    ],
+                    [
+                        "Bob",
+                        0.2989571438155544
+                    ],
+                    [
+                        "signature",
+                        0.3122477923377381
+                    ],
+                    [
+                        "transaction",
+                        0.3640276997923156
+                    ],
+                    [
+                        "message",
+                        0.3734036627614087
+                    ],
+                    [
+                        "key",
+                        0.42363438614479987
+                    ],
+                    [
+                        "way",
+                        0.4316441337861246
+                    ],
+                    [
+                        "number",
+                        0.52282858588745
+                    ],
+                    [
+                        "public",
+                        0.5364645382639167
+                    ],
+                    [
+                        "new",
+                        0.5481718970402896
+                    ],
+                    [
+                        "trust",
+                        0.5652272346326991
+                    ],
+                    [
+                        "work",
+                        0.7262829201168068
+                    ],
+                    [
+                        "protocol",
+                        0.877305384887023
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-450": {
+            "id": "bBC-nXj3Ng4-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " at the end of each month. But what if, for example, Charlie racked up thousands of dollars in debt, and just refuses to show up? The only real reason to revert to cash to settle up is if some people, I\u2019m looking at you Charlie, owe a lot of money. So maybe you have the clever idea that you never actually have to settle up in cash as long as you have some way to prevent people from spending too much more than they take in. What you might do is start by having everyone pay $100 into the pot, and have the first few lines of the ledger will read \u201cAlice gets $100, Bob gets $100, etc. Now, just don\u2019t accept transactions when someone is spending more than they have on the ledger. For example, after starting everyone off with $100, if the first two transaction are \u201cCharlie pays Alice $50\u201d and \u201cCharlie pay Bob $50\u201d, if he were to try to add \u201cCharlie pays You $20\u201d, that would be invalid, as invalid as if he never signed it. Notice, this means you need to know the full history of transactions to verify that a new one is valid. And this is, more or less, going to be true for cryptocurrencies as well, though there is a little room for optimization. What\u2019s interesting here is that this step somewhat removes the connection between the Ledger and physical cash. In theory, if everyone in the world used this Ledger, you could live your whole life just",
+            "metrics": {
+                "relativeDCReadability": 0.9188079868248786,
+                "lexicalDiversity": 0.4795539033457249,
+                "posComposition": {
+                    "IN": 0.141,
+                    "DT": 0.082,
+                    "NN": 0.138,
+                    "CC": 0.026,
+                    "WP": 0.011,
+                    "NNP": 0.059,
+                    "VBD": 0.015,
+                    "RP": 0.015,
+                    "NNS": 0.037,
+                    "RB": 0.063,
+                    "TO": 0.041,
+                    "VB": 0.059,
+                    "JJ": 0.063,
+                    "VBZ": 0.052,
+                    "PRP": 0.052,
+                    "VBP": 0.037,
+                    "VBG": 0.026,
+                    "JJR": 0.007,
+                    "MD": 0.015,
+                    "CD": 0.033,
+                    "WRB": 0.004,
+                    "WDT": 0.004,
+                    "RBR": 0.007,
+                    "EX": 0.004,
+                    "VBN": 0.004,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 3.008,
+                "topicScores": [
+                    [
+                        "Charlie",
+                        0.21204467829966434
+                    ],
+                    [
+                        "Alice",
+                        0.3658986152925171
+                    ],
+                    [
+                        "Bob",
+                        0.3658986152925171
+                    ],
+                    [
+                        "Ledger",
+                        0.39972344227672835
+                    ],
+                    [
+                        "cash",
+                        0.4203546163012489
+                    ],
+                    [
+                        "transaction",
+                        0.42823333858490875
+                    ],
+                    [
+                        "example",
+                        0.49964012949158276
+                    ],
+                    [
+                        "people",
+                        0.5240100590334296
+                    ],
+                    [
+                        "invalid",
+                        0.5423557114211673
+                    ],
+                    [
+                        "month",
+                        0.7341383675628341
+                    ],
+                    [
+                        "end",
+                        0.7791855019400873
+                    ],
+                    [
+                        "debt",
+                        0.8307964427307516
+                    ],
+                    [
+                        "money",
+                        0.8347301973709746
+                    ],
+                    [
+                        "thousand",
+                        0.8415389884583009
+                    ],
+                    [
+                        "dollar",
+                        0.8415389884583009
+                    ],
+                    [
+                        "real",
+                        0.8658477683747517
+                    ],
+                    [
+                        "reason",
+                        0.8658477683747517
+                    ],
+                    [
+                        "lot",
+                        0.8658477683747517
+                    ],
+                    [
+                        "Notice",
+                        0.8681734458072099
+                    ],
+                    [
+                        "clever",
+                        0.8791748285897646
+                    ],
+                    [
+                        "idea",
+                        0.8791748285897646
+                    ],
+                    [
+                        "way",
+                        0.8791748285897646
+                    ],
+                    [
+                        "pot",
+                        0.8796933100943837
+                    ],
+                    [
+                        "optimization",
+                        0.8815335844086182
+                    ],
+                    [
+                        "line",
+                        0.8877508853821595
+                    ],
+                    [
+                        "theory",
+                        0.8952002234112136
+                    ],
+                    [
+                        "physical",
+                        0.9004389632701425
+                    ],
+                    [
+                        "history",
+                        0.9019439046056044
+                    ],
+                    [
+                        "new",
+                        0.9019439046056044
+                    ],
+                    [
+                        "life",
+                        0.9026163927213353
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "Charlie",
+                        0.21204467829966434
+                    ],
+                    [
+                        "Alice",
+                        0.3658986152925171
+                    ],
+                    [
+                        "Bob",
+                        0.3658986152925171
+                    ],
+                    [
+                        "transaction",
+                        0.42823333858490875
+                    ],
+                    [
+                        "money",
+                        0.8347301973709746
+                    ],
+                    [
+                        "way",
+                        0.8791748285897646
+                    ],
+                    [
+                        "new",
+                        0.9019439046056044
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-540": {
+            "id": "bBC-nXj3Ng4-540",
+            "heat": 0.138,
+            "start": 540.0,
+            "text": " sending and receiving money on this ledger without ever converting to real US. To emphasize this point, let\u2019s start referring to quantities on the ledger as \u201cLedgerDollars\u201d, or LD for short. You\u2019re of course free to exchange LedgerDollars for real US dollars, for example maybe Alice gives Bob a $10 bill in the real world in exchange for him adding and signing the transaction \u201cBob pays Alice 10 LedgerDollars\u201d to the communal ledger. But exchanges like this are not guaranteed in the protocol. It\u2019s now more analogous to how you might exchange Dollars for Euros or any other currency on the open market, it\u2019s just its own independent thing. This is the first important thing to understand about Bitcoin, or any other cryptocurrency: What it is is a ledger; the history of transactions is the currency. Of course, with Bitcoin money doesn\u2019t enter the Ledger with people buying into using cash, I\u2019ll get to how new money enters the ledger in just a few minutes. Before that, there\u2019s an even more significant difference between our current system of LedgerDollars how cryptocurrencies works. So far, I\u2019ve said that this ledger is some public place, like a website where anyone can add new lines. But this requires trusting a central location. Namely, who hosts that website? Who controls the rules of adding new lines? To remove that bit of trust, we\u2019ll have everyone keep their own copy of the ledger.",
+            "metrics": {
+                "relativeDCReadability": 1.0507846218511163,
+                "lexicalDiversity": 0.5230769230769231,
+                "posComposition": {
+                    "NN": 0.165,
+                    "CC": 0.027,
+                    "VBG": 0.035,
+                    "IN": 0.119,
+                    "DT": 0.115,
+                    "RB": 0.038,
+                    "TO": 0.035,
+                    "JJ": 0.1,
+                    "NNP": 0.088,
+                    "VB": 0.035,
+                    "NNS": 0.05,
+                    "PRP": 0.035,
+                    "VBP": 0.027,
+                    "VBZ": 0.054,
+                    "CD": 0.008,
+                    "VBN": 0.004,
+                    "RBR": 0.008,
+                    "WRB": 0.015,
+                    "MD": 0.008,
+                    "PRP$": 0.012,
+                    "WP": 0.008,
+                    "JJR": 0.004,
+                    "EX": 0.004,
+                    "VBD": 0.008
+                },
+                "syllableRate": 3.25,
+                "topicScores": [
+                    [
+                        "ledger",
+                        0.28765912575488345
+                    ],
+                    [
+                        "Bob",
+                        0.3669615427337519
+                    ],
+                    [
+                        "exchange",
+                        0.3712695265966839
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.3725703883356088
+                    ],
+                    [
+                        "Alice",
+                        0.37454229069047396
+                    ],
+                    [
+                        "real",
+                        0.4179032830364359
+                    ],
+                    [
+                        "new",
+                        0.43339381829777596
+                    ],
+                    [
+                        "dollar",
+                        0.4357817257222192
+                    ],
+                    [
+                        "money",
+                        0.446555689540015
+                    ],
+                    [
+                        "line",
+                        0.5018323942538536
+                    ],
+                    [
+                        "course",
+                        0.5341139819589181
+                    ],
+                    [
+                        "currency",
+                        0.5482273950458391
+                    ],
+                    [
+                        "thing",
+                        0.5482273950458391
+                    ],
+                    [
+                        "transaction",
+                        0.5491985674229124
+                    ],
+                    [
+                        "website",
+                        0.5602879389553556
+                    ],
+                    [
+                        "trust",
+                        0.5675153942409346
+                    ],
+                    [
+                        "Bitcoin",
+                        0.6348044625058704
+                    ],
+                    [
+                        "Euros",
+                        0.6354433674545037
+                    ],
+                    [
+                        "short",
+                        0.8064858359006958
+                    ],
+                    [
+                        "point",
+                        0.8406271369030249
+                    ],
+                    [
+                        "protocol",
+                        0.8509727582120983
+                    ],
+                    [
+                        "quantity",
+                        0.8545864778119316
+                    ],
+                    [
+                        "communal",
+                        0.8650533685918695
+                    ],
+                    [
+                        "example",
+                        0.8650533685918697
+                    ],
+                    [
+                        "minute",
+                        0.874003426906372
+                    ],
+                    [
+                        "free",
+                        0.8771858090120134
+                    ],
+                    [
+                        "bill",
+                        0.8771858090120134
+                    ],
+                    [
+                        "world",
+                        0.8771858090120134
+                    ],
+                    [
+                        "location",
+                        0.8847462618143717
+                    ],
+                    [
+                        "open",
+                        0.8870692709572436
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "ledger",
+                        0.28765912575488345
+                    ],
+                    [
+                        "Bob",
+                        0.3669615427337519
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.3725703883356088
+                    ],
+                    [
+                        "Alice",
+                        0.37454229069047396
+                    ],
+                    [
+                        "new",
+                        0.43339381829777596
+                    ],
+                    [
+                        "money",
+                        0.446555689540015
+                    ],
+                    [
+                        "transaction",
+                        0.5491985674229124
+                    ],
+                    [
+                        "trust",
+                        0.5675153942409346
+                    ],
+                    [
+                        "protocol",
+                        0.8509727582120983
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-630": {
+            "id": "bBC-nXj3Ng4-630",
+            "heat": 0.121,
+            "start": 630.0,
+            "text": " Then to make a transaction, like \u201cAlice pays Bob 100 LedgerDollars\u201d, you broadcast into the world for people to hear and record on their own private Ledgers. But unless we do something more, this system would absurdly bad. How can you get everyone to agree on what the right ledger is? When Bob receives the transaction \u201cAlice pays Bob 10 LedgerDollars\u201d, how can he be sure that everyone else received and believes that same transaction? That he\u2019ll be able to later use those 10 LedgerDollars to make a trade with Charlie. Really, imagine yourself just listening to transactions being broadcast. How can you be sure that everyone else is recording the same transactions in the same order? Now we\u2019ve hit on an interesting puzzle: Can you come up with a protocol for how to accept or reject transactions and in what order so that you can feel confident that anyone else in the world following the same protocol has a personal ledger that looks the same as yours? This is the problem addressed in the original Bitcoin paper. At a high level, the solution Bitcoin offers to trust whichever ledger has the most computational work put into it. I\u2019ll take a moment to explain what exactly that means, which involves this thing called a \u201cCryptographic hash function\u201d. The general idea we\u2019ll build to is that if you use computational work as a basis for",
+            "metrics": {
+                "relativeDCReadability": 0.9819769835024654,
+                "lexicalDiversity": 0.49193548387096775,
+                "posComposition": {
+                    "RB": 0.044,
+                    "TO": 0.04,
+                    "VB": 0.069,
+                    "DT": 0.113,
+                    "NN": 0.145,
+                    "IN": 0.113,
+                    "NNP": 0.073,
+                    "VBZ": 0.06,
+                    "CD": 0.012,
+                    "PRP": 0.056,
+                    "VBP": 0.028,
+                    "NNS": 0.024,
+                    "CC": 0.02,
+                    "PRP$": 0.004,
+                    "JJ": 0.093,
+                    "RBR": 0.008,
+                    "MD": 0.02,
+                    "WRB": 0.016,
+                    "WP": 0.012,
+                    "VBD": 0.016,
+                    "VBG": 0.016,
+                    "RP": 0.004,
+                    "WDT": 0.008,
+                    "RBS": 0.004
+                },
+                "syllableRate": 3.042,
+                "topicScores": [
+                    [
+                        "Bob",
+                        0.2642876120324532
+                    ],
+                    [
+                        "transaction",
+                        0.3039281701401573
+                    ],
+                    [
+                        "Alice",
+                        0.30720105192225694
+                    ],
+                    [
+                        "ledger",
+                        0.3397300525501217
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.3867549984077511
+                    ],
+                    [
+                        "bitcoin",
+                        0.4052919149629743
+                    ],
+                    [
+                        "sure",
+                        0.5167009980879954
+                    ],
+                    [
+                        "world",
+                        0.5343658348856684
+                    ],
+                    [
+                        "order",
+                        0.5443333003912963
+                    ],
+                    [
+                        "computational",
+                        0.5548106210637531
+                    ],
+                    [
+                        "work",
+                        0.5548106210637531
+                    ],
+                    [
+                        "protocol",
+                        0.563775717805697
+                    ],
+                    [
+                        "Charlie",
+                        0.5769766010401467
+                    ],
+                    [
+                        "cryptographic",
+                        0.6668800401386457
+                    ],
+                    [
+                        "private",
+                        0.7506462685928175
+                    ],
+                    [
+                        "people",
+                        0.7703337108461257
+                    ],
+                    [
+                        "bad",
+                        0.7816475700494425
+                    ],
+                    [
+                        "system",
+                        0.8191885681421132
+                    ],
+                    [
+                        "right",
+                        0.8598451214245431
+                    ],
+                    [
+                        "paper",
+                        0.865041250754845
+                    ],
+                    [
+                        "function",
+                        0.8710922631648454
+                    ],
+                    [
+                        "able",
+                        0.8825954036392188
+                    ],
+                    [
+                        "trade",
+                        0.8825954036392188
+                    ],
+                    [
+                        "hash",
+                        0.8841059208869043
+                    ],
+                    [
+                        "interesting",
+                        0.8869690556035654
+                    ],
+                    [
+                        "puzzle",
+                        0.8869690556035654
+                    ],
+                    [
+                        "high",
+                        0.8929934095904948
+                    ],
+                    [
+                        "level",
+                        0.8929934095904948
+                    ],
+                    [
+                        "solution",
+                        0.8929934095904948
+                    ],
+                    [
+                        "general",
+                        0.8973160210116018
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "Bob",
+                        0.2642876120324532
+                    ],
+                    [
+                        "transaction",
+                        0.3039281701401573
+                    ],
+                    [
+                        "Alice",
+                        0.30720105192225694
+                    ],
+                    [
+                        "ledger",
+                        0.3397300525501217
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.3867549984077511
+                    ],
+                    [
+                        "bitcoin",
+                        0.4052919149629743
+                    ],
+                    [
+                        "work",
+                        0.5548106210637531
+                    ],
+                    [
+                        "protocol",
+                        0.563775717805697
+                    ],
+                    [
+                        "Charlie",
+                        0.5769766010401467
+                    ],
+                    [
+                        "function",
+                        0.8710922631648454
+                    ],
+                    [
+                        "hash",
+                        0.8841059208869043
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-720": {
+            "id": "bBC-nXj3Ng4-720",
+            "heat": 0.122,
+            "start": 720.0,
+            "text": " what to trust, you can make it so that fraudulent transactions and conflicting ledgers would require an infeasible amount of computation. Again, this is getting well into the weeds beyond what anyone would need to know just to use a currency like this. But it\u2019s a really cool idea, and if you understand it, you understand the heart of bitcoin and other cryptocurrencies. A hash function takes in any kind of message or file, and outputs a string of bits with a fixed length, like 256 bits. This output is called the \u201chash\u201d or \u201cdigest\u201d of the message, and it\u2019s meant to look random. It\u2019s not random; it always gives the same output for a given input. But the idea is that when you slightly change the input, maybe editing just one character, the resulting hash changes completely. In fact, for the hash function I\u2019m showing here, called SHA256, the way that output changes as you slightly change the input is entirely unpredictable. You see, this is not just any hash function, it\u2019s a cryptographic hash function. That means it\u2019s infeasible to compute in the reverse direction. If I show you some specific string of 1\u2019s and 0\u2019s and ask you to find an input message so that the SHA256 hash of that message gives this exact string of bits, you will have no",
+            "metrics": {
+                "relativeDCReadability": 1.10437094111594,
+                "lexicalDiversity": 0.5040983606557377,
+                "posComposition": {
+                    "WP": 0.008,
+                    "TO": 0.025,
+                    "VB": 0.057,
+                    "PRP": 0.078,
+                    "MD": 0.016,
+                    "RB": 0.066,
+                    "IN": 0.102,
+                    "JJ": 0.066,
+                    "NNS": 0.037,
+                    "CC": 0.045,
+                    "VBG": 0.016,
+                    "DT": 0.127,
+                    "NN": 0.18,
+                    "NNP": 0.033,
+                    "VBZ": 0.066,
+                    "VBP": 0.029,
+                    "CD": 0.016,
+                    "VBN": 0.012,
+                    "JJS": 0.004,
+                    "VBD": 0.008,
+                    "WRB": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 2.833,
+                "topicScores": [
+                    [
+                        "hash",
+                        0.28557052359866286
+                    ],
+                    [
+                        "function",
+                        0.3726262893144534
+                    ],
+                    [
+                        "input",
+                        0.3747224289498791
+                    ],
+                    [
+                        "change",
+                        0.3771810706117562
+                    ],
+                    [
+                        "output",
+                        0.37766210174513465
+                    ],
+                    [
+                        "message",
+                        0.3827667834651693
+                    ],
+                    [
+                        "SHA256",
+                        0.4121777936990204
+                    ],
+                    [
+                        "bit",
+                        0.4302156756452951
+                    ],
+                    [
+                        "string",
+                        0.4406734855982548
+                    ],
+                    [
+                        "random",
+                        0.5460710070277995
+                    ],
+                    [
+                        "idea",
+                        0.5554573490811906
+                    ],
+                    [
+                        "infeasible",
+                        0.5619332364285026
+                    ],
+                    [
+                        "computation",
+                        0.8165523392323897
+                    ],
+                    [
+                        "fraudulent",
+                        0.8583269284909975
+                    ],
+                    [
+                        "transaction",
+                        0.8583269284909975
+                    ],
+                    [
+                        "ledger",
+                        0.8583269284909975
+                    ],
+                    [
+                        "cryptocurrencie",
+                        0.8591292997084083
+                    ],
+                    [
+                        "weed",
+                        0.8804262785938018
+                    ],
+                    [
+                        "currency",
+                        0.8804262785938018
+                    ],
+                    [
+                        "cool",
+                        0.8827566641057408
+                    ],
+                    [
+                        "digest",
+                        0.8871402113520522
+                    ],
+                    [
+                        "unpredictable",
+                        0.8885164469036627
+                    ],
+                    [
+                        "file",
+                        0.8911099738533946
+                    ],
+                    [
+                        "length",
+                        0.8911099738533946
+                    ],
+                    [
+                        "heart",
+                        0.8924849049381651
+                    ],
+                    [
+                        "bitcoin",
+                        0.8924849049381651
+                    ],
+                    [
+                        "direction",
+                        0.8936443327624244
+                    ],
+                    [
+                        "fact",
+                        0.898786241070588
+                    ],
+                    [
+                        "kind",
+                        0.9002234421534145
+                    ],
+                    [
+                        "character",
+                        0.9049237504405409
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "hash",
+                        0.28557052359866286
+                    ],
+                    [
+                        "function",
+                        0.3726262893144534
+                    ],
+                    [
+                        "change",
+                        0.3771810706117562
+                    ],
+                    [
+                        "message",
+                        0.3827667834651693
+                    ],
+                    [
+                        "transaction",
+                        0.8583269284909975
+                    ],
+                    [
+                        "ledger",
+                        0.8583269284909975
+                    ],
+                    [
+                        "bitcoin",
+                        0.8924849049381651
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-810": {
+            "id": "bBC-nXj3Ng4-810",
+            "heat": 0.155,
+            "start": 810.0,
+            "text": " better method than to guess and check. Again, if you want a feel for just how much computation would be needed to go through 2256 guesses, take a look at the supplement video. I actually had way too much fun writing that thing. You might think you could reverse engineer the desired input by really digging through the details of how the function works, but no one has ever found a way to do that. Interestingly, there\u2019s no proof that it\u2019s hard to compute in the reverse direction, yet a huge amount of modern security depends on cryptographic hash functions. If you were to take a look at what algorithms underlie the secure connection that your browser is making with YouTube right now, or that it makes with a bank, you will likely see a name like SHA256 in there. For right now, our focus will just be on how such a function can prove that a particular list of transactions is associated with a large amount of computational effort. Imagine someone shows you a list of transactions, and they say \u201cI found a special number so that when you put this number at the end of list of transactions, and apply SHA256 the entire thing, the first 30 bits of the output are zeros\u201d. How hard do you think it was for them to find that number? For a random message, the probability that the hash happens to start with 30 successive",
+            "metrics": {
+                "relativeDCReadability": 0.9843271586426303,
+                "lexicalDiversity": 0.4899598393574297,
+                "posComposition": {
+                    "RBR": 0.004,
+                    "NN": 0.169,
+                    "IN": 0.153,
+                    "TO": 0.028,
+                    "VB": 0.068,
+                    "CC": 0.02,
+                    "NNP": 0.036,
+                    "PRP": 0.06,
+                    "VBP": 0.032,
+                    "DT": 0.116,
+                    "RB": 0.056,
+                    "WRB": 0.016,
+                    "JJ": 0.068,
+                    "MD": 0.024,
+                    "VBN": 0.02,
+                    "CD": 0.012,
+                    "NNS": 0.028,
+                    "VBD": 0.02,
+                    "VBG": 0.012,
+                    "VBZ": 0.036,
+                    "EX": 0.008,
+                    "WP": 0.004,
+                    "PRP$": 0.008
+                },
+                "syllableRate": 2.9,
+                "topicScores": [
+                    [
+                        "transaction",
+                        0.40046959619311046
+                    ],
+                    [
+                        "list",
+                        0.41555129397864365
+                    ],
+                    [
+                        "function",
+                        0.4275700724338691
+                    ],
+                    [
+                        "number",
+                        0.44218262418252885
+                    ],
+                    [
+                        "look",
+                        0.5137043459271402
+                    ],
+                    [
+                        "guess",
+                        0.5163753743723373
+                    ],
+                    [
+                        "thing",
+                        0.5340418882103792
+                    ],
+                    [
+                        "reverse",
+                        0.5434102566307704
+                    ],
+                    [
+                        "way",
+                        0.5441693471188532
+                    ],
+                    [
+                        "hard",
+                        0.5519212042666461
+                    ],
+                    [
+                        "hash",
+                        0.5531101499571374
+                    ],
+                    [
+                        "well",
+                        0.7819007096348347
+                    ],
+                    [
+                        "video",
+                        0.8133289208966811
+                    ],
+                    [
+                        "method",
+                        0.8194082411217013
+                    ],
+                    [
+                        "supplement",
+                        0.8464927114432168
+                    ],
+                    [
+                        "feel",
+                        0.8600238397708748
+                    ],
+                    [
+                        "computation",
+                        0.8600238397708748
+                    ],
+                    [
+                        "effort",
+                        0.8612924307429628
+                    ],
+                    [
+                        "zero",
+                        0.8652143819002784
+                    ],
+                    [
+                        "successive",
+                        0.8712587870683955
+                    ],
+                    [
+                        "direction",
+                        0.8779227069255322
+                    ],
+                    [
+                        "input",
+                        0.8827490678731597
+                    ],
+                    [
+                        "detail",
+                        0.8827490678731597
+                    ],
+                    [
+                        "bank",
+                        0.8830708641575353
+                    ],
+                    [
+                        "focus",
+                        0.8871177275550338
+                    ],
+                    [
+                        "proof",
+                        0.8890465256258918
+                    ],
+                    [
+                        "huge",
+                        0.8890465256258918
+                    ],
+                    [
+                        "modern",
+                        0.8890465256258918
+                    ],
+                    [
+                        "security",
+                        0.8890465256258918
+                    ],
+                    [
+                        "cryptographic",
+                        0.8890465256258918
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "transaction",
+                        0.40046959619311046
+                    ],
+                    [
+                        "function",
+                        0.4275700724338691
+                    ],
+                    [
+                        "number",
+                        0.44218262418252885
+                    ],
+                    [
+                        "look",
+                        0.5137043459271402
+                    ],
+                    [
+                        "way",
+                        0.5441693471188532
+                    ],
+                    [
+                        "hash",
+                        0.5531101499571374
+                    ],
+                    [
+                        "zero",
+                        0.8652143819002784
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-900": {
+            "id": "bBC-nXj3Ng4-900",
+            "heat": 0.129,
+            "start": 900.0,
+            "text": " zeros is 1 in 230, which is about 1 in a billion. Because SHA256 is a cryptographic hash function, the only way to find a special number like this just guessing and checking. So this person almost certainly had to go through about a billion different numbers before finding this special one. And once you know the number, you can quickly verify that this hash really does start with 30 zeros. In other words, you can verify they they went through a large amount of work without having to go through that same effort yourself. This is called a \u201cproof of work\u201d. And importantly, all this work is intrinsically tied to that list of transactions. If you change one of the transactions, even slightly, it would completely change the hash, so you\u2019d have to go through another billion guesses to find a new proof of work, a new number that makes it so that the hash of the altered list together with this new number starts with 30 zeros. So now think back to our distributed ledger situation. Everyone is broadcasting transactions, and we want a way for everyone to agree on what the correct ledger really is. As I said, the core idea behind the original bitcoin paper is to have everybody trust whichever ledger has the most work put into it. The this works is to first organize a given ledger into blocks, where each block consists of a list of transactions, together with a proof of work. That is, a special number so that the hash of the whole block starts with a bunch of",
+            "metrics": {
+                "relativeDCReadability": 0.901239690098052,
+                "lexicalDiversity": 0.4889705882352941,
+                "posComposition": {
+                    "NN": 0.173,
+                    "VBZ": 0.062,
+                    "CD": 0.037,
+                    "IN": 0.151,
+                    "WDT": 0.011,
+                    "DT": 0.143,
+                    "NNP": 0.007,
+                    "JJ": 0.066,
+                    "TO": 0.037,
+                    "VB": 0.044,
+                    "RB": 0.07,
+                    "CC": 0.015,
+                    "VBG": 0.015,
+                    "VBD": 0.015,
+                    "NNS": 0.04,
+                    "PRP": 0.048,
+                    "VBP": 0.022,
+                    "MD": 0.011,
+                    "VBN": 0.011,
+                    "PDT": 0.004,
+                    "PRP$": 0.004,
+                    "JJR": 0.004,
+                    "WP": 0.004,
+                    "RBS": 0.004,
+                    "WRB": 0.004
+                },
+                "syllableRate": 3.192,
+                "topicScores": [
+                    [
+                        "work",
+                        0.2895135767073169
+                    ],
+                    [
+                        "number",
+                        0.31697809100735236
+                    ],
+                    [
+                        "hash",
+                        0.3338600687789592
+                    ],
+                    [
+                        "transaction",
+                        0.37033472668763395
+                    ],
+                    [
+                        "ledger",
+                        0.3938556206731069
+                    ],
+                    [
+                        "zero",
+                        0.39989821403927467
+                    ],
+                    [
+                        "proof",
+                        0.41232147100704847
+                    ],
+                    [
+                        "special",
+                        0.4244822105288412
+                    ],
+                    [
+                        "list",
+                        0.44686208179764336
+                    ],
+                    [
+                        "new",
+                        0.4502680172584495
+                    ],
+                    [
+                        "block",
+                        0.4596061691467172
+                    ],
+                    [
+                        "SHA256",
+                        0.5257116577646092
+                    ],
+                    [
+                        "guess",
+                        0.5640447049564484
+                    ],
+                    [
+                        "way",
+                        0.5676803069832445
+                    ],
+                    [
+                        "function",
+                        0.8581176912599695
+                    ],
+                    [
+                        "cryptographic",
+                        0.87015500232743
+                    ],
+                    [
+                        "person",
+                        0.8906443791730978
+                    ],
+                    [
+                        "different",
+                        0.8906443791730978
+                    ],
+                    [
+                        "situation",
+                        0.8965816134022123
+                    ],
+                    [
+                        "word",
+                        0.9000688778997081
+                    ],
+                    [
+                        "effort",
+                        0.9000688778997081
+                    ],
+                    [
+                        "large",
+                        0.9089247906374425
+                    ],
+                    [
+                        "core",
+                        0.9194650493734357
+                    ],
+                    [
+                        "altered",
+                        0.920679749348517
+                    ],
+                    [
+                        "bunch",
+                        0.9224245796634672
+                    ],
+                    [
+                        "correct",
+                        0.9250591882510776
+                    ],
+                    [
+                        "idea",
+                        0.9267419734835467
+                    ],
+                    [
+                        "original",
+                        0.9267419734835467
+                    ],
+                    [
+                        "bitcoin",
+                        0.9267419734835467
+                    ],
+                    [
+                        "paper",
+                        0.9267419734835467
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "work",
+                        0.2895135767073169
+                    ],
+                    [
+                        "number",
+                        0.31697809100735236
+                    ],
+                    [
+                        "hash",
+                        0.3338600687789592
+                    ],
+                    [
+                        "transaction",
+                        0.37033472668763395
+                    ],
+                    [
+                        "ledger",
+                        0.3938556206731069
+                    ],
+                    [
+                        "zero",
+                        0.39989821403927467
+                    ],
+                    [
+                        "special",
+                        0.4244822105288412
+                    ],
+                    [
+                        "new",
+                        0.4502680172584495
+                    ],
+                    [
+                        "block",
+                        0.4596061691467172
+                    ],
+                    [
+                        "way",
+                        0.5676803069832445
+                    ],
+                    [
+                        "function",
+                        0.8581176912599695
+                    ],
+                    [
+                        "bitcoin",
+                        0.9267419734835467
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-990": {
+            "id": "bBC-nXj3Ng4-990",
+            "heat": 0.245,
+            "start": 990.0,
+            "text": " zeros. For the moment let\u2019s say it has to start with 60 zeros, but later I\u2019ll return back to how you might choose that number. In the same way that a transaction is only considered valid if it is signed by the sender, a block is only considered valid if it has a proof of work. Also, to make sure there is a standard way to order of these blocks, we\u2019ll make it so that a block has to contain the hash of the previous block. That way, if you change any block, or try to swap the order of two blocks, it would change the block after it, which changes that block\u2019s hash, which changes the next block, and so on. That would require redoing all the work, finding a new special number for each of these blocks that makes their hashes start with 60 zeros. Because blocks are chained together like this, instead of calling it a ledger, this is commonly called a \u201cBlockchain\u201d. As part of our updated protocol, we\u2019ll now allow anyone in the world to be a \u201cblock creator\u201d. What this means is that they\u2019ll listen for the transactions being broadcast, collect them into a block, then do a whole bunch of work to find the special number that makes the hash of this block start with 60 zeros, and broadcast out the block they found. To reward a block creator for all this work, when she puts together a block, we\u2019ll allow her to include a special transaction at the top in which she gets, say, 10 LedgerDollars",
+            "metrics": {
+                "relativeDCReadability": 0.9697906993573023,
+                "lexicalDiversity": 0.475177304964539,
+                "posComposition": {
+                    "NN": 0.17,
+                    "IN": 0.135,
+                    "DT": 0.142,
+                    "NNP": 0.014,
+                    "NNS": 0.039,
+                    "VBP": 0.046,
+                    "PRP": 0.064,
+                    "VBZ": 0.057,
+                    "TO": 0.035,
+                    "VB": 0.046,
+                    "CD": 0.018,
+                    "CC": 0.014,
+                    "RB": 0.046,
+                    "JJ": 0.067,
+                    "WRB": 0.007,
+                    "MD": 0.011,
+                    "VBN": 0.021,
+                    "EX": 0.004,
+                    "WDT": 0.018,
+                    "VBG": 0.014,
+                    "PDT": 0.007,
+                    "PRP$": 0.011,
+                    "RBR": 0.004,
+                    "VBD": 0.007,
+                    "WP": 0.004
+                },
+                "syllableRate": 3.017,
+                "topicScores": [
+                    [
+                        "block",
+                        0.207642919452703
+                    ],
+                    [
+                        "zero",
+                        0.3157335369238673
+                    ],
+                    [
+                        "work",
+                        0.35227662928374914
+                    ],
+                    [
+                        "hash",
+                        0.36044867037128053
+                    ],
+                    [
+                        "way",
+                        0.41947898048602417
+                    ],
+                    [
+                        "number",
+                        0.4223988443848597
+                    ],
+                    [
+                        "transaction",
+                        0.42934212606617844
+                    ],
+                    [
+                        "special",
+                        0.43157953499613094
+                    ],
+                    [
+                        "valid",
+                        0.516666569265764
+                    ],
+                    [
+                        "order",
+                        0.5398136881057473
+                    ],
+                    [
+                        "creator",
+                        0.5406455576529153
+                    ],
+                    [
+                        "Blockchain",
+                        0.5935197009001553
+                    ],
+                    [
+                        "moment",
+                        0.8586387943093172
+                    ],
+                    [
+                        "sender",
+                        0.8725348334483795
+                    ],
+                    [
+                        "proof",
+                        0.8806962587585503
+                    ],
+                    [
+                        "previous",
+                        0.8852855951243317
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.8903356151437628
+                    ],
+                    [
+                        "sure",
+                        0.8927309756968009
+                    ],
+                    [
+                        "standard",
+                        0.8927309756968009
+                    ],
+                    [
+                        "ledger",
+                        0.9036141717172357
+                    ],
+                    [
+                        "new",
+                        0.905901692180463
+                    ],
+                    [
+                        "protocol",
+                        0.9070248985639646
+                    ],
+                    [
+                        "world",
+                        0.9131976642838562
+                    ],
+                    [
+                        "bunch",
+                        0.9157954791435599
+                    ],
+                    [
+                        "special number",
+                        1.698898935633607
+                    ],
+                    [
+                        "block creator",
+                        1.8140988003759015
+                    ],
+                    [
+                        "special transaction",
+                        2.863705478555901
+                    ],
+                    [
+                        "standard way",
+                        2.9834885842940597
+                    ],
+                    [
+                        "previous block",
+                        3.283192968413468
+                    ],
+                    [
+                        "new special",
+                        3.5858362127965417
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "block",
+                        0.207642919452703
+                    ],
+                    [
+                        "zero",
+                        0.3157335369238673
+                    ],
+                    [
+                        "work",
+                        0.35227662928374914
+                    ],
+                    [
+                        "hash",
+                        0.36044867037128053
+                    ],
+                    [
+                        "way",
+                        0.41947898048602417
+                    ],
+                    [
+                        "number",
+                        0.4223988443848597
+                    ],
+                    [
+                        "transaction",
+                        0.42934212606617844
+                    ],
+                    [
+                        "special",
+                        0.43157953499613094
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.8903356151437628
+                    ],
+                    [
+                        "ledger",
+                        0.9036141717172357
+                    ],
+                    [
+                        "new",
+                        0.905901692180463
+                    ],
+                    [
+                        "protocol",
+                        0.9070248985639646
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-1080": {
+            "id": "bBC-nXj3Ng4-1080",
+            "heat": 0.282,
+            "start": 1080.0,
+            "text": " out of thin air. This is called the block reward. It\u2019s a special exception to our usual rules about whether or not to accept transactions; it doesn\u2019t come from anyone, so it doesn\u2019t have to be signed. It also means that the total number of LedgerDollars in our economy increases with each new block. Creating blocks is often called \u201cmining\u201d, since it requires a lot of work, and it introduces new bits of currency into the economy. But when you hear or read about miners, keep in mind that what they\u2019re really doing is creating blocks, broadcasting those blocks, and getting rewarded with new money for doing so. From the miners perspective, each block is like a miniature lottery, where everyone is guessing numbers as fast as they can until one lucky individual finds one that makes the hash of the block start with many zeros, and gets rewarded for doing so. The way our protocol will now work for someone using this system is that instead of listening for transactions, you listen for new blocks being broadcast by miners, updating your own personal copy of the blockchain. The key addition is that if you hear of two distinct blockchains with conflicting transaction histories, you defer to the longest one, the one with the most work put into it. If there\u2019s a tie, wait until you hear of an additional block that makes one longer. So even though there is no central authority, and everyone is maintaining their own copy",
+            "metrics": {
+                "relativeDCReadability": 0.9046873421483406,
+                "lexicalDiversity": 0.4961832061068702,
+                "posComposition": {
+                    "IN": 0.164,
+                    "JJ": 0.084,
+                    "NN": 0.145,
+                    "DT": 0.088,
+                    "VBZ": 0.08,
+                    "VBN": 0.027,
+                    "PRP": 0.053,
+                    "TO": 0.015,
+                    "PRP$": 0.019,
+                    "NNS": 0.061,
+                    "CC": 0.027,
+                    "RB": 0.042,
+                    "VB": 0.011,
+                    "VBP": 0.042,
+                    "NNP": 0.015,
+                    "RP": 0.004,
+                    "WRB": 0.008,
+                    "WP": 0.004,
+                    "VBG": 0.05,
+                    "MD": 0.008,
+                    "CD": 0.019,
+                    "WDT": 0.008,
+                    "JJS": 0.004,
+                    "RBS": 0.004,
+                    "VBD": 0.008,
+                    "EX": 0.008,
+                    "JJR": 0.004
+                },
+                "syllableRate": 3.233,
+                "topicScores": [
+                    [
+                        "block",
+                        0.2587910256742623
+                    ],
+                    [
+                        "new",
+                        0.36957982212140544
+                    ],
+                    [
+                        "reward",
+                        0.4228685464097201
+                    ],
+                    [
+                        "transaction",
+                        0.4309570961216519
+                    ],
+                    [
+                        "miner",
+                        0.43185261906921923
+                    ],
+                    [
+                        "work",
+                        0.4398513289201428
+                    ],
+                    [
+                        "economy",
+                        0.5365349304534904
+                    ],
+                    [
+                        "copy",
+                        0.5452919624004225
+                    ],
+                    [
+                        "long",
+                        0.5483609284372473
+                    ],
+                    [
+                        "blockchain",
+                        0.5519553314051794
+                    ],
+                    [
+                        "number",
+                        0.5532424411167267
+                    ],
+                    [
+                        "air",
+                        0.7320564157156513
+                    ],
+                    [
+                        "thin",
+                        0.7713239641599213
+                    ],
+                    [
+                        "mining",
+                        0.8452483165755367
+                    ],
+                    [
+                        "special",
+                        0.8718247779868521
+                    ],
+                    [
+                        "exception",
+                        0.8718247779868521
+                    ],
+                    [
+                        "usual",
+                        0.8718247779868521
+                    ],
+                    [
+                        "rule",
+                        0.8718247779868521
+                    ],
+                    [
+                        "total",
+                        0.8846371776801684
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.8846371776801684
+                    ],
+                    [
+                        "lot",
+                        0.8928727647410345
+                    ],
+                    [
+                        "bit",
+                        0.8928727647410345
+                    ],
+                    [
+                        "currency",
+                        0.8928727647410345
+                    ],
+                    [
+                        "perspective",
+                        0.894173012592004
+                    ],
+                    [
+                        "miniature",
+                        0.894173012592004
+                    ],
+                    [
+                        "lottery",
+                        0.894173012592004
+                    ],
+                    [
+                        "zero",
+                        0.894173012592004
+                    ],
+                    [
+                        "way",
+                        0.8978800700019023
+                    ],
+                    [
+                        "mind",
+                        0.898688889838606
+                    ],
+                    [
+                        "money",
+                        0.898688889838606
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "block",
+                        0.2587910256742623
+                    ],
+                    [
+                        "new",
+                        0.36957982212140544
+                    ],
+                    [
+                        "reward",
+                        0.4228685464097201
+                    ],
+                    [
+                        "transaction",
+                        0.4309570961216519
+                    ],
+                    [
+                        "miner",
+                        0.43185261906921923
+                    ],
+                    [
+                        "work",
+                        0.4398513289201428
+                    ],
+                    [
+                        "number",
+                        0.5532424411167267
+                    ],
+                    [
+                        "special",
+                        0.8718247779868521
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.8846371776801684
+                    ],
+                    [
+                        "zero",
+                        0.894173012592004
+                    ],
+                    [
+                        "way",
+                        0.8978800700019023
+                    ],
+                    [
+                        "money",
+                        0.898688889838606
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-1170": {
+            "id": "bBC-nXj3Ng4-1170",
+            "heat": 0.151,
+            "start": 1170.0,
+            "text": " of the blockchain, if everyone agrees to give preference to whichever blockchain has the most work put into it, we have a way to arrive at decentralized consensus. To see why this makes for a trustworthy system, and to understand at what point you should trust that a payment is legitimate, it\u2019s helpful to walk through what it would take to fool someone in this system. If Alice wants to fool Bob with a fraudulent block, she might try to send him one that includes a her paying him 100 LedgerDollars, but without broadcasting that block to the rest of the network. That way everyone else thinks she still has those 100 LedgerDollars. To do this, she\u2019d have to find a valid proof of work before all other miners, each working on their own block. And that could happen! Maybe Alice wins this miniature lottery before anyone else. But Bob will still be hearing broadcasts made by other miners, so to keep him believing the fraudulent block Alice would have to do all the work herself to keep adding blocks to this special fork in Bob\u2019s blockchain that\u2019s different from what he\u2019s hearing from the rest of the miners. Remember, as per the protocol Bob always trusts the longest chain he knows about. Alice might be able to keep this up for a few blocks if just by chance she happens to find blocks more quickly than all of the rest of the miners on the network combined. But unless Alice has close to 50% of the computing resources among all miners, the probability",
+            "metrics": {
+                "relativeDCReadability": 0.889035084197549,
+                "lexicalDiversity": 0.48175182481751827,
+                "posComposition": {
+                    "IN": 0.131,
+                    "DT": 0.131,
+                    "NN": 0.135,
+                    "VBZ": 0.051,
+                    "TO": 0.069,
+                    "VB": 0.084,
+                    "RBS": 0.004,
+                    "VBD": 0.015,
+                    "PRP": 0.058,
+                    "VBP": 0.007,
+                    "JJ": 0.069,
+                    "WRB": 0.004,
+                    "CC": 0.018,
+                    "WP": 0.011,
+                    "MD": 0.026,
+                    "NNP": 0.044,
+                    "WDT": 0.004,
+                    "PRP$": 0.007,
+                    "VBG": 0.022,
+                    "CD": 0.011,
+                    "NNS": 0.047,
+                    "RB": 0.029,
+                    "VBN": 0.007,
+                    "PDT": 0.004,
+                    "JJS": 0.004,
+                    "RP": 0.004,
+                    "RBR": 0.004
+                },
+                "syllableRate": 3.15,
+                "topicScores": [
+                    [
+                        "Alice",
+                        0.24236330688799657
+                    ],
+                    [
+                        "Bob",
+                        0.2630830818936315
+                    ],
+                    [
+                        "block",
+                        0.283297604188412
+                    ],
+                    [
+                        "miner",
+                        0.30322366738156237
+                    ],
+                    [
+                        "work",
+                        0.35668820282598623
+                    ],
+                    [
+                        "rest",
+                        0.38350957841081856
+                    ],
+                    [
+                        "blockchain",
+                        0.4096596941851783
+                    ],
+                    [
+                        "system",
+                        0.48713328599364936
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.48915963938597345
+                    ],
+                    [
+                        "way",
+                        0.4996665403939508
+                    ],
+                    [
+                        "network",
+                        0.5123853628240819
+                    ],
+                    [
+                        "fraudulent",
+                        0.5197901625751508
+                    ],
+                    [
+                        "broadcast",
+                        0.5353155238794006
+                    ],
+                    [
+                        "consensus",
+                        0.7087977464689652
+                    ],
+                    [
+                        "decentralized",
+                        0.7433731240055695
+                    ],
+                    [
+                        "preference",
+                        0.7586365477429472
+                    ],
+                    [
+                        "trustworthy",
+                        0.8134177284100172
+                    ],
+                    [
+                        "legitimate",
+                        0.8134177284100172
+                    ],
+                    [
+                        "point",
+                        0.8254930825730354
+                    ],
+                    [
+                        "payment",
+                        0.8254930825730354
+                    ],
+                    [
+                        "helpful",
+                        0.8254930825730354
+                    ],
+                    [
+                        "probability",
+                        0.8630275901863456
+                    ],
+                    [
+                        "valid",
+                        0.8756932182944392
+                    ],
+                    [
+                        "proof",
+                        0.8756932182944392
+                    ],
+                    [
+                        "miniature",
+                        0.8873056738567467
+                    ],
+                    [
+                        "lottery",
+                        0.8873056738567467
+                    ],
+                    [
+                        "special",
+                        0.8912240261837353
+                    ],
+                    [
+                        "fork",
+                        0.8912240261837353
+                    ],
+                    [
+                        "different",
+                        0.8912240261837353
+                    ],
+                    [
+                        "protocol",
+                        0.8944034229081366
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Alice",
+                        0.24236330688799657
+                    ],
+                    [
+                        "Bob",
+                        0.2630830818936315
+                    ],
+                    [
+                        "block",
+                        0.283297604188412
+                    ],
+                    [
+                        "miner",
+                        0.30322366738156237
+                    ],
+                    [
+                        "work",
+                        0.35668820282598623
+                    ],
+                    [
+                        "LedgerDollars",
+                        0.48915963938597345
+                    ],
+                    [
+                        "way",
+                        0.4996665403939508
+                    ],
+                    [
+                        "broadcast",
+                        0.5353155238794006
+                    ],
+                    [
+                        "special",
+                        0.8912240261837353
+                    ],
+                    [
+                        "protocol",
+                        0.8944034229081366
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-1260": {
+            "id": "bBC-nXj3Ng4-1260",
+            "heat": 0.426,
+            "start": 1260.0,
+            "text": " becomes overwhelming that the blockchain that all the other miners are working on grows faster than the single fraudulent blockchain that Alice is feeding Bob. So in time Bob will reject what he\u2019s hearing from Alice in favor of the longer chain that everyone else is working on. Notice that means you shouldn\u2019t necessarily trust a new block that you hear immediately. Instead, you should wait for several new blocks to be added on top of it. If you still haven\u2019t heard of any longer blockchains, you can trust that this block is part of the same chain everyone else is using. And with that, we\u2019ve hit all the main ideas. This distributed ledger system based on a proof of work is more or less how the Bitcoin protocol works, and how many other cryptocurrencies work. There\u2019s just a few details to clear up. Earlier I said that the proof of work might be to find a special number so that the hash of the block starts with 60 zeros. The way the actual bitcoin protocol works is to periodically change that number of zeros so that it should take, on average, 10 minutes to find a block. So as there are more and more miners on the network, the challenge gets harder and harder in such a way that this miniature lottery only has about one winner every 10 minutes. Many newer cryptocurrencies have much shorter block times. All of the money in Bitcoin ultimately comes from some block reward.",
+            "metrics": {
+                "relativeDCReadability": 0.9614619696909684,
+                "lexicalDiversity": 0.4904214559386973,
+                "posComposition": {
+                    "NNS": 0.061,
+                    "VBG": 0.019,
+                    "IN": 0.161,
+                    "DT": 0.111,
+                    "NN": 0.165,
+                    "PDT": 0.011,
+                    "JJ": 0.077,
+                    "VBP": 0.027,
+                    "RBR": 0.015,
+                    "NNP": 0.038,
+                    "VBZ": 0.05,
+                    "MD": 0.019,
+                    "VB": 0.046,
+                    "WP": 0.004,
+                    "PRP": 0.038,
+                    "VBD": 0.008,
+                    "RB": 0.042,
+                    "TO": 0.019,
+                    "VBN": 0.011,
+                    "JJR": 0.023,
+                    "CC": 0.019,
+                    "WRB": 0.008,
+                    "EX": 0.008,
+                    "RP": 0.004,
+                    "CD": 0.015
+                },
+                "syllableRate": 3.083,
+                "topicScores": [
+                    [
+                        "work",
+                        0.28018146898655916
+                    ],
+                    [
+                        "block",
+                        0.29450674402269883
+                    ],
+                    [
+                        "Bob",
+                        0.33160274194107303
+                    ],
+                    [
+                        "Alice",
+                        0.3465972502031225
+                    ],
+                    [
+                        "blockchain",
+                        0.42119726787974326
+                    ],
+                    [
+                        "new",
+                        0.43467324676729113
+                    ],
+                    [
+                        "bitcoin",
+                        0.4498499727450073
+                    ],
+                    [
+                        "long",
+                        0.5333768987862749
+                    ],
+                    [
+                        "protocol",
+                        0.541064775932664
+                    ],
+                    [
+                        "minute",
+                        0.5414471728489906
+                    ],
+                    [
+                        "proof",
+                        0.5474164647269124
+                    ],
+                    [
+                        "time",
+                        0.5508627929126855
+                    ],
+                    [
+                        "cryptocurrencie",
+                        0.553197111824779
+                    ],
+                    [
+                        "zero",
+                        0.5559093108337809
+                    ],
+                    [
+                        "miner",
+                        0.5585071950915127
+                    ],
+                    [
+                        "way",
+                        0.5623565318027143
+                    ],
+                    [
+                        "number",
+                        0.5655019595196583
+                    ],
+                    [
+                        "hard",
+                        0.5733273890200125
+                    ],
+                    [
+                        "overwhelming",
+                        0.8356475468210977
+                    ],
+                    [
+                        "time Bob",
+                        0.8480203889389965
+                    ],
+                    [
+                        "single",
+                        0.8486143169723054
+                    ],
+                    [
+                        "fraudulent",
+                        0.8486143169723054
+                    ],
+                    [
+                        "notice",
+                        0.8494620484049619
+                    ],
+                    [
+                        "favor",
+                        0.8720027903404579
+                    ],
+                    [
+                        "idea",
+                        0.8726912549205056
+                    ],
+                    [
+                        "reward",
+                        0.8917381641153423
+                    ],
+                    [
+                        "main",
+                        0.8943237494249813
+                    ],
+                    [
+                        "average",
+                        0.8965035119696005
+                    ],
+                    [
+                        "ledger",
+                        0.9066214110857342
+                    ],
+                    [
+                        "system",
+                        0.9066214110857342
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "work",
+                        0.28018146898655916
+                    ],
+                    [
+                        "block",
+                        0.29450674402269883
+                    ],
+                    [
+                        "Bob",
+                        0.33160274194107303
+                    ],
+                    [
+                        "Alice",
+                        0.3465972502031225
+                    ],
+                    [
+                        "new",
+                        0.43467324676729113
+                    ],
+                    [
+                        "bitcoin",
+                        0.4498499727450073
+                    ],
+                    [
+                        "protocol",
+                        0.541064775932664
+                    ],
+                    [
+                        "zero",
+                        0.5559093108337809
+                    ],
+                    [
+                        "miner",
+                        0.5585071950915127
+                    ],
+                    [
+                        "way",
+                        0.5623565318027143
+                    ],
+                    [
+                        "number",
+                        0.5655019595196583
+                    ],
+                    [
+                        "reward",
+                        0.8917381641153423
+                    ],
+                    [
+                        "ledger",
+                        0.9066214110857342
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-1350": {
+            "id": "bBC-nXj3Ng4-1350",
+            "heat": 0.195,
+            "start": 1350.0,
+            "text": " These rewards 50 Bitcoin per block. There\u2019s a great site called \u201cblock explorer\u201d where you can look through the bitcoin blockchain, and if you look at the very first few blocks on the chain, they contain no transactions other than the 50 Bitcoin reward to the miner. Every 210,000 blocks, which is about every 4 years, that reward gets cut in half. So right now, the reward is at 12.5 Bitcoin per block, and because this reward decreases geometrically over time, there will never be more than 21 million bitcoin in existence. However, this doesn\u2019t mean miners will stop earning money. In addition to the block reward, miners can also pick up transactions fees. The way this works is that whenever you make a payment, you can optionally include a small transaction fee with it that will go to the miner of whatever block includes that payment. The reason you might do this is to incentivize miners to actually include the transaction you broadcast into the next block. You see, in Bitcoin, each block is limited to about 2,400 transactions, which many critics argue is unnecessarily restrictive. For comparison, Visa processes an average of around 1,700 transactions per second, and they\u2019re capable of handling more than 24,000 per second.Slower processing on Bitcoin means",
+            "metrics": {
+                "relativeDCReadability": 1.0749783351557662,
+                "lexicalDiversity": 0.5475113122171946,
+                "posComposition": {
+                    "DT": 0.109,
+                    "NNS": 0.063,
+                    "CD": 0.045,
+                    "NNP": 0.041,
+                    "IN": 0.136,
+                    "NN": 0.176,
+                    "EX": 0.009,
+                    "VBD": 0.005,
+                    "JJ": 0.063,
+                    "VBN": 0.014,
+                    "WRB": 0.005,
+                    "PRP": 0.045,
+                    "MD": 0.032,
+                    "VB": 0.041,
+                    "CC": 0.014,
+                    "VBP": 0.036,
+                    "RB": 0.041,
+                    "TO": 0.027,
+                    "WDT": 0.023,
+                    "VBZ": 0.054,
+                    "JJR": 0.009,
+                    "VBG": 0.009,
+                    "RP": 0.005
+                },
+                "syllableRate": 2.733,
+                "topicScores": [
+                    [
+                        "block",
+                        0.2620652400519262
+                    ],
+                    [
+                        "Bitcoin",
+                        0.2853186115168806
+                    ],
+                    [
+                        "reward",
+                        0.30711183732809083
+                    ],
+                    [
+                        "transaction",
+                        0.3188330846734606
+                    ],
+                    [
+                        "miner",
+                        0.33086660626141445
+                    ],
+                    [
+                        "fee",
+                        0.5426494708897289
+                    ],
+                    [
+                        "second",
+                        0.5560006414641461
+                    ],
+                    [
+                        "payment",
+                        0.5578131650159673
+                    ],
+                    [
+                        "Visa",
+                        0.6638620706713905
+                    ],
+                    [
+                        "explorer",
+                        0.8316811045470668
+                    ],
+                    [
+                        "half",
+                        0.8434947864255959
+                    ],
+                    [
+                        "site",
+                        0.8455576288446376
+                    ],
+                    [
+                        "blockchain",
+                        0.8455576288446376
+                    ],
+                    [
+                        "great",
+                        0.8578755096669327
+                    ],
+                    [
+                        "existence",
+                        0.8586800165748699
+                    ],
+                    [
+                        "money",
+                        0.8684931816695511
+                    ],
+                    [
+                        "year",
+                        0.8693456401923698
+                    ],
+                    [
+                        "time",
+                        0.8823724191481433
+                    ],
+                    [
+                        "restrictive",
+                        0.8881486868405611
+                    ],
+                    [
+                        "slow",
+                        0.8932914569405082
+                    ],
+                    [
+                        "addition",
+                        0.8966677668589379
+                    ],
+                    [
+                        "comparison",
+                        0.9010028950318358
+                    ],
+                    [
+                        "way",
+                        0.9011144596817818
+                    ],
+                    [
+                        "reason",
+                        0.9046043034677237
+                    ],
+                    [
+                        "small",
+                        0.9094756699177677
+                    ],
+                    [
+                        "processing",
+                        0.9117774001538561
+                    ],
+                    [
+                        "critic",
+                        0.9153103740805987
+                    ],
+                    [
+                        "average",
+                        0.9174795978073983
+                    ],
+                    [
+                        "capable",
+                        0.9174795978073983
+                    ],
+                    [
+                        "bitcoin blockchain",
+                        1.5348745965822148
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "block",
+                        0.2620652400519262
+                    ],
+                    [
+                        "reward",
+                        0.30711183732809083
+                    ],
+                    [
+                        "transaction",
+                        0.3188330846734606
+                    ],
+                    [
+                        "miner",
+                        0.33086660626141445
+                    ],
+                    [
+                        "money",
+                        0.8684931816695511
+                    ],
+                    [
+                        "way",
+                        0.9011144596817818
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-1440": {
+            "id": "bBC-nXj3Ng4-1440",
+            "heat": 0.243,
+            "start": 1440.0,
+            "text": " higher transactions fees, since that\u2019s what determines which transactions miners choose to include in new blocks. This is far from a comprehensive coverage of cryptocurrencies. There are many nuances and alternate design choices I haven\u2019t touched here, but hopefully this can provide a stable Wait-but-Why-style tree trunk of understanding for anyone looking to add a few more branches with further reading. Like I said at the start, one of the motivations behind this video is that a lot of money has started flowing towards cryptocurrencies, and even though I don\u2019t want to make any claims about whether that\u2019s a good or bad investment, I do think it\u2019d be healthy for people getting into this game to at least know the fundamentals of the technology. As always, my sincerest thanks those of you making this channel possible on Patreon. I understand not everyone is in a position to contribute, but if you\u2019re still interested in helping out, one the best ways to do that is simply to share videos that you think might be interesting or helpful to others. I know you know that, but it really does help. I also want to thank Protocol Labs for their support of this video. This is an organization that runs a number of research and development projects, and if you follow the links I\u2019ve left in the description to read into the details of these projects, you\u2019ll notice some strong parallels with the concepts covered in this video. The challenges and benefits of decentralization are by no means limited to currency and transaction histories, and the usefulness of tools from cryptography like hash functions and digital signatures are likewise much more general.",
+            "metrics": {
+                "relativeDCReadability": 1.089988179141207,
+                "lexicalDiversity": 0.49491525423728816,
+                "posComposition": {
+                    "JJR": 0.007,
+                    "NNS": 0.105,
+                    "IN": 0.142,
+                    "DT": 0.119,
+                    "NNP": 0.02,
+                    "VBD": 0.014,
+                    "WP": 0.003,
+                    "VBZ": 0.031,
+                    "WDT": 0.007,
+                    "VBP": 0.061,
+                    "TO": 0.037,
+                    "VB": 0.044,
+                    "JJ": 0.081,
+                    "RB": 0.047,
+                    "NN": 0.112,
+                    "EX": 0.003,
+                    "CC": 0.044,
+                    "PRP": 0.054,
+                    "VBN": 0.014,
+                    "MD": 0.007,
+                    "VBG": 0.02,
+                    "CD": 0.007,
+                    "JJS": 0.007,
+                    "PRP$": 0.007,
+                    "RP": 0.003,
+                    "RBR": 0.003
+                },
+                "syllableRate": 3.8,
+                "topicScores": [
+                    [
+                        "video",
+                        0.3531803006030069
+                    ],
+                    [
+                        "transaction",
+                        0.4225598791008202
+                    ],
+                    [
+                        "cryptocurrencie",
+                        0.506524809529879
+                    ],
+                    [
+                        "start",
+                        0.5430879524145958
+                    ],
+                    [
+                        "good",
+                        0.5469899712548267
+                    ],
+                    [
+                        "thank",
+                        0.5531989724341753
+                    ],
+                    [
+                        "project",
+                        0.555749522009554
+                    ],
+                    [
+                        "Patreon",
+                        0.5768267450049516
+                    ],
+                    [
+                        "Protocol",
+                        0.6656943283277881
+                    ],
+                    [
+                        "Labs",
+                        0.6656943283277881
+                    ],
+                    [
+                        "high",
+                        0.6943268386116371
+                    ],
+                    [
+                        "block",
+                        0.6943268386116371
+                    ],
+                    [
+                        "fee",
+                        0.7447400233537217
+                    ],
+                    [
+                        "new",
+                        0.7447400233537217
+                    ],
+                    [
+                        "miner",
+                        0.7658580853739124
+                    ],
+                    [
+                        "Protocol Labs",
+                        0.7958123268853491
+                    ],
+                    [
+                        "reading",
+                        0.8060013300347427
+                    ],
+                    [
+                        "technology",
+                        0.8240656568001425
+                    ],
+                    [
+                        "comprehensive",
+                        0.8311594779784318
+                    ],
+                    [
+                        "coverage",
+                        0.8311594779784318
+                    ],
+                    [
+                        "stable",
+                        0.8421828908814695
+                    ],
+                    [
+                        "style",
+                        0.8421828908814695
+                    ],
+                    [
+                        "tree",
+                        0.8421828908814695
+                    ],
+                    [
+                        "nuance",
+                        0.8567895631634085
+                    ],
+                    [
+                        "alternate",
+                        0.8567895631634085
+                    ],
+                    [
+                        "design",
+                        0.8567895631634085
+                    ],
+                    [
+                        "choice",
+                        0.8567895631634085
+                    ],
+                    [
+                        "trunk",
+                        0.8567895631634085
+                    ],
+                    [
+                        "understanding",
+                        0.8567895631634085
+                    ],
+                    [
+                        "branch",
+                        0.8567895631634085
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "transaction",
+                        0.4225598791008202
+                    ],
+                    [
+                        "start",
+                        0.5430879524145958
+                    ],
+                    [
+                        "block",
+                        0.6943268386116371
+                    ],
+                    [
+                        "new",
+                        0.7447400233537217
+                    ],
+                    [
+                        "miner",
+                        0.7658580853739124
+                    ]
+                ]
+            }
+        },
+        "bBC-nXj3Ng4-1530": {
+            "id": "bBC-nXj3Ng4-1530",
+            "heat": 0.454,
+            "start": 1530.0,
+            "text": " For example, a couple of Protocol Lab\u2019s projects, such as IPFS and Filecoin, center on distributed filestorage, which opens a whole field of interesting challenges and possibilities. For any developers out there, Protocol labs places a high value on open source, so if you\u2019re interested you can join what\u2019s already a very strong community of contributors. They\u2019re also looking to hire more full-time developers, so if you think you might be a good fit for some of these projects, definitely apply.",
+            "metrics": {
+                "relativeDCReadability": 1.1844585635275773,
+                "lexicalDiversity": 0.5168539325842697,
+                "posComposition": {
+                    "IN": 0.135,
+                    "NN": 0.124,
+                    "DT": 0.09,
+                    "NNP": 0.079,
+                    "JJ": 0.112,
+                    "NNS": 0.079,
+                    "CC": 0.022,
+                    "VBN": 0.011,
+                    "WDT": 0.011,
+                    "VBZ": 0.022,
+                    "RP": 0.011,
+                    "RB": 0.09,
+                    "PRP": 0.056,
+                    "VBP": 0.034,
+                    "MD": 0.022,
+                    "VB": 0.045,
+                    "WP": 0.011,
+                    "VBD": 0.011,
+                    "VBG": 0.011,
+                    "TO": 0.011,
+                    "JJR": 0.011
+                },
+                "syllableRate": 1.225,
+                "topicScores": [
+                    [
+                        "Protocol Lab",
+                        0.3059858726473401
+                    ],
+                    [
+                        "Filecoin",
+                        0.4271554711357394
+                    ],
+                    [
+                        "IPFS",
+                        0.4509058467536712
+                    ],
+                    [
+                        "open",
+                        0.4719652662074411
+                    ],
+                    [
+                        "project",
+                        0.4900049834126894
+                    ],
+                    [
+                        "developer",
+                        0.501803021333257
+                    ],
+                    [
+                        "possibility",
+                        0.6331108984705877
+                    ],
+                    [
+                        "example",
+                        0.6725208507327995
+                    ],
+                    [
+                        "couple",
+                        0.706758836302227
+                    ],
+                    [
+                        "center",
+                        0.706758836302227
+                    ],
+                    [
+                        "filestorage",
+                        0.706758836302227
+                    ],
+                    [
+                        "contributor",
+                        0.7219958940196418
+                    ],
+                    [
+                        "field",
+                        0.7365105223828305
+                    ],
+                    [
+                        "interesting",
+                        0.7365105223828305
+                    ],
+                    [
+                        "challenge",
+                        0.7365105223828305
+                    ],
+                    [
+                        "lab",
+                        0.7838917907709672
+                    ],
+                    [
+                        "source",
+                        0.7838917907709672
+                    ],
+                    [
+                        "time",
+                        0.7897495533723259
+                    ],
+                    [
+                        "high",
+                        0.8079442993611565
+                    ],
+                    [
+                        "value",
+                        0.8079442993611565
+                    ],
+                    [
+                        "interested",
+                        0.8079442993611565
+                    ],
+                    [
+                        "strong",
+                        0.8079442993611565
+                    ],
+                    [
+                        "community",
+                        0.8079442993611565
+                    ],
+                    [
+                        "good",
+                        0.8364048257451412
+                    ],
+                    [
+                        "fit",
+                        0.8364048257451412
+                    ],
+                    [
+                        "Lab \u2019s project",
+                        0.8927577490652391
+                    ],
+                    [
+                        "interesting challenge",
+                        1.1855427420222473
+                    ],
+                    [
+                        "open source",
+                        1.417725392824532
+                    ],
+                    [
+                        "time developer",
+                        1.6890293342637777
+                    ],
+                    [
+                        "high value",
+                        1.8799685902162697
+                    ]
+                ],
+                "topTopicSimilarity": 0.0,
+                "sharedTopicScores": []
+            }
+        }
+    }
+}

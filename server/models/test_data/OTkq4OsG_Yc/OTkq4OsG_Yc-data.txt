@@ -1,0 +1,4218 @@
+{
+    "metadata": {
+        "id": "OTkq4OsG_Yc",
+        "avgHeat": 0.22,
+        "runtime": 1846.14,
+        "dale-challReadabilityScore": 7.042699167182024,
+        "lexicalDiversity": 0.47418397626112757,
+        "posComposition": {
+            "DT": 0.092,
+            "JJ": 0.058,
+            "NN": 0.119,
+            "VBZ": 0.05,
+            "VBN": 0.011,
+            "IN": 0.112,
+            "NNP": 0.042,
+            "PRP$": 0.012,
+            "MD": 0.017,
+            "VB": 0.054,
+            "VBP": 0.058,
+            "TO": 0.035,
+            "NNS": 0.043,
+            "CC": 0.031,
+            "VBD": 0.009,
+            "RB": 0.064,
+            "CD": 0.014,
+            "VBG": 0.03,
+            "PRP": 0.09,
+            "WP": 0.013,
+            "RP": 0.004,
+            ":": 0.002,
+            "WDT": 0.012,
+            "POS": 0.004,
+            "RBR": 0.001,
+            "RBS": 0.001,
+            "WRB": 0.012,
+            "EX": 0.002,
+            "JJR": 0.003,
+            "NNPS": 0.0,
+            "PDT": 0.001,
+            "JJS": 0.002,
+            "WP$": 0.0
+        },
+        "syllableRate": 3.723,
+        "topicScores": [
+            [
+                "Poker Stars",
+                0.07398466045706036
+            ],
+            [
+                "M",
+                0.11594142972050092
+            ],
+            [
+                "play",
+                0.1317233604725765
+            ],
+            [
+                "hand",
+                0.13924200644448936
+            ],
+            [
+                "tournament",
+                0.14914346081418856
+            ],
+            [
+                "thing",
+                0.1531958226847938
+            ],
+            [
+                "blind",
+                0.153515386144277
+            ],
+            [
+                "Harrington",
+                0.16565774496113805
+            ],
+            [
+                "MIT",
+                0.1695057803659961
+            ],
+            [
+                "lot",
+                0.1714831751044397
+            ],
+            [
+                "stack",
+                0.1743427514857952
+            ],
+            [
+                "Dan Harrington",
+                0.18056302277573932
+            ],
+            [
+                "Creative Commons",
+                0.18075566760531295
+            ],
+            [
+                "game",
+                0.18442945452745146
+            ],
+            [
+                "poker",
+                0.18763280022713427
+            ],
+            [
+                "chip",
+                0.1926195658134458
+            ],
+            [
+                "good",
+                0.20348738274081546
+            ],
+            [
+                "money",
+                0.20622613373157309
+            ],
+            [
+                "live",
+                0.20793304319179282
+            ],
+            [
+                "decision",
+                0.20849963292033497
+            ],
+            [
+                "Poker Theory",
+                0.209487767739815
+            ],
+            [
+                "player",
+                0.2172357606269904
+            ],
+            [
+                "different",
+                0.21770940049598878
+            ],
+            [
+                "people",
+                0.22318577204598988
+            ],
+            [
+                "big",
+                0.22464961165725042
+            ],
+            [
+                "Poker Tracker",
+                0.22692352397243484
+            ],
+            [
+                "time",
+                0.23279490942218084
+            ],
+            [
+                "win",
+                0.2345109107643558
+            ],
+            [
+                "league",
+                0.23740276892807927
+            ],
+            [
+                "type",
+                0.2406080562055657
+            ]
+        ],
+        "topicsList": [
+            "Poker Stars",
+            "M",
+            "play",
+            "hand",
+            "tournament",
+            "thing",
+            "blind",
+            "Harrington",
+            "MIT",
+            "lot",
+            "stack",
+            "Dan Harrington",
+            "Creative Commons",
+            "game",
+            "poker",
+            "chip",
+            "good",
+            "money",
+            "live",
+            "decision",
+            "Poker Theory",
+            "player",
+            "different",
+            "people",
+            "big",
+            "Poker Tracker",
+            "time",
+            "win",
+            "league",
+            "type"
+        ]
+    },
+    "chunks": {
+        "OTkq4OsG_Yc-0": {
+            "id": "OTkq4OsG_Yc-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or to view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. KEVIN DESMOND: All right, everyone. So welcome to 15.S50, Poker Theory and Analytics. So this is going to be Monday, Wednesday, Friday from 3:30 to 5:00. I just got a room for a review session on Tuesday, Thursday for anyone who needs to catch up a little bit. The class is here, 4370. I'm Kevin Desmond. I'm going to be the instructor. Paul Mende is the faculty advisor. And this is worth three H credits. The game play aspect-- so this is what I did. And I think this is really cool. So Poker Stars gave us our own private league for only MIT people in this course. And my goal here is to separate people who are fairly new from people who are very competitive, because I don't want someone not to pass the course because they happen to be not that great at poker. So I created this thing called the Beginners' League. And these are going to be Daily Turbos. Turbos means they're fast-ish tournaments. And to get the game play credit, you can cash, you can make money in one of them, or you can play in 10 of them. So those who are struggling can get this game play credit by playing 10 tournaments, which is about a 10-hour commitment.",
+            "metrics": {
+                "relativeDCReadability": 1.1708338678584955,
+                "lexicalDiversity": 0.5113636363636364,
+                "posComposition": {
+                    "DT": 0.087,
+                    "JJ": 0.083,
+                    "NN": 0.117,
+                    "VBZ": 0.045,
+                    "VBN": 0.004,
+                    "IN": 0.087,
+                    "NNP": 0.121,
+                    "PRP$": 0.011,
+                    "MD": 0.019,
+                    "VB": 0.064,
+                    "VBP": 0.049,
+                    "TO": 0.049,
+                    "NNS": 0.034,
+                    "CC": 0.03,
+                    "VBD": 0.023,
+                    "RB": 0.038,
+                    "CD": 0.03,
+                    "VBG": 0.019,
+                    "PRP": 0.057,
+                    "WP": 0.019,
+                    "RP": 0.004,
+                    ":": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 3.217,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.19382326032250646
+                    ],
+                    [
+                        "MIT",
+                        0.24728450160460852
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.24931907908331144
+                    ],
+                    [
+                        "Poker",
+                        0.39225072297906327
+                    ],
+                    [
+                        "game",
+                        0.41429278917494855
+                    ],
+                    [
+                        "credit",
+                        0.425514724094722
+                    ],
+                    [
+                        "course",
+                        0.4304257010519843
+                    ],
+                    [
+                        "people",
+                        0.43760359520696207
+                    ],
+                    [
+                        "KEVIN desmond",
+                        0.43877668185645047
+                    ],
+                    [
+                        "Turbos",
+                        0.463191295428943
+                    ],
+                    [
+                        "OpenCourseWare",
+                        0.5076279132135162
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.5417283409470698
+                    ],
+                    [
+                        "tournament",
+                        0.550023135106639
+                    ],
+                    [
+                        "Analytics",
+                        0.5732058529957639
+                    ],
+                    [
+                        "Poker Theory",
+                        0.5896004886461128
+                    ],
+                    [
+                        "Wednesday",
+                        0.6002603455604723
+                    ],
+                    [
+                        "Friday",
+                        0.611507707339807
+                    ],
+                    [
+                        "Monday",
+                        0.6115077073398071
+                    ],
+                    [
+                        "Desmond",
+                        0.6175615012507245
+                    ],
+                    [
+                        "Thursday",
+                        0.6230671967108571
+                    ],
+                    [
+                        "Tuesday",
+                        0.6230671967108572
+                    ],
+                    [
+                        "Kevin",
+                        0.6400561710445523
+                    ],
+                    [
+                        "League",
+                        0.6439365773690713
+                    ],
+                    [
+                        "Mende",
+                        0.6521381246846264
+                    ],
+                    [
+                        "Beginners",
+                        0.6771215767109207
+                    ],
+                    [
+                        "Daily",
+                        0.6795167443257746
+                    ],
+                    [
+                        "Stars",
+                        0.6815503131081222
+                    ],
+                    [
+                        "Poker Stars",
+                        0.7352725793507623
+                    ],
+                    [
+                        "following",
+                        0.7693167110463057
+                    ],
+                    [
+                        "content",
+                        0.7824391649820602
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.19382326032250646
+                    ],
+                    [
+                        "MIT",
+                        0.24728450160460852
+                    ],
+                    [
+                        "game",
+                        0.41429278917494855
+                    ],
+                    [
+                        "people",
+                        0.43760359520696207
+                    ],
+                    [
+                        "tournament",
+                        0.550023135106639
+                    ],
+                    [
+                        "Poker Theory",
+                        0.5896004886461128
+                    ],
+                    [
+                        "Poker Stars",
+                        0.7352725793507623
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-90": {
+            "id": "OTkq4OsG_Yc-90",
+            "heat": 0.151,
+            "start": 90.0,
+            "text": " Let's go into the game play aspect more. So Poker Stars created this private league for us, which is really cool. So Poker Stars is generally considered the most reputable online poker site. That's why we use them. So they have two different types of games. So they have real money and play money games. Now if you're in the US, you can't do real money. It used to be something that was very gray area. And then there was one poker site which turned out to be legitimately like a Ponzi scheme, and as a result, now poker in the US is like much more black and white, definitely not OK for real money. However, their play money scene is pretty resilient, and that's what we're taking advantage of here. The Poker Stars play money scene is broken down into two different things. They have public games, where you can just go and play for play chips against anyone in the world, which is cool. And you can do that, and I recommend you give it a shot just to get used to the software. In addition, you could do home games, which is what we're generally going to be doing. That's what they call their private leagues. So in the private leagues, in their home games, they have this showcase. And you might notice as soon as you log in that the MIT League, Poker Theory and Analytics, is already at the top. That's not just for us. That's for everyone. Anyone in the world who logs into Poker Stars",
+            "metrics": {
+                "relativeDCReadability": 0.9680210970552732,
+                "lexicalDiversity": 0.4852941176470588,
+                "posComposition": {
+                    "VB": 0.051,
+                    "POS": 0.004,
+                    "IN": 0.099,
+                    "DT": 0.077,
+                    "NN": 0.129,
+                    "VBP": 0.048,
+                    "RBR": 0.004,
+                    "RB": 0.085,
+                    "NNP": 0.066,
+                    "VBD": 0.018,
+                    "JJ": 0.066,
+                    "PRP": 0.081,
+                    "WDT": 0.022,
+                    "VBZ": 0.051,
+                    "VBN": 0.011,
+                    "RBS": 0.004,
+                    "WRB": 0.007,
+                    "CD": 0.011,
+                    "NNS": 0.037,
+                    "CC": 0.037,
+                    "MD": 0.018,
+                    "TO": 0.018,
+                    "EX": 0.004,
+                    "RP": 0.007,
+                    "JJR": 0.004,
+                    "PRP$": 0.011,
+                    "WP": 0.015,
+                    "VBG": 0.011,
+                    "NNPS": 0.004
+                },
+                "syllableRate": 3.0,
+                "topicScores": [
+                    [
+                        "Poker Stars",
+                        0.21977008002913523
+                    ],
+                    [
+                        "money",
+                        0.29898226820313123
+                    ],
+                    [
+                        "game",
+                        0.3106062553843497
+                    ],
+                    [
+                        "play",
+                        0.3138787333597594
+                    ],
+                    [
+                        "real",
+                        0.4298509707302492
+                    ],
+                    [
+                        "league",
+                        0.43463249435172036
+                    ],
+                    [
+                        "private",
+                        0.43632255233714307
+                    ],
+                    [
+                        "poker",
+                        0.43950089702449635
+                    ],
+                    [
+                        "cool",
+                        0.5299971807569049
+                    ],
+                    [
+                        "site",
+                        0.548905363061602
+                    ],
+                    [
+                        "scene",
+                        0.5553817330511017
+                    ],
+                    [
+                        "different",
+                        0.5593720301864195
+                    ],
+                    [
+                        "home",
+                        0.5629990183874782
+                    ],
+                    [
+                        "world",
+                        0.5638482121018789
+                    ],
+                    [
+                        "Ponzi",
+                        0.6509429472273796
+                    ],
+                    [
+                        "Poker Theory",
+                        0.6574990367405074
+                    ],
+                    [
+                        "MIT",
+                        0.6848787565708547
+                    ],
+                    [
+                        "Analytics",
+                        0.6848787565708547
+                    ],
+                    [
+                        "aspect",
+                        0.8133780031240259
+                    ],
+                    [
+                        "MIT League",
+                        0.8834481284241539
+                    ],
+                    [
+                        "reputable",
+                        0.8957994510934264
+                    ],
+                    [
+                        "online",
+                        0.8957994510934264
+                    ],
+                    [
+                        "area",
+                        0.9063712766412169
+                    ],
+                    [
+                        "type",
+                        0.9133020009486971
+                    ],
+                    [
+                        "thing",
+                        0.9134242250197537
+                    ],
+                    [
+                        "software",
+                        0.9165856068032979
+                    ],
+                    [
+                        "gray",
+                        0.919101198513157
+                    ],
+                    [
+                        "showcase",
+                        0.9200877106307978
+                    ],
+                    [
+                        "scheme",
+                        0.9215375132731489
+                    ],
+                    [
+                        "result",
+                        0.9215375132731489
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "Poker Stars",
+                        0.21977008002913523
+                    ],
+                    [
+                        "money",
+                        0.29898226820313123
+                    ],
+                    [
+                        "game",
+                        0.3106062553843497
+                    ],
+                    [
+                        "play",
+                        0.3138787333597594
+                    ],
+                    [
+                        "league",
+                        0.43463249435172036
+                    ],
+                    [
+                        "poker",
+                        0.43950089702449635
+                    ],
+                    [
+                        "different",
+                        0.5593720301864195
+                    ],
+                    [
+                        "Poker Theory",
+                        0.6574990367405074
+                    ],
+                    [
+                        "MIT",
+                        0.6848787565708547
+                    ],
+                    [
+                        "type",
+                        0.9133020009486971
+                    ],
+                    [
+                        "thing",
+                        0.9134242250197537
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-180": {
+            "id": "OTkq4OsG_Yc-180",
+            "heat": 0.103,
+            "start": 180.0,
+            "text": " and looks at home games has the MIT League at the top, which I think is really cool. So to access this, I'll send a more specific instructions later. I gave you guys just the passcode of what you need. But to actually get there, what you need to do is, you log into Poker Stars. You go to this button, which is a little house, to access home games. And then you want to join a game. And what you do is, you put the Club ID, which is 557832. You put the invitation code, which you're all going to have on Stellar. And then you put your real name, preferably the one that's listed in the course, because I actually have to approve everyone that joins the league, and I can't do it just based on someone's screen name. And I guess you have to agree to some sort of terms and conditions. So let's talk about hand history. So a lot of analytics are going to be based off of hand histories, which are just text files that Poker Stars gives you to the extent that you indicate that you want to save them down. So these are kind of jumbled messes of text. Each line just shows one thing that happens. And you might get used to reading it, or might not, depending on how much you're going to scrutinize it. But more importantly, you can use these in all the data analytic programs that we're going to use. In particular, Poker Tracker runs off of that. You'll load just thousands of hands into Poker Tracker, and it'll do analytics for you. It knows exactly what's going on based on that format, which is generally considered universal.",
+            "metrics": {
+                "relativeDCReadability": 0.9940363877803025,
+                "lexicalDiversity": 0.45695364238410596,
+                "posComposition": {
+                    "CC": 0.04,
+                    "VBZ": 0.053,
+                    "IN": 0.099,
+                    "NN": 0.099,
+                    "NNS": 0.046,
+                    "DT": 0.073,
+                    "NNP": 0.05,
+                    "JJ": 0.04,
+                    "WDT": 0.033,
+                    "PRP": 0.109,
+                    "VBP": 0.066,
+                    "RB": 0.06,
+                    "TO": 0.053,
+                    "MD": 0.023,
+                    "VB": 0.056,
+                    "RBR": 0.007,
+                    "VBD": 0.007,
+                    "WP": 0.013,
+                    "EX": 0.003,
+                    "CD": 0.007,
+                    "VBG": 0.023,
+                    "PRP$": 0.003,
+                    "VBN": 0.02,
+                    "POS": 0.007,
+                    "RP": 0.003,
+                    "WRB": 0.003,
+                    "PDT": 0.003
+                },
+                "syllableRate": 3.283,
+                "topicScores": [
+                    [
+                        "Poker",
+                        0.261598134088883
+                    ],
+                    [
+                        "MIT League",
+                        0.3671994283722576
+                    ],
+                    [
+                        "Poker Stars",
+                        0.3698410067815721
+                    ],
+                    [
+                        "Tracker",
+                        0.4079366073457282
+                    ],
+                    [
+                        "Poker Tracker",
+                        0.40803264376413956
+                    ],
+                    [
+                        "game",
+                        0.41433732563612136
+                    ],
+                    [
+                        "hand",
+                        0.4347745273467732
+                    ],
+                    [
+                        "analytic",
+                        0.450920389405912
+                    ],
+                    [
+                        "home",
+                        0.5329250923164801
+                    ],
+                    [
+                        "history",
+                        0.5499831264477878
+                    ],
+                    [
+                        "text",
+                        0.562598617355013
+                    ],
+                    [
+                        "Stellar",
+                        0.6249642420677638
+                    ],
+                    [
+                        "Club",
+                        0.6401934291884401
+                    ],
+                    [
+                        "ID",
+                        0.6401934291884401
+                    ],
+                    [
+                        "Club ID",
+                        0.6944776389478806
+                    ],
+                    [
+                        "cool",
+                        0.8299308158621661
+                    ],
+                    [
+                        "instruction",
+                        0.8751093580789465
+                    ],
+                    [
+                        "specific",
+                        0.8834332632780673
+                    ],
+                    [
+                        "guy",
+                        0.8952247325506146
+                    ],
+                    [
+                        "passcode",
+                        0.8952247325506146
+                    ],
+                    [
+                        "button",
+                        0.9013629441521515
+                    ],
+                    [
+                        "little",
+                        0.9013629441521515
+                    ],
+                    [
+                        "house",
+                        0.9013629441521515
+                    ],
+                    [
+                        "condition",
+                        0.9020748810820035
+                    ],
+                    [
+                        "invitation",
+                        0.9116874271234965
+                    ],
+                    [
+                        "universal",
+                        0.9132350383477053
+                    ],
+                    [
+                        "real",
+                        0.9139407233145855
+                    ],
+                    [
+                        "course",
+                        0.9139407233145855
+                    ],
+                    [
+                        "league",
+                        0.9139407233145855
+                    ],
+                    [
+                        "screen",
+                        0.9139407233145855
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Poker Stars",
+                        0.3698410067815721
+                    ],
+                    [
+                        "Poker Tracker",
+                        0.40803264376413956
+                    ],
+                    [
+                        "game",
+                        0.41433732563612136
+                    ],
+                    [
+                        "hand",
+                        0.4347745273467732
+                    ],
+                    [
+                        "league",
+                        0.9139407233145855
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-270": {
+            "id": "OTkq4OsG_Yc-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " And then for the sake of visualizing these hands-- if you just read it, that's fine. But then if you want to show other people, I'm recommending we use something called the Universal Hand History Replayer, which is something that's free. And what it does, it just reads the hands, and it plays them. It animates what happened as if you were seeing it for real. So the deal with hand histories is, if you're a real money player, Poker Stars dedicates databases of hand histories so that, if you want, you can request all your hand histories at any time. For play money players, they let you capture your own hand histories if you want, but they definitely don't save them. So the reason I'm showing you this now, and I'm going to email it out to you later, is if you lose your hand histories, so you don't capture them in time, you'll never get them back. So make sure you're actually capturing hand histories, because we're going to be using that for a lot of the analysis we do. OK, so let's talk about the league. And honestly, I think this league is going to be really cool. Usually the evolution of a player is they're terrible at poker, and then they start becoming good at playing against bad people. And then when they actually start playing for real, they get crushed again because they're used to playing against other bad people. So this will actually hopefully get you used to playing against other people who are playing correctly, which is not something you can commonly",
+            "metrics": {
+                "relativeDCReadability": 0.9037878757041783,
+                "lexicalDiversity": 0.4612676056338028,
+                "posComposition": {
+                    "CC": 0.032,
+                    "RB": 0.095,
+                    "IN": 0.12,
+                    "DT": 0.06,
+                    "NN": 0.095,
+                    "VBG": 0.053,
+                    "NNS": 0.049,
+                    ":": 0.004,
+                    "PRP": 0.144,
+                    "VB": 0.049,
+                    "WDT": 0.014,
+                    "VBZ": 0.046,
+                    "JJ": 0.049,
+                    "VBP": 0.077,
+                    "TO": 0.025,
+                    "VBN": 0.014,
+                    "NNP": 0.021,
+                    "WP": 0.011,
+                    "VBD": 0.007,
+                    "MD": 0.014,
+                    "PRP$": 0.011,
+                    "RP": 0.004,
+                    "POS": 0.004,
+                    "WRB": 0.004
+                },
+                "syllableRate": 3.308,
+                "topicScores": [
+                    [
+                        "hand",
+                        0.2791737033283353
+                    ],
+                    [
+                        "history",
+                        0.2958391687842697
+                    ],
+                    [
+                        "people",
+                        0.35398819671976445
+                    ],
+                    [
+                        "Hand History Replayer",
+                        0.4169285884686235
+                    ],
+                    [
+                        "real",
+                        0.4273637386512209
+                    ],
+                    [
+                        "Universal Hand History",
+                        0.4307448906116887
+                    ],
+                    [
+                        "money",
+                        0.5388988040922204
+                    ],
+                    [
+                        "bad",
+                        0.5445737478807294
+                    ],
+                    [
+                        "time",
+                        0.5458177884239013
+                    ],
+                    [
+                        "league",
+                        0.5581966153795649
+                    ],
+                    [
+                        "Poker Stars",
+                        0.6173281683606038
+                    ],
+                    [
+                        "hand history",
+                        0.8139206636746359
+                    ],
+                    [
+                        "fine",
+                        0.8314142562283278
+                    ],
+                    [
+                        "free",
+                        0.8570123194303331
+                    ],
+                    [
+                        "sake",
+                        0.8619105414737981
+                    ],
+                    [
+                        "cool",
+                        0.9030025865129462
+                    ],
+                    [
+                        "deal",
+                        0.9081965138688339
+                    ],
+                    [
+                        "database",
+                        0.9081965138688339
+                    ],
+                    [
+                        "reason",
+                        0.9153311855315359
+                    ],
+                    [
+                        "poker",
+                        0.917787723213485
+                    ],
+                    [
+                        "sure",
+                        0.9178708910682104
+                    ],
+                    [
+                        "lot",
+                        0.9178708910682104
+                    ],
+                    [
+                        "analysis",
+                        0.9178708910682104
+                    ],
+                    [
+                        "evolution",
+                        0.9233063476326165
+                    ],
+                    [
+                        "terrible",
+                        0.9233063476326165
+                    ],
+                    [
+                        "good",
+                        0.9233063476326165
+                    ],
+                    [
+                        "bad people",
+                        1.5404673144602836
+                    ],
+                    [
+                        "money player",
+                        1.6767252153553536
+                    ],
+                    [
+                        "real money",
+                        2.7044190368340386
+                    ],
+                    [
+                        "real money player",
+                        10.645994211458163
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "hand",
+                        0.2791737033283353
+                    ],
+                    [
+                        "people",
+                        0.35398819671976445
+                    ],
+                    [
+                        "money",
+                        0.5388988040922204
+                    ],
+                    [
+                        "time",
+                        0.5458177884239013
+                    ],
+                    [
+                        "league",
+                        0.5581966153795649
+                    ],
+                    [
+                        "Poker Stars",
+                        0.6173281683606038
+                    ],
+                    [
+                        "poker",
+                        0.917787723213485
+                    ],
+                    [
+                        "lot",
+                        0.9178708910682104
+                    ],
+                    [
+                        "good",
+                        0.9233063476326165
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-360": {
+            "id": "OTkq4OsG_Yc-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " learn just from playing around with your friends. In addition through playing in these online leagues, you can collect stats that you could never get from playing live. And I think this is why the live tournament scene is dominated by online pros. It's because no live pro can get as many hands or analyze their play in the way that you can do online. It's not even comparable. So this is given-- even if your whole intention is to only play live the entire rest your life, doing this type of analytics would give you a chance to learn at a much faster rate and learn things that you would never see live. So every week we're going to have a major tournament, which is basically going to be the same structure, maybe a little bit slower, than the ones we do daily, except they're going to have real prizes. So Akuna is giving us, for their first tournament, Beats headphones. And Apple TV, Bose speakers and a lot of gift cards. And then for their second tournament, they're giving us all of those things plus an iPad Air and an iPad Mini. But we're not done yet. Because this class is focused on playing live, we're going to end the class with a live tournament",
+            "metrics": {
+                "relativeDCReadability": 1.0053258500482998,
+                "lexicalDiversity": 0.5244444444444445,
+                "posComposition": {
+                    "NN": 0.116,
+                    "RB": 0.067,
+                    "IN": 0.12,
+                    "VBG": 0.044,
+                    "PRP$": 0.027,
+                    "NNS": 0.058,
+                    "DT": 0.102,
+                    "JJ": 0.093,
+                    "PRP": 0.071,
+                    "MD": 0.027,
+                    "VB": 0.067,
+                    "CC": 0.04,
+                    "VBP": 0.036,
+                    "VBZ": 0.04,
+                    "WRB": 0.004,
+                    "VBN": 0.018,
+                    ":": 0.004,
+                    "TO": 0.027,
+                    "WDT": 0.004,
+                    "JJR": 0.004,
+                    "NNP": 0.031
+                },
+                "syllableRate": 2.5,
+                "topicScores": [
+                    [
+                        "live",
+                        0.29262796868030133
+                    ],
+                    [
+                        "play",
+                        0.3044347152479056
+                    ],
+                    [
+                        "tournament",
+                        0.33072476521624283
+                    ],
+                    [
+                        "online",
+                        0.41687242400576935
+                    ],
+                    [
+                        "pro",
+                        0.5387899871361131
+                    ],
+                    [
+                        "iPad",
+                        0.5633721939517885
+                    ],
+                    [
+                        "thing",
+                        0.5646635488210153
+                    ],
+                    [
+                        "class",
+                        0.576294638279946
+                    ],
+                    [
+                        "Mini",
+                        0.6382907062667056
+                    ],
+                    [
+                        "beat",
+                        0.6412690117036964
+                    ],
+                    [
+                        "Apple",
+                        0.647756225418282
+                    ],
+                    [
+                        "Akuna",
+                        0.6553899645649711
+                    ],
+                    [
+                        "TV",
+                        0.6617565102366861
+                    ],
+                    [
+                        "Bose",
+                        0.6617565102366861
+                    ],
+                    [
+                        "Air",
+                        0.6800892809188646
+                    ],
+                    [
+                        "Apple TV",
+                        0.7502617930090578
+                    ],
+                    [
+                        "friend",
+                        0.8088032252090573
+                    ],
+                    [
+                        "addition",
+                        0.8638901904058978
+                    ],
+                    [
+                        "league",
+                        0.8638901904058978
+                    ],
+                    [
+                        "comparable",
+                        0.8702096012131518
+                    ],
+                    [
+                        "headphone",
+                        0.8710697132872678
+                    ],
+                    [
+                        "stat",
+                        0.8749621362573479
+                    ],
+                    [
+                        "prize",
+                        0.8799061114477117
+                    ],
+                    [
+                        "card",
+                        0.8862586346425061
+                    ],
+                    [
+                        "scene",
+                        0.8875013932012781
+                    ],
+                    [
+                        "hand",
+                        0.8955566487159308
+                    ],
+                    [
+                        "way",
+                        0.8955566487159308
+                    ],
+                    [
+                        "life",
+                        0.896828085256282
+                    ],
+                    [
+                        "major",
+                        0.9004524912628585
+                    ],
+                    [
+                        "structure",
+                        0.9004524912628585
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "live",
+                        0.29262796868030133
+                    ],
+                    [
+                        "play",
+                        0.3044347152479056
+                    ],
+                    [
+                        "tournament",
+                        0.33072476521624283
+                    ],
+                    [
+                        "thing",
+                        0.5646635488210153
+                    ],
+                    [
+                        "league",
+                        0.8638901904058978
+                    ],
+                    [
+                        "hand",
+                        0.8955566487159308
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-450": {
+            "id": "OTkq4OsG_Yc-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " sponsored by Optiver on the 31st, which is the day after the last day of the class. So after the league's over, and after you guys are good at poker, you'll have an opportunity to play each other in a live tournament, where their prize pool is all of the Akuna prizes, plus a PlayStation 4, plus an iPad, plus a Kindle, and plus a GoPro. I want this to reflect the type of things an online, multi-table tournament player would do. How it normally works is, during the week, and basically every single day, there is a uniform amount of tournaments that will just run every single day at the top of the hour. And these pros will just grind those out. They'll get used to the structure. And that's where they'll kind of grind their teeth. And then on the weekends, that's when you get a lot of the square money, a lot of the newer guys who only play poker on the weekend. And those are more gimmicky, idiosyncratic tournaments, but also the highest value. So that's why I'm producing the tournament structure like this, where the bulk of your tournaments will be very similar to each other. But then the tournaments that really matter will be completely different, at least relatively different. So that's why I'm doing that. That'll make you get a feel for what these guys have to go through.",
+            "metrics": {
+                "relativeDCReadability": 1.0812108330738732,
+                "lexicalDiversity": 0.44129554655870445,
+                "posComposition": {
+                    "VBN": 0.008,
+                    "IN": 0.113,
+                    "NNP": 0.02,
+                    "DT": 0.178,
+                    "CD": 0.008,
+                    "WDT": 0.02,
+                    "VBZ": 0.04,
+                    "NN": 0.126,
+                    "JJ": 0.073,
+                    "RB": 0.053,
+                    "POS": 0.004,
+                    "CC": 0.053,
+                    "PRP": 0.04,
+                    "NNS": 0.045,
+                    "VBP": 0.032,
+                    "MD": 0.036,
+                    "VB": 0.053,
+                    "TO": 0.02,
+                    "WRB": 0.024,
+                    "PRP$": 0.012,
+                    "EX": 0.004,
+                    "JJR": 0.012,
+                    "WP": 0.008,
+                    "JJS": 0.008,
+                    "VBG": 0.008
+                },
+                "syllableRate": 2.817,
+                "topicScores": [
+                    [
+                        "tournament",
+                        0.2869202665040853
+                    ],
+                    [
+                        "day",
+                        0.34616384843928993
+                    ],
+                    [
+                        "guy",
+                        0.44184059275735177
+                    ],
+                    [
+                        "Optiver",
+                        0.5180561413626624
+                    ],
+                    [
+                        "single",
+                        0.5372035451108703
+                    ],
+                    [
+                        "prize",
+                        0.5387780507190038
+                    ],
+                    [
+                        "weekend",
+                        0.5405625364623712
+                    ],
+                    [
+                        "lot",
+                        0.5425942141961239
+                    ],
+                    [
+                        "structure",
+                        0.5452200975662362
+                    ],
+                    [
+                        "poker",
+                        0.5490040546637088
+                    ],
+                    [
+                        "Akuna",
+                        0.5544941450059735
+                    ],
+                    [
+                        "Kindle",
+                        0.5544941450059735
+                    ],
+                    [
+                        "different",
+                        0.5614671074267218
+                    ],
+                    [
+                        "class",
+                        0.8197374456206286
+                    ],
+                    [
+                        "31st",
+                        0.844038961177318
+                    ],
+                    [
+                        "GoPro",
+                        0.8467817751468304
+                    ],
+                    [
+                        "live",
+                        0.8680243761395511
+                    ],
+                    [
+                        "PlayStation",
+                        0.8680243761395511
+                    ],
+                    [
+                        "iPad",
+                        0.8680243761395511
+                    ],
+                    [
+                        "hour",
+                        0.8713352299172583
+                    ],
+                    [
+                        "multi",
+                        0.8719586308743178
+                    ],
+                    [
+                        "league",
+                        0.8770996285598401
+                    ],
+                    [
+                        "good",
+                        0.8770996285598401
+                    ],
+                    [
+                        "opportunity",
+                        0.8770996285598401
+                    ],
+                    [
+                        "pool",
+                        0.8770996285598401
+                    ],
+                    [
+                        "online",
+                        0.8811648830065129
+                    ],
+                    [
+                        "table",
+                        0.8811648830065129
+                    ],
+                    [
+                        "tooth",
+                        0.8873404731346728
+                    ],
+                    [
+                        "type",
+                        0.8894516129872809
+                    ],
+                    [
+                        "thing",
+                        0.8894516129872809
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "tournament",
+                        0.2869202665040853
+                    ],
+                    [
+                        "lot",
+                        0.5425942141961239
+                    ],
+                    [
+                        "poker",
+                        0.5490040546637088
+                    ],
+                    [
+                        "different",
+                        0.5614671074267218
+                    ],
+                    [
+                        "live",
+                        0.8680243761395511
+                    ],
+                    [
+                        "league",
+                        0.8770996285598401
+                    ],
+                    [
+                        "good",
+                        0.8770996285598401
+                    ],
+                    [
+                        "type",
+                        0.8894516129872809
+                    ],
+                    [
+                        "thing",
+                        0.8894516129872809
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-540": {
+            "id": "OTkq4OsG_Yc-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " So let's talk about turbos. Turbos let you focus on pre-flop decisions, which are the area where I think there is the most to learn among people who are new at poker. Basically, all of your value that you're losing in tournament is from screwing up pre-flop. No one gets that right live because it's really difficult to be able to feel comfortable doing what's generally considered right. And we're going to spend a lot of time on pre-flop. But these turbos encourage you to do that sort of thing, because live is a lot of pre-flop, and you're going to be doing that in the turbos online, too. In addition, no one wants to spend six hours doing a tournament. So I'm making these turbos so you can be in and out in 45 minutes. And then you boot up another tournament, or you can be done with poker for that night. In addition, you have the opportunity-- you can play as many tournaments as you want. It's common for pros to do something called multi-tabling which is they'll do multiple tournaments at the same time. For the beginners, I'd probably recommend you just do one. But for the regular league, have at that. you want to do like all four tournaments at the same time, go ahead, to the extent that they overlap with each other a little bit. OK. So that's the end with the prize league. So the schedule is, we're going to go through what I'm calling basic strategy, which are the basic axioms that we're going to be using in order",
+            "metrics": {
+                "relativeDCReadability": 1.0300260280749334,
+                "lexicalDiversity": 0.44680851063829785,
+                "posComposition": {
+                    "RB": 0.035,
+                    "VB": 0.071,
+                    "POS": 0.004,
+                    "IN": 0.142,
+                    "NN": 0.138,
+                    "NNP": 0.018,
+                    "PRP": 0.082,
+                    "NNS": 0.043,
+                    "WDT": 0.018,
+                    "VBP": 0.067,
+                    "DT": 0.096,
+                    "WRB": 0.004,
+                    "EX": 0.004,
+                    "VBZ": 0.039,
+                    "RBS": 0.004,
+                    "TO": 0.043,
+                    "WP": 0.011,
+                    "JJ": 0.06,
+                    "PRP$": 0.004,
+                    "VBG": 0.043,
+                    "RP": 0.007,
+                    "VBN": 0.011,
+                    "CC": 0.025,
+                    "CD": 0.014,
+                    "MD": 0.018,
+                    ":": 0.004
+                },
+                "syllableRate": 3.233,
+                "topicScores": [
+                    [
+                        "flop",
+                        0.2902619985409563
+                    ],
+                    [
+                        "tournament",
+                        0.2946455599248269
+                    ],
+                    [
+                        "pre",
+                        0.3139447106234922
+                    ],
+                    [
+                        "turbo",
+                        0.345987979779898
+                    ],
+                    [
+                        "time",
+                        0.41212031687973566
+                    ],
+                    [
+                        "addition",
+                        0.5197264892607601
+                    ],
+                    [
+                        "lot",
+                        0.5247159067100297
+                    ],
+                    [
+                        "right",
+                        0.5289198302144461
+                    ],
+                    [
+                        "poker",
+                        0.5298860139959104
+                    ],
+                    [
+                        "live",
+                        0.5319711518262213
+                    ],
+                    [
+                        "league",
+                        0.5394159621945946
+                    ],
+                    [
+                        "basic",
+                        0.5581270444918603
+                    ],
+                    [
+                        "decision",
+                        0.8220796012777057
+                    ],
+                    [
+                        "area",
+                        0.8413739573170466
+                    ],
+                    [
+                        "people",
+                        0.8413739573170466
+                    ],
+                    [
+                        "new",
+                        0.8413739573170466
+                    ],
+                    [
+                        "value",
+                        0.8657040137761416
+                    ],
+                    [
+                        "difficult",
+                        0.879043359961555
+                    ],
+                    [
+                        "able",
+                        0.879043359961555
+                    ],
+                    [
+                        "comfortable",
+                        0.879043359961555
+                    ],
+                    [
+                        "minute",
+                        0.8815357713613735
+                    ],
+                    [
+                        "thing",
+                        0.8870788779143498
+                    ],
+                    [
+                        "sort",
+                        0.8936945473300093
+                    ],
+                    [
+                        "bit",
+                        0.8957540502354199
+                    ],
+                    [
+                        "hour",
+                        0.8982546684695882
+                    ],
+                    [
+                        "order",
+                        0.899653266335377
+                    ],
+                    [
+                        "multi",
+                        0.9034396432100381
+                    ],
+                    [
+                        "tabling",
+                        0.9034396432100381
+                    ],
+                    [
+                        "beginner",
+                        0.9053020244856246
+                    ],
+                    [
+                        "regular",
+                        0.9069284701134843
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "tournament",
+                        0.2946455599248269
+                    ],
+                    [
+                        "time",
+                        0.41212031687973566
+                    ],
+                    [
+                        "lot",
+                        0.5247159067100297
+                    ],
+                    [
+                        "poker",
+                        0.5298860139959104
+                    ],
+                    [
+                        "live",
+                        0.5319711518262213
+                    ],
+                    [
+                        "league",
+                        0.5394159621945946
+                    ],
+                    [
+                        "decision",
+                        0.8220796012777057
+                    ],
+                    [
+                        "people",
+                        0.8413739573170466
+                    ],
+                    [
+                        "thing",
+                        0.8870788779143498
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-630": {
+            "id": "OTkq4OsG_Yc-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " to analyze the decision making process in poker. Then we're going to be doing pre-flop analysis. And we're going to be doing a lot of this, because this is really where the value add is going to be, is getting this right. I think the way that we can tackle this thing is kind of a way I recommend that you learn anything complicated. So we're going to break this down into three different sections. Fundamental concept, practice, which are actually implementing those concepts when you have 10 seconds to make a decision, and then more advanced stuff. With regard to concepts, I'm going to call this the basic framework for decision making. It's being unexploitable. You want to get to the level when you sit down at a table, every pro in the room doesn't turn and go, I want to sit at that guy's table. You want to be a slightly winning player way before you want to become a huge winning player. In order to let you know the type of thing that we're learning, I'm going to label the slides with this, to indicate that this is like a basic concept. Learn this thing before you move on. The advanced stuff is, once you learn how to do things-- which how to do things is pretty broad--",
+            "metrics": {
+                "relativeDCReadability": 1.011440996063971,
+                "lexicalDiversity": 0.47413793103448276,
+                "posComposition": {
+                    "TO": 0.078,
+                    "VB": 0.091,
+                    "DT": 0.121,
+                    "NN": 0.155,
+                    "VBG": 0.065,
+                    "IN": 0.095,
+                    "RB": 0.03,
+                    "PRP": 0.086,
+                    "VBP": 0.078,
+                    "JJ": 0.043,
+                    "CC": 0.013,
+                    "VBZ": 0.039,
+                    "WRB": 0.022,
+                    "MD": 0.004,
+                    "VBN": 0.004,
+                    "RP": 0.009,
+                    "CD": 0.009,
+                    "NNS": 0.026,
+                    "NNP": 0.009,
+                    "WDT": 0.009,
+                    "RBR": 0.004,
+                    "POS": 0.004,
+                    ":": 0.009
+                },
+                "syllableRate": 2.642,
+                "topicScores": [
+                    [
+                        "concept",
+                        0.35761147442066943
+                    ],
+                    [
+                        "thing",
+                        0.36482283648590375
+                    ],
+                    [
+                        "decision",
+                        0.4089409077138928
+                    ],
+                    [
+                        "way",
+                        0.4274557186885077
+                    ],
+                    [
+                        "stuff",
+                        0.5243023204152676
+                    ],
+                    [
+                        "advanced",
+                        0.5294886675790681
+                    ],
+                    [
+                        "player",
+                        0.541003605106634
+                    ],
+                    [
+                        "table",
+                        0.5415012557745071
+                    ],
+                    [
+                        "basic",
+                        0.5427778554901197
+                    ],
+                    [
+                        "poker",
+                        0.7155487465028169
+                    ],
+                    [
+                        "process",
+                        0.7627276659976256
+                    ],
+                    [
+                        "analysis",
+                        0.7759783456620866
+                    ],
+                    [
+                        "flop",
+                        0.8047741601818353
+                    ],
+                    [
+                        "pre",
+                        0.8172832573075675
+                    ],
+                    [
+                        "right",
+                        0.8214636622788624
+                    ],
+                    [
+                        "complicated",
+                        0.8383769153196557
+                    ],
+                    [
+                        "fundamental",
+                        0.8459186705529568
+                    ],
+                    [
+                        "section",
+                        0.8493525719501881
+                    ],
+                    [
+                        "unexploitable",
+                        0.8514085757558807
+                    ],
+                    [
+                        "lot",
+                        0.8546441356562783
+                    ],
+                    [
+                        "value",
+                        0.8546441356562783
+                    ],
+                    [
+                        "making",
+                        0.8630408576639509
+                    ],
+                    [
+                        "practice",
+                        0.8672621768824231
+                    ],
+                    [
+                        "different",
+                        0.8694716636453478
+                    ],
+                    [
+                        "broad--",
+                        0.8815610952409911
+                    ],
+                    [
+                        "regard",
+                        0.8815867309541375
+                    ],
+                    [
+                        "second",
+                        0.8846326219257996
+                    ],
+                    [
+                        "framework",
+                        0.8895334181708965
+                    ],
+                    [
+                        "order",
+                        0.894107923234422
+                    ],
+                    [
+                        "level",
+                        0.8965072239151305
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "thing",
+                        0.36482283648590375
+                    ],
+                    [
+                        "decision",
+                        0.4089409077138928
+                    ],
+                    [
+                        "player",
+                        0.541003605106634
+                    ],
+                    [
+                        "poker",
+                        0.7155487465028169
+                    ],
+                    [
+                        "lot",
+                        0.8546441356562783
+                    ],
+                    [
+                        "different",
+                        0.8694716636453478
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-720": {
+            "id": "OTkq4OsG_Yc-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " we're going to learn minor adjustments that we can do to get quite a bit of extra money, like how to grind out that additional half big blind an hour out of our opponents. So any real deviations from what we normally do, in addition to meta game. Meta game is always fun, like anything not related to the hand to hand decision making process, like table selection, or bankroll management, or deciding whether or not to play. That stuff is really fun, and that's to be indicated by this ace here. OK. So I'm going to label those slides for anything that's considered advanced, and stuff you should only really do when you get the concepts down. And then a lot of this class is going to be focused on practice, which is how to actually implement these concepts on a day to day basis when you're actually playing, especially live. We are not going to have all the information. We're not going to have calculators, and we're not going to have that much time to make a decision. So how to apply these in real time, making rules of thumb, figuring out what you can just ignore and what you have to definitely do, and then some the psychology stuff related to actually performing live is going to be what I'm calling practice, which is going to be indicated by that poker chip with a P in it.",
+            "metrics": {
+                "relativeDCReadability": 1.087074924674089,
+                "lexicalDiversity": 0.4596774193548387,
+                "posComposition": {
+                    "PRP": 0.056,
+                    "VBP": 0.04,
+                    "VBG": 0.056,
+                    "TO": 0.085,
+                    "VB": 0.085,
+                    "JJ": 0.048,
+                    "NNS": 0.032,
+                    "IN": 0.089,
+                    "MD": 0.012,
+                    "RB": 0.085,
+                    "DT": 0.085,
+                    "NN": 0.141,
+                    "WRB": 0.02,
+                    "RP": 0.012,
+                    "PRP$": 0.004,
+                    "WP": 0.016,
+                    "NNP": 0.02,
+                    "VBZ": 0.032,
+                    "VBN": 0.028,
+                    "CC": 0.036,
+                    "WDT": 0.012,
+                    "PDT": 0.004
+                },
+                "syllableRate": 2.975,
+                "topicScores": [
+                    [
+                        "stuff",
+                        0.41259424395057226
+                    ],
+                    [
+                        "meta",
+                        0.4662198979732605
+                    ],
+                    [
+                        "game",
+                        0.4662198979732605
+                    ],
+                    [
+                        "fun",
+                        0.4927045562487653
+                    ],
+                    [
+                        "hand",
+                        0.5145052955437239
+                    ],
+                    [
+                        "practice",
+                        0.5197651555040542
+                    ],
+                    [
+                        "decision",
+                        0.5222467898440198
+                    ],
+                    [
+                        "live",
+                        0.5258387753234034
+                    ],
+                    [
+                        "real",
+                        0.5278408099351665
+                    ],
+                    [
+                        "concept",
+                        0.5300484851311036
+                    ],
+                    [
+                        "time",
+                        0.5303740183284404
+                    ],
+                    [
+                        "day",
+                        0.5483742446032812
+                    ],
+                    [
+                        "opponent",
+                        0.7071593219970637
+                    ],
+                    [
+                        "extra",
+                        0.7391803384896294
+                    ],
+                    [
+                        "money",
+                        0.7391803384896294
+                    ],
+                    [
+                        "minor",
+                        0.7534677427223297
+                    ],
+                    [
+                        "adjustment",
+                        0.7534677427223297
+                    ],
+                    [
+                        "bit",
+                        0.7534677427223297
+                    ],
+                    [
+                        "additional",
+                        0.7534677427223297
+                    ],
+                    [
+                        "half",
+                        0.7534677427223297
+                    ],
+                    [
+                        "big",
+                        0.7534677427223297
+                    ],
+                    [
+                        "blind",
+                        0.7534677427223297
+                    ],
+                    [
+                        "hour",
+                        0.7534677427223297
+                    ],
+                    [
+                        "meta game",
+                        0.7588870860405713
+                    ],
+                    [
+                        "deviation",
+                        0.8214189856159114
+                    ],
+                    [
+                        "table",
+                        0.8273667979528943
+                    ],
+                    [
+                        "bankroll",
+                        0.8273667979528943
+                    ],
+                    [
+                        "making",
+                        0.8382847038782466
+                    ],
+                    [
+                        "process",
+                        0.8382847038782466
+                    ],
+                    [
+                        "selection",
+                        0.8382847038782466
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "game",
+                        0.4662198979732605
+                    ],
+                    [
+                        "hand",
+                        0.5145052955437239
+                    ],
+                    [
+                        "decision",
+                        0.5222467898440198
+                    ],
+                    [
+                        "live",
+                        0.5258387753234034
+                    ],
+                    [
+                        "time",
+                        0.5303740183284404
+                    ],
+                    [
+                        "money",
+                        0.7391803384896294
+                    ],
+                    [
+                        "big",
+                        0.7534677427223297
+                    ],
+                    [
+                        "blind",
+                        0.7534677427223297
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-810": {
+            "id": "OTkq4OsG_Yc-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " Let's talk about what I'm bringing to the table here. So this course is primarily going to be from my perspective. And the decisions about what I'm going to teach you here, and the value calls I'm making, is going to come from what I consider the appropriate way for someone to play poker. So my background is that I was an online multi-table tournament grinder, not because I was a great pro, but because I sat more than I played. I was definitely a person who did not play every single tournament. I told you the World Series of Poker has like 25 different tournaments. 10 are Texas Hold'em. And then they have an Omaha tournament, and a horse tournament, which is a combination of five different games. And what is common is that any pro who plays one plays them all. I consider that ridiculous for someone who's actually interested in making any sort of money or career playing poker. So I'm definitely someone who prefers identifying value and monetizing it. So anyway, that's the perspective that I'm going to be teaching this course from. I like ROI. It's a great efficiency metric. Usually you try to maximize your ROI up until the point",
+            "metrics": {
+                "relativeDCReadability": 1.1681385070302064,
+                "lexicalDiversity": 0.4744186046511628,
+                "posComposition": {
+                    "VB": 0.042,
+                    "POS": 0.005,
+                    "IN": 0.098,
+                    "WP": 0.037,
+                    "PRP": 0.098,
+                    "VBP": 0.056,
+                    "VBG": 0.047,
+                    "TO": 0.033,
+                    "DT": 0.102,
+                    "NN": 0.135,
+                    "RB": 0.056,
+                    "VBZ": 0.06,
+                    "PRP$": 0.014,
+                    "CC": 0.037,
+                    "NNS": 0.019,
+                    "JJ": 0.056,
+                    "VBD": 0.033,
+                    "JJR": 0.005,
+                    "NNP": 0.047,
+                    "CD": 0.019,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.708,
+                "topicScores": [
+                    [
+                        "tournament",
+                        0.31219561740418617
+                    ],
+                    [
+                        "table",
+                        0.49317001386548087
+                    ],
+                    [
+                        "poker",
+                        0.5025087963191008
+                    ],
+                    [
+                        "great",
+                        0.5257055214137473
+                    ],
+                    [
+                        "course",
+                        0.5284255906540415
+                    ],
+                    [
+                        "perspective",
+                        0.5312787590736985
+                    ],
+                    [
+                        "different",
+                        0.5312787590736985
+                    ],
+                    [
+                        "pro",
+                        0.5347907850875339
+                    ],
+                    [
+                        "value",
+                        0.5416380863159627
+                    ],
+                    [
+                        "World",
+                        0.6186385246072693
+                    ],
+                    [
+                        "Series",
+                        0.6186385246072693
+                    ],
+                    [
+                        "Texas",
+                        0.6189311023079406
+                    ],
+                    [
+                        "World Series",
+                        0.6199936351872094
+                    ],
+                    [
+                        "Omaha",
+                        0.628271500921954
+                    ],
+                    [
+                        "ROI",
+                        0.6339629253387231
+                    ],
+                    [
+                        "decision",
+                        0.8539688155958819
+                    ],
+                    [
+                        "appropriate",
+                        0.8539688155958819
+                    ],
+                    [
+                        "way",
+                        0.8539688155958819
+                    ],
+                    [
+                        "online",
+                        0.8590640926191813
+                    ],
+                    [
+                        "multi",
+                        0.8590640926191813
+                    ],
+                    [
+                        "grinder",
+                        0.8590640926191813
+                    ],
+                    [
+                        "Hold'em",
+                        0.8623982676325375
+                    ],
+                    [
+                        "game",
+                        0.8670528855441045
+                    ],
+                    [
+                        "background",
+                        0.8682964619038449
+                    ],
+                    [
+                        "single",
+                        0.8688546610101998
+                    ],
+                    [
+                        "person",
+                        0.8775371017422857
+                    ],
+                    [
+                        "metric",
+                        0.8827782808616478
+                    ],
+                    [
+                        "point",
+                        0.8843709347580403
+                    ],
+                    [
+                        "horse",
+                        0.8851277941375587
+                    ],
+                    [
+                        "playing",
+                        0.8912382505580224
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "tournament",
+                        0.31219561740418617
+                    ],
+                    [
+                        "poker",
+                        0.5025087963191008
+                    ],
+                    [
+                        "different",
+                        0.5312787590736985
+                    ],
+                    [
+                        "decision",
+                        0.8539688155958819
+                    ],
+                    [
+                        "game",
+                        0.8670528855441045
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-900": {
+            "id": "OTkq4OsG_Yc-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " where it's below some sort of hourly that you set for yourself, because one of the ways you supplement ROI is by moving down in stakes. Usually lower stakes are easier games. You should have a higher win rate. But that win rate's multiplied by a much lower number. So usually you're going to move around in stakes until you have a good ROI, but hopefully above what you consider your lowest amount that you can feel comfortable earning. In addition, I want to focus on live tournaments because who knows what's going to happen to online? Whereas I think live tournaments are very social, they're very public. Everyone knows who wins live tournaments. So I'm going to teach in a way such that focuses on these types of values. OK. So let's move on to some of the concepts and tools that we're going to learn. So we're done learning about what we're actually going to be doing during this class. So let's learn a little bit about poker. So first thing is, we're going to be using PokerTracker a lot. So I'm going to email out exactly how to install this thing. PokerTracker has donated 115 licenses to their product for us. And then our next lesson, on Wednesday, is going to be Joel Fried teaching us how to use this thing and going through some of the analytics.",
+            "metrics": {
+                "relativeDCReadability": 1.0376773331615985,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "WRB": 0.012,
+                    "PRP": 0.082,
+                    "VBZ": 0.041,
+                    "IN": 0.135,
+                    "DT": 0.066,
+                    "NN": 0.074,
+                    "VBP": 0.07,
+                    "CD": 0.008,
+                    "NNS": 0.057,
+                    "NNP": 0.057,
+                    "VBG": 0.061,
+                    "RP": 0.008,
+                    "RB": 0.041,
+                    "JJR": 0.016,
+                    "MD": 0.008,
+                    "VB": 0.07,
+                    "JJ": 0.049,
+                    "CC": 0.02,
+                    "POS": 0.012,
+                    "VBN": 0.012,
+                    "TO": 0.057,
+                    "WP": 0.02,
+                    "PRP$": 0.012,
+                    "JJS": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 2.875,
+                "topicScores": [
+                    [
+                        "roi",
+                        0.36195671910435884
+                    ],
+                    [
+                        "stake",
+                        0.41253071044831985
+                    ],
+                    [
+                        "tournament",
+                        0.42442592944708574
+                    ],
+                    [
+                        "low",
+                        0.42498855136018565
+                    ],
+                    [
+                        "live",
+                        0.4276371760221703
+                    ],
+                    [
+                        "win",
+                        0.4282201448592338
+                    ],
+                    [
+                        "thing",
+                        0.4369270686201281
+                    ],
+                    [
+                        "rate",
+                        0.5273931725625827
+                    ],
+                    [
+                        "way",
+                        0.5541693653106543
+                    ],
+                    [
+                        "PokerTracker",
+                        0.5621556515621892
+                    ],
+                    [
+                        "Wednesday",
+                        0.6738009420854613
+                    ],
+                    [
+                        "Joel",
+                        0.6961893556077575
+                    ],
+                    [
+                        "Fried",
+                        0.6961893556077575
+                    ],
+                    [
+                        "game",
+                        0.8443593431057906
+                    ],
+                    [
+                        "sort",
+                        0.8535951081744939
+                    ],
+                    [
+                        "hourly",
+                        0.8535951081744939
+                    ],
+                    [
+                        "easy",
+                        0.8668017713553005
+                    ],
+                    [
+                        "number",
+                        0.8692410512124267
+                    ],
+                    [
+                        "earning",
+                        0.8761622356144364
+                    ],
+                    [
+                        "online",
+                        0.881374602665031
+                    ],
+                    [
+                        "public",
+                        0.8854725590694487
+                    ],
+                    [
+                        "high",
+                        0.8887460711862888
+                    ],
+                    [
+                        "addition",
+                        0.8907623769596776
+                    ],
+                    [
+                        "value",
+                        0.8915669228924602
+                    ],
+                    [
+                        "good",
+                        0.8945913643956734
+                    ],
+                    [
+                        "comfortable",
+                        0.8945913643956734
+                    ],
+                    [
+                        "class",
+                        0.8977095077367171
+                    ],
+                    [
+                        "poker",
+                        0.8992723276321931
+                    ],
+                    [
+                        "lot",
+                        0.9006660987982261
+                    ],
+                    [
+                        "social",
+                        0.9026700702166958
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "tournament",
+                        0.42442592944708574
+                    ],
+                    [
+                        "live",
+                        0.4276371760221703
+                    ],
+                    [
+                        "win",
+                        0.4282201448592338
+                    ],
+                    [
+                        "thing",
+                        0.4369270686201281
+                    ],
+                    [
+                        "game",
+                        0.8443593431057906
+                    ],
+                    [
+                        "good",
+                        0.8945913643956734
+                    ],
+                    [
+                        "poker",
+                        0.8992723276321931
+                    ],
+                    [
+                        "lot",
+                        0.9006660987982261
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-990": {
+            "id": "OTkq4OsG_Yc-990",
+            "heat": 0.1,
+            "start": 990.0,
+            "text": " So one other thing that I like using is the Universal Replayer. And what this thing does is it just visualizes hand histories. So you'll feed it a hand history in a text file. It animates it. It probably does other things, but it's free. And this thing's been around for a while. I've not even sure if it's supported anymore. But it's a thing that I'm used to. So this is what it looks like. So you give it a hand, and then it reproduces what you might have seen if you actually played that hand. So let's move on to a concept. So stack size. So this might seem fairly simple, but we ought to make sure we're talking about the same thing when we go through this. So your stack size, it's the value of the chips in front of you. So that's fairly normal. But we have this thing called effective stack size, which is what we're usually going to be talking about when we refer to stack, which is the minimum of your stack or the next biggest stack after you. And the way to think about this is the number of chips you could possibly lose in this one hand. That's what your relevant stack size is. And the way you make decisions will depend on your effective stack much more than anything else. So an example of this would be, say you're in a heads up situation where you're the hero here",
+            "metrics": {
+                "relativeDCReadability": 0.8291368446734799,
+                "lexicalDiversity": 0.4393939393939394,
+                "posComposition": {
+                    "RB": 0.061,
+                    "CD": 0.008,
+                    "JJ": 0.049,
+                    "NN": 0.144,
+                    "IN": 0.106,
+                    "PRP": 0.117,
+                    "VBP": 0.049,
+                    "VBG": 0.015,
+                    "VBZ": 0.072,
+                    "DT": 0.102,
+                    "NNP": 0.027,
+                    "CC": 0.038,
+                    "WP": 0.019,
+                    "NNS": 0.023,
+                    "MD": 0.027,
+                    "VB": 0.045,
+                    "POS": 0.008,
+                    "VBN": 0.011,
+                    "TO": 0.023,
+                    "VBD": 0.008,
+                    "WRB": 0.011,
+                    "PRP$": 0.015,
+                    "WDT": 0.011,
+                    "JJS": 0.004,
+                    "RBR": 0.004,
+                    "RP": 0.004
+                },
+                "syllableRate": 2.783,
+                "topicScores": [
+                    [
+                        "Universal Replayer",
+                        0.18142952036581
+                    ],
+                    [
+                        "stack",
+                        0.2711755778818517
+                    ],
+                    [
+                        "thing",
+                        0.28055725836243595
+                    ],
+                    [
+                        "hand",
+                        0.32120299821183806
+                    ],
+                    [
+                        "size",
+                        0.36393634724067725
+                    ],
+                    [
+                        "history",
+                        0.5093673588006563
+                    ],
+                    [
+                        "way",
+                        0.5621905036118768
+                    ],
+                    [
+                        "sure",
+                        0.5650813603487767
+                    ],
+                    [
+                        "chip",
+                        0.5659469814719477
+                    ],
+                    [
+                        "effective",
+                        0.567437393927391
+                    ],
+                    [
+                        "file",
+                        0.8596002146806548
+                    ],
+                    [
+                        "text",
+                        0.8771695694136747
+                    ],
+                    [
+                        "free",
+                        0.8823848129655066
+                    ],
+                    [
+                        "concept",
+                        0.9048505294448992
+                    ],
+                    [
+                        "normal",
+                        0.9109745632069195
+                    ],
+                    [
+                        "simple",
+                        0.9203342407391466
+                    ],
+                    [
+                        "value",
+                        0.9266795237986595
+                    ],
+                    [
+                        "hero",
+                        0.9268675702262128
+                    ],
+                    [
+                        "minimum",
+                        0.9286634168573181
+                    ],
+                    [
+                        "big",
+                        0.9286634168573181
+                    ],
+                    [
+                        "number",
+                        0.9295130270232395
+                    ],
+                    [
+                        "relevant",
+                        0.9302867322867062
+                    ],
+                    [
+                        "decision",
+                        0.9309952645591725
+                    ],
+                    [
+                        "example",
+                        0.9316473532683375
+                    ],
+                    [
+                        "head",
+                        0.9316473532683375
+                    ],
+                    [
+                        "situation",
+                        0.9316473532683375
+                    ],
+                    [
+                        "stack size",
+                        1.1434136944478839
+                    ],
+                    [
+                        "hand history",
+                        1.2828501580080236
+                    ],
+                    [
+                        "effective stack",
+                        2.149739581113254
+                    ],
+                    [
+                        "text file",
+                        3.0652910158045854
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "stack",
+                        0.2711755778818517
+                    ],
+                    [
+                        "thing",
+                        0.28055725836243595
+                    ],
+                    [
+                        "hand",
+                        0.32120299821183806
+                    ],
+                    [
+                        "chip",
+                        0.5659469814719477
+                    ],
+                    [
+                        "big",
+                        0.9286634168573181
+                    ],
+                    [
+                        "decision",
+                        0.9309952645591725
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1080": {
+            "id": "OTkq4OsG_Yc-1080",
+            "heat": 0.1,
+            "start": 1080.0,
+            "text": " on the small blind. Big blind has, whatever, 300 chips. And you have some amount of chips with queens. So if you have 1,500 chips, and so does he-- say blinds are like 10/20-- you have, what, like 50 times the blinds combined here. So this is a pretty different hand than aces. Why? So say that you raise with queens, and then he raises you. So you raise to 60, he raises you to 200, you raise to 600, and he pushes to 1,500. Your queens are probably not really that good anymore. It matters how many chips you have here. However, if you have 300 chips, you raise with queens, and then he pushes over, you can't fold that. You might as well have aces, and it makes your hands, the way you play hands, materially different. That's why chip size matters in general. When the chip stack is low, you're playing these two hands basically identical. You're saying-- you're just playing this range. However, when we're talking about effective chip stack, it's the same thing, where even if you have 1,500",
+            "metrics": {
+                "relativeDCReadability": 0.8522837957282924,
+                "lexicalDiversity": 0.4948453608247423,
+                "posComposition": {
+                    "IN": 0.093,
+                    "DT": 0.052,
+                    "JJ": 0.052,
+                    "NN": 0.067,
+                    "NNP": 0.015,
+                    "VBZ": 0.057,
+                    "RB": 0.108,
+                    "CD": 0.057,
+                    "NNS": 0.093,
+                    "CC": 0.031,
+                    "PRP": 0.139,
+                    "VBP": 0.093,
+                    ":": 0.015,
+                    "VB": 0.015,
+                    "WP": 0.005,
+                    "VBN": 0.005,
+                    "WRB": 0.031,
+                    "TO": 0.021,
+                    "PRP$": 0.01,
+                    "MD": 0.01,
+                    "POS": 0.005,
+                    "VBG": 0.021,
+                    "VBD": 0.005
+                },
+                "syllableRate": 1.975,
+                "topicScores": [
+                    [
+                        "chip",
+                        0.27798798375676576
+                    ],
+                    [
+                        "queen",
+                        0.35578583898727945
+                    ],
+                    [
+                        "blind",
+                        0.35842136349542814
+                    ],
+                    [
+                        "hand",
+                        0.38972204673865596
+                    ],
+                    [
+                        "different",
+                        0.5604269251491717
+                    ],
+                    [
+                        "ace",
+                        0.5604269251491717
+                    ],
+                    [
+                        "stack",
+                        0.5707307087017478
+                    ],
+                    [
+                        "small",
+                        0.8166707342223628
+                    ],
+                    [
+                        "big",
+                        0.8501765672720387
+                    ],
+                    [
+                        "he--",
+                        0.9085540741889986
+                    ],
+                    [
+                        "time",
+                        0.9085540741889986
+                    ],
+                    [
+                        "general",
+                        0.9177376623516559
+                    ],
+                    [
+                        "identical",
+                        0.9190220893626029
+                    ],
+                    [
+                        "range",
+                        0.9201668429370469
+                    ],
+                    [
+                        "good",
+                        0.9231023115068392
+                    ],
+                    [
+                        "way",
+                        0.9282186192408772
+                    ],
+                    [
+                        "low",
+                        0.9305970481498548
+                    ],
+                    [
+                        "thing",
+                        0.9324826645742886
+                    ],
+                    [
+                        "size",
+                        0.9344535484431536
+                    ],
+                    [
+                        "saying--",
+                        0.936423309632053
+                    ],
+                    [
+                        "effective",
+                        0.9372568291741181
+                    ],
+                    [
+                        "small blind",
+                        2.121651729340013
+                    ],
+                    [
+                        "big blind",
+                        2.419286011468421
+                    ],
+                    [
+                        "chip stack",
+                        2.478980185196677
+                    ],
+                    [
+                        "different hand",
+                        4.096538188858215
+                    ],
+                    [
+                        "chip size",
+                        4.663843755869987
+                    ],
+                    [
+                        "effective chip",
+                        4.744211783560499
+                    ],
+                    [
+                        "effective chip stack",
+                        31.992046348687353
+                    ]
+                ],
+                "topTopicSimilarity": 0.32142857142857145,
+                "sharedTopicScores": [
+                    [
+                        "chip",
+                        0.27798798375676576
+                    ],
+                    [
+                        "blind",
+                        0.35842136349542814
+                    ],
+                    [
+                        "hand",
+                        0.38972204673865596
+                    ],
+                    [
+                        "different",
+                        0.5604269251491717
+                    ],
+                    [
+                        "stack",
+                        0.5707307087017478
+                    ],
+                    [
+                        "big",
+                        0.8501765672720387
+                    ],
+                    [
+                        "time",
+                        0.9085540741889986
+                    ],
+                    [
+                        "good",
+                        0.9231023115068392
+                    ],
+                    [
+                        "thing",
+                        0.9324826645742886
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1170": {
+            "id": "OTkq4OsG_Yc-1170",
+            "heat": 0.1,
+            "start": 1170.0,
+            "text": " and he has 300, if you raise, he's going to push. You don't have the opportunity to do that back and forth anymore. So you might as well have 300 with regard to your decision making here. That's why we're looking at the effective stack, because it really matters who has the least number of chips, because that determines when the action is going to be over. So really, I like this definition the most, the most amount of chips that you can lose in the hand. It's a lot more, I think, simple to think about than this min formula. OK. And then we're almost always talking about effective stack. Let's talk about Dan Harrington. So Dan Harrington is a player whose style I very much like. His nickname's Action Dan, which the consensus is, he just kind of gave himself, because he's considered Mr. Fundamental, like tight aggressive ABC player. So this playing style, this temperament, tight aggressive, is something that is used to characterize basic playing styles. So let's quickly go through what those are. So there are two different axes here. There's how often you bet, where bet means you are raising the stakes,",
+            "metrics": {
+                "relativeDCReadability": 1.0509282505833635,
+                "lexicalDiversity": 0.49282296650717705,
+                "posComposition": {
+                    "CC": 0.014,
+                    "PRP": 0.086,
+                    "VBZ": 0.067,
+                    "CD": 0.014,
+                    "IN": 0.091,
+                    "VBP": 0.053,
+                    "VBG": 0.024,
+                    "TO": 0.029,
+                    "VB": 0.038,
+                    "RB": 0.086,
+                    "DT": 0.091,
+                    "NN": 0.139,
+                    "NNP": 0.072,
+                    "MD": 0.01,
+                    "PRP$": 0.01,
+                    "WRB": 0.019,
+                    "JJ": 0.048,
+                    "NNS": 0.029,
+                    "WP": 0.01,
+                    "JJS": 0.005,
+                    "RBS": 0.01,
+                    "JJR": 0.005,
+                    "POS": 0.014,
+                    "WP$": 0.005,
+                    "WDT": 0.01,
+                    "VBD": 0.005,
+                    "VBN": 0.01,
+                    "EX": 0.01
+                },
+                "syllableRate": 2.408,
+                "topicScores": [
+                    [
+                        "Dan",
+                        0.31158385572227987
+                    ],
+                    [
+                        "Harrington",
+                        0.39363583619800285
+                    ],
+                    [
+                        "Dan Harrington",
+                        0.40133897136552754
+                    ],
+                    [
+                        "style",
+                        0.4427892396335952
+                    ],
+                    [
+                        "stack",
+                        0.5375633008441858
+                    ],
+                    [
+                        "effective",
+                        0.5407320447675162
+                    ],
+                    [
+                        "chip",
+                        0.5419528868961384
+                    ],
+                    [
+                        "tight",
+                        0.5504521169802814
+                    ],
+                    [
+                        "aggressive",
+                        0.5559399696431564
+                    ],
+                    [
+                        "player",
+                        0.5625737028690253
+                    ],
+                    [
+                        "playing",
+                        0.5627828004295842
+                    ],
+                    [
+                        "bet",
+                        0.574313872607388
+                    ],
+                    [
+                        "Action",
+                        0.6667654960275006
+                    ],
+                    [
+                        "Mr.",
+                        0.6667654960275006
+                    ],
+                    [
+                        "Fundamental",
+                        0.6667654960275006
+                    ],
+                    [
+                        "ABC",
+                        0.6667654960275006
+                    ],
+                    [
+                        "Action Dan",
+                        0.7108836804419397
+                    ],
+                    [
+                        "Mr. Fundamental",
+                        0.8004270757904826
+                    ],
+                    [
+                        "opportunity",
+                        0.8649168720362346
+                    ],
+                    [
+                        "hand",
+                        0.8781969970381225
+                    ],
+                    [
+                        "formula",
+                        0.8847070112139208
+                    ],
+                    [
+                        "regard",
+                        0.8861246477134764
+                    ],
+                    [
+                        "decision",
+                        0.8861246477134764
+                    ],
+                    [
+                        "number",
+                        0.8976754000046224
+                    ],
+                    [
+                        "lot",
+                        0.9027710325458701
+                    ],
+                    [
+                        "simple",
+                        0.9027710325458701
+                    ],
+                    [
+                        "min",
+                        0.9027710325458701
+                    ],
+                    [
+                        "definition",
+                        0.9050800779698484
+                    ],
+                    [
+                        "stake",
+                        0.9076982317198311
+                    ],
+                    [
+                        "temperament",
+                        0.9114679558471107
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Harrington",
+                        0.39363583619800285
+                    ],
+                    [
+                        "Dan Harrington",
+                        0.40133897136552754
+                    ],
+                    [
+                        "stack",
+                        0.5375633008441858
+                    ],
+                    [
+                        "chip",
+                        0.5419528868961384
+                    ],
+                    [
+                        "player",
+                        0.5625737028690253
+                    ],
+                    [
+                        "hand",
+                        0.8781969970381225
+                    ],
+                    [
+                        "decision",
+                        0.8861246477134764
+                    ],
+                    [
+                        "lot",
+                        0.9027710325458701
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1260": {
+            "id": "OTkq4OsG_Yc-1260",
+            "heat": 0.1,
+            "start": 1260.0,
+            "text": " so either you bet or you raise. And then here's how often you call. Either you call a lot or you call not that much. You can get a good feel for the type of person someone is by what box they fill in. So these have names. So someone who's tight aggressive, you would just refer to them as Tag, which is like what Dan Harrington is. You bet when you have good hands and you fold when you have bad hands. Another possibly winning strategy is loose aggressive, Lag, where you certainly bet when you have good hands, but you will see a lot of cards before you'll give up on a hand. You're definitely willing to call a lot. These, type passive, are not pronounceable words, so the community generally came up with different words to describe these. So a tight passive person is weak. They're someone who you can completely run over, because they fold when they have a bad hand, they check when they have a good hand. I guess they would be called rocks. You never need to worry about having a big losing night against these guys. So someone who's type passive is generally considered playing sub-optionally. And then the loose passive people are described-- this icon, which I forget what it's from.",
+            "metrics": {
+                "relativeDCReadability": 0.8475830907400801,
+                "lexicalDiversity": 0.4780701754385965,
+                "posComposition": {
+                    "RB": 0.092,
+                    "PRP": 0.127,
+                    "VBP": 0.096,
+                    "CC": 0.026,
+                    "VBZ": 0.044,
+                    "WRB": 0.031,
+                    "DT": 0.083,
+                    "NN": 0.101,
+                    "JJ": 0.092,
+                    "MD": 0.026,
+                    "VB": 0.039,
+                    "IN": 0.075,
+                    "WP": 0.026,
+                    "NNP": 0.018,
+                    "NNS": 0.044,
+                    "TO": 0.018,
+                    "WDT": 0.009,
+                    "VBG": 0.013,
+                    "VBD": 0.009,
+                    "RP": 0.013,
+                    "VBN": 0.013,
+                    ":": 0.004
+                },
+                "syllableRate": 2.483,
+                "topicScores": [
+                    [
+                        "hand",
+                        0.28939981878992965
+                    ],
+                    [
+                        "good",
+                        0.347242200217124
+                    ],
+                    [
+                        "passive",
+                        0.3669936262525949
+                    ],
+                    [
+                        "lot",
+                        0.4153360674715231
+                    ],
+                    [
+                        "type",
+                        0.43411683569779996
+                    ],
+                    [
+                        "bad",
+                        0.53569921755386
+                    ],
+                    [
+                        "aggressive",
+                        0.5411628243458652
+                    ],
+                    [
+                        "person",
+                        0.5532267362496228
+                    ],
+                    [
+                        "tight",
+                        0.5579388932483195
+                    ],
+                    [
+                        "loose",
+                        0.5635676136383859
+                    ],
+                    [
+                        "word",
+                        0.5673367191340942
+                    ],
+                    [
+                        "Tag",
+                        0.6213516714297272
+                    ],
+                    [
+                        "Harrington",
+                        0.6213516714297272
+                    ],
+                    [
+                        "Lag",
+                        0.6297112640718852
+                    ],
+                    [
+                        "Dan",
+                        0.6331573573304334
+                    ],
+                    [
+                        "Dan Harrington",
+                        0.6485691750306128
+                    ],
+                    [
+                        "name",
+                        0.8713736247341368
+                    ],
+                    [
+                        "feel",
+                        0.8906005697745661
+                    ],
+                    [
+                        "box",
+                        0.8906005697745661
+                    ],
+                    [
+                        "weak",
+                        0.8956939683254594
+                    ],
+                    [
+                        "rock",
+                        0.8994315013824462
+                    ],
+                    [
+                        "guy",
+                        0.9009709144576054
+                    ],
+                    [
+                        "pronounceable",
+                        0.909511502583158
+                    ],
+                    [
+                        "strategy",
+                        0.9114334090397138
+                    ],
+                    [
+                        "card",
+                        0.9114334090397138
+                    ],
+                    [
+                        "willing",
+                        0.9140790565242737
+                    ],
+                    [
+                        "community",
+                        0.9162769341464659
+                    ],
+                    [
+                        "different",
+                        0.9162769341464659
+                    ],
+                    [
+                        "sub",
+                        0.9172446273245181
+                    ],
+                    [
+                        "icon",
+                        0.9183076527675261
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "hand",
+                        0.28939981878992965
+                    ],
+                    [
+                        "good",
+                        0.347242200217124
+                    ],
+                    [
+                        "lot",
+                        0.4153360674715231
+                    ],
+                    [
+                        "type",
+                        0.43411683569779996
+                    ],
+                    [
+                        "Harrington",
+                        0.6213516714297272
+                    ],
+                    [
+                        "Dan Harrington",
+                        0.6485691750306128
+                    ],
+                    [
+                        "different",
+                        0.9162769341464659
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1350": {
+            "id": "OTkq4OsG_Yc-1350",
+            "heat": 0.1,
+            "start": 1350.0,
+            "text": " I think it might be from an old version of PokerTracker, or maybe it was on Party Poker or something. But everyone loved seeing this icon which you could label people as, because a loose passive person is what? They are a calling machine. That's what that stands for, and it means that when you have a hand, they will call all of your bets. You will extract value out of them. But when they have a hand, they're OK with letting you look at your draws to make a decision about whether by the river you have a hand or not. There's virtually no way that these guys are making money in poker. I think it would be, like over a realistic sample size, there's no type of player who could fit in this quadrant and be good enough on any other metric to actually be making money in poker. So in general how we look at this is, we would call this Tag guy solid ABC. That's what I'm recommending you guys play as. Tag players, as a quadrant, are going to be the biggest winners. Lag players, someone who's very aggressive and plays a lot of hands, could possibly be a pretty good winner.",
+            "metrics": {
+                "relativeDCReadability": 0.9725746448099859,
+                "lexicalDiversity": 0.45794392523364486,
+                "posComposition": {
+                    "PRP": 0.093,
+                    "VBP": 0.061,
+                    "MD": 0.037,
+                    "VB": 0.061,
+                    "IN": 0.136,
+                    "DT": 0.107,
+                    "JJ": 0.056,
+                    "NN": 0.131,
+                    "NNP": 0.042,
+                    "CC": 0.037,
+                    "RB": 0.037,
+                    "VBD": 0.009,
+                    "VBG": 0.033,
+                    "WDT": 0.005,
+                    "NNS": 0.033,
+                    "VBZ": 0.047,
+                    "WP": 0.023,
+                    "WRB": 0.014,
+                    "PRP$": 0.009,
+                    "TO": 0.014,
+                    "EX": 0.009,
+                    "JJS": 0.005
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "Party Poker",
+                        0.19730017062419872
+                    ],
+                    [
+                        "hand",
+                        0.33380430838027825
+                    ],
+                    [
+                        "player",
+                        0.41777484230419387
+                    ],
+                    [
+                        "guy",
+                        0.4294978726590464
+                    ],
+                    [
+                        "Tag",
+                        0.44549183566984374
+                    ],
+                    [
+                        "poker",
+                        0.4769953754885016
+                    ],
+                    [
+                        "money",
+                        0.5047794120435014
+                    ],
+                    [
+                        "winner",
+                        0.5160916014895689
+                    ],
+                    [
+                        "quadrant",
+                        0.5337885142780872
+                    ],
+                    [
+                        "good",
+                        0.5438443564332958
+                    ],
+                    [
+                        "ABC",
+                        0.6114373584574597
+                    ],
+                    [
+                        "PokerTracker",
+                        0.7425007772379816
+                    ],
+                    [
+                        "old",
+                        0.757799180925669
+                    ],
+                    [
+                        "version",
+                        0.757799180925669
+                    ],
+                    [
+                        "people",
+                        0.8127234985341343
+                    ],
+                    [
+                        "machine",
+                        0.8158969167528334
+                    ],
+                    [
+                        "icon",
+                        0.824834106927608
+                    ],
+                    [
+                        "loose",
+                        0.824834106927608
+                    ],
+                    [
+                        "passive",
+                        0.824834106927608
+                    ],
+                    [
+                        "person",
+                        0.824834106927608
+                    ],
+                    [
+                        "bet",
+                        0.833230462622348
+                    ],
+                    [
+                        "Lag",
+                        0.8650209800232398
+                    ],
+                    [
+                        "value",
+                        0.8751951489286174
+                    ],
+                    [
+                        "draw",
+                        0.8818440168927824
+                    ],
+                    [
+                        "decision",
+                        0.8818440168927824
+                    ],
+                    [
+                        "river",
+                        0.8818440168927824
+                    ],
+                    [
+                        "sample",
+                        0.882580152266634
+                    ],
+                    [
+                        "size",
+                        0.882580152266634
+                    ],
+                    [
+                        "solid",
+                        0.8859798762606551
+                    ],
+                    [
+                        "way",
+                        0.8868481208563659
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "hand",
+                        0.33380430838027825
+                    ],
+                    [
+                        "player",
+                        0.41777484230419387
+                    ],
+                    [
+                        "poker",
+                        0.4769953754885016
+                    ],
+                    [
+                        "money",
+                        0.5047794120435014
+                    ],
+                    [
+                        "good",
+                        0.5438443564332958
+                    ],
+                    [
+                        "people",
+                        0.8127234985341343
+                    ],
+                    [
+                        "decision",
+                        0.8818440168927824
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1440": {
+            "id": "OTkq4OsG_Yc-1440",
+            "heat": 0.1,
+            "start": 1440.0,
+            "text": " It depends on the type of game, and then their opponent and their ability to pick spots. But there are a lot of big Lag winners. There are not a lot of big weak winners. And there are not a lot of calling machines, loose passive players, who are not big losers. So anytime you see-- this is a definition of someone who's a complete fish, a huge donater to the game. And your ability to recognize this type of thing will help you find good games to play, when you see someone doing this kind of thing. Anyway, back to Action Dan. So Dan Harrington is a pretty good poker player. He's been around the block. He won the main event back in 1995, when it had, like, 300 people in it. He has two World Series of Poker bracelets and one World Poker Tour title. But anyway, so Harrington popularized this thing called the M-ratio, which was invented by someone else. So the M-ratio was invented by this guy Paul Magriel, who's a backgammon theorist, apparently one of the best backgammon players in the world, commentator for the WSOB, World Series of Backgammon, and eight WSOB final tables. Anyway, so he's supposedly really, really good at math, even by MIT standards. But he invented this thing called the M-ratio, but then it never caught on until Harrington",
+            "metrics": {
+                "relativeDCReadability": 1.10360712141368,
+                "lexicalDiversity": 0.5384615384615384,
+                "posComposition": {
+                    "PRP": 0.051,
+                    "VBZ": 0.034,
+                    "IN": 0.111,
+                    "DT": 0.103,
+                    "NN": 0.141,
+                    "CC": 0.043,
+                    "RB": 0.085,
+                    "PRP$": 0.013,
+                    "TO": 0.021,
+                    "VB": 0.021,
+                    "NNS": 0.051,
+                    "EX": 0.013,
+                    "VBP": 0.026,
+                    "JJ": 0.056,
+                    "VBG": 0.009,
+                    "WP": 0.013,
+                    ":": 0.004,
+                    "MD": 0.004,
+                    "WRB": 0.009,
+                    "NNP": 0.107,
+                    "VBN": 0.013,
+                    "VBD": 0.038,
+                    "CD": 0.026,
+                    "WDT": 0.004,
+                    "JJS": 0.004
+                },
+                "syllableRate": 2.742,
+                "topicScores": [
+                    [
+                        "Harrington",
+                        0.3094941081509306
+                    ],
+                    [
+                        "World",
+                        0.3142860400222937
+                    ],
+                    [
+                        "thing",
+                        0.3652041077481229
+                    ],
+                    [
+                        "lot",
+                        0.37525901804216927
+                    ],
+                    [
+                        "m",
+                        0.3754353782258224
+                    ],
+                    [
+                        "good",
+                        0.3782653855662801
+                    ],
+                    [
+                        "Dan",
+                        0.3831594046318532
+                    ],
+                    [
+                        "Series",
+                        0.39190284548699134
+                    ],
+                    [
+                        "big",
+                        0.3948486880965585
+                    ],
+                    [
+                        "World Series",
+                        0.4041251549389562
+                    ],
+                    [
+                        "WSOB",
+                        0.41731142050375664
+                    ],
+                    [
+                        "Poker",
+                        0.41758187859983703
+                    ],
+                    [
+                        "game",
+                        0.4198374268230294
+                    ],
+                    [
+                        "ratio",
+                        0.42523088121024505
+                    ],
+                    [
+                        "player",
+                        0.4276865620326001
+                    ],
+                    [
+                        "winner",
+                        0.4716780386397691
+                    ],
+                    [
+                        "Lag",
+                        0.5047439217217232
+                    ],
+                    [
+                        "ability",
+                        0.5272828718663086
+                    ],
+                    [
+                        "type",
+                        0.535726456728251
+                    ],
+                    [
+                        "backgammon",
+                        0.5710596129330603
+                    ],
+                    [
+                        "Dan Harrington",
+                        0.6023262937128157
+                    ],
+                    [
+                        "Lag winner",
+                        0.6060194115664556
+                    ],
+                    [
+                        "Action Dan",
+                        0.6331154519615917
+                    ],
+                    [
+                        "big Lag",
+                        0.6627728700526371
+                    ],
+                    [
+                        "Tour",
+                        0.6628159965726921
+                    ],
+                    [
+                        "Paul",
+                        0.6708701918452634
+                    ],
+                    [
+                        "Magriel",
+                        0.6708701918452634
+                    ],
+                    [
+                        "MIT",
+                        0.6742796560441104
+                    ],
+                    [
+                        "World Poker",
+                        0.7123916581083711
+                    ],
+                    [
+                        "spot",
+                        0.7563144193417676
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Harrington",
+                        0.3094941081509306
+                    ],
+                    [
+                        "thing",
+                        0.3652041077481229
+                    ],
+                    [
+                        "lot",
+                        0.37525901804216927
+                    ],
+                    [
+                        "good",
+                        0.3782653855662801
+                    ],
+                    [
+                        "big",
+                        0.3948486880965585
+                    ],
+                    [
+                        "game",
+                        0.4198374268230294
+                    ],
+                    [
+                        "player",
+                        0.4276865620326001
+                    ],
+                    [
+                        "type",
+                        0.535726456728251
+                    ],
+                    [
+                        "Dan Harrington",
+                        0.6023262937128157
+                    ],
+                    [
+                        "MIT",
+                        0.6742796560441104
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1530": {
+            "id": "OTkq4OsG_Yc-1530",
+            "heat": 0.1,
+            "start": 1530.0,
+            "text": " started doing it. All right, so Harrington's M-ratio is your effective stack divided by the sum of the blinds and the empties. So you'll hear people talk about, like, oh, I had 10 big blinds, or 15 big blinds or whatever, to talk about their chip stack. But that has a fundamental problem. It has a lot of different problems. One is, it doesn't tell the story. So the usual blind levels are like 1/2 or 2/4, where the big blind is just twice the small blind. So that's the assumption. But if you're at a blind level that's like 1/3 or 3/5, the number of big blinds you have is not indicative of anything. It's not indicative of how many hands you can see, or how much you care about winning a pot pre-flop. So using the blinds is bad, in addition to, once you start having, like, if you're 50/100 blinds and you have an ante of 25, you have basically half the stack you had before, in realistic terms. Just to get big blinds doesn't, in fact, earn antes at all. And that's a major problem referring to it like that. So using M seems to make a lot more sense. So what it is, is it's basically the percentage of your stack",
+            "metrics": {
+                "relativeDCReadability": 0.9187803639059604,
+                "lexicalDiversity": 0.47577092511013214,
+                "posComposition": {
+                    "VBN": 0.009,
+                    "VBG": 0.026,
+                    "PRP": 0.079,
+                    "DT": 0.106,
+                    "RB": 0.044,
+                    "IN": 0.123,
+                    "NNP": 0.026,
+                    "POS": 0.004,
+                    "VBZ": 0.075,
+                    "PRP$": 0.013,
+                    "JJ": 0.079,
+                    "NN": 0.115,
+                    "NNS": 0.062,
+                    "CC": 0.044,
+                    "MD": 0.009,
+                    "VB": 0.026,
+                    "VBP": 0.048,
+                    "VBD": 0.009,
+                    "CD": 0.04,
+                    "WDT": 0.013,
+                    "TO": 0.022,
+                    "WRB": 0.013,
+                    "PDT": 0.004,
+                    "JJR": 0.004,
+                    "WP": 0.004
+                },
+                "syllableRate": 2.408,
+                "topicScores": [
+                    [
+                        "blind",
+                        0.24242041279938792
+                    ],
+                    [
+                        "big",
+                        0.3366729763096881
+                    ],
+                    [
+                        "stack",
+                        0.3743576670263916
+                    ],
+                    [
+                        "problem",
+                        0.4302490329570936
+                    ],
+                    [
+                        "indicative",
+                        0.551774291804353
+                    ],
+                    [
+                        "level",
+                        0.5564367571854725
+                    ],
+                    [
+                        "Harrington",
+                        0.5600246761915729
+                    ],
+                    [
+                        "lot",
+                        0.5654696833809231
+                    ],
+                    [
+                        "ante",
+                        0.5698417864209833
+                    ],
+                    [
+                        "M",
+                        0.6905221079843645
+                    ],
+                    [
+                        "empty",
+                        0.862257402837829
+                    ],
+                    [
+                        "ratio",
+                        0.8816542852981831
+                    ],
+                    [
+                        "effective",
+                        0.8899111515240442
+                    ],
+                    [
+                        "sum",
+                        0.8899111515240442
+                    ],
+                    [
+                        "chip",
+                        0.8936040367338187
+                    ],
+                    [
+                        "story",
+                        0.8955426473872192
+                    ],
+                    [
+                        "flop",
+                        0.8985735255830163
+                    ],
+                    [
+                        "people",
+                        0.9011206840243736
+                    ],
+                    [
+                        "fundamental",
+                        0.9012709337604862
+                    ],
+                    [
+                        "assumption",
+                        0.9021788062192252
+                    ],
+                    [
+                        "different",
+                        0.9066787626612783
+                    ],
+                    [
+                        "term",
+                        0.9085493215366126
+                    ],
+                    [
+                        "sense",
+                        0.9127581274403062
+                    ],
+                    [
+                        "small",
+                        0.9139202091954691
+                    ],
+                    [
+                        "addition",
+                        0.915672667283885
+                    ],
+                    [
+                        "realistic",
+                        0.915672667283885
+                    ],
+                    [
+                        "fact",
+                        0.9171372993540915
+                    ],
+                    [
+                        "number",
+                        0.9186398763184975
+                    ],
+                    [
+                        "usual",
+                        0.9201298486504401
+                    ],
+                    [
+                        "pot",
+                        0.9204544113177474
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "blind",
+                        0.24242041279938792
+                    ],
+                    [
+                        "big",
+                        0.3366729763096881
+                    ],
+                    [
+                        "stack",
+                        0.3743576670263916
+                    ],
+                    [
+                        "Harrington",
+                        0.5600246761915729
+                    ],
+                    [
+                        "lot",
+                        0.5654696833809231
+                    ],
+                    [
+                        "M",
+                        0.6905221079843645
+                    ],
+                    [
+                        "chip",
+                        0.8936040367338187
+                    ],
+                    [
+                        "people",
+                        0.9011206840243736
+                    ],
+                    [
+                        "different",
+                        0.9066787626612783
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1620": {
+            "id": "OTkq4OsG_Yc-1620",
+            "heat": 0.1,
+            "start": 1620.0,
+            "text": " that is the blinds in the ante. So it's like how many rounds of poker you can survive if you just fold every single hand. Of course, you're not going to do that. Although I think that's what he's actually getting at, because he uses M to refer to when you have to make a move, which is not generally how I recommend you do it. I think it's more important, because it means how important the blinds are to your stack. The only reason anyone plays any hand of poker is because someone wants to win the blind. So even if you have kings, to some extent, if you could win the blinds, 99% of the time you would just do that. You don't really all the time want someone to go up against you. So the blinds are really driving the decision making process, at least pre-flop. And the percentage that those blinds are of your stack matter a lot. If they're 1% of your stack, if your M is 100, the blind basically don't matter at all. Whatever happens after the blinds is going to materially impact your decision. Where if your M is 2, and the blinds are half your stack, winning those seems really important. You should do whatever you can to kind of maximize your chance of winning that. So that's why M is a good ratio here. And then, in addition, for tournaments, it makes it much easier to talk about hands without having to worry about all the different parts",
+            "metrics": {
+                "relativeDCReadability": 0.9253771257967824,
+                "lexicalDiversity": 0.4232209737827715,
+                "posComposition": {
+                    "DT": 0.105,
+                    "VBZ": 0.071,
+                    "NNS": 0.045,
+                    "IN": 0.127,
+                    "NN": 0.116,
+                    "PRP": 0.09,
+                    "WRB": 0.022,
+                    "JJ": 0.034,
+                    "MD": 0.019,
+                    "VB": 0.064,
+                    "RB": 0.064,
+                    "VBP": 0.06,
+                    "VBG": 0.026,
+                    "TO": 0.045,
+                    "WP": 0.004,
+                    "NNP": 0.022,
+                    "WDT": 0.011,
+                    "RBR": 0.004,
+                    "PRP$": 0.03,
+                    "CD": 0.015,
+                    "RP": 0.004,
+                    "JJS": 0.004,
+                    "CC": 0.011,
+                    "JJR": 0.004,
+                    "PDT": 0.004
+                },
+                "syllableRate": 2.958,
+                "topicScores": [
+                    [
+                        "blind",
+                        0.2542328273518689
+                    ],
+                    [
+                        "M",
+                        0.27029207637470076
+                    ],
+                    [
+                        "stack",
+                        0.36283116365574725
+                    ],
+                    [
+                        "hand",
+                        0.4423963012172286
+                    ],
+                    [
+                        "important",
+                        0.44255784882142646
+                    ],
+                    [
+                        "poker",
+                        0.5493321827873401
+                    ],
+                    [
+                        "time",
+                        0.560565485178296
+                    ],
+                    [
+                        "decision",
+                        0.5632971312165823
+                    ],
+                    [
+                        "matter",
+                        0.5711888282256532
+                    ],
+                    [
+                        "ante",
+                        0.8307625073882919
+                    ],
+                    [
+                        "single",
+                        0.8773955543198524
+                    ],
+                    [
+                        "round",
+                        0.88626187964033
+                    ],
+                    [
+                        "flop",
+                        0.8913194236560711
+                    ],
+                    [
+                        "lot",
+                        0.9025951727534305
+                    ],
+                    [
+                        "king",
+                        0.9107049857685928
+                    ],
+                    [
+                        "extent",
+                        0.9107049857685928
+                    ],
+                    [
+                        "part",
+                        0.9110605183046102
+                    ],
+                    [
+                        "reason",
+                        0.9143228598186824
+                    ],
+                    [
+                        "making",
+                        0.9155846573120927
+                    ],
+                    [
+                        "process",
+                        0.9155846573120927
+                    ],
+                    [
+                        "pre",
+                        0.9155846573120927
+                    ],
+                    [
+                        "addition",
+                        0.9183167340430266
+                    ],
+                    [
+                        "tournament",
+                        0.9183167340430266
+                    ],
+                    [
+                        "percentage",
+                        0.9236821493602688
+                    ],
+                    [
+                        "ratio",
+                        0.9238398868317705
+                    ],
+                    [
+                        "different",
+                        0.9247422891766399
+                    ],
+                    [
+                        "chance",
+                        0.9286896577959961
+                    ],
+                    [
+                        "good",
+                        0.9296169482958502
+                    ],
+                    [
+                        "easy",
+                        0.930456052455963
+                    ],
+                    [
+                        "stack matter",
+                        3.214021924625439
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "blind",
+                        0.2542328273518689
+                    ],
+                    [
+                        "M",
+                        0.27029207637470076
+                    ],
+                    [
+                        "stack",
+                        0.36283116365574725
+                    ],
+                    [
+                        "hand",
+                        0.4423963012172286
+                    ],
+                    [
+                        "poker",
+                        0.5493321827873401
+                    ],
+                    [
+                        "time",
+                        0.560565485178296
+                    ],
+                    [
+                        "decision",
+                        0.5632971312165823
+                    ],
+                    [
+                        "lot",
+                        0.9025951727534305
+                    ],
+                    [
+                        "tournament",
+                        0.9183167340430266
+                    ],
+                    [
+                        "different",
+                        0.9247422891766399
+                    ],
+                    [
+                        "good",
+                        0.9296169482958502
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1710": {
+            "id": "OTkq4OsG_Yc-1710",
+            "heat": 0.1,
+            "start": 1710.0,
+            "text": " of the tournament life cycle. If you have 1,500 chips and it's 50/100 blinds, you can basically make the same decisions as if you have 10 times as many chips at a level that's 10 times as high blinds. You could just divide in your head and basically make the same decision. You don't need to worry about doing anything different as a result of having more chips. So Harrington invented or brought up a bunch of other things that never really caught on. He invented a thing called the queue ratio, which is your stack size divided by the average stack size in the tournament. So I guess you might use this to get an idea of how far behind you are in the tournament. Like if your queue is 5, you don't need to be that aggressive. But if your queue is .2, you have a lot of catching up to do before you're realistically going to be anywhere near the money. I don't really make decisions based on that. I think the community doesn't. So it never really caught on for anything. I've never actually heard anyone use that. So he came up with this thing called effective M, which makes sense, if you look at M from his perspective. Effective M, it's your M divided by-- you multiply by how shorthanded your table is. And it gives you the equivalent of the number of 10-handed tables you could survive. It just means that, say you have 10 Ms,",
+            "metrics": {
+                "relativeDCReadability": 1.0110827529856425,
+                "lexicalDiversity": 0.46564885496183206,
+                "posComposition": {
+                    "IN": 0.141,
+                    "DT": 0.076,
+                    "JJ": 0.05,
+                    "NN": 0.118,
+                    "PRP": 0.099,
+                    "VBP": 0.057,
+                    "CD": 0.023,
+                    "NNS": 0.042,
+                    "CC": 0.019,
+                    "VBZ": 0.042,
+                    "MD": 0.015,
+                    "RB": 0.076,
+                    "VB": 0.057,
+                    "WDT": 0.019,
+                    "PRP$": 0.027,
+                    "TO": 0.019,
+                    "VBG": 0.015,
+                    "JJR": 0.004,
+                    "NNP": 0.031,
+                    "VBD": 0.019,
+                    "RP": 0.011,
+                    "VBN": 0.027,
+                    "WRB": 0.008,
+                    ":": 0.004
+                },
+                "syllableRate": 2.942,
+                "topicScores": [
+                    [
+                        "M",
+                        0.29305635042625977
+                    ],
+                    [
+                        "tournament",
+                        0.4015311919397549
+                    ],
+                    [
+                        "chip",
+                        0.42166925209414724
+                    ],
+                    [
+                        "decision",
+                        0.42292818851877767
+                    ],
+                    [
+                        "queue",
+                        0.4273620413619436
+                    ],
+                    [
+                        "thing",
+                        0.44358862807319777
+                    ],
+                    [
+                        "blind",
+                        0.5282076313827545
+                    ],
+                    [
+                        "time",
+                        0.5282076313827545
+                    ],
+                    [
+                        "stack",
+                        0.5601406983530502
+                    ],
+                    [
+                        "size",
+                        0.5601406983530502
+                    ],
+                    [
+                        "table",
+                        0.5655902262601987
+                    ],
+                    [
+                        "Harrington",
+                        0.6263505184428689
+                    ],
+                    [
+                        "cycle",
+                        0.7476286981968894
+                    ],
+                    [
+                        "life",
+                        0.7834985482813542
+                    ],
+                    [
+                        "high",
+                        0.8687532134461642
+                    ],
+                    [
+                        "level",
+                        0.8790026969417586
+                    ],
+                    [
+                        "aggressive",
+                        0.8886788944430658
+                    ],
+                    [
+                        "head",
+                        0.8911871437410848
+                    ],
+                    [
+                        "money",
+                        0.8914493545542638
+                    ],
+                    [
+                        "Effective",
+                        0.8918119696184063
+                    ],
+                    [
+                        "different",
+                        0.8990085191553825
+                    ],
+                    [
+                        "result",
+                        0.8990085191553825
+                    ],
+                    [
+                        "perspective",
+                        0.9005572958249656
+                    ],
+                    [
+                        "ratio",
+                        0.9006496202216302
+                    ],
+                    [
+                        "bunch",
+                        0.9045271432623714
+                    ],
+                    [
+                        "average",
+                        0.9086700723322005
+                    ],
+                    [
+                        "idea",
+                        0.911919329472096
+                    ],
+                    [
+                        "lot",
+                        0.9167387081756257
+                    ],
+                    [
+                        "sense",
+                        0.9171013388430328
+                    ],
+                    [
+                        "handed",
+                        0.9191297860746303
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "M",
+                        0.29305635042625977
+                    ],
+                    [
+                        "tournament",
+                        0.4015311919397549
+                    ],
+                    [
+                        "chip",
+                        0.42166925209414724
+                    ],
+                    [
+                        "decision",
+                        0.42292818851877767
+                    ],
+                    [
+                        "thing",
+                        0.44358862807319777
+                    ],
+                    [
+                        "blind",
+                        0.5282076313827545
+                    ],
+                    [
+                        "time",
+                        0.5282076313827545
+                    ],
+                    [
+                        "stack",
+                        0.5601406983530502
+                    ],
+                    [
+                        "Harrington",
+                        0.6263505184428689
+                    ],
+                    [
+                        "money",
+                        0.8914493545542638
+                    ],
+                    [
+                        "different",
+                        0.8990085191553825
+                    ],
+                    [
+                        "lot",
+                        0.9167387081756257
+                    ]
+                ]
+            }
+        },
+        "OTkq4OsG_Yc-1800": {
+            "id": "OTkq4OsG_Yc-1800",
+            "heat": 0.1,
+            "start": 1800.0,
+            "text": " you could survive 10 rounds of blinds. If you have three people at your table, you can't survive for another like six hours because you actually pay the blind every other hand. That's what effective M is doing. It reduces your M proportionally. Since he's looking at this from the perspective of when you need to start making moves, it kind of makes sense that your M would be reduced if you're shorthanded. But I look at M from the perspective of how valuable it is in terms of blinds. So I don't really use that. I don't know anyone who really uses effective M either. But he invented them, and maybe they'll catch on eventually. So I think that's going to be done for today. Thanks, everyone, for a good first lecture.",
+            "metrics": {
+                "relativeDCReadability": 1.00608193406831,
+                "lexicalDiversity": 0.48936170212765956,
+                "posComposition": {
+                    "PRP": 0.121,
+                    "MD": 0.028,
+                    "VB": 0.064,
+                    "CD": 0.021,
+                    "NNS": 0.05,
+                    "IN": 0.149,
+                    "VBP": 0.05,
+                    "PRP$": 0.021,
+                    "NN": 0.078,
+                    "RB": 0.071,
+                    "DT": 0.064,
+                    "JJ": 0.05,
+                    "VBZ": 0.057,
+                    "WP": 0.014,
+                    "NNP": 0.057,
+                    "VBG": 0.028,
+                    "WRB": 0.014,
+                    "TO": 0.014,
+                    "VBN": 0.021,
+                    "CC": 0.021,
+                    "VBD": 0.007
+                },
+                "syllableRate": 1.625,
+                "topicScores": [
+                    [
+                        "M",
+                        0.2821166950749011
+                    ],
+                    [
+                        "blind",
+                        0.41266813298076244
+                    ],
+                    [
+                        "perspective",
+                        0.5348140574402163
+                    ],
+                    [
+                        "effective",
+                        0.5568354357846442
+                    ],
+                    [
+                        "round",
+                        0.802209071485393
+                    ],
+                    [
+                        "hand",
+                        0.8054393977365767
+                    ],
+                    [
+                        "table",
+                        0.8439223772640961
+                    ],
+                    [
+                        "people",
+                        0.8592356862193697
+                    ],
+                    [
+                        "hour",
+                        0.8592356862193697
+                    ],
+                    [
+                        "thank",
+                        0.8707701830528776
+                    ],
+                    [
+                        "today",
+                        0.8840621835731959
+                    ],
+                    [
+                        "lecture",
+                        0.8865526524338798
+                    ],
+                    [
+                        "move",
+                        0.8895304497933338
+                    ],
+                    [
+                        "sense",
+                        0.9008944860763692
+                    ],
+                    [
+                        "valuable",
+                        0.9063207914487204
+                    ],
+                    [
+                        "term",
+                        0.9063207914487204
+                    ],
+                    [
+                        "good",
+                        0.9201446281142255
+                    ],
+                    [
+                        "good first lecture",
+                        30.09036013952565
+                    ]
+                ],
+                "topTopicSimilarity": 0.2777777777777778,
+                "sharedTopicScores": [
+                    [
+                        "M",
+                        0.2821166950749011
+                    ],
+                    [
+                        "blind",
+                        0.41266813298076244
+                    ],
+                    [
+                        "hand",
+                        0.8054393977365767
+                    ],
+                    [
+                        "people",
+                        0.8592356862193697
+                    ],
+                    [
+                        "good",
+                        0.9201446281142255
+                    ]
+                ]
+            }
+        }
+    }
+}

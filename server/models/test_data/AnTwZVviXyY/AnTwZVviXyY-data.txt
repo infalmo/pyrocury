@@ -1,0 +1,2402 @@
+{
+    "metadata": {
+        "id": "AnTwZVviXyY",
+        "avgHeat": 0.19,
+        "runtime": 988.97,
+        "dale-challReadabilityScore": 7.094580153112055,
+        "lexicalDiversity": 0.45294117647058824,
+        "posComposition": {
+            "NNP": 0.013,
+            "DT": 0.1,
+            "VBZ": 0.051,
+            "JJ": 0.062,
+            "NN": 0.117,
+            "VBN": 0.013,
+            "IN": 0.105,
+            "CD": 0.005,
+            "NNS": 0.047,
+            "WDT": 0.008,
+            "WP": 0.013,
+            "RB": 0.072,
+            "JJS": 0.002,
+            "PRP": 0.094,
+            "VBP": 0.059,
+            "VBG": 0.028,
+            "MD": 0.013,
+            "VB": 0.058,
+            "TO": 0.038,
+            "CC": 0.04,
+            "VBD": 0.011,
+            "PRP$": 0.018,
+            "EX": 0.005,
+            "PDT": 0.004,
+            ":": 0.004,
+            "WRB": 0.008,
+            "RP": 0.003,
+            "RBR": 0.002,
+            "JJR": 0.005,
+            "RBS": 0.001,
+            "POS": 0.001,
+            "FW": 0.0
+        },
+        "syllableRate": 4.324,
+        "topicScores": [
+            [
+                "model",
+                0.17301056500325507
+            ],
+            [
+                "system",
+                0.18033836459049962
+            ],
+            [
+                "mental",
+                0.1908790507700069
+            ],
+            [
+                "decision",
+                0.20047143577965035
+            ],
+            [
+                "time",
+                0.2065559174866216
+            ],
+            [
+                "PROFESSOR",
+                0.21381852800036724
+            ],
+            [
+                "feedback",
+                0.22430569479708176
+            ],
+            [
+                "effect",
+                0.23086653119558478
+            ],
+            [
+                "class",
+                0.24208668612240375
+            ],
+            [
+                "world",
+                0.24347847303997264
+            ],
+            [
+                "people",
+                0.24541312562699014
+            ],
+            [
+                "audience",
+                0.24773703368064537
+            ],
+            [
+                "short",
+                0.2534608618714276
+            ],
+            [
+                "thing",
+                0.2550666097282912
+            ],
+            [
+                "right",
+                0.2715589407196522
+            ],
+            [
+                "semester",
+                0.28683983731744067
+            ],
+            [
+                "problem",
+                0.2904423795923417
+            ],
+            [
+                "real",
+                0.2909216443407935
+            ],
+            [
+                "loop",
+                0.29154663354534827
+            ],
+            [
+                "way",
+                0.29357226086705845
+            ],
+            [
+                "change",
+                0.2948495044712858
+            ],
+            [
+                "great",
+                0.31348355220917756
+            ],
+            [
+                "term",
+                0.314662017644867
+            ],
+            [
+                "good",
+                0.3156767940959623
+            ],
+            [
+                "lot",
+                0.3163116661473571
+            ],
+            [
+                "project",
+                0.3169539708731972
+            ],
+            [
+                "organization",
+                0.31781245157952726
+            ],
+            [
+                "goal",
+                0.31808040920134256
+            ],
+            [
+                "half",
+                0.34432737310547745
+            ],
+            [
+                "fault",
+                0.3485574434871387
+            ]
+        ],
+        "topicsList": [
+            "model",
+            "system",
+            "mental",
+            "decision",
+            "time",
+            "PROFESSOR",
+            "feedback",
+            "effect",
+            "class",
+            "world",
+            "people",
+            "audience",
+            "short",
+            "thing",
+            "right",
+            "semester",
+            "problem",
+            "real",
+            "loop",
+            "way",
+            "change",
+            "great",
+            "term",
+            "good",
+            "lot",
+            "project",
+            "organization",
+            "goal",
+            "half",
+            "fault"
+        ]
+    },
+    "chunks": {
+        "AnTwZVviXyY-0": {
+            "id": "AnTwZVviXyY-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: This is a full semester class divided into two half semester pieces. 15.871 is the six unit H-1 class. That's what probably most of you are thinking about doing. What I would urge you to do is to take both halves, because you and I will co-teach the fall semester. The second half is called 15.872. And although we think this first half is good, the real value in terms of developing a meaningful capability for you to be able to use system dynamics and systems thinking effectively will come if you take the full semester. You don't have to exercise that real option today. You can wait make that decision a little later. But think about it for right now for your semester planning. There are five assignments over the course of this semester. So the good news is there are no exams. The bad news is that there are five assignments and this class has a reputation that I believe is reasonably well deserved for having a heavy workload. The reason for that is clear. I can't teach you anything. I know you're giggling over there. But it's absolutely true. I can't teach you anything. All that I can do-- all that we can do is create an opportunity for you to learn for yourself. You have to do it, try it, practice it,",
+            "metrics": {
+                "relativeDCReadability": 1.0259793850187506,
+                "lexicalDiversity": 0.44871794871794873,
+                "posComposition": {
+                    "NNP": 0.009,
+                    "DT": 0.103,
+                    "VBZ": 0.056,
+                    "JJ": 0.064,
+                    "NN": 0.128,
+                    "VBN": 0.013,
+                    "IN": 0.107,
+                    "CD": 0.026,
+                    "NNS": 0.03,
+                    "WDT": 0.004,
+                    "WP": 0.009,
+                    "RB": 0.051,
+                    "JJS": 0.004,
+                    "PRP": 0.115,
+                    "VBP": 0.051,
+                    "VBG": 0.026,
+                    "MD": 0.034,
+                    "VB": 0.085,
+                    "TO": 0.03,
+                    "CC": 0.026,
+                    "VBD": 0.004,
+                    "PRP$": 0.004,
+                    "EX": 0.013,
+                    "PDT": 0.004,
+                    ":": 0.004
+                },
+                "syllableRate": 2.7,
+                "topicScores": [
+                    [
+                        "semester",
+                        0.29982072645933944
+                    ],
+                    [
+                        "half",
+                        0.3706651554211715
+                    ],
+                    [
+                        "class",
+                        0.43271368626979073
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.433310520503647
+                    ],
+                    [
+                        "assignment",
+                        0.5538501107271652
+                    ],
+                    [
+                        "news",
+                        0.5544431036979346
+                    ],
+                    [
+                        "real",
+                        0.5560889216236792
+                    ],
+                    [
+                        "good",
+                        0.5597620127886296
+                    ],
+                    [
+                        "system",
+                        0.5643073946138235
+                    ],
+                    [
+                        "h-1",
+                        0.5852110494326845
+                    ],
+                    [
+                        "piece",
+                        0.8431125385000224
+                    ],
+                    [
+                        "unit",
+                        0.8878075933801437
+                    ],
+                    [
+                        "today",
+                        0.8878610020861224
+                    ],
+                    [
+                        "planning",
+                        0.8930154061969297
+                    ],
+                    [
+                        "fall",
+                        0.8936962965725199
+                    ],
+                    [
+                        "exam",
+                        0.8968378640296955
+                    ],
+                    [
+                        "second",
+                        0.8982563512184739
+                    ],
+                    [
+                        "workload",
+                        0.8984124941037169
+                    ],
+                    [
+                        "clear",
+                        0.8998168373649674
+                    ],
+                    [
+                        "true",
+                        0.9032652083746794
+                    ],
+                    [
+                        "option",
+                        0.9047384477103855
+                    ],
+                    [
+                        "little",
+                        0.9071509900782979
+                    ],
+                    [
+                        "value",
+                        0.9091180222796034
+                    ],
+                    [
+                        "term",
+                        0.9091180222796034
+                    ],
+                    [
+                        "meaningful",
+                        0.9091180222796034
+                    ],
+                    [
+                        "capability",
+                        0.9091180222796034
+                    ],
+                    [
+                        "able",
+                        0.9091180222796034
+                    ],
+                    [
+                        "dynamic",
+                        0.9091180222796034
+                    ],
+                    [
+                        "bad",
+                        0.9138559698847256
+                    ],
+                    [
+                        "heavy",
+                        0.9138559698847256
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "semester",
+                        0.29982072645933944
+                    ],
+                    [
+                        "half",
+                        0.3706651554211715
+                    ],
+                    [
+                        "class",
+                        0.43271368626979073
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.433310520503647
+                    ],
+                    [
+                        "real",
+                        0.5560889216236792
+                    ],
+                    [
+                        "good",
+                        0.5597620127886296
+                    ],
+                    [
+                        "system",
+                        0.5643073946138235
+                    ],
+                    [
+                        "term",
+                        0.9091180222796034
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-90": {
+            "id": "AnTwZVviXyY-90",
+            "heat": 0.144,
+            "start": 90.0,
+            "text": " if you're going to develop the capability. That is not going to happen by coming to class. Now, you need to come to class, and participation is part of the grade. But that's not sufficient. It's also necessary for you to try everything out. And that is why we have those assignments. You also are going to need to read the textbooks. So this is the book. And it's pretty fat and heavy. You're not going to be asked to read the whole thing. The bad news on that is I wrote it. So I can tell you that it'll definitely cure your insomnia. I don't care if you buy it. Although I always say, if you buy two, then you can kind of go like this all day, and you can save money by quitting your gym membership. But I don't care if you buy it. I do care that you read it. You can't do well on the assignments unless you read the material in the book carefully, and work through some of those examples. Chapter one is what you need to be reading first. The syllabus tells you what to read for every day. In addition, from time to time, we are asking you to read a couple of short case studies or other material. And we'll provide follow up articles from the professional literature from time to time as well. So the question is why? Why do we need something like system dynamics and systems thinking? And I think the answer is not simply that the world is changing faster and faster. Things are accelerating. Everybody knows that. That's kind of the price of admission to the world today. It's that, despite all the tools and methods that we've got,",
+            "metrics": {
+                "relativeDCReadability": 0.9173206699835883,
+                "lexicalDiversity": 0.4527687296416938,
+                "posComposition": {
+                    "IN": 0.117,
+                    "PRP": 0.121,
+                    "VBP": 0.068,
+                    "VBG": 0.036,
+                    "TO": 0.052,
+                    "VB": 0.068,
+                    "DT": 0.094,
+                    "NN": 0.134,
+                    "WDT": 0.003,
+                    "VBZ": 0.052,
+                    "RB": 0.065,
+                    "CC": 0.046,
+                    "JJ": 0.033,
+                    "WRB": 0.01,
+                    "NNS": 0.036,
+                    "VBN": 0.007,
+                    "VBD": 0.003,
+                    "MD": 0.02,
+                    "PRP$": 0.007,
+                    "CD": 0.007,
+                    "NNP": 0.003,
+                    "WP": 0.007,
+                    "RP": 0.003,
+                    "RBR": 0.003,
+                    "JJR": 0.003,
+                    "PDT": 0.003
+                },
+                "syllableRate": 3.4,
+                "topicScores": [
+                    [
+                        "time",
+                        0.3683725785736116
+                    ],
+                    [
+                        "class",
+                        0.4920536933870958
+                    ],
+                    [
+                        "book",
+                        0.5499064910497268
+                    ],
+                    [
+                        "thing",
+                        0.5570677868363129
+                    ],
+                    [
+                        "assignment",
+                        0.5585208455833698
+                    ],
+                    [
+                        "day",
+                        0.5600996580431692
+                    ],
+                    [
+                        "material",
+                        0.5650791852271316
+                    ],
+                    [
+                        "world",
+                        0.566964072676494
+                    ],
+                    [
+                        "system",
+                        0.5747167883513092
+                    ],
+                    [
+                        "capability",
+                        0.7746167676986895
+                    ],
+                    [
+                        "grade",
+                        0.8627562811976819
+                    ],
+                    [
+                        "sufficient",
+                        0.8763465984683567
+                    ],
+                    [
+                        "participation",
+                        0.8782925656387307
+                    ],
+                    [
+                        "textbook",
+                        0.8959355220661469
+                    ],
+                    [
+                        "heavy",
+                        0.9025494376335842
+                    ],
+                    [
+                        "necessary",
+                        0.9042336096262094
+                    ],
+                    [
+                        "insomnia",
+                        0.9088982532709381
+                    ],
+                    [
+                        "membership",
+                        0.9118560592914507
+                    ],
+                    [
+                        "example",
+                        0.9152100061417863
+                    ],
+                    [
+                        "chapter",
+                        0.9161265429981428
+                    ],
+                    [
+                        "bad",
+                        0.9180924527889899
+                    ],
+                    [
+                        "fat",
+                        0.9190451500245026
+                    ],
+                    [
+                        "today",
+                        0.9218459134855492
+                    ],
+                    [
+                        "gym",
+                        0.9223344935603447
+                    ],
+                    [
+                        "addition",
+                        0.9228845023183062
+                    ],
+                    [
+                        "news",
+                        0.9228906779903048
+                    ],
+                    [
+                        "syllabus",
+                        0.9268858097968626
+                    ],
+                    [
+                        "money",
+                        0.9269040009358611
+                    ],
+                    [
+                        "couple",
+                        0.9318577393638313
+                    ],
+                    [
+                        "short",
+                        0.9318577393638313
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "time",
+                        0.3683725785736116
+                    ],
+                    [
+                        "class",
+                        0.4920536933870958
+                    ],
+                    [
+                        "thing",
+                        0.5570677868363129
+                    ],
+                    [
+                        "world",
+                        0.566964072676494
+                    ],
+                    [
+                        "system",
+                        0.5747167883513092
+                    ],
+                    [
+                        "short",
+                        0.9318577393638313
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-180": {
+            "id": "AnTwZVviXyY-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " all the analytic power and our cleverness, things are getting harder and harder. And more and more of the policies that we implement are failing to solve the pressing challenges that we face. And this is not what I'm saying this is what the senior leaders and organizations with whom I work, what they tell me. And the thoughtful ones-- the most thoughtful ones-- they say it's not just the things are getting harder and more difficult, despite our cleverness and our analytic power, but because of it. That we're too clever for our own good. And I illustrate this traditionally with this picture of one of the leaders of an organization that I've worked with. And here is the poor guy in this office. Now many of you have seen this before, but I think it's just a great representation of what's going on. Like most senior managers or lower level managers, he is completely squeeze by pressures on all sides. Can't breathe. Claustrophobic. And what you're asked to do as a manager is to be decisive. You've got to make decisions. Boo. Things are now much better for you. Now you can begin to breathe more easily, see out to the side. Relief. Things are great. But as you may suspect, there could be some unanticipated side effects. Now, the reason I like this and the reason I'm showing it to you again, so I think it's a great way to capture the core of what",
+            "metrics": {
+                "relativeDCReadability": 0.9133686954699335,
+                "lexicalDiversity": 0.421455938697318,
+                "posComposition": {
+                    "PDT": 0.004,
+                    "DT": 0.1,
+                    "JJ": 0.069,
+                    "NN": 0.065,
+                    "CC": 0.065,
+                    "PRP$": 0.015,
+                    "NNS": 0.057,
+                    "VBP": 0.084,
+                    "VBG": 0.023,
+                    "RBR": 0.008,
+                    "JJR": 0.027,
+                    "IN": 0.107,
+                    "PRP": 0.103,
+                    "TO": 0.031,
+                    "VB": 0.042,
+                    "VBZ": 0.038,
+                    "RB": 0.061,
+                    "WP": 0.027,
+                    ":": 0.008,
+                    "RBS": 0.004,
+                    "CD": 0.004,
+                    "VBN": 0.019,
+                    "JJS": 0.004,
+                    "NNP": 0.015,
+                    "MD": 0.011,
+                    "RP": 0.004,
+                    "EX": 0.004
+                },
+                "syllableRate": 3.0,
+                "topicScores": [
+                    [
+                        "thing",
+                        0.35164199806515944
+                    ],
+                    [
+                        "hard",
+                        0.3784778568656964
+                    ],
+                    [
+                        "great",
+                        0.43475729998247203
+                    ],
+                    [
+                        "manager",
+                        0.44470296621356575
+                    ],
+                    [
+                        "analytic",
+                        0.5124371592180379
+                    ],
+                    [
+                        "power",
+                        0.5135238324678751
+                    ],
+                    [
+                        "cleverness",
+                        0.5135238324678751
+                    ],
+                    [
+                        "thoughtful",
+                        0.5366761945545464
+                    ],
+                    [
+                        "leader",
+                        0.5407393040714727
+                    ],
+                    [
+                        "ones--",
+                        0.5444800144737956
+                    ],
+                    [
+                        "organization",
+                        0.5479099796367627
+                    ],
+                    [
+                        "senior",
+                        0.5549016056435113
+                    ],
+                    [
+                        "reason",
+                        0.5627702812802888
+                    ],
+                    [
+                        "policy",
+                        0.8587558708643724
+                    ],
+                    [
+                        "challenge",
+                        0.8587558708643724
+                    ],
+                    [
+                        "Claustrophobic",
+                        0.8716496310272995
+                    ],
+                    [
+                        "good",
+                        0.876320353191496
+                    ],
+                    [
+                        "boo",
+                        0.8779772871496407
+                    ],
+                    [
+                        "Relief",
+                        0.8824541706144273
+                    ],
+                    [
+                        "difficult",
+                        0.8850827479357254
+                    ],
+                    [
+                        "office",
+                        0.8878817241661794
+                    ],
+                    [
+                        "decisive",
+                        0.9017376435351697
+                    ],
+                    [
+                        "decision",
+                        0.9034187766656181
+                    ],
+                    [
+                        "picture",
+                        0.90598391119632
+                    ],
+                    [
+                        "level",
+                        0.9096252608635255
+                    ],
+                    [
+                        "poor",
+                        0.910069910528205
+                    ],
+                    [
+                        "guy",
+                        0.910069910528205
+                    ],
+                    [
+                        "effect",
+                        0.9103771451686522
+                    ],
+                    [
+                        "representation",
+                        0.9132741186931201
+                    ],
+                    [
+                        "low",
+                        0.9158698562279003
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "thing",
+                        0.35164199806515944
+                    ],
+                    [
+                        "great",
+                        0.43475729998247203
+                    ],
+                    [
+                        "organization",
+                        0.5479099796367627
+                    ],
+                    [
+                        "good",
+                        0.876320353191496
+                    ],
+                    [
+                        "decision",
+                        0.9034187766656181
+                    ],
+                    [
+                        "effect",
+                        0.9103771451686522
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-270": {
+            "id": "AnTwZVviXyY-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " a lot of systems thinking is about. Why does this happen? Why does this happen? And why don't people learn? So it's not just that it happens once, but people do it over and over again. So why? That's a real question for you. So what do think? Why might this happen? And why might this phenomenon persist? Yeah go ahead. AUDIENCE: It's only in the short term, and the short-term implications of that action. PROFESSOR: Great. So short-term time rise and not thinking about what might happen later. So apres-moi le deluge. I don't care. I'll do what's good for me in the short run. I don't care if it destroys the world later. OK great. What else? Yeah go ahead. AUDIENCE: Feedback loops. So you would get some feedback and you won't really consider it the way that it really is. PROFESSOR: So there's definitely a feedback loop here, right? And the problem is that it takes too much time for that to happen. So the time delay in getting the feedback-- maybe missing feedback-- is connected to the short time horizon. In fact, what's going to happen in most organizations to this manager right about now? He solved the problem, right? So what happens to him. AUDIENCE: He gets promoted. PROFESSOR: Of course. He gets promoted. You get to sit in the chair. It's a combination of short time horizon, and not only by that guy, but the people who are evaluating his performance and maybe encouraging him to have a short time horizon. That's not going to be good for anybody in this situation.",
+            "metrics": {
+                "relativeDCReadability": 1.0150286131308,
+                "lexicalDiversity": 0.48056537102473496,
+                "posComposition": {
+                    "DT": 0.099,
+                    "NN": 0.134,
+                    "IN": 0.092,
+                    "NNS": 0.021,
+                    "VBG": 0.028,
+                    "VBZ": 0.074,
+                    "WRB": 0.021,
+                    "VB": 0.053,
+                    "CC": 0.039,
+                    "VBP": 0.039,
+                    "RB": 0.12,
+                    "PRP": 0.078,
+                    "JJ": 0.053,
+                    "WP": 0.025,
+                    "MD": 0.021,
+                    "NNP": 0.039,
+                    "EX": 0.004,
+                    "TO": 0.028,
+                    ":": 0.007,
+                    "VBN": 0.011,
+                    "JJS": 0.004,
+                    "VBD": 0.004,
+                    "PRP$": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 3.283,
+                "topicScores": [
+                    [
+                        "audience",
+                        0.2562883761435017
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.2828189136306001
+                    ],
+                    [
+                        "short",
+                        0.2829119456551534
+                    ],
+                    [
+                        "time",
+                        0.3163621557626345
+                    ],
+                    [
+                        "horizon",
+                        0.43585727609911645
+                    ],
+                    [
+                        "term",
+                        0.4408390398129575
+                    ],
+                    [
+                        "right",
+                        0.4476380172088908
+                    ],
+                    [
+                        "people",
+                        0.4479905297661079
+                    ],
+                    [
+                        "feedback",
+                        0.4500256143529344
+                    ],
+                    [
+                        "great",
+                        0.5473389901686608
+                    ],
+                    [
+                        "loop",
+                        0.5671693153888743
+                    ],
+                    [
+                        "good",
+                        0.5771182199710597
+                    ],
+                    [
+                        "problem",
+                        0.5788486285725131
+                    ],
+                    [
+                        "lot",
+                        0.8261985147438418
+                    ],
+                    [
+                        "system",
+                        0.8357204231857379
+                    ],
+                    [
+                        "thinking",
+                        0.8357204231857379
+                    ],
+                    [
+                        "action",
+                        0.9241987676397998
+                    ],
+                    [
+                        "real",
+                        0.9272379692089999
+                    ],
+                    [
+                        "question",
+                        0.9272379692089999
+                    ],
+                    [
+                        "deluge",
+                        0.9282699754512462
+                    ],
+                    [
+                        "phenomenon",
+                        0.9294681436913218
+                    ],
+                    [
+                        "run",
+                        0.9297763777240167
+                    ],
+                    [
+                        "apre",
+                        0.932964729356466
+                    ],
+                    [
+                        "implication",
+                        0.933623522838687
+                    ],
+                    [
+                        "moi",
+                        0.9372229202606763
+                    ],
+                    [
+                        "chair",
+                        0.9373349096487027
+                    ],
+                    [
+                        "situation",
+                        0.9377931788642153
+                    ],
+                    [
+                        "world",
+                        0.9391390786794772
+                    ],
+                    [
+                        "fact",
+                        0.9396536869765062
+                    ],
+                    [
+                        "rise",
+                        0.9403769411945896
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "audience",
+                        0.2562883761435017
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.2828189136306001
+                    ],
+                    [
+                        "short",
+                        0.2829119456551534
+                    ],
+                    [
+                        "time",
+                        0.3163621557626345
+                    ],
+                    [
+                        "term",
+                        0.4408390398129575
+                    ],
+                    [
+                        "right",
+                        0.4476380172088908
+                    ],
+                    [
+                        "people",
+                        0.4479905297661079
+                    ],
+                    [
+                        "feedback",
+                        0.4500256143529344
+                    ],
+                    [
+                        "great",
+                        0.5473389901686608
+                    ],
+                    [
+                        "loop",
+                        0.5671693153888743
+                    ],
+                    [
+                        "good",
+                        0.5771182199710597
+                    ],
+                    [
+                        "problem",
+                        0.5788486285725131
+                    ],
+                    [
+                        "lot",
+                        0.8261985147438418
+                    ],
+                    [
+                        "system",
+                        0.8357204231857379
+                    ],
+                    [
+                        "real",
+                        0.9272379692089999
+                    ],
+                    [
+                        "world",
+                        0.9391390786794772
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-360": {
+            "id": "AnTwZVviXyY-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " What else? What else might be going on? We get somebody over on this side? [? Argoff, ?] what do you think? AUDIENCE: I think it's also, like you said it was, when you're thinking only short term, you find that can you make a decision without thinking about what the impact of-- PROFESSOR: This is a really important point. And let me put it into our terms. When people say, it wasn't my fault, the reason we failed was some outside effect, some unanticipated side effect, something that came from out there. It wasn't my fault. They're trying to persuade you that they, in fact, are great managers and shouldn't be held responsible for the bad outcome. In fact, almost all the time, it is at least partially the result of their own past decisions. Feedback they didn't understand and didn't recognize. And what they're actually trying to do is persuade you that it wasn't their fault. But what they're really communicating is how narrow and blinkered and inadequate is their understanding of the system in which they're embedded, what we would call their mental model. I think that's where you were going. So that's a really important idea in what we're going to be about. So one of the mental models that I think is the most damaging out there is this open loop mental model. And here's the question.",
+            "metrics": {
+                "relativeDCReadability": 0.9742065952600666,
+                "lexicalDiversity": 0.4534412955465587,
+                "posComposition": {
+                    "WP": 0.032,
+                    "VBD": 0.053,
+                    "RB": 0.069,
+                    "MD": 0.016,
+                    "VB": 0.053,
+                    "VBG": 0.032,
+                    "IN": 0.101,
+                    "PRP": 0.117,
+                    "VBP": 0.057,
+                    "NN": 0.109,
+                    "DT": 0.077,
+                    "NNP": 0.02,
+                    "VBZ": 0.045,
+                    "WRB": 0.016,
+                    "JJ": 0.069,
+                    ":": 0.004,
+                    "CC": 0.032,
+                    "PRP$": 0.028,
+                    "NNS": 0.02,
+                    "WDT": 0.008,
+                    "EX": 0.008,
+                    "TO": 0.012,
+                    "VBN": 0.004,
+                    "PDT": 0.004,
+                    "JJS": 0.004,
+                    "CD": 0.004,
+                    "RBS": 0.004
+                },
+                "syllableRate": 2.833,
+                "topicScores": [
+                    [
+                        "fault",
+                        0.3954826470351342
+                    ],
+                    [
+                        "model",
+                        0.4171119652155638
+                    ],
+                    [
+                        "mental",
+                        0.4223283648993022
+                    ],
+                    [
+                        "Argoff",
+                        0.5143418321066177
+                    ],
+                    [
+                        "fact",
+                        0.5249451918058632
+                    ],
+                    [
+                        "term",
+                        0.5298418296223149
+                    ],
+                    [
+                        "important",
+                        0.5356746903174661
+                    ],
+                    [
+                        "decision",
+                        0.5393321189853048
+                    ],
+                    [
+                        "effect",
+                        0.5460796615462786
+                    ],
+                    [
+                        "audience",
+                        0.5505834743550467
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5939426168253835
+                    ],
+                    [
+                        "point",
+                        0.8792229181419667
+                    ],
+                    [
+                        "short",
+                        0.8883874117274313
+                    ],
+                    [
+                        "of--",
+                        0.8883874117274313
+                    ],
+                    [
+                        "outcome",
+                        0.8901911858288678
+                    ],
+                    [
+                        "people",
+                        0.8920844545613655
+                    ],
+                    [
+                        "feedback",
+                        0.8936853114754791
+                    ],
+                    [
+                        "impact",
+                        0.8943454592467728
+                    ],
+                    [
+                        "reason",
+                        0.898046888986001
+                    ],
+                    [
+                        "outside",
+                        0.898046888986001
+                    ],
+                    [
+                        "unanticipated",
+                        0.898046888986001
+                    ],
+                    [
+                        "question",
+                        0.9006489895406735
+                    ],
+                    [
+                        "bad",
+                        0.9021877212932584
+                    ],
+                    [
+                        "great",
+                        0.9021877212932585
+                    ],
+                    [
+                        "time",
+                        0.9038619751666869
+                    ],
+                    [
+                        "past",
+                        0.9038619751666869
+                    ],
+                    [
+                        "manager",
+                        0.9074858035079356
+                    ],
+                    [
+                        "responsible",
+                        0.9074858035079356
+                    ],
+                    [
+                        "result",
+                        0.9090785094186657
+                    ],
+                    [
+                        "narrow",
+                        0.9128658319513802
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "fault",
+                        0.3954826470351342
+                    ],
+                    [
+                        "model",
+                        0.4171119652155638
+                    ],
+                    [
+                        "mental",
+                        0.4223283648993022
+                    ],
+                    [
+                        "term",
+                        0.5298418296223149
+                    ],
+                    [
+                        "decision",
+                        0.5393321189853048
+                    ],
+                    [
+                        "effect",
+                        0.5460796615462786
+                    ],
+                    [
+                        "audience",
+                        0.5505834743550467
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5939426168253835
+                    ],
+                    [
+                        "short",
+                        0.8883874117274313
+                    ],
+                    [
+                        "people",
+                        0.8920844545613655
+                    ],
+                    [
+                        "feedback",
+                        0.8936853114754791
+                    ],
+                    [
+                        "great",
+                        0.9021877212932585
+                    ],
+                    [
+                        "time",
+                        0.9038619751666869
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-450": {
+            "id": "AnTwZVviXyY-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " In a project that you've been involved in or that you were reviewing, how many times have you seen this picture? Can I see hands? Who's seen it? Almost everybody. Who's drawn it in one of their project proposals? About 3/4 of the same hands. This is a very interesting, unintended revelation of mental models that people hold about complex dynamical systems. And it basically says, there's a beginning and middle and end to the project. We're going to identify the issue. We're going to gather the data, evaluate our choices, select the optimal solution, and then implement. And of course, the students in the last class when I said, what's wrong with this picture? They all said, oh well. You know. You're a professor. So you've never implemented anything in your life. OK. Now, in fact, a lot of my research is devoted to the question of why implementation so often fails. We're going to talk about that. System dynamics isn't useful unless you can actually make things different. If you can't catalyze change in your organizations in which you're engaged, none of this is meaningful. You might as well become a professor. So we're going to talk a lot about-- and I mean that in all the negative senses that you're laughing about. We're going to talk about system dynamics in action, especially in the second half of the class. You're going to see a lot of case studies of how people have been able to use these tools effectively in difficult political organizational settings. So that's an issue. But it's not the real problem. The real problem with this is that it has this open loop one-way sequential perspective that says there's a beginning, middle and end to the project.",
+            "metrics": {
+                "relativeDCReadability": 1.0482894484578718,
+                "lexicalDiversity": 0.5031847133757962,
+                "posComposition": {
+                    "IN": 0.127,
+                    "DT": 0.108,
+                    "NN": 0.137,
+                    "PRP": 0.083,
+                    "VBP": 0.054,
+                    "VBN": 0.025,
+                    "CC": 0.029,
+                    "VBD": 0.01,
+                    "VBG": 0.025,
+                    "WRB": 0.013,
+                    "JJ": 0.073,
+                    "NNS": 0.057,
+                    "MD": 0.013,
+                    "VB": 0.041,
+                    "WP": 0.006,
+                    "VBZ": 0.048,
+                    "NNP": 0.016,
+                    "POS": 0.003,
+                    "CD": 0.006,
+                    "PRP$": 0.016,
+                    "RB": 0.054,
+                    "EX": 0.006,
+                    "TO": 0.032,
+                    "RP": 0.003,
+                    "WDT": 0.006,
+                    ":": 0.003,
+                    "PDT": 0.003
+                },
+                "syllableRate": 3.858,
+                "topicScores": [
+                    [
+                        "project",
+                        0.3574802473196322
+                    ],
+                    [
+                        "lot",
+                        0.42757803368218084
+                    ],
+                    [
+                        "system",
+                        0.4281357381027518
+                    ],
+                    [
+                        "hand",
+                        0.5056326422844427
+                    ],
+                    [
+                        "picture",
+                        0.5099003098865289
+                    ],
+                    [
+                        "professor",
+                        0.5350517439455
+                    ],
+                    [
+                        "issue",
+                        0.5430985072372502
+                    ],
+                    [
+                        "beginning",
+                        0.5451878240284441
+                    ],
+                    [
+                        "middle",
+                        0.5451878240284441
+                    ],
+                    [
+                        "real",
+                        0.5524619048018449
+                    ],
+                    [
+                        "problem",
+                        0.5539354917334287
+                    ],
+                    [
+                        "class",
+                        0.5545177362460756
+                    ],
+                    [
+                        "dynamic",
+                        0.5604619654895785
+                    ],
+                    [
+                        "people",
+                        0.566132604420929
+                    ],
+                    [
+                        "time",
+                        0.7964993008727966
+                    ],
+                    [
+                        "proposal",
+                        0.8766281719893108
+                    ],
+                    [
+                        "interesting",
+                        0.9015924680454931
+                    ],
+                    [
+                        "unintended",
+                        0.9015924680454931
+                    ],
+                    [
+                        "revelation",
+                        0.9015924680454931
+                    ],
+                    [
+                        "dynamical",
+                        0.9015924680454931
+                    ],
+                    [
+                        "life",
+                        0.9064689143094328
+                    ],
+                    [
+                        "mental",
+                        0.9074465513280625
+                    ],
+                    [
+                        "model",
+                        0.9074465513280625
+                    ],
+                    [
+                        "complex",
+                        0.9074465513280625
+                    ],
+                    [
+                        "datum",
+                        0.9102246054231069
+                    ],
+                    [
+                        "choice",
+                        0.9102246054231069
+                    ],
+                    [
+                        "optimal",
+                        0.9102246054231069
+                    ],
+                    [
+                        "solution",
+                        0.9102246054231069
+                    ],
+                    [
+                        "different",
+                        0.9106088484145354
+                    ],
+                    [
+                        "meaningful",
+                        0.9114352603653814
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "project",
+                        0.3574802473196322
+                    ],
+                    [
+                        "lot",
+                        0.42757803368218084
+                    ],
+                    [
+                        "system",
+                        0.4281357381027518
+                    ],
+                    [
+                        "real",
+                        0.5524619048018449
+                    ],
+                    [
+                        "problem",
+                        0.5539354917334287
+                    ],
+                    [
+                        "class",
+                        0.5545177362460756
+                    ],
+                    [
+                        "people",
+                        0.566132604420929
+                    ],
+                    [
+                        "time",
+                        0.7964993008727966
+                    ],
+                    [
+                        "mental",
+                        0.9074465513280625
+                    ],
+                    [
+                        "model",
+                        0.9074465513280625
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-540": {
+            "id": "AnTwZVviXyY-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " I don't know about you, but no project I ever been involved in has ever gone that way. There's always iteration, feedback. We have to go back to the beginning, almost always unintended, unplanned iteration, because we go through and we find out as we gather the data, we interview the folks that are engaged. And we evaluate our technologies, supply chain for the new product or whatever it is. We really didn't understand the situation. We really didn't understand what the real problem is. We have to loop back to the beginning. This happens continually all the way through the project. And it's that feedback that's critical here. So this is the metaphor that I want you to fix in your mind. You make decisions. Your decisions change the world. And then that creates new information which changes your next decision in a continual, emergent, iterative set of feedback processes. Now let me make this a little more formal. Again, this is a slight review for those of you who have had me in orientation. But it's worth it, especially if you haven't seen this for awhile. So here's that open loop perspective. People say, I know my goals. I want better market share. I want more profitability. I want a bigger house, or a nicer car, whatever it is. That's going to motivate my decisions. And then my decisions are going to change the state of the world, state of the system, problem solved. That's wrong. I can't know what decisions to make just because I know where I want to be. I have to also know where I am right now.",
+            "metrics": {
+                "relativeDCReadability": 1.0736184187789006,
+                "lexicalDiversity": 0.46503496503496505,
+                "posComposition": {
+                    "PRP": 0.115,
+                    "VBP": 0.087,
+                    "RB": 0.094,
+                    "VB": 0.049,
+                    "IN": 0.077,
+                    "CC": 0.031,
+                    "DT": 0.105,
+                    "NN": 0.126,
+                    "VBN": 0.021,
+                    "VBZ": 0.056,
+                    "EX": 0.003,
+                    "JJ": 0.056,
+                    "TO": 0.035,
+                    "VBG": 0.01,
+                    "RP": 0.003,
+                    "NNS": 0.035,
+                    "WDT": 0.01,
+                    "PRP$": 0.024,
+                    "VBD": 0.01,
+                    "WP": 0.01,
+                    "PDT": 0.003,
+                    "RBR": 0.003,
+                    "NNP": 0.007,
+                    "FW": 0.003,
+                    "JJR": 0.01,
+                    "MD": 0.003,
+                    "WRB": 0.007
+                },
+                "syllableRate": 3.408,
+                "topicScores": [
+                    [
+                        "decision",
+                        0.30984919778255404
+                    ],
+                    [
+                        "feedback",
+                        0.42917534803055213
+                    ],
+                    [
+                        "iteration",
+                        0.5160197571450964
+                    ],
+                    [
+                        "beginning",
+                        0.525806026538808
+                    ],
+                    [
+                        "project",
+                        0.5419694530169866
+                    ],
+                    [
+                        "way",
+                        0.5419694530169866
+                    ],
+                    [
+                        "world",
+                        0.5586406391694676
+                    ],
+                    [
+                        "problem",
+                        0.5615959067079079
+                    ],
+                    [
+                        "new",
+                        0.5634259235095639
+                    ],
+                    [
+                        "loop",
+                        0.5656213415932265
+                    ],
+                    [
+                        "state",
+                        0.568969365475272
+                    ],
+                    [
+                        "unplanned",
+                        0.8776785362730277
+                    ],
+                    [
+                        "unintended",
+                        0.8845465285650463
+                    ],
+                    [
+                        "datum",
+                        0.8845465285650463
+                    ],
+                    [
+                        "folk",
+                        0.8908744942263661
+                    ],
+                    [
+                        "situation",
+                        0.891490920350937
+                    ],
+                    [
+                        "technology",
+                        0.896238610725202
+                    ],
+                    [
+                        "supply",
+                        0.896238610725202
+                    ],
+                    [
+                        "chain",
+                        0.896238610725202
+                    ],
+                    [
+                        "product",
+                        0.9019967390358592
+                    ],
+                    [
+                        "mind",
+                        0.910409383847921
+                    ],
+                    [
+                        "real",
+                        0.9141392040583542
+                    ],
+                    [
+                        "process",
+                        0.9155856315258125
+                    ],
+                    [
+                        "People",
+                        0.9156850668631636
+                    ],
+                    [
+                        "formal",
+                        0.9169006173592473
+                    ],
+                    [
+                        "orientation",
+                        0.9180726878346606
+                    ],
+                    [
+                        "critical",
+                        0.9186176715760479
+                    ],
+                    [
+                        "perspective",
+                        0.9200794383798595
+                    ],
+                    [
+                        "emergent",
+                        0.920680521774605
+                    ],
+                    [
+                        "goal",
+                        0.9209478856334162
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "decision",
+                        0.30984919778255404
+                    ],
+                    [
+                        "feedback",
+                        0.42917534803055213
+                    ],
+                    [
+                        "project",
+                        0.5419694530169866
+                    ],
+                    [
+                        "way",
+                        0.5419694530169866
+                    ],
+                    [
+                        "world",
+                        0.5586406391694676
+                    ],
+                    [
+                        "problem",
+                        0.5615959067079079
+                    ],
+                    [
+                        "loop",
+                        0.5656213415932265
+                    ],
+                    [
+                        "real",
+                        0.9141392040583542
+                    ],
+                    [
+                        "goal",
+                        0.9209478856334162
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-630": {
+            "id": "AnTwZVviXyY-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " There has to be a feedback. So the example I always give is that, I'm a bicycle commuter, and as I was riding into MIT from Lexington this morning, as every day, I must keep my bike on the right hand side of the path. If I don't, I'm going to have a crash. So just knowing that I need to be on the right hand side is not enough for me to know how to turn the handlebars. I have to have the feedback from where my bicycle actually is in order to know which way to turn the handlebars. It is the same for you, driving your car or flying an aircraft. Now if flying your organization through hostile skies, dog fighting with the competition, keeping investors happy and calm in the back, and serving them nice drinks and hors d'oeuvres-- if flying your company was just as easy as flying an aircraft, which isn't that easy by the was. It doesn't take much bad weather, fatigue, or substances in your bloodstream to degrade your abilities so much that you're going to crash the plane, crash your car, or crash your bicycle. But if it was as easy to run your company as it is to ride a bike, no problem. We wouldn't need this class. But it's not. And it's not easy in part, because that feedback loop, which represents the intended effects of your decisions, but doesn't capture the unintended effects. It's only piece of the system. So you're embedded in a much more intricate complex system in which that's what's going on for you. That represents mental models of what you ought to do.",
+            "metrics": {
+                "relativeDCReadability": 1.0095635007358994,
+                "lexicalDiversity": 0.4387755102040816,
+                "posComposition": {
+                    "EX": 0.003,
+                    "VBZ": 0.054,
+                    "TO": 0.044,
+                    "VB": 0.065,
+                    "DT": 0.099,
+                    "NN": 0.139,
+                    "IN": 0.126,
+                    "PRP": 0.078,
+                    "RB": 0.068,
+                    "VBP": 0.031,
+                    "CC": 0.037,
+                    "VBD": 0.014,
+                    "VBG": 0.044,
+                    "NNP": 0.01,
+                    "MD": 0.01,
+                    "PRP$": 0.037,
+                    "JJ": 0.058,
+                    "WRB": 0.007,
+                    "NNS": 0.044,
+                    "WDT": 0.014,
+                    ":": 0.003,
+                    "VBN": 0.003,
+                    "RBR": 0.003,
+                    "WP": 0.007
+                },
+                "syllableRate": 3.283,
+                "topicScores": [
+                    [
+                        "crash",
+                        0.36590899469225646
+                    ],
+                    [
+                        "easy",
+                        0.36975863488521776
+                    ],
+                    [
+                        "bicycle",
+                        0.4173650672560331
+                    ],
+                    [
+                        "feedback",
+                        0.42157419554970704
+                    ],
+                    [
+                        "handlebar",
+                        0.4821425482987953
+                    ],
+                    [
+                        "right",
+                        0.49002728354794806
+                    ],
+                    [
+                        "MIT",
+                        0.5121626231483465
+                    ],
+                    [
+                        "Lexington",
+                        0.5121626231483465
+                    ],
+                    [
+                        "aircraft",
+                        0.5193432902149445
+                    ],
+                    [
+                        "car",
+                        0.5328341343031481
+                    ],
+                    [
+                        "bike",
+                        0.543155215555195
+                    ],
+                    [
+                        "company",
+                        0.5494790871429509
+                    ],
+                    [
+                        "effect",
+                        0.5562500145868869
+                    ],
+                    [
+                        "system",
+                        0.5565444332704974
+                    ],
+                    [
+                        "path",
+                        0.8189076360772444
+                    ],
+                    [
+                        "commuter",
+                        0.8414490559990552
+                    ],
+                    [
+                        "morning",
+                        0.8414490559990552
+                    ],
+                    [
+                        "day",
+                        0.8414490559990552
+                    ],
+                    [
+                        "example",
+                        0.8512615679816983
+                    ],
+                    [
+                        "problem",
+                        0.881463153120859
+                    ],
+                    [
+                        "class",
+                        0.8928121457734812
+                    ],
+                    [
+                        "fatigue",
+                        0.8947209027833807
+                    ],
+                    [
+                        "order",
+                        0.894991877444611
+                    ],
+                    [
+                        "way",
+                        0.894991877444611
+                    ],
+                    [
+                        "hostile",
+                        0.8983060928223591
+                    ],
+                    [
+                        "sky",
+                        0.8983060928223591
+                    ],
+                    [
+                        "dog",
+                        0.8983060928223591
+                    ],
+                    [
+                        "competition",
+                        0.8983060928223591
+                    ],
+                    [
+                        "investor",
+                        0.8983060928223591
+                    ],
+                    [
+                        "substance",
+                        0.9018842571915782
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "feedback",
+                        0.42157419554970704
+                    ],
+                    [
+                        "right",
+                        0.49002728354794806
+                    ],
+                    [
+                        "effect",
+                        0.5562500145868869
+                    ],
+                    [
+                        "system",
+                        0.5565444332704974
+                    ],
+                    [
+                        "problem",
+                        0.881463153120859
+                    ],
+                    [
+                        "class",
+                        0.8928121457734812
+                    ],
+                    [
+                        "way",
+                        0.894991877444611
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-720": {
+            "id": "AnTwZVviXyY-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " But mental models are limited. And all the impacts of your decisions-- all the effects of your decisions that you didn't think about in advance, and that aren't part of your mental model, they're going to manifest as so-called side effects. Remember there's no such thing as a side effect. There's just the effects that are in your mental model that you were counting on and everything else is going to manifest as a so-called side effect. And they're usually going to feedback in a way that's opposite to your goals. Much more interesting, you're not the only player in the world. So there's all the other actors out there, all the other agents out there. And they have their own goals, which are typically different from your goals. You want more market share, so do they. There is only 100% to divide up. And every time you make decisions, even if they're efficacious that pulled the world closer to your goals, they're necessarily going to be pulling the world farther away from those other folks goals-- your customers, your suppliers, your employees, the investors, the competitors, the communities in which you operate, the natural world in which all of that is embedded. That's all going to be there. And those goals are going to motivate them to take action, to try to bring the state of the world back to what they want it to be. Their mental models are limited too. And so they're going to generate unintended so-called side effects. And now this is getting to be a fairly complex thing to manage-- not as easy as riding a bicycle. The whole story here is about expanding the boundaries",
+            "metrics": {
+                "relativeDCReadability": 1.0547338010667822,
+                "lexicalDiversity": 0.436241610738255,
+                "posComposition": {
+                    "CC": 0.034,
+                    "JJ": 0.077,
+                    "NNS": 0.084,
+                    "VBP": 0.057,
+                    "VBN": 0.01,
+                    "PDT": 0.013,
+                    "DT": 0.107,
+                    "IN": 0.084,
+                    "PRP$": 0.037,
+                    ":": 0.01,
+                    "PRP": 0.054,
+                    "VBD": 0.01,
+                    "RB": 0.091,
+                    "VB": 0.05,
+                    "NN": 0.094,
+                    "VBG": 0.04,
+                    "TO": 0.057,
+                    "NNP": 0.01,
+                    "EX": 0.013,
+                    "VBZ": 0.034,
+                    "WDT": 0.02,
+                    "RBR": 0.003,
+                    "JJR": 0.003,
+                    "CD": 0.003,
+                    "WP": 0.003
+                },
+                "syllableRate": 3.525,
+                "topicScores": [
+                    [
+                        "effect",
+                        0.2610108270910704
+                    ],
+                    [
+                        "goal",
+                        0.3083072945634391
+                    ],
+                    [
+                        "world",
+                        0.31174944501136514
+                    ],
+                    [
+                        "mental",
+                        0.32167153326170317
+                    ],
+                    [
+                        "model",
+                        0.3308048741730429
+                    ],
+                    [
+                        "decision",
+                        0.5368269040659898
+                    ],
+                    [
+                        "thing",
+                        0.5491300585883122
+                    ],
+                    [
+                        "mental model",
+                        0.5795810950352348
+                    ],
+                    [
+                        "limited",
+                        0.7439263683932343
+                    ],
+                    [
+                        "advance",
+                        0.8326257128535591
+                    ],
+                    [
+                        "impact",
+                        0.8410277489386685
+                    ],
+                    [
+                        "way",
+                        0.8873687838844094
+                    ],
+                    [
+                        "opposite",
+                        0.8873687838844094
+                    ],
+                    [
+                        "interesting",
+                        0.8874457854610318
+                    ],
+                    [
+                        "player",
+                        0.8934480696402156
+                    ],
+                    [
+                        "actor",
+                        0.8980175572645417
+                    ],
+                    [
+                        "agent",
+                        0.8980175572645417
+                    ],
+                    [
+                        "supplier",
+                        0.8980928808183344
+                    ],
+                    [
+                        "employee",
+                        0.8980928808183344
+                    ],
+                    [
+                        "investor",
+                        0.8980928808183344
+                    ],
+                    [
+                        "competitor",
+                        0.8980928808183344
+                    ],
+                    [
+                        "market",
+                        0.8990638705572171
+                    ],
+                    [
+                        "share",
+                        0.8990638705572171
+                    ],
+                    [
+                        "bicycle",
+                        0.9000689585413634
+                    ],
+                    [
+                        "boundary",
+                        0.9012229020511239
+                    ],
+                    [
+                        "different",
+                        0.901604761914955
+                    ],
+                    [
+                        "customer",
+                        0.9037591581731574
+                    ],
+                    [
+                        "community",
+                        0.9037591581731576
+                    ],
+                    [
+                        "natural",
+                        0.9037591581731576
+                    ],
+                    [
+                        "action",
+                        0.907237626010261
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "effect",
+                        0.2610108270910704
+                    ],
+                    [
+                        "goal",
+                        0.3083072945634391
+                    ],
+                    [
+                        "world",
+                        0.31174944501136514
+                    ],
+                    [
+                        "mental",
+                        0.32167153326170317
+                    ],
+                    [
+                        "model",
+                        0.3308048741730429
+                    ],
+                    [
+                        "decision",
+                        0.5368269040659898
+                    ],
+                    [
+                        "thing",
+                        0.5491300585883122
+                    ],
+                    [
+                        "way",
+                        0.8873687838844094
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-810": {
+            "id": "AnTwZVviXyY-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " of your mental models so that more and more of this structure is something that you can begin to think about and try to take into account when you make decisions. You're never going to get it all, because all models are wrong. Model is not the real system. Only the reality is the reality. And everything in your head is a limited, filtered, imperfect representation. But we can do a lot better than the mental models that we have now. So what are we going to do? What we're going to do is develop tools in this class to elicit your mental models, articulate them, and do that in the context of busy people in organizations. We're going to explicitly account for feedback, and stocks and foils, and time delays, and non-linearities, and the other elements of complex dynamical systems. And then we're going to use simulation to figure out what that means. Not because the model is going to give us the answer-- all models are wrong-- because the simulation models are going to give us insight that improves our mental models and the mental models of all the people who need to be involved in order for change to happen, so that people are empowered with high leverage, effective policies to go out there and make a difference. You can read in the syllabus how we're going to do that. But I think there are three core ideas I'd like to leave you with before we break for today. The first is that it's the structure of complex systems that generates their behavior. That structure consists of the physics",
+            "metrics": {
+                "relativeDCReadability": 1.0963572461102487,
+                "lexicalDiversity": 0.4412811387900356,
+                "posComposition": {
+                    "IN": 0.117,
+                    "PRP$": 0.018,
+                    "JJ": 0.071,
+                    "NNS": 0.085,
+                    "JJR": 0.011,
+                    "CC": 0.05,
+                    "DT": 0.096,
+                    "NN": 0.093,
+                    "VBZ": 0.043,
+                    "PRP": 0.071,
+                    "MD": 0.014,
+                    "VB": 0.089,
+                    "TO": 0.057,
+                    "WRB": 0.007,
+                    "VBP": 0.06,
+                    "RB": 0.036,
+                    "VBG": 0.028,
+                    "NNP": 0.004,
+                    "WP": 0.014,
+                    "RP": 0.007,
+                    ":": 0.007,
+                    "PDT": 0.004,
+                    "VBN": 0.007,
+                    "EX": 0.004,
+                    "CD": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 3.417,
+                "topicScores": [
+                    [
+                        "model",
+                        0.2400937983284636
+                    ],
+                    [
+                        "mental",
+                        0.3091817176304044
+                    ],
+                    [
+                        "system",
+                        0.4132578186103009
+                    ],
+                    [
+                        "structure",
+                        0.4273043582235675
+                    ],
+                    [
+                        "people",
+                        0.43886367160141027
+                    ],
+                    [
+                        "reality",
+                        0.5247285326301653
+                    ],
+                    [
+                        "account",
+                        0.5409922523894054
+                    ],
+                    [
+                        "complex",
+                        0.5417057788042756
+                    ],
+                    [
+                        "simulation",
+                        0.5543987394564198
+                    ],
+                    [
+                        "mental model",
+                        0.6801503559786167
+                    ],
+                    [
+                        "decision",
+                        0.7967967663354338
+                    ],
+                    [
+                        "wrong",
+                        0.826554603262717
+                    ],
+                    [
+                        "representation",
+                        0.8504392405644166
+                    ],
+                    [
+                        "imperfect",
+                        0.8712518590582327
+                    ],
+                    [
+                        "organization",
+                        0.8753274658359707
+                    ],
+                    [
+                        "limited",
+                        0.8801358217631684
+                    ],
+                    [
+                        "difference",
+                        0.8832202990652182
+                    ],
+                    [
+                        "today",
+                        0.8869080591240159
+                    ],
+                    [
+                        "time",
+                        0.8871887211352499
+                    ],
+                    [
+                        "non",
+                        0.8871887211352499
+                    ],
+                    [
+                        "linearity",
+                        0.8871887211352499
+                    ],
+                    [
+                        "head",
+                        0.8881675274010932
+                    ],
+                    [
+                        "behavior",
+                        0.8884516931321835
+                    ],
+                    [
+                        "physics",
+                        0.8898401559048755
+                    ],
+                    [
+                        "lot",
+                        0.8929363347513819
+                    ],
+                    [
+                        "well",
+                        0.8929363347513819
+                    ],
+                    [
+                        "feedback",
+                        0.8951053951075705
+                    ],
+                    [
+                        "stock",
+                        0.8951053951075705
+                    ],
+                    [
+                        "foil",
+                        0.8951053951075705
+                    ],
+                    [
+                        "delay",
+                        0.8951053951075705
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "model",
+                        0.2400937983284636
+                    ],
+                    [
+                        "mental",
+                        0.3091817176304044
+                    ],
+                    [
+                        "system",
+                        0.4132578186103009
+                    ],
+                    [
+                        "people",
+                        0.43886367160141027
+                    ],
+                    [
+                        "decision",
+                        0.7967967663354338
+                    ],
+                    [
+                        "organization",
+                        0.8753274658359707
+                    ],
+                    [
+                        "time",
+                        0.8871887211352499
+                    ],
+                    [
+                        "lot",
+                        0.8929363347513819
+                    ],
+                    [
+                        "feedback",
+                        0.8951053951075705
+                    ]
+                ]
+            }
+        },
+        "AnTwZVviXyY-900": {
+            "id": "AnTwZVviXyY-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " of the system, the information that's available to you, and then the decision rules that you used to turn that information into action. All three of those are relevant here. Mental models matter a lot. It is not enough just to come up with the right answer. And it's not enough just to change the physics of the system, or the information with a new IT system, or the incentives that people face. All those are important, but they aren't generally sufficient. And one of the very powerful mental models that's out there is what we call the fundamental attribution error in psychology. And this is an idea you should have learned at the beer game. And it's the idea that if you ask me why I've screwed up, I've got reasons known as excuses. It was the customer's fault. It was somebody else's fault. The sun was in my eyes. But if I'm asked to explain why use screwed up, It's because you're not capable. You don't have what it takes, you and everybody like you. And that is almost always wrong. And it's low leverage. It doesn't help. So to put that into practice in this class, when we come in here, and you work with us this semester, we're going to make the following basic assumption. We believe that everybody in this room is intelligent, is capable, cares about doing their best, and wants to learn.",
+            "metrics": {
+                "relativeDCReadability": 0.8891986512428055,
+                "lexicalDiversity": 0.43137254901960786,
+                "posComposition": {
+                    "IN": 0.098,
+                    "DT": 0.11,
+                    "NN": 0.122,
+                    "WDT": 0.012,
+                    "VBZ": 0.059,
+                    "JJ": 0.063,
+                    "TO": 0.031,
+                    "PRP": 0.11,
+                    "CC": 0.055,
+                    "RB": 0.078,
+                    "NNS": 0.039,
+                    "VBD": 0.02,
+                    "VB": 0.039,
+                    "CD": 0.008,
+                    "VBP": 0.063,
+                    "NNP": 0.008,
+                    "RP": 0.012,
+                    "PDT": 0.004,
+                    "WP": 0.008,
+                    "MD": 0.004,
+                    "VBN": 0.02,
+                    "WRB": 0.012,
+                    "POS": 0.008,
+                    "PRP$": 0.008,
+                    "VBG": 0.008,
+                    "JJS": 0.004
+                },
+                "syllableRate": 2.925,
+                "topicScores": [
+                    [
+                        "system",
+                        0.3908642955358375
+                    ],
+                    [
+                        "information",
+                        0.4006644437801461
+                    ],
+                    [
+                        "fault",
+                        0.5223298247773623
+                    ],
+                    [
+                        "mental",
+                        0.5281496577167074
+                    ],
+                    [
+                        "model",
+                        0.5328535519919378
+                    ],
+                    [
+                        "capable",
+                        0.5420971116540697
+                    ],
+                    [
+                        "idea",
+                        0.5514006880447467
+                    ],
+                    [
+                        "action",
+                        0.752169737811942
+                    ],
+                    [
+                        "available",
+                        0.7934395090006053
+                    ],
+                    [
+                        "decision",
+                        0.7934395090006053
+                    ],
+                    [
+                        "relevant",
+                        0.8427854436910162
+                    ],
+                    [
+                        "lot",
+                        0.8473577008490576
+                    ],
+                    [
+                        "answer",
+                        0.8622293424318122
+                    ],
+                    [
+                        "sufficient",
+                        0.8786359850153774
+                    ],
+                    [
+                        "right",
+                        0.8801673958181957
+                    ],
+                    [
+                        "psychology",
+                        0.883758045132673
+                    ],
+                    [
+                        "game",
+                        0.8877841477305523
+                    ],
+                    [
+                        "people",
+                        0.8886819214479265
+                    ],
+                    [
+                        "excuse",
+                        0.8910517971267022
+                    ],
+                    [
+                        "important",
+                        0.8946987411436136
+                    ],
+                    [
+                        "physics",
+                        0.8959327806103629
+                    ],
+                    [
+                        "new",
+                        0.8959327806103629
+                    ],
+                    [
+                        "incentive",
+                        0.8959327806103629
+                    ],
+                    [
+                        "eye",
+                        0.8980650738465497
+                    ],
+                    [
+                        "wrong",
+                        0.9027047213248568
+                    ],
+                    [
+                        "beer",
+                        0.9027701118585993
+                    ],
+                    [
+                        "leverage",
+                        0.9039349566829045
+                    ],
+                    [
+                        "powerful",
+                        0.9058577676213267
+                    ],
+                    [
+                        "fundamental",
+                        0.9058577676213267
+                    ],
+                    [
+                        "attribution",
+                        0.9058577676213267
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "system",
+                        0.3908642955358375
+                    ],
+                    [
+                        "fault",
+                        0.5223298247773623
+                    ],
+                    [
+                        "mental",
+                        0.5281496577167074
+                    ],
+                    [
+                        "model",
+                        0.5328535519919378
+                    ],
+                    [
+                        "decision",
+                        0.7934395090006053
+                    ],
+                    [
+                        "lot",
+                        0.8473577008490576
+                    ],
+                    [
+                        "right",
+                        0.8801673958181957
+                    ],
+                    [
+                        "people",
+                        0.8886819214479265
+                    ]
+                ]
+            }
+        }
+    }
+}

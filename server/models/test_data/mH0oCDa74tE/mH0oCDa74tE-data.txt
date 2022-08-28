@@ -1,0 +1,3274 @@
+{
+    "metadata": {
+        "id": "mH0oCDa74tE",
+        "avgHeat": 0.01,
+        "runtime": 1286.6399999999999,
+        "dale-challReadabilityScore": 9.007408230842007,
+        "lexicalDiversity": 0.49020100502512565,
+        "posComposition": {
+            "NN": 0.136,
+            "JJ": 0.089,
+            "NNS": 0.072,
+            "IN": 0.14,
+            "DT": 0.128,
+            "NNP": 0.015,
+            "VBP": 0.04,
+            "VBG": 0.018,
+            "RB": 0.05,
+            "TO": 0.023,
+            "VB": 0.038,
+            "PRP$": 0.004,
+            "CD": 0.025,
+            "CC": 0.027,
+            "PRP": 0.054,
+            "VBZ": 0.04,
+            "JJR": 0.008,
+            "MD": 0.015,
+            "WP": 0.006,
+            "VBD": 0.015,
+            "WDT": 0.01,
+            "WRB": 0.008,
+            "PDT": 0.005,
+            "VBN": 0.012,
+            ":": 0.001,
+            "JJS": 0.003,
+            "RBR": 0.004,
+            "EX": 0.007,
+            "RP": 0.005,
+            "RBS": 0.001,
+            "WP$": 0.0
+        },
+        "syllableRate": 4.597,
+        "topicScores": [
+            [
+                "group",
+                0.09150832013399895
+            ],
+            [
+                "action",
+                0.14151842321308403
+            ],
+            [
+                "way",
+                0.1501719196509712
+            ],
+            [
+                "symmetry",
+                0.1693062938215067
+            ],
+            [
+                "number",
+                0.17732679240223098
+            ],
+            [
+                "monster",
+                0.1853494737669204
+            ],
+            [
+                "permutation",
+                0.18820519916034992
+            ],
+            [
+                "thing",
+                0.19435170833928525
+            ],
+            [
+                "kind",
+                0.20226615090998104
+            ],
+            [
+                "different",
+                0.20452044464387029
+            ],
+            [
+                "example",
+                0.20825533547627476
+            ],
+            [
+                "simple",
+                0.21782993784540353
+            ],
+            [
+                "structure",
+                0.21886111563618546
+            ],
+            [
+                "object",
+                0.2220388168146221
+            ],
+            [
+                "math",
+                0.22300225700465656
+            ],
+            [
+                "element",
+                0.22415434764677433
+            ],
+            [
+                "fundamental",
+                0.2351352086747654
+            ],
+            [
+                "look",
+                0.23920329582953603
+            ],
+            [
+                "symmetric",
+                0.23944421615917286
+            ],
+            [
+                "polynomial",
+                0.24219865962793413
+            ],
+            [
+                "sense",
+                0.25160838719111434
+            ],
+            [
+                "theory",
+                0.25329234325642486
+            ],
+            [
+                "point",
+                0.254145772102739
+            ],
+            [
+                "degree",
+                0.2544820010910597
+            ],
+            [
+                "permutation group",
+                0.25789729543237466
+            ],
+            [
+                "large",
+                0.2688496991880327
+            ],
+            [
+                "cube",
+                0.2700724981683454
+            ],
+            [
+                "simple group",
+                0.27057244910957595
+            ],
+            [
+                "formula",
+                0.27123150332591
+            ],
+            [
+                "certain",
+                0.288779903217547
+            ]
+        ],
+        "topicsList": [
+            "group",
+            "action",
+            "way",
+            "symmetry",
+            "number",
+            "monster",
+            "permutation",
+            "thing",
+            "kind",
+            "different",
+            "example",
+            "simple",
+            "structure",
+            "object",
+            "math",
+            "element",
+            "fundamental",
+            "look",
+            "symmetric",
+            "polynomial",
+            "sense",
+            "theory",
+            "point",
+            "degree",
+            "permutation group",
+            "large",
+            "cube",
+            "simple group",
+            "formula",
+            "certain"
+        ]
+    },
+    "chunks": {
+        "mH0oCDa74tE-0": {
+            "id": "mH0oCDa74tE-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " Today, many members of the YouTube math community are getting together to make videos about their favorite numbers over 1,000,000, and we're encouraging you - the viewers to do the same. Take a look at the description for details. My own choice is considerably larger than a 1,000,000, roughly 8\u00d710^53. For a sense of scale, that\u2019s around the number of atoms in the planet Jupiter, so it might seem completely arbitrary, but what I love is that if you were to talk with an alien civilization or a super-intelligent AI that invented math for itself without any connection to our particular culture or experiences, I think both would agree this number is something very peculiar and that it reflects something fundamental. What is it, exactly? Well, it\u2019s the size of the monster, but to explain what that means, we're gonna need to back up and talk about group theory. This field is all about codifying the idea of symmetry. For example, when we say a face is symmetric, what we mean, is that you can reflect it about a line, and it\u2019s left looking completely the same; it\u2019s a statement about an action that you can take. Something like a snowflake is also symmetric, but in more ways. You can rotate it 60 degrees, or 120 degrees, you can flip it along various different axes, and all these actions leave it looking the same. A collection of all of the actions like this taken together is called a \u201cgroup\u201d. kind of... at least... groups are typically defined more abstractly than this, but we\u2019ll get to that later.",
+            "metrics": {
+                "relativeDCReadability": 1.0191840454697145,
+                "lexicalDiversity": 0.46996466431095407,
+                "posComposition": {
+                    "NN": 0.134,
+                    "JJ": 0.064,
+                    "NNS": 0.049,
+                    "IN": 0.131,
+                    "DT": 0.117,
+                    "NNP": 0.035,
+                    "VBP": 0.035,
+                    "VBG": 0.025,
+                    "RB": 0.042,
+                    "TO": 0.028,
+                    "VB": 0.046,
+                    "PRP$": 0.007,
+                    "CD": 0.018,
+                    "CC": 0.042,
+                    "PRP": 0.085,
+                    "VBZ": 0.053,
+                    "JJR": 0.007,
+                    "MD": 0.021,
+                    "WP": 0.014,
+                    "VBD": 0.011,
+                    "WDT": 0.004,
+                    "WRB": 0.004,
+                    "PDT": 0.004,
+                    "VBN": 0.011,
+                    ":": 0.007,
+                    "JJS": 0.004,
+                    "RBR": 0.004
+                },
+                "syllableRate": 3.442,
+                "topicScores": [
+                    [
+                        "today",
+                        0.35762652876484385
+                    ],
+                    [
+                        "look",
+                        0.40834852225257146
+                    ],
+                    [
+                        "number",
+                        0.4110778520463939
+                    ],
+                    [
+                        "group",
+                        0.41400211073347015
+                    ],
+                    [
+                        "action",
+                        0.4322807931465996
+                    ],
+                    [
+                        "math",
+                        0.5085895089074758
+                    ],
+                    [
+                        "symmetric",
+                        0.5291577041067919
+                    ],
+                    [
+                        "degree",
+                        0.5505688951914943
+                    ],
+                    [
+                        "Jupiter",
+                        0.5731898420695207
+                    ],
+                    [
+                        "AI",
+                        0.5731898420695207
+                    ],
+                    [
+                        "member",
+                        0.7510538319092612
+                    ],
+                    [
+                        "viewer",
+                        0.7510538319092612
+                    ],
+                    [
+                        "YouTube",
+                        0.7654297052755779
+                    ],
+                    [
+                        "community",
+                        0.7654297052755779
+                    ],
+                    [
+                        "video",
+                        0.7654297052755779
+                    ],
+                    [
+                        "favorite",
+                        0.7654297052755779
+                    ],
+                    [
+                        "detail",
+                        0.7935199730315494
+                    ],
+                    [
+                        "description",
+                        0.8308241802414882
+                    ],
+                    [
+                        "fundamental",
+                        0.8403977347419764
+                    ],
+                    [
+                        "choice",
+                        0.8564963759623745
+                    ],
+                    [
+                        "large",
+                        0.8564963759623745
+                    ],
+                    [
+                        "theory",
+                        0.8589790137407138
+                    ],
+                    [
+                        "scale",
+                        0.8615177634036203
+                    ],
+                    [
+                        "planet",
+                        0.8615177634036203
+                    ],
+                    [
+                        "arbitrary",
+                        0.8615177634036203
+                    ],
+                    [
+                        "super",
+                        0.8615177634036203
+                    ],
+                    [
+                        "intelligent",
+                        0.8615177634036203
+                    ],
+                    [
+                        "experience",
+                        0.8615177634036203
+                    ],
+                    [
+                        "symmetry",
+                        0.8648030263167383
+                    ],
+                    [
+                        "sense",
+                        0.8706136073345395
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "look",
+                        0.40834852225257146
+                    ],
+                    [
+                        "number",
+                        0.4110778520463939
+                    ],
+                    [
+                        "group",
+                        0.41400211073347015
+                    ],
+                    [
+                        "action",
+                        0.4322807931465996
+                    ],
+                    [
+                        "math",
+                        0.5085895089074758
+                    ],
+                    [
+                        "symmetric",
+                        0.5291577041067919
+                    ],
+                    [
+                        "degree",
+                        0.5505688951914943
+                    ],
+                    [
+                        "fundamental",
+                        0.8403977347419764
+                    ],
+                    [
+                        "large",
+                        0.8564963759623745
+                    ],
+                    [
+                        "theory",
+                        0.8589790137407138
+                    ],
+                    [
+                        "symmetry",
+                        0.8648030263167383
+                    ],
+                    [
+                        "sense",
+                        0.8706136073345395
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-90": {
+            "id": "mH0oCDa74tE-90",
+            "heat": 0.263,
+            "start": 90.0,
+            "text": " Take note, the fact that mathematicians have co-opted such an otherwise generic word for this seemingly specific kind of collection should give you some sense how fundamental they find it. Also take note; we always consider the action of doing nothing to be part of a group, so if we include that do-nothing action, the group of symmetries of a snowflake includes 12 distinct actions. It even has a fancy name, \u201cD6\u201d. The simple group of symmetries that only has two elements acting on a face also has a fancy name, \u201cC2\u201d. In general there\u2019s a whole zoo of groups, with no shortage of jargon to their names, categorizing the many different ways that something can be symmetric. When we describe these sorts of actions, there\u2019s always an implicit structure being preserved. For example, there are 24 rotations that I can apply to a cube that leave it looking the same, and those 24 actions taken together do indeed constitute a group. But if we allow for reflections, which is kind of a way of saying the orientation of the cube is not part of its structure we intend to preserve, you get a bigger group, with 48 actions in total. If you loosen things further and consider the faces to be a little less rigidly attached, maybe free to rotate and get shuffled around, you would get a much larger set of actions. And yes, you could consider these symmetries in the sense that they leave it looking the same, and all these shuffling rotating actions do constitute a group, but it's a much bigger and more complicated group.",
+            "metrics": {
+                "relativeDCReadability": 0.9919036076140263,
+                "lexicalDiversity": 0.5161290322580645,
+                "posComposition": {
+                    "VB": 0.054,
+                    "NN": 0.14,
+                    "DT": 0.122,
+                    "IN": 0.118,
+                    "NNS": 0.068,
+                    "VBP": 0.057,
+                    "VBN": 0.018,
+                    "PDT": 0.007,
+                    "RB": 0.057,
+                    "JJ": 0.072,
+                    "MD": 0.018,
+                    "PRP": 0.065,
+                    "WRB": 0.007,
+                    "VBG": 0.029,
+                    "TO": 0.022,
+                    "VBZ": 0.032,
+                    "CD": 0.018,
+                    "NNP": 0.018,
+                    "VBD": 0.004,
+                    "EX": 0.011,
+                    "PRP$": 0.007,
+                    "WDT": 0.007,
+                    "CC": 0.029,
+                    "JJR": 0.011,
+                    "RBR": 0.011
+                },
+                "syllableRate": 3.383,
+                "topicScores": [
+                    [
+                        "group",
+                        0.24468458810102647
+                    ],
+                    [
+                        "action",
+                        0.2706872770731651
+                    ],
+                    [
+                        "symmetry",
+                        0.41815132037919234
+                    ],
+                    [
+                        "note",
+                        0.45227335979957595
+                    ],
+                    [
+                        "d6",
+                        0.4767127316423563
+                    ],
+                    [
+                        "fancy",
+                        0.47972848691683495
+                    ],
+                    [
+                        "C2",
+                        0.5066717861279625
+                    ],
+                    [
+                        "kind",
+                        0.5320021332526419
+                    ],
+                    [
+                        "big",
+                        0.5439687165435654
+                    ],
+                    [
+                        "sense",
+                        0.5456752042602505
+                    ],
+                    [
+                        "face",
+                        0.5496455718099721
+                    ],
+                    [
+                        "way",
+                        0.5496455718099721
+                    ],
+                    [
+                        "structure",
+                        0.5512681619612896
+                    ],
+                    [
+                        "cube",
+                        0.5527082284443718
+                    ],
+                    [
+                        "fact",
+                        0.7645669676943911
+                    ],
+                    [
+                        "mathematician",
+                        0.7795425105454954
+                    ],
+                    [
+                        "generic",
+                        0.7795425105454954
+                    ],
+                    [
+                        "word",
+                        0.7795425105454954
+                    ],
+                    [
+                        "specific",
+                        0.7795425105454954
+                    ],
+                    [
+                        "collection",
+                        0.7795425105454954
+                    ],
+                    [
+                        "fundamental",
+                        0.7795425105454954
+                    ],
+                    [
+                        "distinct",
+                        0.830148588556829
+                    ],
+                    [
+                        "snowflake",
+                        0.8418156512255333
+                    ],
+                    [
+                        "symmetric",
+                        0.8585117765604259
+                    ],
+                    [
+                        "simple",
+                        0.8700720630195368
+                    ],
+                    [
+                        "total",
+                        0.8758849720891098
+                    ],
+                    [
+                        "general",
+                        0.8792054536016864
+                    ],
+                    [
+                        "element",
+                        0.8793951987597675
+                    ],
+                    [
+                        "example",
+                        0.8815583896821311
+                    ],
+                    [
+                        "zoo",
+                        0.8879576072655001
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.24468458810102647
+                    ],
+                    [
+                        "action",
+                        0.2706872770731651
+                    ],
+                    [
+                        "symmetry",
+                        0.41815132037919234
+                    ],
+                    [
+                        "kind",
+                        0.5320021332526419
+                    ],
+                    [
+                        "sense",
+                        0.5456752042602505
+                    ],
+                    [
+                        "way",
+                        0.5496455718099721
+                    ],
+                    [
+                        "structure",
+                        0.5512681619612896
+                    ],
+                    [
+                        "cube",
+                        0.5527082284443718
+                    ],
+                    [
+                        "fundamental",
+                        0.7795425105454954
+                    ],
+                    [
+                        "symmetric",
+                        0.8585117765604259
+                    ],
+                    [
+                        "simple",
+                        0.8700720630195368
+                    ],
+                    [
+                        "element",
+                        0.8793951987597675
+                    ],
+                    [
+                        "example",
+                        0.8815583896821311
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-180": {
+            "id": "mH0oCDa74tE-180",
+            "heat": 0.125,
+            "start": 180.0,
+            "text": " The large size in this group reflects the much looser sense of structure which each action preserves. The loosest sense of structure is if we have a collection of points and consider any way that you could shuffle them, any permutation, to be a symmetry of those points. Unconstrained by any underlying property that needs to be preserved, these permutation groups can get quite large. Here, it's kind of fun to flash through every possible permutation of 6 objects and see how many there are. In total, it amounts to 6!, or 720. By contrast, if we gave these points some structure, maybe making them the corners of a hexagon and only considering the permutaions that preserve how far apart each one is from the other, we get only the 12 snowflake symmetries we saw earlier. Bump the number of points up to 12, and the number of permutations grows to about 479 million. The monster that we\u2019ll get to is rather large, but it\u2019s important to understand that largeness in and of itself isn\u2019t all that interesting with groups; the permutation groups already make that easy to see. If we were shuffling 101 objects, for example, with the 101 factorial different actions that can do this, we have a group with a size of around 9\u00d710^159. If every atom in the observable universe had a copy of that universe inside itself, this is",
+            "metrics": {
+                "relativeDCReadability": 0.9559449692619546,
+                "lexicalDiversity": 0.46887966804979253,
+                "posComposition": {
+                    "DT": 0.149,
+                    "JJ": 0.066,
+                    "NN": 0.141,
+                    "IN": 0.141,
+                    "VBZ": 0.041,
+                    "RB": 0.046,
+                    "JJR": 0.004,
+                    "WDT": 0.017,
+                    "JJS": 0.004,
+                    "PRP": 0.062,
+                    "VBP": 0.029,
+                    "NNS": 0.062,
+                    "CC": 0.029,
+                    "VB": 0.041,
+                    "MD": 0.012,
+                    "TO": 0.037,
+                    "VBN": 0.008,
+                    "CD": 0.046,
+                    "WRB": 0.008,
+                    "EX": 0.004,
+                    "VBD": 0.017,
+                    "VBG": 0.017,
+                    "RBR": 0.004,
+                    "NNP": 0.008,
+                    "PDT": 0.004
+                },
+                "syllableRate": 2.933,
+                "topicScores": [
+                    [
+                        "permutation",
+                        0.32396428147986256
+                    ],
+                    [
+                        "group",
+                        0.3372475693330875
+                    ],
+                    [
+                        "point",
+                        0.3625517646198995
+                    ],
+                    [
+                        "structure",
+                        0.4031996344079436
+                    ],
+                    [
+                        "large",
+                        0.4122173062518194
+                    ],
+                    [
+                        "sense",
+                        0.47345446912781824
+                    ],
+                    [
+                        "symmetry",
+                        0.5421385081635746
+                    ],
+                    [
+                        "action",
+                        0.5427357970429522
+                    ],
+                    [
+                        "size",
+                        0.5483080494517336
+                    ],
+                    [
+                        "object",
+                        0.5492124667850251
+                    ],
+                    [
+                        "number",
+                        0.5499912357095627
+                    ],
+                    [
+                        "universe",
+                        0.5709401859140926
+                    ],
+                    [
+                        "loose",
+                        0.7817747417862885
+                    ],
+                    [
+                        "loosest",
+                        0.8302297033522237
+                    ],
+                    [
+                        "collection",
+                        0.8435438905584749
+                    ],
+                    [
+                        "way",
+                        0.8435438905584749
+                    ],
+                    [
+                        "property",
+                        0.8675934990902057
+                    ],
+                    [
+                        "total",
+                        0.867945735383661
+                    ],
+                    [
+                        "contrast",
+                        0.8749256166170832
+                    ],
+                    [
+                        "fun",
+                        0.8807710145861848
+                    ],
+                    [
+                        "possible",
+                        0.8807710145861848
+                    ],
+                    [
+                        "example",
+                        0.8876724812242079
+                    ],
+                    [
+                        "monster",
+                        0.8944047413116895
+                    ],
+                    [
+                        "corner",
+                        0.8952378751597849
+                    ],
+                    [
+                        "hexagon",
+                        0.8952378751597849
+                    ],
+                    [
+                        "snowflake",
+                        0.8952378751597849
+                    ],
+                    [
+                        "important",
+                        0.9032723888038248
+                    ],
+                    [
+                        "largeness",
+                        0.9032723888038248
+                    ],
+                    [
+                        "interesting",
+                        0.9032723888038248
+                    ],
+                    [
+                        "easy",
+                        0.9032723888038248
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "permutation",
+                        0.32396428147986256
+                    ],
+                    [
+                        "group",
+                        0.3372475693330875
+                    ],
+                    [
+                        "point",
+                        0.3625517646198995
+                    ],
+                    [
+                        "structure",
+                        0.4031996344079436
+                    ],
+                    [
+                        "large",
+                        0.4122173062518194
+                    ],
+                    [
+                        "sense",
+                        0.47345446912781824
+                    ],
+                    [
+                        "symmetry",
+                        0.5421385081635746
+                    ],
+                    [
+                        "action",
+                        0.5427357970429522
+                    ],
+                    [
+                        "object",
+                        0.5492124667850251
+                    ],
+                    [
+                        "number",
+                        0.5499912357095627
+                    ],
+                    [
+                        "way",
+                        0.8435438905584749
+                    ],
+                    [
+                        "example",
+                        0.8876724812242079
+                    ],
+                    [
+                        "monster",
+                        0.8944047413116895
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-270": {
+            "id": "mH0oCDa74tE-270",
+            "heat": 0.133,
+            "start": 270.0,
+            "text": " roughly how many sub-atoms there would be. These permutation groups go by the name S sub n, and they play an important role in group theory. In a certain sense, they encompass all other groups. And so far you might be thinking:  \u201cok, this intellectually playful enough, but is any of this actually useful?\u201d One of the earliest applications of group theory came when mathematicians realized that the structure of these permutation groups tells us something about solutions to polynomial equations. You know how in order to find the two roots of a quadratic equation, everyone learns a certain formula in school? Slightly lesser known is the fact that there\u2019s also a cubic formula, one that involves nesting cube roots with square roots in a larger expression. There\u2019s even a quartic formula for degree 4 polynomial, which is an absolute mess. It's almost impossible to write without factoring things out. And for the longest time mathematicians struggled to find a formula to solve degree 5 polynomials. I mean, maybe there's one, but it's just super complicated. It turns out though, if you think about the group which permutes the roots of such a polynomial, there\u2019s something about the nature of this group that reveals that no quintic formula can exist. For example, the 5 roots of the polynomial you see on screen now, they have definite values, you can write out decimal approximations, but what you can never do, is write those exact values by starting with the coefficients of the polynomial and using only the four basic operations of arithmetic together with radicals,",
+            "metrics": {
+                "relativeDCReadability": 1.0412820281998871,
+                "lexicalDiversity": 0.5418181818181819,
+                "posComposition": {
+                    "RB": 0.051,
+                    "WRB": 0.011,
+                    "JJ": 0.102,
+                    "NNS": 0.087,
+                    "EX": 0.018,
+                    "MD": 0.018,
+                    "VB": 0.036,
+                    "DT": 0.12,
+                    "NN": 0.142,
+                    "VBP": 0.029,
+                    "IN": 0.12,
+                    "NNP": 0.011,
+                    "CC": 0.025,
+                    "PRP": 0.051,
+                    "VBG": 0.018,
+                    "VBZ": 0.051,
+                    "CD": 0.029,
+                    "JJS": 0.007,
+                    "VBD": 0.015,
+                    "TO": 0.018,
+                    "JJR": 0.007,
+                    "VBN": 0.004,
+                    "WDT": 0.015,
+                    "RP": 0.011,
+                    "WP": 0.004
+                },
+                "syllableRate": 3.658,
+                "topicScores": [
+                    [
+                        "group",
+                        0.2873059336021641
+                    ],
+                    [
+                        "polynomial",
+                        0.30619283835208894
+                    ],
+                    [
+                        "root",
+                        0.33085997152328667
+                    ],
+                    [
+                        "formula",
+                        0.33275837249908075
+                    ],
+                    [
+                        "sub",
+                        0.47866805611389845
+                    ],
+                    [
+                        "permutation",
+                        0.5058357261361097
+                    ],
+                    [
+                        "theory",
+                        0.5110646884762108
+                    ],
+                    [
+                        "S",
+                        0.5191346287995292
+                    ],
+                    [
+                        "certain",
+                        0.5272088341180831
+                    ],
+                    [
+                        "equation",
+                        0.530074683038796
+                    ],
+                    [
+                        "degree",
+                        0.5504397263046056
+                    ],
+                    [
+                        "mathematician",
+                        0.5541594706664549
+                    ],
+                    [
+                        "value",
+                        0.5663440665611335
+                    ],
+                    [
+                        "S sub",
+                        0.6497630461201227
+                    ],
+                    [
+                        "atom",
+                        0.7646117990270527
+                    ],
+                    [
+                        "important",
+                        0.8423520028673858
+                    ],
+                    [
+                        "role",
+                        0.8423520028673858
+                    ],
+                    [
+                        "useful",
+                        0.8469950772868282
+                    ],
+                    [
+                        "sense",
+                        0.8559362395566213
+                    ],
+                    [
+                        "school",
+                        0.8649317229852871
+                    ],
+                    [
+                        "playful",
+                        0.8701002173417782
+                    ],
+                    [
+                        "expression",
+                        0.8705469447301578
+                    ],
+                    [
+                        "mess",
+                        0.8749658833700602
+                    ],
+                    [
+                        "complicated",
+                        0.8840820060180673
+                    ],
+                    [
+                        "quadratic",
+                        0.885693804462633
+                    ],
+                    [
+                        "radical",
+                        0.8881836803165439
+                    ],
+                    [
+                        "early",
+                        0.8883582552921686
+                    ],
+                    [
+                        "application",
+                        0.8883582552921686
+                    ],
+                    [
+                        "structure",
+                        0.8883582552921686
+                    ],
+                    [
+                        "solution",
+                        0.8883582552921686
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.2873059336021641
+                    ],
+                    [
+                        "polynomial",
+                        0.30619283835208894
+                    ],
+                    [
+                        "formula",
+                        0.33275837249908075
+                    ],
+                    [
+                        "permutation",
+                        0.5058357261361097
+                    ],
+                    [
+                        "theory",
+                        0.5110646884762108
+                    ],
+                    [
+                        "certain",
+                        0.5272088341180831
+                    ],
+                    [
+                        "degree",
+                        0.5504397263046056
+                    ],
+                    [
+                        "sense",
+                        0.8559362395566213
+                    ],
+                    [
+                        "structure",
+                        0.8883582552921686
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-360": {
+            "id": "mH0oCDa74tE-360",
+            "heat": 0.0,
+            "start": 360.0,
+            "text": " no matter how many times you nest them. And that impossibility has everything to do with the inner structure of the permutation group S5. A theme in math through the last two centuries has been that the nature of symmetry in and of itself can show us all sorts of non-obvious facts about the other objects we that we study. To give just a hint of one of the many many ways this applies to physics, there\u2019s a beautiful fact known as Noether\u2019s theorem saying that every conservation law corresponds to some kind of symmetry, a certain group. So all these fundamental laws like conservation of momentum and conservation of energy each correspond to a group. More specifically, the actions we should be able to apply to a setup, such that the laws of physics don't change. All of this is to say that groups really are fundamental, and the one thing I want you to recognize right now is that they\u2019re one of the most natural things that you could study. What could be more universal than symmetry? So you might think the patterns among groups themselves would somehow be very beautiful and symmetric. The monster, however, tells a different story. Before we get to the monster, though, at this point some mathematicians might complain that what I\u2019ve described so far are not groups, exactly, but group actions; and the groups are something slightly more abstract. By way of analogy, if I mention the number \u201c3\u201d, you probably don\u2019t think about a specific triplet of things, you probably think about 3 as an object in and of itself, an abstraction, maybe represented with a common symbol.",
+            "metrics": {
+                "relativeDCReadability": 0.9901613347314799,
+                "lexicalDiversity": 0.4793103448275862,
+                "posComposition": {
+                    "DT": 0.128,
+                    "NN": 0.141,
+                    "WRB": 0.003,
+                    "JJ": 0.083,
+                    "NNS": 0.072,
+                    "PRP": 0.066,
+                    "VBP": 0.048,
+                    "CC": 0.028,
+                    "VBZ": 0.028,
+                    "TO": 0.034,
+                    "VB": 0.048,
+                    "IN": 0.141,
+                    "NNP": 0.021,
+                    "CD": 0.021,
+                    "VBN": 0.01,
+                    "MD": 0.024,
+                    "RB": 0.066,
+                    "EX": 0.003,
+                    "JJR": 0.007,
+                    "VBD": 0.003,
+                    "VBG": 0.007,
+                    "RBR": 0.007,
+                    "RBS": 0.003,
+                    "WP": 0.007
+                },
+                "syllableRate": 3.55,
+                "topicScores": [
+                    [
+                        "group",
+                        0.2743186872315542
+                    ],
+                    [
+                        "symmetry",
+                        0.41509805927817056
+                    ],
+                    [
+                        "conservation",
+                        0.4314574583701798
+                    ],
+                    [
+                        "law",
+                        0.433284563821317
+                    ],
+                    [
+                        "thing",
+                        0.43878212218611956
+                    ],
+                    [
+                        "s5",
+                        0.4791878253651934
+                    ],
+                    [
+                        "fact",
+                        0.5316634334803875
+                    ],
+                    [
+                        "monster",
+                        0.5374214565211285
+                    ],
+                    [
+                        "physics",
+                        0.542606134027159
+                    ],
+                    [
+                        "way",
+                        0.5443843681733451
+                    ],
+                    [
+                        "fundamental",
+                        0.5472341356188721
+                    ],
+                    [
+                        "action",
+                        0.5494279244044108
+                    ],
+                    [
+                        "beautiful",
+                        0.55413331522942
+                    ],
+                    [
+                        "object",
+                        0.5570496091558753
+                    ],
+                    [
+                        "Noether",
+                        0.600946917125832
+                    ],
+                    [
+                        "group s5",
+                        0.714346049814002
+                    ],
+                    [
+                        "time",
+                        0.7844669428785874
+                    ],
+                    [
+                        "impossibility",
+                        0.8456245353067602
+                    ],
+                    [
+                        "inner",
+                        0.8456245353067602
+                    ],
+                    [
+                        "structure",
+                        0.8456245353067602
+                    ],
+                    [
+                        "permutation",
+                        0.8456245353067602
+                    ],
+                    [
+                        "theme",
+                        0.8584721630017763
+                    ],
+                    [
+                        "non",
+                        0.8584721630017763
+                    ],
+                    [
+                        "obvious",
+                        0.8584721630017763
+                    ],
+                    [
+                        "certain",
+                        0.8611629432048516
+                    ],
+                    [
+                        "math",
+                        0.86940383302353
+                    ],
+                    [
+                        "century",
+                        0.86940383302353
+                    ],
+                    [
+                        "nature",
+                        0.86940383302353
+                    ],
+                    [
+                        "sort",
+                        0.86940383302353
+                    ],
+                    [
+                        "symmetric",
+                        0.879742635501648
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.2743186872315542
+                    ],
+                    [
+                        "symmetry",
+                        0.41509805927817056
+                    ],
+                    [
+                        "thing",
+                        0.43878212218611956
+                    ],
+                    [
+                        "monster",
+                        0.5374214565211285
+                    ],
+                    [
+                        "way",
+                        0.5443843681733451
+                    ],
+                    [
+                        "fundamental",
+                        0.5472341356188721
+                    ],
+                    [
+                        "action",
+                        0.5494279244044108
+                    ],
+                    [
+                        "object",
+                        0.5570496091558753
+                    ],
+                    [
+                        "structure",
+                        0.8456245353067602
+                    ],
+                    [
+                        "permutation",
+                        0.8456245353067602
+                    ],
+                    [
+                        "certain",
+                        0.8611629432048516
+                    ],
+                    [
+                        "math",
+                        0.86940383302353
+                    ],
+                    [
+                        "symmetric",
+                        0.879742635501648
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-450": {
+            "id": "mH0oCDa74tE-450",
+            "heat": 0.0,
+            "start": 450.0,
+            "text": " In much the same way, when mathematicians discuss the elements of a group, they don\u2019t necessarily think about specific actions on a specific object, they might think of these elements as a kind of thing in and of itself, maybe represented with symbols. For something like the number three, the abstract symbol does us very little good unless we define its relation with other numbers, for example the way it adds and multiplies with them. For each of these, you could think of a literal triplet of something, but again most of us are comfortable, probably even more comfortable, using the symbols alone. Similarly, what makes a group a group are all the ways that its elements combine with each other. And in the context of actions, this has a very vivid meaning; what we mean by combining is to apply one action after the other, read from right to left; if you flip a snowflake about the x-axis, then rotate it 60 degrees counterclockwise, the overall action is the same as if you had flipped it about this diagonal line. All possible ways that you could combine two elements of a group like this defines a kind of multiplication. That is what really give a group its structure. Here, I\u2019m drawing out the full 8x8 table of the symmetries of a square. If you apply an action on the top row and follow it  by an action from the left column, it\u2019ll be the same as the action in the corresponding grid square. But if we replace each of these symmetric actions with something purely symbolic, well, the multiplication",
+            "metrics": {
+                "relativeDCReadability": 0.9494949897155671,
+                "lexicalDiversity": 0.4528985507246377,
+                "posComposition": {
+                    "IN": 0.174,
+                    "RB": 0.062,
+                    "DT": 0.159,
+                    "JJ": 0.101,
+                    "NN": 0.13,
+                    "WRB": 0.004,
+                    "NNS": 0.058,
+                    "VBP": 0.051,
+                    "PRP": 0.072,
+                    "MD": 0.011,
+                    "VB": 0.033,
+                    "CC": 0.022,
+                    "VBD": 0.007,
+                    "CD": 0.018,
+                    "VBZ": 0.033,
+                    "PRP$": 0.011,
+                    "JJS": 0.004,
+                    "RBR": 0.004,
+                    "VBG": 0.014,
+                    "WP": 0.011,
+                    "PDT": 0.004,
+                    "TO": 0.007,
+                    "VBN": 0.004,
+                    "NNP": 0.004,
+                    "RP": 0.004
+                },
+                "syllableRate": 3.375,
+                "topicScores": [
+                    [
+                        "action",
+                        0.26672900545222417
+                    ],
+                    [
+                        "group",
+                        0.30848403616069053
+                    ],
+                    [
+                        "way",
+                        0.3291333825342495
+                    ],
+                    [
+                        "element",
+                        0.3423173351337934
+                    ],
+                    [
+                        "symbol",
+                        0.3693220162427658
+                    ],
+                    [
+                        "specific",
+                        0.4666851081521208
+                    ],
+                    [
+                        "number",
+                        0.504867043755378
+                    ],
+                    [
+                        "multiplication",
+                        0.506955319432908
+                    ],
+                    [
+                        "kind",
+                        0.5078123508438
+                    ],
+                    [
+                        "square",
+                        0.5162177028830213
+                    ],
+                    [
+                        "comfortable",
+                        0.5233953042371768
+                    ],
+                    [
+                        "left",
+                        0.5361771859069561
+                    ],
+                    [
+                        "mathematician",
+                        0.7583048473343729
+                    ],
+                    [
+                        "object",
+                        0.7583048473343729
+                    ],
+                    [
+                        "thing",
+                        0.7723888935303669
+                    ],
+                    [
+                        "abstract",
+                        0.8252320952440583
+                    ],
+                    [
+                        "example",
+                        0.8252320952440583
+                    ],
+                    [
+                        "good",
+                        0.8362582883706257
+                    ],
+                    [
+                        "relation",
+                        0.8362582883706257
+                    ],
+                    [
+                        "multiplie",
+                        0.8362582883706257
+                    ],
+                    [
+                        "line",
+                        0.8561518327529423
+                    ],
+                    [
+                        "literal",
+                        0.86124358570621
+                    ],
+                    [
+                        "triplet",
+                        0.86124358570621
+                    ],
+                    [
+                        "axis",
+                        0.8663203640744404
+                    ],
+                    [
+                        "structure",
+                        0.8693173727096234
+                    ],
+                    [
+                        "vivid",
+                        0.8754959852642908
+                    ],
+                    [
+                        "meaning",
+                        0.8754959852642908
+                    ],
+                    [
+                        "degree",
+                        0.8754959852642908
+                    ],
+                    [
+                        "counterclockwise",
+                        0.8754959852642908
+                    ],
+                    [
+                        "overall",
+                        0.8754959852642908
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "action",
+                        0.26672900545222417
+                    ],
+                    [
+                        "group",
+                        0.30848403616069053
+                    ],
+                    [
+                        "way",
+                        0.3291333825342495
+                    ],
+                    [
+                        "element",
+                        0.3423173351337934
+                    ],
+                    [
+                        "number",
+                        0.504867043755378
+                    ],
+                    [
+                        "kind",
+                        0.5078123508438
+                    ],
+                    [
+                        "object",
+                        0.7583048473343729
+                    ],
+                    [
+                        "thing",
+                        0.7723888935303669
+                    ],
+                    [
+                        "example",
+                        0.8252320952440583
+                    ],
+                    [
+                        "structure",
+                        0.8693173727096234
+                    ],
+                    [
+                        "degree",
+                        0.8754959852642908
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-540": {
+            "id": "mH0oCDa74tE-540",
+            "heat": 0.0,
+            "start": 540.0,
+            "text": " table still captures the inner structure of the group, but now it\u2019s abstracted away from any specific object it might act on, like a square, or roots of a polynomial. This is entirely analogous to how the usual multiplication table is written symbolically, which abstracts away from the idea of literal counts. Literal counts, arguably, would make it clearer what\u2019s going on, but since grade school we all grow comfortable with the symbols. After all, they\u2019re less cumbersome, they free us up to think about more complicated numbers, and they also free us to think about numbers in new and very different ways. All of this is true of groups as well, which are best understood, as abstractions. above the idea of symmetry actions. I\u2019m emphasizing this for two reasons, one is that understanding what groups really are gives a better appreciation for the monster. And the other is that many students learning about groups for the first time can find them frustratingly opaque, I know I did. A typical course starts with this very formal and abstract definition, which is that a group is a set \u2013 any collection of things \u2013 with a binary operation \u2013 a notion of multiplication between those things \u2013 such that this multiplication satisfies four special rules, or axioms. And all this can feel, well, kind of random, especially when it isn\u2019t made clear that all these axioms arise from the things that must be obviously true when you\u2019re thinking about actions and composing them. To any students among you with such a course in the future, I would say if you appreciate that the relationship groups have",
+            "metrics": {
+                "relativeDCReadability": 0.9993882878198218,
+                "lexicalDiversity": 0.49477351916376305,
+                "posComposition": {
+                    "NN": 0.101,
+                    "RB": 0.07,
+                    "VBZ": 0.049,
+                    "DT": 0.122,
+                    "JJ": 0.094,
+                    "IN": 0.15,
+                    "CC": 0.035,
+                    "PRP": 0.066,
+                    "VBN": 0.007,
+                    "MD": 0.021,
+                    "VB": 0.031,
+                    "NNS": 0.084,
+                    "TO": 0.014,
+                    "WRB": 0.01,
+                    "WDT": 0.014,
+                    "JJR": 0.01,
+                    "WP": 0.007,
+                    "VBD": 0.014,
+                    "VBG": 0.021,
+                    "VBP": 0.052,
+                    "RBR": 0.003,
+                    "CD": 0.01,
+                    "NNP": 0.003,
+                    "PDT": 0.01
+                },
+                "syllableRate": 3.658,
+                "topicScores": [
+                    [
+                        "group",
+                        0.29646746514550465
+                    ],
+                    [
+                        "abstract",
+                        0.39198029845082105
+                    ],
+                    [
+                        "thing",
+                        0.43185074941102186
+                    ],
+                    [
+                        "multiplication",
+                        0.4324408933875401
+                    ],
+                    [
+                        "literal",
+                        0.4644533671957128
+                    ],
+                    [
+                        "table",
+                        0.46652991278306927
+                    ],
+                    [
+                        "count",
+                        0.46755686569902777
+                    ],
+                    [
+                        "idea",
+                        0.5108672872424531
+                    ],
+                    [
+                        "clear",
+                        0.535144364456425
+                    ],
+                    [
+                        "number",
+                        0.5355697850715951
+                    ],
+                    [
+                        "axiom",
+                        0.5359508883579964
+                    ],
+                    [
+                        "action",
+                        0.5375441947594272
+                    ],
+                    [
+                        "true",
+                        0.5386616829227467
+                    ],
+                    [
+                        "course",
+                        0.5448230035926513
+                    ],
+                    [
+                        "student",
+                        0.5507680787956502
+                    ],
+                    [
+                        "polynomial",
+                        0.721904579072107
+                    ],
+                    [
+                        "square",
+                        0.7541170324856881
+                    ],
+                    [
+                        "root",
+                        0.7541170324856881
+                    ],
+                    [
+                        "literal count",
+                        0.7573304223146883
+                    ],
+                    [
+                        "inner",
+                        0.7683705695046281
+                    ],
+                    [
+                        "structure",
+                        0.7683705695046281
+                    ],
+                    [
+                        "specific",
+                        0.7683705695046281
+                    ],
+                    [
+                        "object",
+                        0.7683705695046281
+                    ],
+                    [
+                        "symbol",
+                        0.8260283003527374
+                    ],
+                    [
+                        "analogous",
+                        0.8331239223326065
+                    ],
+                    [
+                        "usual",
+                        0.8331239223326065
+                    ],
+                    [
+                        "abstraction",
+                        0.841851544968661
+                    ],
+                    [
+                        "way",
+                        0.842591992375813
+                    ],
+                    [
+                        "grade",
+                        0.8585065688441624
+                    ],
+                    [
+                        "school",
+                        0.8585065688441624
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.29646746514550465
+                    ],
+                    [
+                        "thing",
+                        0.43185074941102186
+                    ],
+                    [
+                        "number",
+                        0.5355697850715951
+                    ],
+                    [
+                        "action",
+                        0.5375441947594272
+                    ],
+                    [
+                        "polynomial",
+                        0.721904579072107
+                    ],
+                    [
+                        "structure",
+                        0.7683705695046281
+                    ],
+                    [
+                        "object",
+                        0.7683705695046281
+                    ],
+                    [
+                        "way",
+                        0.842591992375813
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-630": {
+            "id": "mH0oCDa74tE-630",
+            "heat": 0.0,
+            "start": 630.0,
+            "text": " with symmetric actions is analogous to the relationship numbers have with counts, it can help to keep a lot of the course a lot more grounded. An example might help to see why this kind of abstraction is desirable. Consider the symmetries of a cube and the permutation group of 4 objects. At first, these groups feel very different; you might think of the one on the left as acting on the 8 corners in a way that preserves the distance and orientation structure among them, but on the right we have a completely unconstrained set of actions on a much smaller set of points. As it happens, though, these two groups are really the same, in the sense that their multiplication tables will look identical. Anything that you can say about one group will be true of the other. For example, there are 8 distinct permutations where applying it three times in a row gets you back to where you started (not counting the identity). These are the ones that cycle three elements together. There are also 8 rotations of a cube that have this property, the various 120 degree rotations about each diagonal. This is no coincidence. The way to phrase this precisely is to say there\u2019s a one-to-one mapping between rotations of a cube and permutation of four elements which preserves composition. For example, rotating 180 degrees about the y-axis, followed by 180 about the x-axis, gives the same overall effect as rotating 180 degree around the z-axis; remember, that\u2019s",
+            "metrics": {
+                "relativeDCReadability": 0.9718429427841406,
+                "lexicalDiversity": 0.4980544747081712,
+                "posComposition": {
+                    "IN": 0.144,
+                    "JJ": 0.07,
+                    "NNS": 0.078,
+                    "VBZ": 0.039,
+                    "TO": 0.023,
+                    "DT": 0.156,
+                    "NN": 0.163,
+                    "VBP": 0.031,
+                    "PRP": 0.035,
+                    "MD": 0.023,
+                    "VB": 0.039,
+                    "RBR": 0.004,
+                    "VBD": 0.012,
+                    "WRB": 0.012,
+                    "NNP": 0.008,
+                    "CC": 0.016,
+                    "CD": 0.051,
+                    "RB": 0.035,
+                    "VBG": 0.019,
+                    "WDT": 0.019,
+                    "JJR": 0.004,
+                    "PRP$": 0.004,
+                    "EX": 0.012,
+                    "VBN": 0.004
+                },
+                "syllableRate": 3.242,
+                "topicScores": [
+                    [
+                        "group",
+                        0.34075108356608796
+                    ],
+                    [
+                        "cube",
+                        0.3893471277447505
+                    ],
+                    [
+                        "example",
+                        0.3897909352173029
+                    ],
+                    [
+                        "permutation",
+                        0.40923034057653584
+                    ],
+                    [
+                        "degree",
+                        0.41094133767791136
+                    ],
+                    [
+                        "axis",
+                        0.4183314211884344
+                    ],
+                    [
+                        "rotation",
+                        0.4211127495358338
+                    ],
+                    [
+                        "lot",
+                        0.44002341376765614
+                    ],
+                    [
+                        "action",
+                        0.49937392785048146
+                    ],
+                    [
+                        "count",
+                        0.5069743195187314
+                    ],
+                    [
+                        "set",
+                        0.5212584247803408
+                    ],
+                    [
+                        "way",
+                        0.5326086357336628
+                    ],
+                    [
+                        "element",
+                        0.538031189983189
+                    ],
+                    [
+                        "symmetric",
+                        0.7336712036638963
+                    ],
+                    [
+                        "analogous",
+                        0.7487150245751185
+                    ],
+                    [
+                        "relationship",
+                        0.7487150245751185
+                    ],
+                    [
+                        "number",
+                        0.7487150245751185
+                    ],
+                    [
+                        "course",
+                        0.7487150245751185
+                    ],
+                    [
+                        "desirable",
+                        0.77822696744199
+                    ],
+                    [
+                        "object",
+                        0.8100559645737906
+                    ],
+                    [
+                        "kind",
+                        0.8176592319662732
+                    ],
+                    [
+                        "abstraction",
+                        0.8176592319662732
+                    ],
+                    [
+                        "point",
+                        0.8278233927319123
+                    ],
+                    [
+                        "identical",
+                        0.8393784222920436
+                    ],
+                    [
+                        "symmetry",
+                        0.8449563793590307
+                    ],
+                    [
+                        "different",
+                        0.8503109952591134
+                    ],
+                    [
+                        "identity",
+                        0.8538170085974146
+                    ],
+                    [
+                        "left",
+                        0.8600233293529957
+                    ],
+                    [
+                        "corner",
+                        0.8600233293529957
+                    ],
+                    [
+                        "distance",
+                        0.8600233293529957
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.34075108356608796
+                    ],
+                    [
+                        "cube",
+                        0.3893471277447505
+                    ],
+                    [
+                        "example",
+                        0.3897909352173029
+                    ],
+                    [
+                        "permutation",
+                        0.40923034057653584
+                    ],
+                    [
+                        "degree",
+                        0.41094133767791136
+                    ],
+                    [
+                        "action",
+                        0.49937392785048146
+                    ],
+                    [
+                        "way",
+                        0.5326086357336628
+                    ],
+                    [
+                        "element",
+                        0.538031189983189
+                    ],
+                    [
+                        "symmetric",
+                        0.7336712036638963
+                    ],
+                    [
+                        "number",
+                        0.7487150245751185
+                    ],
+                    [
+                        "object",
+                        0.8100559645737906
+                    ],
+                    [
+                        "kind",
+                        0.8176592319662732
+                    ],
+                    [
+                        "point",
+                        0.8278233927319123
+                    ],
+                    [
+                        "symmetry",
+                        0.8449563793590307
+                    ],
+                    [
+                        "different",
+                        0.8503109952591134
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-720": {
+            "id": "mH0oCDa74tE-720",
+            "heat": 0.0,
+            "start": 720.0,
+            "text": " what we mean by a product of two actions. And if you look at the corresponding permutations, under a certain one-to-one association, this product will still be true, applying the two actions on the left gives the same overall effect as the one on the right. When you have a correspondence where this remains true for all products, it\u2019s called an \u201cisomorphism\u201d, which is maybe the most important idea in group theory. This particular isomorphism between cube rotations and permutations of four objects is a bit subtle, but for the curious among you, you may enjoy taking a moment to think hard about how the rotations of a cube permute its four diagonals. In your mathematical life, you'll see more examples of a given group arising from seemingly unrelated situations, and as you do, you\u2019ll get a better sense for what group theory is all about. Think about how a number like 3 is not really about a particular triplet of things, it\u2019s about all possible triplets of things. In the same way a group is not really about symmetries of a particular object, it\u2019s an abstract way that things even can be symmetric. There are even plenty of situations where groups come up in a way that doesn\u2019t feel like a set of symmetric actions at all, just as numbers can do a lot more than count. In fact, seeing the same group come out of different situations is a great way to reveal unexpected connections between distinct objects; that\u2019s a very common theme in modern math. And once you understand this about groups, it leads you to a natural question, which",
+            "metrics": {
+                "relativeDCReadability": 0.9832153560297178,
+                "lexicalDiversity": 0.4756944444444444,
+                "posComposition": {
+                    "WP": 0.007,
+                    "PRP": 0.049,
+                    "VBP": 0.031,
+                    "IN": 0.16,
+                    "DT": 0.135,
+                    "NN": 0.153,
+                    "CD": 0.017,
+                    "NNS": 0.083,
+                    "CC": 0.017,
+                    "JJ": 0.108,
+                    "MD": 0.017,
+                    "RB": 0.042,
+                    "VB": 0.031,
+                    "VBG": 0.014,
+                    "VBZ": 0.038,
+                    "WRB": 0.017,
+                    "VBD": 0.01,
+                    "VBN": 0.007,
+                    "NNP": 0.01,
+                    "WDT": 0.01,
+                    "RBS": 0.003,
+                    "TO": 0.01,
+                    "PRP$": 0.007,
+                    "JJR": 0.01,
+                    "EX": 0.003,
+                    "RP": 0.003,
+                    "PDT": 0.003
+                },
+                "syllableRate": 3.6,
+                "topicScores": [
+                    [
+                        "group",
+                        0.2816648383516706
+                    ],
+                    [
+                        "way",
+                        0.36766063522779413
+                    ],
+                    [
+                        "product",
+                        0.38130977669314486
+                    ],
+                    [
+                        "action",
+                        0.38973068410706885
+                    ],
+                    [
+                        "thing",
+                        0.40798124934191615
+                    ],
+                    [
+                        "particular",
+                        0.4096971564706347
+                    ],
+                    [
+                        "situation",
+                        0.42019198056353557
+                    ],
+                    [
+                        "object",
+                        0.42021680753009666
+                    ],
+                    [
+                        "true",
+                        0.5026473629980398
+                    ],
+                    [
+                        "isomorphism",
+                        0.5033544607312325
+                    ],
+                    [
+                        "theory",
+                        0.5050211535094417
+                    ],
+                    [
+                        "permutation",
+                        0.5109978256627505
+                    ],
+                    [
+                        "symmetric",
+                        0.534669538965746
+                    ],
+                    [
+                        "triplet",
+                        0.5348798397169325
+                    ],
+                    [
+                        "cube",
+                        0.5400597465808753
+                    ],
+                    [
+                        "rotation",
+                        0.5400597465808753
+                    ],
+                    [
+                        "number",
+                        0.5438409089843252
+                    ],
+                    [
+                        "right",
+                        0.7861766470524226
+                    ],
+                    [
+                        "association",
+                        0.8014006164220036
+                    ],
+                    [
+                        "corresponding",
+                        0.8151722069733591
+                    ],
+                    [
+                        "certain",
+                        0.8151722069733591
+                    ],
+                    [
+                        "left",
+                        0.8276544229419558
+                    ],
+                    [
+                        "overall",
+                        0.8276544229419558
+                    ],
+                    [
+                        "effect",
+                        0.8276544229419558
+                    ],
+                    [
+                        "diagonal",
+                        0.8343736062211399
+                    ],
+                    [
+                        "correspondence",
+                        0.8537229377188451
+                    ],
+                    [
+                        "important",
+                        0.8537229377188451
+                    ],
+                    [
+                        "idea",
+                        0.8537229377188451
+                    ],
+                    [
+                        "bit",
+                        0.8580137880712507
+                    ],
+                    [
+                        "subtle",
+                        0.8580137880712507
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.2816648383516706
+                    ],
+                    [
+                        "way",
+                        0.36766063522779413
+                    ],
+                    [
+                        "action",
+                        0.38973068410706885
+                    ],
+                    [
+                        "thing",
+                        0.40798124934191615
+                    ],
+                    [
+                        "object",
+                        0.42021680753009666
+                    ],
+                    [
+                        "theory",
+                        0.5050211535094417
+                    ],
+                    [
+                        "permutation",
+                        0.5109978256627505
+                    ],
+                    [
+                        "symmetric",
+                        0.534669538965746
+                    ],
+                    [
+                        "cube",
+                        0.5400597465808753
+                    ],
+                    [
+                        "number",
+                        0.5438409089843252
+                    ],
+                    [
+                        "certain",
+                        0.8151722069733591
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-810": {
+            "id": "mH0oCDa74tE-810",
+            "heat": 0.0,
+            "start": 810.0,
+            "text": " will eventually lead us to the monster: What are all the groups? But now you\u2019re in a position to ask that question in a more sophisticated way: What are all the groups up to isomorphism, which is to say we consider two groups to be the same if there\u2019s an isomorphism between them. This is asking something more fundamental than what are all the symmetric things, it\u2019s a way of asking what are all of the ways that something can be symmetric? Is there some formula or procedure for producing them all? Some meta-pattern lying at the heart of symmetry itself? This question turns out to be hard. Exceedingly hard. For one thing, there's the division between infinite groups, for example the ones describing the symmetries of a line or a circle, and finite groups, like all the ones we\u2019ve looked at up to this point. To maintain some hope of sanity, let\u2019s limit our view to finite groups. In much the same way that numbers can be broken down in their prime factorizations, or molecules can be described based on the atoms within them, there's a certain way that finite groups can be broken down into a kind of composition of smaller groups. The ones which can\u2019t be broken down any further, analogous to prime numbers or atoms, are known as the \u201csimple groups\u201d. To give a hint for why this is useful, remember how we said that group theory can be used to prove that there\u2019s no formula for a degree-5 polynomial the way there is for quadratic equations? Well, if you're wondering what that proof actually looks like, it involves showing that if there were some kind of mythical quintic",
+            "metrics": {
+                "relativeDCReadability": 0.94099179347762,
+                "lexicalDiversity": 0.4337748344370861,
+                "posComposition": {
+                    "MD": 0.023,
+                    "RB": 0.023,
+                    "VB": 0.063,
+                    "PRP": 0.04,
+                    "TO": 0.04,
+                    "DT": 0.129,
+                    "NN": 0.126,
+                    "WP": 0.013,
+                    "VBP": 0.04,
+                    "PDT": 0.013,
+                    "NNS": 0.073,
+                    "CC": 0.02,
+                    "IN": 0.132,
+                    "RBR": 0.003,
+                    "JJ": 0.076,
+                    "WDT": 0.01,
+                    "VBZ": 0.033,
+                    "CD": 0.007,
+                    "EX": 0.023,
+                    "NNP": 0.017,
+                    "VBD": 0.02,
+                    "VBG": 0.02,
+                    "JJR": 0.007,
+                    "RP": 0.013,
+                    "PRP$": 0.007,
+                    "VBN": 0.023,
+                    "WRB": 0.007
+                },
+                "syllableRate": 3.542,
+                "topicScores": [
+                    [
+                        "group",
+                        0.22847212301455894
+                    ],
+                    [
+                        "way",
+                        0.2924868913920575
+                    ],
+                    [
+                        "finite",
+                        0.4042744374104356
+                    ],
+                    [
+                        "hard",
+                        0.49939985645442125
+                    ],
+                    [
+                        "symmetric",
+                        0.5164924309842415
+                    ],
+                    [
+                        "isomorphism",
+                        0.5169727391553444
+                    ],
+                    [
+                        "question",
+                        0.525245999415878
+                    ],
+                    [
+                        "thing",
+                        0.5275649807689272
+                    ],
+                    [
+                        "symmetry",
+                        0.5363637317737746
+                    ],
+                    [
+                        "kind",
+                        0.5445612976421215
+                    ],
+                    [
+                        "formula",
+                        0.545009910359562
+                    ],
+                    [
+                        "prime",
+                        0.5453240035240157
+                    ],
+                    [
+                        "atom",
+                        0.5453240035240157
+                    ],
+                    [
+                        "number",
+                        0.5496463767696833
+                    ],
+                    [
+                        "monster",
+                        0.817122809652609
+                    ],
+                    [
+                        "sophisticated",
+                        0.8444849880656459
+                    ],
+                    [
+                        "position",
+                        0.8537998195735271
+                    ],
+                    [
+                        "meta",
+                        0.8678469503940841
+                    ],
+                    [
+                        "fundamental",
+                        0.8681414865026997
+                    ],
+                    [
+                        "point",
+                        0.8727579363095145
+                    ],
+                    [
+                        "pattern",
+                        0.8762659691384449
+                    ],
+                    [
+                        "procedure",
+                        0.8773914643966376
+                    ],
+                    [
+                        "equation",
+                        0.8827842017046277
+                    ],
+                    [
+                        "heart",
+                        0.8839388420696188
+                    ],
+                    [
+                        "quintic",
+                        0.8845457269502695
+                    ],
+                    [
+                        "finite group",
+                        0.8852865292378813
+                    ],
+                    [
+                        "simple",
+                        0.8887846234319284
+                    ],
+                    [
+                        "infinite",
+                        0.8888935796028876
+                    ],
+                    [
+                        "example",
+                        0.8888935796028876
+                    ],
+                    [
+                        "circle",
+                        0.8888935796028876
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.22847212301455894
+                    ],
+                    [
+                        "way",
+                        0.2924868913920575
+                    ],
+                    [
+                        "symmetric",
+                        0.5164924309842415
+                    ],
+                    [
+                        "thing",
+                        0.5275649807689272
+                    ],
+                    [
+                        "symmetry",
+                        0.5363637317737746
+                    ],
+                    [
+                        "kind",
+                        0.5445612976421215
+                    ],
+                    [
+                        "formula",
+                        0.545009910359562
+                    ],
+                    [
+                        "number",
+                        0.5496463767696833
+                    ],
+                    [
+                        "monster",
+                        0.817122809652609
+                    ],
+                    [
+                        "fundamental",
+                        0.8681414865026997
+                    ],
+                    [
+                        "point",
+                        0.8727579363095145
+                    ],
+                    [
+                        "simple",
+                        0.8887846234319284
+                    ],
+                    [
+                        "example",
+                        0.8888935796028876
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-900": {
+            "id": "mH0oCDa74tE-900",
+            "heat": 0.0,
+            "start": 900.0,
+            "text": " formula, something which uses only radicals and the basic arithmetic operations, it would imply that the permutation group on 5 elements decomposes into a special kind of simple group, known fancifully as cyclic groups of prime order. But the actual way that it breaks down involves a different kind of simple group, a different kind of atom, one which polynomial solutions built up from radicals would never allow. That is a super high level description, of course, with about a semester\u2019s worth of details missing, but the point is that you have this really non-obvious fact about a different part of math whose solution comes down to finding the atomic structure of a certain group. This is one of many different examples where understanding the nature of these simple groups, these atoms, actually matters outside of group theory. The task of categorizing all finite groups breaking down into two steps: One - find all the simple groups, and two -  find all the ways to combine them. The first question is like finding the periodic table, and the second is a bit like doing all of chemistry thereafter. The good news is that mathematicians have found all the finite simple groups.. Well, more pertinent is that they proved that the ones that they found are, in fact, all the ones out there. It took many decades, tens of thousands of dense pages of advanced math, hundreds of some of the smartest minds out there, and significant help from computers, but by 2004 with a culminating 12,000 pages to tie up the loose ends, there was a definitive answer. Many experts agree: this is one of the most monumental achievements in the history",
+            "metrics": {
+                "relativeDCReadability": 0.9361469251251144,
+                "lexicalDiversity": 0.5441696113074205,
+                "posComposition": {
+                    "NN": 0.148,
+                    "WDT": 0.007,
+                    "VBZ": 0.049,
+                    "RB": 0.032,
+                    "NNS": 0.102,
+                    "CC": 0.025,
+                    "DT": 0.138,
+                    "JJ": 0.12,
+                    "PRP": 0.025,
+                    "MD": 0.007,
+                    "VB": 0.014,
+                    "IN": 0.152,
+                    "CD": 0.032,
+                    "VBN": 0.011,
+                    "RP": 0.018,
+                    "VBD": 0.018,
+                    "VBG": 0.028,
+                    "VBP": 0.025,
+                    "WP$": 0.004,
+                    "TO": 0.011,
+                    "WRB": 0.004,
+                    "PDT": 0.014,
+                    "RBR": 0.004,
+                    "EX": 0.007,
+                    "JJS": 0.004,
+                    "RBS": 0.004
+                },
+                "syllableRate": 3.583,
+                "topicScores": [
+                    [
+                        "group",
+                        0.23001541676214762
+                    ],
+                    [
+                        "simple",
+                        0.25825693495400115
+                    ],
+                    [
+                        "different",
+                        0.3275782178281897
+                    ],
+                    [
+                        "kind",
+                        0.3578241137573702
+                    ],
+                    [
+                        "simple group",
+                        0.4383664099933821
+                    ],
+                    [
+                        "radical",
+                        0.5065907971780989
+                    ],
+                    [
+                        "atom",
+                        0.5072693987028373
+                    ],
+                    [
+                        "solution",
+                        0.5208760087217207
+                    ],
+                    [
+                        "way",
+                        0.5211313002383289
+                    ],
+                    [
+                        "fact",
+                        0.5234349706606792
+                    ],
+                    [
+                        "finite",
+                        0.5254803967569044
+                    ],
+                    [
+                        "math",
+                        0.5284489703587487
+                    ],
+                    [
+                        "page",
+                        0.5585188454305152
+                    ],
+                    [
+                        "different kind",
+                        0.7536943886980455
+                    ],
+                    [
+                        "formula",
+                        0.7750812337541221
+                    ],
+                    [
+                        "order",
+                        0.7902001138317547
+                    ],
+                    [
+                        "arithmetic",
+                        0.8165124416097539
+                    ],
+                    [
+                        "operation",
+                        0.8165124416097539
+                    ],
+                    [
+                        "prime",
+                        0.8165124416097539
+                    ],
+                    [
+                        "basic",
+                        0.8279740837621741
+                    ],
+                    [
+                        "permutation",
+                        0.8279740837621741
+                    ],
+                    [
+                        "element",
+                        0.8279740837621741
+                    ],
+                    [
+                        "decompose",
+                        0.8279740837621741
+                    ],
+                    [
+                        "special",
+                        0.8279740837621741
+                    ],
+                    [
+                        "cyclic",
+                        0.8279740837621741
+                    ],
+                    [
+                        "theory",
+                        0.8486919983265765
+                    ],
+                    [
+                        "course",
+                        0.8489214380875637
+                    ],
+                    [
+                        "actual",
+                        0.8540027765873699
+                    ],
+                    [
+                        "polynomial",
+                        0.8540027765873699
+                    ],
+                    [
+                        "level",
+                        0.859097064168995
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.23001541676214762
+                    ],
+                    [
+                        "simple",
+                        0.25825693495400115
+                    ],
+                    [
+                        "different",
+                        0.3275782178281897
+                    ],
+                    [
+                        "kind",
+                        0.3578241137573702
+                    ],
+                    [
+                        "simple group",
+                        0.4383664099933821
+                    ],
+                    [
+                        "way",
+                        0.5211313002383289
+                    ],
+                    [
+                        "math",
+                        0.5284489703587487
+                    ],
+                    [
+                        "formula",
+                        0.7750812337541221
+                    ],
+                    [
+                        "permutation",
+                        0.8279740837621741
+                    ],
+                    [
+                        "element",
+                        0.8279740837621741
+                    ],
+                    [
+                        "theory",
+                        0.8486919983265765
+                    ],
+                    [
+                        "polynomial",
+                        0.8540027765873699
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-990": {
+            "id": "mH0oCDa74tE-990",
+            "heat": 0.0,
+            "start": 990.0,
+            "text": " of math. (sigh) The bad news, though, is that this answer is absurd. There are 18 distinct infinite families of simple groups, which makes it really tempting to lean into the periodic table analogy; but groups are stranger than chemistry because there are also 26 simple groups that are just left over that don\u2019t fit the other patterns. These 26 are known as the sporadic groups. That a field of study rooted in symmetry itself has such a patched together fundamental structure is... I mean it\u2019s just bizarre! It\u2019s like the universe was designed by committee. If you\u2019re wondering what we mean by an infinite family, examples might help: one such family of simple groups includes all the cyclic groups with prime order; these are essentially the symmetries of a regular polygon with a prime number of sides, but where you\u2019re not allowed to flip the polygon over. Another of these infinite families is very similar to the permutation groups that we saw earlier, but there\u2019s the tiniest constraint on how they're allowed to shuffle n items. If they act on 5 or more elements, these groups are simple, which incidentally is heavily related to why polynomials with degree 5 or more have solutions that can\u2019t be written down using radicals. The others 16 families are notably more complicated, and I\u2019m told that there\u2019s at least a little ambiguity in how to organize them into cleanly distinct families without overlap. But everyone agrees is that the 26 sporadic groups stand out as something very different. The largest of these sporadic groups is known, thanks to John Conway, as the monster group, and its size is the",
+            "metrics": {
+                "relativeDCReadability": 1.0397247090621728,
+                "lexicalDiversity": 0.4966216216216216,
+                "posComposition": {
+                    "IN": 0.122,
+                    "NN": 0.098,
+                    "VBP": 0.064,
+                    "DT": 0.095,
+                    "JJ": 0.111,
+                    "VBZ": 0.047,
+                    "EX": 0.014,
+                    "CD": 0.027,
+                    "NNS": 0.091,
+                    "WDT": 0.014,
+                    "PRP": 0.044,
+                    "RB": 0.044,
+                    "VBG": 0.01,
+                    "TO": 0.024,
+                    "VB": 0.03,
+                    "CC": 0.027,
+                    "JJR": 0.01,
+                    "VBN": 0.034,
+                    "RP": 0.01,
+                    "NNP": 0.017,
+                    "PDT": 0.007,
+                    ":": 0.003,
+                    "VBD": 0.014,
+                    "WP": 0.003,
+                    "MD": 0.007,
+                    "WRB": 0.014,
+                    "RBR": 0.007,
+                    "JJS": 0.01,
+                    "PRP$": 0.003
+                },
+                "syllableRate": 3.742,
+                "topicScores": [
+                    [
+                        "group",
+                        0.22876072942932052
+                    ],
+                    [
+                        "family",
+                        0.2987450755540301
+                    ],
+                    [
+                        "simple",
+                        0.3496861129251775
+                    ],
+                    [
+                        "sporadic",
+                        0.4152484180063439
+                    ],
+                    [
+                        "infinite",
+                        0.41703521281336914
+                    ],
+                    [
+                        "distinct",
+                        0.5427380015186037
+                    ],
+                    [
+                        "prime",
+                        0.5461820789709786
+                    ],
+                    [
+                        "symmetry",
+                        0.5490319033189112
+                    ],
+                    [
+                        "polygon",
+                        0.5534300108609974
+                    ],
+                    [
+                        "John",
+                        0.6693178410681263
+                    ],
+                    [
+                        "Conway",
+                        0.6693178410681263
+                    ],
+                    [
+                        "math",
+                        0.7720099823923445
+                    ],
+                    [
+                        "sigh",
+                        0.7915747890366128
+                    ],
+                    [
+                        "John Conway",
+                        0.811549479851018
+                    ],
+                    [
+                        "absurd",
+                        0.8469636666053975
+                    ],
+                    [
+                        "pattern",
+                        0.8548671335613963
+                    ],
+                    [
+                        "bad",
+                        0.8581350520238478
+                    ],
+                    [
+                        "news",
+                        0.8681849752325579
+                    ],
+                    [
+                        "bizarre",
+                        0.8693529897992954
+                    ],
+                    [
+                        "committee",
+                        0.872535430077542
+                    ],
+                    [
+                        "table",
+                        0.8751540300758738
+                    ],
+                    [
+                        "analogy",
+                        0.8751540300758738
+                    ],
+                    [
+                        "answer",
+                        0.8772507458093899
+                    ],
+                    [
+                        "item",
+                        0.8775711558720005
+                    ],
+                    [
+                        "radical",
+                        0.8796105445107275
+                    ],
+                    [
+                        "overlap",
+                        0.8814133568041295
+                    ],
+                    [
+                        "different",
+                        0.8830220980963588
+                    ],
+                    [
+                        "tempting",
+                        0.8838046427874903
+                    ],
+                    [
+                        "periodic",
+                        0.8838046427874903
+                    ],
+                    [
+                        "strange",
+                        0.8838046427874903
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "group",
+                        0.22876072942932052
+                    ],
+                    [
+                        "simple",
+                        0.3496861129251775
+                    ],
+                    [
+                        "symmetry",
+                        0.5490319033189112
+                    ],
+                    [
+                        "math",
+                        0.7720099823923445
+                    ],
+                    [
+                        "different",
+                        0.8830220980963588
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-1080": {
+            "id": "mH0oCDa74tE-1080",
+            "heat": 0.0,
+            "start": 1080.0,
+            "text": " number I mentioned at the start. The second largest, and I promise this isn\u2019t a joke, is known as the baby monster group. [monster: don't talk to me or my son ever again] Together with the baby monster 19 of the sporadic groups are in a certain sense children of the monster, and Robert Griess called these 20 the \u201chappy family\u201d. He called the other 6, which don\u2019t even fit that pattern, the pariahs. As if to compensate for how complicated the underlying math here is, the experts really let loose on their whimsy while naming things. Let me emphasize, having a group which is big is not that big of a deal. But the idea that the fundamental building blocks for one of the most fundamental ideas in math come in this collection that just abruptly stops around 8\u00d710^53? That\u2019s weird. Now, at this point, that I introduced groups as symmetries, a collection of actions, you might wonder what it is that the monster acts on. What object does it describe the symmetries of? Well, there is an answer, but it doesn\u2019t fit into 2 or 3 dimensions to draw. Nor does it fit into 4 or 5, instead to see what the monster acts on we\u2019d have to jump up to... wait for it... 196,883 dimensions. Just describing one of the elements of this group takes around 4 gigabytes of data, even though plenty of groups that are way bigger have a much smaller computational descriptions. The permutation group on 101 elements was, if you\u2019ll recall, dramatically bigger, but",
+            "metrics": {
+                "relativeDCReadability": 1.033921509943788,
+                "lexicalDiversity": 0.49280575539568344,
+                "posComposition": {
+                    "NN": 0.147,
+                    "PRP": 0.05,
+                    "VBD": 0.022,
+                    "IN": 0.14,
+                    "DT": 0.115,
+                    "JJ": 0.061,
+                    "JJS": 0.004,
+                    "CC": 0.029,
+                    "VBP": 0.043,
+                    "VBZ": 0.05,
+                    "RP": 0.007,
+                    "VBN": 0.004,
+                    "RB": 0.061,
+                    "VB": 0.043,
+                    "TO": 0.022,
+                    "PRP$": 0.007,
+                    "CD": 0.047,
+                    "NNS": 0.065,
+                    "NNP": 0.014,
+                    "WDT": 0.014,
+                    "WRB": 0.004,
+                    "VBG": 0.011,
+                    "RBS": 0.004,
+                    "MD": 0.004,
+                    "WP": 0.011,
+                    "EX": 0.004,
+                    ":": 0.007,
+                    "JJR": 0.011
+                },
+                "syllableRate": 3.208,
+                "topicScores": [
+                    [
+                        "monster",
+                        0.27505070961525735
+                    ],
+                    [
+                        "group",
+                        0.2858837298353296
+                    ],
+                    [
+                        "big",
+                        0.3668066945672933
+                    ],
+                    [
+                        "Robert Griess",
+                        0.4437254094420282
+                    ],
+                    [
+                        "baby",
+                        0.49474698262698097
+                    ],
+                    [
+                        "dimension",
+                        0.5433560112138535
+                    ],
+                    [
+                        "math",
+                        0.54467996376898
+                    ],
+                    [
+                        "symmetry",
+                        0.5449225861005978
+                    ],
+                    [
+                        "collection",
+                        0.5463891292439554
+                    ],
+                    [
+                        "fundamental",
+                        0.5492507805056378
+                    ],
+                    [
+                        "element",
+                        0.5558280085264665
+                    ],
+                    [
+                        "idea",
+                        0.5560485307462611
+                    ],
+                    [
+                        "number",
+                        0.7272768656673262
+                    ],
+                    [
+                        "start",
+                        0.7272768656673262
+                    ],
+                    [
+                        "family",
+                        0.8163209725709201
+                    ],
+                    [
+                        "large",
+                        0.8268794100707774
+                    ],
+                    [
+                        "joke",
+                        0.8268794100707774
+                    ],
+                    [
+                        "pariahs",
+                        0.833622734599273
+                    ],
+                    [
+                        "happy",
+                        0.8420500660915112
+                    ],
+                    [
+                        "thing",
+                        0.8566689390326954
+                    ],
+                    [
+                        "son",
+                        0.8629870906966042
+                    ],
+                    [
+                        "sporadic",
+                        0.8629870906966042
+                    ],
+                    [
+                        "certain",
+                        0.8629870906966042
+                    ],
+                    [
+                        "sense",
+                        0.8629870906966042
+                    ],
+                    [
+                        "child",
+                        0.8629870906966042
+                    ],
+                    [
+                        "deal",
+                        0.8641515766317088
+                    ],
+                    [
+                        "pattern",
+                        0.8674486081865573
+                    ],
+                    [
+                        "weird",
+                        0.8742352665798073
+                    ],
+                    [
+                        "expert",
+                        0.8767402909079612
+                    ],
+                    [
+                        "complicated",
+                        0.8852953971520583
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "monster",
+                        0.27505070961525735
+                    ],
+                    [
+                        "group",
+                        0.2858837298353296
+                    ],
+                    [
+                        "math",
+                        0.54467996376898
+                    ],
+                    [
+                        "symmetry",
+                        0.5449225861005978
+                    ],
+                    [
+                        "fundamental",
+                        0.5492507805056378
+                    ],
+                    [
+                        "element",
+                        0.5558280085264665
+                    ],
+                    [
+                        "number",
+                        0.7272768656673262
+                    ],
+                    [
+                        "large",
+                        0.8268794100707774
+                    ],
+                    [
+                        "thing",
+                        0.8566689390326954
+                    ],
+                    [
+                        "certain",
+                        0.8629870906966042
+                    ],
+                    [
+                        "sense",
+                        0.8629870906966042
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-1170": {
+            "id": "mH0oCDa74tE-1170",
+            "heat": 0.0,
+            "start": 1170.0,
+            "text": " we could describe each element with very little data, for example a list of 100 numbers. No one really understands why the sporadic groups, and the monster in particular, are there. Maybe in a few decades, there will be a clearer answer, maybe one of you will come up with it, but despite knowing that they\u2019re deeply fundamental to math, and arguably to physics as well, a lot about them remains mysterious. In the 1970s, mathematician John McKay was making a switch to studying group theory to an adjacent field, and he noticed that a number very similar to this 196,883 showed up in a completely unrelated context, or at least, almost. A number one bigger than this was in the series expansion of a fundamental function in a totally different part of math, relevant to these things called modular forms and elliptic functions. Assuming that this was more than a coincidence seemed crazy, enough that it was playfully deemed \u201cmoonshine\u201d by John Conway, but after more numerical coincidences like this were noticed, it gave rise to what became known as the monstrous moonshine conjecture. Whimsical names just don\u2019t stop. This was proved by Richard Borcherds in 1992, solidifying a connection between very different parts of math that at first glance seemed crazy. 6 years later, by the way, he won the Fields Medal, in part for the significance of this proof. And related to this moonshine is the connections between the monster and string theory. Maybe it shouldn\u2019t come as a surprise that something that arises from symmetry itself",
+            "metrics": {
+                "relativeDCReadability": 1.0219212342627695,
+                "lexicalDiversity": 0.5074626865671642,
+                "posComposition": {
+                    "PRP": 0.041,
+                    "MD": 0.011,
+                    "VB": 0.019,
+                    "DT": 0.127,
+                    "NN": 0.153,
+                    "IN": 0.146,
+                    "RB": 0.071,
+                    "JJ": 0.086,
+                    "NNS": 0.045,
+                    "CD": 0.026,
+                    "VBZ": 0.015,
+                    "WRB": 0.004,
+                    "CC": 0.034,
+                    "VBP": 0.011,
+                    "EX": 0.004,
+                    "JJR": 0.019,
+                    "RP": 0.004,
+                    "VBG": 0.022,
+                    "TO": 0.03,
+                    "NNP": 0.041,
+                    "VBD": 0.056,
+                    "JJS": 0.004,
+                    "VBN": 0.019,
+                    "WP": 0.004,
+                    "WDT": 0.011
+                },
+                "syllableRate": 3.392,
+                "topicScores": [
+                    [
+                        "John",
+                        0.34720476945444206
+                    ],
+                    [
+                        "number",
+                        0.382204604481958
+                    ],
+                    [
+                        "math",
+                        0.3956814288341337
+                    ],
+                    [
+                        "moonshine",
+                        0.4187942861967286
+                    ],
+                    [
+                        "John Conway",
+                        0.4995505313526457
+                    ],
+                    [
+                        "group",
+                        0.5048874999863829
+                    ],
+                    [
+                        "crazy",
+                        0.5122707922960688
+                    ],
+                    [
+                        "different",
+                        0.5200709532842601
+                    ],
+                    [
+                        "fundamental",
+                        0.522374104878842
+                    ],
+                    [
+                        "monster",
+                        0.5267621560792334
+                    ],
+                    [
+                        "theory",
+                        0.5281354308343422
+                    ],
+                    [
+                        "function",
+                        0.5300112595647255
+                    ],
+                    [
+                        "connection",
+                        0.5369400921387169
+                    ],
+                    [
+                        "coincidence",
+                        0.5452017278513324
+                    ],
+                    [
+                        "Fields",
+                        0.6340898038205085
+                    ],
+                    [
+                        "Medal",
+                        0.6340898038205085
+                    ],
+                    [
+                        "Richard",
+                        0.6374973173623781
+                    ],
+                    [
+                        "Borcherds",
+                        0.6374973173623781
+                    ],
+                    [
+                        "Fields Medal",
+                        0.672436235265361
+                    ],
+                    [
+                        "Richard Borcherds",
+                        0.6846441491637364
+                    ],
+                    [
+                        "little",
+                        0.7401666952606084
+                    ],
+                    [
+                        "datum",
+                        0.7401666952606084
+                    ],
+                    [
+                        "example",
+                        0.7401666952606084
+                    ],
+                    [
+                        "element",
+                        0.7549661521606021
+                    ],
+                    [
+                        "list",
+                        0.7549661521606021
+                    ],
+                    [
+                        "sporadic",
+                        0.81086380301463
+                    ],
+                    [
+                        "particular",
+                        0.81086380301463
+                    ],
+                    [
+                        "mysterious",
+                        0.8151578622197769
+                    ],
+                    [
+                        "decade",
+                        0.8389779154328065
+                    ],
+                    [
+                        "clear",
+                        0.8389779154328065
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "number",
+                        0.382204604481958
+                    ],
+                    [
+                        "math",
+                        0.3956814288341337
+                    ],
+                    [
+                        "group",
+                        0.5048874999863829
+                    ],
+                    [
+                        "different",
+                        0.5200709532842601
+                    ],
+                    [
+                        "fundamental",
+                        0.522374104878842
+                    ],
+                    [
+                        "monster",
+                        0.5267621560792334
+                    ],
+                    [
+                        "theory",
+                        0.5281354308343422
+                    ],
+                    [
+                        "example",
+                        0.7401666952606084
+                    ],
+                    [
+                        "element",
+                        0.7549661521606021
+                    ]
+                ]
+            }
+        },
+        "mH0oCDa74tE-1260": {
+            "id": "mH0oCDa74tE-1260",
+            "heat": 0.0,
+            "start": 1260.0,
+            "text": " is relevant to physics, but in light of just how random the monster seems at first glance, the connection still elicits a double-take. To me, the monster and its absurd size is a nice reminder that fundamental objects are not necessarily simple. The universe doesn\u2019t really care if its final answers look clean; they are what they are by logical necessity, with no concern over how easily we\u2019ll be able to understand them.",
+            "metrics": {
+                "relativeDCReadability": 1.0231500634637944,
+                "lexicalDiversity": 0.4675324675324675,
+                "posComposition": {
+                    "VBZ": 0.052,
+                    "JJ": 0.156,
+                    "TO": 0.039,
+                    "NNS": 0.039,
+                    "CC": 0.026,
+                    "IN": 0.104,
+                    "NN": 0.156,
+                    "RB": 0.078,
+                    "WRB": 0.026,
+                    "DT": 0.091,
+                    "PRP": 0.065,
+                    "PRP$": 0.026,
+                    "VBP": 0.065,
+                    "VB": 0.052,
+                    "NNP": 0.013,
+                    "WP": 0.013
+                },
+                "syllableRate": 0.983,
+                "topicScores": [
+                    [
+                        "monster",
+                        0.47852228117355494
+                    ],
+                    [
+                        "relevant",
+                        0.7154884913619131
+                    ],
+                    [
+                        "physics",
+                        0.7154884913619131
+                    ],
+                    [
+                        "glance",
+                        0.7154884913619131
+                    ],
+                    [
+                        "connection",
+                        0.7154884913619131
+                    ],
+                    [
+                        "double",
+                        0.7154884913619131
+                    ],
+                    [
+                        "simple",
+                        0.7170038692589044
+                    ],
+                    [
+                        "light",
+                        0.7495501570391333
+                    ],
+                    [
+                        "random",
+                        0.7495501570391333
+                    ],
+                    [
+                        "absurd",
+                        0.8183208320191389
+                    ],
+                    [
+                        "size",
+                        0.8183208320191389
+                    ],
+                    [
+                        "nice",
+                        0.8183208320191389
+                    ],
+                    [
+                        "reminder",
+                        0.8183208320191389
+                    ],
+                    [
+                        "fundamental",
+                        0.8183208320191389
+                    ],
+                    [
+                        "object",
+                        0.8183208320191389
+                    ],
+                    [
+                        "universe",
+                        0.8214202436978836
+                    ],
+                    [
+                        "clean",
+                        0.8214202436978836
+                    ],
+                    [
+                        "logical",
+                        0.8214202436978836
+                    ],
+                    [
+                        "necessity",
+                        0.8214202436978836
+                    ],
+                    [
+                        "final",
+                        0.8455376454576911
+                    ],
+                    [
+                        "answer",
+                        0.8455376454576911
+                    ],
+                    [
+                        "concern",
+                        0.8455376454576911
+                    ],
+                    [
+                        "able",
+                        0.8455376454576911
+                    ],
+                    [
+                        "absurd size",
+                        2.0270831688698125
+                    ],
+                    [
+                        "nice reminder",
+                        2.0270831688698125
+                    ],
+                    [
+                        "fundamental object",
+                        2.0270831688698125
+                    ],
+                    [
+                        "logical necessity",
+                        2.074380486282244
+                    ],
+                    [
+                        "final answer",
+                        2.5079584513211315
+                    ]
+                ],
+                "topTopicSimilarity": 0.14285714285714285,
+                "sharedTopicScores": [
+                    [
+                        "monster",
+                        0.47852228117355494
+                    ],
+                    [
+                        "simple",
+                        0.7170038692589044
+                    ],
+                    [
+                        "fundamental",
+                        0.8183208320191389
+                    ],
+                    [
+                        "object",
+                        0.8183208320191389
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,2731 @@
+{
+    "metadata": {
+        "id": "XR_0k8JIawY",
+        "avgHeat": 0.43,
+        "runtime": 1038.88,
+        "dale-challReadabilityScore": 9.427726751896769,
+        "lexicalDiversity": 0.5395331325301205,
+        "posComposition": {
+            "RB": 0.05,
+            "VBP": 0.029,
+            "CD": 0.022,
+            "NNS": 0.046,
+            "DT": 0.117,
+            "CC": 0.045,
+            "NNP": 0.045,
+            "TO": 0.024,
+            "WDT": 0.006,
+            "PRP": 0.037,
+            "VBN": 0.016,
+            "JJ": 0.078,
+            "NN": 0.187,
+            "VBZ": 0.03,
+            "IN": 0.111,
+            "MD": 0.025,
+            "VB": 0.055,
+            "$": 0.001,
+            "VBG": 0.011,
+            "VBD": 0.01,
+            "POS": 0.006,
+            "PRP$": 0.018,
+            "WRB": 0.009,
+            "JJR": 0.008,
+            "WP": 0.003,
+            "RBR": 0.001,
+            "RP": 0.002,
+            "``": 0.002,
+            "''": 0.002,
+            "EX": 0.004,
+            "PDT": 0.001,
+            "JJS": 0.0
+        },
+        "syllableRate": 3.897,
+        "topicScores": [
+            [
+                "h+",
+                0.09183394601996803
+            ],
+            [
+                "acid",
+                0.10531663969868513
+            ],
+            [
+                "base",
+                0.11427701210827798
+            ],
+            [
+                "h+ ion",
+                0.11596429874813943
+            ],
+            [
+                "solution",
+                0.12364968325844404
+            ],
+            [
+                "buffer",
+                0.12731846287086102
+            ],
+            [
+                "ph",
+                0.14374350800167124
+            ],
+            [
+                "ha",
+                0.14728858484130375
+            ],
+            [
+                "weak",
+                0.14975805919183954
+            ],
+            [
+                "conjugate",
+                0.15279634250292823
+            ],
+            [
+                "strong",
+                0.15819324162285026
+            ],
+            [
+                "change",
+                0.17568916691270375
+            ],
+            [
+                "molecule",
+                0.19198490186771053
+            ],
+            [
+                "video",
+                0.20869523998628917
+            ],
+            [
+                "equilibrium",
+                0.2151170256541034
+            ],
+            [
+                "oh-",
+                0.2188046946160851
+            ],
+            [
+                "a-",
+                0.2210239743422135
+            ],
+            [
+                "conjugate base",
+                0.2223115563552477
+            ],
+            [
+                "water",
+                0.22939447676876162
+            ],
+            [
+                "model",
+                0.23278772948144266
+            ],
+            [
+                "weak acid",
+                0.23458078352643238
+            ],
+            [
+                "system",
+                0.25325056806826307
+            ],
+            [
+                "extra h+",
+                0.25875703091578744
+            ],
+            [
+                "observation",
+                0.26198863048970195
+            ],
+            [
+                "pause",
+                0.2660498854966099
+            ],
+            [
+                "dissociate",
+                0.28152939382432
+            ],
+            [
+                "buffer solution",
+                0.28605551086721714
+            ],
+            [
+                "strong acid",
+                0.2881404055501647
+            ],
+            [
+                "ratio",
+                0.29803624645271226
+            ],
+            [
+                "oh- ion",
+                0.30052608123329344
+            ]
+        ],
+        "topicsList": [
+            "h+",
+            "acid",
+            "base",
+            "h+ ion",
+            "solution",
+            "buffer",
+            "ph",
+            "ha",
+            "weak",
+            "conjugate",
+            "strong",
+            "change",
+            "molecule",
+            "video",
+            "equilibrium",
+            "oh-",
+            "a-",
+            "conjugate base",
+            "water",
+            "model",
+            "weak acid",
+            "system",
+            "extra h+",
+            "observation",
+            "pause",
+            "dissociate",
+            "buffer solution",
+            "strong acid",
+            "ratio",
+            "oh- ion"
+        ]
+    },
+    "chunks": {
+        "XR_0k8JIawY-0": {
+            "id": "XR_0k8JIawY-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " Here are two solutions, A and B, to which I've added universal indicator. Here's the color key. As you can see, both of these solutions are around pH 6, very slightly acidic. Now I'm going to add concentrated sodium hydroxide, a strong base, to each solution. It only took one drop of strong base to dramatically raise the pH of solution A. The pH of the other solution hasn't changed. Let's reset. Here are the same two starting solutions, A and B, with the same indicator. But this time, I'm going to add concentrated hydrochloric acid, a strong acid, to each solution. It only took one drop of strong acid to dramatically lower the pH of solution A. The pH of the other solution hasn't changed. OK, let's look at our pairs of solutions. When we added a strong acid or base to solution A, its pH changed dramatically after only one drop! When we added one drop of acid or base to solution B, its pH stayed the same. Let's add more acid and more base to solution B and see what happens. It takes much more acid or base to change the pH of this solution by the same amount! How is this solution able to resist changes to its pH when strong acids and bases are added? How could we make and use such a solution? In this video, you'll find out.",
+            "metrics": {
+                "relativeDCReadability": 0.889494600035263,
+                "lexicalDiversity": 0.5224489795918368,
+                "posComposition": {
+                    "RB": 0.061,
+                    "VBP": 0.029,
+                    "CD": 0.029,
+                    "NNS": 0.037,
+                    "DT": 0.102,
+                    "CC": 0.041,
+                    "NNP": 0.053,
+                    "TO": 0.053,
+                    "WDT": 0.004,
+                    "PRP": 0.045,
+                    "VBN": 0.016,
+                    "JJ": 0.086,
+                    "NN": 0.188,
+                    "VBZ": 0.024,
+                    "IN": 0.069,
+                    "MD": 0.012,
+                    "VB": 0.053,
+                    "$": 0.004,
+                    "VBG": 0.012,
+                    "VBD": 0.02,
+                    "POS": 0.012,
+                    "PRP$": 0.016,
+                    "WRB": 0.012,
+                    "JJR": 0.008,
+                    "WP": 0.004,
+                    "RBR": 0.004,
+                    "RP": 0.004
+                },
+                "syllableRate": 2.967,
+                "topicScores": [
+                    [
+                        "solution",
+                        0.2198293173329021
+                    ],
+                    [
+                        "ph",
+                        0.2672228606124233
+                    ],
+                    [
+                        "acid",
+                        0.2847744279025107
+                    ],
+                    [
+                        "base",
+                        0.3087473813808421
+                    ],
+                    [
+                        "strong",
+                        0.309488505248967
+                    ],
+                    [
+                        "a.",
+                        0.3516353811305344
+                    ],
+                    [
+                        "change",
+                        0.35346191996674264
+                    ],
+                    [
+                        "drop",
+                        0.37368527180639854
+                    ],
+                    [
+                        "indicator",
+                        0.5488739133601007
+                    ],
+                    [
+                        "concentrated",
+                        0.572522508519018
+                    ],
+                    [
+                        "B",
+                        0.663227939425461
+                    ],
+                    [
+                        "universal",
+                        0.8496517834469522
+                    ],
+                    [
+                        "key",
+                        0.8744074179364841
+                    ],
+                    [
+                        "acidic",
+                        0.8943072746114051
+                    ],
+                    [
+                        "color",
+                        0.8947937132398852
+                    ],
+                    [
+                        "sodium",
+                        0.9209689504968767
+                    ],
+                    [
+                        "time",
+                        0.9383809324041718
+                    ],
+                    [
+                        "hydrochloric",
+                        0.9383809324041718
+                    ],
+                    [
+                        "pair",
+                        0.9473799277330937
+                    ],
+                    [
+                        "video",
+                        0.9478033392414643
+                    ],
+                    [
+                        "able",
+                        0.9511688139686217
+                    ],
+                    [
+                        "basis",
+                        0.9511688139686217
+                    ],
+                    [
+                        "strong acid",
+                        1.5661301073933342
+                    ],
+                    [
+                        "strong base",
+                        1.9242932984220054
+                    ],
+                    [
+                        "universal indicator",
+                        2.8336202031782687
+                    ],
+                    [
+                        "color key",
+                        3.5958894261449212
+                    ],
+                    [
+                        "concentrated sodium",
+                        5.086865233788974
+                    ],
+                    [
+                        "hydrochloric acid",
+                        5.539760852450135
+                    ],
+                    [
+                        "concentrated hydrochloric",
+                        5.734547277140701
+                    ],
+                    [
+                        "solution able",
+                        5.880758659860211
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "solution",
+                        0.2198293173329021
+                    ],
+                    [
+                        "ph",
+                        0.2672228606124233
+                    ],
+                    [
+                        "acid",
+                        0.2847744279025107
+                    ],
+                    [
+                        "base",
+                        0.3087473813808421
+                    ],
+                    [
+                        "strong",
+                        0.309488505248967
+                    ],
+                    [
+                        "change",
+                        0.35346191996674264
+                    ],
+                    [
+                        "video",
+                        0.9478033392414643
+                    ],
+                    [
+                        "strong acid",
+                        1.5661301073933342
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-90": {
+            "id": "XR_0k8JIawY-90",
+            "heat": 0.372,
+            "start": 90.0,
+            "text": " This video is part of the Structure-Function-Properties video series. The structure, function, and properties of a system are related and depend on the processes that define or create the system. Hi, my name is George Zaidan and I am [attribution] Before watching this video, you should know what an acid is, what a base is, be familiar with the concept of chemical equilibria, understand what distinguishes strong acids or bases from weak ones, and be able to define pH, Ka and pKa. After watching this video, you will be able to: Describe how the structure, or composition, of a buffer functions to resist changes in pH Explain how the choices made in buffer design impact the properties of a buffer. In chemistry, solutions that resist changes to their pH when acids or bases are added are called \"buffers.\" Solution B in our demo was a buffer solution. Let's develop a molecular-level model of solution B to try and figure out how buffers work. First, let's review our experimental data and list the observations our model must satisfy: The starting pH was around 6 When we added one drop of strong base (enough to change the pH of our control solution), the pH of our buffer solution did not change",
+            "metrics": {
+                "relativeDCReadability": 1.1312612622742761,
+                "lexicalDiversity": 0.5492957746478874,
+                "posComposition": {
+                    "DT": 0.103,
+                    "NN": 0.216,
+                    "VBZ": 0.023,
+                    "IN": 0.085,
+                    "NNP": 0.047,
+                    "CC": 0.052,
+                    "NNS": 0.085,
+                    "VBP": 0.052,
+                    "VBN": 0.019,
+                    "WDT": 0.009,
+                    "PRP$": 0.033,
+                    "PRP": 0.019,
+                    "VBG": 0.009,
+                    "MD": 0.014,
+                    "VB": 0.066,
+                    "WP": 0.014,
+                    "JJ": 0.042,
+                    "TO": 0.028,
+                    "WRB": 0.023,
+                    "``": 0.005,
+                    "''": 0.005,
+                    "VBD": 0.019,
+                    "POS": 0.009,
+                    "RP": 0.005,
+                    "RB": 0.009,
+                    "CD": 0.009
+                },
+                "syllableRate": 2.9,
+                "topicScores": [
+                    [
+                        "buffer",
+                        0.2752378331687158
+                    ],
+                    [
+                        "video",
+                        0.30336654186000656
+                    ],
+                    [
+                        "solution",
+                        0.32599103266921636
+                    ],
+                    [
+                        "ph",
+                        0.32750277520633925
+                    ],
+                    [
+                        "change",
+                        0.360000837907846
+                    ],
+                    [
+                        "Function",
+                        0.39046398689277945
+                    ],
+                    [
+                        "Properties video",
+                        0.400021136610831
+                    ],
+                    [
+                        "Structure",
+                        0.4056317112257125
+                    ],
+                    [
+                        "acid",
+                        0.41022723389834415
+                    ],
+                    [
+                        "George Zaidan",
+                        0.48107213792446984
+                    ],
+                    [
+                        "property",
+                        0.4935888805593553
+                    ],
+                    [
+                        "able",
+                        0.499043795864773
+                    ],
+                    [
+                        "system",
+                        0.5083136792318041
+                    ],
+                    [
+                        "basis",
+                        0.5143436425144949
+                    ],
+                    [
+                        "base",
+                        0.532016617813326
+                    ],
+                    [
+                        "strong",
+                        0.5383844105286013
+                    ],
+                    [
+                        "model",
+                        0.5459251914280986
+                    ],
+                    [
+                        "Ka",
+                        0.5552124825416136
+                    ],
+                    [
+                        "Explain",
+                        0.5990351702054727
+                    ],
+                    [
+                        "Properties video series",
+                        0.6047580007792608
+                    ],
+                    [
+                        "B",
+                        0.6194713145250803
+                    ],
+                    [
+                        "pka",
+                        0.814895484336643
+                    ],
+                    [
+                        "attribution",
+                        0.8306546061836314
+                    ],
+                    [
+                        "process",
+                        0.8313787625433721
+                    ],
+                    [
+                        "familiar",
+                        0.8445999444287724
+                    ],
+                    [
+                        "chemical",
+                        0.8445999444287724
+                    ],
+                    [
+                        "equilibria",
+                        0.8445999444287724
+                    ],
+                    [
+                        "weak",
+                        0.8445999444287724
+                    ],
+                    [
+                        "composition",
+                        0.8468594914589341
+                    ],
+                    [
+                        "concept",
+                        0.8569812880368485
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "buffer",
+                        0.2752378331687158
+                    ],
+                    [
+                        "video",
+                        0.30336654186000656
+                    ],
+                    [
+                        "solution",
+                        0.32599103266921636
+                    ],
+                    [
+                        "ph",
+                        0.32750277520633925
+                    ],
+                    [
+                        "change",
+                        0.360000837907846
+                    ],
+                    [
+                        "acid",
+                        0.41022723389834415
+                    ],
+                    [
+                        "system",
+                        0.5083136792318041
+                    ],
+                    [
+                        "base",
+                        0.532016617813326
+                    ],
+                    [
+                        "strong",
+                        0.5383844105286013
+                    ],
+                    [
+                        "model",
+                        0.5459251914280986
+                    ],
+                    [
+                        "weak",
+                        0.8445999444287724
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-180": {
+            "id": "XR_0k8JIawY-180",
+            "heat": 0.374,
+            "start": 180.0,
+            "text": " When we added one drop of strong acid (enough to change the pH of our control solution), the pH of our buffer solution did not change Eventually, after addition of much more strong acid or strong base, the pH of our buffer solution did change Based on observations 1, 2, and 4, you might think that our buffer solution is simply an acid in solution. But it's not. Relying on observation 3, explain why a solution comprised solely of an acid in water could not effectively resist changes to its pH when more acid is added. Pause the video. Your initial reaction to this question is probably that the pH of such a solution would always decrease when more acid is added, and therefore observation 3 could not be satisfied. This is correct, except for two cases: first, the added acid could be exactly the same strength and concentration as the acid already present. In that case, the pH wouldn't change at all, and we might think we were dealing with a buffer solution. Second, the added acid could be much weaker or much less concentrated than the acid already present. Think about it like this: a 1 liter of a 1 molar solution of hydrochloric acid can hold its pH if a few milliliters of 0.1 molar acid or base is added. In that",
+            "metrics": {
+                "relativeDCReadability": 1.062380528934851,
+                "lexicalDiversity": 0.5506607929515418,
+                "posComposition": {
+                    "WRB": 0.018,
+                    "PRP": 0.026,
+                    "VBD": 0.018,
+                    "CD": 0.044,
+                    "NN": 0.207,
+                    "IN": 0.128,
+                    "JJ": 0.084,
+                    "NNS": 0.022,
+                    "RB": 0.084,
+                    "TO": 0.013,
+                    "VB": 0.044,
+                    "DT": 0.11,
+                    "PRP$": 0.026,
+                    "JJR": 0.022,
+                    "CC": 0.035,
+                    "VBN": 0.026,
+                    "MD": 0.04,
+                    "VBZ": 0.031,
+                    "VBG": 0.009,
+                    "NNP": 0.009,
+                    "VBP": 0.004
+                },
+                "syllableRate": 2.942,
+                "topicScores": [
+                    [
+                        "acid",
+                        0.24171594045697026
+                    ],
+                    [
+                        "solution",
+                        0.26421874735250533
+                    ],
+                    [
+                        "ph",
+                        0.28229348918203934
+                    ],
+                    [
+                        "change",
+                        0.34317507375976797
+                    ],
+                    [
+                        "buffer",
+                        0.34770003265956784
+                    ],
+                    [
+                        "base",
+                        0.3850549239842118
+                    ],
+                    [
+                        "strong",
+                        0.40302000655411563
+                    ],
+                    [
+                        "observation",
+                        0.4204230382579506
+                    ],
+                    [
+                        "present",
+                        0.5093724747987504
+                    ],
+                    [
+                        "case",
+                        0.5642438747126896
+                    ],
+                    [
+                        "molar",
+                        0.586495332206487
+                    ],
+                    [
+                        "control",
+                        0.8089521180143099
+                    ],
+                    [
+                        "addition",
+                        0.80895211801431
+                    ],
+                    [
+                        "drop",
+                        0.8251086403168111
+                    ],
+                    [
+                        "video",
+                        0.8734001550980581
+                    ],
+                    [
+                        "satisfied",
+                        0.8823312343120938
+                    ],
+                    [
+                        "water",
+                        0.8961497716293335
+                    ],
+                    [
+                        "initial",
+                        0.9046729597304394
+                    ],
+                    [
+                        "correct",
+                        0.9099130706792455
+                    ],
+                    [
+                        "reaction",
+                        0.9135991536990027
+                    ],
+                    [
+                        "question",
+                        0.9135991536990027
+                    ],
+                    [
+                        "strength",
+                        0.9183928549223839
+                    ],
+                    [
+                        "concentration",
+                        0.9183928549223839
+                    ],
+                    [
+                        "weak",
+                        0.9248007132327792
+                    ],
+                    [
+                        "concentrated",
+                        0.9248007132327792
+                    ],
+                    [
+                        "liter",
+                        0.9270790019317107
+                    ],
+                    [
+                        "hydrochloric",
+                        0.9270790019317107
+                    ],
+                    [
+                        "milliliter",
+                        0.9270790019317107
+                    ],
+                    [
+                        "buffer solution",
+                        1.0473314247636119
+                    ],
+                    [
+                        "strong acid",
+                        1.630197618131694
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "acid",
+                        0.24171594045697026
+                    ],
+                    [
+                        "solution",
+                        0.26421874735250533
+                    ],
+                    [
+                        "ph",
+                        0.28229348918203934
+                    ],
+                    [
+                        "change",
+                        0.34317507375976797
+                    ],
+                    [
+                        "buffer",
+                        0.34770003265956784
+                    ],
+                    [
+                        "base",
+                        0.3850549239842118
+                    ],
+                    [
+                        "strong",
+                        0.40302000655411563
+                    ],
+                    [
+                        "observation",
+                        0.4204230382579506
+                    ],
+                    [
+                        "video",
+                        0.8734001550980581
+                    ],
+                    [
+                        "water",
+                        0.8961497716293335
+                    ],
+                    [
+                        "weak",
+                        0.9248007132327792
+                    ],
+                    [
+                        "buffer solution",
+                        1.0473314247636119
+                    ],
+                    [
+                        "strong acid",
+                        1.630197618131694
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-270": {
+            "id": "XR_0k8JIawY-270",
+            "heat": 0.232,
+            "start": 270.0,
+            "text": " case, the pH might only change a little, and we might also think we were dealing with a buffered solution. But in both of these cases, even though it seems as though the solution is buffered, that \"buffer-like\" response depends on the relative strengths and concentrations of each acid, not on any intrinsic property of the solution. So if our buffer isn't just an acid, what is it? Let's review the observations. Observations 2 and 3, taken together, suggest that there are both acidic and basic species present in our solution, since additional acid or base must be neutralized to keep pH relatively stable. Given observation 1, we can also hypothesize that there would be more acid than base, since the pH of the solution is slightly acidic. To better understand what might be happening at the molecular level, let's use Legos to model a solution that meets these criteria, and see if that model correctly predicts all 4 observations. We'll start with pure water. We could model water molecules using Legos but that would quickly get overwhelming, so we'll use this blue posterboard instead. Now let's add, say 60 molecules of acid and 40 molecules of base. In real solutions, there are on the order of 1022 or more molecules dissolved. That would be a lot of Legos, so we're choosing smaller numbers for convenience. Now, should the acid and base be strong or weak? Let's start simple and make them both",
+            "metrics": {
+                "relativeDCReadability": 0.9531973864116099,
+                "lexicalDiversity": 0.5652173913043478,
+                "posComposition": {
+                    "NN": 0.138,
+                    "DT": 0.107,
+                    "MD": 0.047,
+                    "RB": 0.063,
+                    "VB": 0.075,
+                    "JJ": 0.067,
+                    "CC": 0.051,
+                    "PRP": 0.04,
+                    "VBD": 0.008,
+                    "VBG": 0.02,
+                    "IN": 0.123,
+                    "NNS": 0.051,
+                    "VBZ": 0.032,
+                    "VBN": 0.012,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "PRP$": 0.008,
+                    "WP": 0.008,
+                    "NNP": 0.028,
+                    "POS": 0.016,
+                    "CD": 0.028,
+                    "VBP": 0.028,
+                    "EX": 0.012,
+                    "TO": 0.012,
+                    "JJR": 0.012,
+                    "RBR": 0.004,
+                    "WDT": 0.004
+                },
+                "syllableRate": 3.217,
+                "topicScores": [
+                    [
+                        "solution",
+                        0.27119369550201267
+                    ],
+                    [
+                        "acid",
+                        0.30301556767191323
+                    ],
+                    [
+                        "Legos",
+                        0.31395421853257827
+                    ],
+                    [
+                        "buffer",
+                        0.34200768148049476
+                    ],
+                    [
+                        "observation",
+                        0.3520416083793086
+                    ],
+                    [
+                        "base",
+                        0.36104730302462873
+                    ],
+                    [
+                        "molecule",
+                        0.38088105783510856
+                    ],
+                    [
+                        "ph",
+                        0.4183911270792575
+                    ],
+                    [
+                        "model",
+                        0.44482397082960773
+                    ],
+                    [
+                        "case",
+                        0.4693253611258354
+                    ],
+                    [
+                        "acidic",
+                        0.5329485076161485
+                    ],
+                    [
+                        "water",
+                        0.5515805230443801
+                    ],
+                    [
+                        "little",
+                        0.7795858721118073
+                    ],
+                    [
+                        "like",
+                        0.8296499938518964
+                    ],
+                    [
+                        "response",
+                        0.8418492492687045
+                    ],
+                    [
+                        "relative",
+                        0.852855055453413
+                    ],
+                    [
+                        "strength",
+                        0.852855055453413
+                    ],
+                    [
+                        "concentration",
+                        0.852855055453413
+                    ],
+                    [
+                        "intrinsic",
+                        0.852855055453413
+                    ],
+                    [
+                        "property",
+                        0.852855055453413
+                    ],
+                    [
+                        "stable",
+                        0.8685679086627972
+                    ],
+                    [
+                        "additional",
+                        0.8879827089593232
+                    ],
+                    [
+                        "convenience",
+                        0.8953882068532322
+                    ],
+                    [
+                        "basic",
+                        0.8961740080567685
+                    ],
+                    [
+                        "specie",
+                        0.8961740080567685
+                    ],
+                    [
+                        "present",
+                        0.8961740080567685
+                    ],
+                    [
+                        "weak",
+                        0.8971655818648742
+                    ],
+                    [
+                        "molecular",
+                        0.8985800724911084
+                    ],
+                    [
+                        "level",
+                        0.8985800724911084
+                    ],
+                    [
+                        "criterion",
+                        0.8985800724911084
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "solution",
+                        0.27119369550201267
+                    ],
+                    [
+                        "acid",
+                        0.30301556767191323
+                    ],
+                    [
+                        "buffer",
+                        0.34200768148049476
+                    ],
+                    [
+                        "observation",
+                        0.3520416083793086
+                    ],
+                    [
+                        "base",
+                        0.36104730302462873
+                    ],
+                    [
+                        "molecule",
+                        0.38088105783510856
+                    ],
+                    [
+                        "ph",
+                        0.4183911270792575
+                    ],
+                    [
+                        "model",
+                        0.44482397082960773
+                    ],
+                    [
+                        "water",
+                        0.5515805230443801
+                    ],
+                    [
+                        "weak",
+                        0.8971655818648742
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-360": {
+            "id": "XR_0k8JIawY-360",
+            "heat": 0.182,
+            "start": 360.0,
+            "text": " strong. So our acid could be HCl and our base NaOH. Here's 60 HCl molecules. This piece represents the H+ ion; and this piece represents the Cl- ion. And here's 40 NaOH molecules. This piece represents the Na+ ion and this piece the OH- ion. Remember that strong acids and bases dissociate completely in water, so I'm going to take apart all the pieces here. And this is our initial model! It contains both acidic and basic species, and it contains more acid than base. But this solution will not resist changes in pH. Pause the video and explain. The OH- ions would just react with the H+ ions to form neutral water. Since there is an excess of H+ ions, we would be left with a hydrochloric acid solution after the reaction. And we've already shown that a solution of a strong acid is not a buffer. So let's go back to our criteria. Remember that to satisfy these criteria we had the option of selecting either weak or strong acids or bases, and last time we selected the strong/strong case. So this time let's choose a mixture of weak and strong; say, a weak acid and strong base. As before, we'll start with the acid. Here are 100 molecules of a generic weak acid,",
+            "metrics": {
+                "relativeDCReadability": 0.9470991429458618,
+                "lexicalDiversity": 0.5515695067264574,
+                "posComposition": {
+                    "JJ": 0.094,
+                    "RB": 0.054,
+                    "PRP$": 0.018,
+                    "NN": 0.152,
+                    "MD": 0.022,
+                    "VB": 0.049,
+                    "NNP": 0.058,
+                    "CC": 0.076,
+                    "VBZ": 0.049,
+                    "CD": 0.013,
+                    "NNS": 0.067,
+                    "DT": 0.13,
+                    "IN": 0.09,
+                    "VBP": 0.022,
+                    "PRP": 0.036,
+                    "VBG": 0.009,
+                    "TO": 0.018,
+                    "PDT": 0.004,
+                    "RBR": 0.004,
+                    "EX": 0.004,
+                    "VBN": 0.009,
+                    "POS": 0.009,
+                    "VBD": 0.009
+                },
+                "syllableRate": 2.692,
+                "topicScores": [
+                    [
+                        "acid",
+                        0.2714652442039339
+                    ],
+                    [
+                        "strong",
+                        0.28404319498838815
+                    ],
+                    [
+                        "ion",
+                        0.28490340447293866
+                    ],
+                    [
+                        "h+",
+                        0.3057311676264121
+                    ],
+                    [
+                        "piece",
+                        0.3129831882100023
+                    ],
+                    [
+                        "weak",
+                        0.3833062040653713
+                    ],
+                    [
+                        "oh-",
+                        0.38547183943075924
+                    ],
+                    [
+                        "base",
+                        0.435791384023811
+                    ],
+                    [
+                        "molecule",
+                        0.44447590323836694
+                    ],
+                    [
+                        "solution",
+                        0.4583535230741228
+                    ],
+                    [
+                        "HCl",
+                        0.5429357278160373
+                    ],
+                    [
+                        "NaOH",
+                        0.5473253774928326
+                    ],
+                    [
+                        "h+ ion",
+                        0.547390443916736
+                    ],
+                    [
+                        "water",
+                        0.5639078276397584
+                    ],
+                    [
+                        "basis",
+                        0.5688691732995701
+                    ],
+                    [
+                        "criterion",
+                        0.5741296352607624
+                    ],
+                    [
+                        "time",
+                        0.5819510748497531
+                    ],
+                    [
+                        "Cl-",
+                        0.6188936662078515
+                    ],
+                    [
+                        "pause",
+                        0.6848615856595388
+                    ],
+                    [
+                        "oh- ion",
+                        0.6895384536865357
+                    ],
+                    [
+                        "model",
+                        0.9042902149032864
+                    ],
+                    [
+                        "case",
+                        0.907029882949075
+                    ],
+                    [
+                        "reaction",
+                        0.9120821302877586
+                    ],
+                    [
+                        "buffer",
+                        0.913446533463585
+                    ],
+                    [
+                        "initial",
+                        0.9202682053182244
+                    ],
+                    [
+                        "specie",
+                        0.9223212171629519
+                    ],
+                    [
+                        "neutral",
+                        0.9255578708891607
+                    ],
+                    [
+                        "acidic",
+                        0.928730585849252
+                    ],
+                    [
+                        "change",
+                        0.9303371386842212
+                    ],
+                    [
+                        "ph.",
+                        0.9303371386842212
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "acid",
+                        0.2714652442039339
+                    ],
+                    [
+                        "strong",
+                        0.28404319498838815
+                    ],
+                    [
+                        "h+",
+                        0.3057311676264121
+                    ],
+                    [
+                        "weak",
+                        0.3833062040653713
+                    ],
+                    [
+                        "oh-",
+                        0.38547183943075924
+                    ],
+                    [
+                        "base",
+                        0.435791384023811
+                    ],
+                    [
+                        "molecule",
+                        0.44447590323836694
+                    ],
+                    [
+                        "solution",
+                        0.4583535230741228
+                    ],
+                    [
+                        "h+ ion",
+                        0.547390443916736
+                    ],
+                    [
+                        "water",
+                        0.5639078276397584
+                    ],
+                    [
+                        "pause",
+                        0.6848615856595388
+                    ],
+                    [
+                        "oh- ion",
+                        0.6895384536865357
+                    ],
+                    [
+                        "model",
+                        0.9042902149032864
+                    ],
+                    [
+                        "buffer",
+                        0.913446533463585
+                    ],
+                    [
+                        "change",
+                        0.9303371386842212
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-450": {
+            "id": "XR_0k8JIawY-450",
+            "heat": 0.146,
+            "start": 450.0,
+            "text": " HA. Remember, weak acids don't dissociate completely when dissolved in water. The extent to which a weak acid or base dissociates is related to the equilibrium constant, Ka for an acid or Kb for a base. These equilibrium constants depend on the chemical structure of the acid or base. Pause the video here and write the equilibrium expression for a weak acid. The equilibrium expression would be this. We always use concentrations in our equilibrium expression, even though in our model we're using number of molecules; but the principle is the same. When we dissolve 100 molecules of weak acid in water, some of them will dissociate, forming H+ and A- ions. Some of those H+ and A- ions will react with each other to reform HA. But at any given point after the system has reached equilibrium, there will be a fixed number of HA, H+, and A- ions. Let's say that at equilibrium, there will be 96 HA molecules, 4 H+ ions and 4 A- ions. The molecule formed when HA is deprotonated, A-, is called the conjugate base. So now we have a model of our weak acid. We still have to add our strong base. Let's add 40 molecules of sodium hydroxide. First, the",
+            "metrics": {
+                "relativeDCReadability": 0.984748083326531,
+                "lexicalDiversity": 0.5424528301886793,
+                "posComposition": {
+                    "NNP": 0.094,
+                    "JJ": 0.057,
+                    "NNS": 0.061,
+                    "VBP": 0.033,
+                    "RB": 0.038,
+                    "VB": 0.052,
+                    "WRB": 0.014,
+                    "VBN": 0.028,
+                    "IN": 0.104,
+                    "NN": 0.179,
+                    "DT": 0.123,
+                    "TO": 0.019,
+                    "WDT": 0.005,
+                    "CC": 0.047,
+                    "VBZ": 0.024,
+                    "MD": 0.024,
+                    "PRP": 0.028,
+                    "PRP$": 0.019,
+                    "VBG": 0.005,
+                    "CD": 0.024,
+                    "EX": 0.009,
+                    "POS": 0.009,
+                    "VBD": 0.005
+                },
+                "syllableRate": 2.742,
+                "topicScores": [
+                    [
+                        "h+",
+                        0.2608602842437218
+                    ],
+                    [
+                        "acid",
+                        0.2821843874028207
+                    ],
+                    [
+                        "equilibrium",
+                        0.29021656499050535
+                    ],
+                    [
+                        "ha",
+                        0.2984316887144785
+                    ],
+                    [
+                        "A-",
+                        0.30399386857639854
+                    ],
+                    [
+                        "weak",
+                        0.32965150466612764
+                    ],
+                    [
+                        "ion",
+                        0.335614669546544
+                    ],
+                    [
+                        "base",
+                        0.3384496517624845
+                    ],
+                    [
+                        "molecule",
+                        0.3530771267624821
+                    ],
+                    [
+                        "expression",
+                        0.43631071972684654
+                    ],
+                    [
+                        "dissociate",
+                        0.4460616877037657
+                    ],
+                    [
+                        "water",
+                        0.5463927082906281
+                    ],
+                    [
+                        "constant",
+                        0.5487898680753102
+                    ],
+                    [
+                        "number",
+                        0.5726400070344964
+                    ],
+                    [
+                        "Ka",
+                        0.5756746623802169
+                    ],
+                    [
+                        "model",
+                        0.5805030236498058
+                    ],
+                    [
+                        "Kb",
+                        0.5894309035195364
+                    ],
+                    [
+                        "a- ion",
+                        0.6993344465740369
+                    ],
+                    [
+                        "extent",
+                        0.8928790531357804
+                    ],
+                    [
+                        "chemical",
+                        0.9119739122956501
+                    ],
+                    [
+                        "structure",
+                        0.9119739122956501
+                    ],
+                    [
+                        "video",
+                        0.9184378968481244
+                    ],
+                    [
+                        "concentration",
+                        0.9263928863555331
+                    ],
+                    [
+                        "principle",
+                        0.9263928863555331
+                    ],
+                    [
+                        "conjugate",
+                        0.9297186042974297
+                    ],
+                    [
+                        "strong",
+                        0.9320509704847941
+                    ],
+                    [
+                        "point",
+                        0.9330112112452693
+                    ],
+                    [
+                        "system",
+                        0.9330112112452693
+                    ],
+                    [
+                        "fixed",
+                        0.9330112112452693
+                    ],
+                    [
+                        "sodium",
+                        0.9330249624689455
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "h+",
+                        0.2608602842437218
+                    ],
+                    [
+                        "acid",
+                        0.2821843874028207
+                    ],
+                    [
+                        "equilibrium",
+                        0.29021656499050535
+                    ],
+                    [
+                        "ha",
+                        0.2984316887144785
+                    ],
+                    [
+                        "weak",
+                        0.32965150466612764
+                    ],
+                    [
+                        "base",
+                        0.3384496517624845
+                    ],
+                    [
+                        "molecule",
+                        0.3530771267624821
+                    ],
+                    [
+                        "dissociate",
+                        0.4460616877037657
+                    ],
+                    [
+                        "water",
+                        0.5463927082906281
+                    ],
+                    [
+                        "model",
+                        0.5805030236498058
+                    ],
+                    [
+                        "video",
+                        0.9184378968481244
+                    ],
+                    [
+                        "conjugate",
+                        0.9297186042974297
+                    ],
+                    [
+                        "strong",
+                        0.9320509704847941
+                    ],
+                    [
+                        "system",
+                        0.9330112112452693
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-540": {
+            "id": "XR_0k8JIawY-540",
+            "heat": 0.131,
+            "start": 540.0,
+            "text": " NaOH would completely dissociate in water. Now what? 4 OH- ions react with H+ to form water. But things don't end there. The remaining 36 OH- ions react with 36 molecules of HA via a typical weak acid-strong base reaction, forming 36 molecules of A-, the conjugate base. And we're still not through. Remember that the dissociation of our weak acid HA was at equilibrium, and we've disturbed the equilibrium by adding NaOH. To reestablish equilibrium, our weak acid HA must re-dissociate. But it will do so to a lesser extent than if it was in pure water, since there are already a substantial number of molecules of conjugate base present in solution. Instead of 4 molecules dissociating, perhaps 1 will dissociate; the exact number could be calculated from the equilibrium constant of the acid. So now in solution we have 59 HA molecules, 1 H+ ion, and 41 A- ions. This model satisfies the criteria from before, but does it explain our four observations from the initial experiment? Pause the video and discuss with a friend. First, is it acidic? Yes, because it has that",
+            "metrics": {
+                "relativeDCReadability": 1.0489956141306178,
+                "lexicalDiversity": 0.5661375661375662,
+                "posComposition": {
+                    "NNP": 0.069,
+                    "MD": 0.026,
+                    "RB": 0.063,
+                    "VB": 0.053,
+                    "IN": 0.148,
+                    "NN": 0.143,
+                    "WP": 0.005,
+                    "CD": 0.053,
+                    "JJ": 0.074,
+                    "NNS": 0.063,
+                    "VBP": 0.037,
+                    "TO": 0.016,
+                    "CC": 0.037,
+                    "DT": 0.079,
+                    "VBG": 0.021,
+                    "PRP": 0.042,
+                    "PRP$": 0.016,
+                    "VBD": 0.011,
+                    "VBN": 0.011,
+                    "JJR": 0.005,
+                    "EX": 0.005,
+                    "VBZ": 0.021
+                },
+                "syllableRate": 2.592,
+                "topicScores": [
+                    [
+                        "ha",
+                        0.2966961033853581
+                    ],
+                    [
+                        "molecule",
+                        0.3512119037593109
+                    ],
+                    [
+                        "oh-",
+                        0.3728522055214998
+                    ],
+                    [
+                        "acid",
+                        0.3777521007965349
+                    ],
+                    [
+                        "ion",
+                        0.3840789005505831
+                    ],
+                    [
+                        "equilibrium",
+                        0.39627363916297337
+                    ],
+                    [
+                        "h+",
+                        0.41943399456613273
+                    ],
+                    [
+                        "weak",
+                        0.4275188631982951
+                    ],
+                    [
+                        "water",
+                        0.42922628491523684
+                    ],
+                    [
+                        "base",
+                        0.4446761375446771
+                    ],
+                    [
+                        "NaOH",
+                        0.544384293995022
+                    ],
+                    [
+                        "conjugate",
+                        0.560132155714753
+                    ],
+                    [
+                        "solution",
+                        0.5672452422549824
+                    ],
+                    [
+                        "number",
+                        0.5832181434959489
+                    ],
+                    [
+                        "A-",
+                        0.6390659031518289
+                    ],
+                    [
+                        "oh- ion",
+                        0.7030087571886228
+                    ],
+                    [
+                        "thing",
+                        0.8992059043954829
+                    ],
+                    [
+                        "experiment",
+                        0.9057955748326673
+                    ],
+                    [
+                        "strong",
+                        0.9065113625724356
+                    ],
+                    [
+                        "reaction",
+                        0.9065113625724356
+                    ],
+                    [
+                        "friend",
+                        0.9074144106145429
+                    ],
+                    [
+                        "acidic",
+                        0.9088440127206735
+                    ],
+                    [
+                        "typical",
+                        0.9162929484365043
+                    ],
+                    [
+                        "pure",
+                        0.9210013957562683
+                    ],
+                    [
+                        "exact",
+                        0.9230371075602317
+                    ],
+                    [
+                        "dissociation",
+                        0.9244399298323421
+                    ],
+                    [
+                        "model",
+                        0.9262463174655263
+                    ],
+                    [
+                        "initial",
+                        0.9262463174655263
+                    ],
+                    [
+                        "less",
+                        0.9293850078951936
+                    ],
+                    [
+                        "extent",
+                        0.9293850078951936
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "ha",
+                        0.2966961033853581
+                    ],
+                    [
+                        "molecule",
+                        0.3512119037593109
+                    ],
+                    [
+                        "oh-",
+                        0.3728522055214998
+                    ],
+                    [
+                        "acid",
+                        0.3777521007965349
+                    ],
+                    [
+                        "equilibrium",
+                        0.39627363916297337
+                    ],
+                    [
+                        "h+",
+                        0.41943399456613273
+                    ],
+                    [
+                        "weak",
+                        0.4275188631982951
+                    ],
+                    [
+                        "water",
+                        0.42922628491523684
+                    ],
+                    [
+                        "base",
+                        0.4446761375446771
+                    ],
+                    [
+                        "conjugate",
+                        0.560132155714753
+                    ],
+                    [
+                        "solution",
+                        0.5672452422549824
+                    ],
+                    [
+                        "oh- ion",
+                        0.7030087571886228
+                    ],
+                    [
+                        "strong",
+                        0.9065113625724356
+                    ],
+                    [
+                        "model",
+                        0.9262463174655263
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-630": {
+            "id": "XR_0k8JIawY-630",
+            "heat": 0.139,
+            "start": 630.0,
+            "text": " one free H+ in solution. Second, how is it affected by addition of acid? Let's add HCl. The H+ ions react with the A- conjugate base, forming HA. The pH doesn't change, since all the added H+ ions are tied up here. So far, so good. Third, how is it affected by addition of base? Let's add NaOH. The OH- ions react with HA, forming water and A-. The overall H+ concentration doesn't change, so the pH stays the same. Note that in both of these cases, equilibrium would be re-established after addition of acid or base by a slight adjustment in the dissociation or reformation of HA. So the number of H+ ions does change upon addition of acid or base, but it doesn't change very much, certainly much less than if this was pure water. Finally, can we exceed the buffering capacity by adding enough acid or base? Definitely: if we add more than 59 molecules of strong base or more than 41 molecules of strong acid, we will use up all the HA or A-, and then our solution will no longer be a buffer. And there we have it! We've constructed a plausible model of our buffer solution: a solution of a weak acid and its conjugate",
+            "metrics": {
+                "relativeDCReadability": 0.9471879551396306,
+                "lexicalDiversity": 0.5299539170506913,
+                "posComposition": {
+                    "CD": 0.014,
+                    "JJ": 0.078,
+                    "NNP": 0.097,
+                    "IN": 0.134,
+                    "NN": 0.171,
+                    "WRB": 0.009,
+                    "VBZ": 0.032,
+                    "PRP": 0.041,
+                    "POS": 0.009,
+                    "VB": 0.046,
+                    "DT": 0.092,
+                    "NNS": 0.032,
+                    "VBP": 0.023,
+                    "VBG": 0.014,
+                    "RB": 0.074,
+                    "PDT": 0.009,
+                    "VBN": 0.009,
+                    "RP": 0.009,
+                    "CC": 0.051,
+                    "MD": 0.018,
+                    "JJR": 0.014,
+                    "VBD": 0.005,
+                    "PRP$": 0.014,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.642,
+                "topicScores": [
+                    [
+                        "h+",
+                        0.244656541840001
+                    ],
+                    [
+                        "ha",
+                        0.28501719630529015
+                    ],
+                    [
+                        "acid",
+                        0.30861542616214693
+                    ],
+                    [
+                        "base",
+                        0.3159320547972809
+                    ],
+                    [
+                        "addition",
+                        0.3703468626102885
+                    ],
+                    [
+                        "solution",
+                        0.3875246458355791
+                    ],
+                    [
+                        "a-",
+                        0.4212160653035791
+                    ],
+                    [
+                        "ph",
+                        0.5649087120679646
+                    ],
+                    [
+                        "conjugate",
+                        0.5678296196056081
+                    ],
+                    [
+                        "water",
+                        0.5685461642164722
+                    ],
+                    [
+                        "molecule",
+                        0.5708211044513397
+                    ],
+                    [
+                        "buffer",
+                        0.5731704591957476
+                    ],
+                    [
+                        "strong",
+                        0.5733914212929906
+                    ],
+                    [
+                        "h+ ion",
+                        0.6304875900880579
+                    ],
+                    [
+                        "oh-",
+                        0.6717089025319758
+                    ],
+                    [
+                        "free",
+                        0.8129475539051103
+                    ],
+                    [
+                        "HCl",
+                        0.8626550445989367
+                    ],
+                    [
+                        "good",
+                        0.8780393317546042
+                    ],
+                    [
+                        "NaOH",
+                        0.8995105403133636
+                    ],
+                    [
+                        "overall",
+                        0.9233603006117739
+                    ],
+                    [
+                        "case",
+                        0.9250781444404665
+                    ],
+                    [
+                        "equilibrium",
+                        0.9250781444404665
+                    ],
+                    [
+                        "pure",
+                        0.9265571062489978
+                    ],
+                    [
+                        "concentration",
+                        0.9306707551699697
+                    ],
+                    [
+                        "slight",
+                        0.9322367638371348
+                    ],
+                    [
+                        "adjustment",
+                        0.9322367638371348
+                    ],
+                    [
+                        "dissociation",
+                        0.9322367638371348
+                    ],
+                    [
+                        "reformation",
+                        0.9322367638371348
+                    ],
+                    [
+                        "number",
+                        0.9335845594609046
+                    ],
+                    [
+                        "buffering",
+                        0.9347602556643199
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "h+",
+                        0.244656541840001
+                    ],
+                    [
+                        "ha",
+                        0.28501719630529015
+                    ],
+                    [
+                        "acid",
+                        0.30861542616214693
+                    ],
+                    [
+                        "base",
+                        0.3159320547972809
+                    ],
+                    [
+                        "solution",
+                        0.3875246458355791
+                    ],
+                    [
+                        "a-",
+                        0.4212160653035791
+                    ],
+                    [
+                        "ph",
+                        0.5649087120679646
+                    ],
+                    [
+                        "conjugate",
+                        0.5678296196056081
+                    ],
+                    [
+                        "water",
+                        0.5685461642164722
+                    ],
+                    [
+                        "molecule",
+                        0.5708211044513397
+                    ],
+                    [
+                        "buffer",
+                        0.5731704591957476
+                    ],
+                    [
+                        "strong",
+                        0.5733914212929906
+                    ],
+                    [
+                        "h+ ion",
+                        0.6304875900880579
+                    ],
+                    [
+                        "oh-",
+                        0.6717089025319758
+                    ],
+                    [
+                        "equilibrium",
+                        0.9250781444404665
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-720": {
+            "id": "XR_0k8JIawY-720",
+            "heat": 0.148,
+            "start": 720.0,
+            "text": " base. You can go through an analogous modeling process for a weak base and its conjugate acid. That will form a buffer, too. The key to the buffering capability of any buffer is that there is a substantial amount of both acid and base present at equilibrium. In a buffer made with a weak acid and its conjugate base, the acid acts as a reserve of extra H+ ions that can react with added base, and the conjugate base acts as a sink, a place for the extra H+ ions from the added acid to go. In a buffer made with a weak base and its conjugate acid, the base acts as the H+ ion sink and the conjugate acid acts as the H+ ion reserve. Why would you want to make a buffer solution? Well, let's say you're modeling a reaction that occurs in human blood. Blood is a buffered solution with a pH of about 7.4, so you'd want to make sure that your experimental system is also buffered at this same pH. Or suppose you study Helicobacter pylori, a bacterium which colonizes the human stomach. Your experimental system would need to be buffered at around pH 2. And no matter what your target pH, you'd want your system to have a high buffer capacity: in other words, you want it to be as resistant to pH changes as possible. In designing a buffer solution, you have a lot of choices to make. Pause the video and suggest a few factors you should consider when designing a buffer solution. First, you have to choose your specific acid/conjugate",
+            "metrics": {
+                "relativeDCReadability": 1.0120377268672482,
+                "lexicalDiversity": 0.5201465201465202,
+                "posComposition": {
+                    "NN": 0.223,
+                    "PRP": 0.04,
+                    "MD": 0.029,
+                    "VB": 0.07,
+                    "IN": 0.114,
+                    "DT": 0.136,
+                    "JJ": 0.084,
+                    "CC": 0.029,
+                    "PRP$": 0.029,
+                    "WDT": 0.015,
+                    "RB": 0.015,
+                    "TO": 0.037,
+                    "VBZ": 0.033,
+                    "EX": 0.004,
+                    "NNS": 0.029,
+                    "VBN": 0.015,
+                    "NNP": 0.037,
+                    "WRB": 0.007,
+                    "POS": 0.004,
+                    "VBP": 0.026,
+                    "VBG": 0.011,
+                    "CD": 0.007,
+                    "$": 0.004,
+                    "WP": 0.004
+                },
+                "syllableRate": 3.408,
+                "topicScores": [
+                    [
+                        "buffer",
+                        0.22580404526605813
+                    ],
+                    [
+                        "h+",
+                        0.23304385422781565
+                    ],
+                    [
+                        "base",
+                        0.2521358869204305
+                    ],
+                    [
+                        "conjugate",
+                        0.2620688776511137
+                    ],
+                    [
+                        "acid",
+                        0.2645066183813976
+                    ],
+                    [
+                        "solution",
+                        0.3426465795591764
+                    ],
+                    [
+                        "h+ ion",
+                        0.35799949718281465
+                    ],
+                    [
+                        "ph",
+                        0.3811974402522957
+                    ],
+                    [
+                        "weak",
+                        0.39690306521836566
+                    ],
+                    [
+                        "system",
+                        0.432559941160514
+                    ],
+                    [
+                        "blood",
+                        0.5459147159909791
+                    ],
+                    [
+                        "experimental",
+                        0.5469658481387182
+                    ],
+                    [
+                        "reserve",
+                        0.5478930155631713
+                    ],
+                    [
+                        "extra",
+                        0.5497455141751495
+                    ],
+                    [
+                        "sink",
+                        0.5525086863937942
+                    ],
+                    [
+                        "human",
+                        0.5555633042690373
+                    ],
+                    [
+                        "extra h+",
+                        0.5628466776996794
+                    ],
+                    [
+                        "Helicobacter",
+                        0.6533076710472789
+                    ],
+                    [
+                        "conjugate acid",
+                        0.8050625700964851
+                    ],
+                    [
+                        "equilibrium",
+                        0.8765764674050123
+                    ],
+                    [
+                        "analogous",
+                        0.8810457045666855
+                    ],
+                    [
+                        "modeling",
+                        0.8810457045666855
+                    ],
+                    [
+                        "process",
+                        0.8810457045666855
+                    ],
+                    [
+                        "key",
+                        0.893515606359087
+                    ],
+                    [
+                        "stomach",
+                        0.8977971450655842
+                    ],
+                    [
+                        "place",
+                        0.8993007666352641
+                    ],
+                    [
+                        "conjugate base",
+                        0.9005492509991331
+                    ],
+                    [
+                        "buffering",
+                        0.9007518739225389
+                    ],
+                    [
+                        "capability",
+                        0.9007518739225389
+                    ],
+                    [
+                        "substantial",
+                        0.9007518739225389
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "buffer",
+                        0.22580404526605813
+                    ],
+                    [
+                        "h+",
+                        0.23304385422781565
+                    ],
+                    [
+                        "base",
+                        0.2521358869204305
+                    ],
+                    [
+                        "conjugate",
+                        0.2620688776511137
+                    ],
+                    [
+                        "acid",
+                        0.2645066183813976
+                    ],
+                    [
+                        "solution",
+                        0.3426465795591764
+                    ],
+                    [
+                        "h+ ion",
+                        0.35799949718281465
+                    ],
+                    [
+                        "ph",
+                        0.3811974402522957
+                    ],
+                    [
+                        "weak",
+                        0.39690306521836566
+                    ],
+                    [
+                        "system",
+                        0.432559941160514
+                    ],
+                    [
+                        "extra h+",
+                        0.5628466776996794
+                    ],
+                    [
+                        "equilibrium",
+                        0.8765764674050123
+                    ],
+                    [
+                        "conjugate base",
+                        0.9005492509991331
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-810": {
+            "id": "XR_0k8JIawY-810",
+            "heat": 0.19,
+            "start": 810.0,
+            "text": " base or base/conjugate acid pair. Then, you have to decide how much of the weak acid or base you want to use. Finally, you have to decide how much of the conjugate species you want to have at equilibrium. Each of these decisions affects the pH and buffer capacity of your final buffer solution. Let's look at each in turn. We know that a buffer solution has to have either a weak acid or weak base; but of course \"weak\" encompasses a range of strengths. For example, acetic acid is much stronger than boric acid, even though both of them are considered \"weak\" compared to a strong acid like HCl. The strength of the weak acid used will influence the final pH of the buffer: as you might guess, the stronger the weak acid, the lower the pH of the final buffer. But we also need sufficient conjugate base to make the solution function as a buffer. And so you might also correctly guess that the more of the conjugate base we add, the higher the pH of the final buffer. But again, that's not all. Remember the physical significance of our weak acid and its conjugate base: the acid is a reserve of extra H+ ions that could react with added base, and the conjugate base is a sink, a place for extra H+ ions from added acid to go. Would a system with an acid to conjugate base ratio of say, 20:1 be an effective buffer? Pause the video. Since the acid reserve is 20 times larger",
+            "metrics": {
+                "relativeDCReadability": 0.9937436184173718,
+                "lexicalDiversity": 0.5471698113207547,
+                "posComposition": {
+                    "NN": 0.211,
+                    "CC": 0.042,
+                    "NNS": 0.026,
+                    "VBP": 0.034,
+                    "RB": 0.038,
+                    "PRP": 0.038,
+                    "TO": 0.034,
+                    "VB": 0.045,
+                    "WRB": 0.008,
+                    "JJ": 0.098,
+                    "IN": 0.117,
+                    "DT": 0.151,
+                    "VBZ": 0.034,
+                    "PRP$": 0.011,
+                    "NNP": 0.026,
+                    "POS": 0.004,
+                    "``": 0.008,
+                    "''": 0.008,
+                    "JJR": 0.023,
+                    "VBN": 0.015,
+                    "MD": 0.015,
+                    "WDT": 0.004,
+                    "$": 0.004,
+                    "CD": 0.008
+                },
+                "syllableRate": 3.183,
+                "topicScores": [
+                    [
+                        "acid",
+                        0.22643744147892417
+                    ],
+                    [
+                        "base",
+                        0.2484249495650616
+                    ],
+                    [
+                        "weak",
+                        0.25688222188258203
+                    ],
+                    [
+                        "buffer",
+                        0.2582232988574813
+                    ],
+                    [
+                        "conjugate",
+                        0.2782110162915774
+                    ],
+                    [
+                        "final",
+                        0.35015358001717195
+                    ],
+                    [
+                        "ph",
+                        0.35313400230542813
+                    ],
+                    [
+                        "h+",
+                        0.39903331229729294
+                    ],
+                    [
+                        "solution",
+                        0.42614145972006706
+                    ],
+                    [
+                        "strong",
+                        0.4405475201377654
+                    ],
+                    [
+                        "strength",
+                        0.5464214593697775
+                    ],
+                    [
+                        "extra",
+                        0.5634170607686507
+                    ],
+                    [
+                        "reserve",
+                        0.5678554711553211
+                    ],
+                    [
+                        "extra h+",
+                        0.81874086210523
+                    ],
+                    [
+                        "h+ ion",
+                        0.81874086210523
+                    ],
+                    [
+                        "pair",
+                        0.8313353025770258
+                    ],
+                    [
+                        "equilibrium",
+                        0.8710231778298284
+                    ],
+                    [
+                        "turn",
+                        0.8865204198529953
+                    ],
+                    [
+                        "specie",
+                        0.8936362943024619
+                    ],
+                    [
+                        "HCl",
+                        0.8951451946541739
+                    ],
+                    [
+                        "decision",
+                        0.901301123587345
+                    ],
+                    [
+                        "capacity",
+                        0.901301123587345
+                    ],
+                    [
+                        "example",
+                        0.9020214747171489
+                    ],
+                    [
+                        "course",
+                        0.9048944007593573
+                    ],
+                    [
+                        "acetic",
+                        0.9082644243184087
+                    ],
+                    [
+                        "boric",
+                        0.9082644243184087
+                    ],
+                    [
+                        "video",
+                        0.9091871379376241
+                    ],
+                    [
+                        "large",
+                        0.9103435482042692
+                    ],
+                    [
+                        "range",
+                        0.9107651203367831
+                    ],
+                    [
+                        "low",
+                        0.9109954910252156
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "acid",
+                        0.22643744147892417
+                    ],
+                    [
+                        "base",
+                        0.2484249495650616
+                    ],
+                    [
+                        "weak",
+                        0.25688222188258203
+                    ],
+                    [
+                        "buffer",
+                        0.2582232988574813
+                    ],
+                    [
+                        "conjugate",
+                        0.2782110162915774
+                    ],
+                    [
+                        "ph",
+                        0.35313400230542813
+                    ],
+                    [
+                        "h+",
+                        0.39903331229729294
+                    ],
+                    [
+                        "solution",
+                        0.42614145972006706
+                    ],
+                    [
+                        "strong",
+                        0.4405475201377654
+                    ],
+                    [
+                        "extra h+",
+                        0.81874086210523
+                    ],
+                    [
+                        "h+ ion",
+                        0.81874086210523
+                    ],
+                    [
+                        "equilibrium",
+                        0.8710231778298284
+                    ],
+                    [
+                        "video",
+                        0.9091871379376241
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-900": {
+            "id": "XR_0k8JIawY-900",
+            "heat": 0.287,
+            "start": 900.0,
+            "text": " than the conjugate base sink, this buffer would be very good at resisting pH if base were added, but not very good if acid were added. So, it would be a good buffer in only one direction. Intuitively, you might expect that a buffer with an acid:conjugate base ratio of 1:1 provides the widest range over which the pH is considered buffered, and you'd be right. Many real-life buffers don't necessarily have a 1:1 ratio, because of other design considerations (for example, target pH). And of course, it's not just the ratio between the acid and its conjugate base that influences buffer capacity. Can you imagine a situation in which the acid and conjugate base are present in a 1:1 ratio, but the buffer is still not an effective one? Pause the video. Suppose we have a buffer system in which the concentrations of weak acid and conjugate base are very low, in the micromolar range. Even though the acid to conjugate base ratio is 1:1, their absolute amounts are so small that the system would get overwhelmed by the addition of even dilute acids or bases. So designing a buffer system requires a delicate balance to make sure that the pH is where",
+            "metrics": {
+                "relativeDCReadability": 1.0550945903416602,
+                "lexicalDiversity": 0.5240384615384616,
+                "posComposition": {
+                    "IN": 0.12,
+                    "DT": 0.12,
+                    "JJ": 0.087,
+                    "NN": 0.226,
+                    "MD": 0.024,
+                    "VB": 0.038,
+                    "RB": 0.077,
+                    "VBG": 0.01,
+                    "VBD": 0.01,
+                    "VBN": 0.019,
+                    "CC": 0.038,
+                    "NNS": 0.034,
+                    "PRP": 0.029,
+                    "CD": 0.029,
+                    "NNP": 0.019,
+                    "VBZ": 0.038,
+                    "JJS": 0.005,
+                    "WDT": 0.019,
+                    "VBP": 0.029,
+                    "PRP$": 0.01,
+                    "JJR": 0.005,
+                    "TO": 0.01,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.758,
+                "topicScores": [
+                    [
+                        "buffer",
+                        0.2636387608050813
+                    ],
+                    [
+                        "base",
+                        0.27650679233304204
+                    ],
+                    [
+                        "conjugate",
+                        0.2789099589724427
+                    ],
+                    [
+                        "acid",
+                        0.29118644010832706
+                    ],
+                    [
+                        "ratio",
+                        0.3266533808848895
+                    ],
+                    [
+                        "good",
+                        0.3939736609245105
+                    ],
+                    [
+                        "ph",
+                        0.42969153778399927
+                    ],
+                    [
+                        "system",
+                        0.4414069152188082
+                    ],
+                    [
+                        "range",
+                        0.5388028464137612
+                    ],
+                    [
+                        "design",
+                        0.5539350682827172
+                    ],
+                    [
+                        "conjugate base",
+                        0.6601159018943963
+                    ],
+                    [
+                        "sink",
+                        0.7826092323572325
+                    ],
+                    [
+                        "direction",
+                        0.8126441133451148
+                    ],
+                    [
+                        "right",
+                        0.8405456314873749
+                    ],
+                    [
+                        "capacity",
+                        0.8659402236781162
+                    ],
+                    [
+                        "real",
+                        0.8694966429428787
+                    ],
+                    [
+                        "example",
+                        0.8694966429428787
+                    ],
+                    [
+                        "target",
+                        0.8694966429428787
+                    ],
+                    [
+                        "video",
+                        0.8783371993966839
+                    ],
+                    [
+                        "wide",
+                        0.879460516913739
+                    ],
+                    [
+                        "life",
+                        0.8812844305838607
+                    ],
+                    [
+                        "consideration",
+                        0.8812844305838607
+                    ],
+                    [
+                        "basis",
+                        0.885927185394429
+                    ],
+                    [
+                        "course",
+                        0.8897295306428723
+                    ],
+                    [
+                        "effective",
+                        0.8956963722296687
+                    ],
+                    [
+                        "low",
+                        0.9036995049190018
+                    ],
+                    [
+                        "micromolar",
+                        0.9036995049190018
+                    ],
+                    [
+                        "situation",
+                        0.904898834774804
+                    ],
+                    [
+                        "present",
+                        0.904898834774804
+                    ],
+                    [
+                        "absolute",
+                        0.9065524917409159
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "buffer",
+                        0.2636387608050813
+                    ],
+                    [
+                        "base",
+                        0.27650679233304204
+                    ],
+                    [
+                        "conjugate",
+                        0.2789099589724427
+                    ],
+                    [
+                        "acid",
+                        0.29118644010832706
+                    ],
+                    [
+                        "ratio",
+                        0.3266533808848895
+                    ],
+                    [
+                        "ph",
+                        0.42969153778399927
+                    ],
+                    [
+                        "system",
+                        0.4414069152188082
+                    ],
+                    [
+                        "conjugate base",
+                        0.6601159018943963
+                    ],
+                    [
+                        "video",
+                        0.8783371993966839
+                    ]
+                ]
+            }
+        },
+        "XR_0k8JIawY-990": {
+            "id": "XR_0k8JIawY-990",
+            "heat": 0.291,
+            "start": 990.0,
+            "text": " you want it to be, the ratio between the acid and conjugate base is close to 1:1, and that there is enough of each species to provide adequate buffering capacity. In this video, we created a conceptual model of a buffer. We saw that to effectively resist changes in pH, a buffer must contain a weak acid and its conjugate base or a weak base and its conjugate acid. We also discussed some of the choices that need to be made when designing a buffer and how those choices may impact the properties of the buffer. We hope that by better understanding the function of various buffer components, this video will give you some context for many of the calculations you'll need to carry out when dealing with buffer solutions.",
+            "metrics": {
+                "relativeDCReadability": 1.012082627407373,
+                "lexicalDiversity": 0.48854961832061067,
+                "posComposition": {
+                    "PRP": 0.061,
+                    "VBP": 0.031,
+                    "TO": 0.046,
+                    "VB": 0.069,
+                    "DT": 0.145,
+                    "NN": 0.176,
+                    "IN": 0.115,
+                    "CC": 0.046,
+                    "VBZ": 0.015,
+                    "JJ": 0.061,
+                    "CD": 0.008,
+                    "EX": 0.008,
+                    "NNS": 0.061,
+                    "VBD": 0.023,
+                    "RB": 0.015,
+                    "MD": 0.031,
+                    "PRP$": 0.015,
+                    "WDT": 0.008,
+                    "VBN": 0.008,
+                    "WRB": 0.023,
+                    "VBG": 0.023,
+                    "JJR": 0.008,
+                    "RP": 0.008
+                },
+                "syllableRate": 1.692,
+                "topicScores": [
+                    [
+                        "buffer",
+                        0.31736386726375404
+                    ],
+                    [
+                        "conjugate",
+                        0.41265943859756554
+                    ],
+                    [
+                        "acid",
+                        0.4347145286030005
+                    ],
+                    [
+                        "base",
+                        0.4453157131003172
+                    ],
+                    [
+                        "video",
+                        0.5340043003089097
+                    ],
+                    [
+                        "weak",
+                        0.5502699277943421
+                    ],
+                    [
+                        "choice",
+                        0.5776676712131115
+                    ],
+                    [
+                        "capacity",
+                        0.7057535386103295
+                    ],
+                    [
+                        "ratio",
+                        0.7754754856374342
+                    ],
+                    [
+                        "buffering",
+                        0.7754754856374342
+                    ],
+                    [
+                        "close",
+                        0.8021167387789165
+                    ],
+                    [
+                        "specie",
+                        0.8021167387789165
+                    ],
+                    [
+                        "adequate",
+                        0.8021167387789165
+                    ],
+                    [
+                        "solution",
+                        0.8431549956723907
+                    ],
+                    [
+                        "conceptual",
+                        0.8591653010899166
+                    ],
+                    [
+                        "model",
+                        0.8591653010899166
+                    ],
+                    [
+                        "pH",
+                        0.8633384305382837
+                    ],
+                    [
+                        "change",
+                        0.8811519827418043
+                    ],
+                    [
+                        "component",
+                        0.88559711560942
+                    ],
+                    [
+                        "property",
+                        0.8931463063029006
+                    ],
+                    [
+                        "well",
+                        0.9008425273717015
+                    ],
+                    [
+                        "function",
+                        0.9008425273717015
+                    ],
+                    [
+                        "context",
+                        0.9008425273717015
+                    ],
+                    [
+                        "calculation",
+                        0.9008425273717015
+                    ],
+                    [
+                        "buffering capacity",
+                        1.2089419068601865
+                    ],
+                    [
+                        "adequate buffering",
+                        1.6456556983820418
+                    ],
+                    [
+                        "conjugate base",
+                        1.7504308446693968
+                    ],
+                    [
+                        "conjugate acid",
+                        2.54052752111411
+                    ],
+                    [
+                        "conceptual model",
+                        2.8191993268607094
+                    ],
+                    [
+                        "buffer solution",
+                        3.0194781560351784
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "buffer",
+                        0.31736386726375404
+                    ],
+                    [
+                        "conjugate",
+                        0.41265943859756554
+                    ],
+                    [
+                        "acid",
+                        0.4347145286030005
+                    ],
+                    [
+                        "base",
+                        0.4453157131003172
+                    ],
+                    [
+                        "video",
+                        0.5340043003089097
+                    ],
+                    [
+                        "weak",
+                        0.5502699277943421
+                    ],
+                    [
+                        "ratio",
+                        0.7754754856374342
+                    ],
+                    [
+                        "solution",
+                        0.8431549956723907
+                    ],
+                    [
+                        "model",
+                        0.8591653010899166
+                    ],
+                    [
+                        "change",
+                        0.8811519827418043
+                    ],
+                    [
+                        "conjugate base",
+                        1.7504308446693968
+                    ],
+                    [
+                        "buffer solution",
+                        3.0194781560351784
+                    ]
+                ]
+            }
+        }
+    }
+}

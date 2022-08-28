@@ -1,0 +1,3841 @@
+{
+    "metadata": {
+        "id": "FxQTXyR4mjs",
+        "avgHeat": 0.01,
+        "runtime": 1631.6,
+        "dale-challReadabilityScore": 228.7614280999108,
+        "lexicalDiversity": 0.43142857142857144,
+        "posComposition": {
+            "JJ": 0.051,
+            "NN": 0.172,
+            "CC": 0.051,
+            "TO": 0.042,
+            "PRP$": 0.017,
+            "PRP": 0.058,
+            "VBZ": 0.044,
+            "RB": 0.075,
+            "CD": 0.015,
+            "VBP": 0.054,
+            "VBG": 0.02,
+            "DT": 0.099,
+            "IN": 0.102,
+            "JJR": 0.002,
+            "VB": 0.086,
+            "RP": 0.002,
+            "WRB": 0.009,
+            "MD": 0.022,
+            "NNS": 0.028,
+            "WDT": 0.009,
+            "VBN": 0.02,
+            "POS": 0.008,
+            "VBD": 0.005,
+            "WP": 0.007,
+            "RBR": 0.001,
+            "EX": 0.0,
+            "PDT": 0.001,
+            "RBS": 0.0
+        },
+        "syllableRate": 3.599,
+        "topicScores": [
+            [
+                "click",
+                0.09088241339516913
+            ],
+            [
+                "task",
+                0.09168760473534834
+            ],
+            [
+                "add",
+                0.09867691111164276
+            ],
+            [
+                "list",
+                0.10811040517436875
+            ],
+            [
+                "button",
+                0.11333076177187099
+            ],
+            [
+                "application",
+                0.12131657249940282
+            ],
+            [
+                "list box",
+                0.12157197488542164
+            ],
+            [
+                "okay",
+                0.12705453456217114
+            ],
+            [
+                "event",
+                0.12871131274200298
+            ],
+            [
+                "task list",
+                0.13453819672421954
+            ],
+            [
+                "text",
+                0.13897574912980035
+            ],
+            [
+                "item",
+                0.14808339802204695
+            ],
+            [
+                "component",
+                0.15789087212747135
+            ],
+            [
+                "task list box",
+                0.1633342560001151
+            ],
+            [
+                "change",
+                0.169707925119236
+            ],
+            [
+                "field",
+                0.17901291021261156
+            ],
+            [
+                "input",
+                0.19179160245650673
+            ],
+            [
+                "edit",
+                0.20132570173156517
+            ],
+            [
+                "label",
+                0.204223349343075
+            ],
+            [
+                "function",
+                0.20781694787280514
+            ],
+            [
+                "index",
+                0.2097851798280653
+            ],
+            [
+                "thing",
+                0.21539701820100934
+            ],
+            [
+                "property",
+                0.21598452016856715
+            ],
+            [
+                "video",
+                0.22008055936446055
+            ],
+            [
+                "example",
+                0.2242386760905618
+            ],
+            [
+                "task edit",
+                0.22508831735614493
+            ],
+            [
+                "control",
+                0.22511446073170907
+            ],
+            [
+                "code",
+                0.23106768646974818
+            ],
+            [
+                "order",
+                0.24347420757486693
+            ],
+            [
+                "new",
+                0.24367713197841312
+            ]
+        ],
+        "topicsList": [
+            "click",
+            "task",
+            "add",
+            "list",
+            "button",
+            "application",
+            "list box",
+            "okay",
+            "event",
+            "task list",
+            "text",
+            "item",
+            "component",
+            "task list box",
+            "change",
+            "field",
+            "input",
+            "edit",
+            "label",
+            "function",
+            "index",
+            "thing",
+            "property",
+            "video",
+            "example",
+            "task edit",
+            "control",
+            "code",
+            "order",
+            "new"
+        ]
+    },
+    "chunks": {
+        "FxQTXyR4mjs-0": {
+            "id": "FxQTXyR4mjs-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " [Music] hi everyone and welcome to my channel it is currently half past 3 am and i am filming a youtube video so it better be worth it and you better give this video a thumbs up so in this video i want to show you how you can build a c plus application with user interface in just a couple of minutes and it is going to be very easy you will see so here i am going to insert the final result and the application that we are going to build in this video this is the application that we are going to build it is a to-do list app and it has a couple of components so it has a label which says add task and then an input field where we are going to type the text of our task and then a button which says add and it is used in order to add the task that we type here into this list box here and here we will see the list of all of our tasks so let's demonstrate how the app is going to work let's type task 1 and let's add that task and as you can see it has been added into this list here let's add another task let's say task 2 and then task 3 task 4 and so on so that is the first functionality and then the second functionality that i have",
+            "metrics": {
+                "relativeDCReadability": 0.08146725849526378,
+                "lexicalDiversity": 0.428,
+                "posComposition": {
+                    "JJ": 0.044,
+                    "NN": 0.188,
+                    "CC": 0.064,
+                    "TO": 0.036,
+                    "PRP$": 0.012,
+                    "PRP": 0.076,
+                    "VBZ": 0.048,
+                    "RB": 0.064,
+                    "CD": 0.02,
+                    "VBP": 0.048,
+                    "VBG": 0.028,
+                    "DT": 0.108,
+                    "IN": 0.092,
+                    "JJR": 0.004,
+                    "VB": 0.084,
+                    "RP": 0.004,
+                    "WRB": 0.012,
+                    "MD": 0.016,
+                    "NNS": 0.012,
+                    "WDT": 0.008,
+                    "VBN": 0.012,
+                    "POS": 0.02
+                },
+                "syllableRate": 2.667,
+                "topicScores": [
+                    [
+                        "task",
+                        0.24566072142849638
+                    ],
+                    [
+                        "list",
+                        0.3377469050032629
+                    ],
+                    [
+                        "music",
+                        0.3379296595998905
+                    ],
+                    [
+                        "video",
+                        0.340298184054874
+                    ],
+                    [
+                        "application",
+                        0.3819126376743058
+                    ],
+                    [
+                        "couple",
+                        0.45832965280705196
+                    ],
+                    [
+                        "functionality",
+                        0.5218723694676921
+                    ],
+                    [
+                        "channel",
+                        0.7073760695010464
+                    ],
+                    [
+                        "past",
+                        0.7073760695010464
+                    ],
+                    [
+                        "component",
+                        0.7646205020907014
+                    ],
+                    [
+                        "youtube",
+                        0.784396197327974
+                    ],
+                    [
+                        "worth",
+                        0.784396197327974
+                    ],
+                    [
+                        "thumb",
+                        0.784396197327974
+                    ],
+                    [
+                        "user",
+                        0.784396197327974
+                    ],
+                    [
+                        "interface",
+                        0.784396197327974
+                    ],
+                    [
+                        "minute",
+                        0.784396197327974
+                    ],
+                    [
+                        "easy",
+                        0.784396197327974
+                    ],
+                    [
+                        "final",
+                        0.784396197327974
+                    ],
+                    [
+                        "result",
+                        0.784396197327974
+                    ],
+                    [
+                        "label",
+                        0.83290918404602
+                    ],
+                    [
+                        "input",
+                        0.83290918404602
+                    ],
+                    [
+                        "field",
+                        0.83290918404602
+                    ],
+                    [
+                        "text",
+                        0.83290918404602
+                    ],
+                    [
+                        "button",
+                        0.83290918404602
+                    ],
+                    [
+                        "order",
+                        0.83290918404602
+                    ],
+                    [
+                        "box",
+                        0.83290918404602
+                    ],
+                    [
+                        "second",
+                        0.83290918404602
+                    ],
+                    [
+                        "list app",
+                        1.46599617355598
+                    ],
+                    [
+                        "user interface",
+                        1.5992753880296986
+                    ],
+                    [
+                        "final result",
+                        1.5992753880296986
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "task",
+                        0.24566072142849638
+                    ],
+                    [
+                        "list",
+                        0.3377469050032629
+                    ],
+                    [
+                        "video",
+                        0.340298184054874
+                    ],
+                    [
+                        "application",
+                        0.3819126376743058
+                    ],
+                    [
+                        "component",
+                        0.7646205020907014
+                    ],
+                    [
+                        "label",
+                        0.83290918404602
+                    ],
+                    [
+                        "input",
+                        0.83290918404602
+                    ],
+                    [
+                        "field",
+                        0.83290918404602
+                    ],
+                    [
+                        "text",
+                        0.83290918404602
+                    ],
+                    [
+                        "button",
+                        0.83290918404602
+                    ],
+                    [
+                        "order",
+                        0.83290918404602
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-90": {
+            "id": "FxQTXyR4mjs-90",
+            "heat": 0.207,
+            "start": 90.0,
+            "text": " implemented is removing existing tasks from this list here so in order to remove a task you just click on it as you can see so again and again and again and this means that we have successfully completed all of our tasks in order to build this app i'm going to use c plus builder and rad studio and first i'm going to show you how to install it so i will leave a link in the description that you can use in order to download it and try it out for free so as i said the first step is to show you how to install it so when you click the link in the description you will be navigated to this site here and you will have to fill this form so let me do that very quickly and then i will be back okay so here is the filled form i am not a robot okay what are bridges here verify and let's click start your trial okay and soon after this the download should start so you should get the installer here and i will be back once this is downloaded once the download is finished you are going to click on the installer and here you are going to accept terms and conditions and click next and then enter new license and then next again and here you are going to select i have signed up for a free trial at embarcadero.com and then click install",
+            "metrics": {
+                "relativeDCReadability": 0.08176513012647708,
+                "lexicalDiversity": 0.3764705882352941,
+                "posComposition": {
+                    "VBN": 0.024,
+                    "VBZ": 0.024,
+                    "VBG": 0.027,
+                    "NNS": 0.024,
+                    "IN": 0.075,
+                    "DT": 0.086,
+                    "NN": 0.125,
+                    "RB": 0.133,
+                    "TO": 0.051,
+                    "VB": 0.118,
+                    "PRP": 0.082,
+                    "MD": 0.035,
+                    "CC": 0.075,
+                    "VBP": 0.047,
+                    "PRP$": 0.008,
+                    "JJ": 0.039,
+                    "WRB": 0.012,
+                    "RP": 0.008,
+                    "VBD": 0.004,
+                    "WP": 0.004
+                },
+                "syllableRate": 2.725,
+                "topicScores": [
+                    [
+                        "okay",
+                        0.3211022125893605
+                    ],
+                    [
+                        "download",
+                        0.33958351886231397
+                    ],
+                    [
+                        "install",
+                        0.34266525073738047
+                    ],
+                    [
+                        "order",
+                        0.34266628464425597
+                    ],
+                    [
+                        "task",
+                        0.3711456429001722
+                    ],
+                    [
+                        "description",
+                        0.43590833423747505
+                    ],
+                    [
+                        "link",
+                        0.450966376120176
+                    ],
+                    [
+                        "form",
+                        0.4702842501464259
+                    ],
+                    [
+                        "installer",
+                        0.4813805391980169
+                    ],
+                    [
+                        "free",
+                        0.48922016769576404
+                    ],
+                    [
+                        "trial",
+                        0.4962615039576773
+                    ],
+                    [
+                        "list",
+                        0.7735688483534411
+                    ],
+                    [
+                        "app",
+                        0.7735688483534411
+                    ],
+                    [
+                        "builder",
+                        0.7735688483534411
+                    ],
+                    [
+                        "rad",
+                        0.7735688483534411
+                    ],
+                    [
+                        "studio",
+                        0.7735688483534411
+                    ],
+                    [
+                        "step",
+                        0.7735688483534411
+                    ],
+                    [
+                        "site",
+                        0.7735688483534411
+                    ],
+                    [
+                        "robot",
+                        0.7818408443898343
+                    ],
+                    [
+                        "bridge",
+                        0.8357336144411316
+                    ],
+                    [
+                        "term",
+                        0.8504414616703568
+                    ],
+                    [
+                        "condition",
+                        0.8504414616703568
+                    ],
+                    [
+                        "new",
+                        0.8504414616703568
+                    ],
+                    [
+                        "license",
+                        0.8504414616703568
+                    ],
+                    [
+                        "rad studio",
+                        1.490094175923858
+                    ],
+                    [
+                        "free trial",
+                        1.5633925710516552
+                    ],
+                    [
+                        "new license",
+                        2.6133783418770755
+                    ]
+                ],
+                "topTopicSimilarity": 0.18518518518518517,
+                "sharedTopicScores": [
+                    [
+                        "okay",
+                        0.3211022125893605
+                    ],
+                    [
+                        "order",
+                        0.34266628464425597
+                    ],
+                    [
+                        "task",
+                        0.3711456429001722
+                    ],
+                    [
+                        "list",
+                        0.7735688483534411
+                    ],
+                    [
+                        "new",
+                        0.8504414616703568
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-180": {
+            "id": "FxQTXyR4mjs-180",
+            "heat": 0.383,
+            "start": 180.0,
+            "text": " and the installation process should start so i will be back once it's finished so once the installation of red studio is finished you are going to get a window like this one and here you have to select the platforms that you want to install the one that i will select is c plus builder windows enterprise trial and i'm going to unselect these other ones okay and i am going to click continue okay and here you can select additional languages help samples and so on i will just click install so that it finishes faster and the installation process should start once more and this one is going to take a little bit longer so again i will be back once this is finished and when the installation finishes you will click start working okay and now the rad studio should start okay here you will select the theme i will select dark mode and click next and click get started okay so here i have opened rad studio and first i want to make an introduction so that you understand the main parts and components that we are going to use and then we are going to build the application that you saw at the beginning of this video so let's create a new project you can click here on create a new multi-device application with c",
+            "metrics": {
+                "relativeDCReadability": 0.08092207270914539,
+                "lexicalDiversity": 0.45726495726495725,
+                "posComposition": {
+                    "CC": 0.068,
+                    "DT": 0.09,
+                    "NN": 0.141,
+                    "MD": 0.051,
+                    "VB": 0.115,
+                    "IN": 0.068,
+                    "JJ": 0.073,
+                    "RB": 0.085,
+                    "PRP": 0.06,
+                    "VBZ": 0.03,
+                    "VBN": 0.017,
+                    "VBP": 0.056,
+                    "VBG": 0.03,
+                    "TO": 0.038,
+                    "CD": 0.009,
+                    "NNS": 0.038,
+                    "WDT": 0.004,
+                    "RBR": 0.009,
+                    "JJR": 0.004,
+                    "WRB": 0.004,
+                    "VBD": 0.009
+                },
+                "syllableRate": 2.725,
+                "topicScores": [
+                    [
+                        "okay",
+                        0.23751501234342642
+                    ],
+                    [
+                        "installation",
+                        0.3279766275059387
+                    ],
+                    [
+                        "studio",
+                        0.4249064554081039
+                    ],
+                    [
+                        "process",
+                        0.46671909791581284
+                    ],
+                    [
+                        "window",
+                        0.46984322478310353
+                    ],
+                    [
+                        "new",
+                        0.5390555904444259
+                    ],
+                    [
+                        "rad",
+                        0.5429865876923806
+                    ],
+                    [
+                        "application",
+                        0.5566831043906615
+                    ],
+                    [
+                        "red",
+                        0.7565610324101265
+                    ],
+                    [
+                        "platform",
+                        0.7565610324101265
+                    ],
+                    [
+                        "builder",
+                        0.7565610324101265
+                    ],
+                    [
+                        "enterprise",
+                        0.7565610324101265
+                    ],
+                    [
+                        "trial",
+                        0.7565610324101265
+                    ],
+                    [
+                        "installation process",
+                        0.813950876445641
+                    ],
+                    [
+                        "bit",
+                        0.8633480786102894
+                    ],
+                    [
+                        "additional",
+                        0.8744577144400945
+                    ],
+                    [
+                        "language",
+                        0.8744577144400945
+                    ],
+                    [
+                        "sample",
+                        0.8744577144400945
+                    ],
+                    [
+                        "little",
+                        0.8744577144400945
+                    ],
+                    [
+                        "multi",
+                        0.8865487975824171
+                    ],
+                    [
+                        "device",
+                        0.8865487975824171
+                    ],
+                    [
+                        "theme",
+                        0.8933312302573198
+                    ],
+                    [
+                        "dark",
+                        0.8933312302573198
+                    ],
+                    [
+                        "mode",
+                        0.8933312302573198
+                    ],
+                    [
+                        "introduction",
+                        0.8959994570987609
+                    ],
+                    [
+                        "main",
+                        0.8959994570987609
+                    ],
+                    [
+                        "part",
+                        0.8959994570987609
+                    ],
+                    [
+                        "component",
+                        0.8959994570987609
+                    ],
+                    [
+                        "beginning",
+                        0.8959994570987609
+                    ],
+                    [
+                        "video",
+                        0.8959994570987609
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "okay",
+                        0.23751501234342642
+                    ],
+                    [
+                        "new",
+                        0.5390555904444259
+                    ],
+                    [
+                        "application",
+                        0.5566831043906615
+                    ],
+                    [
+                        "component",
+                        0.8959994570987609
+                    ],
+                    [
+                        "video",
+                        0.8959994570987609
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-270": {
+            "id": "FxQTXyR4mjs-270",
+            "heat": 0.0,
+            "start": 270.0,
+            "text": " builder or you can click on file new and then other okay and here you are going to see multi-device application and it says that multi-device application is an ui application that works on any operating system or device so that is what we are going to select and i will click ok and then here i am going to select blank application and i will click ok again after you create a new project you will get a window that looks like this and there are four parts of this window that i want to explain because we will use them a lot and that is projects part in the upper right corner and then structure in the upper left and then we have object inspector in the bottom left and in the bottom right corner we have this palette and if you don't see any one of these four what you can do is you can click on view and then tool windows and here you have all of these and you can enable whichever one you want so project structure object inspector palette and so on okay so now i'm going to explain what each one of these four is used for inside this projects part we have all of the files that our application contains and there are three that i want to explain and focus on and those are under this unit 1.cpp and as you can see you can collapse it",
+            "metrics": {
+                "relativeDCReadability": 0.08062891184691859,
+                "lexicalDiversity": 0.3855421686746988,
+                "posComposition": {
+                    "NN": 0.141,
+                    "CC": 0.088,
+                    "PRP": 0.08,
+                    "MD": 0.04,
+                    "VB": 0.084,
+                    "IN": 0.108,
+                    "JJ": 0.064,
+                    "RB": 0.056,
+                    "VBP": 0.064,
+                    "VBG": 0.016,
+                    "TO": 0.024,
+                    "VBZ": 0.032,
+                    "DT": 0.1,
+                    "WDT": 0.008,
+                    "WP": 0.012,
+                    "EX": 0.008,
+                    "CD": 0.032,
+                    "NNS": 0.028,
+                    "VBD": 0.004,
+                    "VBN": 0.004,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 2.742,
+                "topicScores": [
+                    [
+                        "application",
+                        0.29535707653452264
+                    ],
+                    [
+                        "project",
+                        0.35110399588449265
+                    ],
+                    [
+                        "device",
+                        0.3682193814493823
+                    ],
+                    [
+                        "window",
+                        0.4046282156970237
+                    ],
+                    [
+                        "multi",
+                        0.4707021747658853
+                    ],
+                    [
+                        "new",
+                        0.4809639920801805
+                    ],
+                    [
+                        "left",
+                        0.49453944766809455
+                    ],
+                    [
+                        "right",
+                        0.4982213023275837
+                    ],
+                    [
+                        "upper",
+                        0.5003352264426728
+                    ],
+                    [
+                        "file",
+                        0.506255059491124
+                    ],
+                    [
+                        "corner",
+                        0.5084825982707293
+                    ],
+                    [
+                        "palette",
+                        0.5144284732895158
+                    ],
+                    [
+                        "structure",
+                        0.5176807598769563
+                    ],
+                    [
+                        "object",
+                        0.5216565822437201
+                    ],
+                    [
+                        "inspector",
+                        0.5216565822437201
+                    ],
+                    [
+                        "builder",
+                        0.6586432057661948
+                    ],
+                    [
+                        "device application",
+                        0.8104093243502588
+                    ],
+                    [
+                        "operating",
+                        0.8185071819954032
+                    ],
+                    [
+                        "system",
+                        0.8185071819954032
+                    ],
+                    [
+                        "blank",
+                        0.8363149741676832
+                    ],
+                    [
+                        "lot",
+                        0.8546834510340638
+                    ],
+                    [
+                        "view",
+                        0.8606560874250092
+                    ],
+                    [
+                        "tool",
+                        0.8606560874250092
+                    ],
+                    [
+                        "unit",
+                        0.8723707703588259
+                    ],
+                    [
+                        "1.cpp",
+                        0.8723707703588259
+                    ],
+                    [
+                        "right corner",
+                        1.1043439471930387
+                    ],
+                    [
+                        "object inspector",
+                        1.3632119290987785
+                    ],
+                    [
+                        "file new",
+                        1.5751550160963717
+                    ],
+                    [
+                        "new project",
+                        1.641757838501102
+                    ],
+                    [
+                        "upper left",
+                        1.6425961561971119
+                    ]
+                ],
+                "topTopicSimilarity": 0.06666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "application",
+                        0.29535707653452264
+                    ],
+                    [
+                        "new",
+                        0.4809639920801805
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-360": {
+            "id": "FxQTXyR4mjs-360",
+            "heat": 0.0,
+            "start": 360.0,
+            "text": " and expand it and those three are unit1.cpp unit1.fmx and then unit1.h so this unit1.cpp and unit1.h are used to write c plus code and then this unit1.fmx is used to store the information about the design of your application so if you click or actually double click on the unit 1.cpp you are going to get c plus code and then unit 1.h as well contains c plus plus code and then if you double click on unit 1.fmx here you have the design of your application which is just an empty blank form because we created an empty application so that is the first way to navigate between these three and then another way is at the bottom you have a tab control which has unit 1.cpp unit1.h and then the design mode of your application and you can use that as well so let's move to this upper left corner where it says structure and here we will have all of the components slash controls that our application contains and currently our application contains only one form which is completely empty because we created a blank application but if you decide to add new controls to your application like text labels input fields buttons list boxes and so on those are going to be shown here as well so now your question might be okay selena but how can i add new",
+            "metrics": {
+                "relativeDCReadability": 0.08605066013239371,
+                "lexicalDiversity": 0.4703389830508475,
+                "posComposition": {
+                    "CC": 0.081,
+                    "VB": 0.059,
+                    "PRP": 0.051,
+                    "DT": 0.089,
+                    "CD": 0.03,
+                    "VBP": 0.047,
+                    "JJ": 0.068,
+                    "RB": 0.106,
+                    "NN": 0.174,
+                    "VBN": 0.013,
+                    "TO": 0.034,
+                    "VBZ": 0.038,
+                    "IN": 0.081,
+                    "PRP$": 0.03,
+                    "VBG": 0.008,
+                    "WDT": 0.017,
+                    "VBD": 0.008,
+                    "MD": 0.017,
+                    "POS": 0.004,
+                    "WRB": 0.008,
+                    "NNS": 0.038
+                },
+                "syllableRate": 2.708,
+                "topicScores": [
+                    [
+                        "application",
+                        0.2648371608790295
+                    ],
+                    [
+                        "code",
+                        0.33905582037649623
+                    ],
+                    [
+                        "unit",
+                        0.36202611901095966
+                    ],
+                    [
+                        "design",
+                        0.37186504888369776
+                    ],
+                    [
+                        "click",
+                        0.40192386922338297
+                    ],
+                    [
+                        "unit1.h",
+                        0.40763328046539704
+                    ],
+                    [
+                        "control",
+                        0.42005024614506614
+                    ],
+                    [
+                        "new",
+                        0.4938413228066242
+                    ],
+                    [
+                        "double",
+                        0.5026575756563668
+                    ],
+                    [
+                        "blank",
+                        0.51435709529967
+                    ],
+                    [
+                        "form",
+                        0.51435709529967
+                    ],
+                    [
+                        "way",
+                        0.5268207173614318
+                    ],
+                    [
+                        "selena",
+                        0.7922952355920286
+                    ],
+                    [
+                        "information",
+                        0.8267277950617148
+                    ],
+                    [
+                        "1.fmx",
+                        0.8267277950617148
+                    ],
+                    [
+                        "tab",
+                        0.8267277950617148
+                    ],
+                    [
+                        "okay",
+                        0.8284074705884537
+                    ],
+                    [
+                        "mode",
+                        0.8432375277361615
+                    ],
+                    [
+                        "upper",
+                        0.8432375277361615
+                    ],
+                    [
+                        "left",
+                        0.8432375277361615
+                    ],
+                    [
+                        "corner",
+                        0.8432375277361615
+                    ],
+                    [
+                        "structure",
+                        0.8432375277361615
+                    ],
+                    [
+                        "component",
+                        0.8432375277361615
+                    ],
+                    [
+                        "text",
+                        0.8432375277361615
+                    ],
+                    [
+                        "label",
+                        0.8432375277361615
+                    ],
+                    [
+                        "input",
+                        0.8432375277361615
+                    ],
+                    [
+                        "field",
+                        0.8432375277361615
+                    ],
+                    [
+                        "button",
+                        0.8432375277361615
+                    ],
+                    [
+                        "box",
+                        0.8432375277361615
+                    ],
+                    [
+                        "question",
+                        0.8432375277361615
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "application",
+                        0.2648371608790295
+                    ],
+                    [
+                        "code",
+                        0.33905582037649623
+                    ],
+                    [
+                        "click",
+                        0.40192386922338297
+                    ],
+                    [
+                        "control",
+                        0.42005024614506614
+                    ],
+                    [
+                        "new",
+                        0.4938413228066242
+                    ],
+                    [
+                        "okay",
+                        0.8284074705884537
+                    ],
+                    [
+                        "component",
+                        0.8432375277361615
+                    ],
+                    [
+                        "text",
+                        0.8432375277361615
+                    ],
+                    [
+                        "label",
+                        0.8432375277361615
+                    ],
+                    [
+                        "input",
+                        0.8432375277361615
+                    ],
+                    [
+                        "field",
+                        0.8432375277361615
+                    ],
+                    [
+                        "button",
+                        0.8432375277361615
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-450": {
+            "id": "FxQTXyR4mjs-450",
+            "heat": 0.0,
+            "start": 450.0,
+            "text": " controls or components to my application and the answer is very easy so let's move to this bottom right corner where it says palette and inside this palette we have a lot of the components which are already available for you to use so you can basically drag and drop them and you don't have to write the code yourself which is going to save you a lot of time so let's see what kind of components we have under this standard category so standard components are components like buttons checkboxes radio buttons what else labels image controls progress bars scroll bars and so on and you can check this out on your own after you finish this video so that is what we use this palette window for and let's drag and drop a couple of components so let's use this label component i'm going to put it here and then let's add an input field it's called t edit so you can search it here you can type t edit and here it is i'm going to drag and drop that as well i'll put it here and i'll just make it a little bit bigger like this and align it with my label okay and then let's add a button it is here i'm going to place it here and i will also make it the same size as my input field okay maybe i'll make this input field a little bit bigger like this and then another",
+            "metrics": {
+                "relativeDCReadability": 0.0813180561769794,
+                "lexicalDiversity": 0.4641509433962264,
+                "posComposition": {
+                    "NNS": 0.045,
+                    "CC": 0.064,
+                    "TO": 0.03,
+                    "PRP$": 0.015,
+                    "NN": 0.155,
+                    "DT": 0.087,
+                    "VBZ": 0.03,
+                    "RB": 0.079,
+                    "JJ": 0.064,
+                    "IN": 0.091,
+                    "POS": 0.019,
+                    "WRB": 0.004,
+                    "PRP": 0.094,
+                    "VBP": 0.045,
+                    "WDT": 0.008,
+                    "VB": 0.098,
+                    "MD": 0.03,
+                    "VBG": 0.015,
+                    "WP": 0.011,
+                    "RP": 0.004,
+                    "VBN": 0.004,
+                    "JJR": 0.008
+                },
+                "syllableRate": 2.867,
+                "topicScores": [
+                    [
+                        "component",
+                        0.27664274892217217
+                    ],
+                    [
+                        "palette",
+                        0.39929990414002675
+                    ],
+                    [
+                        "label",
+                        0.4042084492008803
+                    ],
+                    [
+                        "field",
+                        0.40512100173431154
+                    ],
+                    [
+                        "input",
+                        0.409234459738969
+                    ],
+                    [
+                        "button",
+                        0.420917652450325
+                    ],
+                    [
+                        "lot",
+                        0.4789454846858126
+                    ],
+                    [
+                        "control",
+                        0.4878107653780746
+                    ],
+                    [
+                        "bit",
+                        0.49699894468359723
+                    ],
+                    [
+                        "big",
+                        0.49699894468359723
+                    ],
+                    [
+                        "little",
+                        0.5103885361275019
+                    ],
+                    [
+                        "standard",
+                        0.5232568490803688
+                    ],
+                    [
+                        "bar",
+                        0.5232568490803688
+                    ],
+                    [
+                        "edit",
+                        0.5241278745235364
+                    ],
+                    [
+                        "application",
+                        0.813674648236429
+                    ],
+                    [
+                        "answer",
+                        0.813674648236429
+                    ],
+                    [
+                        "easy",
+                        0.813674648236429
+                    ],
+                    [
+                        "right",
+                        0.813674648236429
+                    ],
+                    [
+                        "corner",
+                        0.813674648236429
+                    ],
+                    [
+                        "available",
+                        0.813674648236429
+                    ],
+                    [
+                        "code",
+                        0.8414526385549028
+                    ],
+                    [
+                        "time",
+                        0.8414526385549028
+                    ],
+                    [
+                        "kind",
+                        0.8414526385549028
+                    ],
+                    [
+                        "category",
+                        0.8414526385549028
+                    ],
+                    [
+                        "radio",
+                        0.8414526385549028
+                    ],
+                    [
+                        "image",
+                        0.8414526385549028
+                    ],
+                    [
+                        "progress",
+                        0.8414526385549028
+                    ],
+                    [
+                        "scroll",
+                        0.8414526385549028
+                    ],
+                    [
+                        "video",
+                        0.8568023739371625
+                    ],
+                    [
+                        "window",
+                        0.8568023739371625
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "component",
+                        0.27664274892217217
+                    ],
+                    [
+                        "label",
+                        0.4042084492008803
+                    ],
+                    [
+                        "field",
+                        0.40512100173431154
+                    ],
+                    [
+                        "input",
+                        0.409234459738969
+                    ],
+                    [
+                        "button",
+                        0.420917652450325
+                    ],
+                    [
+                        "control",
+                        0.4878107653780746
+                    ],
+                    [
+                        "edit",
+                        0.5241278745235364
+                    ],
+                    [
+                        "application",
+                        0.813674648236429
+                    ],
+                    [
+                        "code",
+                        0.8414526385549028
+                    ],
+                    [
+                        "video",
+                        0.8568023739371625
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-540": {
+            "id": "FxQTXyR4mjs-540",
+            "heat": 0.0,
+            "start": 540.0,
+            "text": " component that i'm going to need is a list box so a place where i'm going to show my tasks so let's search for list box here it is and i will put it here and make it the same size as my input field like this okay and let's adjust the size of this form okay perfect so here we have added all of the components that our application is going to contain and you can even run your application now so let's do that let's see what's going to happen okay no errors and here is our application as you can see it contains all of the components that we need but our application is currently dumb which means that it does not have any logic so this button here for example does not know how to behave when it is clicked so that is the next thing that i want to change i am going to stop my application and let's see the first thing that i want to change is the text of this label so i'm going to click on this label and if you look at this bottom left part where it says object inspector you will notice that here we have properties and events and this properties tab contains all the properties of the control that has been selected so in this situation we selected our label control and here you can change all of the properties of your label",
+            "metrics": {
+                "relativeDCReadability": 0.08118780961248205,
+                "lexicalDiversity": 0.4140625,
+                "posComposition": {
+                    "NN": 0.168,
+                    "IN": 0.098,
+                    "VBP": 0.047,
+                    "VBG": 0.023,
+                    "TO": 0.035,
+                    "VB": 0.09,
+                    "VBZ": 0.062,
+                    "DT": 0.105,
+                    "WRB": 0.016,
+                    "PRP$": 0.035,
+                    "NNS": 0.035,
+                    "RB": 0.066,
+                    "POS": 0.02,
+                    "PRP": 0.062,
+                    "CC": 0.043,
+                    "MD": 0.02,
+                    "JJ": 0.027,
+                    "VBN": 0.016,
+                    "WDT": 0.012,
+                    "WP": 0.004,
+                    "RP": 0.004,
+                    "VBD": 0.008,
+                    "PDT": 0.004
+                },
+                "syllableRate": 2.792,
+                "topicScores": [
+                    [
+                        "application",
+                        0.33300567569331185
+                    ],
+                    [
+                        "label",
+                        0.34902136611557316
+                    ],
+                    [
+                        "component",
+                        0.3662854156927665
+                    ],
+                    [
+                        "okay",
+                        0.375189315832551
+                    ],
+                    [
+                        "property",
+                        0.3761078142948467
+                    ],
+                    [
+                        "size",
+                        0.49172795467081254
+                    ],
+                    [
+                        "list",
+                        0.49689539668402216
+                    ],
+                    [
+                        "box",
+                        0.4968953966840222
+                    ],
+                    [
+                        "thing",
+                        0.5167330304185761
+                    ],
+                    [
+                        "control",
+                        0.5515593690752265
+                    ],
+                    [
+                        "perfect",
+                        0.7869555205747827
+                    ],
+                    [
+                        "form",
+                        0.7871807642535694
+                    ],
+                    [
+                        "place",
+                        0.8081513372887589
+                    ],
+                    [
+                        "task",
+                        0.8081513372887589
+                    ],
+                    [
+                        "input",
+                        0.8081513372887589
+                    ],
+                    [
+                        "field",
+                        0.8081513372887589
+                    ],
+                    [
+                        "error",
+                        0.857663352774239
+                    ],
+                    [
+                        "dumb",
+                        0.869733358471195
+                    ],
+                    [
+                        "logic",
+                        0.869733358471195
+                    ],
+                    [
+                        "button",
+                        0.869733358471195
+                    ],
+                    [
+                        "example",
+                        0.869733358471195
+                    ],
+                    [
+                        "text",
+                        0.869733358471195
+                    ],
+                    [
+                        "object",
+                        0.8751777688023687
+                    ],
+                    [
+                        "inspector",
+                        0.8751777688023687
+                    ],
+                    [
+                        "event",
+                        0.8751777688023687
+                    ],
+                    [
+                        "tab",
+                        0.8751777688023687
+                    ],
+                    [
+                        "situation",
+                        0.8751777688023687
+                    ],
+                    [
+                        "list box",
+                        1.0305119809426213
+                    ],
+                    [
+                        "input field",
+                        1.8827464554191493
+                    ],
+                    [
+                        "label control",
+                        2.4299977857497757
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "application",
+                        0.33300567569331185
+                    ],
+                    [
+                        "label",
+                        0.34902136611557316
+                    ],
+                    [
+                        "component",
+                        0.3662854156927665
+                    ],
+                    [
+                        "okay",
+                        0.375189315832551
+                    ],
+                    [
+                        "property",
+                        0.3761078142948467
+                    ],
+                    [
+                        "list",
+                        0.49689539668402216
+                    ],
+                    [
+                        "thing",
+                        0.5167330304185761
+                    ],
+                    [
+                        "control",
+                        0.5515593690752265
+                    ],
+                    [
+                        "task",
+                        0.8081513372887589
+                    ],
+                    [
+                        "input",
+                        0.8081513372887589
+                    ],
+                    [
+                        "field",
+                        0.8081513372887589
+                    ],
+                    [
+                        "button",
+                        0.869733358471195
+                    ],
+                    [
+                        "example",
+                        0.869733358471195
+                    ],
+                    [
+                        "text",
+                        0.869733358471195
+                    ],
+                    [
+                        "event",
+                        0.8751777688023687
+                    ],
+                    [
+                        "list box",
+                        1.0305119809426213
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-630": {
+            "id": "FxQTXyR4mjs-630",
+            "heat": 0.0,
+            "start": 630.0,
+            "text": " and the property that i want to change is called text so let's find that okay here it says label one and that is the text that is shown here so that is what i want to change i wanted to say for example add task like this and i will press enter and as you can see the text has been changed okay so that is the first thing that i want to do and then let's change also the text of this button here so if i click on this button again on this object inspector window you will have all the properties and events of this button and later i'm going to explain what are events and how to work with events for now i'm focusing only on properties part so click on button and then select properties and here you can change the properties of your button the one that i want to change again is called text so let's do that instead of having button one text on this button let's say add like this and i'm going to press enter okay so if i run my application again as you can see here we have add task and then add button so now we have a better idea of what this application here is doing in order to make it easier to work with these controls let's change their names so that they make more sense and let me show you what i mean by this so if i click on this add button properties and i look for a name",
+            "metrics": {
+                "relativeDCReadability": 0.08464503996828586,
+                "lexicalDiversity": 0.41818181818181815,
+                "posComposition": {
+                    "CC": 0.055,
+                    "DT": 0.087,
+                    "NN": 0.135,
+                    "IN": 0.113,
+                    "VBP": 0.062,
+                    "TO": 0.036,
+                    "VB": 0.109,
+                    "VBZ": 0.036,
+                    "VBN": 0.022,
+                    "RB": 0.109,
+                    "POS": 0.018,
+                    "PRP": 0.04,
+                    "CD": 0.007,
+                    "WDT": 0.007,
+                    "WP": 0.015,
+                    "VBD": 0.004,
+                    "MD": 0.018,
+                    "NNS": 0.047,
+                    "JJ": 0.033,
+                    "PDT": 0.004,
+                    "VBG": 0.018,
+                    "WRB": 0.004,
+                    "PRP$": 0.011,
+                    "JJR": 0.011
+                },
+                "syllableRate": 2.833,
+                "topicScores": [
+                    [
+                        "button",
+                        0.26034875826360576
+                    ],
+                    [
+                        "text",
+                        0.2861420564696261
+                    ],
+                    [
+                        "property",
+                        0.3130962458276225
+                    ],
+                    [
+                        "okay",
+                        0.3935943754473484
+                    ],
+                    [
+                        "event",
+                        0.4496728088816236
+                    ],
+                    [
+                        "task",
+                        0.5441958384220188
+                    ],
+                    [
+                        "application",
+                        0.5723063293061722
+                    ],
+                    [
+                        "label",
+                        0.8510743850227932
+                    ],
+                    [
+                        "example",
+                        0.8510743850227932
+                    ],
+                    [
+                        "thing",
+                        0.886750263342198
+                    ],
+                    [
+                        "object",
+                        0.894852930133158
+                    ],
+                    [
+                        "inspector",
+                        0.894852930133158
+                    ],
+                    [
+                        "window",
+                        0.894852930133158
+                    ],
+                    [
+                        "well",
+                        0.9082407699251744
+                    ],
+                    [
+                        "idea",
+                        0.9082407699251744
+                    ],
+                    [
+                        "order",
+                        0.9082407699251744
+                    ],
+                    [
+                        "easy",
+                        0.9082407699251744
+                    ],
+                    [
+                        "control",
+                        0.9082407699251744
+                    ],
+                    [
+                        "sense",
+                        0.9082407699251744
+                    ],
+                    [
+                        "button property",
+                        3.1699304036499005
+                    ],
+                    [
+                        "object inspector",
+                        4.019116977569425
+                    ],
+                    [
+                        "inspector window",
+                        4.019116977569425
+                    ],
+                    [
+                        "well idea",
+                        4.711064548376477
+                    ],
+                    [
+                        "object inspector window",
+                        23.232836138100286
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "button",
+                        0.26034875826360576
+                    ],
+                    [
+                        "text",
+                        0.2861420564696261
+                    ],
+                    [
+                        "property",
+                        0.3130962458276225
+                    ],
+                    [
+                        "okay",
+                        0.3935943754473484
+                    ],
+                    [
+                        "event",
+                        0.4496728088816236
+                    ],
+                    [
+                        "task",
+                        0.5441958384220188
+                    ],
+                    [
+                        "application",
+                        0.5723063293061722
+                    ],
+                    [
+                        "label",
+                        0.8510743850227932
+                    ],
+                    [
+                        "example",
+                        0.8510743850227932
+                    ],
+                    [
+                        "thing",
+                        0.886750263342198
+                    ],
+                    [
+                        "order",
+                        0.9082407699251744
+                    ],
+                    [
+                        "control",
+                        0.9082407699251744
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-720": {
+            "id": "FxQTXyR4mjs-720",
+            "heat": 0.0,
+            "start": 720.0,
+            "text": " property you will notice that the name of this button here is button one and then if i click on this input field you will notice that its name is edit one and then if i click on the list box the name of the list box is list box one so the same way that you should give meaningful names to your variables you should also give meaningful names to your controls because if you have for example 10 buttons in your application and you leave them with their default names of button 1 button 2 button 3 and so on it is just a matter of time when you are going to forget what button 3 means or what button 7 means and so on so that is the reason why you should use meaningful names for your controls so let's do that i'm going to click on this button and instead of having the name of button1 i'm going to change it so that its name is add button or add task button you can use whichever name you want as long as it is meaningful so let's press enter here and then i'm going to click on this input field its name is edit i am going to call it for example task edit or you can call it task input field whichever name you find easier to remember so i'm going to save the change here as well and then i will click on my list box and the name of this list box will be tasks list box okay like this",
+            "metrics": {
+                "relativeDCReadability": 0.08276093182525146,
+                "lexicalDiversity": 0.45787545787545786,
+                "posComposition": {
+                    "NN": 0.168,
+                    "PRP": 0.066,
+                    "MD": 0.033,
+                    "VB": 0.084,
+                    "IN": 0.125,
+                    "DT": 0.062,
+                    "RB": 0.077,
+                    "VBZ": 0.033,
+                    "JJ": 0.059,
+                    "CD": 0.033,
+                    "CC": 0.044,
+                    "VBN": 0.007,
+                    "VBP": 0.044,
+                    "PRP$": 0.033,
+                    "NNS": 0.037,
+                    "TO": 0.033,
+                    "WRB": 0.007,
+                    "VBG": 0.026,
+                    "WP": 0.007,
+                    "VBD": 0.004,
+                    "POS": 0.007,
+                    "WDT": 0.007,
+                    "JJR": 0.004
+                },
+                "syllableRate": 2.825,
+                "topicScores": [
+                    [
+                        "button",
+                        0.23831861026039278
+                    ],
+                    [
+                        "list",
+                        0.291719855506702
+                    ],
+                    [
+                        "box",
+                        0.2932301978913273
+                    ],
+                    [
+                        "meaningful",
+                        0.33844550212322694
+                    ],
+                    [
+                        "task",
+                        0.3681658560921025
+                    ],
+                    [
+                        "input",
+                        0.3893494118951747
+                    ],
+                    [
+                        "field",
+                        0.3893494118951747
+                    ],
+                    [
+                        "edit",
+                        0.39645481491626344
+                    ],
+                    [
+                        "example",
+                        0.5161734332054648
+                    ],
+                    [
+                        "control",
+                        0.516833298199484
+                    ],
+                    [
+                        "change",
+                        0.5365516681443284
+                    ],
+                    [
+                        "property",
+                        0.7102004882960169
+                    ],
+                    [
+                        "list box",
+                        0.7370224886488153
+                    ],
+                    [
+                        "input field",
+                        0.7702343833411229
+                    ],
+                    [
+                        "meaningful name",
+                        0.8335100467776306
+                    ],
+                    [
+                        "way",
+                        0.8338907807644208
+                    ],
+                    [
+                        "variable",
+                        0.8338907807644208
+                    ],
+                    [
+                        "application",
+                        0.8338907807644208
+                    ],
+                    [
+                        "default",
+                        0.8338907807644208
+                    ],
+                    [
+                        "matter",
+                        0.8338907807644208
+                    ],
+                    [
+                        "time",
+                        0.8338907807644208
+                    ],
+                    [
+                        "reason",
+                        0.8338907807644208
+                    ],
+                    [
+                        "press",
+                        0.8591765006695853
+                    ],
+                    [
+                        "okay",
+                        0.8599228722732892
+                    ],
+                    [
+                        "easy",
+                        0.8820204233127129
+                    ],
+                    [
+                        "default name",
+                        1.9696824937216175
+                    ],
+                    [
+                        "task input",
+                        1.9910952681321887
+                    ],
+                    [
+                        "task edit",
+                        2.103878880185398
+                    ],
+                    [
+                        "example task",
+                        2.326346514739527
+                    ],
+                    [
+                        "task list",
+                        2.3343643411670283
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "button",
+                        0.23831861026039278
+                    ],
+                    [
+                        "list",
+                        0.291719855506702
+                    ],
+                    [
+                        "task",
+                        0.3681658560921025
+                    ],
+                    [
+                        "input",
+                        0.3893494118951747
+                    ],
+                    [
+                        "field",
+                        0.3893494118951747
+                    ],
+                    [
+                        "edit",
+                        0.39645481491626344
+                    ],
+                    [
+                        "example",
+                        0.5161734332054648
+                    ],
+                    [
+                        "control",
+                        0.516833298199484
+                    ],
+                    [
+                        "change",
+                        0.5365516681443284
+                    ],
+                    [
+                        "property",
+                        0.7102004882960169
+                    ],
+                    [
+                        "list box",
+                        0.7370224886488153
+                    ],
+                    [
+                        "application",
+                        0.8338907807644208
+                    ],
+                    [
+                        "okay",
+                        0.8599228722732892
+                    ],
+                    [
+                        "task edit",
+                        2.103878880185398
+                    ],
+                    [
+                        "task list",
+                        2.3343643411670283
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-810": {
+            "id": "FxQTXyR4mjs-810",
+            "heat": 0.0,
+            "start": 810.0,
+            "text": " so what we have achieved with this is that when we want to refer a specific component from our c plus code we are going to use the name of that component and it is going to be much easier for us if that component has a meaningful name now one thing that just happened and you noticed that if you paid attention since the beginning of this video is the following inside this structure window now we have additional four components and those four components are part of this form one so in the beginning we had form one and now we have add button which is this button here and then label one as you can see we have not changed the name of this label here that is why it has the default name of label one and then task edit which is this input field here and then task list box which is this list box here and here are the names of all of our components that our application contains so if i run this application now nothing has changed in terms of the appearance of the application but what has changed is that the names of all of these components are different so when we decide to use those components from our c code we are going to use those names that we assigned to each one of these three components the next thing that i want to do is i want to implement the logic for this application here so when i type the text",
+            "metrics": {
+                "relativeDCReadability": 0.08376814891047304,
+                "lexicalDiversity": 0.38549618320610685,
+                "posComposition": {
+                    "RB": 0.08,
+                    "WP": 0.008,
+                    "PRP": 0.061,
+                    "VBP": 0.065,
+                    "VBN": 0.023,
+                    "IN": 0.115,
+                    "DT": 0.137,
+                    "VBZ": 0.053,
+                    "WRB": 0.015,
+                    "TO": 0.031,
+                    "VB": 0.042,
+                    "JJ": 0.034,
+                    "NN": 0.164,
+                    "PRP$": 0.015,
+                    "CC": 0.038,
+                    "VBG": 0.011,
+                    "JJR": 0.004,
+                    "CD": 0.034,
+                    "WDT": 0.015,
+                    "VBD": 0.011,
+                    "NNS": 0.038,
+                    "MD": 0.004
+                },
+                "syllableRate": 2.867,
+                "topicScores": [
+                    [
+                        "component",
+                        0.2330213157249119
+                    ],
+                    [
+                        "application",
+                        0.3482292845060741
+                    ],
+                    [
+                        "label",
+                        0.3760815937855263
+                    ],
+                    [
+                        "form",
+                        0.41937384272262845
+                    ],
+                    [
+                        "code",
+                        0.42603829236184304
+                    ],
+                    [
+                        "beginning",
+                        0.432335219588441
+                    ],
+                    [
+                        "thing",
+                        0.459051391053057
+                    ],
+                    [
+                        "task",
+                        0.49156445186973313
+                    ],
+                    [
+                        "button",
+                        0.49591818029413
+                    ],
+                    [
+                        "list",
+                        0.5042837973121899
+                    ],
+                    [
+                        "box",
+                        0.5042837973121899
+                    ],
+                    [
+                        "specific",
+                        0.7064931841514933
+                    ],
+                    [
+                        "easy",
+                        0.7064931841514933
+                    ],
+                    [
+                        "meaningful",
+                        0.7064931841514933
+                    ],
+                    [
+                        "attention",
+                        0.7064931841514933
+                    ],
+                    [
+                        "video",
+                        0.7064931841514933
+                    ],
+                    [
+                        "following",
+                        0.7064931841514933
+                    ],
+                    [
+                        "structure",
+                        0.7064931841514933
+                    ],
+                    [
+                        "window",
+                        0.7064931841514933
+                    ],
+                    [
+                        "additional",
+                        0.7064931841514933
+                    ],
+                    [
+                        "default",
+                        0.7836746269491556
+                    ],
+                    [
+                        "text",
+                        0.798533803342018
+                    ],
+                    [
+                        "edit",
+                        0.8149077270422002
+                    ],
+                    [
+                        "input",
+                        0.8149077270422002
+                    ],
+                    [
+                        "field",
+                        0.8149077270422002
+                    ],
+                    [
+                        "term",
+                        0.8149077270422002
+                    ],
+                    [
+                        "appearance",
+                        0.8149077270422002
+                    ],
+                    [
+                        "different",
+                        0.8149077270422002
+                    ],
+                    [
+                        "logic",
+                        0.8323152654352344
+                    ],
+                    [
+                        "c code",
+                        0.8381303219697079
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "component",
+                        0.2330213157249119
+                    ],
+                    [
+                        "application",
+                        0.3482292845060741
+                    ],
+                    [
+                        "label",
+                        0.3760815937855263
+                    ],
+                    [
+                        "code",
+                        0.42603829236184304
+                    ],
+                    [
+                        "thing",
+                        0.459051391053057
+                    ],
+                    [
+                        "task",
+                        0.49156445186973313
+                    ],
+                    [
+                        "button",
+                        0.49591818029413
+                    ],
+                    [
+                        "list",
+                        0.5042837973121899
+                    ],
+                    [
+                        "video",
+                        0.7064931841514933
+                    ],
+                    [
+                        "text",
+                        0.798533803342018
+                    ],
+                    [
+                        "edit",
+                        0.8149077270422002
+                    ],
+                    [
+                        "input",
+                        0.8149077270422002
+                    ],
+                    [
+                        "field",
+                        0.8149077270422002
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-900": {
+            "id": "FxQTXyR4mjs-900",
+            "heat": 0.0,
+            "start": 900.0,
+            "text": " inside this input field when i say for example this is task 1 and i click on this add button it should add this text to my list of tasks so that is the next thing that i want to do and in order to know how to do that you will first need to understand a little bit about events and how to work with events so that is the next thing that i'm going to explain so what is an event in programming an event is just an action that can be caused by the user or by the software itself the examples of some events are for example a mouse click and that event is called on click or when you press a key and that event is called on key down or for example when you hover over a button and that event is called on hover or on mouse enter depending on the language in which you work the naming is a little bit different but the logic is absolutely the same so one event is when you hover over a button and then another event is when you leave that button so let me show you how this hover event works because it is implemented by default so i'm going to run my application and if i hover over this add button as you can see it becomes blue so someone has written the code which says on hover please become blue and that please become blue part",
+            "metrics": {
+                "relativeDCReadability": 0.08156684880786907,
+                "lexicalDiversity": 0.4140625,
+                "posComposition": {
+                    "IN": 0.137,
+                    "DT": 0.129,
+                    "NN": 0.195,
+                    "WRB": 0.031,
+                    "NNS": 0.023,
+                    "VBP": 0.039,
+                    "VBZ": 0.066,
+                    "JJ": 0.062,
+                    "CD": 0.008,
+                    "CC": 0.055,
+                    "PRP": 0.051,
+                    "MD": 0.016,
+                    "VB": 0.062,
+                    "TO": 0.031,
+                    "PRP$": 0.008,
+                    "VBG": 0.016,
+                    "RB": 0.027,
+                    "WP": 0.004,
+                    "WDT": 0.012,
+                    "VBN": 0.023,
+                    "RP": 0.004
+                },
+                "syllableRate": 2.767,
+                "topicScores": [
+                    [
+                        "event",
+                        0.2211492487229654
+                    ],
+                    [
+                        "hover",
+                        0.271925489230339
+                    ],
+                    [
+                        "button",
+                        0.2838428365943082
+                    ],
+                    [
+                        "example",
+                        0.31845042255701234
+                    ],
+                    [
+                        "blue",
+                        0.3943911386266982
+                    ],
+                    [
+                        "click",
+                        0.3966227860147687
+                    ],
+                    [
+                        "task",
+                        0.43159209408944393
+                    ],
+                    [
+                        "thing",
+                        0.43575322899227303
+                    ],
+                    [
+                        "little",
+                        0.4671801312731364
+                    ],
+                    [
+                        "bit",
+                        0.4671801312731364
+                    ],
+                    [
+                        "mouse",
+                        0.49224519008978845
+                    ],
+                    [
+                        "key",
+                        0.49224519008978845
+                    ],
+                    [
+                        "input",
+                        0.6945280382936727
+                    ],
+                    [
+                        "field",
+                        0.6945280382936727
+                    ],
+                    [
+                        "default",
+                        0.7587170080591599
+                    ],
+                    [
+                        "little bit",
+                        0.7658145780660557
+                    ],
+                    [
+                        "text",
+                        0.7738486997586926
+                    ],
+                    [
+                        "list",
+                        0.7738486997586926
+                    ],
+                    [
+                        "order",
+                        0.7738486997586926
+                    ],
+                    [
+                        "action",
+                        0.7738486997586926
+                    ],
+                    [
+                        "user",
+                        0.7738486997586926
+                    ],
+                    [
+                        "software",
+                        0.7738486997586926
+                    ],
+                    [
+                        "language",
+                        0.7738486997586926
+                    ],
+                    [
+                        "naming",
+                        0.7738486997586926
+                    ],
+                    [
+                        "different",
+                        0.7738486997586926
+                    ],
+                    [
+                        "logic",
+                        0.7738486997586926
+                    ],
+                    [
+                        "application",
+                        0.8242030815820448
+                    ],
+                    [
+                        "code",
+                        0.8242030815820448
+                    ],
+                    [
+                        "input field",
+                        0.9318788453589513
+                    ],
+                    [
+                        "bit different",
+                        1.3419550453667564
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "event",
+                        0.2211492487229654
+                    ],
+                    [
+                        "button",
+                        0.2838428365943082
+                    ],
+                    [
+                        "example",
+                        0.31845042255701234
+                    ],
+                    [
+                        "click",
+                        0.3966227860147687
+                    ],
+                    [
+                        "task",
+                        0.43159209408944393
+                    ],
+                    [
+                        "thing",
+                        0.43575322899227303
+                    ],
+                    [
+                        "input",
+                        0.6945280382936727
+                    ],
+                    [
+                        "field",
+                        0.6945280382936727
+                    ],
+                    [
+                        "text",
+                        0.7738486997586926
+                    ],
+                    [
+                        "list",
+                        0.7738486997586926
+                    ],
+                    [
+                        "order",
+                        0.7738486997586926
+                    ],
+                    [
+                        "application",
+                        0.8242030815820448
+                    ],
+                    [
+                        "code",
+                        0.8242030815820448
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-990": {
+            "id": "FxQTXyR4mjs-990",
+            "heat": 0.0,
+            "start": 990.0,
+            "text": " is called event handler which means that that is the behavior that is going to happen when a certain event is raised so what i want to do now is i want to handle another event which is mouse click that event is called on click and the behavior that i want on click of this button here is i want to take text from this input field this task edit and i want to add that task to my task list box so that is the event that we are going to handle now let's close this application and as i said the event that i want to handle will be the event of this button here and i'm going to switch to this events tab and i will find event called on click and here if i want to create an event i just need to double click on this input field and as you can see two things happened the first one is that we created a function called add button click and here we are going to implement that function so here we are going to write the code of what is going to happen when add button is clicked and then this function also has been connected with this on click event which means that when that button is clicked so on click please invoke this function here and as i said here we are going to describe the behavior of that function and one tip if you're not familiar with functions i will link in",
+            "metrics": {
+                "relativeDCReadability": 0.08465156052853906,
+                "lexicalDiversity": 0.42803030303030304,
+                "posComposition": {
+                    "VBZ": 0.061,
+                    "VBN": 0.038,
+                    "NN": 0.208,
+                    "WDT": 0.015,
+                    "IN": 0.106,
+                    "DT": 0.106,
+                    "VBG": 0.027,
+                    "TO": 0.061,
+                    "VB": 0.08,
+                    "WRB": 0.011,
+                    "JJ": 0.03,
+                    "WP": 0.008,
+                    "VBP": 0.061,
+                    "RB": 0.057,
+                    "RBS": 0.004,
+                    "CC": 0.042,
+                    "PRP$": 0.004,
+                    "PRP": 0.027,
+                    "POS": 0.004,
+                    "VBD": 0.019,
+                    "MD": 0.015,
+                    "NNS": 0.011,
+                    "CD": 0.008
+                },
+                "syllableRate": 2.733,
+                "topicScores": [
+                    [
+                        "event",
+                        0.22548433797383347
+                    ],
+                    [
+                        "click",
+                        0.23192302188012803
+                    ],
+                    [
+                        "button",
+                        0.27511855577861777
+                    ],
+                    [
+                        "function",
+                        0.30523754140074116
+                    ],
+                    [
+                        "behavior",
+                        0.37193583543718334
+                    ],
+                    [
+                        "task",
+                        0.39249067182325814
+                    ],
+                    [
+                        "input",
+                        0.4815101545550216
+                    ],
+                    [
+                        "field",
+                        0.48151015455502166
+                    ],
+                    [
+                        "edit",
+                        0.7605967622042463
+                    ],
+                    [
+                        "handler",
+                        0.8008348063376419
+                    ],
+                    [
+                        "certain",
+                        0.8008348063376419
+                    ],
+                    [
+                        "mouse",
+                        0.8008348063376419
+                    ],
+                    [
+                        "text",
+                        0.8008348063376419
+                    ],
+                    [
+                        "tab",
+                        0.8131894933308433
+                    ],
+                    [
+                        "list",
+                        0.8301273692604796
+                    ],
+                    [
+                        "box",
+                        0.8301273692604796
+                    ],
+                    [
+                        "application",
+                        0.8301273692604796
+                    ],
+                    [
+                        "thing",
+                        0.856898690109016
+                    ],
+                    [
+                        "code",
+                        0.856898690109016
+                    ],
+                    [
+                        "tip",
+                        0.856898690109016
+                    ],
+                    [
+                        "familiar",
+                        0.856898690109016
+                    ],
+                    [
+                        "input field",
+                        0.8800508811544087
+                    ],
+                    [
+                        "button click",
+                        1.3287666173737382
+                    ],
+                    [
+                        "task edit",
+                        1.4817237694776406
+                    ],
+                    [
+                        "mouse click",
+                        1.797416037288877
+                    ],
+                    [
+                        "event handler",
+                        1.835730137582891
+                    ],
+                    [
+                        "certain event",
+                        1.835730137582891
+                    ],
+                    [
+                        "click event",
+                        1.845429273089598
+                    ],
+                    [
+                        "task list",
+                        1.8705482989982873
+                    ],
+                    [
+                        "event tab",
+                        1.9183794809608123
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "event",
+                        0.22548433797383347
+                    ],
+                    [
+                        "click",
+                        0.23192302188012803
+                    ],
+                    [
+                        "button",
+                        0.27511855577861777
+                    ],
+                    [
+                        "function",
+                        0.30523754140074116
+                    ],
+                    [
+                        "task",
+                        0.39249067182325814
+                    ],
+                    [
+                        "input",
+                        0.4815101545550216
+                    ],
+                    [
+                        "field",
+                        0.48151015455502166
+                    ],
+                    [
+                        "edit",
+                        0.7605967622042463
+                    ],
+                    [
+                        "text",
+                        0.8008348063376419
+                    ],
+                    [
+                        "list",
+                        0.8301273692604796
+                    ],
+                    [
+                        "application",
+                        0.8301273692604796
+                    ],
+                    [
+                        "thing",
+                        0.856898690109016
+                    ],
+                    [
+                        "code",
+                        0.856898690109016
+                    ],
+                    [
+                        "task edit",
+                        1.4817237694776406
+                    ],
+                    [
+                        "task list",
+                        1.8705482989982873
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-1080": {
+            "id": "FxQTXyR4mjs-1080",
+            "heat": 0.0,
+            "start": 1080.0,
+            "text": " the upper right corner a playlist where i explain everything that you need to know about functions and i will also link that playlist in the description of this video so make sure to watch that if you don't understand what are functions so now if you watched all of my previous videos you can see how all the things that i explained come together and make perfect sense so before i implement this function let me show you very quickly what has changed in these other files so if i open my design tab you will notice that nothing has changed in terms of design and then in this unit 1.h we have added a declaration of function called add button click okay and then inside this unit 1.cpp we are going to implement that function so once more what i want to happen when add button is clicked is the following let's move to design mode and when this button is clicked i want to take the text from this input field which is called task edit and i want to add that text to my tasks list box so that is the code that i will write in my unit 1.cpp so here i'm going to create a variable of type string and i will call it task text like this so i want to access a control called task edit so i will say task",
+            "metrics": {
+                "relativeDCReadability": 0.08260079138755547,
+                "lexicalDiversity": 0.45867768595041325,
+                "posComposition": {
+                    "DT": 0.095,
+                    "JJ": 0.062,
+                    "NN": 0.215,
+                    "WRB": 0.017,
+                    "VBP": 0.062,
+                    "IN": 0.107,
+                    "PRP": 0.041,
+                    "TO": 0.041,
+                    "VB": 0.079,
+                    "NNS": 0.029,
+                    "CC": 0.029,
+                    "MD": 0.025,
+                    "RB": 0.062,
+                    "WP": 0.012,
+                    "PRP$": 0.017,
+                    "PDT": 0.004,
+                    "WDT": 0.008,
+                    "VBD": 0.004,
+                    "VBZ": 0.029,
+                    "VBN": 0.033,
+                    "CD": 0.012,
+                    "VBG": 0.008,
+                    "JJR": 0.004,
+                    "POS": 0.004
+                },
+                "syllableRate": 2.567,
+                "topicScores": [
+                    [
+                        "function",
+                        0.2799420234964064
+                    ],
+                    [
+                        "task",
+                        0.29296934121387214
+                    ],
+                    [
+                        "button",
+                        0.3249439012155468
+                    ],
+                    [
+                        "unit",
+                        0.330905925930675
+                    ],
+                    [
+                        "design",
+                        0.35827333999623706
+                    ],
+                    [
+                        "text",
+                        0.38814625946277687
+                    ],
+                    [
+                        "edit",
+                        0.3996107650326489
+                    ],
+                    [
+                        "playlist",
+                        0.4472048850125806
+                    ],
+                    [
+                        "video",
+                        0.4472048850125806
+                    ],
+                    [
+                        "1.cpp",
+                        0.48152619004718084
+                    ],
+                    [
+                        "task edit",
+                        0.5816015412338534
+                    ],
+                    [
+                        "upper",
+                        0.6883505551357593
+                    ],
+                    [
+                        "right",
+                        0.7099221215560381
+                    ],
+                    [
+                        "corner",
+                        0.7099221215560381
+                    ],
+                    [
+                        "description",
+                        0.7099221215560381
+                    ],
+                    [
+                        "sure",
+                        0.7099221215560381
+                    ],
+                    [
+                        "previous",
+                        0.7099221215560381
+                    ],
+                    [
+                        "thing",
+                        0.7099221215560381
+                    ],
+                    [
+                        "perfect",
+                        0.7099221215560381
+                    ],
+                    [
+                        "sense",
+                        0.7099221215560381
+                    ],
+                    [
+                        "file",
+                        0.7099221215560381
+                    ],
+                    [
+                        "tab",
+                        0.7099221215560381
+                    ],
+                    [
+                        "term",
+                        0.7099221215560381
+                    ],
+                    [
+                        "declaration",
+                        0.7099221215560381
+                    ],
+                    [
+                        "following",
+                        0.7864743992242899
+                    ],
+                    [
+                        "mode",
+                        0.7864743992242899
+                    ],
+                    [
+                        "input",
+                        0.7864743992242899
+                    ],
+                    [
+                        "field",
+                        0.7864743992242899
+                    ],
+                    [
+                        "box",
+                        0.817397456901289
+                    ],
+                    [
+                        "code",
+                        0.817397456901289
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.2799420234964064
+                    ],
+                    [
+                        "task",
+                        0.29296934121387214
+                    ],
+                    [
+                        "button",
+                        0.3249439012155468
+                    ],
+                    [
+                        "text",
+                        0.38814625946277687
+                    ],
+                    [
+                        "edit",
+                        0.3996107650326489
+                    ],
+                    [
+                        "video",
+                        0.4472048850125806
+                    ],
+                    [
+                        "task edit",
+                        0.5816015412338534
+                    ],
+                    [
+                        "thing",
+                        0.7099221215560381
+                    ],
+                    [
+                        "input",
+                        0.7864743992242899
+                    ],
+                    [
+                        "field",
+                        0.7864743992242899
+                    ],
+                    [
+                        "code",
+                        0.817397456901289
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-1170": {
+            "id": "FxQTXyR4mjs-1170",
+            "heat": 0.0,
+            "start": 1170.0,
+            "text": " edit and i want to access its property called text like this and make sure to use this pointer because if you use a dot it is not going to work so again make sure to use this symbol here okay so with this we have taken the text from our task edit and we have stored that text inside this string variable that is the first step and the second step is to add this task text into our list box so i will refer to my list box and its name is tasks list box like this and i want to access the items of my tasks list box so i will say items and then what i want to do is i want to add a new item so i will use add method and that item will be this text here so i will pass a parameter which is the text from our task edit and with this we have successfully implemented the handler for add button click so if i run my program now let's see what is going to happen okay perfect so let's type for example task 1 and let's click add and as you can see this task has been added to our tasks list let's add another task okay and then third task",
+            "metrics": {
+                "relativeDCReadability": 0.07739995142752094,
+                "lexicalDiversity": 0.47345132743362833,
+                "posComposition": {
+                    "NN": 0.217,
+                    "CC": 0.053,
+                    "VBP": 0.049,
+                    "TO": 0.049,
+                    "PRP$": 0.04,
+                    "VBN": 0.027,
+                    "IN": 0.097,
+                    "DT": 0.093,
+                    "VB": 0.088,
+                    "JJ": 0.066,
+                    "PRP": 0.027,
+                    "VBZ": 0.044,
+                    "RB": 0.049,
+                    "VBG": 0.009,
+                    "WDT": 0.009,
+                    "MD": 0.027,
+                    "NNS": 0.022,
+                    "WP": 0.009,
+                    "POS": 0.018,
+                    "RP": 0.004,
+                    "CD": 0.004
+                },
+                "syllableRate": 2.317,
+                "topicScores": [
+                    [
+                        "task",
+                        0.2629139644942781
+                    ],
+                    [
+                        "text",
+                        0.3136663741088349
+                    ],
+                    [
+                        "list",
+                        0.33559293472152985
+                    ],
+                    [
+                        "box",
+                        0.37295114510455696
+                    ],
+                    [
+                        "item",
+                        0.3999420318125893
+                    ],
+                    [
+                        "edit",
+                        0.40440304896362295
+                    ],
+                    [
+                        "sure",
+                        0.532450947671358
+                    ],
+                    [
+                        "step",
+                        0.5666840890612198
+                    ],
+                    [
+                        "symbol",
+                        0.8769531384069095
+                    ],
+                    [
+                        "perfect",
+                        0.8877379489397237
+                    ],
+                    [
+                        "property",
+                        0.8887667137730709
+                    ],
+                    [
+                        "pointer",
+                        0.8887667137730709
+                    ],
+                    [
+                        "dot",
+                        0.8887667137730709
+                    ],
+                    [
+                        "button",
+                        0.9070699170602866
+                    ],
+                    [
+                        "string",
+                        0.9073283456076076
+                    ],
+                    [
+                        "variable",
+                        0.9073283456076076
+                    ],
+                    [
+                        "second",
+                        0.9073283456076076
+                    ],
+                    [
+                        "new",
+                        0.9124366185260705
+                    ],
+                    [
+                        "method",
+                        0.9124366185260705
+                    ],
+                    [
+                        "parameter",
+                        0.9162680974933965
+                    ],
+                    [
+                        "handler",
+                        0.9162680974933965
+                    ],
+                    [
+                        "program",
+                        0.9192710543410388
+                    ],
+                    [
+                        "type",
+                        0.9217026895612882
+                    ],
+                    [
+                        "example",
+                        0.9217026895612882
+                    ],
+                    [
+                        "list box",
+                        1.3004852406783505
+                    ],
+                    [
+                        "task edit",
+                        1.7556627306867407
+                    ],
+                    [
+                        "task list",
+                        1.86984082127281
+                    ],
+                    [
+                        "task text",
+                        4.0228527762984365
+                    ],
+                    [
+                        "second step",
+                        4.403590097399753
+                    ],
+                    [
+                        "string variable",
+                        4.657539837842505
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "task",
+                        0.2629139644942781
+                    ],
+                    [
+                        "text",
+                        0.3136663741088349
+                    ],
+                    [
+                        "list",
+                        0.33559293472152985
+                    ],
+                    [
+                        "item",
+                        0.3999420318125893
+                    ],
+                    [
+                        "edit",
+                        0.40440304896362295
+                    ],
+                    [
+                        "property",
+                        0.8887667137730709
+                    ],
+                    [
+                        "button",
+                        0.9070699170602866
+                    ],
+                    [
+                        "new",
+                        0.9124366185260705
+                    ],
+                    [
+                        "example",
+                        0.9217026895612882
+                    ],
+                    [
+                        "list box",
+                        1.3004852406783505
+                    ],
+                    [
+                        "task edit",
+                        1.7556627306867407
+                    ],
+                    [
+                        "task list",
+                        1.86984082127281
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-1260": {
+            "id": "FxQTXyR4mjs-1260",
+            "heat": 0.0,
+            "start": 1260.0,
+            "text": " forth and so on now one thing that i would like to happen is when i add this task i would like this text to be deleted so let's add that code as well i'm going to close the program and here after i have added the task to my tasks list box and what i want to do is i want to say that the text of my task edit is now going to be equal to an empty string like this so if i run my program again okay and if i add task 1 and click add as you can see the text has been cleared let's add another task add and again the text has been cleared so that is the first functionality and the second functionality that i want to implement is when i click a specific item of this list i want that task to be removed which means that that task has been completed so i remove it from my list okay so that is another functionality that we are going to implement and in order to implement that functionality we need to handle another event so let's switch to our design mode and the event that we want to implement is the event of this list box here and that event is called on item click so let's find that event it is here so when an item of this",
+            "metrics": {
+                "relativeDCReadability": 0.08055031110241552,
+                "lexicalDiversity": 0.43621399176954734,
+                "posComposition": {
+                    "NN": 0.206,
+                    "CC": 0.041,
+                    "RB": 0.062,
+                    "IN": 0.103,
+                    "CD": 0.008,
+                    "MD": 0.012,
+                    "VB": 0.091,
+                    "TO": 0.062,
+                    "VBZ": 0.053,
+                    "WRB": 0.012,
+                    "JJ": 0.049,
+                    "VBP": 0.058,
+                    "DT": 0.107,
+                    "VBN": 0.041,
+                    "POS": 0.016,
+                    "VBG": 0.012,
+                    "NNS": 0.008,
+                    "PRP$": 0.021,
+                    "WP": 0.004,
+                    "PRP": 0.025,
+                    "WDT": 0.008
+                },
+                "syllableRate": 2.575,
+                "topicScores": [
+                    [
+                        "task",
+                        0.255380713260116
+                    ],
+                    [
+                        "text",
+                        0.32936839252261896
+                    ],
+                    [
+                        "event",
+                        0.33794894889603877
+                    ],
+                    [
+                        "list",
+                        0.34151280903422426
+                    ],
+                    [
+                        "functionality",
+                        0.3668684888951599
+                    ],
+                    [
+                        "item",
+                        0.4179383618031282
+                    ],
+                    [
+                        "program",
+                        0.4750033921520605
+                    ],
+                    [
+                        "box",
+                        0.5099414764602049
+                    ],
+                    [
+                        "thing",
+                        0.7618469016205978
+                    ],
+                    [
+                        "code",
+                        0.7618469016205978
+                    ],
+                    [
+                        "edit",
+                        0.7618469016205978
+                    ],
+                    [
+                        "equal",
+                        0.7618469016205978
+                    ],
+                    [
+                        "string",
+                        0.7618469016205978
+                    ],
+                    [
+                        "second",
+                        0.8775978194828715
+                    ],
+                    [
+                        "specific",
+                        0.8775978194828715
+                    ],
+                    [
+                        "order",
+                        0.889054893398281
+                    ],
+                    [
+                        "design",
+                        0.889054893398281
+                    ],
+                    [
+                        "mode",
+                        0.889054893398281
+                    ],
+                    [
+                        "list box",
+                        1.1260801411189552
+                    ],
+                    [
+                        "task edit",
+                        1.6092206351033869
+                    ],
+                    [
+                        "task list",
+                        1.7928096704128658
+                    ],
+                    [
+                        "specific item",
+                        2.753240782575452
+                    ],
+                    [
+                        "second functionality",
+                        2.9615712135030314
+                    ],
+                    [
+                        "design mode",
+                        3.7714158631573036
+                    ],
+                    [
+                        "task list box",
+                        5.1608794861802405
+                    ]
+                ],
+                "topTopicSimilarity": 0.52,
+                "sharedTopicScores": [
+                    [
+                        "task",
+                        0.255380713260116
+                    ],
+                    [
+                        "text",
+                        0.32936839252261896
+                    ],
+                    [
+                        "event",
+                        0.33794894889603877
+                    ],
+                    [
+                        "list",
+                        0.34151280903422426
+                    ],
+                    [
+                        "item",
+                        0.4179383618031282
+                    ],
+                    [
+                        "thing",
+                        0.7618469016205978
+                    ],
+                    [
+                        "code",
+                        0.7618469016205978
+                    ],
+                    [
+                        "edit",
+                        0.7618469016205978
+                    ],
+                    [
+                        "order",
+                        0.889054893398281
+                    ],
+                    [
+                        "list box",
+                        1.1260801411189552
+                    ],
+                    [
+                        "task edit",
+                        1.6092206351033869
+                    ],
+                    [
+                        "task list",
+                        1.7928096704128658
+                    ],
+                    [
+                        "task list box",
+                        5.1608794861802405
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-1350": {
+            "id": "FxQTXyR4mjs-1350",
+            "heat": 0.0,
+            "start": 1350.0,
+            "text": " list box is clicked what do we want to happen so again in order to implement the event we need to double click on this field here and as you can see it has added task list box item click so it has added a method which we are going to implement here again the declaration of that method has been added inside our unit 1.h nothing has changed in terms of our design and then we are going to implement that method here so if i scroll up you are going to see that here is the implementation of our add button click event and then below it we are going to implement tasks list box item click so what do we want to happen when an item of our list is clicked the answer is we want to remove that item so how we are going to do that well we are going to use one of these two parameters that we received inside this function so if you pay attention this function has two parameters the first one is the sender and then the second one which we are going to use is called item and this item represents the exact item of our list that has been clicked so if you have a list that has three tasks for example and you click on the second one here you are going to get that second task so we need to remove",
+            "metrics": {
+                "relativeDCReadability": 0.07849343694368342,
+                "lexicalDiversity": 0.4204081632653061,
+                "posComposition": {
+                    "NN": 0.163,
+                    "VBZ": 0.057,
+                    "VBN": 0.041,
+                    "WP": 0.008,
+                    "VBP": 0.073,
+                    "PRP": 0.086,
+                    "VB": 0.069,
+                    "TO": 0.057,
+                    "RB": 0.065,
+                    "IN": 0.102,
+                    "DT": 0.082,
+                    "CC": 0.024,
+                    "MD": 0.004,
+                    "WDT": 0.016,
+                    "VBG": 0.033,
+                    "PRP$": 0.02,
+                    "CD": 0.029,
+                    "NNS": 0.02,
+                    "JJ": 0.037,
+                    "WRB": 0.008,
+                    "VBD": 0.004
+                },
+                "syllableRate": 2.7,
+                "topicScores": [
+                    [
+                        "click",
+                        0.25452230863052544
+                    ],
+                    [
+                        "list",
+                        0.2632773955286662
+                    ],
+                    [
+                        "item",
+                        0.2735168617635485
+                    ],
+                    [
+                        "box",
+                        0.3298976472045574
+                    ],
+                    [
+                        "add",
+                        0.3364454043941613
+                    ],
+                    [
+                        "task",
+                        0.3373451115893774
+                    ],
+                    [
+                        "method",
+                        0.3996741235574007
+                    ],
+                    [
+                        "second",
+                        0.4204634278663
+                    ],
+                    [
+                        "list box",
+                        0.4759207944747725
+                    ],
+                    [
+                        "event",
+                        0.490274895478235
+                    ],
+                    [
+                        "parameter",
+                        0.5280863808526136
+                    ],
+                    [
+                        "function",
+                        0.5280863808526136
+                    ],
+                    [
+                        "box item",
+                        0.7448300495509854
+                    ],
+                    [
+                        "order",
+                        0.7938444056258842
+                    ],
+                    [
+                        "field",
+                        0.7938444056258842
+                    ],
+                    [
+                        "declaration",
+                        0.7938444056258842
+                    ],
+                    [
+                        "unit",
+                        0.7938444056258842
+                    ],
+                    [
+                        "term",
+                        0.7938444056258842
+                    ],
+                    [
+                        "design",
+                        0.7938444056258842
+                    ],
+                    [
+                        "implementation",
+                        0.8239390637488961
+                    ],
+                    [
+                        "button",
+                        0.8239390637488961
+                    ],
+                    [
+                        "answer",
+                        0.8239390637488961
+                    ],
+                    [
+                        "attention",
+                        0.8406633005646407
+                    ],
+                    [
+                        "sender",
+                        0.8406633005646407
+                    ],
+                    [
+                        "exact",
+                        0.8406633005646407
+                    ],
+                    [
+                        "example",
+                        0.8406633005646407
+                    ],
+                    [
+                        "task list",
+                        0.8675046843500762
+                    ],
+                    [
+                        "task list box",
+                        1.334840885689375
+                    ],
+                    [
+                        "list box item",
+                        1.5322785117741924
+                    ],
+                    [
+                        "click event",
+                        1.6806118499274374
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "click",
+                        0.25452230863052544
+                    ],
+                    [
+                        "list",
+                        0.2632773955286662
+                    ],
+                    [
+                        "item",
+                        0.2735168617635485
+                    ],
+                    [
+                        "add",
+                        0.3364454043941613
+                    ],
+                    [
+                        "task",
+                        0.3373451115893774
+                    ],
+                    [
+                        "list box",
+                        0.4759207944747725
+                    ],
+                    [
+                        "event",
+                        0.490274895478235
+                    ],
+                    [
+                        "function",
+                        0.5280863808526136
+                    ],
+                    [
+                        "order",
+                        0.7938444056258842
+                    ],
+                    [
+                        "field",
+                        0.7938444056258842
+                    ],
+                    [
+                        "button",
+                        0.8239390637488961
+                    ],
+                    [
+                        "example",
+                        0.8406633005646407
+                    ],
+                    [
+                        "task list",
+                        0.8675046843500762
+                    ],
+                    [
+                        "task list box",
+                        1.334840885689375
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-1440": {
+            "id": "FxQTXyR4mjs-1440",
+            "heat": 0.0,
+            "start": 1440.0,
+            "text": " this item from our list now the way to remove items from a list box is by using their index so the same way that an array has indexes a list also has indexes so what we need to do is we need to ask this item hey what is your index and then we are going to tell to our list box please remove the item that has that specific index so let's do that so the first thing that i want to do is create an int variable called index and what i want to store inside this index variable is index of this item here so i am going to say item index again make sure to use this pointer because if you use dot it's not going to work okay so here we have the index of the item that has been clicked and now what we need to do is we need to remove the item with that index from our list box so in order to do that i will say tasks list box like this items delete okay and this delete method receives the index of the item that we want to delete so i'm going to say please delete the item that has this index here so with this we have",
+            "metrics": {
+                "relativeDCReadability": 0.07661745829995115,
+                "lexicalDiversity": 0.42342342342342343,
+                "posComposition": {
+                    "DT": 0.117,
+                    "NN": 0.203,
+                    "IN": 0.09,
+                    "PRP$": 0.023,
+                    "RB": 0.077,
+                    "TO": 0.068,
+                    "VB": 0.104,
+                    "NNS": 0.018,
+                    "VBZ": 0.059,
+                    "VBG": 0.023,
+                    "JJ": 0.041,
+                    "VBN": 0.018,
+                    "WP": 0.018,
+                    "PRP": 0.045,
+                    "VBP": 0.059,
+                    "CC": 0.018,
+                    "WDT": 0.014,
+                    "POS": 0.005,
+                    "MD": 0.005
+                },
+                "syllableRate": 2.358,
+                "topicScores": [
+                    [
+                        "item",
+                        0.22639810065219115
+                    ],
+                    [
+                        "index",
+                        0.22912773789994284
+                    ],
+                    [
+                        "list",
+                        0.29249561581020256
+                    ],
+                    [
+                        "box",
+                        0.3591736568138931
+                    ],
+                    [
+                        "delete",
+                        0.3724020757484913
+                    ],
+                    [
+                        "way",
+                        0.49275958682237886
+                    ],
+                    [
+                        "variable",
+                        0.5318413636689274
+                    ],
+                    [
+                        "array",
+                        0.7926623360824462
+                    ],
+                    [
+                        "specific",
+                        0.7926623360824462
+                    ],
+                    [
+                        "thing",
+                        0.851933405754681
+                    ],
+                    [
+                        "int",
+                        0.851933405754681
+                    ],
+                    [
+                        "sure",
+                        0.8748846958586294
+                    ],
+                    [
+                        "pointer",
+                        0.8748846958586294
+                    ],
+                    [
+                        "dot",
+                        0.8748846958586294
+                    ],
+                    [
+                        "order",
+                        0.887430719665738
+                    ],
+                    [
+                        "task",
+                        0.887430719665738
+                    ],
+                    [
+                        "method",
+                        0.9011801757733445
+                    ],
+                    [
+                        "list box",
+                        0.9357252839560555
+                    ],
+                    [
+                        "specific index",
+                        2.241442060927814
+                    ],
+                    [
+                        "item delete",
+                        2.3535429585609986
+                    ],
+                    [
+                        "item index",
+                        2.4251388567047663
+                    ],
+                    [
+                        "int variable",
+                        2.5478113839603327
+                    ],
+                    [
+                        "task list",
+                        2.686010575583808
+                    ],
+                    [
+                        "index variable",
+                        2.778769789343582
+                    ],
+                    [
+                        "delete method",
+                        3.5298521949794663
+                    ],
+                    [
+                        "task list box",
+                        9.82838298201057
+                    ]
+                ],
+                "topTopicSimilarity": 0.34615384615384615,
+                "sharedTopicScores": [
+                    [
+                        "item",
+                        0.22639810065219115
+                    ],
+                    [
+                        "index",
+                        0.22912773789994284
+                    ],
+                    [
+                        "list",
+                        0.29249561581020256
+                    ],
+                    [
+                        "thing",
+                        0.851933405754681
+                    ],
+                    [
+                        "order",
+                        0.887430719665738
+                    ],
+                    [
+                        "task",
+                        0.887430719665738
+                    ],
+                    [
+                        "list box",
+                        0.9357252839560555
+                    ],
+                    [
+                        "task list",
+                        2.686010575583808
+                    ],
+                    [
+                        "task list box",
+                        9.82838298201057
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-1530": {
+            "id": "FxQTXyR4mjs-1530",
+            "heat": 0.0,
+            "start": 1530.0,
+            "text": " successfully implemented item click event on our list box so if i run my program now let's see what is going to happen so let's move it here and let's add a task let's say task one add and then task two add task three okay that's enough so if i click a specific task as you can see that task is going to be removed and then this one and this one as well so those are two functionalities that i wanted to show you but this application also has some bugs and the first part that i notice is that this add button will add a new task even if this field is empty so it will add an empty task basically so if i click add at add and if i add for example task 5 as you can see that task is going to be added on this position here because here we have tasks with empty text and you can remove those tasks as you can see so that is one bug that i'm going to leave to you so that you can fix it on your own and then if you find any other way to upgrade this application and add some additional features feel free to leave your ideas in the comments section so thank you very much for watching please give this video a thumbs up for the youtube algorithm because that helps me a lot to reach more people and then also share it with someone who would like to learn programming because that way our community is going to grow faster so",
+            "metrics": {
+                "relativeDCReadability": 0.0832456707740722,
+                "lexicalDiversity": 0.46402877697841727,
+                "posComposition": {
+                    "RB": 0.09,
+                    "VBN": 0.011,
+                    "NN": 0.151,
+                    "JJ": 0.065,
+                    "IN": 0.115,
+                    "PRP$": 0.018,
+                    "VBP": 0.04,
+                    "POS": 0.007,
+                    "VB": 0.097,
+                    "WP": 0.007,
+                    "VBZ": 0.036,
+                    "VBG": 0.022,
+                    "TO": 0.04,
+                    "PRP": 0.061,
+                    "CC": 0.04,
+                    "DT": 0.101,
+                    "CD": 0.025,
+                    "NNS": 0.032,
+                    "MD": 0.029,
+                    "VBD": 0.004,
+                    "RP": 0.004,
+                    "JJR": 0.004,
+                    "RBR": 0.004
+                },
+                "syllableRate": 2.975,
+                "topicScores": [
+                    [
+                        "task",
+                        0.24537473449604155
+                    ],
+                    [
+                        "add",
+                        0.2590028073002469
+                    ],
+                    [
+                        "application",
+                        0.5416226554946371
+                    ],
+                    [
+                        "bug",
+                        0.5510683117366376
+                    ],
+                    [
+                        "way",
+                        0.5661236543490111
+                    ],
+                    [
+                        "item",
+                        0.8345061469585995
+                    ],
+                    [
+                        "event",
+                        0.8345061469585995
+                    ],
+                    [
+                        "list",
+                        0.8345061469585995
+                    ],
+                    [
+                        "box",
+                        0.8345061469585995
+                    ],
+                    [
+                        "program",
+                        0.8345061469585995
+                    ],
+                    [
+                        "specific",
+                        0.873561380489774
+                    ],
+                    [
+                        "functionality",
+                        0.873561380489774
+                    ],
+                    [
+                        "button",
+                        0.8824826162979871
+                    ],
+                    [
+                        "new",
+                        0.8824826162979871
+                    ],
+                    [
+                        "field",
+                        0.8824826162979871
+                    ],
+                    [
+                        "example",
+                        0.8887925820935146
+                    ],
+                    [
+                        "position",
+                        0.8887925820935146
+                    ],
+                    [
+                        "text",
+                        0.8887925820935146
+                    ],
+                    [
+                        "additional",
+                        0.8887925820935146
+                    ],
+                    [
+                        "feature",
+                        0.8887925820935146
+                    ],
+                    [
+                        "free",
+                        0.8887925820935146
+                    ],
+                    [
+                        "idea",
+                        0.8887925820935146
+                    ],
+                    [
+                        "comment",
+                        0.8887925820935146
+                    ],
+                    [
+                        "section",
+                        0.8887925820935146
+                    ],
+                    [
+                        "video",
+                        0.8887925820935146
+                    ],
+                    [
+                        "thumb",
+                        0.8887925820935146
+                    ],
+                    [
+                        "youtube",
+                        0.8887925820935146
+                    ],
+                    [
+                        "algorithm",
+                        0.8887925820935146
+                    ],
+                    [
+                        "lot",
+                        0.8887925820935146
+                    ],
+                    [
+                        "people",
+                        0.8887925820935146
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "task",
+                        0.24537473449604155
+                    ],
+                    [
+                        "add",
+                        0.2590028073002469
+                    ],
+                    [
+                        "application",
+                        0.5416226554946371
+                    ],
+                    [
+                        "item",
+                        0.8345061469585995
+                    ],
+                    [
+                        "event",
+                        0.8345061469585995
+                    ],
+                    [
+                        "list",
+                        0.8345061469585995
+                    ],
+                    [
+                        "button",
+                        0.8824826162979871
+                    ],
+                    [
+                        "new",
+                        0.8824826162979871
+                    ],
+                    [
+                        "field",
+                        0.8824826162979871
+                    ],
+                    [
+                        "example",
+                        0.8887925820935146
+                    ],
+                    [
+                        "text",
+                        0.8887925820935146
+                    ],
+                    [
+                        "video",
+                        0.8887925820935146
+                    ]
+                ]
+            }
+        },
+        "FxQTXyR4mjs-1620": {
+            "id": "FxQTXyR4mjs-1620",
+            "heat": 0.0,
+            "start": 1620.0,
+            "text": " that is all for this video it's currently 5 am and i have to go to sleep bye",
+            "metrics": {
+                "relativeDCReadability": 0.054651647319794654,
+                "lexicalDiversity": 0.3684210526315789,
+                "posComposition": {
+                    "DT": 0.158,
+                    "VBZ": 0.105,
+                    "IN": 0.053,
+                    "NN": 0.105,
+                    "PRP": 0.053,
+                    "RB": 0.053,
+                    "CD": 0.053,
+                    "VBP": 0.158,
+                    "CC": 0.053,
+                    "TO": 0.105,
+                    "VB": 0.105
+                },
+                "syllableRate": 0.192,
+                "topicScores": [
+                    [
+                        "sleep",
+                        0.9178022476549281
+                    ],
+                    [
+                        "video",
+                        0.9230769230769231
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "video",
+                        0.9230769230769231
+                    ]
+                ]
+            }
+        }
+    }
+}

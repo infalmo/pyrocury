@@ -1,0 +1,4600 @@
+{
+    "metadata": {
+        "id": "Vss3nofHpZI",
+        "avgHeat": 0.34,
+        "runtime": 2052.22,
+        "dale-challReadabilityScore": 7.666962886288174,
+        "lexicalDiversity": 0.4849315068493151,
+        "posComposition": {
+            "DT": 0.107,
+            "JJ": 0.058,
+            "NN": 0.125,
+            "VBZ": 0.042,
+            "VBN": 0.011,
+            "IN": 0.099,
+            "NNP": 0.036,
+            "PRP$": 0.008,
+            "MD": 0.028,
+            "VB": 0.073,
+            "VBP": 0.052,
+            "TO": 0.04,
+            "NNS": 0.054,
+            "CC": 0.033,
+            "WP": 0.015,
+            "PRP": 0.077,
+            "VBG": 0.019,
+            "RB": 0.06,
+            "WRB": 0.011,
+            "WDT": 0.009,
+            "RP": 0.004,
+            "VBD": 0.012,
+            "JJS": 0.001,
+            "CD": 0.01,
+            "POS": 0.002,
+            "JJR": 0.004,
+            "PDT": 0.0,
+            "RBR": 0.002,
+            "RBS": 0.002,
+            "NNPS": 0.0,
+            "EX": 0.005,
+            ":": 0.0,
+            "UH": 0.0
+        },
+        "syllableRate": 4.287,
+        "topicScores": [
+            [
+                "ok",
+                0.031122323019545647
+            ],
+            [
+                "price",
+                0.13545218530000994
+            ],
+            [
+                "PROFESSOR",
+                0.15219603926933978
+            ],
+            [
+                "people",
+                0.15564261055968598
+            ],
+            [
+                "model",
+                0.1581596307581998
+            ],
+            [
+                "decision",
+                0.1618698756027653
+            ],
+            [
+                "want",
+                0.16220408453260207
+            ],
+            [
+                "kidney",
+                0.16326258677748445
+            ],
+            [
+                "audience",
+                0.16857271092481124
+            ],
+            [
+                "good",
+                0.16907437165486255
+            ],
+            [
+                "economic",
+                0.1701817937044038
+            ],
+            [
+                "consumer",
+                0.17225703470721224
+            ],
+            [
+                "MIT",
+                0.17428160202360735
+            ],
+            [
+                "willing",
+                0.17489831012432244
+            ],
+            [
+                "Creative Commons",
+                0.1825643905508163
+            ],
+            [
+                "iPod",
+                0.18668401861258715
+            ],
+            [
+                "eBay",
+                0.18941195239495537
+            ],
+            [
+                "thing",
+                0.19091050105845594
+            ],
+            [
+                "kidney ok",
+                0.19616731363863454
+            ],
+            [
+                "demand",
+                0.19713838999182254
+            ],
+            [
+                "course",
+                0.19960463762273958
+            ],
+            [
+                "edition",
+                0.20362465127046783
+            ],
+            [
+                "Friday",
+                0.2083406002819865
+            ],
+            [
+                "firm",
+                0.21224099077014455
+            ],
+            [
+                "way",
+                0.21515862554644707
+            ],
+            [
+                "fact",
+                0.22000477001542101
+            ],
+            [
+                "money",
+                0.22123146720382095
+            ],
+            [
+                "semester",
+                0.2216692524053979
+            ],
+            [
+                "supply",
+                0.2281575333440695
+            ],
+            [
+                "high",
+                0.2293332459802506
+            ]
+        ],
+        "topicsList": [
+            "ok",
+            "price",
+            "PROFESSOR",
+            "people",
+            "model",
+            "decision",
+            "want",
+            "kidney",
+            "audience",
+            "good",
+            "economic",
+            "consumer",
+            "MIT",
+            "willing",
+            "Creative Commons",
+            "iPod",
+            "eBay",
+            "thing",
+            "kidney ok",
+            "demand",
+            "course",
+            "edition",
+            "Friday",
+            "firm",
+            "way",
+            "fact",
+            "money",
+            "semester",
+            "supply",
+            "high"
+        ]
+    },
+    "chunks": {
+        "Vss3nofHpZI-0": {
+            "id": "Vss3nofHpZI-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. PROFESSOR: So what I want to do today is I want to talk about what the heck this course is. What is microeconomics? What are you going to be learning in this course? And just, sort of, set us up for the semester. OK. So basically, microeconomics is all about scarcity. It's all about how individuals and firms make decisions given that we live in a world of scarcity. Scarcity is key because basically what we're going to learn about this semester in various shapes and forms is a lot of different types of constrained optimization. We're going to learn a lot about different ways that individuals make choices in a world of scarcity. OK? That is, this course is going to be about trade-offs. Given scarce resources, how the individuals and firms trade off different alternatives to make themselves as well-off as possible. That's why economics is called the dismal science. OK? It's called the dismal science because we are not about everyone have everything. We're always the people who say, no, you can't have",
+            "metrics": {
+                "relativeDCReadability": 1.1135941523666295,
+                "lexicalDiversity": 0.5132743362831859,
+                "posComposition": {
+                    "DT": 0.093,
+                    "JJ": 0.071,
+                    "NN": 0.133,
+                    "VBZ": 0.058,
+                    "VBN": 0.018,
+                    "IN": 0.128,
+                    "NNP": 0.053,
+                    "PRP$": 0.004,
+                    "MD": 0.009,
+                    "VB": 0.049,
+                    "VBP": 0.066,
+                    "TO": 0.04,
+                    "NNS": 0.093,
+                    "CC": 0.022,
+                    "WP": 0.027,
+                    "PRP": 0.058,
+                    "VBG": 0.022,
+                    "RB": 0.031,
+                    "WRB": 0.013,
+                    "WDT": 0.009,
+                    "RP": 0.004
+                },
+                "syllableRate": 3.125,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.1978348832822376
+                    ],
+                    [
+                        "MIT",
+                        0.25009271020331764
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.2519513201220507
+                    ],
+                    [
+                        "course",
+                        0.3432588367724555
+                    ],
+                    [
+                        "scarcity",
+                        0.3461693325813843
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.42644959148745976
+                    ],
+                    [
+                        "individual",
+                        0.4281683320132142
+                    ],
+                    [
+                        "different",
+                        0.438670306731984
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5086408783453973
+                    ],
+                    [
+                        "world",
+                        0.5285024500933185
+                    ],
+                    [
+                        "dismal",
+                        0.5381551294961961
+                    ],
+                    [
+                        "science",
+                        0.5421912320812468
+                    ],
+                    [
+                        "lot",
+                        0.5472118587846478
+                    ],
+                    [
+                        "semester",
+                        0.5482438411938603
+                    ],
+                    [
+                        "firm",
+                        0.5485159809360768
+                    ],
+                    [
+                        "resource",
+                        0.5510399677180319
+                    ],
+                    [
+                        "trade",
+                        0.5523564491511636
+                    ],
+                    [
+                        "MIT course",
+                        0.6629498425783052
+                    ],
+                    [
+                        "following",
+                        0.7661516589857456
+                    ],
+                    [
+                        "content",
+                        0.7804603934555189
+                    ],
+                    [
+                        "free",
+                        0.8055706715678317
+                    ],
+                    [
+                        "support",
+                        0.8313892008146615
+                    ],
+                    [
+                        "ocw.mit.edu",
+                        0.8343108091049417
+                    ],
+                    [
+                        "high",
+                        0.8425266333915624
+                    ],
+                    [
+                        "quality",
+                        0.8425266333915624
+                    ],
+                    [
+                        "educational",
+                        0.8425266333915624
+                    ],
+                    [
+                        "donation",
+                        0.8667079010277805
+                    ],
+                    [
+                        "additional",
+                        0.8667079010277805
+                    ],
+                    [
+                        "material",
+                        0.8667079010277805
+                    ],
+                    [
+                        "hundred",
+                        0.8667079010277805
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.1978348832822376
+                    ],
+                    [
+                        "MIT",
+                        0.25009271020331764
+                    ],
+                    [
+                        "course",
+                        0.3432588367724555
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5086408783453973
+                    ],
+                    [
+                        "semester",
+                        0.5482438411938603
+                    ],
+                    [
+                        "firm",
+                        0.5485159809360768
+                    ],
+                    [
+                        "high",
+                        0.8425266333915624
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-90": {
+            "id": "Vss3nofHpZI-90",
+            "heat": 0.575,
+            "start": 90.0,
+            "text": " everything. You have to make a trade-off. OK? You have to give up x to get y. And that's why people don't like us. OK? Because that's why we're called the dismal science, because we're always pointing out the trade-offs that people face. Now, some may call it dismal, but I call it fun. And that may be because of my MIT training, as I said I was an undergraduate here. In fact, MIT is the perfect place to teach microeconomics because this whole institute is about engineering solutions which are really ultimately about constrained optimization. Indeed, what's the best example in the world we have of this? It's the 270 contest. Right? You're given a pile of junk, you've got to build something that does something else. That's an exercise in constrained optimization. All engineering is really constrained optimization. How do you take the resources you're given and do the best job building something. And that's really what microeconomics is. Just like 270 is not a dismal contest, microeconomics is not to me a dismal science. You could think of this course like 270. But instead of the building robots, we're running people's lives. OK? That's, kind of, the way I like to think about this course. Instead of trying to decide how we can build something to move a ping pong ball across a table, we're trying to decide how people make their decisions to consume, and firms make their decisions to produce. That's basically what's going to go on in this class. OK? And that's why basically modern microeconomics was founded at MIT in the 1950s by Paul Samuelson. The father of modern economics was a professor here, and he basically founded the field. He basically introduced mathematics to economics. And through teaching this course, 14.01, 50, 60 years",
+            "metrics": {
+                "relativeDCReadability": 1.0489108336865587,
+                "lexicalDiversity": 0.5233644859813084,
+                "posComposition": {
+                    "NN": 0.131,
+                    "PRP": 0.075,
+                    "VBP": 0.059,
+                    "TO": 0.044,
+                    "VB": 0.059,
+                    "DT": 0.115,
+                    "JJ": 0.034,
+                    "RP": 0.006,
+                    "CC": 0.031,
+                    "VBZ": 0.056,
+                    "WRB": 0.019,
+                    "NNS": 0.059,
+                    "RB": 0.059,
+                    "NNP": 0.031,
+                    "IN": 0.09,
+                    "VBN": 0.022,
+                    "VBG": 0.022,
+                    "MD": 0.012,
+                    "PRP$": 0.009,
+                    "VBD": 0.019,
+                    "WDT": 0.006,
+                    "WP": 0.009,
+                    "JJS": 0.006,
+                    "CD": 0.022,
+                    "POS": 0.003
+                },
+                "syllableRate": 3.942,
+                "topicScores": [
+                    [
+                        "MIT",
+                        0.3096136386976273
+                    ],
+                    [
+                        "dismal",
+                        0.3640243251912312
+                    ],
+                    [
+                        "people",
+                        0.3777355247530507
+                    ],
+                    [
+                        "optimization",
+                        0.4133810127043623
+                    ],
+                    [
+                        "course",
+                        0.4359279655116951
+                    ],
+                    [
+                        "microeconomic",
+                        0.4421365154822708
+                    ],
+                    [
+                        "trade",
+                        0.5355072987140005
+                    ],
+                    [
+                        "science",
+                        0.5528822710988692
+                    ],
+                    [
+                        "contest",
+                        0.56080527646813
+                    ],
+                    [
+                        "good",
+                        0.5645165163775959
+                    ],
+                    [
+                        "decision",
+                        0.5649800338479894
+                    ],
+                    [
+                        "engineering",
+                        0.5651678086880774
+                    ],
+                    [
+                        "modern",
+                        0.5715896854081588
+                    ],
+                    [
+                        "Samuelson",
+                        0.6786365404764328
+                    ],
+                    [
+                        "Paul",
+                        0.6948403129866766
+                    ],
+                    [
+                        "y.",
+                        0.8886030402694174
+                    ],
+                    [
+                        "Paul Samuelson",
+                        0.8923052241951624
+                    ],
+                    [
+                        "right",
+                        0.8966672027508076
+                    ],
+                    [
+                        "fun",
+                        0.9055796216916577
+                    ],
+                    [
+                        "fact",
+                        0.9152305570806012
+                    ],
+                    [
+                        "training",
+                        0.9182054089672919
+                    ],
+                    [
+                        "undergraduate",
+                        0.9182054089672919
+                    ],
+                    [
+                        "year",
+                        0.9211718158445465
+                    ],
+                    [
+                        "life",
+                        0.9216771497551433
+                    ],
+                    [
+                        "class",
+                        0.9238599435049248
+                    ],
+                    [
+                        "perfect",
+                        0.9244414306260373
+                    ],
+                    [
+                        "place",
+                        0.9244414306260373
+                    ],
+                    [
+                        "institute",
+                        0.9244414306260373
+                    ],
+                    [
+                        "solution",
+                        0.9244414306260373
+                    ],
+                    [
+                        "field",
+                        0.9251844380128138
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "MIT",
+                        0.3096136386976273
+                    ],
+                    [
+                        "people",
+                        0.3777355247530507
+                    ],
+                    [
+                        "course",
+                        0.4359279655116951
+                    ],
+                    [
+                        "good",
+                        0.5645165163775959
+                    ],
+                    [
+                        "decision",
+                        0.5649800338479894
+                    ],
+                    [
+                        "fact",
+                        0.9152305570806012
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-180": {
+            "id": "Vss3nofHpZI-180",
+            "heat": 0.58,
+            "start": 180.0,
+            "text": " ago, actually developed the field that we now study. Now, what we're going to do in this class, is focused on two types of actors in the economy: consumers and producers. OK? And we are going to build models of how consumers and producers behave. Now, technically, a model is going to be a description of any relationship between two or more economic variables. OK? That's a model. A description of any relationship between two or more economic variables. The trick with economics, and the reason many of you will be frustrated during the semester, is that unlike the modern relationship between say energy and mass these models are never precise. They are never accurate to the 10th decimal. OK? This is not a precise, scientific relationship with modeling. We'll be making a number of simplifying assumptions that allow us to capture the main tendencies in the data. That allow us to capture the main insights into how individuals make consumption decisions and how firms make production decisions. But it's not going to be as clean and precise as the kind of proofs you're going to be doing in some of your other classes in freshman and sophomore year. OK? So basically, we have a trade off with the simplifying assumptions. On the one hand, obviously we want a model that can explain reality as much as possible.",
+            "metrics": {
+                "relativeDCReadability": 1.19684076375092,
+                "lexicalDiversity": 0.48068669527896996,
+                "posComposition": {
+                    "RB": 0.06,
+                    "VBD": 0.004,
+                    "DT": 0.12,
+                    "NN": 0.129,
+                    "IN": 0.133,
+                    "PRP": 0.052,
+                    "VBP": 0.064,
+                    "WP": 0.004,
+                    "VBG": 0.043,
+                    "TO": 0.034,
+                    "VB": 0.043,
+                    "VBZ": 0.026,
+                    "VBN": 0.009,
+                    "CD": 0.017,
+                    "NNS": 0.086,
+                    "CC": 0.047,
+                    "NNP": 0.013,
+                    "WRB": 0.013,
+                    "JJR": 0.009,
+                    "JJ": 0.064,
+                    "MD": 0.013,
+                    "WDT": 0.013,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 3.167,
+                "topicScores": [
+                    [
+                        "model",
+                        0.33450665370867666
+                    ],
+                    [
+                        "relationship",
+                        0.3628196534375584
+                    ],
+                    [
+                        "economic",
+                        0.41220491107564855
+                    ],
+                    [
+                        "precise",
+                        0.4420358372005943
+                    ],
+                    [
+                        "variable",
+                        0.4944665686427508
+                    ],
+                    [
+                        "producer",
+                        0.49466268408856395
+                    ],
+                    [
+                        "consumer",
+                        0.5123365093419152
+                    ],
+                    [
+                        "description",
+                        0.525885989455943
+                    ],
+                    [
+                        "assumption",
+                        0.556914471751409
+                    ],
+                    [
+                        "main",
+                        0.5579908699068056
+                    ],
+                    [
+                        "class",
+                        0.5602636519304394
+                    ],
+                    [
+                        "decision",
+                        0.561760639734321
+                    ],
+                    [
+                        "field",
+                        0.7987658729476254
+                    ],
+                    [
+                        "economy",
+                        0.8447962099259892
+                    ],
+                    [
+                        "type",
+                        0.856607774487801
+                    ],
+                    [
+                        "actor",
+                        0.856607774487801
+                    ],
+                    [
+                        "decimal",
+                        0.89139000727689
+                    ],
+                    [
+                        "modeling",
+                        0.8957698293087706
+                    ],
+                    [
+                        "datum",
+                        0.8975414624201614
+                    ],
+                    [
+                        "year",
+                        0.9005023722983152
+                    ],
+                    [
+                        "possible",
+                        0.9039296660642141
+                    ],
+                    [
+                        "trick",
+                        0.9069432932644126
+                    ],
+                    [
+                        "semester",
+                        0.9069432932644126
+                    ],
+                    [
+                        "10th",
+                        0.9093055943953224
+                    ],
+                    [
+                        "scientific",
+                        0.9130334358142987
+                    ],
+                    [
+                        "reason",
+                        0.9145038944851965
+                    ],
+                    [
+                        "modern",
+                        0.9145038944851965
+                    ],
+                    [
+                        "energy",
+                        0.9145038944851965
+                    ],
+                    [
+                        "mass",
+                        0.9145038944851965
+                    ],
+                    [
+                        "production",
+                        0.9158694118955083
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "model",
+                        0.33450665370867666
+                    ],
+                    [
+                        "economic",
+                        0.41220491107564855
+                    ],
+                    [
+                        "consumer",
+                        0.5123365093419152
+                    ],
+                    [
+                        "decision",
+                        0.561760639734321
+                    ],
+                    [
+                        "semester",
+                        0.9069432932644126
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-270": {
+            "id": "Vss3nofHpZI-270",
+            "heat": 0.569,
+            "start": 270.0,
+            "text": " If a model can't explain reality, it's not useful. On the other hand, we need a model that's tractable, a model that I can teach you in a lecture or less. OK? And basically, what we do is we make a lot of simplifying assumptions in this class to make those models work. And yet, what we'll find is despite these assumptions, we'll come up with incredibly powerful predictions of how consumers and producers behave. So with consumers what we're going to do is, we're going to say that consumers are constrained by their limited wealth or what we'll call their budget constraint. And subject to that constraint they choose the set of goods that makes them as well off as possible. OK? That's what we're going to call utility maximization. We'll say the consumers maximize their utility, consumers are going to maximize utility subject to a budget constraint. That's going to be what we're going to develop the consumer decision. They have some utility function which is going to be a model of their preferences. OK? So I'm going to propose to take everything you love in life and write it down as a u function. OK? Then I'm going to propose you take all the resources at your disposal, write them down as a budget constraint and then I just do constrained maximization to solve for how you make decisions. Firms, on the other hand, are going to maximize profits. Pi is profits. Firms are going to maximize profits. Their goal is to make as much profit as possible, to earn as",
+            "metrics": {
+                "relativeDCReadability": 1.1066065882443024,
+                "lexicalDiversity": 0.4838709677419355,
+                "posComposition": {
+                    "IN": 0.104,
+                    "DT": 0.075,
+                    "NN": 0.125,
+                    "MD": 0.022,
+                    "RB": 0.036,
+                    "VB": 0.09,
+                    "PRP": 0.09,
+                    "VBZ": 0.039,
+                    "JJ": 0.043,
+                    "VBP": 0.075,
+                    "WDT": 0.014,
+                    "CC": 0.029,
+                    "JJR": 0.004,
+                    "WP": 0.022,
+                    "VBG": 0.043,
+                    "NNS": 0.068,
+                    "TO": 0.065,
+                    "RP": 0.011,
+                    "WRB": 0.007,
+                    "VBN": 0.007,
+                    "PRP$": 0.018,
+                    "NNP": 0.011,
+                    "PDT": 0.004
+                },
+                "syllableRate": 3.408,
+                "topicScores": [
+                    [
+                        "consumer",
+                        0.31020140254481987
+                    ],
+                    [
+                        "model",
+                        0.31793124284271
+                    ],
+                    [
+                        "constraint",
+                        0.356148586122074
+                    ],
+                    [
+                        "profit",
+                        0.36992193603140966
+                    ],
+                    [
+                        "utility",
+                        0.3753368538170264
+                    ],
+                    [
+                        "budget",
+                        0.418506591471274
+                    ],
+                    [
+                        "hand",
+                        0.5459072808764834
+                    ],
+                    [
+                        "firm",
+                        0.5462532708706442
+                    ],
+                    [
+                        "assumption",
+                        0.5464575142111928
+                    ],
+                    [
+                        "decision",
+                        0.5467960712091307
+                    ],
+                    [
+                        "possible",
+                        0.5541193792088291
+                    ],
+                    [
+                        "subject",
+                        0.5544325676353867
+                    ],
+                    [
+                        "maximization",
+                        0.5634105281774912
+                    ],
+                    [
+                        "function",
+                        0.5634105281774912
+                    ],
+                    [
+                        "useful",
+                        0.7749043126277235
+                    ],
+                    [
+                        "reality",
+                        0.8006139614580685
+                    ],
+                    [
+                        "tractable",
+                        0.8580190783289452
+                    ],
+                    [
+                        "lecture",
+                        0.866651268408127
+                    ],
+                    [
+                        "lot",
+                        0.8990382909795315
+                    ],
+                    [
+                        "class",
+                        0.8990382909795315
+                    ],
+                    [
+                        "producer",
+                        0.8999960244651084
+                    ],
+                    [
+                        "powerful",
+                        0.9063546324458454
+                    ],
+                    [
+                        "prediction",
+                        0.9063546324458454
+                    ],
+                    [
+                        "preference",
+                        0.9090345995058284
+                    ],
+                    [
+                        "limited",
+                        0.9115113440803303
+                    ],
+                    [
+                        "wealth",
+                        0.9115113440803303
+                    ],
+                    [
+                        "set",
+                        0.9153795551419246
+                    ],
+                    [
+                        "good",
+                        0.9153795551419246
+                    ],
+                    [
+                        "Pi",
+                        0.9170915201023175
+                    ],
+                    [
+                        "disposal",
+                        0.925645699128054
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "consumer",
+                        0.31020140254481987
+                    ],
+                    [
+                        "model",
+                        0.31793124284271
+                    ],
+                    [
+                        "firm",
+                        0.5462532708706442
+                    ],
+                    [
+                        "decision",
+                        0.5467960712091307
+                    ],
+                    [
+                        "good",
+                        0.9153795551419246
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-360": {
+            "id": "Vss3nofHpZI-360",
+            "heat": 0.547,
+            "start": 360.0,
+            "text": " much money as possible. OK? However, that's going to be subject to both the demands of consumers, we get to firms it's a lot harder, subject to both consumer demand and input costs. So firms have to consider, consumers have to consider look what does stuff cost and what do I like, I'll make my decision. Firms is a little more complicated. They've go to consider, what do consumers want and how do I make what they want? So they've got to consider both the output side, what a consumer is going to want me to make and what's it going to cost me to produce that good? And how do I combine those to make the most profits? OK? So from these assumptions, we will be able to answer the three fundamental questions of microeconomics. OK? The three fundamental questions of microeconomics will be, what goods and services should be produced? What goods and services should be produced? How to produce those goods and services? And who gets the goods and services? What goods and services get produced?",
+            "metrics": {
+                "relativeDCReadability": 1.0714219898299102,
+                "lexicalDiversity": 0.4702702702702703,
+                "posComposition": {
+                    "JJ": 0.049,
+                    "NN": 0.054,
+                    "IN": 0.043,
+                    "RB": 0.022,
+                    "DT": 0.092,
+                    "VBZ": 0.038,
+                    "VBG": 0.016,
+                    "TO": 0.081,
+                    "VB": 0.124,
+                    "NNS": 0.124,
+                    "PRP": 0.07,
+                    "VBP": 0.07,
+                    "RBR": 0.011,
+                    "CC": 0.059,
+                    "WP": 0.054,
+                    "MD": 0.027,
+                    "PRP$": 0.005,
+                    "NNP": 0.011,
+                    "WRB": 0.011,
+                    "VBN": 0.022,
+                    "RBS": 0.005,
+                    "CD": 0.011
+                },
+                "syllableRate": 2.217,
+                "topicScores": [
+                    [
+                        "good",
+                        0.2917064962482483
+                    ],
+                    [
+                        "service",
+                        0.3160040422504168
+                    ],
+                    [
+                        "consumer",
+                        0.34750850715793347
+                    ],
+                    [
+                        "firm",
+                        0.43669199872800013
+                    ],
+                    [
+                        "cost",
+                        0.4474920511008554
+                    ],
+                    [
+                        "subject",
+                        0.5519786453251211
+                    ],
+                    [
+                        "fundamental",
+                        0.5546925111493283
+                    ],
+                    [
+                        "question",
+                        0.5546925111493283
+                    ],
+                    [
+                        "microeconomic",
+                        0.5607118528997591
+                    ],
+                    [
+                        "demand",
+                        0.5651659051414295
+                    ],
+                    [
+                        "possible",
+                        0.847162502015759
+                    ],
+                    [
+                        "money",
+                        0.8724991124710323
+                    ],
+                    [
+                        "decision",
+                        0.8919449932356696
+                    ],
+                    [
+                        "complicated",
+                        0.8978057235053616
+                    ],
+                    [
+                        "lot",
+                        0.9036237862332293
+                    ],
+                    [
+                        "hard",
+                        0.9036237862332293
+                    ],
+                    [
+                        "input",
+                        0.9036237862332293
+                    ],
+                    [
+                        "profit",
+                        0.9084647340591316
+                    ],
+                    [
+                        "stuff",
+                        0.9182696300546795
+                    ],
+                    [
+                        "output",
+                        0.9221932891037545
+                    ],
+                    [
+                        "assumption",
+                        0.928148865128438
+                    ],
+                    [
+                        "able",
+                        0.9343906295570733
+                    ],
+                    [
+                        "fundamental question",
+                        2.1476924391761854
+                    ],
+                    [
+                        "consumer demand",
+                        4.119387047085803
+                    ],
+                    [
+                        "input cost",
+                        4.228181991476468
+                    ],
+                    [
+                        "lot hard",
+                        4.450659046834257
+                    ],
+                    [
+                        "stuff cost",
+                        4.612828874915388
+                    ]
+                ],
+                "topTopicSimilarity": 0.2222222222222222,
+                "sharedTopicScores": [
+                    [
+                        "good",
+                        0.2917064962482483
+                    ],
+                    [
+                        "consumer",
+                        0.34750850715793347
+                    ],
+                    [
+                        "firm",
+                        0.43669199872800013
+                    ],
+                    [
+                        "demand",
+                        0.5651659051414295
+                    ],
+                    [
+                        "money",
+                        0.8724991124710323
+                    ],
+                    [
+                        "decision",
+                        0.8919449932356696
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-450": {
+            "id": "Vss3nofHpZI-450",
+            "heat": 0.28,
+            "start": 450.0,
+            "text": " How to produce those goods and services? And who gets them? And what's amazing, we'll learn in this course, is that all three of these questions, the three fundamental questions that drive our entire economy, are all solved through the role of one key state variable, which is prices. Prices in the economy resolve all of these problems. OK? Consumers and firms will interact in a market, they'll interact in a marketplace. And out of that marketplace will emerge a set of prices, in a way we'll describe. And those prices will allow firms and consumers to make the relevant decisions. OK? So let me just give you one, and we're going to do all this rigorously throughout the semester, let me just start with one casual example. OK? Let's think about the development of the iPod. OK? Let's cast our minds way back, lo way back to the development of the iPod. OK? Now, when Apple was thinking about making the iPod, they had to ask, would consumers want this? So consumers had to decide given their limited resources, given the fact that they were buying a certain set of things would they be willing to forsake some things they were already doing to spend the money on the iPod? OK? It was a non-trivial amount of money. Would they be willing to forsake things they are already doing? OK? To spend money on the iPod. And clearly they were.",
+            "metrics": {
+                "relativeDCReadability": 1.0583065750471932,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "WRB": 0.008,
+                    "TO": 0.04,
+                    "VB": 0.097,
+                    "DT": 0.133,
+                    "NNS": 0.081,
+                    "CC": 0.036,
+                    "WP": 0.008,
+                    "VBZ": 0.016,
+                    "PRP": 0.065,
+                    "VBG": 0.028,
+                    "MD": 0.032,
+                    "IN": 0.101,
+                    "NN": 0.109,
+                    "CD": 0.02,
+                    "JJ": 0.048,
+                    "WDT": 0.008,
+                    "VBP": 0.028,
+                    "PRP$": 0.012,
+                    "VBN": 0.012,
+                    "NNPS": 0.004,
+                    "RB": 0.04,
+                    "NNP": 0.036,
+                    "POS": 0.008,
+                    "VBD": 0.028
+                },
+                "syllableRate": 3.008,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.10678077047322534
+                    ],
+                    [
+                        "iPod",
+                        0.32636180791389213
+                    ],
+                    [
+                        "price",
+                        0.37839781526153804
+                    ],
+                    [
+                        "consumer",
+                        0.39076036349913357
+                    ],
+                    [
+                        "money",
+                        0.4480419330675389
+                    ],
+                    [
+                        "thing",
+                        0.45338742549810784
+                    ],
+                    [
+                        "way",
+                        0.4566253401926387
+                    ],
+                    [
+                        "economy",
+                        0.5595457310133506
+                    ],
+                    [
+                        "question",
+                        0.5607921766874501
+                    ],
+                    [
+                        "willing",
+                        0.5623888765704069
+                    ],
+                    [
+                        "development",
+                        0.5664097305353712
+                    ],
+                    [
+                        "marketplace",
+                        0.5681478404247766
+                    ],
+                    [
+                        "set",
+                        0.5728130047501969
+                    ],
+                    [
+                        "firm",
+                        0.5777718197404238
+                    ],
+                    [
+                        "Apple",
+                        0.7006292832048886
+                    ],
+                    [
+                        "service",
+                        0.7876805921682386
+                    ],
+                    [
+                        "good",
+                        0.836995207881732
+                    ],
+                    [
+                        "problem",
+                        0.8843939022446966
+                    ],
+                    [
+                        "amazing",
+                        0.8944722453131314
+                    ],
+                    [
+                        "course",
+                        0.8944722453131314
+                    ],
+                    [
+                        "entire",
+                        0.8944722453131314
+                    ],
+                    [
+                        "state",
+                        0.8944722453131314
+                    ],
+                    [
+                        "variable",
+                        0.8944722453131314
+                    ],
+                    [
+                        "fundamental",
+                        0.903771106536438
+                    ],
+                    [
+                        "role",
+                        0.903771106536438
+                    ],
+                    [
+                        "key",
+                        0.903771106536438
+                    ],
+                    [
+                        "decision",
+                        0.9062843002477435
+                    ],
+                    [
+                        "example",
+                        0.9113820403637253
+                    ],
+                    [
+                        "relevant",
+                        0.9235465111714823
+                    ],
+                    [
+                        "semester",
+                        0.9277800858776264
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.10678077047322534
+                    ],
+                    [
+                        "iPod",
+                        0.32636180791389213
+                    ],
+                    [
+                        "price",
+                        0.37839781526153804
+                    ],
+                    [
+                        "consumer",
+                        0.39076036349913357
+                    ],
+                    [
+                        "money",
+                        0.4480419330675389
+                    ],
+                    [
+                        "thing",
+                        0.45338742549810784
+                    ],
+                    [
+                        "way",
+                        0.4566253401926387
+                    ],
+                    [
+                        "willing",
+                        0.5623888765704069
+                    ],
+                    [
+                        "firm",
+                        0.5777718197404238
+                    ],
+                    [
+                        "good",
+                        0.836995207881732
+                    ],
+                    [
+                        "course",
+                        0.8944722453131314
+                    ],
+                    [
+                        "decision",
+                        0.9062843002477435
+                    ],
+                    [
+                        "semester",
+                        0.9277800858776264
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-540": {
+            "id": "Vss3nofHpZI-540",
+            "heat": 0.254,
+            "start": 540.0,
+            "text": " Clearly, consumers were willing to spend money, to spend a lot of money, to get an iPod. They were originally what? $300 Back when $300 meant something. OK. So basically, what the firm will do is they'll say, OK, we get a signal from the consumer that they're willing to pay money to get the iPod. They're willing to pay a high price to get the iPod. Now, the firm will say, well, should we make iPods? Well, that will depend on what it cost to make them. So we have to then assess what are the inputs that we'll need to make an iPod? Well, to do that we have to look at the prices of the various inputs that we'll need, of the chip in them and the metal and all the other stuff that goes into the iPod. OK? So they can shop across different countries, to different kinds of chips, they can look at different kinds of monitors, et cetera. But, once again, what they'll do is they'll use the prices of those different inputs to decide how to produce the iPod. So whether to produce the iPod will depend on the price people are willing to pay for it. How to make the iPod will depend on the prices that firms have to pay for the chip and the casing and all the other things that go into the iPod. OK? And then finally, who's going to get the iPod? Well, they're going to make a certain amount. What decided who gets them? Well, the person who gets them are the people who are willing to pay the price that Apple decides to charge.",
+            "metrics": {
+                "relativeDCReadability": 0.883662914470005,
+                "lexicalDiversity": 0.4548611111111111,
+                "posComposition": {
+                    "JJ": 0.059,
+                    "NNS": 0.059,
+                    "VBD": 0.014,
+                    "TO": 0.08,
+                    "VB": 0.122,
+                    "NN": 0.101,
+                    "DT": 0.115,
+                    "IN": 0.087,
+                    "PRP": 0.073,
+                    "RB": 0.042,
+                    "WP": 0.031,
+                    "CD": 0.007,
+                    "WRB": 0.007,
+                    "NNP": 0.035,
+                    "MD": 0.045,
+                    "VBZ": 0.024,
+                    "VBP": 0.045,
+                    "WDT": 0.021,
+                    "CC": 0.021,
+                    "PDT": 0.007,
+                    "VBG": 0.007
+                },
+                "syllableRate": 3.117,
+                "topicScores": [
+                    [
+                        "iPod",
+                        0.2027710080213162
+                    ],
+                    [
+                        "willing",
+                        0.3032491887211953
+                    ],
+                    [
+                        "price",
+                        0.30574907384065714
+                    ],
+                    [
+                        "different",
+                        0.38121339647142466
+                    ],
+                    [
+                        "money",
+                        0.39435048878940443
+                    ],
+                    [
+                        "firm",
+                        0.434426792164623
+                    ],
+                    [
+                        "chip",
+                        0.43467467543840355
+                    ],
+                    [
+                        "input",
+                        0.43583144383294586
+                    ],
+                    [
+                        "consumer",
+                        0.5381496282136056
+                    ],
+                    [
+                        "people",
+                        0.5672747931374934
+                    ],
+                    [
+                        "kind",
+                        0.5698957018314443
+                    ],
+                    [
+                        "Apple",
+                        0.693653239665637
+                    ],
+                    [
+                        "lot",
+                        0.8259051440425799
+                    ],
+                    [
+                        "cetera",
+                        0.9133709444195895
+                    ],
+                    [
+                        "signal",
+                        0.914034635425008
+                    ],
+                    [
+                        "high",
+                        0.9188063224872305
+                    ],
+                    [
+                        "country",
+                        0.9281806342005903
+                    ],
+                    [
+                        "monitor",
+                        0.9281806342005903
+                    ],
+                    [
+                        "metal",
+                        0.9293341790121322
+                    ],
+                    [
+                        "stuff",
+                        0.9293341790121322
+                    ],
+                    [
+                        "certain",
+                        0.9339901137430668
+                    ],
+                    [
+                        "person",
+                        0.9352834826560403
+                    ],
+                    [
+                        "casing",
+                        0.9354934116022222
+                    ],
+                    [
+                        "thing",
+                        0.9354934116022222
+                    ],
+                    [
+                        "different kind",
+                        2.516222670046474
+                    ],
+                    [
+                        "different input",
+                        3.3773731307574826
+                    ],
+                    [
+                        "price people",
+                        3.3811034247277
+                    ],
+                    [
+                        "high price",
+                        3.7315750381714987
+                    ],
+                    [
+                        "different country",
+                        4.604726975038973
+                    ],
+                    [
+                        "et cetera",
+                        5.3965799943787385
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "iPod",
+                        0.2027710080213162
+                    ],
+                    [
+                        "willing",
+                        0.3032491887211953
+                    ],
+                    [
+                        "price",
+                        0.30574907384065714
+                    ],
+                    [
+                        "money",
+                        0.39435048878940443
+                    ],
+                    [
+                        "firm",
+                        0.434426792164623
+                    ],
+                    [
+                        "consumer",
+                        0.5381496282136056
+                    ],
+                    [
+                        "people",
+                        0.5672747931374934
+                    ],
+                    [
+                        "high",
+                        0.9188063224872305
+                    ],
+                    [
+                        "thing",
+                        0.9354934116022222
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-630": {
+            "id": "Vss3nofHpZI-630",
+            "heat": 0.393,
+            "start": 630.0,
+            "text": " Some people are willing to pay that price, they're going to get an iPod. Some people are not willing to pay that price, they will not get an iPod. So the price in the market will ultimately decide who gets the iPod, as well. OK? So basically, prices will determine what gets produced, how it's produced, and who gets the goods that are produced. OK? Of course, this is a very, very simplified example, as you can already tell. There are lots of cases where prices don't decide these things. So my favorite example is the fact that there are lines for hours to get tickets to see a Lady Gaga concert. OK? Now if it's really true that prices determine everything, we shouldn't see any lines. It should just be that those who are willing to pay the most to see Lady Gaga should. Those who want the most to get Lady Gaga should get the tickets. Those who aren't willing to pay shouldn't get the tickets. Why should there be a line? Not to mention the fact that people shouldn't be willing to pay anything, but that's a different issue. That's a taste issue. We'll come to taste later. OK? So basically, clearly this is not working perfectly. If the world worked in the way I just described, then what should happen is there should be essentially an auction and whoever is willing to pay the most for Lady Gaga tickets would get them. And whoever is not willing to pay wouldn't. It wouldn't involve any waiting in line or other things. Now, what's very interesting is we've actually seen an evolution from my youth to your youth towards the economic model.",
+            "metrics": {
+                "relativeDCReadability": 0.8657640066796621,
+                "lexicalDiversity": 0.47491638795986624,
+                "posComposition": {
+                    "DT": 0.12,
+                    "NNS": 0.06,
+                    "VBP": 0.04,
+                    "JJ": 0.054,
+                    "TO": 0.05,
+                    "VB": 0.1,
+                    "NN": 0.09,
+                    "PRP": 0.04,
+                    "VBG": 0.01,
+                    "RB": 0.117,
+                    "MD": 0.057,
+                    "IN": 0.057,
+                    "WP": 0.03,
+                    "VBZ": 0.05,
+                    "NNP": 0.04,
+                    "VBD": 0.01,
+                    "WRB": 0.01,
+                    "VBN": 0.01,
+                    "CC": 0.017,
+                    "WDT": 0.007,
+                    "EX": 0.01,
+                    "PRP$": 0.01,
+                    "RBS": 0.01
+                },
+                "syllableRate": 3.408,
+                "topicScores": [
+                    [
+                        "Lady Gaga",
+                        0.23076432559468754
+                    ],
+                    [
+                        "willing",
+                        0.24016564341993307
+                    ],
+                    [
+                        "price",
+                        0.2933050030088122
+                    ],
+                    [
+                        "iPod",
+                        0.36618733406917797
+                    ],
+                    [
+                        "ticket",
+                        0.36991442688890236
+                    ],
+                    [
+                        "line",
+                        0.37734481023584404
+                    ],
+                    [
+                        "people",
+                        0.4192599972262903
+                    ],
+                    [
+                        "issue",
+                        0.5473146309498506
+                    ],
+                    [
+                        "thing",
+                        0.5535697233135469
+                    ],
+                    [
+                        "fact",
+                        0.5626733771537646
+                    ],
+                    [
+                        "example",
+                        0.562688330800679
+                    ],
+                    [
+                        "taste",
+                        0.5704477866937842
+                    ],
+                    [
+                        "youth",
+                        0.5838539650163322
+                    ],
+                    [
+                        "market",
+                        0.8947533301226969
+                    ],
+                    [
+                        "simplified",
+                        0.9102539270333587
+                    ],
+                    [
+                        "concert",
+                        0.9102772244924773
+                    ],
+                    [
+                        "good",
+                        0.9124144162824998
+                    ],
+                    [
+                        "lot",
+                        0.9237567545323161
+                    ],
+                    [
+                        "case",
+                        0.9237567545323161
+                    ],
+                    [
+                        "favorite",
+                        0.9260641430834107
+                    ],
+                    [
+                        "hour",
+                        0.9260641430834107
+                    ],
+                    [
+                        "model",
+                        0.9267472149359169
+                    ],
+                    [
+                        "true",
+                        0.92960179343074
+                    ],
+                    [
+                        "different",
+                        0.9308708721872297
+                    ],
+                    [
+                        "economic",
+                        0.9358770931736057
+                    ],
+                    [
+                        "world",
+                        0.9383927965356993
+                    ],
+                    [
+                        "way",
+                        0.9383927965356993
+                    ],
+                    [
+                        "auction",
+                        0.9383927965356993
+                    ],
+                    [
+                        "interesting",
+                        0.9398277651791023
+                    ],
+                    [
+                        "evolution",
+                        0.9398277651791023
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "willing",
+                        0.24016564341993307
+                    ],
+                    [
+                        "price",
+                        0.2933050030088122
+                    ],
+                    [
+                        "iPod",
+                        0.36618733406917797
+                    ],
+                    [
+                        "people",
+                        0.4192599972262903
+                    ],
+                    [
+                        "thing",
+                        0.5535697233135469
+                    ],
+                    [
+                        "fact",
+                        0.5626733771537646
+                    ],
+                    [
+                        "good",
+                        0.9124144162824998
+                    ],
+                    [
+                        "model",
+                        0.9267472149359169
+                    ],
+                    [
+                        "economic",
+                        0.9358770931736057
+                    ],
+                    [
+                        "way",
+                        0.9383927965356993
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-720": {
+            "id": "Vss3nofHpZI-720",
+            "heat": 0.445,
+            "start": 720.0,
+            "text": " When I was a kid, if you wanted, so then it was Cars tickets, OK, to date myself, OK, you had to go and camp out at 3:00 in the morning outside the store where they're selling them to get the tickets. Now, of course, you don't do that anymore. Now you go on Stub Hub or Ticketmaster or these other secondary sellers and there there are prices that determine it. So how many people have waited on line to get a concert ticket? That's amazing. So if I asked this question 30 years ago, 90% of the hands would have gone up. OK? So what that means is the price mechanism has started to be used. It has replaced the line mechanism as a way to allocate those tickets. And we see prices working. That wasn't true. There wasn't StubHub. There weren't these secondary ticket sellers 30 years ago. You had to wait on line to get the tickets. Now, so that's basically, sort of, an overview about, sort of an example, of how we think about the role of prices. Now, let me draw a couple of important distinctions, terms I'm going to use this semester that I want you to be comfortable with. OK? The first distinction I want to draw is between theoretical versus empirical economics. Theoretical versus empirical economics. OK. Theoretical economics is the process of building models to",
+            "metrics": {
+                "relativeDCReadability": 1.0078786854185493,
+                "lexicalDiversity": 0.4793388429752066,
+                "posComposition": {
+                    "WRB": 0.017,
+                    "PRP": 0.083,
+                    "VBD": 0.037,
+                    "DT": 0.107,
+                    "NN": 0.12,
+                    "IN": 0.099,
+                    "RB": 0.062,
+                    "NNP": 0.041,
+                    "NNS": 0.074,
+                    "VBP": 0.054,
+                    "TO": 0.05,
+                    "VB": 0.058,
+                    "CC": 0.021,
+                    "CD": 0.017,
+                    "VBG": 0.012,
+                    "JJ": 0.058,
+                    "EX": 0.017,
+                    "WDT": 0.008,
+                    "VBN": 0.021,
+                    "VBZ": 0.033,
+                    "MD": 0.004,
+                    "RP": 0.004,
+                    "WP": 0.004
+                },
+                "syllableRate": 2.925,
+                "topicScores": [
+                    [
+                        "ticket",
+                        0.3079424765138526
+                    ],
+                    [
+                        "price",
+                        0.3823467203256468
+                    ],
+                    [
+                        "Cars",
+                        0.41712530686474697
+                    ],
+                    [
+                        "line",
+                        0.4347149762316165
+                    ],
+                    [
+                        "economic",
+                        0.4359332851510109
+                    ],
+                    [
+                        "theoretical",
+                        0.44066938745112416
+                    ],
+                    [
+                        "Stub Hub",
+                        0.50579116587253
+                    ],
+                    [
+                        "year",
+                        0.5485181100740669
+                    ],
+                    [
+                        "empirical",
+                        0.5502190942500503
+                    ],
+                    [
+                        "secondary",
+                        0.5589559734566633
+                    ],
+                    [
+                        "Cars ticket",
+                        0.5639819319854645
+                    ],
+                    [
+                        "seller",
+                        0.5658051738366513
+                    ],
+                    [
+                        "mechanism",
+                        0.5668094619591302
+                    ],
+                    [
+                        "distinction",
+                        0.5776937100132302
+                    ],
+                    [
+                        "Ticketmaster",
+                        0.5795664638177256
+                    ],
+                    [
+                        "date",
+                        0.7953826001491514
+                    ],
+                    [
+                        "kid",
+                        0.8101094325549653
+                    ],
+                    [
+                        "morning",
+                        0.823410193038567
+                    ],
+                    [
+                        "store",
+                        0.823410193038567
+                    ],
+                    [
+                        "course",
+                        0.8540192483108713
+                    ],
+                    [
+                        "amazing",
+                        0.8876686348240524
+                    ],
+                    [
+                        "concert",
+                        0.8979301005891345
+                    ],
+                    [
+                        "people",
+                        0.9057948406119444
+                    ],
+                    [
+                        "true",
+                        0.9092289099476444
+                    ],
+                    [
+                        "StubHub",
+                        0.9109906332778672
+                    ],
+                    [
+                        "question",
+                        0.9175097620977368
+                    ],
+                    [
+                        "hand",
+                        0.9175097620977368
+                    ],
+                    [
+                        "overview",
+                        0.9223783041066551
+                    ],
+                    [
+                        "way",
+                        0.9262823594262142
+                    ],
+                    [
+                        "example",
+                        0.9287833261862619
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "price",
+                        0.3823467203256468
+                    ],
+                    [
+                        "economic",
+                        0.4359332851510109
+                    ],
+                    [
+                        "course",
+                        0.8540192483108713
+                    ],
+                    [
+                        "people",
+                        0.9057948406119444
+                    ],
+                    [
+                        "way",
+                        0.9262823594262142
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-810": {
+            "id": "Vss3nofHpZI-810",
+            "heat": 0.418,
+            "start": 810.0,
+            "text": " explain the world. OK? Empirical economics is the process of testing those models to see how good a job they do in explaining the world. OK? We could all make up a model. OK? Anybody with math skills could make up a model. But it doesn't do any good unless it's actually doing something to explain the world. And so basically, the goal of theoretical economics is essentially to build a model that has some testable predictions. To build a model that says, look here's my simplified model of how consumers decide whether or not to buy an iPod. OK? I have a model of that, that I've built theoretically. Well, that has some testable predictions. And the role of empirical economics is to gather the data and go and test them using statistical methods. Specifically, typically regression analysis like the kind you learn about in advanced statistics. OK? So basically, what we're going to do is we're going to is 95% of this course will be about theoretical economics this semester. It will be about understanding how economists develop the models to model how consumers and firms behave. But I will try to talk somewhat about empirical economics and what data we can bring to bear to understand whether or not",
+            "metrics": {
+                "relativeDCReadability": 1.1745814898745166,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "VB": 0.096,
+                    "DT": 0.11,
+                    "NN": 0.101,
+                    "NNP": 0.023,
+                    "NNS": 0.073,
+                    "VBZ": 0.046,
+                    "IN": 0.087,
+                    "VBG": 0.032,
+                    "TO": 0.055,
+                    "WRB": 0.018,
+                    "JJ": 0.06,
+                    "PRP": 0.06,
+                    "VBP": 0.046,
+                    "MD": 0.028,
+                    "RP": 0.009,
+                    "CC": 0.046,
+                    "RB": 0.064,
+                    "WDT": 0.014,
+                    "POS": 0.005,
+                    "PRP$": 0.005,
+                    "VBN": 0.005,
+                    "WP": 0.014,
+                    "CD": 0.005
+                },
+                "syllableRate": 2.925,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.1317121506749972
+                    ],
+                    [
+                        "model",
+                        0.27084330767025516
+                    ],
+                    [
+                        "economic",
+                        0.3416061710641727
+                    ],
+                    [
+                        "world",
+                        0.35654472461612774
+                    ],
+                    [
+                        "empirical",
+                        0.44248547050526416
+                    ],
+                    [
+                        "prediction",
+                        0.5226816823251037
+                    ],
+                    [
+                        "testable",
+                        0.5422056042863089
+                    ],
+                    [
+                        "good",
+                        0.5732602493103549
+                    ],
+                    [
+                        "theoretical",
+                        0.5774650040293435
+                    ],
+                    [
+                        "consumer",
+                        0.5782177645254204
+                    ],
+                    [
+                        "datum",
+                        0.5853139901564847
+                    ],
+                    [
+                        "iPod",
+                        0.9043187298332276
+                    ],
+                    [
+                        "process",
+                        0.9063123628878011
+                    ],
+                    [
+                        "job",
+                        0.9063123628878011
+                    ],
+                    [
+                        "method",
+                        0.9104736048947845
+                    ],
+                    [
+                        "statistic",
+                        0.9116152258305096
+                    ],
+                    [
+                        "semester",
+                        0.9135903880228756
+                    ],
+                    [
+                        "goal",
+                        0.9210861715482924
+                    ],
+                    [
+                        "math",
+                        0.924407173924134
+                    ],
+                    [
+                        "skill",
+                        0.924407173924134
+                    ],
+                    [
+                        "advanced",
+                        0.9288452029857348
+                    ],
+                    [
+                        "simplified",
+                        0.9302061170737949
+                    ],
+                    [
+                        "firm",
+                        0.9311715488801873
+                    ],
+                    [
+                        "role",
+                        0.9348157712072133
+                    ],
+                    [
+                        "analysis",
+                        0.93566891845028
+                    ],
+                    [
+                        "kind",
+                        0.93566891845028
+                    ],
+                    [
+                        "course",
+                        0.9371436086232569
+                    ],
+                    [
+                        "economist",
+                        0.9377871114044236
+                    ],
+                    [
+                        "testable prediction",
+                        1.559290789455836
+                    ],
+                    [
+                        "empirical economic",
+                        1.7879523542838953
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.1317121506749972
+                    ],
+                    [
+                        "model",
+                        0.27084330767025516
+                    ],
+                    [
+                        "economic",
+                        0.3416061710641727
+                    ],
+                    [
+                        "good",
+                        0.5732602493103549
+                    ],
+                    [
+                        "consumer",
+                        0.5782177645254204
+                    ],
+                    [
+                        "iPod",
+                        0.9043187298332276
+                    ],
+                    [
+                        "semester",
+                        0.9135903880228756
+                    ],
+                    [
+                        "firm",
+                        0.9311715488801873
+                    ],
+                    [
+                        "course",
+                        0.9371436086232569
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-900": {
+            "id": "Vss3nofHpZI-900",
+            "heat": 0.55,
+            "start": 900.0,
+            "text": " these models explain the world. OK? The other distinction that's very important is positive versus normative economics. Positive versus normative economics. And this is the distinction between the way things are, which is positive economics, and the way things should be which is normative economics. Distinction between the way things are and the way things should be. OK? So let's consider a great example of microeconomics at work which is auctions on eBay. OK? Auctions on eBay, economists love studying auctions on eBay because it's a textbook example of what we call a perfectly competitive market which is what we'll focus on the semester. A perfectly competitive market. OK? And by that we mean that basically that producers in this market offer up their good to a wide range of consumers. OK? A number of producers offer up their goods to a wide range of consumers. OK? And the consumers bid up the price until the person who has the highest value for the good gets it. So price serves exactly the signal it should in allocating goods. OK? So really eBay's really sort of about this third thing of",
+            "metrics": {
+                "relativeDCReadability": 1.1548307853959283,
+                "lexicalDiversity": 0.517948717948718,
+                "posComposition": {
+                    "DT": 0.133,
+                    "NNS": 0.108,
+                    "VBP": 0.051,
+                    "NN": 0.154,
+                    "IN": 0.118,
+                    "JJ": 0.097,
+                    "WDT": 0.026,
+                    "VBZ": 0.051,
+                    "RB": 0.036,
+                    "CC": 0.026,
+                    "MD": 0.021,
+                    "VB": 0.021,
+                    "NNP": 0.046,
+                    "POS": 0.01,
+                    "VBG": 0.01,
+                    "PRP": 0.031,
+                    "WP": 0.015,
+                    "RP": 0.015,
+                    "PRP$": 0.01,
+                    "TO": 0.01,
+                    "VBD": 0.005,
+                    "JJS": 0.005
+                },
+                "syllableRate": 2.592,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.10117923867454029
+                    ],
+                    [
+                        "thing",
+                        0.3186441918735384
+                    ],
+                    [
+                        "way",
+                        0.34329202833005223
+                    ],
+                    [
+                        "economic",
+                        0.3451910816542542
+                    ],
+                    [
+                        "eBay",
+                        0.37983958893819997
+                    ],
+                    [
+                        "good",
+                        0.38262802039540517
+                    ],
+                    [
+                        "normative",
+                        0.397893844105017
+                    ],
+                    [
+                        "positive",
+                        0.41161290024758923
+                    ],
+                    [
+                        "distinction",
+                        0.42238547059855447
+                    ],
+                    [
+                        "auction",
+                        0.43328849517770424
+                    ],
+                    [
+                        "consumer",
+                        0.4408982255007081
+                    ],
+                    [
+                        "market",
+                        0.44533883218498055
+                    ],
+                    [
+                        "competitive",
+                        0.550023586612225
+                    ],
+                    [
+                        "wide",
+                        0.552568566663991
+                    ],
+                    [
+                        "range",
+                        0.552568566663991
+                    ],
+                    [
+                        "example",
+                        0.5634433088266123
+                    ],
+                    [
+                        "price",
+                        0.5807197908243511
+                    ],
+                    [
+                        "producer",
+                        0.5820853517709961
+                    ],
+                    [
+                        "world",
+                        0.7719602909724661
+                    ],
+                    [
+                        "model",
+                        0.8087432303252
+                    ],
+                    [
+                        "way thing",
+                        0.8233223086436764
+                    ],
+                    [
+                        "normative economic",
+                        0.880570534229671
+                    ],
+                    [
+                        "important",
+                        0.8955059671272971
+                    ],
+                    [
+                        "semester",
+                        0.9037009531870176
+                    ],
+                    [
+                        "economist",
+                        0.9213977402698452
+                    ],
+                    [
+                        "great",
+                        0.9243195261965084
+                    ],
+                    [
+                        "microeconomic",
+                        0.9243195261965084
+                    ],
+                    [
+                        "work",
+                        0.9243195261965084
+                    ],
+                    [
+                        "number",
+                        0.9281952657332695
+                    ],
+                    [
+                        "textbook",
+                        0.9285136088850807
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.10117923867454029
+                    ],
+                    [
+                        "thing",
+                        0.3186441918735384
+                    ],
+                    [
+                        "way",
+                        0.34329202833005223
+                    ],
+                    [
+                        "economic",
+                        0.3451910816542542
+                    ],
+                    [
+                        "eBay",
+                        0.37983958893819997
+                    ],
+                    [
+                        "good",
+                        0.38262802039540517
+                    ],
+                    [
+                        "consumer",
+                        0.4408982255007081
+                    ],
+                    [
+                        "price",
+                        0.5807197908243511
+                    ],
+                    [
+                        "model",
+                        0.8087432303252
+                    ],
+                    [
+                        "semester",
+                        0.9037009531870176
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-990": {
+            "id": "Vss3nofHpZI-990",
+            "heat": 0.35,
+            "start": 990.0,
+            "text": " who gets the good. OK? I offer my alarm clock or whatever on eBay, OK, and then people bid on that. And whoever values that the most, that rare Jon Gruber alarm clock the most, they get it. OK? So it's a perfect textbook example. OK? And basically, because on eBay the price is used, or now with also StubHub and concert tickets, the price is used to allocate the good to the person who wants it the most. OK? Now, a recent example of an auction on eBay that a lot of attention, not so recent anymore a couple years ago, someone tried to auction their kidney on eBay. OK? Someone offered their kidney for auction on eBay and said, I have two kidneys I only need one. So I'm going to auction my kidney, you pay for me to fly to wherever you need my kidney and the operation, they take it out and they give it to you. And that's the way it goes. So what happened was person offered their kidney and they said the starting price will be $25,000. They didn't do a buy it now. They said the starting price will be $25,000 and the bidding went on. The price got to $5 million before eBay shot it down. eBay shut the auction down. And eBay said no, in fact, you can't do this. Now there's two questions here. The first is, why did the price of the kidney go so high? That's the positive question. The positive question is, why did the price the kidney on eBay get so high?",
+            "metrics": {
+                "relativeDCReadability": 1.0216971476321446,
+                "lexicalDiversity": 0.4744525547445255,
+                "posComposition": {
+                    "WP": 0.011,
+                    "VBZ": 0.04,
+                    "DT": 0.12,
+                    "JJ": 0.051,
+                    "NN": 0.172,
+                    "PRP": 0.084,
+                    "VBP": 0.044,
+                    "PRP$": 0.022,
+                    "CC": 0.047,
+                    "WDT": 0.007,
+                    "IN": 0.073,
+                    "NNP": 0.033,
+                    "RB": 0.073,
+                    "NNS": 0.022,
+                    "VB": 0.044,
+                    "RBS": 0.011,
+                    "VBN": 0.007,
+                    "TO": 0.029,
+                    "VBD": 0.051,
+                    "CD": 0.026,
+                    "VBG": 0.004,
+                    "RP": 0.007,
+                    "MD": 0.011,
+                    "EX": 0.004,
+                    "WRB": 0.007
+                },
+                "syllableRate": 2.992,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.1730213466605128
+                    ],
+                    [
+                        "eBay",
+                        0.26347477426265276
+                    ],
+                    [
+                        "price",
+                        0.2770577048215123
+                    ],
+                    [
+                        "kidney",
+                        0.2812107068949556
+                    ],
+                    [
+                        "auction",
+                        0.34493060691793553
+                    ],
+                    [
+                        "question",
+                        0.4443388647192849
+                    ],
+                    [
+                        "good",
+                        0.5527547279026361
+                    ],
+                    [
+                        "clock",
+                        0.5564765412610753
+                    ],
+                    [
+                        "alarm",
+                        0.5564765412610754
+                    ],
+                    [
+                        "high",
+                        0.5587544466782561
+                    ],
+                    [
+                        "starting",
+                        0.561425393388556
+                    ],
+                    [
+                        "example",
+                        0.5681670486529166
+                    ],
+                    [
+                        "positive",
+                        0.5684208005306949
+                    ],
+                    [
+                        "person",
+                        0.5788617660787216
+                    ],
+                    [
+                        "recent",
+                        0.5793088673116357
+                    ],
+                    [
+                        "Jon",
+                        0.6194476001912332
+                    ],
+                    [
+                        "Gruber",
+                        0.6194476001912332
+                    ],
+                    [
+                        "Jon Gruber",
+                        0.6226267627236561
+                    ],
+                    [
+                        "people",
+                        0.913847107685089
+                    ],
+                    [
+                        "rare",
+                        0.9146776950847594
+                    ],
+                    [
+                        "textbook",
+                        0.922968668475169
+                    ],
+                    [
+                        "perfect",
+                        0.9279834760691814
+                    ],
+                    [
+                        "concert",
+                        0.9280025350970587
+                    ],
+                    [
+                        "ticket",
+                        0.9280025350970587
+                    ],
+                    [
+                        "attention",
+                        0.9314543031161693
+                    ],
+                    [
+                        "year",
+                        0.9314543031161693
+                    ],
+                    [
+                        "StubHub",
+                        0.9327135242648221
+                    ],
+                    [
+                        "operation",
+                        0.9350532796979074
+                    ],
+                    [
+                        "fact",
+                        0.9356296821450925
+                    ],
+                    [
+                        "lot",
+                        0.9359550211066696
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.1730213466605128
+                    ],
+                    [
+                        "eBay",
+                        0.26347477426265276
+                    ],
+                    [
+                        "price",
+                        0.2770577048215123
+                    ],
+                    [
+                        "kidney",
+                        0.2812107068949556
+                    ],
+                    [
+                        "good",
+                        0.5527547279026361
+                    ],
+                    [
+                        "high",
+                        0.5587544466782561
+                    ],
+                    [
+                        "people",
+                        0.913847107685089
+                    ],
+                    [
+                        "fact",
+                        0.9356296821450925
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1080": {
+            "id": "Vss3nofHpZI-1080",
+            "heat": 0.366,
+            "start": 1080.0,
+            "text": " And here, we'll talk, and you'll learn more starting Friday, about the twin forces of supply and demand. The twin forces that drive the economy of supply and demand. And you'll talk more rigorously about these on Friday. Basically, they're what they sound like. Demand is how much someone wants something. Supply is how much of it there is to have. And the intuition here is surprising. OK? The more that there's demand for a good, the higher will be the upward pressure on prices. The more people want a good, the higher prices will go. And the less supply there is of a good, also the higher prices will go. So if everybody wants something but it's common, the price will be low. And if no one wants something but it's uncommon, the price will still be low, and vice versa. In fact, the development of the model of supply and demand framework was from Adam Smith, the, sort of, so-called first economist who wrote The Wealth of Nations in 1776 which is, sort of, viewed as the, kind of, first serious book about economics. And he posed what he called the water diamond paradox. What Smith said in that book is, look, it's clear water is the most important thing in life. We can't live without water. And diamonds are completely irrelevant to life. You can live totally fine without a diamond. And yet, the price of diamonds is astronomical and water's free. How can this be?",
+            "metrics": {
+                "relativeDCReadability": 0.9372722196401189,
+                "lexicalDiversity": 0.5019305019305019,
+                "posComposition": {
+                    "CC": 0.062,
+                    "RB": 0.039,
+                    "PRP": 0.05,
+                    "MD": 0.042,
+                    "VB": 0.046,
+                    "JJR": 0.023,
+                    "JJ": 0.089,
+                    "NNP": 0.039,
+                    "IN": 0.116,
+                    "DT": 0.112,
+                    "NN": 0.166,
+                    "NNS": 0.035,
+                    "WDT": 0.008,
+                    "VBP": 0.023,
+                    "RBR": 0.008,
+                    "WP": 0.015,
+                    "VBZ": 0.062,
+                    "WRB": 0.012,
+                    "EX": 0.012,
+                    "TO": 0.008,
+                    "VBD": 0.019,
+                    "CD": 0.004,
+                    "VBN": 0.004,
+                    "RBS": 0.004,
+                    "POS": 0.004
+                },
+                "syllableRate": 2.933,
+                "topicScores": [
+                    [
+                        "price",
+                        0.2916793620795474
+                    ],
+                    [
+                        "demand",
+                        0.3158006678546061
+                    ],
+                    [
+                        "supply",
+                        0.3218732567182839
+                    ],
+                    [
+                        "Friday",
+                        0.3298956341971605
+                    ],
+                    [
+                        "diamond",
+                        0.3832215953776675
+                    ],
+                    [
+                        "water",
+                        0.39008858898842097
+                    ],
+                    [
+                        "Smith",
+                        0.4157535527664391
+                    ],
+                    [
+                        "high",
+                        0.4194895471150759
+                    ],
+                    [
+                        "good",
+                        0.4280971548101891
+                    ],
+                    [
+                        "twin",
+                        0.5177444842355835
+                    ],
+                    [
+                        "force",
+                        0.5249263118680297
+                    ],
+                    [
+                        "life",
+                        0.5573824504647905
+                    ],
+                    [
+                        "low",
+                        0.5602849234963286
+                    ],
+                    [
+                        "book",
+                        0.5755117843211424
+                    ],
+                    [
+                        "Adam",
+                        0.6795284461084325
+                    ],
+                    [
+                        "Wealth",
+                        0.6889407184235234
+                    ],
+                    [
+                        "Nations",
+                        0.6889407184235234
+                    ],
+                    [
+                        "Adam Smith",
+                        0.8108654130126399
+                    ],
+                    [
+                        "economy",
+                        0.8971543550983275
+                    ],
+                    [
+                        "surprising",
+                        0.9076028954837152
+                    ],
+                    [
+                        "economic",
+                        0.9201253934898377
+                    ],
+                    [
+                        "paradox",
+                        0.9211545952293612
+                    ],
+                    [
+                        "vice",
+                        0.9248547384965797
+                    ],
+                    [
+                        "free",
+                        0.9250884425320159
+                    ],
+                    [
+                        "intuition",
+                        0.9255511697910739
+                    ],
+                    [
+                        "fact",
+                        0.9259236842207867
+                    ],
+                    [
+                        "common",
+                        0.9290059782608946
+                    ],
+                    [
+                        "upward",
+                        0.9296821894524304
+                    ],
+                    [
+                        "pressure",
+                        0.9296821894524304
+                    ],
+                    [
+                        "uncommon",
+                        0.9301278594473478
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "price",
+                        0.2916793620795474
+                    ],
+                    [
+                        "demand",
+                        0.3158006678546061
+                    ],
+                    [
+                        "supply",
+                        0.3218732567182839
+                    ],
+                    [
+                        "Friday",
+                        0.3298956341971605
+                    ],
+                    [
+                        "high",
+                        0.4194895471150759
+                    ],
+                    [
+                        "good",
+                        0.4280971548101891
+                    ],
+                    [
+                        "economic",
+                        0.9201253934898377
+                    ],
+                    [
+                        "fact",
+                        0.9259236842207867
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1170": {
+            "id": "Vss3nofHpZI-1170",
+            "heat": 0.617,
+            "start": 1170.0,
+            "text": " How can it be that water which is so much more of a fundamental building block of our life is so much cheaper than diamonds which are not. And the answer, of course, is that so far you've only considered demand and not supply. Yes, it's true. The demand for water is much higher than the demand for diamonds. But the supply is even larger. So that basically, yes it's true that while water should be worth more, in fact, in the end the price of water is much lower, because of the twin forces of demand and supply. The demand is higher, but the supply is much higher. So the price ends up lower. And that was his diamond water paradox. OK? Well, in this case, it's a similar thing. What determines the demand for a kidney? What determines the demand for a kidney is going to be the fact that you die without it. OK? If you have no kidneys, you're having kidney failure. OK? You'll die without it. So basically, what will determine it is people are willing to spend all their wealth, as much money as they can have, to get a kidney OK? So the demand will be quite high. The supply will be quite low. Sadly, not many people are willing to be organ donors. More relevantly, a lot of people aren't in good situations to be organ donors. OK? As a result, the supply is much lower than the demand. So we have a situation with a high demand, a low supply and the price went through the roof. That's a positive analysis. OK? So we can understand pretty intuitively. We don't need this course to understand why the price went up. OK? It's just the twin powers of demand and supply. But what about the normative question which is, should eBay",
+            "metrics": {
+                "relativeDCReadability": 0.9931704250534084,
+                "lexicalDiversity": 0.4608150470219436,
+                "posComposition": {
+                    "WRB": 0.006,
+                    "MD": 0.028,
+                    "PRP": 0.053,
+                    "VB": 0.056,
+                    "IN": 0.129,
+                    "NN": 0.169,
+                    "WDT": 0.013,
+                    "VBZ": 0.069,
+                    "RB": 0.078,
+                    "JJ": 0.063,
+                    "JJR": 0.031,
+                    "DT": 0.122,
+                    "PRP$": 0.009,
+                    "NNS": 0.031,
+                    "VBP": 0.034,
+                    "CC": 0.028,
+                    "VBN": 0.003,
+                    "NNP": 0.022,
+                    "RP": 0.003,
+                    "VBD": 0.009,
+                    "WP": 0.013,
+                    "VBG": 0.006,
+                    "TO": 0.019,
+                    "RBR": 0.003
+                },
+                "syllableRate": 3.658,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.152416163264854
+                    ],
+                    [
+                        "demand",
+                        0.22709949046967975
+                    ],
+                    [
+                        "supply",
+                        0.254044045347357
+                    ],
+                    [
+                        "water",
+                        0.3222833263122775
+                    ],
+                    [
+                        "high",
+                        0.3285136264206147
+                    ],
+                    [
+                        "kidney",
+                        0.3323228633670594
+                    ],
+                    [
+                        "low",
+                        0.3742150078811092
+                    ],
+                    [
+                        "price",
+                        0.37580201068281205
+                    ],
+                    [
+                        "diamond",
+                        0.43074973358951885
+                    ],
+                    [
+                        "people",
+                        0.44615679735068403
+                    ],
+                    [
+                        "true",
+                        0.5402256822605822
+                    ],
+                    [
+                        "donor",
+                        0.554274082192279
+                    ],
+                    [
+                        "organ",
+                        0.5618526746892483
+                    ],
+                    [
+                        "end",
+                        0.5629960944874035
+                    ],
+                    [
+                        "fact",
+                        0.5667140968731535
+                    ],
+                    [
+                        "willing",
+                        0.5688374395009647
+                    ],
+                    [
+                        "twin",
+                        0.572534614151368
+                    ],
+                    [
+                        "course",
+                        0.5732405608788723
+                    ],
+                    [
+                        "situation",
+                        0.5820578386495668
+                    ],
+                    [
+                        "kidney ok",
+                        0.646892215422603
+                    ],
+                    [
+                        "fundamental",
+                        0.8394350560969408
+                    ],
+                    [
+                        "building",
+                        0.8394350560969408
+                    ],
+                    [
+                        "block",
+                        0.8394350560969408
+                    ],
+                    [
+                        "life",
+                        0.8394350560969408
+                    ],
+                    [
+                        "cheap",
+                        0.8394350560969408
+                    ],
+                    [
+                        "answer",
+                        0.8814764339715023
+                    ],
+                    [
+                        "large",
+                        0.907799017561459
+                    ],
+                    [
+                        "worth",
+                        0.9217991762613615
+                    ],
+                    [
+                        "paradox",
+                        0.9221066228833097
+                    ],
+                    [
+                        "force",
+                        0.9257652937054239
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.152416163264854
+                    ],
+                    [
+                        "demand",
+                        0.22709949046967975
+                    ],
+                    [
+                        "supply",
+                        0.254044045347357
+                    ],
+                    [
+                        "high",
+                        0.3285136264206147
+                    ],
+                    [
+                        "kidney",
+                        0.3323228633670594
+                    ],
+                    [
+                        "price",
+                        0.37580201068281205
+                    ],
+                    [
+                        "people",
+                        0.44615679735068403
+                    ],
+                    [
+                        "fact",
+                        0.5667140968731535
+                    ],
+                    [
+                        "willing",
+                        0.5688374395009647
+                    ],
+                    [
+                        "course",
+                        0.5732405608788723
+                    ],
+                    [
+                        "kidney ok",
+                        0.646892215422603
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1260": {
+            "id": "Vss3nofHpZI-1260",
+            "heat": 0.69,
+            "start": 1260.0,
+            "text": " have allowed this sale to happen? EBay at $5 million cut it off and then passed the rule saying you can't auction your body parts on eBay. OK? Should they have done that? That's the normative question. That's economics gets really interesting, which is you all are smart enough to figure out why the price went up. But this is where it gets interesting is should people have been able to auction their kidney on eBay? On the one hand, many, many people in this country die for want of a body part. OK? Thousands to hundreds of thousands of people die every year waiting for a transplant. OK? If someone is incredibly rich and they want a body part, which to me a surplus because I have two kidneys, why shouldn't they be allowed to buy it from me? I'm better off because they can pay me a ton of money. They are better off because they live. So I've just described a transaction that makes both parties better off. Why shouldn't that be allowed to happen? So you tell me. Does everyone think eBay was wrong? Yeah, go ahead. AUDIENCE: Say there is another person who doesn't have as much money, and that person also dies. PROFESSOR: You mean the person who, what do you mean the person doesn't have as much- AUDIENCE: --so obviously somebody doesn't get the kidney.",
+            "metrics": {
+                "relativeDCReadability": 0.8391006970826003,
+                "lexicalDiversity": 0.4897119341563786,
+                "posComposition": {
+                    "VBP": 0.066,
+                    "VBN": 0.025,
+                    "DT": 0.091,
+                    "NN": 0.128,
+                    "TO": 0.029,
+                    "VB": 0.058,
+                    "NNP": 0.041,
+                    "IN": 0.086,
+                    "CD": 0.016,
+                    "VBD": 0.016,
+                    "PRP": 0.086,
+                    "RP": 0.016,
+                    "CC": 0.016,
+                    "RB": 0.078,
+                    "VBG": 0.008,
+                    "MD": 0.021,
+                    "PRP$": 0.008,
+                    "NNS": 0.037,
+                    "VBZ": 0.07,
+                    "JJ": 0.049,
+                    "WDT": 0.012,
+                    "WRB": 0.016,
+                    "JJR": 0.004,
+                    "EX": 0.004,
+                    "WP": 0.012,
+                    ":": 0.004
+                },
+                "syllableRate": 2.767,
+                "topicScores": [
+                    [
+                        "person",
+                        0.39220217142027647
+                    ],
+                    [
+                        "audience",
+                        0.43146349821569646
+                    ],
+                    [
+                        "body",
+                        0.4334004580948893
+                    ],
+                    [
+                        "well",
+                        0.4401586531095524
+                    ],
+                    [
+                        "eBay",
+                        0.44267224922407855
+                    ],
+                    [
+                        "kidney",
+                        0.4554187138549975
+                    ],
+                    [
+                        "people",
+                        0.45649444237262893
+                    ],
+                    [
+                        "interesting",
+                        0.5632357112540634
+                    ],
+                    [
+                        "money",
+                        0.5726529100545781
+                    ],
+                    [
+                        "want",
+                        0.5739933115281171
+                    ],
+                    [
+                        "thousand",
+                        0.5755634213657732
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6271780548640742
+                    ],
+                    [
+                        "sale",
+                        0.8747196085036287
+                    ],
+                    [
+                        "question",
+                        0.8869751504633094
+                    ],
+                    [
+                        "rule",
+                        0.8945759632153268
+                    ],
+                    [
+                        "transplant",
+                        0.9033493070458996
+                    ],
+                    [
+                        "normative",
+                        0.908526549240797
+                    ],
+                    [
+                        "wrong",
+                        0.913576452216382
+                    ],
+                    [
+                        "hand",
+                        0.9181692805852241
+                    ],
+                    [
+                        "economic",
+                        0.9207691049256629
+                    ],
+                    [
+                        "smart",
+                        0.9207691049256629
+                    ],
+                    [
+                        "price",
+                        0.9207691049256629
+                    ],
+                    [
+                        "able",
+                        0.9236240934201964
+                    ],
+                    [
+                        "country",
+                        0.9259351748654328
+                    ],
+                    [
+                        "hundred",
+                        0.9294785261085204
+                    ],
+                    [
+                        "year",
+                        0.9294785261085204
+                    ],
+                    [
+                        "rich",
+                        0.9320972525524183
+                    ],
+                    [
+                        "surplus",
+                        0.9320972525524183
+                    ],
+                    [
+                        "much-",
+                        0.9328059779448611
+                    ],
+                    [
+                        "--so",
+                        0.9328059779448612
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "audience",
+                        0.43146349821569646
+                    ],
+                    [
+                        "eBay",
+                        0.44267224922407855
+                    ],
+                    [
+                        "kidney",
+                        0.4554187138549975
+                    ],
+                    [
+                        "people",
+                        0.45649444237262893
+                    ],
+                    [
+                        "money",
+                        0.5726529100545781
+                    ],
+                    [
+                        "want",
+                        0.5739933115281171
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6271780548640742
+                    ],
+                    [
+                        "economic",
+                        0.9207691049256629
+                    ],
+                    [
+                        "price",
+                        0.9207691049256629
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1350": {
+            "id": "Vss3nofHpZI-1350",
+            "heat": 1.0,
+            "start": 1350.0,
+            "text": " PROFESSOR: So in other words, what you're assuming is, let's say that if I hadn't done the auction on eBay, I would have just given my kidney away to the transplant center. Then that's one less kidney that can go to the transplant center. And that means the rich guy gets the kidney, and someone else implicitly doesn't. That's a trade-off. You've just described a trade-off. The trade-off is that basically now we've allocated the kidney away from the poor person to the rich person. Now, but why do we care about that? I mean one person dies, another person lives, why do we care? Yeah? AUDIENCE: There would be some sort of case of severity in condition. Like there might be someone who's poor who would get the kidney if it went to a transplant association because they would die in a couple of days without it. Whereas the rich person might just be able to afford it, and it might make their life more convenient. But they might not be in any more peril. PROFESSOR: They might be a collector. So basically, that's right. So one reason we might care is because we think that kidneys should be allocated on the basis of who needs it the most. OK? So a great example of this, of course, was Mickey Mantle with a liver transplant. Mickey Mantle, famous ballplayer, raging alcoholic, who had liver failure because he was basically drinking himself to death, and jumped the queue and got a liver above a bunch, a lot of people and then he kept drinking and killed himself and wasted the liver he'd gotten. OK? So basically, you can think that doesn't make sense.",
+            "metrics": {
+                "relativeDCReadability": 0.9777873244164749,
+                "lexicalDiversity": 0.49491525423728816,
+                "posComposition": {
+                    "NNP": 0.047,
+                    "IN": 0.095,
+                    "JJ": 0.044,
+                    "NNS": 0.014,
+                    "WP": 0.017,
+                    "PRP": 0.081,
+                    "VBP": 0.024,
+                    "VBG": 0.01,
+                    "VBZ": 0.051,
+                    "NN": 0.166,
+                    "POS": 0.003,
+                    "VB": 0.064,
+                    "VBD": 0.031,
+                    "RB": 0.064,
+                    "VBN": 0.024,
+                    "DT": 0.115,
+                    "MD": 0.047,
+                    "PRP$": 0.007,
+                    "TO": 0.02,
+                    "CD": 0.01,
+                    "JJR": 0.007,
+                    "WDT": 0.003,
+                    "CC": 0.034,
+                    "WRB": 0.007,
+                    "EX": 0.007,
+                    "RBR": 0.003,
+                    "RBS": 0.003
+                },
+                "syllableRate": 3.375,
+                "topicScores": [
+                    [
+                        "kidney",
+                        0.317775139127896
+                    ],
+                    [
+                        "person",
+                        0.3401689066860097
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.34956289028317467
+                    ],
+                    [
+                        "transplant",
+                        0.36141037529020814
+                    ],
+                    [
+                        "liver",
+                        0.39754164858207586
+                    ],
+                    [
+                        "trade",
+                        0.41108098509245483
+                    ],
+                    [
+                        "Mantle",
+                        0.4228267063714345
+                    ],
+                    [
+                        "rich",
+                        0.43629149318764476
+                    ],
+                    [
+                        "Mickey",
+                        0.4729689768585796
+                    ],
+                    [
+                        "center",
+                        0.4744416610819376
+                    ],
+                    [
+                        "poor",
+                        0.5760921287967657
+                    ],
+                    [
+                        "audience",
+                        0.6006396133598605
+                    ],
+                    [
+                        "Mickey Mantle",
+                        0.6369670158650148
+                    ],
+                    [
+                        "word",
+                        0.8678065369808103
+                    ],
+                    [
+                        "eBay",
+                        0.8678065369808103
+                    ],
+                    [
+                        "auction",
+                        0.8776761728435568
+                    ],
+                    [
+                        "guy",
+                        0.9076707930412312
+                    ],
+                    [
+                        "condition",
+                        0.9127730830775298
+                    ],
+                    [
+                        "convenient",
+                        0.9156167645900989
+                    ],
+                    [
+                        "peril",
+                        0.9168053000668311
+                    ],
+                    [
+                        "collector",
+                        0.9188403500271578
+                    ],
+                    [
+                        "right",
+                        0.9197210868881411
+                    ],
+                    [
+                        "sense",
+                        0.9237438295643183
+                    ],
+                    [
+                        "course",
+                        0.9286954688038166
+                    ],
+                    [
+                        "famous",
+                        0.9292821305493457
+                    ],
+                    [
+                        "ballplayer",
+                        0.9292821305493457
+                    ],
+                    [
+                        "alcoholic",
+                        0.9292821305493457
+                    ],
+                    [
+                        "sort",
+                        0.932610487885986
+                    ],
+                    [
+                        "case",
+                        0.932610487885986
+                    ],
+                    [
+                        "severity",
+                        0.932610487885986
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "kidney",
+                        0.317775139127896
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.34956289028317467
+                    ],
+                    [
+                        "audience",
+                        0.6006396133598605
+                    ],
+                    [
+                        "eBay",
+                        0.8678065369808103
+                    ],
+                    [
+                        "course",
+                        0.9286954688038166
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1440": {
+            "id": "Vss3nofHpZI-1440",
+            "heat": 0.85,
+            "start": 1440.0,
+            "text": " We should give it to people who need it the most. For who it would do the most good in terms of increasing their life. OK. So we've got the substitution point. OK. Let's come back to the substitution point though. Tell me a situation in which that's wrong. Can someone tell me a situation in which, in fact, that not a valid point. Yeah. AUDIENCE: Well, if the guy is only going to sell it. He's not going to give it away. PROFESSOR: Exactly. You're assuming that the guy who did sell would give it away. But, in fact, if it's sell it or keep it then there's no trade-off. And similar here, if it's sell it or keep it then you might as well let the rich guy get it. Or is there another argument? Is there another reason why you might not want this to happen? Yeah. AUDIENCE: It would encourage people to use illegal ways of getting kidneys. PROFESSOR: So the other reason could be that we don't trust people to make good decisions when money's involved. That we think that, gee, if it's really true I can get a couple million bucks for a kidney, I might give mine up even if I haven't really thought through the ramifications of doing so. Even if there's a risk to the surgery, if there's a risk that my other kidney will then fail then I'll be screwed. OK? So basically, we might have a paternalistic attitude that will lead us to not want to allow people to engage in this kind of risky behavior. Yeah? AUDIENCE: There may also be some legal ramifications",
+            "metrics": {
+                "relativeDCReadability": 0.9513059148755348,
+                "lexicalDiversity": 0.49140893470790376,
+                "posComposition": {
+                    "PRP": 0.107,
+                    "MD": 0.048,
+                    "VB": 0.107,
+                    "TO": 0.038,
+                    "NNS": 0.038,
+                    "WP": 0.01,
+                    "VBP": 0.021,
+                    "DT": 0.086,
+                    "RBS": 0.007,
+                    "IN": 0.096,
+                    "JJ": 0.045,
+                    "VBG": 0.021,
+                    "PRP$": 0.007,
+                    "NN": 0.103,
+                    "NNP": 0.065,
+                    "VBD": 0.007,
+                    "POS": 0.007,
+                    "RB": 0.093,
+                    "WDT": 0.01,
+                    "VBZ": 0.038,
+                    "CC": 0.014,
+                    "EX": 0.014,
+                    "WRB": 0.007,
+                    "VBN": 0.01,
+                    "CD": 0.003
+                },
+                "syllableRate": 3.25,
+                "topicScores": [
+                    [
+                        "audience",
+                        0.24652472920419363
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.34544834984302986
+                    ],
+                    [
+                        "people",
+                        0.3838345786210589
+                    ],
+                    [
+                        "point",
+                        0.41326659150263556
+                    ],
+                    [
+                        "guy",
+                        0.4453657122082531
+                    ],
+                    [
+                        "kidney",
+                        0.45037246967876204
+                    ],
+                    [
+                        "substitution",
+                        0.5382754255122164
+                    ],
+                    [
+                        "situation",
+                        0.538331396473306
+                    ],
+                    [
+                        "fact",
+                        0.5478896190261037
+                    ],
+                    [
+                        "good",
+                        0.5738132268326022
+                    ],
+                    [
+                        "risk",
+                        0.5748505894004414
+                    ],
+                    [
+                        "ramification",
+                        0.5753321669869481
+                    ],
+                    [
+                        "reason",
+                        0.5791173823439217
+                    ],
+                    [
+                        "life",
+                        0.8438870049433118
+                    ],
+                    [
+                        "term",
+                        0.8724731116038219
+                    ],
+                    [
+                        "wrong",
+                        0.899973709506348
+                    ],
+                    [
+                        "valid",
+                        0.9165839400022466
+                    ],
+                    [
+                        "argument",
+                        0.9194516650284579
+                    ],
+                    [
+                        "similar",
+                        0.9244702838833602
+                    ],
+                    [
+                        "behavior",
+                        0.9254001812287675
+                    ],
+                    [
+                        "trade",
+                        0.9289215661058569
+                    ],
+                    [
+                        "rich",
+                        0.9345401015115431
+                    ],
+                    [
+                        "surgery",
+                        0.9349420493865227
+                    ],
+                    [
+                        "legal",
+                        0.9367546155186334
+                    ],
+                    [
+                        "illegal",
+                        0.9376174477073481
+                    ],
+                    [
+                        "way",
+                        0.9376174477073481
+                    ],
+                    [
+                        "decision",
+                        0.9385584658451733
+                    ],
+                    [
+                        "money",
+                        0.9385584658451733
+                    ],
+                    [
+                        "true",
+                        0.9389846179671706
+                    ],
+                    [
+                        "couple",
+                        0.9389846179671706
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "audience",
+                        0.24652472920419363
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.34544834984302986
+                    ],
+                    [
+                        "people",
+                        0.3838345786210589
+                    ],
+                    [
+                        "kidney",
+                        0.45037246967876204
+                    ],
+                    [
+                        "fact",
+                        0.5478896190261037
+                    ],
+                    [
+                        "good",
+                        0.5738132268326022
+                    ],
+                    [
+                        "way",
+                        0.9376174477073481
+                    ],
+                    [
+                        "decision",
+                        0.9385584658451733
+                    ],
+                    [
+                        "money",
+                        0.9385584658451733
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1530": {
+            "id": "Vss3nofHpZI-1530",
+            "heat": 0.602,
+            "start": 1530.0,
+            "text": " associated with that if someone sells their kidney and then their other kidney fails, they might then blame eBay. PROFESSOR: Want it back. Like that Repo movie. That's right. There could, but let's leave the lawyers out of this, OK? I don't like lawyers. I'm going to rag on lawyers this semester. We're going leave the lawyers out of this. But, in any case, you're right. That's, sort of, a ramification of the same thing. So we've talked about the fact that there's substitution. We've talked about the fact that it's not allocated to those who need it the most. We've talked about the fact that people might be making bad decisions in doing this. But there's another factor, as well, which is we may just as a society feel it's unfair that rich people can get things poor people can't. There may be a pure equity component here. OK? Which is simply that we as a society value equality, value income inequality. And we think people should not have an extra shot at getting a resource just because they're rich. Now that is a very deep and hard concept, and we'll spend a couple lectures talking about equity towards the end of the semester. By and large, we won't consider it. OK? But it turns out to be behind much of what we'll discuss, OK, in much of what we'll discuss this semester and much of what goes on in economics. OK? Just take a look at the debate that's going on right now in terms of President Obama trying to decide whether or not to extend tax cuts to wealthy individuals in the US.",
+            "metrics": {
+                "relativeDCReadability": 0.9028377875551431,
+                "lexicalDiversity": 0.494949494949495,
+                "posComposition": {
+                    "VBN": 0.017,
+                    "IN": 0.141,
+                    "DT": 0.108,
+                    "NN": 0.131,
+                    "VBZ": 0.044,
+                    "PRP$": 0.007,
+                    "CC": 0.037,
+                    "RB": 0.061,
+                    "JJ": 0.061,
+                    "NNS": 0.051,
+                    "PRP": 0.077,
+                    "MD": 0.04,
+                    "VB": 0.054,
+                    "NNP": 0.034,
+                    "VBP": 0.04,
+                    "WDT": 0.01,
+                    "EX": 0.013,
+                    "POS": 0.007,
+                    "VBG": 0.027,
+                    "TO": 0.02,
+                    "WP": 0.013,
+                    "RBS": 0.003,
+                    "RP": 0.003
+                },
+                "syllableRate": 3.417,
+                "topicScores": [
+                    [
+                        "lawyer",
+                        0.3607635454822811
+                    ],
+                    [
+                        "people",
+                        0.3825508079407955
+                    ],
+                    [
+                        "fact",
+                        0.42015105896828636
+                    ],
+                    [
+                        "right",
+                        0.4346214043289707
+                    ],
+                    [
+                        "semester",
+                        0.4376123865130277
+                    ],
+                    [
+                        "kidney",
+                        0.5161677631954292
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.519185631762209
+                    ],
+                    [
+                        "society",
+                        0.5632679282971461
+                    ],
+                    [
+                        "thing",
+                        0.5641395903930078
+                    ],
+                    [
+                        "rich",
+                        0.567616224592312
+                    ],
+                    [
+                        "value",
+                        0.5726313399494004
+                    ],
+                    [
+                        "equity",
+                        0.5752045318126152
+                    ],
+                    [
+                        "Repo",
+                        0.5860992243703053
+                    ],
+                    [
+                        "President",
+                        0.7087912331098968
+                    ],
+                    [
+                        "Obama",
+                        0.7087912331098968
+                    ],
+                    [
+                        "eBay",
+                        0.8347227309030201
+                    ],
+                    [
+                        "movie",
+                        0.8737345858881777
+                    ],
+                    [
+                        "substitution",
+                        0.9069008021554922
+                    ],
+                    [
+                        "inequality",
+                        0.9142726275185664
+                    ],
+                    [
+                        "case",
+                        0.9166034120572455
+                    ],
+                    [
+                        "economic",
+                        0.9179544717688917
+                    ],
+                    [
+                        "ramification",
+                        0.918459333888197
+                    ],
+                    [
+                        "income",
+                        0.92071312211597
+                    ],
+                    [
+                        "factor",
+                        0.9237812539834936
+                    ],
+                    [
+                        "component",
+                        0.9247672007663104
+                    ],
+                    [
+                        "hard",
+                        0.927901459064722
+                    ],
+                    [
+                        "concept",
+                        0.927901459064722
+                    ],
+                    [
+                        "bad",
+                        0.9280975798134897
+                    ],
+                    [
+                        "decision",
+                        0.9280975798134897
+                    ],
+                    [
+                        "large",
+                        0.9285347874767981
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "people",
+                        0.3825508079407955
+                    ],
+                    [
+                        "fact",
+                        0.42015105896828636
+                    ],
+                    [
+                        "semester",
+                        0.4376123865130277
+                    ],
+                    [
+                        "kidney",
+                        0.5161677631954292
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.519185631762209
+                    ],
+                    [
+                        "thing",
+                        0.5641395903930078
+                    ],
+                    [
+                        "eBay",
+                        0.8347227309030201
+                    ],
+                    [
+                        "economic",
+                        0.9179544717688917
+                    ],
+                    [
+                        "decision",
+                        0.9280975798134897
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1620": {
+            "id": "Vss3nofHpZI-1620",
+            "heat": 0.571,
+            "start": 1620.0,
+            "text": " Some people argue that allowing those tax cuts would promote the economy. OK? But others argue it's unfair for rich people to get tax breaks. And that fairness argument matters a lot in terms of driving the kind of economic policy decisions we need to make. So this semester, we're going to focus a lot on efficiency and optimization and how to get resources to the right place. But you have to remember behind a lot of this is deep normative issues about what should be happening, how should an economy function, and, in particular, how should we think about these kind of equity issues that are so important. OK. The last thing I want to talk about is I want to talk about why micro is not just an abstract concept for things like you might say, oh this is all pretty funny and it's like selling kidneys on eBay and tax cuts for the rich and why do I care? OK? Well, you care because literally every decision you make is made through the kind of framework we're going to think about this semester. OK? Now, different decisions may follow our models more closely and less closely. But there is not an economic decision. OK? Sorry, let me back up. There's not a decision that people have made that economists haven't tried to model. From whether to produce iPods, to how many times to have sex each week. OK? These are all things economists have tried to model",
+            "metrics": {
+                "relativeDCReadability": 1.0280754881361038,
+                "lexicalDiversity": 0.51171875,
+                "posComposition": {
+                    "DT": 0.102,
+                    "NNS": 0.086,
+                    "VBP": 0.062,
+                    "IN": 0.117,
+                    "VBG": 0.023,
+                    "NN": 0.117,
+                    "MD": 0.023,
+                    "VB": 0.078,
+                    "NNP": 0.02,
+                    "CC": 0.043,
+                    "PRP": 0.055,
+                    "VBZ": 0.035,
+                    "JJ": 0.062,
+                    "TO": 0.055,
+                    "RB": 0.051,
+                    "WRB": 0.023,
+                    "WP": 0.004,
+                    "WDT": 0.004,
+                    "UH": 0.004,
+                    "VBN": 0.016,
+                    "PRP$": 0.004,
+                    "RBR": 0.008,
+                    "EX": 0.008
+                },
+                "syllableRate": 3.117,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.11580400417892465
+                    ],
+                    [
+                        "decision",
+                        0.3517833698726225
+                    ],
+                    [
+                        "lot",
+                        0.4358726791908887
+                    ],
+                    [
+                        "tax",
+                        0.43601176764802363
+                    ],
+                    [
+                        "kind",
+                        0.43766169676139455
+                    ],
+                    [
+                        "model",
+                        0.4391422507291339
+                    ],
+                    [
+                        "people",
+                        0.44960477876484
+                    ],
+                    [
+                        "thing",
+                        0.45971209132265767
+                    ],
+                    [
+                        "economy",
+                        0.5352047402808924
+                    ],
+                    [
+                        "rich",
+                        0.5490201826578418
+                    ],
+                    [
+                        "semester",
+                        0.5493906258160471
+                    ],
+                    [
+                        "cut",
+                        0.5568984711813393
+                    ],
+                    [
+                        "economic",
+                        0.5620790115562516
+                    ],
+                    [
+                        "issue",
+                        0.5702875610639953
+                    ],
+                    [
+                        "economist",
+                        0.5764937988787816
+                    ],
+                    [
+                        "break",
+                        0.8511552041899126
+                    ],
+                    [
+                        "place",
+                        0.875111175943965
+                    ],
+                    [
+                        "important",
+                        0.8817639131272275
+                    ],
+                    [
+                        "unfair",
+                        0.8878263669595229
+                    ],
+                    [
+                        "particular",
+                        0.8931718766019118
+                    ],
+                    [
+                        "funny",
+                        0.8938983727395685
+                    ],
+                    [
+                        "right",
+                        0.8974657687508014
+                    ],
+                    [
+                        "fairness",
+                        0.8992241387042558
+                    ],
+                    [
+                        "argument",
+                        0.8992241387042558
+                    ],
+                    [
+                        "term",
+                        0.8992241387042558
+                    ],
+                    [
+                        "policy",
+                        0.8992241387042558
+                    ],
+                    [
+                        "function",
+                        0.9030596052136539
+                    ],
+                    [
+                        "efficiency",
+                        0.9065284126557801
+                    ],
+                    [
+                        "optimization",
+                        0.9065284126557801
+                    ],
+                    [
+                        "resource",
+                        0.9065284126557801
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.11580400417892465
+                    ],
+                    [
+                        "decision",
+                        0.3517833698726225
+                    ],
+                    [
+                        "model",
+                        0.4391422507291339
+                    ],
+                    [
+                        "people",
+                        0.44960477876484
+                    ],
+                    [
+                        "thing",
+                        0.45971209132265767
+                    ],
+                    [
+                        "semester",
+                        0.5493906258160471
+                    ],
+                    [
+                        "economic",
+                        0.5620790115562516
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1710": {
+            "id": "Vss3nofHpZI-1710",
+            "heat": 0.513,
+            "start": 1710.0,
+            "text": " with varying degrees of success. OK? Because economists think that these all come from the same decision theoretic framework that we can discuss. Let's talk about a simple example from this course. Your decision of whether or not to buy the textbook. There's a textbook and what's it cost? $140? What's it cost? Does anyone know? AUDIENCE: This line says $180. And this one says $180, but it's available for $130. PROFESSOR: $130, fine. So $130 for Professor Perloff out at Berkeley. He doesn't get it all. I wrote a textbook too. He gets a small share of it. OK. So you have to decide, now has anyone bought a used version of the fourth, well it's the fifth edition now, does anybody use a version of the fourth edition? Does anyone know what the used price is? You can be honest. I don't care. AUDIENCE: I know some people found it for like $85 or so. PROFESSOR: So $85. So you've got to decide. So let's say you can buy the previous edition, the fourth edition, for $85 or the current edition for $130. OK? You've got to make that decision. OK? How do you make that decision. Well you may think, gee I just make the decision. It's not really about microeconomics. But it is. We're going to model how you think about a decision like that. Well how do you think about a decision like that? Well, the first thing you consider is your preferences. How much are you willing to take a chance that there's new stuff in the fifth edition that you need to know? OK?",
+            "metrics": {
+                "relativeDCReadability": 1.0695893628106659,
+                "lexicalDiversity": 0.5052631578947369,
+                "posComposition": {
+                    "IN": 0.098,
+                    "VBG": 0.007,
+                    "NNS": 0.018,
+                    "NN": 0.126,
+                    "NNP": 0.081,
+                    "VBP": 0.053,
+                    "DT": 0.112,
+                    "JJ": 0.063,
+                    "PRP": 0.102,
+                    "MD": 0.014,
+                    "VB": 0.074,
+                    "POS": 0.007,
+                    "PRP$": 0.007,
+                    "CC": 0.025,
+                    "RB": 0.039,
+                    "TO": 0.025,
+                    "EX": 0.007,
+                    "VBZ": 0.056,
+                    "WP": 0.011,
+                    "VBD": 0.014,
+                    "CD": 0.039,
+                    "RP": 0.004,
+                    "JJS": 0.004,
+                    "VBN": 0.007,
+                    "WRB": 0.011
+                },
+                "syllableRate": 3.217,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.16776844181503076
+                    ],
+                    [
+                        "decision",
+                        0.2849616329438917
+                    ],
+                    [
+                        "edition",
+                        0.3081755507350484
+                    ],
+                    [
+                        "audience",
+                        0.3731660294635122
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.3832017169614281
+                    ],
+                    [
+                        "fourth",
+                        0.4341497691026794
+                    ],
+                    [
+                        "textbook",
+                        0.440352084439389
+                    ],
+                    [
+                        "cost",
+                        0.53303155960266
+                    ],
+                    [
+                        "version",
+                        0.568916698293283
+                    ],
+                    [
+                        "fifth",
+                        0.5787972443593038
+                    ],
+                    [
+                        "Berkeley",
+                        0.6566622005903794
+                    ],
+                    [
+                        "Perloff",
+                        0.6823264494628006
+                    ],
+                    [
+                        "success",
+                        0.8129826168261894
+                    ],
+                    [
+                        "degree",
+                        0.8419851745049077
+                    ],
+                    [
+                        "Professor Perloff",
+                        0.8711502847730919
+                    ],
+                    [
+                        "course",
+                        0.8996391115305108
+                    ],
+                    [
+                        "economist",
+                        0.9012598194029606
+                    ],
+                    [
+                        "theoretic",
+                        0.9069441708121834
+                    ],
+                    [
+                        "framework",
+                        0.9069441708121834
+                    ],
+                    [
+                        "simple",
+                        0.9165819303745081
+                    ],
+                    [
+                        "example",
+                        0.9165819303745081
+                    ],
+                    [
+                        "fine",
+                        0.9228405275534621
+                    ],
+                    [
+                        "line",
+                        0.9341125474747941
+                    ],
+                    [
+                        "honest",
+                        0.934408307736675
+                    ],
+                    [
+                        "microeconomic",
+                        0.9391429830479011
+                    ],
+                    [
+                        "available",
+                        0.9392756097990445
+                    ],
+                    [
+                        "preference",
+                        0.9401733464766188
+                    ],
+                    [
+                        "price",
+                        0.9418568310874419
+                    ],
+                    [
+                        "small",
+                        0.9436133121118311
+                    ],
+                    [
+                        "share",
+                        0.9436133121118311
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.16776844181503076
+                    ],
+                    [
+                        "decision",
+                        0.2849616329438917
+                    ],
+                    [
+                        "edition",
+                        0.3081755507350484
+                    ],
+                    [
+                        "audience",
+                        0.3731660294635122
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.3832017169614281
+                    ],
+                    [
+                        "course",
+                        0.8996391115305108
+                    ],
+                    [
+                        "price",
+                        0.9418568310874419
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1800": {
+            "id": "Vss3nofHpZI-1800",
+            "heat": 0.409,
+            "start": 1800.0,
+            "text": " If the fifth issue was identical to the fourth edition then you'd be an idiot to not just buy the used fourth edition. But it's not. Textbook writers are smart. They update their book. OK? So basically, the fifth edition is updated. There's new things in it. So you have to ask yourself, what are the odds that I need some of the new information in the fifth edition and not in the fourth edition? And in thinking about that, you're going to think about your preferences. In particular, are you very risk averse, are you afraid to take a chance? Or are you risk loving? Are you willing to take a chance? OK? That's one side of the equation. If you're someone that says, you know I will not take a chance in life. I just have to make sure I learn the most possible from this course. Then you're going to want that new edition. If you're someone that says, you know what screw it, I'll just figure it out later. I'm going to the lectures. I don't care. OK? Then you might not want it that much. So that's the first factor, is going to be your preferences and break down how much you are willing to take a risk that you need this fifth edition. The second factor is going to be your constraint: how much money you have. OK. The more money you have, the more you're willing, or more relevant perhaps your parents have, the more willing you are to go ahead and buy that new edition. The less money you have, the less willing you are. OK? So basically, it's going to depend on whether you're paying or your parents are paying, in which case what the hell you might as well buy the fifth edition. OK? And then finally, you're going to take these preferences and this constraint, your preferences and your resources, and go to the market and look at what does the market tell me the difference is. So you're going to say, here's how much I kind of care about",
+            "metrics": {
+                "relativeDCReadability": 0.8903351650331823,
+                "lexicalDiversity": 0.4444444444444444,
+                "posComposition": {
+                    "IN": 0.07,
+                    "DT": 0.092,
+                    "JJ": 0.089,
+                    "NN": 0.106,
+                    "VBD": 0.005,
+                    "TO": 0.046,
+                    "RB": 0.07,
+                    "PRP": 0.114,
+                    "MD": 0.014,
+                    "VB": 0.065,
+                    "CC": 0.035,
+                    "VBZ": 0.033,
+                    "NNP": 0.024,
+                    "NNS": 0.03,
+                    "VBP": 0.087,
+                    "PRP$": 0.022,
+                    "VBN": 0.005,
+                    "EX": 0.003,
+                    "WDT": 0.011,
+                    "VBG": 0.033,
+                    "CD": 0.003,
+                    "RBS": 0.003,
+                    "WP": 0.008,
+                    "RP": 0.005,
+                    "WRB": 0.008,
+                    "JJR": 0.011,
+                    "RBR": 0.005,
+                    "POS": 0.003
+                },
+                "syllableRate": 4.025,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.1408238175977687
+                    ],
+                    [
+                        "edition",
+                        0.23639714199084055
+                    ],
+                    [
+                        "fifth",
+                        0.3157175560338346
+                    ],
+                    [
+                        "willing",
+                        0.32243866197452004
+                    ],
+                    [
+                        "new",
+                        0.36880872832000866
+                    ],
+                    [
+                        "preference",
+                        0.37042655526561213
+                    ],
+                    [
+                        "fourth",
+                        0.39588305016553643
+                    ],
+                    [
+                        "chance",
+                        0.4182104331759199
+                    ],
+                    [
+                        "money",
+                        0.4350638969389918
+                    ],
+                    [
+                        "risk",
+                        0.43860525359457186
+                    ],
+                    [
+                        "factor",
+                        0.5659848470463581
+                    ],
+                    [
+                        "care",
+                        0.570206254264566
+                    ],
+                    [
+                        "parent",
+                        0.5720209243874361
+                    ],
+                    [
+                        "constraint",
+                        0.5732584353207582
+                    ],
+                    [
+                        "market",
+                        0.5795682559110834
+                    ],
+                    [
+                        "fifth edition",
+                        0.7686216523827721
+                    ],
+                    [
+                        "fourth edition",
+                        0.8219449065815859
+                    ],
+                    [
+                        "issue",
+                        0.8260832540083036
+                    ],
+                    [
+                        "identical",
+                        0.8260832540083036
+                    ],
+                    [
+                        "idiot",
+                        0.8260832540083036
+                    ],
+                    [
+                        "textbook",
+                        0.8809902517838731
+                    ],
+                    [
+                        "smart",
+                        0.8809902517838731
+                    ],
+                    [
+                        "writer",
+                        0.8918689797638408
+                    ],
+                    [
+                        "loving",
+                        0.9199883266931681
+                    ],
+                    [
+                        "particular",
+                        0.9221883357176759
+                    ],
+                    [
+                        "thing",
+                        0.9224714665189686
+                    ],
+                    [
+                        "equation",
+                        0.924140292091114
+                    ],
+                    [
+                        "life",
+                        0.9252185790991588
+                    ],
+                    [
+                        "odd",
+                        0.9252700910716751
+                    ],
+                    [
+                        "information",
+                        0.9252700910716751
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.1408238175977687
+                    ],
+                    [
+                        "edition",
+                        0.23639714199084055
+                    ],
+                    [
+                        "willing",
+                        0.32243866197452004
+                    ],
+                    [
+                        "money",
+                        0.4350638969389918
+                    ],
+                    [
+                        "thing",
+                        0.9224714665189686
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1890": {
+            "id": "Vss3nofHpZI-1890",
+            "heat": 0.309,
+            "start": 1890.0,
+            "text": " fifth versus fourth edition, here's the resources I have, now I'll go to the market and say, aha there is a $45 difference between these two editions. So now I will solve that constrained optimization problem. And I'll decide whether I want to get that book. You are going to be thinking to yourself, this is stupid. I never think about it that way. But the key point is you don't have to think about it exactly that way. There's a famous example in economics of what's called the as if principle. I don't know if kids still say this one, as if. So it's the as if principle. OK? And basically it's from Milton Friedman, the famous economist from Chicago, who said, look, when you're playing pool, technically you could compute the optimal angles of which to shoot the ball every single time to get the appropriate bounce and get the balls in. You could do the mathematics and compute it. But professional pool players are not in this class with you, I'll only say that. OK? They're not guys who are able to do that computation. They just know how to hit the ball to get the same outcome they would get if they mathematically solved for the optimal trajectory to hit the ball. OK? They behave as if they've solved the constrained optimization problem. And your decision when you buy this book, you may not think it through the very framework that I just laid out very heuristically and will lay out more rigorously this semester. But you're going to behave as if you do. Because those facts are going to be in your mind, and you'll be thinking about it when you make that decision. So while you may feel the models we learn in this course",
+            "metrics": {
+                "relativeDCReadability": 0.9837286129347195,
+                "lexicalDiversity": 0.4430379746835443,
+                "posComposition": {
+                    "JJ": 0.047,
+                    "NN": 0.114,
+                    "RB": 0.073,
+                    "VBZ": 0.025,
+                    "DT": 0.111,
+                    "NNS": 0.035,
+                    "PRP": 0.114,
+                    "VBP": 0.063,
+                    "MD": 0.035,
+                    "VB": 0.089,
+                    "TO": 0.041,
+                    "CC": 0.035,
+                    "EX": 0.006,
+                    "CD": 0.009,
+                    "IN": 0.108,
+                    "VBG": 0.019,
+                    "WP": 0.009,
+                    "VBN": 0.006,
+                    "NNP": 0.019,
+                    "VBD": 0.009,
+                    "WRB": 0.013,
+                    "WDT": 0.003,
+                    "PRP$": 0.006,
+                    "RP": 0.006,
+                    "JJR": 0.003
+                },
+                "syllableRate": 3.633,
+                "topicScores": [
+                    [
+                        "ball",
+                        0.371751493104861
+                    ],
+                    [
+                        "edition",
+                        0.4661822363044635
+                    ],
+                    [
+                        "principle",
+                        0.5074268167024889
+                    ],
+                    [
+                        "way",
+                        0.50941497407765
+                    ],
+                    [
+                        "problem",
+                        0.5134252575304309
+                    ],
+                    [
+                        "optimization",
+                        0.5401125824182315
+                    ],
+                    [
+                        "book",
+                        0.555839246997688
+                    ],
+                    [
+                        "famous",
+                        0.5615965611640272
+                    ],
+                    [
+                        "optimal",
+                        0.5656542818965286
+                    ],
+                    [
+                        "pool",
+                        0.566055301164189
+                    ],
+                    [
+                        "decision",
+                        0.5684356692747092
+                    ],
+                    [
+                        "Milton",
+                        0.6632757870377103
+                    ],
+                    [
+                        "Friedman",
+                        0.6632757870377103
+                    ],
+                    [
+                        "Chicago",
+                        0.6632757870377103
+                    ],
+                    [
+                        "fifth",
+                        0.7591725342902712
+                    ],
+                    [
+                        "Milton Friedman",
+                        0.7855063050631887
+                    ],
+                    [
+                        "fourth",
+                        0.7908558288858999
+                    ],
+                    [
+                        "resource",
+                        0.804586568071377
+                    ],
+                    [
+                        "market",
+                        0.804586568071377
+                    ],
+                    [
+                        "difference",
+                        0.804586568071377
+                    ],
+                    [
+                        "stupid",
+                        0.8666734946614704
+                    ],
+                    [
+                        "computation",
+                        0.9059855967492305
+                    ],
+                    [
+                        "key",
+                        0.9075909974110066
+                    ],
+                    [
+                        "point",
+                        0.9075909974110066
+                    ],
+                    [
+                        "semester",
+                        0.9101448031647881
+                    ],
+                    [
+                        "example",
+                        0.9116139656907314
+                    ],
+                    [
+                        "economic",
+                        0.9116139656907314
+                    ],
+                    [
+                        "course",
+                        0.9124559482805569
+                    ],
+                    [
+                        "kid",
+                        0.9147683115299833
+                    ],
+                    [
+                        "professional",
+                        0.9179565506801086
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "edition",
+                        0.4661822363044635
+                    ],
+                    [
+                        "way",
+                        0.50941497407765
+                    ],
+                    [
+                        "decision",
+                        0.5684356692747092
+                    ],
+                    [
+                        "semester",
+                        0.9101448031647881
+                    ],
+                    [
+                        "economic",
+                        0.9116139656907314
+                    ],
+                    [
+                        "course",
+                        0.9124559482805569
+                    ]
+                ]
+            }
+        },
+        "Vss3nofHpZI-1980": {
+            "id": "Vss3nofHpZI-1980",
+            "heat": 0.48,
+            "start": 1980.0,
+            "text": " are rather abstract and don't really explain how you behave in an everyday basis, you're going to behave as if those models are really applying to you. And if you think about, over the next few days, think about the decisions you make. From should I bring an umbrella today, it looks like rain? Well, on the one hand, I might lose it. It's a pain to carry. On the other hand, how much do I care about getting wet? That's a constrained optimization decision. To should I have an extra drink at a party Friday night? On the one hand, that could have some pros and cons. OK? These are all decisions, constrained optimization decisions, you're going to make. They're going to affect your life. And what we'll learn this semester is about how you make them and how we model, how economists can use what we learn about that to understand the function of the economy. OK? So I'm going to stop there. One other announcement, there will, in general, be handouts every lecture. I'm not going to do PowerPoint. I'm going to do handouts. So when you come in every lecture, please look at the back banister. Though typically, not today. But typically, they'll be handouts that you'll need to follow along with in class. So remember, go to section on Friday, first problems that will be posted on Friday and it will be due in section the Friday after. And I'll see you all back here on Monday, next Monday.",
+            "metrics": {
+                "relativeDCReadability": 0.8970318853643819,
+                "lexicalDiversity": 0.4756554307116105,
+                "posComposition": {
+                    "VBP": 0.075,
+                    "RB": 0.049,
+                    "JJ": 0.049,
+                    "CC": 0.03,
+                    "VB": 0.09,
+                    "WRB": 0.022,
+                    "PRP": 0.105,
+                    "IN": 0.109,
+                    "DT": 0.09,
+                    "NN": 0.109,
+                    "VBG": 0.03,
+                    "TO": 0.045,
+                    "NNS": 0.041,
+                    "MD": 0.045,
+                    "VBZ": 0.015,
+                    "NNP": 0.045,
+                    "CD": 0.011,
+                    "WDT": 0.011,
+                    "VBN": 0.011,
+                    "PRP$": 0.004,
+                    "WP": 0.007,
+                    "EX": 0.004,
+                    "RP": 0.004
+                },
+                "syllableRate": 3.092,
+                "topicScores": [
+                    [
+                        "Friday",
+                        0.2809030178582743
+                    ],
+                    [
+                        "decision",
+                        0.37385721849656584
+                    ],
+                    [
+                        "Monday",
+                        0.4201531975444533
+                    ],
+                    [
+                        "hand",
+                        0.42381411789163265
+                    ],
+                    [
+                        "handout",
+                        0.44718103492300526
+                    ],
+                    [
+                        "optimization",
+                        0.5533722108414043
+                    ],
+                    [
+                        "today",
+                        0.5617063998052918
+                    ],
+                    [
+                        "lecture",
+                        0.5647467622274356
+                    ],
+                    [
+                        "model",
+                        0.5668387618937665
+                    ],
+                    [
+                        "section",
+                        0.5824496121750407
+                    ],
+                    [
+                        "everyday",
+                        0.8691434668773962
+                    ],
+                    [
+                        "basis",
+                        0.8691434668773962
+                    ],
+                    [
+                        "abstract",
+                        0.87780947626365
+                    ],
+                    [
+                        "rain",
+                        0.8850918999764331
+                    ],
+                    [
+                        "umbrella",
+                        0.9009943458120931
+                    ],
+                    [
+                        "wet",
+                        0.9034480490913953
+                    ],
+                    [
+                        "night",
+                        0.9096326578946363
+                    ],
+                    [
+                        "con",
+                        0.911933317184558
+                    ],
+                    [
+                        "life",
+                        0.9170295413302805
+                    ],
+                    [
+                        "economy",
+                        0.9183240408034256
+                    ],
+                    [
+                        "pain",
+                        0.9192654878212175
+                    ],
+                    [
+                        "PowerPoint",
+                        0.9223078569914176
+                    ],
+                    [
+                        "banister",
+                        0.9238114510856217
+                    ],
+                    [
+                        "class",
+                        0.9250963469791743
+                    ],
+                    [
+                        "constrained",
+                        0.9256103763901109
+                    ],
+                    [
+                        "general",
+                        0.9273969584322418
+                    ],
+                    [
+                        "extra",
+                        0.927866048318608
+                    ],
+                    [
+                        "drink",
+                        0.927866048318608
+                    ],
+                    [
+                        "party",
+                        0.927866048318608
+                    ],
+                    [
+                        "pro",
+                        0.9297383601881101
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "Friday",
+                        0.2809030178582743
+                    ],
+                    [
+                        "decision",
+                        0.37385721849656584
+                    ],
+                    [
+                        "model",
+                        0.5668387618937665
+                    ]
+                ]
+            }
+        }
+    }
+}

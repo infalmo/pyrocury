@@ -1,0 +1,2972 @@
+{
+    "metadata": {
+        "id": "_OZXEb8FxZQ",
+        "avgHeat": 0.28,
+        "runtime": 1375.9,
+        "dale-challReadabilityScore": 7.961248218948899,
+        "lexicalDiversity": 0.47998414585810545,
+        "posComposition": {
+            "NNP": 0.031,
+            "RB": 0.057,
+            "NN": 0.112,
+            "CC": 0.042,
+            "TO": 0.038,
+            "CD": 0.033,
+            "POS": 0.002,
+            "VB": 0.061,
+            "PRP$": 0.004,
+            "IN": 0.088,
+            "VBZ": 0.058,
+            "NNS": 0.039,
+            "VBG": 0.018,
+            "JJ": 0.076,
+            "RBR": 0.002,
+            "DT": 0.124,
+            "PRP": 0.073,
+            "VBP": 0.054,
+            "VBN": 0.014,
+            "PDT": 0.004,
+            "MD": 0.023,
+            "VBD": 0.006,
+            "RP": 0.001,
+            "WP": 0.012,
+            "JJS": 0.001,
+            "WDT": 0.009,
+            "WRB": 0.005,
+            "EX": 0.005,
+            "NNPS": 0.001,
+            "JJR": 0.003,
+            ":": 0.002,
+            "$": 0.001,
+            "FW": 0.0,
+            "RBS": 0.0
+        },
+        "syllableRate": 2.632,
+        "topicScores": [
+            [
+                "Hamiltonian",
+                0.08847241044444257
+            ],
+            [
+                "state",
+                0.13115132103699292
+            ],
+            [
+                "lambda",
+                0.13413204585336827
+            ],
+            [
+                "E",
+                0.14392968713852256
+            ],
+            [
+                "h",
+                0.15978803541046482
+            ],
+            [
+                "energy",
+                0.16313967172586127
+            ],
+            [
+                "E n",
+                0.18347018095407808
+            ],
+            [
+                "equal",
+                0.2077569807846063
+            ],
+            [
+                "small",
+                0.21156770761982827
+            ],
+            [
+                "simple Hamiltonian",
+                0.21192543099927486
+            ],
+            [
+                "degenerate",
+                0.21887821762777407
+            ],
+            [
+                "system",
+                0.22298629192825706
+            ],
+            [
+                "perturbation",
+                0.230460432353381
+            ],
+            [
+                "thing",
+                0.24308982892756426
+            ],
+            [
+                "atom",
+                0.25825645820594406
+            ],
+            [
+                "energy E",
+                0.2660027387079118
+            ],
+            [
+                "hydrogen",
+                0.27367883663701814
+            ],
+            [
+                "eigenstate",
+                0.27991572416831556
+            ],
+            [
+                "non",
+                0.2799727338336824
+            ],
+            [
+                "change",
+                0.30017227526997914
+            ],
+            [
+                "atom Hamiltonian",
+                0.3080097103358311
+            ],
+            [
+                "harmonic",
+                0.318195878781381
+            ],
+            [
+                "oscillator",
+                0.3192292199784422
+            ],
+            [
+                "term",
+                0.31991540020997555
+            ],
+            [
+                "parameter",
+                0.32199616060423114
+            ],
+            [
+                "unknown",
+                0.32438307970649094
+            ],
+            [
+                "original Hamiltonian",
+                0.3415984664093623
+            ],
+            [
+                "Hermitian Hamiltonian",
+                0.34953358459437056
+            ],
+            [
+                "example",
+                0.35313331046450225
+            ],
+            [
+                "extra",
+                0.3540100562684673
+            ]
+        ],
+        "topicsList": [
+            "Hamiltonian",
+            "state",
+            "lambda",
+            "E",
+            "h",
+            "energy",
+            "E n",
+            "equal",
+            "small",
+            "simple Hamiltonian",
+            "degenerate",
+            "system",
+            "perturbation",
+            "thing",
+            "atom",
+            "energy E",
+            "hydrogen",
+            "eigenstate",
+            "non",
+            "change",
+            "atom Hamiltonian",
+            "harmonic",
+            "oscillator",
+            "term",
+            "parameter",
+            "unknown",
+            "original Hamiltonian",
+            "Hermitian Hamiltonian",
+            "example",
+            "extra"
+        ]
+    },
+    "chunks": {
+        "_OZXEb8FxZQ-0": {
+            "id": "_OZXEb8FxZQ-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: All right. Good morning. And welcome to 8.06. Let's begin. Our subject in 8.06 has to do with applications of quantum mechanics and using quantum mechanics to understand complex systems, in fact systems more complex than the ones you've understood before. For example, in previous courses, you've understood very well the simple harmonic oscillator. You've solved for the Hamiltonian. You've found all the eigenstates. You've found all the energies. You know about the spectrum. You can do time evolution in the harmonic oscillator. You've discussed even peculiar states like coherence states, squeeze states. You know a lot about this very simple Hamiltonian. You've also studied the hydrogen atom Hamiltonian. And you've found the spectrum of the hydrogen atom with all the degeneracies that it has and understood some of those wave functions and the properties. And those are exact systems. But it turns out that in practice, while those exact systems form the foundation of what you learn, many systems, and most of the systems you face in real life and in research, are systems",
+            "metrics": {
+                "relativeDCReadability": 1.0621914159879124,
+                "lexicalDiversity": 0.5243243243243243,
+                "posComposition": {
+                    "NNP": 0.038,
+                    "RB": 0.032,
+                    "NN": 0.119,
+                    "CC": 0.049,
+                    "TO": 0.016,
+                    "CD": 0.011,
+                    "POS": 0.005,
+                    "VB": 0.022,
+                    "PRP$": 0.005,
+                    "IN": 0.13,
+                    "VBZ": 0.016,
+                    "NNS": 0.108,
+                    "VBG": 0.005,
+                    "JJ": 0.081,
+                    "RBR": 0.005,
+                    "DT": 0.108,
+                    "PRP": 0.081,
+                    "VBP": 0.086,
+                    "VBN": 0.038,
+                    "PDT": 0.016,
+                    "MD": 0.005,
+                    "VBD": 0.005,
+                    "RP": 0.005,
+                    "WP": 0.005,
+                    "JJS": 0.005
+                },
+                "syllableRate": 2.375,
+                "topicScores": [
+                    [
+                        "Hamiltonian",
+                        0.2968044466068071
+                    ],
+                    [
+                        "system",
+                        0.3005614617399712
+                    ],
+                    [
+                        "state",
+                        0.4486929976573784
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.47029829838618986
+                    ],
+                    [
+                        "oscillator",
+                        0.5251288451840295
+                    ],
+                    [
+                        "harmonic",
+                        0.5405266537966823
+                    ],
+                    [
+                        "atom",
+                        0.5580714280894692
+                    ],
+                    [
+                        "spectrum",
+                        0.5587268156444442
+                    ],
+                    [
+                        "exact",
+                        0.558834518838509
+                    ],
+                    [
+                        "quantum",
+                        0.5606040707028599
+                    ],
+                    [
+                        "mechanic",
+                        0.5606040707028599
+                    ],
+                    [
+                        "complex",
+                        0.5629063891087691
+                    ],
+                    [
+                        "hydrogen",
+                        0.5631700616374127
+                    ],
+                    [
+                        "simple",
+                        0.5668066542235191
+                    ],
+                    [
+                        "good",
+                        0.8365705937368983
+                    ],
+                    [
+                        "morning",
+                        0.8365705937368983
+                    ],
+                    [
+                        "eigenstate",
+                        0.8936490405597468
+                    ],
+                    [
+                        "energy",
+                        0.8963102403864263
+                    ],
+                    [
+                        "example",
+                        0.8964264854986849
+                    ],
+                    [
+                        "previous",
+                        0.8964264854986849
+                    ],
+                    [
+                        "subject",
+                        0.9008568639634232
+                    ],
+                    [
+                        "fact",
+                        0.9008568639634232
+                    ],
+                    [
+                        "course",
+                        0.9051423580177326
+                    ],
+                    [
+                        "property",
+                        0.9062573861577943
+                    ],
+                    [
+                        "application",
+                        0.9088622784884893
+                    ],
+                    [
+                        "one",
+                        0.9088622784884893
+                    ],
+                    [
+                        "squeeze",
+                        0.9108982569155102
+                    ],
+                    [
+                        "coherence",
+                        0.9185070179808953
+                    ],
+                    [
+                        "practice",
+                        0.9236991618662486
+                    ],
+                    [
+                        "research",
+                        0.9236991618662486
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Hamiltonian",
+                        0.2968044466068071
+                    ],
+                    [
+                        "system",
+                        0.3005614617399712
+                    ],
+                    [
+                        "state",
+                        0.4486929976573784
+                    ],
+                    [
+                        "oscillator",
+                        0.5251288451840295
+                    ],
+                    [
+                        "harmonic",
+                        0.5405266537966823
+                    ],
+                    [
+                        "atom",
+                        0.5580714280894692
+                    ],
+                    [
+                        "hydrogen",
+                        0.5631700616374127
+                    ],
+                    [
+                        "eigenstate",
+                        0.8936490405597468
+                    ],
+                    [
+                        "energy",
+                        0.8963102403864263
+                    ],
+                    [
+                        "example",
+                        0.8964264854986849
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-90": {
+            "id": "_OZXEb8FxZQ-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " that are more complicated. But at least a large fraction of them have a saving grace. They can be thought as that simple Hamiltonian that you understand very well plus an extra term or an extra effect, some sort of your total Hamiltonian being essentially the simple Hamiltonian but differs from it by some amount that makes it a little different. So your simple Hamiltonian therefore can be the harmonic oscillator. And in that case, for example, in general, you may have a potential for a particle. And you know, near the minimum of the potential, the potential is roughly quadratic in general. But then, as a Taylor expansion around the minimum, you find a quadratic term, no linear term, because it's a minimum, a quadratic term. And then you will find maybe a cubic or a quartic term. And the oscillations are a little unharmonic. But it's dominated by the simple harmonic oscillator but some unharmonicity. This is studied by people that look at diatomic molecules.",
+            "metrics": {
+                "relativeDCReadability": 1.014539804516318,
+                "lexicalDiversity": 0.46153846153846156,
+                "posComposition": {
+                    "WDT": 0.018,
+                    "VBP": 0.041,
+                    "RBR": 0.006,
+                    "JJ": 0.154,
+                    "CC": 0.071,
+                    "IN": 0.124,
+                    "JJS": 0.006,
+                    "DT": 0.172,
+                    "NN": 0.142,
+                    "PRP": 0.065,
+                    "VBG": 0.012,
+                    "MD": 0.024,
+                    "VB": 0.024,
+                    "VBN": 0.018,
+                    "NNP": 0.018,
+                    "RB": 0.041,
+                    "PRP$": 0.012,
+                    "NNS": 0.024,
+                    "VBZ": 0.03
+                },
+                "syllableRate": 2.3,
+                "topicScores": [
+                    [
+                        "Hamiltonian",
+                        0.3116612011310538
+                    ],
+                    [
+                        "term",
+                        0.3414219053187763
+                    ],
+                    [
+                        "simple",
+                        0.38512866129389867
+                    ],
+                    [
+                        "quadratic",
+                        0.4375750332241272
+                    ],
+                    [
+                        "potential",
+                        0.44664472015201867
+                    ],
+                    [
+                        "minimum",
+                        0.44898391682696476
+                    ],
+                    [
+                        "general",
+                        0.5341899636519798
+                    ],
+                    [
+                        "harmonic",
+                        0.5508835510786119
+                    ],
+                    [
+                        "little",
+                        0.5527055496789048
+                    ],
+                    [
+                        "extra",
+                        0.554731027441502
+                    ],
+                    [
+                        "oscillator",
+                        0.5553919720058471
+                    ],
+                    [
+                        "simple Hamiltonian",
+                        0.6296894439036146
+                    ],
+                    [
+                        "Taylor",
+                        0.6788346977779222
+                    ],
+                    [
+                        "complicated",
+                        0.8196754425558475
+                    ],
+                    [
+                        "grace",
+                        0.8467273349459503
+                    ],
+                    [
+                        "different",
+                        0.8616503644582292
+                    ],
+                    [
+                        "particle",
+                        0.8781162090857182
+                    ],
+                    [
+                        "large",
+                        0.8883308110414339
+                    ],
+                    [
+                        "fraction",
+                        0.8883308110414339
+                    ],
+                    [
+                        "effect",
+                        0.8888839753146905
+                    ],
+                    [
+                        "sort",
+                        0.8888839753146905
+                    ],
+                    [
+                        "example",
+                        0.8912708004156472
+                    ],
+                    [
+                        "unharmonicity",
+                        0.895622750531339
+                    ],
+                    [
+                        "molecule",
+                        0.8976188125803798
+                    ],
+                    [
+                        "linear",
+                        0.8995754313340909
+                    ],
+                    [
+                        "total",
+                        0.8996831185440685
+                    ],
+                    [
+                        "case",
+                        0.9024754344778111
+                    ],
+                    [
+                        "quartic",
+                        0.9126947503390094
+                    ],
+                    [
+                        "diatomic",
+                        0.9184423346391886
+                    ],
+                    [
+                        "expansion",
+                        0.9189437902727081
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "Hamiltonian",
+                        0.3116612011310538
+                    ],
+                    [
+                        "term",
+                        0.3414219053187763
+                    ],
+                    [
+                        "harmonic",
+                        0.5508835510786119
+                    ],
+                    [
+                        "extra",
+                        0.554731027441502
+                    ],
+                    [
+                        "oscillator",
+                        0.5553919720058471
+                    ],
+                    [
+                        "simple Hamiltonian",
+                        0.6296894439036146
+                    ],
+                    [
+                        "example",
+                        0.8912708004156472
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-180": {
+            "id": "_OZXEb8FxZQ-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " The vibrations have this effect. It's experimentally detectable. You can have the hydrogen atom. And if you want to study the hydrogen atom, how does an experimentalist look at the hydrogen atom? He puts the hydrogen atom and inserts a magnetic field and sees what happens to the energy levels and then inserts an electric field and sees what happens to the energy levels. And those can be thought as slight variations of the original Hamiltonian. Van der Waals forces are, you have two neutral atoms, and they induce on each other dipole moments and generate the force, a very tiny effect on otherwise simple hydrogen atom structure but a very important force, the Van der Waals force. So what we're going to be doing is trying to understand these situations in which we have a Hamiltonian that is equal to a well known Hamiltonian, this H 0. 0 meaning no perturbation, no variation.",
+            "metrics": {
+                "relativeDCReadability": 1.1910694630783658,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "DT": 0.154,
+                    "NNS": 0.058,
+                    "VBP": 0.045,
+                    "NN": 0.154,
+                    "PRP": 0.051,
+                    "VBZ": 0.077,
+                    "RB": 0.045,
+                    "JJ": 0.096,
+                    "MD": 0.013,
+                    "VB": 0.038,
+                    "CC": 0.058,
+                    "IN": 0.045,
+                    "TO": 0.038,
+                    "WRB": 0.006,
+                    "WP": 0.019,
+                    "VBN": 0.013,
+                    "NNP": 0.038,
+                    "CD": 0.019,
+                    "VBG": 0.019,
+                    "WDT": 0.013
+                },
+                "syllableRate": 2.1,
+                "topicScores": [
+                    [
+                        "atom",
+                        0.29635910424015455
+                    ],
+                    [
+                        "hydrogen",
+                        0.3204345543290246
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.34171627718600345
+                    ],
+                    [
+                        "force",
+                        0.3851183344588596
+                    ],
+                    [
+                        "Waals",
+                        0.4040956693183045
+                    ],
+                    [
+                        "energy",
+                        0.5340080091807909
+                    ],
+                    [
+                        "level",
+                        0.5403912044269333
+                    ],
+                    [
+                        "effect",
+                        0.5477569193687688
+                    ],
+                    [
+                        "variation",
+                        0.5555721991628899
+                    ],
+                    [
+                        "field",
+                        0.556313188029335
+                    ],
+                    [
+                        "der",
+                        0.5565177394143921
+                    ],
+                    [
+                        "Van",
+                        0.6615336895953284
+                    ],
+                    [
+                        "vibration",
+                        0.78227625304911
+                    ],
+                    [
+                        "detectable",
+                        0.8024339846020618
+                    ],
+                    [
+                        "der Waals",
+                        0.8192785262336948
+                    ],
+                    [
+                        "Waals force",
+                        0.845706532242957
+                    ],
+                    [
+                        "hydrogen atom",
+                        0.857618070675427
+                    ],
+                    [
+                        "experimentalist",
+                        0.8939530092084815
+                    ],
+                    [
+                        "look",
+                        0.8939530092084815
+                    ],
+                    [
+                        "original",
+                        0.8955134832459815
+                    ],
+                    [
+                        "neutral",
+                        0.9000043089093874
+                    ],
+                    [
+                        "important",
+                        0.9000043089093874
+                    ],
+                    [
+                        "magnetic",
+                        0.9015975284161458
+                    ],
+                    [
+                        "electric",
+                        0.9015975284161458
+                    ],
+                    [
+                        "perturbation",
+                        0.9063866487090316
+                    ],
+                    [
+                        "slight",
+                        0.9069893144182353
+                    ],
+                    [
+                        "moment",
+                        0.9110359090078948
+                    ],
+                    [
+                        "tiny",
+                        0.9110359090078948
+                    ],
+                    [
+                        "simple",
+                        0.9110359090078948
+                    ],
+                    [
+                        "structure",
+                        0.9110359090078948
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "atom",
+                        0.29635910424015455
+                    ],
+                    [
+                        "hydrogen",
+                        0.3204345543290246
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.34171627718600345
+                    ],
+                    [
+                        "energy",
+                        0.5340080091807909
+                    ],
+                    [
+                        "perturbation",
+                        0.9063866487090316
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-270": {
+            "id": "_OZXEb8FxZQ-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " This is our well known system. But then there's going to be an extra piece to that Hamiltonian. And we're going to call it delta H. Delta H is yet another Hamiltonian. It may be complicated, may be simple. But it's different from H 0. Now, this will be the Hamiltonian of the system that you're really trying to describe. And therefore, you should demand, of course, that H 0, delta H, and H are all Hermitian. All Hamiltonians are supposed to be Hermitian. And this is the situation we want to understand in general. This is the concrete mathematical description of the problem. But we do a little more here. We need a tool to help us deal with this. And there's a wonderful nice tool provided by a parameter. A parameter here makes all the difference. What is this parameter? It's a parameter we like to put here. And we'll call it lambda.",
+            "metrics": {
+                "relativeDCReadability": 0.9716440038398803,
+                "lexicalDiversity": 0.46296296296296297,
+                "posComposition": {
+                    "DT": 0.13,
+                    "VBZ": 0.062,
+                    "PRP$": 0.006,
+                    "RB": 0.056,
+                    "VBN": 0.025,
+                    "NN": 0.093,
+                    "CC": 0.056,
+                    "EX": 0.012,
+                    "VBG": 0.019,
+                    "TO": 0.049,
+                    "VB": 0.093,
+                    "JJ": 0.074,
+                    "PRP": 0.086,
+                    "VBP": 0.049,
+                    "NNP": 0.068,
+                    "MD": 0.031,
+                    "IN": 0.056,
+                    "CD": 0.012,
+                    "NNPS": 0.006,
+                    "RBR": 0.006,
+                    "PDT": 0.006,
+                    "WP": 0.006
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "H",
+                        0.24311411688515774
+                    ],
+                    [
+                        "hamiltonian",
+                        0.3618484313733255
+                    ],
+                    [
+                        "parameter",
+                        0.361925554969131
+                    ],
+                    [
+                        "H. Delta H",
+                        0.4556811097747221
+                    ],
+                    [
+                        "system",
+                        0.5274995677990785
+                    ],
+                    [
+                        "delta",
+                        0.5388217547020165
+                    ],
+                    [
+                        "tool",
+                        0.5664412369722389
+                    ],
+                    [
+                        "hermitian",
+                        0.6057217531181526
+                    ],
+                    [
+                        "extra",
+                        0.8523335701627655
+                    ],
+                    [
+                        "piece",
+                        0.8523335701627655
+                    ],
+                    [
+                        "simple",
+                        0.8582553750544878
+                    ],
+                    [
+                        "complicated",
+                        0.8789812664637799
+                    ],
+                    [
+                        "general",
+                        0.8878010233591337
+                    ],
+                    [
+                        "course",
+                        0.8897797471915156
+                    ],
+                    [
+                        "problem",
+                        0.8905906413732189
+                    ],
+                    [
+                        "different",
+                        0.8957872867444275
+                    ],
+                    [
+                        "lambda",
+                        0.9021699844194074
+                    ],
+                    [
+                        "situation",
+                        0.911777709113787
+                    ],
+                    [
+                        "concrete",
+                        0.9140289189807215
+                    ],
+                    [
+                        "mathematical",
+                        0.9140289189807215
+                    ],
+                    [
+                        "description",
+                        0.9140289189807215
+                    ],
+                    [
+                        "little",
+                        0.9159368795690247
+                    ],
+                    [
+                        "wonderful",
+                        0.919014644624782
+                    ],
+                    [
+                        "nice",
+                        0.919014644624782
+                    ],
+                    [
+                        "delta H",
+                        0.9308164415236362
+                    ],
+                    [
+                        "delta H. Delta",
+                        1.0689706911841599
+                    ],
+                    [
+                        "extra piece",
+                        2.6559397289283373
+                    ],
+                    [
+                        "nice tool",
+                        4.716913193108706
+                    ],
+                    [
+                        "concrete mathematical",
+                        5.077138260868311
+                    ],
+                    [
+                        "mathematical description",
+                        5.077138260868311
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "parameter",
+                        0.361925554969131
+                    ],
+                    [
+                        "system",
+                        0.5274995677990785
+                    ],
+                    [
+                        "extra",
+                        0.8523335701627655
+                    ],
+                    [
+                        "lambda",
+                        0.9021699844194074
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-360": {
+            "id": "_OZXEb8FxZQ-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " You might have said, no. I don't have such a thing. This is what I want to do. But still, it's better to put a lambda there, where lambda is unit-free, no units, and belongs to the interval 0 to 1. In that way, you will have defined a family of Hamiltonians that depend on lambda. And lambda is this quantity that you can vary from 0 to 1. So you decide you're going to solve a more general problem. Perhaps you knew what is the extra term in the Hamiltonian. And you say, why do I bother with lambda. The reason you bother with lambda is that it's going to help us solve the equations clearly. And second, physically, it's kind of interesting, because you could think of lambda as an extra parameter of the physics in which you maybe set it equal to 0, and you recover the original Hamiltonian. Or you vary it, and when it reaches 1, it is the Hamiltonian you're trying to solve. On the other hand, this parameter allows you to do something very nice too. One of the things we're going to try to clarify by the end of this lecture",
+            "metrics": {
+                "relativeDCReadability": 0.9439974375217353,
+                "lexicalDiversity": 0.4368932038834951,
+                "posComposition": {
+                    "PRP": 0.126,
+                    "MD": 0.019,
+                    "VB": 0.078,
+                    "VBD": 0.005,
+                    "DT": 0.112,
+                    "VBP": 0.063,
+                    "RB": 0.039,
+                    "JJ": 0.049,
+                    "NN": 0.112,
+                    "VBZ": 0.053,
+                    "WP": 0.01,
+                    "TO": 0.058,
+                    "CC": 0.034,
+                    "JJR": 0.005,
+                    "EX": 0.005,
+                    "WRB": 0.015,
+                    "NNS": 0.024,
+                    "CD": 0.034,
+                    "IN": 0.092,
+                    "VBN": 0.005,
+                    "NNPS": 0.005,
+                    "WDT": 0.01,
+                    "NNP": 0.019,
+                    "VBG": 0.019,
+                    "RBR": 0.005,
+                    "PDT": 0.005
+                },
+                "syllableRate": 2.392,
+                "topicScores": [
+                    [
+                        "lambda",
+                        0.29357320625376215
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.36744144132932305
+                    ],
+                    [
+                        "unit",
+                        0.5510137046571357
+                    ],
+                    [
+                        "thing",
+                        0.5636304550868747
+                    ],
+                    [
+                        "parameter",
+                        0.5741905813396235
+                    ],
+                    [
+                        "extra",
+                        0.5751516007660282
+                    ],
+                    [
+                        "free",
+                        0.8817031783577811
+                    ],
+                    [
+                        "problem",
+                        0.8898216199723822
+                    ],
+                    [
+                        "way",
+                        0.900260681441383
+                    ],
+                    [
+                        "well",
+                        0.9019763562239486
+                    ],
+                    [
+                        "interval",
+                        0.9019763562239486
+                    ],
+                    [
+                        "lecture",
+                        0.9065799764988208
+                    ],
+                    [
+                        "family",
+                        0.9091013131248855
+                    ],
+                    [
+                        "general",
+                        0.9098144609904124
+                    ],
+                    [
+                        "quantity",
+                        0.9141211062050565
+                    ],
+                    [
+                        "reason",
+                        0.9177911415268254
+                    ],
+                    [
+                        "equation",
+                        0.9177911415268254
+                    ],
+                    [
+                        "interesting",
+                        0.9196229492435003
+                    ],
+                    [
+                        "original",
+                        0.9196229492435003
+                    ],
+                    [
+                        "term",
+                        0.9208354726828248
+                    ],
+                    [
+                        "hand",
+                        0.9225771655671262
+                    ],
+                    [
+                        "nice",
+                        0.9225771655671262
+                    ],
+                    [
+                        "physics",
+                        0.9268867404452742
+                    ],
+                    [
+                        "equal",
+                        0.9268867404452742
+                    ],
+                    [
+                        "end",
+                        0.9307076953994223
+                    ],
+                    [
+                        "original Hamiltonian",
+                        1.1531809353510938
+                    ],
+                    [
+                        "general problem",
+                        4.251344513037299
+                    ],
+                    [
+                        "extra parameter",
+                        4.869047060006814
+                    ],
+                    [
+                        "extra term",
+                        5.227729388217166
+                    ]
+                ],
+                "topTopicSimilarity": 0.27586206896551724,
+                "sharedTopicScores": [
+                    [
+                        "lambda",
+                        0.29357320625376215
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.36744144132932305
+                    ],
+                    [
+                        "thing",
+                        0.5636304550868747
+                    ],
+                    [
+                        "parameter",
+                        0.5741905813396235
+                    ],
+                    [
+                        "extra",
+                        0.5751516007660282
+                    ],
+                    [
+                        "term",
+                        0.9208354726828248
+                    ],
+                    [
+                        "equal",
+                        0.9268867404452742
+                    ],
+                    [
+                        "original Hamiltonian",
+                        1.1531809353510938
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-450": {
+            "id": "_OZXEb8FxZQ-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " is, shouldn't this thing be rather small compared to this one. If we want to, say, deform the system slightly, we won the correction be small compared to the original Hamiltonian. So what does it mean for a Hamiltonian to be small compared to another Hamiltonian? These are operators. So what does it mean? Small. You could say, well, I don't know precisely what it means small. Maybe means that the matrix elements of this delta H are small compared to the matrix elements of that. And that is true. Surprisingly, will not be enough. On the other hand, whatever is small-- we could all agree that if this is not small, we could put lambda equals 0.01. Maybe that's small. But if that's not small, lambda equal 10 to the minus 9. If that's not small, 10 to the minus 30. At some point, this will be small enough. And therefore, we could try to make sense. This allows you to really think of this as a perturbation. For whatever delta H is, for a sufficiently small lambda, this is small.",
+            "metrics": {
+                "relativeDCReadability": 0.9085095514411827,
+                "lexicalDiversity": 0.48936170212765956,
+                "posComposition": {
+                    "VBZ": 0.074,
+                    "MD": 0.037,
+                    "RB": 0.09,
+                    "DT": 0.149,
+                    "NN": 0.059,
+                    "VB": 0.085,
+                    "JJ": 0.122,
+                    "VBN": 0.021,
+                    "TO": 0.053,
+                    "CD": 0.032,
+                    "IN": 0.085,
+                    "PRP": 0.059,
+                    "VBP": 0.027,
+                    "VBD": 0.005,
+                    "NNP": 0.027,
+                    "WP": 0.016,
+                    "NNS": 0.021,
+                    "CC": 0.016,
+                    "WDT": 0.011,
+                    ":": 0.005,
+                    "NNPS": 0.005
+                },
+                "syllableRate": 2.108,
+                "topicScores": [
+                    [
+                        "small",
+                        0.22342343269930592
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.3577714664026465
+                    ],
+                    [
+                        "h",
+                        0.41096357424417773
+                    ],
+                    [
+                        "lambda",
+                        0.45233082291308113
+                    ],
+                    [
+                        "minus",
+                        0.5678517987472658
+                    ],
+                    [
+                        "matrix",
+                        0.5699566312550549
+                    ],
+                    [
+                        "element",
+                        0.5699566312550549
+                    ],
+                    [
+                        "equal",
+                        0.5725050447882333
+                    ],
+                    [
+                        "delta",
+                        0.5762705301596158
+                    ],
+                    [
+                        "original hamiltonian",
+                        0.788471306621377
+                    ],
+                    [
+                        "thing",
+                        0.8465936392925268
+                    ],
+                    [
+                        "system",
+                        0.8832824410137251
+                    ],
+                    [
+                        "correction",
+                        0.8925376415039054
+                    ],
+                    [
+                        "operator",
+                        0.8946021142593026
+                    ],
+                    [
+                        "true",
+                        0.9173015633048072
+                    ],
+                    [
+                        "delta h",
+                        0.926662046676023
+                    ],
+                    [
+                        "sense",
+                        0.9273338175677167
+                    ],
+                    [
+                        "perturbation",
+                        0.9281980387504543
+                    ],
+                    [
+                        "hand",
+                        0.9345785468029185
+                    ],
+                    [
+                        "point",
+                        0.9389183793951194
+                    ],
+                    [
+                        "matrix element",
+                        2.799137769232393
+                    ],
+                    [
+                        "small lambda",
+                        3.3393834456213667
+                    ],
+                    [
+                        "lambda equal",
+                        4.583133056852982
+                    ]
+                ],
+                "topTopicSimilarity": 0.34782608695652173,
+                "sharedTopicScores": [
+                    [
+                        "small",
+                        0.22342343269930592
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.3577714664026465
+                    ],
+                    [
+                        "h",
+                        0.41096357424417773
+                    ],
+                    [
+                        "lambda",
+                        0.45233082291308113
+                    ],
+                    [
+                        "equal",
+                        0.5725050447882333
+                    ],
+                    [
+                        "thing",
+                        0.8465936392925268
+                    ],
+                    [
+                        "system",
+                        0.8832824410137251
+                    ],
+                    [
+                        "perturbation",
+                        0.9281980387504543
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-540": {
+            "id": "_OZXEb8FxZQ-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " So this is what we're going to try to solve. And let's try to imagine first what can happen. So I'm going to try to imagine what's going on. A plot, that's the best way to imagine things. So I'll do a plot. Here I put lambda. And here, in the vertical axis, I will indicate the spectrum of H 0. So this is going to be an energy. So it may happen that, in our systems, there's a ground state. And this ground state is going to be a single state. I will not put a name to it. I will just say there is one state here. That means the ground state is non-degenerate. Degenerate states are states of the same energy. And I say there's just one state, so not degeneracy. Suppose you go here. And now you find two states.",
+            "metrics": {
+                "relativeDCReadability": 0.8676545698263384,
+                "lexicalDiversity": 0.4473684210526316,
+                "posComposition": {
+                    "RB": 0.086,
+                    "DT": 0.092,
+                    "VBZ": 0.066,
+                    "WP": 0.02,
+                    "PRP": 0.086,
+                    "VBP": 0.046,
+                    "VBG": 0.033,
+                    "TO": 0.059,
+                    "VB": 0.105,
+                    "CC": 0.033,
+                    "MD": 0.039,
+                    "IN": 0.053,
+                    "NNP": 0.033,
+                    "NN": 0.118,
+                    "WDT": 0.007,
+                    "JJS": 0.007,
+                    "NNS": 0.033,
+                    "JJ": 0.033,
+                    "CD": 0.026,
+                    "PRP$": 0.007,
+                    "EX": 0.02
+                },
+                "syllableRate": 1.592,
+                "topicScores": [
+                    [
+                        "state",
+                        0.269057229402305
+                    ],
+                    [
+                        "ground",
+                        0.44210426620201276
+                    ],
+                    [
+                        "plot",
+                        0.5352846062494663
+                    ],
+                    [
+                        "energy",
+                        0.5536314905096805
+                    ],
+                    [
+                        "degenerate",
+                        0.5623051982890497
+                    ],
+                    [
+                        "H",
+                        0.644833034348039
+                    ],
+                    [
+                        "thing",
+                        0.8871554538288762
+                    ],
+                    [
+                        "lambda",
+                        0.900934778277085
+                    ],
+                    [
+                        "good",
+                        0.9122588629441072
+                    ],
+                    [
+                        "way",
+                        0.9122588629441072
+                    ],
+                    [
+                        "vertical",
+                        0.9203570374904966
+                    ],
+                    [
+                        "axis",
+                        0.9203570374904966
+                    ],
+                    [
+                        "system",
+                        0.9255478028431963
+                    ],
+                    [
+                        "spectrum",
+                        0.9266349160244511
+                    ],
+                    [
+                        "single",
+                        0.9274755839525213
+                    ],
+                    [
+                        "non",
+                        0.9317397333624207
+                    ],
+                    [
+                        "ground state",
+                        1.8843092174811327
+                    ],
+                    [
+                        "degenerate state",
+                        3.915786106735433
+                    ],
+                    [
+                        "single state",
+                        4.846833800976793
+                    ],
+                    [
+                        "good way",
+                        4.960052143302098
+                    ],
+                    [
+                        "vertical axis",
+                        5.538386849439555
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "state",
+                        0.269057229402305
+                    ],
+                    [
+                        "energy",
+                        0.5536314905096805
+                    ],
+                    [
+                        "degenerate",
+                        0.5623051982890497
+                    ],
+                    [
+                        "thing",
+                        0.8871554538288762
+                    ],
+                    [
+                        "lambda",
+                        0.900934778277085
+                    ],
+                    [
+                        "system",
+                        0.9255478028431963
+                    ],
+                    [
+                        "non",
+                        0.9317397333624207
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-630": {
+            "id": "_OZXEb8FxZQ-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " So I put two dots here to indicate that there are two states there. Finally, let's go higher up and assume that this Hamiltonian maybe has one state here, but here it has four states. And these are the energies. Those are some numbers. And the spectrum must continue to exist. So this is a spectrum of your H 0, the Hamiltonian you know. Certainly, the hydrogen atom Hamiltonian has degenerate states. So that's roughly what's happening there. The simple harmonic oscillator in one dimension doesn't have degenerate states. But the isotopic harmonic oscillator in two or three dimensions does have lots of degeneracies. You've seen those, probably. So that's typical. So what are we aiming to understand? We're aiming to understand what happens to the energy of those states or what happens to the energy eigenstates as the perturbation is turned on. So imagining lambda going from 0 to 1, the process of turning on the perturbation.",
+            "metrics": {
+                "relativeDCReadability": 1.0217728200791034,
+                "lexicalDiversity": 0.4909090909090909,
+                "posComposition": {
+                    "RB": 0.067,
+                    "PRP": 0.036,
+                    "VBP": 0.061,
+                    "CD": 0.061,
+                    "NNS": 0.067,
+                    "TO": 0.042,
+                    "VB": 0.061,
+                    "IN": 0.091,
+                    "EX": 0.006,
+                    "NNP": 0.03,
+                    "POS": 0.006,
+                    "RBR": 0.006,
+                    "CC": 0.042,
+                    "DT": 0.127,
+                    "JJ": 0.042,
+                    "NN": 0.097,
+                    "VBZ": 0.079,
+                    "MD": 0.006,
+                    "PRP$": 0.006,
+                    "WP": 0.024,
+                    "VBG": 0.03,
+                    "VBN": 0.012
+                },
+                "syllableRate": 2.133,
+                "topicScores": [
+                    [
+                        "state",
+                        0.305493999021391
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.3159710333877857
+                    ],
+                    [
+                        "energy",
+                        0.43907666191791567
+                    ],
+                    [
+                        "degenerate",
+                        0.5425576422937114
+                    ],
+                    [
+                        "harmonic",
+                        0.5524134462343384
+                    ],
+                    [
+                        "oscillator",
+                        0.5612262156112086
+                    ],
+                    [
+                        "perturbation",
+                        0.5641689609041664
+                    ],
+                    [
+                        "spectrum",
+                        0.5676505406982066
+                    ],
+                    [
+                        "dimension",
+                        0.5686837859759785
+                    ],
+                    [
+                        "dot",
+                        0.8671493180586137
+                    ],
+                    [
+                        "number",
+                        0.8753587603263139
+                    ],
+                    [
+                        "typical",
+                        0.9026444640439487
+                    ],
+                    [
+                        "hydrogen",
+                        0.9107386700950731
+                    ],
+                    [
+                        "simple",
+                        0.91561667146092
+                    ],
+                    [
+                        "atom",
+                        0.9187343968692332
+                    ],
+                    [
+                        "process",
+                        0.9238690305439972
+                    ],
+                    [
+                        "isotopic",
+                        0.9249331765166698
+                    ],
+                    [
+                        "lot",
+                        0.9249331765166698
+                    ],
+                    [
+                        "eigenstate",
+                        0.9298648329279204
+                    ],
+                    [
+                        "lambda",
+                        0.9307779809728743
+                    ],
+                    [
+                        "atom Hamiltonian",
+                        1.384284211359864
+                    ],
+                    [
+                        "degenerate state",
+                        1.7726566011948874
+                    ],
+                    [
+                        "harmonic oscillator",
+                        2.221703842892518
+                    ],
+                    [
+                        "simple harmonic",
+                        4.042162206110243
+                    ],
+                    [
+                        "isotopic harmonic",
+                        4.258438993154285
+                    ],
+                    [
+                        "energy eigenstate",
+                        4.451489461171382
+                    ],
+                    [
+                        "hydrogen atom",
+                        5.124709226358661
+                    ],
+                    [
+                        "hydrogen atom Hamiltonian",
+                        8.175317296566952
+                    ],
+                    [
+                        "simple harmonic oscillator",
+                        22.818125745120696
+                    ],
+                    [
+                        "isotopic harmonic oscillator",
+                        24.569591811495812
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "state",
+                        0.305493999021391
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.3159710333877857
+                    ],
+                    [
+                        "energy",
+                        0.43907666191791567
+                    ],
+                    [
+                        "degenerate",
+                        0.5425576422937114
+                    ],
+                    [
+                        "harmonic",
+                        0.5524134462343384
+                    ],
+                    [
+                        "oscillator",
+                        0.5612262156112086
+                    ],
+                    [
+                        "perturbation",
+                        0.5641689609041664
+                    ],
+                    [
+                        "hydrogen",
+                        0.9107386700950731
+                    ],
+                    [
+                        "atom",
+                        0.9187343968692332
+                    ],
+                    [
+                        "eigenstate",
+                        0.9298648329279204
+                    ],
+                    [
+                        "lambda",
+                        0.9307779809728743
+                    ],
+                    [
+                        "atom Hamiltonian",
+                        1.384284211359864
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-720": {
+            "id": "_OZXEb8FxZQ-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " And eigenstates are going to change, because whatever was an eigenstate of H 0 is not going to be an eigenstate of the new Hamiltonian. And the energies are going to change. So everything is going to change. But presumably, it will happen continuously as you change lambda continuously from 0 to 1. So this first state, for example, may do this. I don't know what it will do. But it will vary as a function of lambda. The energy will do something. Maybe we can cut it here and say that lambda is equal to 1 here. Now we have two states. So I can analyze this state with what's called non-degenerate perturbation theory, which means you have a non-degenerate state. And there are techniques that we're going to do today to understand how this state varies. But how about this one? Here you have two states. What happens to them? Well, two states should remain two states. And their energies, what will they do? Maybe they'll track each other. But maybe the perturbation splits the degeneracy. That's a very important phenomenon. Let's assume it does that.",
+            "metrics": {
+                "relativeDCReadability": 0.9184187873674425,
+                "lexicalDiversity": 0.4381443298969072,
+                "posComposition": {
+                    "CC": 0.046,
+                    "NNS": 0.046,
+                    "VBP": 0.052,
+                    "VBG": 0.026,
+                    "TO": 0.046,
+                    "VB": 0.098,
+                    "IN": 0.072,
+                    "WDT": 0.015,
+                    "VBD": 0.005,
+                    "DT": 0.082,
+                    "NN": 0.098,
+                    "NNP": 0.026,
+                    "CD": 0.046,
+                    "VBZ": 0.046,
+                    "RB": 0.072,
+                    "JJ": 0.036,
+                    "PRP": 0.082,
+                    "MD": 0.052,
+                    "WP": 0.021,
+                    "VBN": 0.005,
+                    "EX": 0.005,
+                    "WRB": 0.01,
+                    "PRP$": 0.005,
+                    "POS": 0.005
+                },
+                "syllableRate": 2.333,
+                "topicScores": [
+                    [
+                        "state",
+                        0.27293381198973204
+                    ],
+                    [
+                        "eigenstate",
+                        0.3746705298742514
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.3910470417580034
+                    ],
+                    [
+                        "h",
+                        0.42856762143955035
+                    ],
+                    [
+                        "energy",
+                        0.43925129843441263
+                    ],
+                    [
+                        "lambda",
+                        0.44485910239056936
+                    ],
+                    [
+                        "new Hamiltonian",
+                        0.4701612200252558
+                    ],
+                    [
+                        "degenerate",
+                        0.5634993267813924
+                    ],
+                    [
+                        "non",
+                        0.5680797721284679
+                    ],
+                    [
+                        "perturbation",
+                        0.5744373966377448
+                    ],
+                    [
+                        "example",
+                        0.9020069867667989
+                    ],
+                    [
+                        "phenomenon",
+                        0.9239377541544977
+                    ],
+                    [
+                        "function",
+                        0.9244913192506776
+                    ],
+                    [
+                        "theory",
+                        0.9272868197840058
+                    ],
+                    [
+                        "equal",
+                        0.9294332908289744
+                    ],
+                    [
+                        "technique",
+                        0.9341584179174277
+                    ],
+                    [
+                        "today",
+                        0.9341584179174277
+                    ],
+                    [
+                        "important",
+                        0.9357782279533027
+                    ],
+                    [
+                        "degenerate state",
+                        3.3997409990071468
+                    ],
+                    [
+                        "degenerate perturbation",
+                        4.352070148240201
+                    ],
+                    [
+                        "perturbation theory",
+                        5.420923566079659
+                    ],
+                    [
+                        "important phenomenon",
+                        6.385569881405671
+                    ],
+                    [
+                        "degenerate perturbation theory",
+                        33.572770424937914
+                    ]
+                ],
+                "topTopicSimilarity": 0.4782608695652174,
+                "sharedTopicScores": [
+                    [
+                        "state",
+                        0.27293381198973204
+                    ],
+                    [
+                        "eigenstate",
+                        0.3746705298742514
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.3910470417580034
+                    ],
+                    [
+                        "h",
+                        0.42856762143955035
+                    ],
+                    [
+                        "energy",
+                        0.43925129843441263
+                    ],
+                    [
+                        "lambda",
+                        0.44485910239056936
+                    ],
+                    [
+                        "degenerate",
+                        0.5634993267813924
+                    ],
+                    [
+                        "non",
+                        0.5680797721284679
+                    ],
+                    [
+                        "perturbation",
+                        0.5744373966377448
+                    ],
+                    [
+                        "example",
+                        0.9020069867667989
+                    ],
+                    [
+                        "equal",
+                        0.9294332908289744
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-810": {
+            "id": "_OZXEb8FxZQ-810",
+            "heat": 0.11,
+            "start": 810.0,
+            "text": " So it may look like this, like that, for example. The perturbation makes one state have more energy than the other. Here is another state. Now, a phenomenon that might happen-- many things can happen. This is a very rich subject because of all the things that can happen. It may happen that this thing, for example, goes like this and like that. But there are four states. It may be that one state goes here. And three states go here. But then after a little while, they'll depart. How many did I want? No, I got too many. Well, five. All right, so it may happen, something like that, that they split, and then to a higher order, they kept splitting. In fact, they're splitting here already, but you don't see it. It's too close, just the same way as x squared and x to the fourth and x to the eighth, at the origin, they all look the same. And then they eventually split. So this is what we're going to try to understand.",
+            "metrics": {
+                "relativeDCReadability": 0.7309412952224288,
+                "lexicalDiversity": 0.44505494505494503,
+                "posComposition": {
+                    "IN": 0.11,
+                    "PRP": 0.088,
+                    "MD": 0.044,
+                    "VB": 0.06,
+                    "DT": 0.126,
+                    "NN": 0.093,
+                    "VBZ": 0.038,
+                    "CD": 0.027,
+                    "VBP": 0.044,
+                    "JJR": 0.011,
+                    "JJ": 0.06,
+                    "RB": 0.093,
+                    "WDT": 0.011,
+                    ":": 0.005,
+                    "NNS": 0.022,
+                    "PDT": 0.005,
+                    "CC": 0.049,
+                    "EX": 0.005,
+                    "NNP": 0.016,
+                    "VBD": 0.027,
+                    "TO": 0.027,
+                    "VBG": 0.016,
+                    "VBN": 0.011,
+                    "WP": 0.005
+                },
+                "syllableRate": 1.892,
+                "topicScores": [
+                    [
+                        "state",
+                        0.33297560063707793
+                    ],
+                    [
+                        "thing",
+                        0.4433980802307412
+                    ],
+                    [
+                        "example",
+                        0.5232229552173491
+                    ],
+                    [
+                        "perturbation",
+                        0.8821206527451558
+                    ],
+                    [
+                        "energy",
+                        0.8906878471819276
+                    ],
+                    [
+                        "phenomenon",
+                        0.9111358000103322
+                    ],
+                    [
+                        "rich",
+                        0.9238632652467943
+                    ],
+                    [
+                        "subject",
+                        0.9238632652467943
+                    ],
+                    [
+                        "splitting",
+                        0.9257984039660521
+                    ],
+                    [
+                        "little",
+                        0.9323585425614329
+                    ],
+                    [
+                        "fact",
+                        0.9329174777283452
+                    ],
+                    [
+                        "high",
+                        0.9373688678869169
+                    ],
+                    [
+                        "order",
+                        0.9373688678869169
+                    ],
+                    [
+                        "close",
+                        0.9390825437234754
+                    ],
+                    [
+                        "eighth",
+                        0.9390825437234754
+                    ],
+                    [
+                        "origin",
+                        0.9390825437234754
+                    ],
+                    [
+                        "way",
+                        0.9437737554154566
+                    ],
+                    [
+                        "fourth",
+                        0.9437737554154566
+                    ],
+                    [
+                        "rich subject",
+                        5.827025898461626
+                    ],
+                    [
+                        "high order",
+                        7.241332215843107
+                    ]
+                ],
+                "topTopicSimilarity": 0.25,
+                "sharedTopicScores": [
+                    [
+                        "state",
+                        0.33297560063707793
+                    ],
+                    [
+                        "thing",
+                        0.4433980802307412
+                    ],
+                    [
+                        "example",
+                        0.5232229552173491
+                    ],
+                    [
+                        "perturbation",
+                        0.8821206527451558
+                    ],
+                    [
+                        "energy",
+                        0.8906878471819276
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-900": {
+            "id": "_OZXEb8FxZQ-900",
+            "heat": 0.187,
+            "start": 900.0,
+            "text": " For this, we need non-degenerate perturbation theory, for this, degenerate perturbation theory, for this, we need sophisticated degenerate perturbation theory. This is a very intricate phenomenon. But still, it happens and happens in many applications. So we're going to start with a simpler one, which is non-degenerate perturbation theory. And then we say, well, what does it mean that we understand H 0? It means that we have found all the eigenstates with k 1, maybe up to infinity. I don't know. k is not momentum. These are the energy eigenstates of H 0 that we're supposed to know. And they're all orthonormal. That can always be done. When you have a Hermitian Hamiltonian, you can find an orthonormal basis of states. And being orthonormal, this orthogonality holds. The states are eigenstates of the H 0. So for this, we'll call this E k 0.",
+            "metrics": {
+                "relativeDCReadability": 1.1151396396847626,
+                "lexicalDiversity": 0.4866666666666667,
+                "posComposition": {
+                    "IN": 0.1,
+                    "DT": 0.113,
+                    "PRP": 0.1,
+                    "VBP": 0.08,
+                    "JJ": 0.08,
+                    "NN": 0.107,
+                    "VBZ": 0.053,
+                    "RB": 0.053,
+                    "CC": 0.033,
+                    "NNS": 0.04,
+                    "VBG": 0.013,
+                    "TO": 0.02,
+                    "VB": 0.047,
+                    "CD": 0.04,
+                    "WDT": 0.013,
+                    "WP": 0.007,
+                    "$": 0.007,
+                    "VBN": 0.02,
+                    "PDT": 0.007,
+                    "NNP": 0.033,
+                    "MD": 0.02,
+                    "WRB": 0.007,
+                    "VBD": 0.007
+                },
+                "syllableRate": 1.983,
+                "topicScores": [
+                    [
+                        "perturbation",
+                        0.2853765120578974
+                    ],
+                    [
+                        "theory",
+                        0.2892407980021147
+                    ],
+                    [
+                        "degenerate",
+                        0.3228492582402301
+                    ],
+                    [
+                        "perturbation theory",
+                        0.3453391588052859
+                    ],
+                    [
+                        "degenerate perturbation",
+                        0.4250705006474676
+                    ],
+                    [
+                        "k",
+                        0.45079792423468074
+                    ],
+                    [
+                        "orthonormal",
+                        0.4513325906553137
+                    ],
+                    [
+                        "eigenstate",
+                        0.4538247011378551
+                    ],
+                    [
+                        "non",
+                        0.5290756009060442
+                    ],
+                    [
+                        "H",
+                        0.6282825524854108
+                    ],
+                    [
+                        "degenerate perturbation theory",
+                        0.6471583803286479
+                    ],
+                    [
+                        "Hermitian",
+                        0.6864342950420933
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.6864342950420933
+                    ],
+                    [
+                        "sophisticated",
+                        0.8361826104479093
+                    ],
+                    [
+                        "phenomenon",
+                        0.8473355531997965
+                    ],
+                    [
+                        "application",
+                        0.8708915329542446
+                    ],
+                    [
+                        "intricate",
+                        0.8739457241607183
+                    ],
+                    [
+                        "Hermitian Hamiltonian",
+                        0.8910456693319304
+                    ],
+                    [
+                        "infinity",
+                        0.8979283424233899
+                    ],
+                    [
+                        "simple",
+                        0.9047558099915536
+                    ],
+                    [
+                        "momentum",
+                        0.9057782330654932
+                    ],
+                    [
+                        "orthogonality",
+                        0.9244345360926213
+                    ],
+                    [
+                        "energy",
+                        0.9322266396639907
+                    ],
+                    [
+                        "basis",
+                        0.9367774479866068
+                    ],
+                    [
+                        "sophisticated degenerate",
+                        1.6797429601126286
+                    ],
+                    [
+                        "e k",
+                        1.777897373268008
+                    ],
+                    [
+                        "sophisticated degenerate perturbation",
+                        2.7133748206500434
+                    ],
+                    [
+                        "intricate phenomenon",
+                        2.8539400449508245
+                    ],
+                    [
+                        "orthonormal basis",
+                        5.476532298651351
+                    ],
+                    [
+                        "energy eigenstate",
+                        5.499201831705967
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "perturbation",
+                        0.2853765120578974
+                    ],
+                    [
+                        "degenerate",
+                        0.3228492582402301
+                    ],
+                    [
+                        "eigenstate",
+                        0.4538247011378551
+                    ],
+                    [
+                        "non",
+                        0.5290756009060442
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.6864342950420933
+                    ],
+                    [
+                        "Hermitian Hamiltonian",
+                        0.8910456693319304
+                    ],
+                    [
+                        "energy",
+                        0.9322266396639907
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-990": {
+            "id": "_OZXEb8FxZQ-990",
+            "heat": 0.196,
+            "start": 990.0,
+            "text": " The energy of this state, k, for the label of the state, 0, because we're not doing anything in perturbation yet. We're dealing with the unperturbed 0th order system. That defines the energies. And this energy satisfies a E 0 0 is less than or equal than E 1 0 less than or equal to E 2 0. So all the energies are ordered. I need the equals because of the degeneracy. They might be degenerate. So you have this situation. So let's consider this state that is non-degenerate. And let's assume this is the state n 0. It's the nth state. If n 0 is non-degenerate, it means that E n 0 it's really smaller than the next one.",
+            "metrics": {
+                "relativeDCReadability": 1.1636680260703054,
+                "lexicalDiversity": 0.5317460317460317,
+                "posComposition": {
+                    "DT": 0.135,
+                    "NN": 0.135,
+                    "IN": 0.111,
+                    "CD": 0.071,
+                    "PRP": 0.071,
+                    "VBP": 0.04,
+                    "RB": 0.048,
+                    "VBG": 0.016,
+                    "JJ": 0.071,
+                    "WDT": 0.016,
+                    "VBZ": 0.071,
+                    "NNS": 0.024,
+                    "CC": 0.032,
+                    "NNP": 0.024,
+                    "JJR": 0.024,
+                    "$": 0.008,
+                    "TO": 0.008,
+                    "VB": 0.04,
+                    "PDT": 0.008,
+                    "VBN": 0.016,
+                    "MD": 0.008,
+                    "POS": 0.008,
+                    "VBD": 0.016
+                },
+                "syllableRate": 1.483,
+                "topicScores": [
+                    [
+                        "e",
+                        0.2973200009218779
+                    ],
+                    [
+                        "state",
+                        0.3400929885480313
+                    ],
+                    [
+                        "energy",
+                        0.37375125654389557
+                    ],
+                    [
+                        "degenerate",
+                        0.4321799651436108
+                    ],
+                    [
+                        "equal",
+                        0.4448627065593946
+                    ],
+                    [
+                        "order",
+                        0.549013191131735
+                    ],
+                    [
+                        "non",
+                        0.5564699559145487
+                    ],
+                    [
+                        "k",
+                        0.7992845045600117
+                    ],
+                    [
+                        "perturbation",
+                        0.8180330619064682
+                    ],
+                    [
+                        "label",
+                        0.8344354956292065
+                    ],
+                    [
+                        "system",
+                        0.8404458349552772
+                    ],
+                    [
+                        "unperturbed",
+                        0.8835197755372147
+                    ],
+                    [
+                        "0th",
+                        0.8835197755372147
+                    ],
+                    [
+                        "situation",
+                        0.9012185444216603
+                    ],
+                    [
+                        "nth",
+                        0.9273873883340262
+                    ],
+                    [
+                        "small",
+                        0.937156559573991
+                    ],
+                    [
+                        "E n",
+                        1.749484237435603
+                    ],
+                    [
+                        "order system",
+                        2.7219941232939586
+                    ],
+                    [
+                        "0th order",
+                        3.325414207341086
+                    ],
+                    [
+                        "unperturbed 0th",
+                        3.558034591755795
+                    ],
+                    [
+                        "state n",
+                        3.7839050289454814
+                    ],
+                    [
+                        "nth state",
+                        4.413946843675927
+                    ],
+                    [
+                        "0th order system",
+                        13.02762546214248
+                    ],
+                    [
+                        "unperturbed 0th order",
+                        16.858832398261455
+                    ]
+                ],
+                "topTopicSimilarity": 0.375,
+                "sharedTopicScores": [
+                    [
+                        "state",
+                        0.3400929885480313
+                    ],
+                    [
+                        "energy",
+                        0.37375125654389557
+                    ],
+                    [
+                        "degenerate",
+                        0.4321799651436108
+                    ],
+                    [
+                        "equal",
+                        0.4448627065593946
+                    ],
+                    [
+                        "non",
+                        0.5564699559145487
+                    ],
+                    [
+                        "perturbation",
+                        0.8180330619064682
+                    ],
+                    [
+                        "system",
+                        0.8404458349552772
+                    ],
+                    [
+                        "small",
+                        0.937156559573991
+                    ],
+                    [
+                        "E n",
+                        1.749484237435603
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-1080": {
+            "id": "_OZXEb8FxZQ-1080",
+            "heat": 0.164,
+            "start": 1080.0,
+            "text": " And it's really bigger, the energy, than the previous one. No equal signs there. It really means those things are separate. And that's the meaning of non-degeneracy. And now, what are we trying to solve? Starting from this n 0, we're trying to find out how the energy changes and how the state changes. Both things are important. So we're going to try to solve. Therefore, for H of lambda n lambda. The state n 0 is going to change when lambda turns on. And it's going to become n of lambda. And this is going to have an energy E n lambda instead of E n 0. This has an energy E n 0 with respect to the original Hamiltonian.",
+            "metrics": {
+                "relativeDCReadability": 1.0517248384390763,
+                "lexicalDiversity": 0.5238095238095238,
+                "posComposition": {
+                    "CC": 0.048,
+                    "PRP": 0.048,
+                    "VBZ": 0.079,
+                    "RB": 0.04,
+                    "JJR": 0.008,
+                    "DT": 0.119,
+                    "NN": 0.095,
+                    "IN": 0.079,
+                    "JJ": 0.079,
+                    "CD": 0.04,
+                    "NNP": 0.048,
+                    "NNS": 0.04,
+                    "EX": 0.008,
+                    "VBP": 0.04,
+                    "WP": 0.008,
+                    "VBG": 0.056,
+                    "TO": 0.063,
+                    "VB": 0.056,
+                    "RP": 0.008,
+                    "WRB": 0.024,
+                    "VBD": 0.008,
+                    "FW": 0.008
+                },
+                "syllableRate": 1.45,
+                "topicScores": [
+                    [
+                        "n",
+                        0.3023810662119586
+                    ],
+                    [
+                        "lambda",
+                        0.3533671668406426
+                    ],
+                    [
+                        "energy",
+                        0.38340673095713523
+                    ],
+                    [
+                        "E",
+                        0.4452083819935698
+                    ],
+                    [
+                        "change",
+                        0.4566307889970901
+                    ],
+                    [
+                        "thing",
+                        0.5654938018320693
+                    ],
+                    [
+                        "state",
+                        0.5660995595209973
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.6692553177653613
+                    ],
+                    [
+                        "big",
+                        0.8720865440601594
+                    ],
+                    [
+                        "previous",
+                        0.8720865440601594
+                    ],
+                    [
+                        "degeneracy",
+                        0.8731906891181624
+                    ],
+                    [
+                        "separate",
+                        0.8791200799907576
+                    ],
+                    [
+                        "equal",
+                        0.8923088477367903
+                    ],
+                    [
+                        "sign",
+                        0.8923088477367903
+                    ],
+                    [
+                        "important",
+                        0.9018983219561164
+                    ],
+                    [
+                        "non",
+                        0.910339029047718
+                    ],
+                    [
+                        "meaning",
+                        0.9192424424663065
+                    ],
+                    [
+                        "original",
+                        0.9316733212224134
+                    ],
+                    [
+                        "respect",
+                        0.9386011063156329
+                    ],
+                    [
+                        "E n",
+                        1.1222141352139712
+                    ],
+                    [
+                        "original Hamiltonian",
+                        1.6562352740888258
+                    ],
+                    [
+                        "energy E",
+                        1.6895436898335727
+                    ],
+                    [
+                        "n lambda",
+                        3.050572923307594
+                    ],
+                    [
+                        "equal sign",
+                        3.907134437474903
+                    ],
+                    [
+                        "energy change",
+                        4.348297140426301
+                    ],
+                    [
+                        "state n",
+                        4.374354033917645
+                    ],
+                    [
+                        "state change",
+                        4.5377370123305605
+                    ],
+                    [
+                        "lambda n lambda",
+                        34.13099535596865
+                    ]
+                ],
+                "topTopicSimilarity": 0.42857142857142855,
+                "sharedTopicScores": [
+                    [
+                        "lambda",
+                        0.3533671668406426
+                    ],
+                    [
+                        "energy",
+                        0.38340673095713523
+                    ],
+                    [
+                        "E",
+                        0.4452083819935698
+                    ],
+                    [
+                        "change",
+                        0.4566307889970901
+                    ],
+                    [
+                        "thing",
+                        0.5654938018320693
+                    ],
+                    [
+                        "state",
+                        0.5660995595209973
+                    ],
+                    [
+                        "Hamiltonian",
+                        0.6692553177653613
+                    ],
+                    [
+                        "equal",
+                        0.8923088477367903
+                    ],
+                    [
+                        "non",
+                        0.910339029047718
+                    ],
+                    [
+                        "E n",
+                        1.1222141352139712
+                    ],
+                    [
+                        "original Hamiltonian",
+                        1.6562352740888258
+                    ],
+                    [
+                        "energy E",
+                        1.6895436898335727
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-1170": {
+            "id": "_OZXEb8FxZQ-1170",
+            "heat": 0.115,
+            "start": 1170.0,
+            "text": " Now it's going to have an energy E n of lambda n of lambda. So that's the equation we want to solve. This is what this state n 0 becomes as you turn on lambda. And this is what the energy E n 0 becomes as you turn on lambda. So we note that, when n lambda equal to 0, is what we call the state n zero. And the energy E n at lambda equal 0 is what we call E n 0. So with this initial conditions at lambda equals 0, we're trying to solve this system to see what the state becomes. And now, here comes a key assumption, that the way we're going to solve this allows us to write a perturbative serious expansion for this object. So in particular, we'll write n of lambda is equal to n 0. That's what n of lambda should be when lambda is equal to 0. So then there will be a first order correction, lambda, times the state n 1 plus lambda squared times the state n 2.",
+            "metrics": {
+                "relativeDCReadability": 1.186786640795187,
+                "lexicalDiversity": 0.532258064516129,
+                "posComposition": {
+                    "RB": 0.043,
+                    "PRP": 0.059,
+                    "VBZ": 0.07,
+                    "VBG": 0.016,
+                    "TO": 0.048,
+                    "VB": 0.054,
+                    "DT": 0.108,
+                    "NN": 0.167,
+                    "NNP": 0.027,
+                    "IN": 0.086,
+                    "JJ": 0.075,
+                    "WDT": 0.005,
+                    "VBP": 0.043,
+                    "WP": 0.032,
+                    "VBD": 0.016,
+                    "CD": 0.054,
+                    "NNS": 0.038,
+                    "CC": 0.022,
+                    "WRB": 0.011,
+                    "MD": 0.016,
+                    "EX": 0.005,
+                    "VBN": 0.005
+                },
+                "syllableRate": 2.0,
+                "topicScores": [
+                    [
+                        "lambda",
+                        0.23594005073117186
+                    ],
+                    [
+                        "n",
+                        0.23691145710451855
+                    ],
+                    [
+                        "E",
+                        0.2970833046709416
+                    ],
+                    [
+                        "equal",
+                        0.3213476830176605
+                    ],
+                    [
+                        "state",
+                        0.340688351412518
+                    ],
+                    [
+                        "energy",
+                        0.4313184125795213
+                    ],
+                    [
+                        "time",
+                        0.5721849913140293
+                    ],
+                    [
+                        "E n",
+                        0.5774511725229462
+                    ],
+                    [
+                        "energy e",
+                        0.6389281098438706
+                    ],
+                    [
+                        "equation",
+                        0.8915741740514879
+                    ],
+                    [
+                        "object",
+                        0.9099078798735747
+                    ],
+                    [
+                        "key",
+                        0.9274442014152513
+                    ],
+                    [
+                        "assumption",
+                        0.9274442014152513
+                    ],
+                    [
+                        "particular",
+                        0.9296484937292947
+                    ],
+                    [
+                        "initial",
+                        0.9319106602856768
+                    ],
+                    [
+                        "condition",
+                        0.9319106602856768
+                    ],
+                    [
+                        "system",
+                        0.9319106602856768
+                    ],
+                    [
+                        "order",
+                        0.9330270446994243
+                    ],
+                    [
+                        "correction",
+                        0.9330270446994243
+                    ],
+                    [
+                        "way",
+                        0.934392782404754
+                    ],
+                    [
+                        "perturbative",
+                        0.934392782404754
+                    ],
+                    [
+                        "expansion",
+                        0.934392782404754
+                    ],
+                    [
+                        "state n",
+                        1.6637132488242974
+                    ],
+                    [
+                        "lambda equal",
+                        1.6654016063821526
+                    ],
+                    [
+                        "lambda n",
+                        3.7064392788909433
+                    ],
+                    [
+                        "key assumption",
+                        6.150658855859373
+                    ],
+                    [
+                        "initial condition",
+                        6.602104555458059
+                    ],
+                    [
+                        "order correction",
+                        6.7243617818353325
+                    ],
+                    [
+                        "perturbative serious expansion",
+                        66.06738220506406
+                    ]
+                ],
+                "topTopicSimilarity": 0.2413793103448276,
+                "sharedTopicScores": [
+                    [
+                        "lambda",
+                        0.23594005073117186
+                    ],
+                    [
+                        "E",
+                        0.2970833046709416
+                    ],
+                    [
+                        "equal",
+                        0.3213476830176605
+                    ],
+                    [
+                        "state",
+                        0.340688351412518
+                    ],
+                    [
+                        "energy",
+                        0.4313184125795213
+                    ],
+                    [
+                        "E n",
+                        0.5774511725229462
+                    ],
+                    [
+                        "system",
+                        0.9319106602856768
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-1260": {
+            "id": "_OZXEb8FxZQ-1260",
+            "heat": 0.128,
+            "start": 1260.0,
+            "text": " And it will go on and on. Moreover, E n lambda, when lambda is equal to 0, you're back to the energy E n 0. But then there will be a lambda correction times E n 1-- that's a name for the first order correction-- plus a lambda squared correction E n 2. So this is our hypothesis that there is a solution in a perturbative serious expansion of this kind. And what are our unknowns? Our unknowns are this object. This one we know is the original state. This object is unknown. This is unknown. This is unknown. All these things are unknown. And they go on like that. Most important, all these objects don't depend on lambda. The lambda-dependence is here, lambda, lambda squared,",
+            "metrics": {
+                "relativeDCReadability": 1.0286522939302156,
+                "lexicalDiversity": 0.48854961832061067,
+                "posComposition": {
+                    "CC": 0.046,
+                    "PRP": 0.031,
+                    "MD": 0.023,
+                    "VB": 0.031,
+                    "IN": 0.076,
+                    "RB": 0.053,
+                    "NNP": 0.031,
+                    "WRB": 0.008,
+                    "NN": 0.13,
+                    "VBZ": 0.076,
+                    "JJ": 0.099,
+                    "TO": 0.015,
+                    "CD": 0.038,
+                    "VBP": 0.053,
+                    "DT": 0.153,
+                    "EX": 0.015,
+                    "NNS": 0.031,
+                    ":": 0.015,
+                    "VBN": 0.008,
+                    "PRP$": 0.023,
+                    "WDT": 0.008,
+                    "PDT": 0.023,
+                    "RBS": 0.008,
+                    "VBD": 0.008
+                },
+                "syllableRate": 1.533,
+                "topicScores": [
+                    [
+                        "E",
+                        0.2454485867970778
+                    ],
+                    [
+                        "lambda",
+                        0.2874470170666925
+                    ],
+                    [
+                        "unknown",
+                        0.29558473265407925
+                    ],
+                    [
+                        "object",
+                        0.44725612229338974
+                    ],
+                    [
+                        "E n",
+                        0.46390944476446366
+                    ],
+                    [
+                        "correction",
+                        0.5573734250849603
+                    ],
+                    [
+                        "kind",
+                        0.8878588339601731
+                    ],
+                    [
+                        "equal",
+                        0.8994253203420934
+                    ],
+                    [
+                        "energy",
+                        0.8994253203420934
+                    ],
+                    [
+                        "state",
+                        0.9020397100817978
+                    ],
+                    [
+                        "order",
+                        0.909764326025968
+                    ],
+                    [
+                        "hypothesis",
+                        0.9163756880577151
+                    ],
+                    [
+                        "solution",
+                        0.9163756880577151
+                    ],
+                    [
+                        "perturbative",
+                        0.9163756880577151
+                    ],
+                    [
+                        "expansion",
+                        0.9163756880577151
+                    ],
+                    [
+                        "original",
+                        0.9200147619439925
+                    ],
+                    [
+                        "important",
+                        0.9226044646726619
+                    ],
+                    [
+                        "dependence",
+                        0.9309830081150133
+                    ],
+                    [
+                        "thing",
+                        0.9341795294853373
+                    ],
+                    [
+                        "energy E",
+                        1.0516820961104956
+                    ],
+                    [
+                        "n lambda",
+                        3.337922817821681
+                    ],
+                    [
+                        "correction E n",
+                        3.5559750927432363
+                    ],
+                    [
+                        "lambda correction",
+                        4.12704344358381
+                    ],
+                    [
+                        "order correction--",
+                        4.8028581843070715
+                    ],
+                    [
+                        "original state",
+                        4.878543960572998
+                    ],
+                    [
+                        "perturbative serious expansion",
+                        38.846071192153275
+                    ]
+                ],
+                "topTopicSimilarity": 0.34615384615384615,
+                "sharedTopicScores": [
+                    [
+                        "E",
+                        0.2454485867970778
+                    ],
+                    [
+                        "lambda",
+                        0.2874470170666925
+                    ],
+                    [
+                        "unknown",
+                        0.29558473265407925
+                    ],
+                    [
+                        "E n",
+                        0.46390944476446366
+                    ],
+                    [
+                        "equal",
+                        0.8994253203420934
+                    ],
+                    [
+                        "energy",
+                        0.8994253203420934
+                    ],
+                    [
+                        "state",
+                        0.9020397100817978
+                    ],
+                    [
+                        "thing",
+                        0.9341795294853373
+                    ],
+                    [
+                        "energy E",
+                        1.0516820961104956
+                    ]
+                ]
+            }
+        },
+        "_OZXEb8FxZQ-1350": {
+            "id": "_OZXEb8FxZQ-1350",
+            "heat": 0.15,
+            "start": 1350.0,
+            "text": " lambda on. And these are things that don't depend on lambda. These are objects that have to be calculated. They're all lambda-independent. So we are supposed to solve this equation under this conditions. And that's what we're going to do next.",
+            "metrics": {
+                "relativeDCReadability": 0.8863445466119467,
+                "lexicalDiversity": 0.37777777777777777,
+                "posComposition": {
+                    "NN": 0.067,
+                    "IN": 0.089,
+                    "CC": 0.044,
+                    "DT": 0.133,
+                    "VBP": 0.156,
+                    "NNS": 0.067,
+                    "WDT": 0.044,
+                    "RB": 0.022,
+                    "VB": 0.089,
+                    "TO": 0.067,
+                    "VBN": 0.044,
+                    "PRP": 0.067,
+                    "JJ": 0.044,
+                    "VBZ": 0.022,
+                    "WP": 0.022,
+                    "VBG": 0.022
+                },
+                "syllableRate": 0.533,
+                "topicScores": [
+                    [
+                        "lambda",
+                        0.4192333084345751
+                    ],
+                    [
+                        "independent",
+                        0.8157915460008257
+                    ],
+                    [
+                        "condition",
+                        0.8559613146947959
+                    ],
+                    [
+                        "thing",
+                        0.8708645988681625
+                    ],
+                    [
+                        "object",
+                        0.8912559956898779
+                    ],
+                    [
+                        "equation",
+                        0.9094445616299751
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "lambda",
+                        0.4192333084345751
+                    ],
+                    [
+                        "thing",
+                        0.8708645988681625
+                    ]
+                ]
+            }
+        }
+    }
+}

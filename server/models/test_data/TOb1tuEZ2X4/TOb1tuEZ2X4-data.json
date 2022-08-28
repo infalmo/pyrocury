@@ -1,0 +1,4145 @@
+{
+    "metadata": {
+        "id": "TOb1tuEZ2X4",
+        "avgHeat": 0.33,
+        "runtime": 1843.52,
+        "dale-challReadabilityScore": 7.228550444871955,
+        "lexicalDiversity": 0.4520223752151463,
+        "posComposition": {
+            "DT": 0.11,
+            "JJ": 0.047,
+            "NN": 0.12,
+            "VBZ": 0.057,
+            "VBN": 0.013,
+            "IN": 0.096,
+            "NNP": 0.054,
+            "PRP$": 0.006,
+            "MD": 0.016,
+            "VB": 0.047,
+            "VBP": 0.057,
+            "TO": 0.019,
+            "NNS": 0.032,
+            "CC": 0.037,
+            "RB": 0.085,
+            "PRP": 0.089,
+            ":": 0.008,
+            "CD": 0.042,
+            "EX": 0.003,
+            "VBG": 0.012,
+            "RBR": 0.001,
+            "VBD": 0.007,
+            "POS": 0.007,
+            "PDT": 0.004,
+            "JJR": 0.005,
+            "WDT": 0.008,
+            "WRB": 0.008,
+            "RP": 0.005,
+            "WP": 0.007,
+            "NNPS": 0.0,
+            "JJS": 0.002,
+            "UH": 0.001
+        },
+        "syllableRate": 3.248,
+        "topicScores": [
+            [
+                "b",
+                0.06352329705312651
+            ],
+            [
+                "PROFESSOR",
+                0.08667385786899942
+            ],
+            [
+                "audience",
+                0.09648978305508438
+            ],
+            [
+                "ok",
+                0.10447611676395338
+            ],
+            [
+                "node",
+                0.12454710776332321
+            ],
+            [
+                "tree",
+                0.13068982720011393
+            ],
+            [
+                "child",
+                0.13692377907385753
+            ],
+            [
+                "key",
+                0.17278234141114873
+            ],
+            [
+                "2b",
+                0.18234552815387944
+            ],
+            [
+                "number",
+                0.18250098245533386
+            ],
+            [
+                "INAUDIBLE",
+                0.18258850006659602
+            ],
+            [
+                "Creative Commons",
+                0.1839289612848429
+            ],
+            [
+                "right",
+                0.1849312351423871
+            ],
+            [
+                "element",
+                0.1894349187905044
+            ],
+            [
+                "parent",
+                0.19233243662700997
+            ],
+            [
+                "root",
+                0.2009544896689043
+            ],
+            [
+                "split",
+                0.20706960223062196
+            ],
+            [
+                "search",
+                0.21194469598687019
+            ],
+            [
+                "MIT",
+                0.2134157004424616
+            ],
+            [
+                "thing",
+                0.21474006082901342
+            ],
+            [
+                "b equal",
+                0.21691762160716768
+            ],
+            [
+                "minus",
+                0.21762391185926874
+            ],
+            [
+                "deletion",
+                0.22078331521609484
+            ],
+            [
+                "way",
+                0.2256915680261739
+            ],
+            [
+                "sibling",
+                0.22727287561921697
+            ],
+            [
+                "K",
+                0.22795444840795015
+            ],
+            [
+                "leaf",
+                0.23302878605113392
+            ],
+            [
+                "time",
+                0.23394133245343263
+            ],
+            [
+                "cache",
+                0.24000496660282203
+            ],
+            [
+                "good",
+                0.24132124876147637
+            ]
+        ],
+        "topicsList": [
+            "b",
+            "PROFESSOR",
+            "audience",
+            "ok",
+            "node",
+            "tree",
+            "child",
+            "key",
+            "2b",
+            "number",
+            "INAUDIBLE",
+            "Creative Commons",
+            "right",
+            "element",
+            "parent",
+            "root",
+            "split",
+            "search",
+            "MIT",
+            "thing",
+            "b equal",
+            "minus",
+            "deletion",
+            "way",
+            "sibling",
+            "K",
+            "leaf",
+            "time",
+            "cache",
+            "good"
+        ]
+    },
+    "chunks": {
+        "TOb1tuEZ2X4-0": {
+            "id": "TOb1tuEZ2X4-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. PROFESSOR: So this is a 2-3 tree. So as you can see, every node has-- so the 2-3 is either two children or three children. Every node can have either one key or two keys. And the correlation is that every-- so if there are n keys in a node, it has n plus 1 children. So the way that works is similar to binary search trees. So if you have value here, the two children surrounding it-- so this side is less, this side is more. So it's essentially sort of going in order reversal, left child, root, right child. So [INAUDIBLE], it's ordered. So generally a B tree will have some nodes. So let's say n and n plus 1 children. And if you take anything in the middle, look at the two children, all the keys in this sub-tree are smaller than the key here, and all the keys in this sub-tree are larger than the key here. So that's the general node.",
+            "metrics": {
+                "relativeDCReadability": 1.1068718086151628,
+                "lexicalDiversity": 0.5370370370370371,
+                "posComposition": {
+                    "DT": 0.12,
+                    "JJ": 0.083,
+                    "NN": 0.144,
+                    "VBZ": 0.06,
+                    "VBN": 0.014,
+                    "IN": 0.111,
+                    "NNP": 0.056,
+                    "PRP$": 0.005,
+                    "MD": 0.019,
+                    "VB": 0.032,
+                    "VBP": 0.032,
+                    "TO": 0.014,
+                    "NNS": 0.074,
+                    "CC": 0.046,
+                    "RB": 0.051,
+                    "PRP": 0.032,
+                    ":": 0.014,
+                    "CD": 0.037,
+                    "EX": 0.005,
+                    "VBG": 0.009,
+                    "RBR": 0.009,
+                    "VBD": 0.005,
+                    "POS": 0.005,
+                    "PDT": 0.009,
+                    "JJR": 0.009,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.625,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.22399484809299247
+                    ],
+                    [
+                        "MIT",
+                        0.2703910177537257
+                    ],
+                    [
+                        "child",
+                        0.27627187013093213
+                    ],
+                    [
+                        "key",
+                        0.29261382208580894
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.31716630590911804
+                    ],
+                    [
+                        "node",
+                        0.33937239119934504
+                    ],
+                    [
+                        "tree",
+                        0.3401331584796901
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5145973493978279
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.532886759639641
+                    ],
+                    [
+                        "sub",
+                        0.5516920626632869
+                    ],
+                    [
+                        "order",
+                        0.5647008755522835
+                    ],
+                    [
+                        "following",
+                        0.8015741309842085
+                    ],
+                    [
+                        "content",
+                        0.8166392938498284
+                    ],
+                    [
+                        "free",
+                        0.8312115873356872
+                    ],
+                    [
+                        "ocw.mit.edu",
+                        0.8568351248059409
+                    ],
+                    [
+                        "support",
+                        0.8587515773007451
+                    ],
+                    [
+                        "high",
+                        0.8701787115166086
+                    ],
+                    [
+                        "quality",
+                        0.8701787115166086
+                    ],
+                    [
+                        "educational",
+                        0.8701787115166086
+                    ],
+                    [
+                        "resource",
+                        0.8701787115166086
+                    ],
+                    [
+                        "course",
+                        0.8807938867098162
+                    ],
+                    [
+                        "donation",
+                        0.8906648171748702
+                    ],
+                    [
+                        "additional",
+                        0.8906648171748702
+                    ],
+                    [
+                        "material",
+                        0.8906648171748702
+                    ],
+                    [
+                        "hundred",
+                        0.8906648171748702
+                    ],
+                    [
+                        "MIT course",
+                        0.9095540157394374
+                    ],
+                    [
+                        "left",
+                        0.9136678681476808
+                    ],
+                    [
+                        "root",
+                        0.9136678681476808
+                    ],
+                    [
+                        "right",
+                        0.9136678681476808
+                    ],
+                    [
+                        "search",
+                        0.9180233690552059
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.22399484809299247
+                    ],
+                    [
+                        "MIT",
+                        0.2703910177537257
+                    ],
+                    [
+                        "child",
+                        0.27627187013093213
+                    ],
+                    [
+                        "key",
+                        0.29261382208580894
+                    ],
+                    [
+                        "node",
+                        0.33937239119934504
+                    ],
+                    [
+                        "tree",
+                        0.3401331584796901
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5145973493978279
+                    ],
+                    [
+                        "root",
+                        0.9136678681476808
+                    ],
+                    [
+                        "right",
+                        0.9136678681476808
+                    ],
+                    [
+                        "search",
+                        0.9180233690552059
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-90": {
+            "id": "TOb1tuEZ2X4-90",
+            "heat": 0.81,
+            "start": 90.0,
+            "text": " So before we go into more details of the properties and everything, the question is why use B-trees. So if we do a quick depth analysis, we can see that the depth is to log n rate. Is that clear to everyone sort of, why the depth is log n? Because you have branching just like in binary search trees. In fact, you have more branching. But in any case, depth is to log n. But why use B-trees over binary search trees? Anyone have a reason why you would prefer to use B-trees or not? So all the operations are still log n. Any guesses? None. OK. Well, OK, the reason is memory hierarchy. So normally in [INAUDIBLE], we just assume that the computer has access to memory, and you can just pick up things from disk and constant time and do your operations with it, and you don't worry about caches and everything. But that's not how computers work. So in a computer, you have-- so those of you who have taken some computer architecture class [INAUDIBLE] or something, you will know that hierarchy. So there's a CPU-- so let's draw it somewhere. So you have your CPU. And [INAUDIBLE] CPU, you have some registers. You have your caches, L1, L2, L3, whatever. You have your RAM. You have disk after that. So disk [? loads. ?] Then you have your, I don't know, your cloud, whatever. So each level, your memory size grows",
+            "metrics": {
+                "relativeDCReadability": 1.1557764034114357,
+                "lexicalDiversity": 0.44621513944223107,
+                "posComposition": {
+                    "RB": 0.076,
+                    "IN": 0.104,
+                    "PRP": 0.088,
+                    "VBP": 0.08,
+                    "JJR": 0.008,
+                    "NNS": 0.068,
+                    "DT": 0.076,
+                    "CC": 0.048,
+                    "NN": 0.143,
+                    "VBZ": 0.04,
+                    "WRB": 0.02,
+                    "JJ": 0.04,
+                    "MD": 0.016,
+                    "VB": 0.048,
+                    "TO": 0.02,
+                    "VBG": 0.004,
+                    "PDT": 0.004,
+                    "NNP": 0.056,
+                    "RP": 0.004,
+                    "PRP$": 0.028,
+                    ":": 0.008,
+                    "WP": 0.004,
+                    "VBN": 0.008,
+                    "EX": 0.004,
+                    "WDT": 0.008
+                },
+                "syllableRate": 2.892,
+                "topicScores": [
+                    [
+                        "b",
+                        0.24903890066662662
+                    ],
+                    [
+                        "tree",
+                        0.3092529662424789
+                    ],
+                    [
+                        "log",
+                        0.344186079361006
+                    ],
+                    [
+                        "depth",
+                        0.3525524308045625
+                    ],
+                    [
+                        "computer",
+                        0.39162400555280913
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.39699280671664716
+                    ],
+                    [
+                        "cpu",
+                        0.40961710772288384
+                    ],
+                    [
+                        "memory",
+                        0.4512332102691834
+                    ],
+                    [
+                        "disk",
+                        0.4521801717322372
+                    ],
+                    [
+                        "n",
+                        0.5186987325534886
+                    ],
+                    [
+                        "search",
+                        0.5398492595319924
+                    ],
+                    [
+                        "binary",
+                        0.552590542497147
+                    ],
+                    [
+                        "hierarchy",
+                        0.5565440696570697
+                    ],
+                    [
+                        "reason",
+                        0.5721025774791024
+                    ],
+                    [
+                        "operation",
+                        0.5764572777780277
+                    ],
+                    [
+                        "cache",
+                        0.5778158114828518
+                    ],
+                    [
+                        "ram",
+                        0.67560748365282
+                    ],
+                    [
+                        "L1",
+                        0.6838494855681357
+                    ],
+                    [
+                        "L2",
+                        0.6838494855681357
+                    ],
+                    [
+                        "L3",
+                        0.6838494855681357
+                    ],
+                    [
+                        "question",
+                        0.8205788746734253
+                    ],
+                    [
+                        "detail",
+                        0.8314242504705324
+                    ],
+                    [
+                        "property",
+                        0.8314242504705324
+                    ],
+                    [
+                        "rate",
+                        0.8543315891455445
+                    ],
+                    [
+                        "analysis",
+                        0.8731466611231606
+                    ],
+                    [
+                        "quick",
+                        0.8812742423934343
+                    ],
+                    [
+                        "branching",
+                        0.8972682161530884
+                    ],
+                    [
+                        "clear",
+                        0.9002102357299808
+                    ],
+                    [
+                        "fact",
+                        0.904553646674201
+                    ],
+                    [
+                        "guess",
+                        0.9084368468050674
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "b",
+                        0.24903890066662662
+                    ],
+                    [
+                        "tree",
+                        0.3092529662424789
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.39699280671664716
+                    ],
+                    [
+                        "search",
+                        0.5398492595319924
+                    ],
+                    [
+                        "cache",
+                        0.5778158114828518
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-180": {
+            "id": "TOb1tuEZ2X4-180",
+            "heat": 0.482,
+            "start": 180.0,
+            "text": " and your access time grows as well. So in the basic memory hierarchy model, we have just two levels of hierarchy, let's say. So you have cache connected by a high bandwidth channel to the CPU, and you have a low bandwidth channel to disk. So the difference is-- so essentially you can consider that cache just has infinite speed. Cache, just like, whatever you can take it. You don't have any cost for bringing in stuff from cache. But it's finite size. So the way cache works is it has a bunch of words, which is a finite number of words. So each word has size B, and let's say you have m words. However, hard disk is just, let's say, infinite memory, but it has some cost associated to accessing things. Also when you access things from hard disk, you copy them into cache. When you copy a block of size b, you take it up from the hard disk, and you take a block, and you put it into cache. And you have to get rid of something because it's fine. So what you want to do is you want to utilize that b block efficiently. You just want to bring a b block every time you want to access a new node. In a binary search tree, normal operations are what? You start in the root and go to a node. But that's not very easily correlated with this. Right? So if you want to utilize an entire block,",
+            "metrics": {
+                "relativeDCReadability": 1.0360059912067345,
+                "lexicalDiversity": 0.4827586206896552,
+                "posComposition": {
+                    "CC": 0.038,
+                    "PRP$": 0.004,
+                    "NN": 0.188,
+                    "VBZ": 0.054,
+                    "RB": 0.069,
+                    "IN": 0.092,
+                    "DT": 0.092,
+                    "JJ": 0.065,
+                    "PRP": 0.111,
+                    "VBP": 0.069,
+                    "CD": 0.004,
+                    "NNS": 0.027,
+                    "POS": 0.008,
+                    "VB": 0.054,
+                    "VBN": 0.019,
+                    "TO": 0.038,
+                    "NNP": 0.019,
+                    ":": 0.004,
+                    "MD": 0.008,
+                    "WDT": 0.008,
+                    "VBG": 0.008,
+                    "WRB": 0.008,
+                    "RP": 0.004,
+                    "WP": 0.008,
+                    "NNPS": 0.004
+                },
+                "syllableRate": 2.842,
+                "topicScores": [
+                    [
+                        "cache",
+                        0.31227578712641924
+                    ],
+                    [
+                        "block",
+                        0.34253473604464163
+                    ],
+                    [
+                        "disk",
+                        0.36993352879357716
+                    ],
+                    [
+                        "word",
+                        0.378857602607348
+                    ],
+                    [
+                        "access",
+                        0.38090471286633953
+                    ],
+                    [
+                        "hard",
+                        0.42737564737651446
+                    ],
+                    [
+                        "size",
+                        0.4401235318145676
+                    ],
+                    [
+                        "hierarchy",
+                        0.5297847225060587
+                    ],
+                    [
+                        "bandwidth",
+                        0.5310276405219764
+                    ],
+                    [
+                        "channel",
+                        0.5399424660929271
+                    ],
+                    [
+                        "node",
+                        0.5453149117877534
+                    ],
+                    [
+                        "infinite",
+                        0.5549686723163416
+                    ],
+                    [
+                        "memory",
+                        0.5563770542878362
+                    ],
+                    [
+                        "thing",
+                        0.5600266693122543
+                    ],
+                    [
+                        "CPU",
+                        0.5621201954380057
+                    ],
+                    [
+                        "cost",
+                        0.5640864824631134
+                    ],
+                    [
+                        "time",
+                        0.5697869759047159
+                    ],
+                    [
+                        "B",
+                        0.6541373438989101
+                    ],
+                    [
+                        "model",
+                        0.8657674278013584
+                    ],
+                    [
+                        "basic",
+                        0.8749755246799886
+                    ],
+                    [
+                        "level",
+                        0.8749755246799886
+                    ],
+                    [
+                        "speed",
+                        0.8813142506140866
+                    ],
+                    [
+                        "high",
+                        0.8947961962700189
+                    ],
+                    [
+                        "low",
+                        0.8947961962700189
+                    ],
+                    [
+                        "difference",
+                        0.9055611066075193
+                    ],
+                    [
+                        "fine",
+                        0.9142000722624927
+                    ],
+                    [
+                        "stuff",
+                        0.9173024404964694
+                    ],
+                    [
+                        "way",
+                        0.9237888139798202
+                    ],
+                    [
+                        "work",
+                        0.9237888139798202
+                    ],
+                    [
+                        "bunch",
+                        0.9237888139798202
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "cache",
+                        0.31227578712641924
+                    ],
+                    [
+                        "node",
+                        0.5453149117877534
+                    ],
+                    [
+                        "thing",
+                        0.5600266693122543
+                    ],
+                    [
+                        "time",
+                        0.5697869759047159
+                    ],
+                    [
+                        "way",
+                        0.9237888139798202
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-270": {
+            "id": "TOb1tuEZ2X4-270",
+            "heat": 0.174,
+            "start": 270.0,
+            "text": " you would want something like a block which sort of goes down the tree. But that's not how binary trees are stored. Binary trees are stored this way. So that's the nice thing about B-trees. So this is just a 2-3 tree. This is not a general B-tree. A general B-tree will have a bunch of nodes, and we'll come to that number. But generally you want to make that number of nodes something like the cache-- what is it? The word size in the cache. So once you do that, you can get an entire node from disk, like work on that, and then get another [INAUDIBLE], so your height is reduced. And you can do your operation much quicker, because you're not accessing disk every time you're going down a level. Sorry. You are accessing disk every time you go down a level, but you're utilizing the whole block when you're accessing disk. Good? Sort of make sense? OK. So let's write down the specifications for B-trees now. All right. So number of children. So first of all, a B-tree has something called a branching factor. So in the 2-3 tree, the branching factor is two. So what that means is simply that it just balances",
+            "metrics": {
+                "relativeDCReadability": 0.9592121601505023,
+                "lexicalDiversity": 0.48847926267281105,
+                "posComposition": {
+                    "PRP": 0.065,
+                    "MD": 0.023,
+                    "VB": 0.037,
+                    "NN": 0.18,
+                    "IN": 0.097,
+                    "DT": 0.138,
+                    "WDT": 0.005,
+                    "VBZ": 0.051,
+                    "RB": 0.074,
+                    "CC": 0.028,
+                    "WRB": 0.009,
+                    "JJ": 0.037,
+                    "NNS": 0.032,
+                    "VBP": 0.046,
+                    "VBN": 0.018,
+                    "NNP": 0.078,
+                    "TO": 0.009,
+                    ":": 0.005,
+                    "WP": 0.009,
+                    "PRP$": 0.009,
+                    "VBG": 0.023,
+                    "RP": 0.014,
+                    "POS": 0.005,
+                    "PDT": 0.005,
+                    "CD": 0.005
+                },
+                "syllableRate": 2.317,
+                "topicScores": [
+                    [
+                        "b",
+                        0.20613794001609412
+                    ],
+                    [
+                        "tree",
+                        0.23268655784524409
+                    ],
+                    [
+                        "disk",
+                        0.3697140898324401
+                    ],
+                    [
+                        "number",
+                        0.4377805463973383
+                    ],
+                    [
+                        "node",
+                        0.44609835636049966
+                    ],
+                    [
+                        "binary",
+                        0.514293153115347
+                    ],
+                    [
+                        "general b",
+                        0.5203912195169705
+                    ],
+                    [
+                        "level",
+                        0.5521907386377861
+                    ],
+                    [
+                        "time",
+                        0.5601733970555345
+                    ],
+                    [
+                        "block",
+                        0.5705880177722159
+                    ],
+                    [
+                        "branching",
+                        0.570766201659713
+                    ],
+                    [
+                        "factor",
+                        0.5714494763157411
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.626520140535562
+                    ],
+                    [
+                        "way",
+                        0.871238835584999
+                    ],
+                    [
+                        "good",
+                        0.8910772870630986
+                    ],
+                    [
+                        "nice",
+                        0.9087879626504648
+                    ],
+                    [
+                        "thing",
+                        0.9087879626504648
+                    ],
+                    [
+                        "cache",
+                        0.9088324093557192
+                    ],
+                    [
+                        "sense",
+                        0.9187569462310355
+                    ],
+                    [
+                        "child",
+                        0.9223995413777081
+                    ],
+                    [
+                        "word",
+                        0.9228279021435479
+                    ],
+                    [
+                        "bunch",
+                        0.9236851356098192
+                    ],
+                    [
+                        "work",
+                        0.92482038878348
+                    ],
+                    [
+                        "size",
+                        0.928675800421519
+                    ],
+                    [
+                        "entire",
+                        0.9305286679914924
+                    ],
+                    [
+                        "height",
+                        0.9305286679914924
+                    ],
+                    [
+                        "operation",
+                        0.9320976519585635
+                    ],
+                    [
+                        "specification",
+                        0.9381745989230622
+                    ],
+                    [
+                        "binary tree",
+                        1.2039898051341547
+                    ],
+                    [
+                        "branching factor",
+                        2.861791782889886
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "b",
+                        0.20613794001609412
+                    ],
+                    [
+                        "tree",
+                        0.23268655784524409
+                    ],
+                    [
+                        "number",
+                        0.4377805463973383
+                    ],
+                    [
+                        "node",
+                        0.44609835636049966
+                    ],
+                    [
+                        "time",
+                        0.5601733970555345
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.626520140535562
+                    ],
+                    [
+                        "way",
+                        0.871238835584999
+                    ],
+                    [
+                        "good",
+                        0.8910772870630986
+                    ],
+                    [
+                        "thing",
+                        0.9087879626504648
+                    ],
+                    [
+                        "cache",
+                        0.9088324093557192
+                    ],
+                    [
+                        "child",
+                        0.9223995413777081
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-360": {
+            "id": "TOb1tuEZ2X4-360",
+            "heat": 0.19,
+            "start": 360.0,
+            "text": " the number of children. So the number of children has to be greater than or equal to 2. Other than the root node. The root node can have less than B children. It's fine. Also it's upper bounded by 2B [? plus ?] 2B. Notice that this is a strict upper bound. So you can have at most 2B minus 1 children from a node. Also remember that the number of keys, the number of keys is just 1 less than the number of children. Therefore, these inequalities are just reduced by 1. So you have minus 1 and you have 2B minus 1. So the number of keys can be between minus 1 and 2B minus 2. The rationale for that will become clear-- yeah? AUDIENCE: Is B the height of the tree? PROFESSOR: No, B is the branching. B is the branching factor. So that is the number of children. It's not the number of children. It's a bound of the number of children. So like in the 2-3 tree, B is equal to 2, and this is a 2-3 tree. So the 2 refers to-- you can have either two children or you can have three children. And so the upper bound on children is 2B minus 1. 2B minus 1 is equal to 3. So you can have two or three children.",
+            "metrics": {
+                "relativeDCReadability": 1.124118528826665,
+                "lexicalDiversity": 0.48695652173913045,
+                "posComposition": {
+                    "DT": 0.122,
+                    "NN": 0.117,
+                    "IN": 0.148,
+                    "NNS": 0.078,
+                    "VBZ": 0.061,
+                    "TO": 0.022,
+                    "VB": 0.039,
+                    "JJR": 0.013,
+                    "CC": 0.043,
+                    "JJ": 0.061,
+                    "CD": 0.104,
+                    "VBD": 0.004,
+                    "MD": 0.03,
+                    "NNP": 0.043,
+                    "PRP": 0.043,
+                    "RB": 0.03,
+                    "VBN": 0.013,
+                    "JJS": 0.004,
+                    "VBP": 0.013,
+                    ":": 0.009
+                },
+                "syllableRate": 2.425,
+                "topicScores": [
+                    [
+                        "b",
+                        0.23168906527884423
+                    ],
+                    [
+                        "number",
+                        0.23229522943089503
+                    ],
+                    [
+                        "child",
+                        0.2374938043527633
+                    ],
+                    [
+                        "2b",
+                        0.26341203397259294
+                    ],
+                    [
+                        "minus",
+                        0.2877848551082622
+                    ],
+                    [
+                        "node",
+                        0.4267335054853649
+                    ],
+                    [
+                        "key",
+                        0.43754277412742537
+                    ],
+                    [
+                        "tree",
+                        0.44535020712563306
+                    ],
+                    [
+                        "equal",
+                        0.4480161161816614
+                    ],
+                    [
+                        "bound",
+                        0.4504558212693684
+                    ],
+                    [
+                        "upper",
+                        0.45714845867414006
+                    ],
+                    [
+                        "root",
+                        0.5386500395787329
+                    ],
+                    [
+                        "branching",
+                        0.5662865618681481
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6263640186367962
+                    ],
+                    [
+                        "notice",
+                        0.6293074538933948
+                    ],
+                    [
+                        "audience",
+                        0.6467206464011708
+                    ],
+                    [
+                        "great",
+                        0.8954378415372892
+                    ],
+                    [
+                        "fine",
+                        0.9097192509804486
+                    ],
+                    [
+                        "strict",
+                        0.9313805447164873
+                    ],
+                    [
+                        "factor",
+                        0.9330605371674295
+                    ],
+                    [
+                        "inequality",
+                        0.9342917894555934
+                    ],
+                    [
+                        "rationale",
+                        0.9387130447250341
+                    ],
+                    [
+                        "clear--",
+                        0.9387130447250341
+                    ],
+                    [
+                        "height",
+                        0.9439348491178481
+                    ],
+                    [
+                        "to--",
+                        0.9491018626687413
+                    ],
+                    [
+                        "b child",
+                        1.111213760524995
+                    ],
+                    [
+                        "root node",
+                        1.6941272999532997
+                    ],
+                    [
+                        "upper bound",
+                        4.672173475104747
+                    ],
+                    [
+                        "branching factor",
+                        5.152404456636228
+                    ],
+                    [
+                        "strict upper",
+                        5.73665425784056
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "b",
+                        0.23168906527884423
+                    ],
+                    [
+                        "number",
+                        0.23229522943089503
+                    ],
+                    [
+                        "child",
+                        0.2374938043527633
+                    ],
+                    [
+                        "2b",
+                        0.26341203397259294
+                    ],
+                    [
+                        "minus",
+                        0.2877848551082622
+                    ],
+                    [
+                        "node",
+                        0.4267335054853649
+                    ],
+                    [
+                        "key",
+                        0.43754277412742537
+                    ],
+                    [
+                        "tree",
+                        0.44535020712563306
+                    ],
+                    [
+                        "root",
+                        0.5386500395787329
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.6263640186367962
+                    ],
+                    [
+                        "audience",
+                        0.6467206464011708
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-450": {
+            "id": "TOb1tuEZ2X4-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " And correspondingly, you can have either one or two keys in a node. Make sense? AUDIENCE: Yeah. PROFESSOR: Cool. OK So coming back to this. So the root does not have a lower bound. The root can have one child in any tree. So you have a B equal to 5 tree, the root can still have one child-- sorry. Not one child, one key element, two children. All right. It's good. Also it's completely balanced. So all the leaves are the same depth. So you can see it here, right? So you can't have a dangling node here. This is not allowed. You have to have a leaf. You have to have something going down, and everything ends at the same level. All right. So that's the thing. So also the leaves obviously don't have children, so this condition is violated by the leaf. So that's the basic structure of a B-tree. So the first operation we'll consider on B-trees is searching. So that should be relatively straightforward. So remember how searching is done in the binary search tree. You bring in a value x compared to the key.",
+            "metrics": {
+                "relativeDCReadability": 0.9064340155581943,
+                "lexicalDiversity": 0.4797979797979798,
+                "posComposition": {
+                    "CC": 0.02,
+                    "RB": 0.111,
+                    "PRP": 0.056,
+                    "MD": 0.035,
+                    "VB": 0.061,
+                    "CD": 0.04,
+                    "NNS": 0.03,
+                    "IN": 0.061,
+                    "DT": 0.131,
+                    "JJ": 0.056,
+                    "NNP": 0.081,
+                    "NN": 0.141,
+                    "VBG": 0.015,
+                    "TO": 0.025,
+                    "VBZ": 0.045,
+                    "JJR": 0.005,
+                    "VBP": 0.035,
+                    ":": 0.005,
+                    "VBN": 0.025,
+                    "PDT": 0.005,
+                    "WDT": 0.01,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.15,
+                "topicScores": [
+                    [
+                        "b",
+                        0.3152106378187926
+                    ],
+                    [
+                        "tree",
+                        0.33277208034914846
+                    ],
+                    [
+                        "child",
+                        0.36752799371027206
+                    ],
+                    [
+                        "right",
+                        0.402940933069257
+                    ],
+                    [
+                        "root",
+                        0.425401369598695
+                    ],
+                    [
+                        "key",
+                        0.4400319628824177
+                    ],
+                    [
+                        "search",
+                        0.4512133171381504
+                    ],
+                    [
+                        "audience",
+                        0.5271552596264265
+                    ],
+                    [
+                        "node",
+                        0.5513531254194176
+                    ],
+                    [
+                        "leaf",
+                        0.5566630477551501
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.563252649995577
+                    ],
+                    [
+                        "leave",
+                        0.5721403575685283
+                    ],
+                    [
+                        "sense",
+                        0.8616665386938939
+                    ],
+                    [
+                        "Cool",
+                        0.8790643599976496
+                    ],
+                    [
+                        "bound",
+                        0.9082278319380871
+                    ],
+                    [
+                        "sorry",
+                        0.9125383050249672
+                    ],
+                    [
+                        "good",
+                        0.9170420063968072
+                    ],
+                    [
+                        "balanced",
+                        0.9182122605429459
+                    ],
+                    [
+                        "depth",
+                        0.9192639504136444
+                    ],
+                    [
+                        "level",
+                        0.9232842719557095
+                    ],
+                    [
+                        "thing",
+                        0.924496487346733
+                    ],
+                    [
+                        "element",
+                        0.924803877724348
+                    ],
+                    [
+                        "straightforward",
+                        0.9264914889116127
+                    ],
+                    [
+                        "equal",
+                        0.9279588675554342
+                    ],
+                    [
+                        "condition",
+                        0.938407676904301
+                    ],
+                    [
+                        "basic",
+                        0.9388348067250564
+                    ],
+                    [
+                        "structure",
+                        0.9388348067250564
+                    ],
+                    [
+                        "operation",
+                        0.9392363230660713
+                    ],
+                    [
+                        "binary",
+                        0.9399721944357888
+                    ],
+                    [
+                        "value",
+                        0.9403106192541835
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "b",
+                        0.3152106378187926
+                    ],
+                    [
+                        "tree",
+                        0.33277208034914846
+                    ],
+                    [
+                        "child",
+                        0.36752799371027206
+                    ],
+                    [
+                        "right",
+                        0.402940933069257
+                    ],
+                    [
+                        "root",
+                        0.425401369598695
+                    ],
+                    [
+                        "key",
+                        0.4400319628824177
+                    ],
+                    [
+                        "search",
+                        0.4512133171381504
+                    ],
+                    [
+                        "audience",
+                        0.5271552596264265
+                    ],
+                    [
+                        "node",
+                        0.5513531254194176
+                    ],
+                    [
+                        "leaf",
+                        0.5566630477551501
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.563252649995577
+                    ],
+                    [
+                        "good",
+                        0.9170420063968072
+                    ],
+                    [
+                        "thing",
+                        0.924496487346733
+                    ],
+                    [
+                        "element",
+                        0.924803877724348
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-540": {
+            "id": "TOb1tuEZ2X4-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " Let's say x is less than K, you go down this path. Let's say x is greater than K, you go down this path. So similarly in a B-tree. So let's say we bring in a value. Let's say you are looking for 20. So you bring in 20 compared to this. 20 is less than 30, so you go down here. Now you have two values. So where does 20 fit in here? Not here. Not here. It fits here. OK. Go down this tree. You find 20, that's it. So in general, you bring in a key K, you look at this node, and you go through all the values. So something I forgot to mention, which should be clear. All the keys in a node, they're sorted, one after the other. So your values go like this. So they're increasing in this way. Make sense? So you bring in a key. Look at all the keys in the node you're looking at, pick the place where K fits in, unless it's already in the node. Then you're done. You've found it. Otherwise, let's say K fits in between these two guys. So you go down this child and continue. So searching with log n, similar to BSTs. So searching is not very interesting.",
+            "metrics": {
+                "relativeDCReadability": 0.8571022995050414,
+                "lexicalDiversity": 0.47368421052631576,
+                "posComposition": {
+                    "VB": 0.039,
+                    "POS": 0.022,
+                    "NN": 0.083,
+                    "VBZ": 0.039,
+                    "JJR": 0.013,
+                    "IN": 0.127,
+                    "NNP": 0.083,
+                    "PRP": 0.101,
+                    "VBP": 0.083,
+                    "RP": 0.018,
+                    "DT": 0.092,
+                    "RB": 0.083,
+                    "VBG": 0.022,
+                    "CD": 0.039,
+                    "VBN": 0.013,
+                    "TO": 0.013,
+                    "NNS": 0.035,
+                    "WRB": 0.009,
+                    "WDT": 0.009,
+                    "JJ": 0.031,
+                    "CC": 0.009,
+                    "PDT": 0.018,
+                    "VBD": 0.009,
+                    "MD": 0.004,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 2.2,
+                "topicScores": [
+                    [
+                        "K",
+                        0.25292989419970163
+                    ],
+                    [
+                        "key",
+                        0.37476285036438456
+                    ],
+                    [
+                        "value",
+                        0.37995299516560227
+                    ],
+                    [
+                        "node",
+                        0.3822450330617785
+                    ],
+                    [
+                        "path",
+                        0.4717189708438272
+                    ],
+                    [
+                        "tree",
+                        0.5516408945738065
+                    ],
+                    [
+                        "b",
+                        0.5560284738884962
+                    ],
+                    [
+                        "great",
+                        0.893584222153088
+                    ],
+                    [
+                        "sense",
+                        0.9338642712335193
+                    ],
+                    [
+                        "clear",
+                        0.9354071758443367
+                    ],
+                    [
+                        "way",
+                        0.937375053318669
+                    ],
+                    [
+                        "guy",
+                        0.9401922180829363
+                    ],
+                    [
+                        "bsts",
+                        0.9409172414038504
+                    ],
+                    [
+                        "interesting",
+                        0.9412506712407772
+                    ],
+                    [
+                        "general",
+                        0.9420817657013705
+                    ],
+                    [
+                        "log",
+                        0.9476975938764904
+                    ],
+                    [
+                        "similar",
+                        0.9476975938764904
+                    ],
+                    [
+                        "place",
+                        0.9489855713704042
+                    ],
+                    [
+                        "child",
+                        0.9503682447233691
+                    ],
+                    [
+                        "key k",
+                        1.4481399343224952
+                    ],
+                    [
+                        "log n",
+                        8.81650299934202
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "K",
+                        0.25292989419970163
+                    ],
+                    [
+                        "key",
+                        0.37476285036438456
+                    ],
+                    [
+                        "node",
+                        0.3822450330617785
+                    ],
+                    [
+                        "tree",
+                        0.5516408945738065
+                    ],
+                    [
+                        "b",
+                        0.5560284738884962
+                    ],
+                    [
+                        "way",
+                        0.937375053318669
+                    ],
+                    [
+                        "child",
+                        0.9503682447233691
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-630": {
+            "id": "TOb1tuEZ2X4-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " So next is insertion. So insertion is a little more interesting than searching. So what you do in insertion is you-- [SIDE CONVERSATION] PROFESSOR: So before we resume, does anyone have any questions about the structure of B-trees. We rushed through that quite fast. About how B-trees are structured, everyone good with that? OK, also any questions about searching in a B-tree or a BST? Go ahead. AUDIENCE: Just a random question. So the 38 there, it can only have two children. PROFESSOR: Yep. So one value, two children. So you have some node in the B-tree, and whatever is below it is split into parts by the elements. So if you have n elements, it splits it up into n plus 1 segments. AUDIENCE: You said that the root didn't have to follow the root. PROFESSOR: No. AUDIENCE: Why is that? PROFESSOR: Well, you'll see when we do insertion and deletion why that's necessary. But essentially you can consider that it's an invariant.",
+            "metrics": {
+                "relativeDCReadability": 1.1491414249732772,
+                "lexicalDiversity": 0.44970414201183434,
+                "posComposition": {
+                    "RB": 0.059,
+                    "JJ": 0.047,
+                    "VBZ": 0.059,
+                    "NN": 0.083,
+                    "NNP": 0.124,
+                    "DT": 0.101,
+                    "RBR": 0.006,
+                    "IN": 0.124,
+                    "VBG": 0.012,
+                    "RP": 0.012,
+                    "WP": 0.006,
+                    "PRP": 0.089,
+                    "VBP": 0.036,
+                    ":": 0.006,
+                    "VB": 0.036,
+                    "NNS": 0.053,
+                    "VBD": 0.018,
+                    "WRB": 0.024,
+                    "VBN": 0.012,
+                    "CC": 0.03,
+                    "CD": 0.03,
+                    "EX": 0.006,
+                    "MD": 0.018,
+                    "WDT": 0.006,
+                    "TO": 0.006
+                },
+                "syllableRate": 2.067,
+                "topicScores": [
+                    [
+                        "b",
+                        0.24894569111299544
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.2510889157757988
+                    ],
+                    [
+                        "audience",
+                        0.30933041269203293
+                    ],
+                    [
+                        "tree",
+                        0.3576762727263393
+                    ],
+                    [
+                        "insertion",
+                        0.3797762823794417
+                    ],
+                    [
+                        "question",
+                        0.4383449811668271
+                    ],
+                    [
+                        "child",
+                        0.5326447267437917
+                    ],
+                    [
+                        "structure",
+                        0.5645431840624344
+                    ],
+                    [
+                        "element",
+                        0.572557228753189
+                    ],
+                    [
+                        "root",
+                        0.5767969057514368
+                    ],
+                    [
+                        "conversation",
+                        0.5896688069078919
+                    ],
+                    [
+                        "BST",
+                        0.6209539352461588
+                    ],
+                    [
+                        "interesting",
+                        0.8816630955194568
+                    ],
+                    [
+                        "good",
+                        0.9146089065341744
+                    ],
+                    [
+                        "segment",
+                        0.9174809379898224
+                    ],
+                    [
+                        "necessary",
+                        0.9225944786518735
+                    ],
+                    [
+                        "invariant",
+                        0.9232271870226715
+                    ],
+                    [
+                        "random",
+                        0.9236643348185581
+                    ],
+                    [
+                        "value",
+                        0.9300010600731675
+                    ],
+                    [
+                        "node",
+                        0.9371104717086058
+                    ],
+                    [
+                        "part",
+                        0.9371104717086058
+                    ],
+                    [
+                        "deletion",
+                        0.9419382725256245
+                    ],
+                    [
+                        "random question",
+                        4.256718439576869
+                    ]
+                ],
+                "topTopicSimilarity": 0.43478260869565216,
+                "sharedTopicScores": [
+                    [
+                        "b",
+                        0.24894569111299544
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.2510889157757988
+                    ],
+                    [
+                        "audience",
+                        0.30933041269203293
+                    ],
+                    [
+                        "tree",
+                        0.3576762727263393
+                    ],
+                    [
+                        "child",
+                        0.5326447267437917
+                    ],
+                    [
+                        "element",
+                        0.572557228753189
+                    ],
+                    [
+                        "root",
+                        0.5767969057514368
+                    ],
+                    [
+                        "good",
+                        0.9146089065341744
+                    ],
+                    [
+                        "node",
+                        0.9371104717086058
+                    ],
+                    [
+                        "deletion",
+                        0.9419382725256245
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-720": {
+            "id": "TOb1tuEZ2X4-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " And all we have to do is preserve that invariant. So the root, it has to still have less than two-- it still has to have the upper bound. But it doesn't need to have a lower bound. AUDIENCE: How do you choose B? PROFESSOR: Well, the whole [INAUDIBLE] cache size, so something with that. So you probably want 2B to be about your cache size so you can get the whole block in one go. I've never implemented a B-tree, so I don't know how it's actually done in practice. But that is the reason, so I'm assuming it's something to do with the cache length. AUDIENCE: Is the 14, is it a child of both 10 and 17? PROFESSOR: Well, it's not a child of either. It's a child of this node. So this node has two elements, so it's being divided-- dividing the interval up into three parts. So it's in between 10 and 17 is the point here. AUDIENCE: So then this node has five children? PROFESSOR: Sorry? No, it has three children. So don't think of every key as a node. Think of the whole unit as a node. So it's not necessarily-- in a binary search tree, you have one element, but here every node has multiple elements. That's the point of it. Anyone else? OK, let's start with searching. So let's leave this here.",
+            "metrics": {
+                "relativeDCReadability": 1.0329842921642105,
+                "lexicalDiversity": 0.4779116465863454,
+                "posComposition": {
+                    "CC": 0.028,
+                    "DT": 0.12,
+                    "PRP": 0.084,
+                    "VBP": 0.032,
+                    "TO": 0.024,
+                    "VB": 0.052,
+                    "VBZ": 0.08,
+                    "NN": 0.141,
+                    "IN": 0.112,
+                    "RB": 0.068,
+                    "JJR": 0.008,
+                    "CD": 0.052,
+                    ":": 0.012,
+                    "JJ": 0.028,
+                    "NNP": 0.08,
+                    "PRP$": 0.004,
+                    "MD": 0.004,
+                    "VBN": 0.012,
+                    "WRB": 0.004,
+                    "VBG": 0.016,
+                    "NNS": 0.02,
+                    "RP": 0.004,
+                    "WDT": 0.004,
+                    "POS": 0.008
+                },
+                "syllableRate": 2.683,
+                "topicScores": [
+                    [
+                        "PROFESSOR",
+                        0.23547298886210247
+                    ],
+                    [
+                        "audience",
+                        0.27206456550178
+                    ],
+                    [
+                        "node",
+                        0.3098342245232436
+                    ],
+                    [
+                        "child",
+                        0.33740388644077396
+                    ],
+                    [
+                        "cache",
+                        0.44153734068984934
+                    ],
+                    [
+                        "element",
+                        0.44622447994818315
+                    ],
+                    [
+                        "bound",
+                        0.5307124794137785
+                    ],
+                    [
+                        "size",
+                        0.5508455221916954
+                    ],
+                    [
+                        "point",
+                        0.5707566199960867
+                    ],
+                    [
+                        "tree",
+                        0.572606947269287
+                    ],
+                    [
+                        "search",
+                        0.5766751174917467
+                    ],
+                    [
+                        "B",
+                        0.6052135413929816
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.6388289980771681
+                    ],
+                    [
+                        "2b",
+                        0.6691452867423157
+                    ],
+                    [
+                        "invariant",
+                        0.8498032141170383
+                    ],
+                    [
+                        "two--",
+                        0.873035488754967
+                    ],
+                    [
+                        "root",
+                        0.8918725053767973
+                    ],
+                    [
+                        "upper",
+                        0.9029041175857478
+                    ],
+                    [
+                        "practice",
+                        0.912447155298287
+                    ],
+                    [
+                        "length",
+                        0.9143869319962724
+                    ],
+                    [
+                        "part",
+                        0.9209827307132966
+                    ],
+                    [
+                        "reason",
+                        0.927597658584851
+                    ],
+                    [
+                        "block",
+                        0.9297356490559588
+                    ],
+                    [
+                        "interval",
+                        0.938360866640031
+                    ],
+                    [
+                        "multiple",
+                        0.9385245163339101
+                    ],
+                    [
+                        "key",
+                        0.9424332312707159
+                    ],
+                    [
+                        "unit",
+                        0.9428579705471805
+                    ],
+                    [
+                        "necessarily--",
+                        0.943256104679465
+                    ],
+                    [
+                        "binary",
+                        0.943256104679465
+                    ],
+                    [
+                        "cache size",
+                        2.124048376841825
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "PROFESSOR",
+                        0.23547298886210247
+                    ],
+                    [
+                        "audience",
+                        0.27206456550178
+                    ],
+                    [
+                        "node",
+                        0.3098342245232436
+                    ],
+                    [
+                        "child",
+                        0.33740388644077396
+                    ],
+                    [
+                        "cache",
+                        0.44153734068984934
+                    ],
+                    [
+                        "element",
+                        0.44622447994818315
+                    ],
+                    [
+                        "tree",
+                        0.572606947269287
+                    ],
+                    [
+                        "search",
+                        0.5766751174917467
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.6388289980771681
+                    ],
+                    [
+                        "2b",
+                        0.6691452867423157
+                    ],
+                    [
+                        "root",
+                        0.8918725053767973
+                    ],
+                    [
+                        "key",
+                        0.9424332312707159
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-810": {
+            "id": "TOb1tuEZ2X4-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " Well, you have the formulas up there, so that's good. Insertion. Let's start with insertion. We already did searching. So insertion is you bring in a new key K, and you want to insert it into the tree. So what's the problem that could happen? You can find the location where you want to insert it, just like searching. You just go down the tree and find where it should be placed. But once you do place it, you have a problem. What is the problem? The problem is that one of your nodes will become overfull. Whatever. It'll overflow, and that's not what you want. So you want some way so you can manage this. How do you manage this? So I have this lovely prop here, which I hope to demonstrate. OK. So here we have B equal to 4. So let's first figure out the number of keys. So what is the minimum number of keys, anyone for B equal to 4? AUDIENCE: Three. PROFESSOR: Three, precisely. So what is the maximum number of keys? AUDIENCE: Six. PROFESSOR: 4 into 2 minus 3, yeah. Correct. 3, 4. It's not seven, there's a strictly less than sign somewhere.",
+            "metrics": {
+                "relativeDCReadability": 1.0541240953795747,
+                "lexicalDiversity": 0.46634615384615385,
+                "posComposition": {
+                    "RB": 0.072,
+                    "PRP": 0.106,
+                    "VBP": 0.053,
+                    "DT": 0.091,
+                    "NN": 0.101,
+                    "IN": 0.077,
+                    "VBZ": 0.048,
+                    "JJ": 0.048,
+                    "NNP": 0.091,
+                    "POS": 0.01,
+                    "VBD": 0.005,
+                    "VBG": 0.01,
+                    "CC": 0.024,
+                    "TO": 0.024,
+                    "VB": 0.067,
+                    "WP": 0.024,
+                    "WDT": 0.01,
+                    "MD": 0.029,
+                    "WRB": 0.01,
+                    "RP": 0.01,
+                    "VBN": 0.01,
+                    "CD": 0.048,
+                    "PRP$": 0.005,
+                    "NNS": 0.019,
+                    "EX": 0.005,
+                    "JJR": 0.005
+                },
+                "syllableRate": 2.258,
+                "topicScores": [
+                    [
+                        "problem",
+                        0.36012401911729247
+                    ],
+                    [
+                        "key",
+                        0.3667858398524926
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.40834935474252215
+                    ],
+                    [
+                        "insertion",
+                        0.4144922450548394
+                    ],
+                    [
+                        "number",
+                        0.4346969480251019
+                    ],
+                    [
+                        "tree",
+                        0.5567596885372433
+                    ],
+                    [
+                        "equal",
+                        0.5674001740243748
+                    ],
+                    [
+                        "K",
+                        0.6216359983933014
+                    ],
+                    [
+                        "audience",
+                        0.6664107013018203
+                    ],
+                    [
+                        "good",
+                        0.8575138727161201
+                    ],
+                    [
+                        "formula",
+                        0.882175137426555
+                    ],
+                    [
+                        "b equal",
+                        0.9108889172346186
+                    ],
+                    [
+                        "Correct",
+                        0.9142972050123711
+                    ],
+                    [
+                        "overfull",
+                        0.9206845910850994
+                    ],
+                    [
+                        "new",
+                        0.922281132958585
+                    ],
+                    [
+                        "location",
+                        0.928407480798474
+                    ],
+                    [
+                        "node",
+                        0.9352380996832121
+                    ],
+                    [
+                        "prop",
+                        0.9357532616237587
+                    ],
+                    [
+                        "way",
+                        0.9383020272630143
+                    ],
+                    [
+                        "lovely",
+                        0.9398457412154877
+                    ],
+                    [
+                        "sign",
+                        0.9412356591532809
+                    ],
+                    [
+                        "minimum",
+                        0.9422066008901032
+                    ],
+                    [
+                        "maximum",
+                        0.9435580805723529
+                    ],
+                    [
+                        "key K",
+                        1.1250214432750982
+                    ],
+                    [
+                        "new key",
+                        3.661158185373744
+                    ],
+                    [
+                        "minimum number",
+                        4.529403554326852
+                    ],
+                    [
+                        "new key K",
+                        5.52711426665739
+                    ],
+                    [
+                        "lovely prop",
+                        7.296257205405489
+                    ]
+                ],
+                "topTopicSimilarity": 0.35714285714285715,
+                "sharedTopicScores": [
+                    [
+                        "key",
+                        0.3667858398524926
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.40834935474252215
+                    ],
+                    [
+                        "number",
+                        0.4346969480251019
+                    ],
+                    [
+                        "tree",
+                        0.5567596885372433
+                    ],
+                    [
+                        "K",
+                        0.6216359983933014
+                    ],
+                    [
+                        "audience",
+                        0.6664107013018203
+                    ],
+                    [
+                        "good",
+                        0.8575138727161201
+                    ],
+                    [
+                        "b equal",
+                        0.9108889172346186
+                    ],
+                    [
+                        "node",
+                        0.9352380996832121
+                    ],
+                    [
+                        "way",
+                        0.9383020272630143
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-900": {
+            "id": "TOb1tuEZ2X4-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " Yes. And you'll see why it's not seven in a minute. [LAUGHTER] Oh. Hypocritical of me. All right. So as you can see, 1, 2, 3, 4, 5, 6, 7. So some insertion happened. Is the writing clear? Can everyone read the numbers? 49 looks a little skewed. Anyway, essentially these are all sorted. This is the parent node. Doesn't matter what's over here. All that matters is 8, 56, and whatever's in between. So what we do when we have an overfull node is something that's called a split operation. So split. And there's something which is called a merge, which we'll come to later when we're doing deletion. But a split is-- very intuitively, it splits the node into two parts. So what it does is when you have an overfull node-- so the number of elements here is what? 2B minus 1, which is just 1 over the max. So what do you do is you take the middle element and remove it. and now you split the node into two parts. Observe that there are three here and three here, which is perfect. And now what you do with the middle node-- so now you're actually disrupting the structure of the tree, because there was one pointer going in. There was one child. And now you have two children. So somehow you need to adjust the parent node, because the parent node had only one child.",
+            "metrics": {
+                "relativeDCReadability": 1.0646279623982415,
+                "lexicalDiversity": 0.4426877470355731,
+                "posComposition": {
+                    "UH": 0.004,
+                    "CC": 0.036,
+                    "PRP": 0.075,
+                    "MD": 0.012,
+                    "VB": 0.028,
+                    "WRB": 0.016,
+                    "VBZ": 0.079,
+                    "RB": 0.087,
+                    "CD": 0.087,
+                    "IN": 0.071,
+                    "DT": 0.103,
+                    "NN": 0.119,
+                    "NNP": 0.032,
+                    "VBD": 0.02,
+                    "VBG": 0.016,
+                    "JJ": 0.032,
+                    "NNS": 0.028,
+                    "VBP": 0.055,
+                    "VBN": 0.012,
+                    "WP": 0.024,
+                    "RP": 0.004,
+                    "PDT": 0.004,
+                    "WDT": 0.024,
+                    "EX": 0.016,
+                    "TO": 0.008,
+                    ":": 0.012
+                },
+                "syllableRate": 2.742,
+                "topicScores": [
+                    [
+                        "node",
+                        0.30072418789100414
+                    ],
+                    [
+                        "split",
+                        0.3359123152641409
+                    ],
+                    [
+                        "child",
+                        0.4275502951073648
+                    ],
+                    [
+                        "parent",
+                        0.43616851034970844
+                    ],
+                    [
+                        "part",
+                        0.5430701407943129
+                    ],
+                    [
+                        "number",
+                        0.5633078924733983
+                    ],
+                    [
+                        "overfull",
+                        0.5635205012155172
+                    ],
+                    [
+                        "middle",
+                        0.5753743757264392
+                    ],
+                    [
+                        "element",
+                        0.5785273802886203
+                    ],
+                    [
+                        "Hypocritical",
+                        0.5831144286002534
+                    ],
+                    [
+                        "2B",
+                        0.671710065674636
+                    ],
+                    [
+                        "minute",
+                        0.8508341341563667
+                    ],
+                    [
+                        "clear",
+                        0.9080827812863818
+                    ],
+                    [
+                        "skewed",
+                        0.9130920729613294
+                    ],
+                    [
+                        "sorted",
+                        0.9150188919507066
+                    ],
+                    [
+                        "insertion",
+                        0.9163356841381128
+                    ],
+                    [
+                        "writing",
+                        0.9193364304515563
+                    ],
+                    [
+                        "operation",
+                        0.9205459344432637
+                    ],
+                    [
+                        "deletion",
+                        0.9224972187294924
+                    ],
+                    [
+                        "little",
+                        0.9237838970694304
+                    ],
+                    [
+                        "max",
+                        0.9254849691037075
+                    ],
+                    [
+                        "perfect",
+                        0.9271972644331985
+                    ],
+                    [
+                        "minus",
+                        0.9303483254581341
+                    ],
+                    [
+                        "merge",
+                        0.9321179970544985
+                    ],
+                    [
+                        "tree",
+                        0.9367158303524091
+                    ],
+                    [
+                        "structure",
+                        0.9406181058092044
+                    ],
+                    [
+                        "pointer",
+                        0.9406181058092044
+                    ],
+                    [
+                        "parent node",
+                        1.3972552465875043
+                    ],
+                    [
+                        "2B minus",
+                        1.6661287115232248
+                    ],
+                    [
+                        "overfull node",
+                        3.065702032962256
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "node",
+                        0.30072418789100414
+                    ],
+                    [
+                        "split",
+                        0.3359123152641409
+                    ],
+                    [
+                        "child",
+                        0.4275502951073648
+                    ],
+                    [
+                        "parent",
+                        0.43616851034970844
+                    ],
+                    [
+                        "number",
+                        0.5633078924733983
+                    ],
+                    [
+                        "element",
+                        0.5785273802886203
+                    ],
+                    [
+                        "deletion",
+                        0.9224972187294924
+                    ],
+                    [
+                        "minus",
+                        0.9303483254581341
+                    ],
+                    [
+                        "tree",
+                        0.9367158303524091
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-990": {
+            "id": "TOb1tuEZ2X4-990",
+            "heat": 0.1,
+            "start": 990.0,
+            "text": " Well, at least there are other children off to the side. But here it had only one child, and now it's split apart. So you do something very simple. You just insert this guy in here. And then you say, oh, this points here, and this points here. Make sense? I'm going to get rid of these two. And you can even convince yourself that this preserves all the nice properties. So your children have nicely fallen back into their interval. Your sequence is completely correct, because this was the middle element of this. So this divides this interval properly. This is also between 8 and 56, because this was in this node. So all the properties. But there's one property that is a problem. So you have just increased the size of the parent node by 1. So now it's possible that the parent node has overflowed. So what do you do? You split it again. And split it again. And if at any point, you're fine, you look at the parent node and go, OK, that's fine. That's in the range. But every time it overflows, you can keep going. And how many times can you do this? You can do this all the way up to the root. And when you reach the root, either it's fine or the root is too big. It's reached 2B minus 1. And then you split the root, and you get one single [INAUDIBLE] up there. So that, in answer to your question,",
+            "metrics": {
+                "relativeDCReadability": 0.897538870657248,
+                "lexicalDiversity": 0.39846743295019155,
+                "posComposition": {
+                    "RB": 0.1,
+                    "IN": 0.096,
+                    "JJS": 0.004,
+                    "EX": 0.008,
+                    "VBP": 0.05,
+                    "JJ": 0.061,
+                    "NNS": 0.027,
+                    "TO": 0.015,
+                    "DT": 0.123,
+                    "NN": 0.103,
+                    "CC": 0.069,
+                    "PRP": 0.096,
+                    "VBD": 0.011,
+                    "CD": 0.034,
+                    "VBZ": 0.057,
+                    "VB": 0.038,
+                    "UH": 0.004,
+                    "VBG": 0.008,
+                    "MD": 0.015,
+                    "PDT": 0.011,
+                    "PRP$": 0.015,
+                    "VBN": 0.015,
+                    "NNP": 0.015,
+                    "WDT": 0.008,
+                    "WP": 0.004,
+                    "WRB": 0.008,
+                    "RP": 0.004
+                },
+                "syllableRate": 2.742,
+                "topicScores": [
+                    [
+                        "node",
+                        0.3770878878111248
+                    ],
+                    [
+                        "root",
+                        0.38180733783024695
+                    ],
+                    [
+                        "point",
+                        0.4348132596371362
+                    ],
+                    [
+                        "child",
+                        0.4379391346133959
+                    ],
+                    [
+                        "property",
+                        0.44003408216903667
+                    ],
+                    [
+                        "parent",
+                        0.4426239118779597
+                    ],
+                    [
+                        "fine",
+                        0.44764256683590464
+                    ],
+                    [
+                        "interval",
+                        0.5658322283618233
+                    ],
+                    [
+                        "time",
+                        0.5830889552387664
+                    ],
+                    [
+                        "2b",
+                        0.7100050248364402
+                    ],
+                    [
+                        "simple",
+                        0.894142833218661
+                    ],
+                    [
+                        "sense",
+                        0.9048980459296092
+                    ],
+                    [
+                        "guy",
+                        0.9189248061140634
+                    ],
+                    [
+                        "problem",
+                        0.9260465713537801
+                    ],
+                    [
+                        "nice",
+                        0.9271890993497401
+                    ],
+                    [
+                        "sequence",
+                        0.9306769526069975
+                    ],
+                    [
+                        "correct",
+                        0.9306769526069975
+                    ],
+                    [
+                        "range",
+                        0.9312410504346369
+                    ],
+                    [
+                        "big",
+                        0.9331766306228736
+                    ],
+                    [
+                        "question",
+                        0.9343505732543862
+                    ],
+                    [
+                        "middle",
+                        0.9349257327759393
+                    ],
+                    [
+                        "element",
+                        0.9349257327759393
+                    ],
+                    [
+                        "size",
+                        0.9400429378747891
+                    ],
+                    [
+                        "possible",
+                        0.9407656639406852
+                    ],
+                    [
+                        "single",
+                        0.9422652215013279
+                    ],
+                    [
+                        "answer",
+                        0.942591508240333
+                    ],
+                    [
+                        "way",
+                        0.9448124462589816
+                    ],
+                    [
+                        "parent node",
+                        1.723183504292668
+                    ],
+                    [
+                        "nice property",
+                        4.434475698423079
+                    ],
+                    [
+                        "middle element",
+                        6.941936553109661
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "node",
+                        0.3770878878111248
+                    ],
+                    [
+                        "root",
+                        0.38180733783024695
+                    ],
+                    [
+                        "child",
+                        0.4379391346133959
+                    ],
+                    [
+                        "parent",
+                        0.4426239118779597
+                    ],
+                    [
+                        "time",
+                        0.5830889552387664
+                    ],
+                    [
+                        "2b",
+                        0.7100050248364402
+                    ],
+                    [
+                        "element",
+                        0.9349257327759393
+                    ],
+                    [
+                        "way",
+                        0.9448124462589816
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1080": {
+            "id": "TOb1tuEZ2X4-1080",
+            "heat": 0.125,
+            "start": 1080.0,
+            "text": " that is why you need that property in some sense. Not a very convincing argument, but sort of. So let's actually do an insertion in this tree we have here. So we are going to insert 16. So 16 comes in here. It's less than 30, it goes to the left. It's between 10 and 17, it goes in the middle. 16. And it's greater than 14, so we add 16 here. All right. That seems good. All the properties fine. This still has two elements, which is the maximum, but it's good. It doesn't overflow. Let's insert something else. Let's insert 2. So 2 goes to 30, goes down, goes down. And we have a problem, because 2 has overflowed this node. So we split. And the way we split is we take the middle element. So we split the node here. And 3 goes up to the parent, so 3 goes here.",
+            "metrics": {
+                "relativeDCReadability": 1.0475594548846645,
+                "lexicalDiversity": 0.4691358024691358,
+                "posComposition": {
+                    "DT": 0.099,
+                    "VBZ": 0.117,
+                    "WRB": 0.006,
+                    "PRP": 0.099,
+                    "VBP": 0.068,
+                    "IN": 0.093,
+                    "NN": 0.093,
+                    "RB": 0.117,
+                    "JJ": 0.049,
+                    "CC": 0.043,
+                    "NNP": 0.019,
+                    "POS": 0.019,
+                    "VBG": 0.006,
+                    "TO": 0.025,
+                    "VB": 0.012,
+                    "CD": 0.093,
+                    "JJR": 0.012,
+                    "PDT": 0.006,
+                    "NNS": 0.012,
+                    "WDT": 0.006,
+                    "VBN": 0.006
+                },
+                "syllableRate": 1.65,
+                "topicScores": [
+                    [
+                        "good",
+                        0.5592630696068138
+                    ],
+                    [
+                        "middle",
+                        0.5670836526570441
+                    ],
+                    [
+                        "property",
+                        0.570089074315929
+                    ],
+                    [
+                        "element",
+                        0.5746698658251645
+                    ],
+                    [
+                        "node",
+                        0.5762792967117796
+                    ],
+                    [
+                        "sense",
+                        0.8635474803034301
+                    ],
+                    [
+                        "convincing",
+                        0.8997098086635833
+                    ],
+                    [
+                        "argument",
+                        0.8997098086635833
+                    ],
+                    [
+                        "left",
+                        0.9132964842803132
+                    ],
+                    [
+                        "insertion",
+                        0.9158032255742937
+                    ],
+                    [
+                        "tree",
+                        0.9158032255742937
+                    ],
+                    [
+                        "fine",
+                        0.9256067185036537
+                    ],
+                    [
+                        "great",
+                        0.93598959376465
+                    ],
+                    [
+                        "maximum",
+                        0.9365613321314258
+                    ],
+                    [
+                        "problem",
+                        0.9403328682566899
+                    ],
+                    [
+                        "parent",
+                        0.9423720576233712
+                    ],
+                    [
+                        "way",
+                        0.9453129058060846
+                    ],
+                    [
+                        "convincing argument",
+                        4.2487305104344255
+                    ],
+                    [
+                        "middle element",
+                        4.514501104055357
+                    ],
+                    [
+                        "property fine",
+                        5.110612424662869
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "good",
+                        0.5592630696068138
+                    ],
+                    [
+                        "element",
+                        0.5746698658251645
+                    ],
+                    [
+                        "node",
+                        0.5762792967117796
+                    ],
+                    [
+                        "tree",
+                        0.9158032255742937
+                    ],
+                    [
+                        "parent",
+                        0.9423720576233712
+                    ],
+                    [
+                        "way",
+                        0.9453129058060846
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1170": {
+            "id": "TOb1tuEZ2X4-1170",
+            "heat": 0.216,
+            "start": 1170.0,
+            "text": " And all good, except for the parent has overflowed. So what do we do with the parent? We split the parent again. And this time, it's right down the middle, the 10 goes up. So OK, let's get rid of this. So now that we split the parent, the 10 goes up here. And you're good. It's a bit cluttered, so let me reposition the 17. Did those two operations make sense? Questions? AUDIENCE: If your node size [INAUDIBLE] number of-- PROFESSOR: So just pick the-- first of all-- OK. If the way we're doing it-- when your node is overflowing, it's returning only one thing at a time, right? AUDIENCE: Yeah. PROFESSOR: So if your node is overflowing, it'll be 2t minus 1, which is an odd number always. There might be a case where you get an even number if you do something weird. Maybe you have a-- there are different ways to do B-trees. But if it does, you can probably pick the one, either of them, and then [INAUDIBLE]. I'm not sure about that. I'll look into it. But in general, if you're doing it this way, it's always odd. So you don't have to worry about that. Anything else? AUDIENCE: If we did reach all the way to the root and then went one more up-- PROFESSOR: So what you would do is-- AUDIENCE: That root would have--",
+            "metrics": {
+                "relativeDCReadability": 0.9543810389957464,
+                "lexicalDiversity": 0.45454545454545453,
+                "posComposition": {
+                    "CC": 0.032,
+                    "DT": 0.111,
+                    "JJ": 0.047,
+                    "IN": 0.095,
+                    "NN": 0.099,
+                    "VBZ": 0.047,
+                    "VBN": 0.004,
+                    "NNP": 0.051,
+                    "WP": 0.008,
+                    "VBP": 0.051,
+                    "PRP": 0.103,
+                    "VB": 0.059,
+                    "VBD": 0.02,
+                    "RB": 0.087,
+                    "CD": 0.036,
+                    "POS": 0.004,
+                    "NNS": 0.016,
+                    "PRP$": 0.012,
+                    ":": 0.032,
+                    "UH": 0.004,
+                    "VBG": 0.02,
+                    "WRB": 0.008,
+                    "MD": 0.024,
+                    "WDT": 0.004,
+                    "EX": 0.008,
+                    "TO": 0.012,
+                    "PDT": 0.004,
+                    "JJR": 0.004
+                },
+                "syllableRate": 2.708,
+                "topicScores": [
+                    [
+                        "audience",
+                        0.260770224406085
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.31887229837039677
+                    ],
+                    [
+                        "parent",
+                        0.3476255370050566
+                    ],
+                    [
+                        "way",
+                        0.39360506899393105
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.40666713361204787
+                    ],
+                    [
+                        "node",
+                        0.4346045459855815
+                    ],
+                    [
+                        "number",
+                        0.4531021733918484
+                    ],
+                    [
+                        "good",
+                        0.5483351123498054
+                    ],
+                    [
+                        "right",
+                        0.5657229651531961
+                    ],
+                    [
+                        "time",
+                        0.5700058803923382
+                    ],
+                    [
+                        "odd",
+                        0.573846111304941
+                    ],
+                    [
+                        "root",
+                        0.5885265607615034
+                    ],
+                    [
+                        "question",
+                        0.8841403620786219
+                    ],
+                    [
+                        "middle",
+                        0.9048212603526017
+                    ],
+                    [
+                        "sense",
+                        0.911247227119532
+                    ],
+                    [
+                        "tree",
+                        0.9170038061703549
+                    ],
+                    [
+                        "all--",
+                        0.9170814489275655
+                    ],
+                    [
+                        "bit",
+                        0.9231796520728098
+                    ],
+                    [
+                        "cluttered",
+                        0.9231796520728098
+                    ],
+                    [
+                        "weird",
+                        0.9237149539255887
+                    ],
+                    [
+                        "of--",
+                        0.9242061364166375
+                    ],
+                    [
+                        "have--",
+                        0.9289569944436818
+                    ],
+                    [
+                        "size",
+                        0.9304717024230635
+                    ],
+                    [
+                        "operation",
+                        0.9314055686494358
+                    ],
+                    [
+                        "thing",
+                        0.938145265650694
+                    ],
+                    [
+                        "general",
+                        0.9389152977242109
+                    ],
+                    [
+                        "up--",
+                        0.9405538140016727
+                    ],
+                    [
+                        "is--",
+                        0.9405538140016727
+                    ],
+                    [
+                        "case",
+                        0.9412241626037827
+                    ],
+                    [
+                        "a--",
+                        0.9418284831639593
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "audience",
+                        0.260770224406085
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.31887229837039677
+                    ],
+                    [
+                        "parent",
+                        0.3476255370050566
+                    ],
+                    [
+                        "way",
+                        0.39360506899393105
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.40666713361204787
+                    ],
+                    [
+                        "node",
+                        0.4346045459855815
+                    ],
+                    [
+                        "number",
+                        0.4531021733918484
+                    ],
+                    [
+                        "good",
+                        0.5483351123498054
+                    ],
+                    [
+                        "right",
+                        0.5657229651531961
+                    ],
+                    [
+                        "time",
+                        0.5700058803923382
+                    ],
+                    [
+                        "root",
+                        0.5885265607615034
+                    ],
+                    [
+                        "tree",
+                        0.9170038061703549
+                    ],
+                    [
+                        "thing",
+                        0.938145265650694
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1260": {
+            "id": "TOb1tuEZ2X4-1260",
+            "heat": 0.291,
+            "start": 1260.0,
+            "text": " PROFESSOR: That root would have two children, one element and two children, which is fine because we didn't put that restriction on the root. That's good. How we doing on time? OK, we have some time. Let's jump into deletion, unless anyone else has questions. AUDIENCE: [INAUDIBLE] any point? PROFESSOR: So-- oh, yeah. That's a good-- thank you. So you are going down to the leaves at most-- at most of the leaf ones, and you're going back up one. So it's like log n plus log n, and you're good. Let's do deletion. So deletion is more complicated. So the reason, it'll be clear. So the problem in deletion will be remove a node and a node is now underfull. So it has less than B minus 1 keys in it suddenly. So let's turn this around. So again B equal to 4. This node is a problem. Only two things in it. So what do we do? So before we go into that, let's make this assumption that-- there are two steps to deletion. The first step is making the deletion at a leaf. How do you do that? So the way you make a deletion at a leaf is, let's say, you have a key.",
+            "metrics": {
+                "relativeDCReadability": 0.9623483355548192,
+                "lexicalDiversity": 0.48660714285714285,
+                "posComposition": {
+                    "NNP": 0.062,
+                    "NN": 0.143,
+                    "MD": 0.013,
+                    "VB": 0.071,
+                    "CD": 0.036,
+                    "NNS": 0.036,
+                    "CC": 0.027,
+                    "WDT": 0.013,
+                    "VBZ": 0.049,
+                    "JJ": 0.054,
+                    "IN": 0.112,
+                    "PRP": 0.076,
+                    "VBD": 0.004,
+                    "RB": 0.045,
+                    "DT": 0.112,
+                    "VBG": 0.018,
+                    "VBP": 0.04,
+                    "POS": 0.022,
+                    ":": 0.018,
+                    "TO": 0.013,
+                    "JJS": 0.009,
+                    "RBR": 0.004,
+                    "JJR": 0.004,
+                    "WP": 0.004,
+                    "EX": 0.004,
+                    "WRB": 0.004,
+                    "VBN": 0.004
+                },
+                "syllableRate": 2.375,
+                "topicScores": [
+                    [
+                        "deletion",
+                        0.2953730567877837
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.3246698378686461
+                    ],
+                    [
+                        "b",
+                        0.43354575202095635
+                    ],
+                    [
+                        "leaf",
+                        0.4408479398284823
+                    ],
+                    [
+                        "node",
+                        0.44646456156833986
+                    ],
+                    [
+                        "child",
+                        0.5201793406098523
+                    ],
+                    [
+                        "root",
+                        0.5233196558448179
+                    ],
+                    [
+                        "time",
+                        0.5285107175680098
+                    ],
+                    [
+                        "good",
+                        0.5344190816058965
+                    ],
+                    [
+                        "log",
+                        0.5724129653726265
+                    ],
+                    [
+                        "audience",
+                        0.574118973799465
+                    ],
+                    [
+                        "problem",
+                        0.5747687308906745
+                    ],
+                    [
+                        "key",
+                        0.5764259353325647
+                    ],
+                    [
+                        "step",
+                        0.5832177440996777
+                    ],
+                    [
+                        "element",
+                        0.8694143493680454
+                    ],
+                    [
+                        "fine",
+                        0.8780649362480003
+                    ],
+                    [
+                        "restriction",
+                        0.8780649362480003
+                    ],
+                    [
+                        "point",
+                        0.8992947206756224
+                    ],
+                    [
+                        "question",
+                        0.8993106069471993
+                    ],
+                    [
+                        "So--",
+                        0.904732698067461
+                    ],
+                    [
+                        "complicated",
+                        0.9196541167170911
+                    ],
+                    [
+                        "clear",
+                        0.9206888675351106
+                    ],
+                    [
+                        "underfull",
+                        0.9216254381341311
+                    ],
+                    [
+                        "reason",
+                        0.9320431947722688
+                    ],
+                    [
+                        "leave",
+                        0.9328380218499394
+                    ],
+                    [
+                        "most--",
+                        0.9328380218499394
+                    ],
+                    [
+                        "equal",
+                        0.9395102783455503
+                    ],
+                    [
+                        "thing",
+                        0.9405474570058167
+                    ],
+                    [
+                        "assumption",
+                        0.9414470371320298
+                    ],
+                    [
+                        "that--",
+                        0.9414470371320298
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "deletion",
+                        0.2953730567877837
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.3246698378686461
+                    ],
+                    [
+                        "b",
+                        0.43354575202095635
+                    ],
+                    [
+                        "leaf",
+                        0.4408479398284823
+                    ],
+                    [
+                        "node",
+                        0.44646456156833986
+                    ],
+                    [
+                        "child",
+                        0.5201793406098523
+                    ],
+                    [
+                        "root",
+                        0.5233196558448179
+                    ],
+                    [
+                        "time",
+                        0.5285107175680098
+                    ],
+                    [
+                        "good",
+                        0.5344190816058965
+                    ],
+                    [
+                        "audience",
+                        0.574118973799465
+                    ],
+                    [
+                        "key",
+                        0.5764259353325647
+                    ],
+                    [
+                        "element",
+                        0.8694143493680454
+                    ],
+                    [
+                        "thing",
+                        0.9405474570058167
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1350": {
+            "id": "TOb1tuEZ2X4-1350",
+            "heat": 0.327,
+            "start": 1350.0,
+            "text": " You come down in your B-tree, and you add a node. Oh, this key needs to be deleted. But it's not a leaf. So what do you do? So essentially what you do is you look at these two subtrees. So it might have only one subtree. If it's at the end, it will have only one. Actually, no, that's not true. Ignore that. If it's not a leaf, it has two subtrees. So either take the rightmost element in this subtree, which is a leaf, because you can always keep going down, right, right, right, right till you get to a leaf, or the leftmost element in this subtree. So that is just the next element after this guy. So you delete this, and you bring this up to here. We'll do an example of this, and it'll be clearer. So you take either the rightmost element in the left subtree or the leftmost element in the right subtree and bring it up here. So you sort of like move the deletion to the leaf. And now it's easier to deal with. So we will come to that. Also just note that this is not what is done in the recitation. This algorithm for deletion, I think, is not done in the recitation notes. This is a different thing, which I'll send out a link for later. But I believe it works, because I got it from the [INAUDIBLE] reference. So once you move to the leaf-- so now let's look at this. So this is a node that is underfull. And you want to fix it. So how do you fix it? So what do is you look at its siblings. So in this case, it has one sibling.",
+            "metrics": {
+                "relativeDCReadability": 0.9233893288468158,
+                "lexicalDiversity": 0.3754152823920266,
+                "posComposition": {
+                    "PRP": 0.116,
+                    "VBP": 0.056,
+                    "RP": 0.01,
+                    "IN": 0.103,
+                    "PRP$": 0.007,
+                    "JJ": 0.033,
+                    "CC": 0.037,
+                    "DT": 0.133,
+                    "NNP": 0.027,
+                    "VBZ": 0.066,
+                    "TO": 0.027,
+                    "VB": 0.056,
+                    "VBN": 0.01,
+                    "RB": 0.1,
+                    "NN": 0.113,
+                    "WP": 0.013,
+                    "CD": 0.017,
+                    "NNS": 0.01,
+                    "MD": 0.023,
+                    "WDT": 0.013,
+                    "VBG": 0.003,
+                    "JJS": 0.007,
+                    "JJR": 0.007,
+                    "VBD": 0.003,
+                    ":": 0.003,
+                    "POS": 0.003,
+                    "WRB": 0.003
+                },
+                "syllableRate": 3.108,
+                "topicScores": [
+                    [
+                        "subtree",
+                        0.2860591657817594
+                    ],
+                    [
+                        "element",
+                        0.3188121934512831
+                    ],
+                    [
+                        "leaf",
+                        0.32321699969943557
+                    ],
+                    [
+                        "right",
+                        0.3301331413661155
+                    ],
+                    [
+                        "leftmost",
+                        0.5585739995182047
+                    ],
+                    [
+                        "recitation",
+                        0.5640010364668844
+                    ],
+                    [
+                        "rightmost",
+                        0.5642389757602629
+                    ],
+                    [
+                        "node",
+                        0.5671364386114719
+                    ],
+                    [
+                        "sibling",
+                        0.5677280332035887
+                    ],
+                    [
+                        "note",
+                        0.5768436529333153
+                    ],
+                    [
+                        "deletion",
+                        0.5787236672112074
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.684724876628601
+                    ],
+                    [
+                        "key",
+                        0.8805270096989415
+                    ],
+                    [
+                        "true",
+                        0.9178386319385351
+                    ],
+                    [
+                        "end",
+                        0.9246258116997845
+                    ],
+                    [
+                        "guy",
+                        0.9255968097695916
+                    ],
+                    [
+                        "clear",
+                        0.928055377319824
+                    ],
+                    [
+                        "reference",
+                        0.9296232660400551
+                    ],
+                    [
+                        "underfull",
+                        0.9350694167089092
+                    ],
+                    [
+                        "example",
+                        0.940143070325855
+                    ],
+                    [
+                        "algorithm",
+                        0.9408152938394228
+                    ],
+                    [
+                        "different",
+                        0.9413423554834048
+                    ],
+                    [
+                        "thing",
+                        0.9413423554834048
+                    ],
+                    [
+                        "easy",
+                        0.9424885597389854
+                    ],
+                    [
+                        "case",
+                        0.9441744839065709
+                    ],
+                    [
+                        "link",
+                        0.9447517945851245
+                    ],
+                    [
+                        "leftmost element",
+                        1.7024490991529437
+                    ],
+                    [
+                        "rightmost element",
+                        1.7681008468186263
+                    ],
+                    [
+                        "right subtree",
+                        2.73626524706992
+                    ],
+                    [
+                        "left subtree",
+                        4.1962153962125655
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "element",
+                        0.3188121934512831
+                    ],
+                    [
+                        "leaf",
+                        0.32321699969943557
+                    ],
+                    [
+                        "right",
+                        0.3301331413661155
+                    ],
+                    [
+                        "node",
+                        0.5671364386114719
+                    ],
+                    [
+                        "sibling",
+                        0.5677280332035887
+                    ],
+                    [
+                        "deletion",
+                        0.5787236672112074
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.684724876628601
+                    ],
+                    [
+                        "key",
+                        0.8805270096989415
+                    ],
+                    [
+                        "thing",
+                        0.9413423554834048
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1440": {
+            "id": "TOb1tuEZ2X4-1440",
+            "heat": 0.243,
+            "start": 1440.0,
+            "text": " It can have up to two siblings. It can have left or right. So what you do is you look at a sibling. And this sibling is actually 1 over the minimum. And if it's 1 over the minimum, then it's really easy. All you have to do is take the leftmost thing here-- or if it's the sibling on this side, take the rightmost thing here. And look at its parent. So you bring the parent down, and you move the sibling up. And there we go. So you basically are rotating the thing into place. So you move the parent down into the underfull node, and you replace the parent by the leftmost thing here. Everyone see why that preserves everything? And the child is also shifted. Make sure you see that. So the child which was in this subtree is now in this subtree. But then you can have the situation where you don't have a nice sibling to take care of your problems. So in this scenario, the sibling is barely full. It has three things, and it can't donate anything to you. So what do you do in that case? So then you do something which is a parallel of the split operation. You do a merge. So what do you have? So here you have B minus 2, and here you have B minus 1.",
+            "metrics": {
+                "relativeDCReadability": 0.9556203655576503,
+                "lexicalDiversity": 0.3670886075949367,
+                "posComposition": {
+                    "PRP": 0.11,
+                    "MD": 0.017,
+                    "VB": 0.055,
+                    "RP": 0.004,
+                    "TO": 0.017,
+                    "CD": 0.025,
+                    "NNS": 0.017,
+                    "VBN": 0.017,
+                    "CC": 0.055,
+                    "RB": 0.11,
+                    "IN": 0.084,
+                    "WP": 0.013,
+                    "VBP": 0.072,
+                    "VBZ": 0.051,
+                    "DT": 0.118,
+                    "NN": 0.143,
+                    "JJ": 0.03,
+                    "NNP": 0.021,
+                    "JJS": 0.004,
+                    ":": 0.004,
+                    "PRP$": 0.008,
+                    "VBG": 0.004,
+                    "WRB": 0.008,
+                    "WDT": 0.008,
+                    "VBD": 0.004
+                },
+                "syllableRate": 2.492,
+                "topicScores": [
+                    [
+                        "sibling",
+                        0.28862380132515264
+                    ],
+                    [
+                        "thing",
+                        0.3340444261698291
+                    ],
+                    [
+                        "parent",
+                        0.3740449651577015
+                    ],
+                    [
+                        "minimum",
+                        0.5285534014880755
+                    ],
+                    [
+                        "leftmost",
+                        0.5600212480043573
+                    ],
+                    [
+                        "subtree",
+                        0.5658636094523447
+                    ],
+                    [
+                        "child",
+                        0.567603783670323
+                    ],
+                    [
+                        "right",
+                        0.8493516359855865
+                    ],
+                    [
+                        "easy",
+                        0.8935732765033201
+                    ],
+                    [
+                        "place",
+                        0.9121644537799426
+                    ],
+                    [
+                        "here--",
+                        0.9194790798336074
+                    ],
+                    [
+                        "rightmost",
+                        0.9194790798336074
+                    ],
+                    [
+                        "problem",
+                        0.9207251954046541
+                    ],
+                    [
+                        "case",
+                        0.9232950947572106
+                    ],
+                    [
+                        "operation",
+                        0.9240140103857877
+                    ],
+                    [
+                        "merge",
+                        0.9246787150116865
+                    ],
+                    [
+                        "underfull",
+                        0.9263307249662558
+                    ],
+                    [
+                        "node",
+                        0.9263307249662558
+                    ],
+                    [
+                        "sure",
+                        0.9301785488206561
+                    ],
+                    [
+                        "scenario",
+                        0.9328866238368291
+                    ],
+                    [
+                        "split",
+                        0.9349259499994917
+                    ],
+                    [
+                        "situation",
+                        0.9368757642534293
+                    ],
+                    [
+                        "nice",
+                        0.9368757642534293
+                    ],
+                    [
+                        "care",
+                        0.9368757642534293
+                    ],
+                    [
+                        "parallel",
+                        0.939538551348695
+                    ],
+                    [
+                        "leftmost thing",
+                        2.0705085221282213
+                    ],
+                    [
+                        "thing here--",
+                        3.8535000011098295
+                    ],
+                    [
+                        "rightmost thing",
+                        3.8535000011098295
+                    ],
+                    [
+                        "nice sibling",
+                        4.297001085497798
+                    ],
+                    [
+                        "underfull node",
+                        6.046650830561483
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "sibling",
+                        0.28862380132515264
+                    ],
+                    [
+                        "thing",
+                        0.3340444261698291
+                    ],
+                    [
+                        "parent",
+                        0.3740449651577015
+                    ],
+                    [
+                        "child",
+                        0.567603783670323
+                    ],
+                    [
+                        "right",
+                        0.8493516359855865
+                    ],
+                    [
+                        "node",
+                        0.9263307249662558
+                    ],
+                    [
+                        "split",
+                        0.9349259499994917
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1530": {
+            "id": "TOb1tuEZ2X4-1530",
+            "heat": 0.19,
+            "start": 1530.0,
+            "text": " And you get 2B minus 3. Well, you've got another element. You also take the parent. So how do you do the merge. I just want to show you the merge first. So the way you do it is you move the parent down, and you merge these two. Seems OK? So you move the parent node down and merge these two. And, well, now this comes together, and this points into the new node. Sort of clear what's going on? Questions? Yes? AUDIENCE: So now the parent is underfull? PROFESSOR: Well, so you have-- yeah, exactly. So you have decreased the size of the parent, so it might be underfull. So you propagate. Anything else? AUDIENCE: So are these all different techniques for doing that? PROFESSOR: So there are two cases. So either you have a sibling which has extra nodes to donate to you or you don't. If you don't, then you have to do this. AUDIENCE: But what about that case? Or is that just like-- PROFESSOR: No, that is moving it down to the leaf. Once you move the deletion down to the leaf, so here we have something now. And now you move it all the way back up. So there are two cases. Let's do an example. That'll make it clearer. How are we doing on time? Five minutes, all right. So we are going to delete 38. 38 is gone.",
+            "metrics": {
+                "relativeDCReadability": 0.9465283108220215,
+                "lexicalDiversity": 0.4122448979591837,
+                "posComposition": {
+                    "CC": 0.033,
+                    "PRP": 0.114,
+                    "VBP": 0.094,
+                    "CD": 0.037,
+                    "NN": 0.082,
+                    "NNP": 0.078,
+                    "VBN": 0.012,
+                    "DT": 0.114,
+                    "RB": 0.114,
+                    "WRB": 0.008,
+                    "VB": 0.041,
+                    "TO": 0.029,
+                    "VBZ": 0.033,
+                    "NNPS": 0.004,
+                    "VBD": 0.004,
+                    "NNS": 0.024,
+                    "IN": 0.057,
+                    "JJ": 0.033,
+                    "WP": 0.008,
+                    "VBG": 0.024,
+                    ":": 0.008,
+                    "UH": 0.004,
+                    "MD": 0.008,
+                    "EX": 0.008,
+                    "WDT": 0.012,
+                    "RP": 0.004,
+                    "PDT": 0.004,
+                    "POS": 0.004,
+                    "JJR": 0.004
+                },
+                "syllableRate": 2.558,
+                "topicScores": [
+                    [
+                        "audience",
+                        0.25481721245591227
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.2877573237146082
+                    ],
+                    [
+                        "parent",
+                        0.32929107245630007
+                    ],
+                    [
+                        "merge",
+                        0.3591770796538852
+                    ],
+                    [
+                        "2b",
+                        0.42140744259556323
+                    ],
+                    [
+                        "case",
+                        0.43235307513059135
+                    ],
+                    [
+                        "node",
+                        0.4514640593808893
+                    ],
+                    [
+                        "underfull",
+                        0.5585582556309509
+                    ],
+                    [
+                        "leaf",
+                        0.5720375862026976
+                    ],
+                    [
+                        "way",
+                        0.5819738610364342
+                    ],
+                    [
+                        "clear",
+                        0.582149772244943
+                    ],
+                    [
+                        "ok",
+                        0.6063954581198159
+                    ],
+                    [
+                        "element",
+                        0.8708709016718903
+                    ],
+                    [
+                        "question",
+                        0.9087804131552102
+                    ],
+                    [
+                        "new",
+                        0.9333553670154091
+                    ],
+                    [
+                        "point",
+                        0.9375904038718742
+                    ],
+                    [
+                        "example",
+                        0.9408560551188164
+                    ],
+                    [
+                        "time",
+                        0.9413792349364121
+                    ],
+                    [
+                        "minute",
+                        0.9456375722098055
+                    ],
+                    [
+                        "size",
+                        0.945971046360292
+                    ],
+                    [
+                        "like--",
+                        0.947227380634057
+                    ],
+                    [
+                        "different",
+                        0.9481047816769327
+                    ],
+                    [
+                        "technique",
+                        0.9481047816769327
+                    ],
+                    [
+                        "sibling",
+                        0.9493257523992634
+                    ],
+                    [
+                        "extra",
+                        0.9493257523992634
+                    ],
+                    [
+                        "deletion",
+                        0.951176021478288
+                    ],
+                    [
+                        "like-- PROFESSOR",
+                        1.1984942741403808
+                    ],
+                    [
+                        "new node",
+                        5.359413942457647
+                    ],
+                    [
+                        "extra node",
+                        6.001473179564497
+                    ],
+                    [
+                        "different technique",
+                        8.89145875190429
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "audience",
+                        0.25481721245591227
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.2877573237146082
+                    ],
+                    [
+                        "parent",
+                        0.32929107245630007
+                    ],
+                    [
+                        "2b",
+                        0.42140744259556323
+                    ],
+                    [
+                        "node",
+                        0.4514640593808893
+                    ],
+                    [
+                        "leaf",
+                        0.5720375862026976
+                    ],
+                    [
+                        "way",
+                        0.5819738610364342
+                    ],
+                    [
+                        "ok",
+                        0.6063954581198159
+                    ],
+                    [
+                        "element",
+                        0.8708709016718903
+                    ],
+                    [
+                        "time",
+                        0.9413792349364121
+                    ],
+                    [
+                        "sibling",
+                        0.9493257523992634
+                    ],
+                    [
+                        "deletion",
+                        0.951176021478288
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1620": {
+            "id": "TOb1tuEZ2X4-1620",
+            "heat": 0.207,
+            "start": 1620.0,
+            "text": " But we want to move it down to the leaf. So let's take an element. Let's say we take 41. So we take 41 and move it up here. 41 is the leftmost thing in the right subtree. So this vacancy doesn't really affect anything, because this node still has the right number of things, because it's still got one thing in it, which is good. So you're fine. This is now just 48. Let's say we now delete 41. So 41 is gone. So now that 41 is gone, what do you replace this blank spot with? Either this or this, right? Doesn't matter. So let's just do this one for consistency. So you have 48 here. And now you a problem because you have a blank box. So can you rotate? Yes, no? No, right? Because sibling is barely full. So what can you do? So you merge. And how do you merge? You move the 48 down, and you combine everything. So this is kind of hard to understand, but this is like a zero-element node. So when you merge, you have 32, 48, and nothing, so it's just 32 and 48. So what you do is-- so this seems weird,",
+            "metrics": {
+                "relativeDCReadability": 0.9604478343825128,
+                "lexicalDiversity": 0.4252336448598131,
+                "posComposition": {
+                    "CC": 0.042,
+                    "PRP": 0.107,
+                    "VBP": 0.079,
+                    "TO": 0.014,
+                    "VB": 0.056,
+                    "RP": 0.005,
+                    "DT": 0.093,
+                    "NN": 0.084,
+                    "NNP": 0.028,
+                    "POS": 0.019,
+                    "JJ": 0.056,
+                    "CD": 0.07,
+                    "IN": 0.084,
+                    "RB": 0.121,
+                    "VBZ": 0.07,
+                    "NNS": 0.005,
+                    "VBD": 0.005,
+                    "WDT": 0.005,
+                    "VBN": 0.009,
+                    "WP": 0.014,
+                    "MD": 0.009,
+                    "UH": 0.005,
+                    "VBG": 0.005,
+                    "WRB": 0.009,
+                    ":": 0.005
+                },
+                "syllableRate": 2.083,
+                "topicScores": [
+                    [
+                        "right",
+                        0.37852344593629783
+                    ],
+                    [
+                        "thing",
+                        0.44794389488262226
+                    ],
+                    [
+                        "element",
+                        0.5710953566473096
+                    ],
+                    [
+                        "node",
+                        0.5764838444660596
+                    ],
+                    [
+                        "blank",
+                        0.5815745758067139
+                    ],
+                    [
+                        "leaf",
+                        0.8093715033636405
+                    ],
+                    [
+                        "subtree",
+                        0.9049069205515177
+                    ],
+                    [
+                        "good",
+                        0.9101354482243875
+                    ],
+                    [
+                        "fine",
+                        0.9140581345918394
+                    ],
+                    [
+                        "leftmost",
+                        0.9247454842446523
+                    ],
+                    [
+                        "consistency",
+                        0.9274307135437371
+                    ],
+                    [
+                        "vacancy",
+                        0.9289688450421869
+                    ],
+                    [
+                        "number",
+                        0.9289688450421869
+                    ],
+                    [
+                        "box",
+                        0.9293958296520229
+                    ],
+                    [
+                        "spot",
+                        0.9348753024572225
+                    ],
+                    [
+                        "weird",
+                        0.9357797207151306
+                    ],
+                    [
+                        "sibling",
+                        0.942535448565736
+                    ],
+                    [
+                        "problem",
+                        0.9444391403963583
+                    ],
+                    [
+                        "hard",
+                        0.9488779547269075
+                    ],
+                    [
+                        "is--",
+                        0.9495366986170103
+                    ],
+                    [
+                        "right subtree",
+                        3.8858307057393078
+                    ],
+                    [
+                        "right number",
+                        4.448838289413968
+                    ],
+                    [
+                        "element node",
+                        4.782144443063155
+                    ],
+                    [
+                        "leftmost thing",
+                        4.829822399685205
+                    ],
+                    [
+                        "blank box",
+                        5.978017089486677
+                    ],
+                    [
+                        "blank spot",
+                        6.232940731868058
+                    ]
+                ],
+                "topTopicSimilarity": 0.3076923076923077,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.37852344593629783
+                    ],
+                    [
+                        "thing",
+                        0.44794389488262226
+                    ],
+                    [
+                        "element",
+                        0.5710953566473096
+                    ],
+                    [
+                        "node",
+                        0.5764838444660596
+                    ],
+                    [
+                        "leaf",
+                        0.8093715033636405
+                    ],
+                    [
+                        "good",
+                        0.9101354482243875
+                    ],
+                    [
+                        "number",
+                        0.9289688450421869
+                    ],
+                    [
+                        "sibling",
+                        0.942535448565736
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1710": {
+            "id": "TOb1tuEZ2X4-1710",
+            "heat": 0.555,
+            "start": 1710.0,
+            "text": " but this is just another empty node. You just propagated the emptiness upwards. Now you take this empty node, and you look for its siblings. Again, its sibling is-- well, it's barely full. So what do you do now? You bring the 30 down, and you merge this. So let's do that. 30 comes down, and there we go. Looks fine? Does that tree look good? Questions about the operation? I'm sure it was not clear, but-- anything? Make sense? OK, let's do a deletion where we can actually do a rotation. So let's go ahead and delete 20. So you do your searching, go down the tree. You find the 20 under here. So now, OK. So you're left with just-- actually never mind. We'll do another one. So this doesn't do anything. You lost the 20, and you're left with the 24 this time. So now you delete the 24. So now that you've got rid of the 24, you have a blank box here now. But its sibling is not barely full.",
+            "metrics": {
+                "relativeDCReadability": 0.9148073493094839,
+                "lexicalDiversity": 0.4521276595744681,
+                "posComposition": {
+                    "CC": 0.043,
+                    "DT": 0.106,
+                    "VBZ": 0.037,
+                    "RB": 0.154,
+                    "JJ": 0.053,
+                    "NN": 0.106,
+                    "PRP": 0.106,
+                    "VBD": 0.016,
+                    "NNS": 0.016,
+                    "VBP": 0.09,
+                    "IN": 0.053,
+                    "PRP$": 0.021,
+                    "NNP": 0.027,
+                    ":": 0.016,
+                    "WP": 0.005,
+                    "VB": 0.048,
+                    "CD": 0.048,
+                    "POS": 0.016,
+                    "WRB": 0.005,
+                    "MD": 0.011,
+                    "RP": 0.005,
+                    "VBN": 0.016
+                },
+                "syllableRate": 1.942,
+                "topicScores": [
+                    [
+                        "sibling",
+                        0.4381554659145439
+                    ],
+                    [
+                        "node",
+                        0.5096013178632466
+                    ],
+                    [
+                        "tree",
+                        0.5729887779658959
+                    ],
+                    [
+                        "upward",
+                        0.8527167842814608
+                    ],
+                    [
+                        "emptiness",
+                        0.8732596968873226
+                    ],
+                    [
+                        "is--",
+                        0.9042190841017941
+                    ],
+                    [
+                        "fine",
+                        0.9042655226430613
+                    ],
+                    [
+                        "sense",
+                        0.9120592527784077
+                    ],
+                    [
+                        "good",
+                        0.9142681298359425
+                    ],
+                    [
+                        "question",
+                        0.9161712684955268
+                    ],
+                    [
+                        "operation",
+                        0.9161712684955268
+                    ],
+                    [
+                        "rotation",
+                        0.9205041931027467
+                    ],
+                    [
+                        "time",
+                        0.927110076415151
+                    ],
+                    [
+                        "clear",
+                        0.9300192597671689
+                    ],
+                    [
+                        "sure",
+                        0.9351499506519539
+                    ],
+                    [
+                        "deletion",
+                        0.9373142245168065
+                    ],
+                    [
+                        "just--",
+                        0.9410438175868857
+                    ],
+                    [
+                        "blank",
+                        0.9434805716960446
+                    ],
+                    [
+                        "box",
+                        0.9434805716960446
+                    ],
+                    [
+                        "emptiness upward",
+                        2.916089182827388
+                    ],
+                    [
+                        "sibling is--",
+                        3.8164236540297027
+                    ],
+                    [
+                        "blank box",
+                        8.103785913408757
+                    ]
+                ],
+                "topTopicSimilarity": 0.2727272727272727,
+                "sharedTopicScores": [
+                    [
+                        "sibling",
+                        0.4381554659145439
+                    ],
+                    [
+                        "node",
+                        0.5096013178632466
+                    ],
+                    [
+                        "tree",
+                        0.5729887779658959
+                    ],
+                    [
+                        "good",
+                        0.9142681298359425
+                    ],
+                    [
+                        "time",
+                        0.927110076415151
+                    ],
+                    [
+                        "deletion",
+                        0.9373142245168065
+                    ]
+                ]
+            }
+        },
+        "TOb1tuEZ2X4-1800": {
+            "id": "TOb1tuEZ2X4-1800",
+            "heat": 0.427,
+            "start": 1800.0,
+            "text": " It has something to donate. So anyone, which elements are going to rotate? AUDIENCE: 17 and 16. PROFESSOR: 16 and 17, right. Cool. So 16 goes up, 17 goes down. And you're done. You're consistent again. So that was deletion. Those are the two cases for deletion. Does that make sense? Anyone? Any questions? OK. So that's all the topics we were supposed to cover today. Any questions about any of the operations, any of the other topics, lecture, anything?",
+            "metrics": {
+                "relativeDCReadability": 1.1562972417389734,
+                "lexicalDiversity": 0.4939759036144578,
+                "posComposition": {
+                    "PRP": 0.048,
+                    "VBZ": 0.06,
+                    "NN": 0.084,
+                    "TO": 0.036,
+                    "VB": 0.048,
+                    "NNP": 0.096,
+                    "WDT": 0.012,
+                    "NNS": 0.084,
+                    "VBP": 0.06,
+                    "VBG": 0.012,
+                    "CD": 0.084,
+                    "CC": 0.036,
+                    "JJ": 0.036,
+                    "RB": 0.048,
+                    "VBN": 0.024,
+                    "IN": 0.084,
+                    "DT": 0.108,
+                    "VBD": 0.024,
+                    "PDT": 0.012
+                },
+                "syllableRate": 1.042,
+                "topicScores": [
+                    [
+                        "audience",
+                        0.5345046091112501
+                    ],
+                    [
+                        "deletion",
+                        0.5550913036057036
+                    ],
+                    [
+                        "question",
+                        0.5617530888534618
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5641798439520377
+                    ],
+                    [
+                        "topic",
+                        0.5823371386818256
+                    ],
+                    [
+                        "element",
+                        0.8770966920046456
+                    ],
+                    [
+                        "sense",
+                        0.9116148757757545
+                    ],
+                    [
+                        "today",
+                        0.9173433112442194
+                    ],
+                    [
+                        "consistent",
+                        0.9251526574718671
+                    ],
+                    [
+                        "lecture",
+                        0.9281663973041896
+                    ],
+                    [
+                        "operation",
+                        0.9363109924084081
+                    ],
+                    [
+                        "case",
+                        0.9368669990963271
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "audience",
+                        0.5345046091112501
+                    ],
+                    [
+                        "deletion",
+                        0.5550913036057036
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5641798439520377
+                    ],
+                    [
+                        "element",
+                        0.8770966920046456
+                    ]
+                ]
+            }
+        }
+    }
+}
