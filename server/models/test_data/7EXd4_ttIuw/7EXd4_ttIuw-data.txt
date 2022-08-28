@@ -1,0 +1,4353 @@
+{
+    "metadata": {
+        "id": "7EXd4_ttIuw",
+        "avgHeat": 0.27,
+        "runtime": 1969.0,
+        "dale-challReadabilityScore": 8.851654364819852,
+        "lexicalDiversity": 0.5010026737967914,
+        "posComposition": {
+            "IN": 0.098,
+            "NN": 0.122,
+            "POS": 0.006,
+            "JJ": 0.05,
+            "NNP": 0.074,
+            "VBZ": 0.046,
+            "VBG": 0.029,
+            "TO": 0.043,
+            "VB": 0.065,
+            "PRP": 0.099,
+            "WRB": 0.005,
+            "VBN": 0.011,
+            "VBP": 0.056,
+            "PRP$": 0.011,
+            "CC": 0.025,
+            "NNS": 0.022,
+            "DT": 0.089,
+            "RB": 0.068,
+            "MD": 0.017,
+            "WP": 0.01,
+            "WDT": 0.011,
+            "RBS": 0.001,
+            "CD": 0.004,
+            "VBD": 0.011,
+            "JJR": 0.001,
+            "RBR": 0.002,
+            "RP": 0.004,
+            "EX": 0.003,
+            "JJS": 0.001,
+            "PDT": 0.002,
+            "``": 0.008,
+            "''": 0.008,
+            "UH": 0.0,
+            "FW": 0.0
+        },
+        "syllableRate": 4.305,
+        "topicScores": [
+            [
+                "VS Code",
+                0.03392806794519612
+            ],
+            [
+                "Visual Studio Code",
+                0.039287934158057716
+            ],
+            [
+                "Python",
+                0.04534221375872122
+            ],
+            [
+                "Python extension",
+                0.08307709488542037
+            ],
+            [
+                "Python VS",
+                0.10750158826044856
+            ],
+            [
+                "Python developer",
+                0.12411391129096687
+            ],
+            [
+                "cool",
+                0.14941195956645764
+            ],
+            [
+                "environment",
+                0.15502399684023166
+            ],
+            [
+                "okay",
+                0.156370225330593
+            ],
+            [
+                "Python VS code",
+                0.15896125512226392
+            ],
+            [
+                "Flask",
+                0.16074021059439675
+            ],
+            [
+                "virtual",
+                0.16443779498248906
+            ],
+            [
+                "debug",
+                0.1646061315790531
+            ],
+            [
+                "create",
+                0.1671358679345191
+            ],
+            [
+                "Windows",
+                0.168187708477115
+            ],
+            [
+                "folder",
+                0.17437609138910642
+            ],
+            [
+                "notice",
+                0.17691971392822264
+            ],
+            [
+                "Python file",
+                0.18592198969954368
+            ],
+            [
+                "application",
+                0.1879779690442552
+            ],
+            [
+                "sentiment",
+                0.19252385619053383
+            ],
+            [
+                "install",
+                0.20043083699991388
+            ],
+            [
+                "right",
+                0.20173142670906194
+            ],
+            [
+                "Command",
+                0.20261521882011563
+            ],
+            [
+                "Visual Studio Toolbox",
+                0.20876821555211808
+            ],
+            [
+                "line",
+                0.2097592042789133
+            ],
+            [
+                "thing",
+                0.21407241304547492
+            ],
+            [
+                "run",
+                0.21570163640115841
+            ],
+            [
+                "configuration",
+                0.21605764020413412
+            ],
+            [
+                "way",
+                0.22099453790068005
+            ],
+            [
+                "Tyrique",
+                0.22360580682158473
+            ]
+        ],
+        "topicsList": [
+            "VS Code",
+            "Visual Studio Code",
+            "Python",
+            "Python extension",
+            "Python VS",
+            "Python developer",
+            "cool",
+            "environment",
+            "okay",
+            "Python VS code",
+            "Flask",
+            "virtual",
+            "debug",
+            "create",
+            "Windows",
+            "folder",
+            "notice",
+            "Python file",
+            "application",
+            "sentiment",
+            "install",
+            "right",
+            "Command",
+            "Visual Studio Toolbox",
+            "line",
+            "thing",
+            "run",
+            "configuration",
+            "way",
+            "Tyrique"
+        ]
+    },
+    "chunks": {
+        "7EXd4_ttIuw-0": {
+            "id": "7EXd4_ttIuw-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " >> On today's Visual Studio toolbox Tyrique is going to show us how to get started with Python development using Visual Studio Code. [MUSIC] >> Hi, welcome to Visual Studio Toolbox. I'm your host Robert Green and joining me today is Tyrique White. Hey Tyrique. >> Hi Robert, thanks for having me. >> Thanks for being on the show. >> Yeah, I'm Tyrique White everyone and I'm a program manager for Python developer tools here at Microsoft. >> Cool. So we're going to talk about doing some Python, we're going to show Visual Studio code. >> Right. >> That's awesome. So give us again the very brief because I think we've talked about it before, but the very brief sweet spot for Python. I is a C-sharp developer, or a JavaScript developer, when and why should I learn Python? What are the scenarios that are most prevalent? >> Definitely. So Robert, excellent question when we get a lot at conferences. The sweet spot for Python is being able to build apps quickly. One of my demos later I'm going to show in nine lines of code I'm able to create. I'll be at a very simple web application. I still create a web application. That's the basis for Python. It's the scrapping language where people are able to prototype quickly. But it's also used for production code as well, which is super exciting. >> Okay. >> Yeah, cool. >> Yeah, awesome. So today specifically we're going to talk about Python and VS Code. For any of those who don't know,",
+            "metrics": {
+                "relativeDCReadability": 1.0929932354947074,
+                "lexicalDiversity": 0.5643939393939394,
+                "posComposition": {
+                    "IN": 0.098,
+                    "NN": 0.114,
+                    "POS": 0.008,
+                    "JJ": 0.08,
+                    "NNP": 0.152,
+                    "VBZ": 0.03,
+                    "VBG": 0.045,
+                    "TO": 0.038,
+                    "VB": 0.045,
+                    "PRP": 0.083,
+                    "WRB": 0.019,
+                    "VBN": 0.011,
+                    "VBP": 0.061,
+                    "PRP$": 0.008,
+                    "CC": 0.027,
+                    "NNS": 0.023,
+                    "DT": 0.061,
+                    "RB": 0.061,
+                    "MD": 0.008,
+                    "WP": 0.008,
+                    "WDT": 0.011,
+                    "RBS": 0.004,
+                    "CD": 0.008
+                },
+                "syllableRate": 3.317,
+                "topicScores": [
+                    [
+                        "Visual Studio",
+                        0.1915937419229071
+                    ],
+                    [
+                        "Python",
+                        0.1944754238805775
+                    ],
+                    [
+                        "Tyrique",
+                        0.23781233593948564
+                    ],
+                    [
+                        "Tyrique White",
+                        0.2997169119535557
+                    ],
+                    [
+                        "Robert",
+                        0.31141661174962176
+                    ],
+                    [
+                        "Code",
+                        0.399746707968041
+                    ],
+                    [
+                        "Visual Studio Toolbox",
+                        0.42532595425256536
+                    ],
+                    [
+                        "able",
+                        0.4465384475683846
+                    ],
+                    [
+                        "today",
+                        0.45411200658398754
+                    ],
+                    [
+                        "developer",
+                        0.4555766937590036
+                    ],
+                    [
+                        "Visual Studio Code",
+                        0.5145809235618792
+                    ],
+                    [
+                        "thank",
+                        0.561931190970103
+                    ],
+                    [
+                        "application",
+                        0.5657289758717874
+                    ],
+                    [
+                        "awesome",
+                        0.5676681228839114
+                    ],
+                    [
+                        "spot",
+                        0.574372967155779
+                    ],
+                    [
+                        "sweet",
+                        0.5759255453525961
+                    ],
+                    [
+                        "web",
+                        0.5777214965782681
+                    ],
+                    [
+                        "brief",
+                        0.5808592198917827
+                    ],
+                    [
+                        "Green",
+                        0.6162712415257773
+                    ],
+                    [
+                        "Robert Green",
+                        0.6229398099418852
+                    ],
+                    [
+                        "Microsoft",
+                        0.6538191062567917
+                    ],
+                    [
+                        "VS",
+                        0.7163940368808674
+                    ],
+                    [
+                        "VS Code",
+                        0.8311512676345886
+                    ],
+                    [
+                        "toolbox",
+                        0.8922007703256585
+                    ],
+                    [
+                        "development",
+                        0.8922007703256585
+                    ],
+                    [
+                        "welcome",
+                        0.9139428474032838
+                    ],
+                    [
+                        "Hi",
+                        0.9157850211242546
+                    ],
+                    [
+                        "Cool",
+                        0.9162019774795651
+                    ],
+                    [
+                        "host",
+                        0.9249557138460348
+                    ],
+                    [
+                        "prevalent",
+                        0.937335938093802
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "Python",
+                        0.1944754238805775
+                    ],
+                    [
+                        "Tyrique",
+                        0.23781233593948564
+                    ],
+                    [
+                        "Visual Studio Toolbox",
+                        0.42532595425256536
+                    ],
+                    [
+                        "Visual Studio Code",
+                        0.5145809235618792
+                    ],
+                    [
+                        "application",
+                        0.5657289758717874
+                    ],
+                    [
+                        "VS Code",
+                        0.8311512676345886
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-90": {
+            "id": "7EXd4_ttIuw-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " VS Code is this free open-source cross-platform tool which uses a popularized extension model for every language. >> Right. >> So today we're going to talk about the Python extension in VS Code and getting started experience. Then later, my colleague Jeffrey will be talking about data science and VS Code for Python development. >> So that will be another episode that we'll record after this one. >> Definitely. >> Showing people behind the scenes and how it works here in the studio. >> Right. >> This way I'm wearing the same shirt. >> Awesome, cool. So let's get started. So the Python Extension offers a lot of great jam-packed features. It offers Intellisense, debugging, testing their support for virtual environment packages like VM and Conda, some formatters like Black and Autopep8, as well as some popular linters like pylints. Some fun facts about Python extension in VS Code, it's the most popular extension than the VS Code marketplace. >> Real, more certain than C-sharp. >> Yes. >> That's interesting. >> Even better is, Visual Studio Code is now at the top three tool for Python developers, which is really exciting. A lot of hype around Python and hopefully by the end of this you guys will understand a bit more why. That's all. >> So it's an extension which implies that you have to go get it? >> Yes, exactly. >> You install VS Code, you don't have this Python extension.",
+            "metrics": {
+                "relativeDCReadability": 1.1557838291399258,
+                "lexicalDiversity": 0.5805084745762712,
+                "posComposition": {
+                    "NNP": 0.161,
+                    "VBZ": 0.055,
+                    "DT": 0.11,
+                    "JJ": 0.055,
+                    "NN": 0.136,
+                    "WDT": 0.017,
+                    "IN": 0.114,
+                    "RB": 0.055,
+                    "PRP": 0.051,
+                    "VBP": 0.025,
+                    "VBG": 0.038,
+                    "TO": 0.008,
+                    "VB": 0.034,
+                    "CC": 0.025,
+                    "VBD": 0.008,
+                    "PRP$": 0.008,
+                    "MD": 0.017,
+                    "NNS": 0.042,
+                    "CD": 0.008,
+                    "WRB": 0.008,
+                    "POS": 0.004,
+                    "RBS": 0.004,
+                    "JJR": 0.004,
+                    "RBR": 0.008
+                },
+                "syllableRate": 3.067,
+                "topicScores": [
+                    [
+                        "VS Code",
+                        0.16428331574709423
+                    ],
+                    [
+                        "Python",
+                        0.19713548640535325
+                    ],
+                    [
+                        "extension",
+                        0.31256814287917983
+                    ],
+                    [
+                        "Python extension",
+                        0.5393996601880547
+                    ],
+                    [
+                        "lot",
+                        0.570170693686276
+                    ],
+                    [
+                        "tool",
+                        0.5735103221319835
+                    ],
+                    [
+                        "popular",
+                        0.5792388053494862
+                    ],
+                    [
+                        "Jeffrey",
+                        0.6212768873663641
+                    ],
+                    [
+                        "Studio Code",
+                        0.6632227946524203
+                    ],
+                    [
+                        "Intellisense",
+                        0.6857831089991363
+                    ],
+                    [
+                        "Conda",
+                        0.6857831089991363
+                    ],
+                    [
+                        "Autopep8",
+                        0.6857831089991363
+                    ],
+                    [
+                        "c",
+                        0.6911654872600821
+                    ],
+                    [
+                        "VM",
+                        0.6926567680795708
+                    ],
+                    [
+                        "Black",
+                        0.6926567680795708
+                    ],
+                    [
+                        "Visual",
+                        0.6994577683236518
+                    ],
+                    [
+                        "language",
+                        0.8078003404223834
+                    ],
+                    [
+                        "source",
+                        0.8169002825210251
+                    ],
+                    [
+                        "cross",
+                        0.8169002825210251
+                    ],
+                    [
+                        "free",
+                        0.8254130744811273
+                    ],
+                    [
+                        "open",
+                        0.8254130744811273
+                    ],
+                    [
+                        "platform",
+                        0.8254130744811273
+                    ],
+                    [
+                        "popularized",
+                        0.833384027268092
+                    ],
+                    [
+                        "model",
+                        0.833384027268092
+                    ],
+                    [
+                        "experience",
+                        0.9040297964822487
+                    ],
+                    [
+                        "development",
+                        0.9093017175195746
+                    ],
+                    [
+                        "today",
+                        0.9137656507383871
+                    ],
+                    [
+                        "colleague",
+                        0.9185509379046093
+                    ],
+                    [
+                        "datum",
+                        0.9226679759679045
+                    ],
+                    [
+                        "science",
+                        0.9226679759679045
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "VS Code",
+                        0.16428331574709423
+                    ],
+                    [
+                        "Python",
+                        0.19713548640535325
+                    ],
+                    [
+                        "Python extension",
+                        0.5393996601880547
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-180": {
+            "id": "7EXd4_ttIuw-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " >>Right. So yeah. Let's take a step back. Let's show you how to download and install Visual Studio Code. So the link to get Visual Studio Code if you don't have it is code.visualstudio.com and you come to this external and download page. As you can see it auto detects which OS I'm using. >> Okay. >> I can quickly grab a copy of VS Code. I already have it installed but I'm sure we get the idea there. Once you have Visual Studio Code you are going to open it, and you're going to see this welcome screen. This welcome screen has tools that allow you to customize. It has this wonderful activity bar here which gives you access to all of your extensions that you have installed. So after you download Visual Studio Code and you want to use Python, you have to go get the Python extension. >> Okay. >> So to do that you're going to go to the Extensions batch here, and I'm going to type Python. Because it's the most popular, it's going to come up right at the top and you're going to see the Python extension for Microsoft. >> Not the Python for VS Code or the Python extension? >> No. You want the one that has the Green star here. Good question. >> The one that you worked on. >> The one that I worked on. >> Not that there's anything wrong with those other ones, but this is the one you worked on? >> Definitely. As you can see, I've already installed this. So it says uninstall which I'm not going to do, but they'll be an install badge that can be click on. You can also see that we have some quick tips here on how to get started,",
+            "metrics": {
+                "relativeDCReadability": 0.9191147758618222,
+                "lexicalDiversity": 0.45901639344262296,
+                "posComposition": {
+                    "RB": 0.062,
+                    "JJ": 0.069,
+                    "NNP": 0.095,
+                    "POS": 0.007,
+                    "VB": 0.079,
+                    "DT": 0.085,
+                    "NN": 0.079,
+                    "PRP": 0.128,
+                    "WRB": 0.007,
+                    "TO": 0.056,
+                    "CC": 0.036,
+                    "IN": 0.072,
+                    "VBP": 0.069,
+                    "VBZ": 0.033,
+                    "MD": 0.02,
+                    "NNS": 0.016,
+                    "WDT": 0.026,
+                    "VBG": 0.026,
+                    "PRP$": 0.003,
+                    "VBN": 0.013,
+                    "RBS": 0.003,
+                    "RP": 0.003,
+                    "VBD": 0.01,
+                    "EX": 0.003
+                },
+                "syllableRate": 3.367,
+                "topicScores": [
+                    [
+                        "Code",
+                        0.19921912868171554
+                    ],
+                    [
+                        "Visual Studio Code",
+                        0.20488982572560888
+                    ],
+                    [
+                        "Python",
+                        0.21203610183327679
+                    ],
+                    [
+                        "VS Code",
+                        0.3698015884088734
+                    ],
+                    [
+                        "extension",
+                        0.38032829018361486
+                    ],
+                    [
+                        "download",
+                        0.4544662226237051
+                    ],
+                    [
+                        "Python extension",
+                        0.5541220409515445
+                    ],
+                    [
+                        "welcome",
+                        0.5692183258666941
+                    ],
+                    [
+                        "screen",
+                        0.5704117061175137
+                    ],
+                    [
+                        "install",
+                        0.5881949605327155
+                    ],
+                    [
+                        "Microsoft",
+                        0.683909456593496
+                    ],
+                    [
+                        "Green",
+                        0.7159636289364604
+                    ],
+                    [
+                        "page",
+                        0.920847909762707
+                    ],
+                    [
+                        "step",
+                        0.923125744814865
+                    ],
+                    [
+                        "link",
+                        0.9349078934118566
+                    ],
+                    [
+                        "code.visualstudio.com",
+                        0.9349078934118566
+                    ],
+                    [
+                        "external",
+                        0.9349078934118566
+                    ],
+                    [
+                        "auto",
+                        0.9372881072752437
+                    ],
+                    [
+                        "detect",
+                        0.9372881072752437
+                    ],
+                    [
+                        "good",
+                        0.9376928928362094
+                    ],
+                    [
+                        "question",
+                        0.9376928928362094
+                    ],
+                    [
+                        "idea",
+                        0.9416126557729616
+                    ],
+                    [
+                        "copy",
+                        0.9433231537918038
+                    ],
+                    [
+                        "sure",
+                        0.9452306345279565
+                    ],
+                    [
+                        "batch",
+                        0.9465663037011446
+                    ],
+                    [
+                        "tool",
+                        0.9467414232432975
+                    ],
+                    [
+                        "popular",
+                        0.946986890023536
+                    ],
+                    [
+                        "wonderful",
+                        0.9473879244160873
+                    ],
+                    [
+                        "activity",
+                        0.9473879244160873
+                    ],
+                    [
+                        "bar",
+                        0.9473879244160873
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Visual Studio Code",
+                        0.20488982572560888
+                    ],
+                    [
+                        "Python",
+                        0.21203610183327679
+                    ],
+                    [
+                        "VS Code",
+                        0.3698015884088734
+                    ],
+                    [
+                        "Python extension",
+                        0.5541220409515445
+                    ],
+                    [
+                        "install",
+                        0.5881949605327155
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-270": {
+            "id": "7EXd4_ttIuw-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " kind of the things I'm going to cover today. So you need to install VS Code which you've done that. You need to install the extension which I've done. Then the third thing you need is an installation of Python on your machine. >> Right. >> Yeah. One misconception we find is that some people often think that the Python extension for VS Code it comes with Python and it does not currently. So one way to get around that is depending on which OS you're on. For Windows, we recommend going to python.org which I have here to download the latest release of Python, on Mac a brew install works fine and for Linux, typically the bundled version of Python that comes with the Linux works well, you get all of these features of the Python extension. >> Got it. >> Sound good. >> All right. Awesome. >>So now we've got code, we got the extension, we got Python. >> We do, I have python. Perfect. Okay. So let's get started. Let's get people accustomed to the UI here, because it is a bit different to get on-boarded. >> Okay. >> So now that I have the extension. As you can see, I have the File Explorer here. When I open a folder, I'm going to be able to see the tree view of that folder, see all the dependencies and all the files within there. I have a debugger icon which we'll talk about later. I have a lot of other things. VS Code comes inbox with source control. So I can use my favorite repos, connect to those, and do all of that stuff I know and love.",
+            "metrics": {
+                "relativeDCReadability": 0.9922751983404302,
+                "lexicalDiversity": 0.48936170212765956,
+                "posComposition": {
+                    "NN": 0.099,
+                    "IN": 0.11,
+                    "DT": 0.106,
+                    "NNS": 0.025,
+                    "PRP": 0.106,
+                    "VBP": 0.089,
+                    "VBG": 0.014,
+                    "TO": 0.039,
+                    "VB": 0.053,
+                    "NNP": 0.11,
+                    "WDT": 0.021,
+                    "VBN": 0.021,
+                    "RB": 0.053,
+                    "JJ": 0.035,
+                    "VBZ": 0.035,
+                    "PRP$": 0.007,
+                    "CD": 0.007,
+                    "CC": 0.018,
+                    "JJS": 0.004,
+                    "VBD": 0.014,
+                    "POS": 0.007,
+                    "MD": 0.011,
+                    "WRB": 0.004,
+                    "PDT": 0.007,
+                    "EX": 0.004
+                },
+                "syllableRate": 3.125,
+                "topicScores": [
+                    [
+                        "Python",
+                        0.1897429286671802
+                    ],
+                    [
+                        "VS Code",
+                        0.3004522239349827
+                    ],
+                    [
+                        "extension",
+                        0.32717230172117673
+                    ],
+                    [
+                        "Linux",
+                        0.40359978428780074
+                    ],
+                    [
+                        "install",
+                        0.4328358344033929
+                    ],
+                    [
+                        "thing",
+                        0.4387766664775272
+                    ],
+                    [
+                        "people",
+                        0.5779630935562895
+                    ],
+                    [
+                        "folder",
+                        0.5813363132328918
+                    ],
+                    [
+                        "Python extension",
+                        0.5857021849671529
+                    ],
+                    [
+                        "Windows",
+                        0.6531840867422152
+                    ],
+                    [
+                        "Mac",
+                        0.6613906641853028
+                    ],
+                    [
+                        "os",
+                        0.6644424097552283
+                    ],
+                    [
+                        "UI",
+                        0.6964157051548201
+                    ],
+                    [
+                        "Explorer",
+                        0.7027610410839557
+                    ],
+                    [
+                        "File",
+                        0.7100593803634394
+                    ],
+                    [
+                        "today",
+                        0.802498991709624
+                    ],
+                    [
+                        "machine",
+                        0.9010575951108503
+                    ],
+                    [
+                        "Awesome",
+                        0.9127388912292957
+                    ],
+                    [
+                        "perfect",
+                        0.9164805894421719
+                    ],
+                    [
+                        "installation",
+                        0.9168007344402956
+                    ],
+                    [
+                        "sound",
+                        0.9206791741345711
+                    ],
+                    [
+                        "good",
+                        0.9206791741345711
+                    ],
+                    [
+                        "misconception",
+                        0.9276199025298967
+                    ],
+                    [
+                        "way",
+                        0.9331903880425254
+                    ],
+                    [
+                        "python.org",
+                        0.9345205485447214
+                    ],
+                    [
+                        "late",
+                        0.9345205485447214
+                    ],
+                    [
+                        "release",
+                        0.9345205485447214
+                    ],
+                    [
+                        "brew",
+                        0.9345205485447214
+                    ],
+                    [
+                        "fine",
+                        0.9345205485447214
+                    ],
+                    [
+                        "bundled",
+                        0.9345205485447214
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Python",
+                        0.1897429286671802
+                    ],
+                    [
+                        "VS Code",
+                        0.3004522239349827
+                    ],
+                    [
+                        "install",
+                        0.4328358344033929
+                    ],
+                    [
+                        "thing",
+                        0.4387766664775272
+                    ],
+                    [
+                        "folder",
+                        0.5813363132328918
+                    ],
+                    [
+                        "Python extension",
+                        0.5857021849671529
+                    ],
+                    [
+                        "Windows",
+                        0.6531840867422152
+                    ],
+                    [
+                        "way",
+                        0.9331903880425254
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-360": {
+            "id": "7EXd4_ttIuw-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " We also have the tool bar down here, which allows you to see. I'm signed into Azure currently. I have the life share extension installed. I have my toolbar up here, all that good stuff. >> Okay. >> So what I now want to do is create a folder and let's get started playing around some code. How does that sound? >> Sounds great. >> Another cool thing is, by default when you install VS Code on Windows, it adds VS Code to the path. I'll show you exactly what that means. So what I want to do is I want to navigate to my Command Prompt, and I'm going to find my Demos folder that I have here. I'm going to create a new folder for us. I'm going to call it VS toolbox. I'm going to navigate to that folder. Now what's really cool is, because I have VS Code on the path on my Windows machine, all I have to do is type code. into the Command Prompt, and it will open up an instance of VS Code inside of that folder. >> Okay. >> You can see that from my File Explorer here. >> So you can open the folder from code, you can go to the folder and launch code from that location? >> Exactly. On Linux and Mac you have to run a command to get VS Code on path, but it's super handy if your command line focus. So now what I'm going to do actually is create a new file. This is the important part of activating the Python extension.",
+            "metrics": {
+                "relativeDCReadability": 1.0303937463623152,
+                "lexicalDiversity": 0.4703703703703704,
+                "posComposition": {
+                    "PRP": 0.104,
+                    "RB": 0.063,
+                    "VBP": 0.063,
+                    "DT": 0.085,
+                    "NN": 0.126,
+                    "IN": 0.089,
+                    "WDT": 0.004,
+                    "VBZ": 0.048,
+                    "TO": 0.059,
+                    "VB": 0.085,
+                    "VBN": 0.004,
+                    "NNP": 0.1,
+                    "VBD": 0.004,
+                    "PRP$": 0.022,
+                    "PDT": 0.004,
+                    "JJ": 0.041,
+                    "WP": 0.019,
+                    "CC": 0.022,
+                    "POS": 0.004,
+                    "VBG": 0.026,
+                    "WRB": 0.007,
+                    "MD": 0.019,
+                    "RP": 0.004
+                },
+                "syllableRate": 2.942,
+                "topicScores": [
+                    [
+                        "VS",
+                        0.22229168530916546
+                    ],
+                    [
+                        "Code",
+                        0.24032565849797188
+                    ],
+                    [
+                        "VS Code",
+                        0.2449306904080322
+                    ],
+                    [
+                        "folder",
+                        0.2981518216510308
+                    ],
+                    [
+                        "Prompt",
+                        0.3977486235834056
+                    ],
+                    [
+                        "Windows",
+                        0.4070307674779945
+                    ],
+                    [
+                        "Command",
+                        0.407060187713431
+                    ],
+                    [
+                        "Command Prompt",
+                        0.43254698979351225
+                    ],
+                    [
+                        "path",
+                        0.4454108709690497
+                    ],
+                    [
+                        "Azure",
+                        0.5131653362715004
+                    ],
+                    [
+                        "cool",
+                        0.5688810792338389
+                    ],
+                    [
+                        "new",
+                        0.5719211114975313
+                    ],
+                    [
+                        "extension",
+                        0.5724566724199073
+                    ],
+                    [
+                        "Demos",
+                        0.6876339266702312
+                    ],
+                    [
+                        "Explorer",
+                        0.700162516968805
+                    ],
+                    [
+                        "Linux",
+                        0.707510392392852
+                    ],
+                    [
+                        "File",
+                        0.7091649680740685
+                    ],
+                    [
+                        "Python",
+                        0.7099356291940091
+                    ],
+                    [
+                        "Mac",
+                        0.7163815936608233
+                    ],
+                    [
+                        "tool",
+                        0.8355793202763564
+                    ],
+                    [
+                        "bar",
+                        0.8355793202763564
+                    ],
+                    [
+                        "stuff",
+                        0.892241469865652
+                    ],
+                    [
+                        "life",
+                        0.9028679345768085
+                    ],
+                    [
+                        "share",
+                        0.9028679345768085
+                    ],
+                    [
+                        "good",
+                        0.9066947379487745
+                    ],
+                    [
+                        "toolbar",
+                        0.9128873183251215
+                    ],
+                    [
+                        "great",
+                        0.9175683562804391
+                    ],
+                    [
+                        "toolbox",
+                        0.9256453480134788
+                    ],
+                    [
+                        "location",
+                        0.93147668042032
+                    ],
+                    [
+                        "thing",
+                        0.9318782947730204
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "VS Code",
+                        0.2449306904080322
+                    ],
+                    [
+                        "folder",
+                        0.2981518216510308
+                    ],
+                    [
+                        "Windows",
+                        0.4070307674779945
+                    ],
+                    [
+                        "Command",
+                        0.407060187713431
+                    ],
+                    [
+                        "cool",
+                        0.5688810792338389
+                    ],
+                    [
+                        "Python",
+                        0.7099356291940091
+                    ],
+                    [
+                        "thing",
+                        0.9318782947730204
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-450": {
+            "id": "7EXd4_ttIuw-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " In order for the extension to activate, which you're seeing down there, activating extension, you need to select a Python folder. Sorry, excuse me, a Python file. >> Okay. >>.Py is the file type. As you can see I'm immediately, to verify that extension is activated, I actually have Python down here in my toolbar. If I click on this, it gives me the list of all the different interpreters I have installed on my machine for Python. >> Is it okay when you installed Python? >> Well, I've installed multiple different versions for different reasons; for testing, for a playing around. But these are all the interpreter versions I have. As the extension can pick up most of those if they are in the standard places which they typically are when you install Python. So pretty cool stuff there. So we created our file. So now what I want to do is I want to talk about the command palette. That's going to be super helpful for us because for developers who are bit more Command Line driven, you want to have that terminal experience inside the editor. So in order to get to what I call the Command Palette, you're going to do on a Windows machine Control Shift P, to bring up the Command Palette. Again, the Command Palette has all of the commands you could ever want and love for Python. All those commands of Python or denoted by Python colon.",
+            "metrics": {
+                "relativeDCReadability": 1.019475926572099,
+                "lexicalDiversity": 0.4534412955465587,
+                "posComposition": {
+                    "IN": 0.117,
+                    "NN": 0.101,
+                    "DT": 0.097,
+                    "TO": 0.045,
+                    "VB": 0.057,
+                    "WDT": 0.012,
+                    "PRP": 0.101,
+                    "VBP": 0.073,
+                    "VBG": 0.02,
+                    "RP": 0.02,
+                    "RB": 0.057,
+                    "NNP": 0.113,
+                    "VBZ": 0.028,
+                    "MD": 0.012,
+                    "VBN": 0.016,
+                    "PRP$": 0.012,
+                    "PDT": 0.008,
+                    "JJ": 0.028,
+                    "NNS": 0.032,
+                    "WRB": 0.008,
+                    "VBD": 0.008,
+                    "CC": 0.012,
+                    "JJS": 0.004,
+                    "WP": 0.012,
+                    "RBR": 0.004
+                },
+                "syllableRate": 3.008,
+                "topicScores": [
+                    [
+                        "Python",
+                        0.1951394884809581
+                    ],
+                    [
+                        "Command",
+                        0.2764792326834799
+                    ],
+                    [
+                        "Palette",
+                        0.3134011956425316
+                    ],
+                    [
+                        "Command Palette",
+                        0.33665923954949195
+                    ],
+                    [
+                        "extension",
+                        0.37810330656347474
+                    ],
+                    [
+                        "file",
+                        0.43783920226297646
+                    ],
+                    [
+                        "different",
+                        0.45664156763511227
+                    ],
+                    [
+                        "okay",
+                        0.551784167925503
+                    ],
+                    [
+                        "interpreter",
+                        0.5641747862430267
+                    ],
+                    [
+                        "order",
+                        0.5657396226379732
+                    ],
+                    [
+                        "version",
+                        0.578944467149468
+                    ],
+                    [
+                        "machine",
+                        0.5799030158550159
+                    ],
+                    [
+                        "Line",
+                        0.6953512056458921
+                    ],
+                    [
+                        "Shift",
+                        0.6978597250371237
+                    ],
+                    [
+                        "Windows",
+                        0.7091480763126893
+                    ],
+                    [
+                        "Control",
+                        0.7091480763126893
+                    ],
+                    [
+                        "folder",
+                        0.7811884353017005
+                    ],
+                    [
+                        "Command Line",
+                        0.8063292303673284
+                    ],
+                    [
+                        "type",
+                        0.8889094588059094
+                    ],
+                    [
+                        "toolbar",
+                        0.8949154342240749
+                    ],
+                    [
+                        "editor",
+                        0.9181156351817236
+                    ],
+                    [
+                        "testing",
+                        0.9182907666824622
+                    ],
+                    [
+                        "colon",
+                        0.920565578893413
+                    ],
+                    [
+                        "list",
+                        0.923019909038822
+                    ],
+                    [
+                        "reason",
+                        0.9253200064107737
+                    ],
+                    [
+                        "playing",
+                        0.9253200064107737
+                    ],
+                    [
+                        "stuff",
+                        0.9292165872664981
+                    ],
+                    [
+                        "multiple",
+                        0.9315003180316321
+                    ],
+                    [
+                        "standard",
+                        0.9340492948012256
+                    ],
+                    [
+                        "place",
+                        0.9340492948012256
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Python",
+                        0.1951394884809581
+                    ],
+                    [
+                        "Command",
+                        0.2764792326834799
+                    ],
+                    [
+                        "okay",
+                        0.551784167925503
+                    ],
+                    [
+                        "Windows",
+                        0.7091480763126893
+                    ],
+                    [
+                        "folder",
+                        0.7811884353017005
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-540": {
+            "id": "7EXd4_ttIuw-540",
+            "heat": 0.136,
+            "start": 540.0,
+            "text": " >> Okay. >> You can scroll down the entire list to get anything that you want. I am after create terminal, because I want to pull up a terminal for some command line driven stuff that I'm going to talk about now. >> Okay. >> Cool. So what's really cool here is that I can start editing or start writing some code. So if I write print, you can see that immediately I'm starting to get what we call intellisense as well as some documentation. So let's say I wasn't familiar with the print statement, I can scroll over to this documentation tool tip here, and I can see exactly what parameters it takes. For this I just want to print \"Hello world\". >> Okay. >> Cool. To run this, this is actually something we've recently added a couple of releases ago, is the green Run button. So I can actually just run my code with this button and it prints out in the terminal, \"Hello World\". >> Cool. >> Our classic example for coding,\"Hello world\". >>All right. >>Perfect. That's cool. Now, the next thing I want to talk about which is really important for Python development is the concept of a virtual environment. Are you familiar with virtual environments router? >> Not that much, no. >> Okay. So I'll explain briefly what those are. So in Python you can have application A and B. Let's say I'm a developer, I'm working on two different applications. However, each application requires separate versions of packages in order to function correctly.",
+            "metrics": {
+                "relativeDCReadability": 1.0681196085759568,
+                "lexicalDiversity": 0.5205992509363296,
+                "posComposition": {
+                    "IN": 0.109,
+                    "PRP": 0.09,
+                    "MD": 0.03,
+                    "VB": 0.071,
+                    "RP": 0.011,
+                    "DT": 0.082,
+                    "JJ": 0.06,
+                    "NN": 0.131,
+                    "TO": 0.034,
+                    "VBP": 0.052,
+                    "VBN": 0.004,
+                    "VBG": 0.022,
+                    "RB": 0.079,
+                    "NNP": 0.082,
+                    "WP": 0.015,
+                    "VBZ": 0.037,
+                    "CC": 0.015,
+                    "POS": 0.011,
+                    "VBD": 0.007,
+                    "``": 0.007,
+                    "''": 0.015,
+                    "NNS": 0.019,
+                    "PRP$": 0.007,
+                    "WDT": 0.004,
+                    "CD": 0.004
+                },
+                "syllableRate": 3.292,
+                "topicScores": [
+                    [
+                        "print",
+                        0.3870858987041016
+                    ],
+                    [
+                        "Cool",
+                        0.38807772544642416
+                    ],
+                    [
+                        "Python",
+                        0.4388248328064311
+                    ],
+                    [
+                        "terminal",
+                        0.4477934300675631
+                    ],
+                    [
+                        "application",
+                        0.45868078273633667
+                    ],
+                    [
+                        "world",
+                        0.5593948025734504
+                    ],
+                    [
+                        "documentation",
+                        0.572052508957414
+                    ],
+                    [
+                        "environment",
+                        0.5735472944536845
+                    ],
+                    [
+                        "code",
+                        0.5749041566083731
+                    ],
+                    [
+                        "familiar",
+                        0.5753046274544349
+                    ],
+                    [
+                        "button",
+                        0.5775024766075654
+                    ],
+                    [
+                        "virtual",
+                        0.5791823180290329
+                    ],
+                    [
+                        "Perfect",
+                        0.6684301304577202
+                    ],
+                    [
+                        "Run",
+                        0.6868842260188125
+                    ],
+                    [
+                        "B.",
+                        0.7180549921082988
+                    ],
+                    [
+                        "Let",
+                        0.7180549921082988
+                    ],
+                    [
+                        "entire",
+                        0.9156804331931933
+                    ],
+                    [
+                        "list",
+                        0.9156804331931933
+                    ],
+                    [
+                        "create",
+                        0.9168716559921081
+                    ],
+                    [
+                        "command",
+                        0.921895548623233
+                    ],
+                    [
+                        "line",
+                        0.921895548623233
+                    ],
+                    [
+                        "stuff",
+                        0.921895548623233
+                    ],
+                    [
+                        "statement",
+                        0.9345774430751128
+                    ],
+                    [
+                        "tip",
+                        0.9345774430751128
+                    ],
+                    [
+                        "router",
+                        0.9364379545030644
+                    ],
+                    [
+                        "intellisense",
+                        0.937350144826458
+                    ],
+                    [
+                        "tool",
+                        0.9386029346656224
+                    ],
+                    [
+                        "parameter",
+                        0.9386029346656224
+                    ],
+                    [
+                        "release",
+                        0.9399029864344842
+                    ],
+                    [
+                        "classic",
+                        0.9425532162089008
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "Python",
+                        0.4388248328064311
+                    ],
+                    [
+                        "application",
+                        0.45868078273633667
+                    ],
+                    [
+                        "environment",
+                        0.5735472944536845
+                    ],
+                    [
+                        "virtual",
+                        0.5791823180290329
+                    ],
+                    [
+                        "create",
+                        0.9168716559921081
+                    ],
+                    [
+                        "line",
+                        0.921895548623233
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-630": {
+            "id": "7EXd4_ttIuw-630",
+            "heat": 0.155,
+            "start": 630.0,
+            "text": " >> Okay. >> If I were to include all of those different package versions in the same single application or same environment, there's a possibility that I might have conflicts. Some code may not run, something may get broken. So typically what we recommend for Python developers is to create a virtual environment which I'm going to show you how to do now. Cool. So back to my command line here. So I'm in my VS toolbox folder. I have my hello.Py file, print \"Hello world\", we're all good. So there are different commands depending on the OS you're using. I'm actually going to show you when we're on those command. Then also we can look at the Linux, Mac command. But in order to run, to create a virtual environment from the command line, what I want to do is I want to type Py, short for Python -3 for the version of Python I'm going to use. Dash m, which is saying, okay, I'm going to pass a module that I want you to use. This module is called VM, short for virtual environment which makes sense. I'm actually going to call our virtual environments. Give me any name you want. What's your favorite folder name? >> My favorite folder name, pictures. >> Pictures. Cool. >> What's really cool is you notice this pop-up that comes. It says. \"We noticed a new virtual environment has been created, do you want to select it for the workspace folder?\" What's really cool about that is if I select \"Yes\" and navigate to my.vscode folder here, you'll see that we include this line",
+            "metrics": {
+                "relativeDCReadability": 1.0031339194775277,
+                "lexicalDiversity": 0.5226480836236934,
+                "posComposition": {
+                    "IN": 0.08,
+                    "PRP": 0.105,
+                    "VBD": 0.007,
+                    "TO": 0.056,
+                    "VB": 0.08,
+                    "DT": 0.073,
+                    "JJ": 0.059,
+                    "NN": 0.136,
+                    "NNS": 0.017,
+                    "CC": 0.01,
+                    "EX": 0.007,
+                    "VBZ": 0.056,
+                    "MD": 0.017,
+                    "RB": 0.052,
+                    "VBN": 0.014,
+                    "WP": 0.017,
+                    "VBP": 0.066,
+                    "NNP": 0.056,
+                    "WDT": 0.014,
+                    "VBG": 0.028,
+                    "WRB": 0.007,
+                    "PRP$": 0.017,
+                    "``": 0.01,
+                    "''": 0.01,
+                    "UH": 0.003
+                },
+                "syllableRate": 3.383,
+                "topicScores": [
+                    [
+                        "environment",
+                        0.31164332298921893
+                    ],
+                    [
+                        "Python",
+                        0.31615937746506534
+                    ],
+                    [
+                        "virtual",
+                        0.33288774571686736
+                    ],
+                    [
+                        "folder",
+                        0.33973919733438646
+                    ],
+                    [
+                        "command",
+                        0.34071235497144914
+                    ],
+                    [
+                        "cool",
+                        0.3712030437097569
+                    ],
+                    [
+                        "line",
+                        0.44557494189369773
+                    ],
+                    [
+                        "short",
+                        0.5706190582574151
+                    ],
+                    [
+                        "favorite",
+                        0.5719524665494607
+                    ],
+                    [
+                        "different",
+                        0.5726207343164721
+                    ],
+                    [
+                        "version",
+                        0.5751074701157534
+                    ],
+                    [
+                        "module",
+                        0.5792723025229303
+                    ],
+                    [
+                        "Hello",
+                        0.6543934230938364
+                    ],
+                    [
+                        "VS",
+                        0.6616231367677436
+                    ],
+                    [
+                        "Pictures",
+                        0.6657989745788874
+                    ],
+                    [
+                        "Mac",
+                        0.6673441554009829
+                    ],
+                    [
+                        "Linux",
+                        0.6768987098060841
+                    ],
+                    [
+                        "os",
+                        0.6780694258603243
+                    ],
+                    [
+                        "VM",
+                        0.6886660002945738
+                    ],
+                    [
+                        "conflict",
+                        0.8936207684792979
+                    ],
+                    [
+                        "package",
+                        0.9133251740831876
+                    ],
+                    [
+                        "single",
+                        0.9133251740831876
+                    ],
+                    [
+                        "application",
+                        0.9133251740831876
+                    ],
+                    [
+                        "possibility",
+                        0.9133251740831876
+                    ],
+                    [
+                        "code",
+                        0.914160320712055
+                    ],
+                    [
+                        "world",
+                        0.9142814483196322
+                    ],
+                    [
+                        "good",
+                        0.9204672964033525
+                    ],
+                    [
+                        "dash",
+                        0.9218191253028509
+                    ],
+                    [
+                        "developer",
+                        0.9241820407095498
+                    ],
+                    [
+                        "file",
+                        0.9260236683900668
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "environment",
+                        0.31164332298921893
+                    ],
+                    [
+                        "Python",
+                        0.31615937746506534
+                    ],
+                    [
+                        "virtual",
+                        0.33288774571686736
+                    ],
+                    [
+                        "folder",
+                        0.33973919733438646
+                    ],
+                    [
+                        "cool",
+                        0.3712030437097569
+                    ],
+                    [
+                        "line",
+                        0.44557494189369773
+                    ],
+                    [
+                        "application",
+                        0.9133251740831876
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-720": {
+            "id": "7EXd4_ttIuw-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " with a path to that pictures virtual environment. So the next time I open this folder, I'll already be inside of this virtual environment which you can see is being denoted here pictures virtual environment, and so I can get more productive more quickly the next time. >> That's not an actual folder on the hard drive, right? >> So it creates a local copy, actually good question. It creates a local copy of Python for this workspace, and you can see the list of scripts that this includes as well as all of the libraries that you may have in that virtual environment. But again, it's just local to this workspace, so that way your application can get all of the stuff inside of that virtual environment. So I actually. >> It sticks around, if I exit code come back in I can have access to that environment or do I have to recreate it? >> Exactly, you have access to the environment. So what I'm actually going to do now is \"Hello world\" is exciting, but I actually want to show you a web app that I have with the virtual environment already create. >> Okay. Cool. >> So let's actually answer your question right now. So in order to close this I'm going to go to File, Close folder. There are a couple of ways I can open a new folder. I can go to File, Open Folder here, and navigate on my File Explorer. There's the Start Menu which allows me to open folder, but actually the demo I want is \"Sentimentapi\" and it's under my recent. So why not just click it there?",
+            "metrics": {
+                "relativeDCReadability": 1.0286017474826723,
+                "lexicalDiversity": 0.4647887323943662,
+                "posComposition": {
+                    "IN": 0.095,
+                    "DT": 0.106,
+                    "NN": 0.123,
+                    "TO": 0.042,
+                    "VBZ": 0.053,
+                    "JJ": 0.067,
+                    "PRP": 0.095,
+                    "VBP": 0.042,
+                    "MD": 0.032,
+                    "RB": 0.109,
+                    "VB": 0.067,
+                    "WDT": 0.007,
+                    "VBG": 0.014,
+                    "VBN": 0.004,
+                    "CC": 0.028,
+                    "RBR": 0.007,
+                    "NNP": 0.053,
+                    "NNS": 0.011,
+                    "PRP$": 0.014,
+                    "WP": 0.004,
+                    "``": 0.007,
+                    "''": 0.007,
+                    "POS": 0.004,
+                    "EX": 0.007,
+                    "WRB": 0.004
+                },
+                "syllableRate": 3.45,
+                "topicScores": [
+                    [
+                        "environment",
+                        0.2706305331503577
+                    ],
+                    [
+                        "virtual",
+                        0.29805206043496263
+                    ],
+                    [
+                        "File",
+                        0.33836064360151297
+                    ],
+                    [
+                        "folder",
+                        0.3510639834244751
+                    ],
+                    [
+                        "local",
+                        0.4424673062870388
+                    ],
+                    [
+                        "close",
+                        0.5051828372252593
+                    ],
+                    [
+                        "picture",
+                        0.5170541725659227
+                    ],
+                    [
+                        "time",
+                        0.5238390026480414
+                    ],
+                    [
+                        "copy",
+                        0.5603782572130239
+                    ],
+                    [
+                        "workspace",
+                        0.5656471389797563
+                    ],
+                    [
+                        "right",
+                        0.5698032536803187
+                    ],
+                    [
+                        "access",
+                        0.5748788147913558
+                    ],
+                    [
+                        "question",
+                        0.5793782486301009
+                    ],
+                    [
+                        "way",
+                        0.5876178576698826
+                    ],
+                    [
+                        "Python",
+                        0.6653675750838565
+                    ],
+                    [
+                        "Hello",
+                        0.6803870883971184
+                    ],
+                    [
+                        "Explorer",
+                        0.6870913826713283
+                    ],
+                    [
+                        "Sentimentapi",
+                        0.7022013169562599
+                    ],
+                    [
+                        "Open",
+                        0.7127475289561717
+                    ],
+                    [
+                        "Start",
+                        0.7257591211006293
+                    ],
+                    [
+                        "Menu",
+                        0.7257591211006293
+                    ],
+                    [
+                        "path",
+                        0.843999512790722
+                    ],
+                    [
+                        "File Explorer",
+                        0.8690518531280288
+                    ],
+                    [
+                        "productive",
+                        0.8906200573740037
+                    ],
+                    [
+                        "virtual environment",
+                        0.9061307242311439
+                    ],
+                    [
+                        "hard",
+                        0.910064720458678
+                    ],
+                    [
+                        "drive",
+                        0.910064720458678
+                    ],
+                    [
+                        "good",
+                        0.9135272769562205
+                    ],
+                    [
+                        "actual",
+                        0.9177382325313015
+                    ],
+                    [
+                        "recent",
+                        0.9298369462205331
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "environment",
+                        0.2706305331503577
+                    ],
+                    [
+                        "virtual",
+                        0.29805206043496263
+                    ],
+                    [
+                        "folder",
+                        0.3510639834244751
+                    ],
+                    [
+                        "right",
+                        0.5698032536803187
+                    ],
+                    [
+                        "way",
+                        0.5876178576698826
+                    ],
+                    [
+                        "Python",
+                        0.6653675750838565
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-810": {
+            "id": "7EXd4_ttIuw-810",
+            "heat": 0.142,
+            "start": 810.0,
+            "text": " Cool. So a couple of things to immediately notice about this application, is it's a simple web application using the popular Python package flask which is a weighted just create simple web applications, and to answer your question Robert, I have a virtual environment here called \"vstoolbox\". Again, I pre-created this so it saved when I opened it back up. What's even better is that I could actually activate that virtual environment inside the terminal in two ways. So if your command line driven again the way in which you're going to activate a virtual environment on a Windows machine is you can start with the virtual environment name, so vstoolbox backslash because we're on Windows, scripts backslash activate and you'll see that the virtual environment is activated by this parentheses with the virtual environment name. >> So then does that information store like in source control. So if I take this app, put it in GitHub, go home, clone it, and bring it down locally I have not only the code but also the environment information? >> Yeah, absolutely. If you want to share the virtual environment with developers in your team or with friends you definitely can do that. I'll also show you or you can just create a new one, but I'll show you. We've talked a little bit about that but I think it'll come full circle in a minute.",
+            "metrics": {
+                "relativeDCReadability": 1.047577276739202,
+                "lexicalDiversity": 0.5020576131687243,
+                "posComposition": {
+                    "NNP": 0.037,
+                    "DT": 0.099,
+                    "NN": 0.165,
+                    "IN": 0.115,
+                    "NNS": 0.029,
+                    "TO": 0.016,
+                    "RB": 0.074,
+                    "VB": 0.049,
+                    "VBZ": 0.033,
+                    "PRP": 0.107,
+                    "JJ": 0.062,
+                    "VBG": 0.008,
+                    "WDT": 0.008,
+                    "VBP": 0.045,
+                    "CC": 0.033,
+                    "PRP$": 0.012,
+                    "VBN": 0.016,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "VBD": 0.016,
+                    "WRB": 0.004,
+                    "RP": 0.012,
+                    "WP": 0.004,
+                    "RBR": 0.004,
+                    "MD": 0.033,
+                    "CD": 0.008
+                },
+                "syllableRate": 3.1,
+                "topicScores": [
+                    [
+                        "environment",
+                        0.27293460470585634
+                    ],
+                    [
+                        "virtual",
+                        0.27986415925119096
+                    ],
+                    [
+                        "Cool",
+                        0.33081773044892077
+                    ],
+                    [
+                        "activate",
+                        0.39079108925427275
+                    ],
+                    [
+                        "Windows",
+                        0.39385581105809736
+                    ],
+                    [
+                        "application",
+                        0.4149733419414676
+                    ],
+                    [
+                        "web",
+                        0.5147285791699319
+                    ],
+                    [
+                        "simple",
+                        0.5251771861809598
+                    ],
+                    [
+                        "vstoolbox",
+                        0.5298370995236683
+                    ],
+                    [
+                        "Robert",
+                        0.5326757397240315
+                    ],
+                    [
+                        "Python",
+                        0.5495773468557259
+                    ],
+                    [
+                        "way",
+                        0.5520685841308228
+                    ],
+                    [
+                        "information",
+                        0.5630979903355051
+                    ],
+                    [
+                        "backslash",
+                        0.5670143331315983
+                    ],
+                    [
+                        "question Robert",
+                        0.8339259870740178
+                    ],
+                    [
+                        "couple",
+                        0.8673678153149517
+                    ],
+                    [
+                        "thing",
+                        0.8673678153149517
+                    ],
+                    [
+                        "popular",
+                        0.8673678153149517
+                    ],
+                    [
+                        "package",
+                        0.8673678153149517
+                    ],
+                    [
+                        "flask",
+                        0.8673678153149517
+                    ],
+                    [
+                        "weighted",
+                        0.8673678153149517
+                    ],
+                    [
+                        "control",
+                        0.8831634360060636
+                    ],
+                    [
+                        "virtual environment",
+                        0.8849924347155025
+                    ],
+                    [
+                        "script",
+                        0.8967675360365482
+                    ],
+                    [
+                        "well",
+                        0.8996009678209174
+                    ],
+                    [
+                        "terminal",
+                        0.8996009678209174
+                    ],
+                    [
+                        "minute",
+                        0.9008216390755556
+                    ],
+                    [
+                        "source",
+                        0.9066212091654648
+                    ],
+                    [
+                        "command",
+                        0.9068807574218554
+                    ],
+                    [
+                        "line",
+                        0.9068807574218554
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "environment",
+                        0.27293460470585634
+                    ],
+                    [
+                        "virtual",
+                        0.27986415925119096
+                    ],
+                    [
+                        "Windows",
+                        0.39385581105809736
+                    ],
+                    [
+                        "application",
+                        0.4149733419414676
+                    ],
+                    [
+                        "Python",
+                        0.5495773468557259
+                    ],
+                    [
+                        "way",
+                        0.5520685841308228
+                    ],
+                    [
+                        "thing",
+                        0.8673678153149517
+                    ],
+                    [
+                        "line",
+                        0.9068807574218554
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-900": {
+            "id": "7EXd4_ttIuw-900",
+            "heat": 0.206,
+            "start": 900.0,
+            "text": " Another quick way you can activate this virtual environment, if you don't want to have to remember that path to the activate file, what you can do on a Windows machine is control shift back tick. What it'll do is it'll open a new terminal for you with this virtual environment already activated. So some really cool stuff here. Let's explore the editor for a minute. So you guys or everyone has probably noticed the yellow squiggles that are appearing here. These yellow squiggles are what we call linting messages, and so what's important to know is that the first time you install the Python extension it's going to ask if you want to install a linter. The default currently as Pylint, and so it is going to ask you if you want to use Pylint, but we also support other lenting tools like Flake8 etc. So what you're seeing here are these linting messages. So if I hover over those linting messages, it's telling me, it's saying, \"Hey, I can't find unresolved import text blob.\" So what that essentially means, is that, it can't find this package inside of my virtual environments. So it's giving me an error which is super useful because it gives me a code diagnostic or a problem which I can also view under problems here, and you see that I have the list of problems, unresolved import Flask, unresolved import textblob. So what we can do actually is install those.",
+            "metrics": {
+                "relativeDCReadability": 0.9497778919049625,
+                "lexicalDiversity": 0.49615384615384617,
+                "posComposition": {
+                    "DT": 0.092,
+                    "JJ": 0.073,
+                    "NN": 0.112,
+                    "PRP": 0.115,
+                    "MD": 0.031,
+                    "VB": 0.065,
+                    "IN": 0.085,
+                    "VBP": 0.054,
+                    "RB": 0.077,
+                    "TO": 0.031,
+                    "WP": 0.027,
+                    "NNP": 0.038,
+                    "VBZ": 0.062,
+                    "VBN": 0.008,
+                    "POS": 0.004,
+                    "CC": 0.027,
+                    "NNS": 0.038,
+                    "WDT": 0.012,
+                    "VBG": 0.031,
+                    "FW": 0.004,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "PRP$": 0.004,
+                    "VBD": 0.004
+                },
+                "syllableRate": 3.158,
+                "topicScores": [
+                    [
+                        "activate",
+                        0.3753783081405384
+                    ],
+                    [
+                        "environment",
+                        0.39135598525769366
+                    ],
+                    [
+                        "Pylint",
+                        0.39168801641270085
+                    ],
+                    [
+                        "virtual",
+                        0.39450141964143726
+                    ],
+                    [
+                        "message",
+                        0.4095338158003492
+                    ],
+                    [
+                        "import",
+                        0.4184805897958643
+                    ],
+                    [
+                        "Windows",
+                        0.4201540483767699
+                    ],
+                    [
+                        "unresolved",
+                        0.43004824130583486
+                    ],
+                    [
+                        "problem",
+                        0.44625428857002375
+                    ],
+                    [
+                        "Windows machine",
+                        0.48551686909169983
+                    ],
+                    [
+                        "squiggle",
+                        0.529806528587913
+                    ],
+                    [
+                        "yellow",
+                        0.5331245532461304
+                    ],
+                    [
+                        "Flake8",
+                        0.6317720944085414
+                    ],
+                    [
+                        "Python",
+                        0.6334897426802842
+                    ],
+                    [
+                        "Flask",
+                        0.6605374338429237
+                    ],
+                    [
+                        "tick",
+                        0.7231629218359649
+                    ],
+                    [
+                        "quick",
+                        0.7614003548614341
+                    ],
+                    [
+                        "file",
+                        0.7614003548614341
+                    ],
+                    [
+                        "way",
+                        0.7778899909340147
+                    ],
+                    [
+                        "path",
+                        0.7778899909340147
+                    ],
+                    [
+                        "control",
+                        0.7778899909340147
+                    ],
+                    [
+                        "shift",
+                        0.7778899909340147
+                    ],
+                    [
+                        "virtual environment",
+                        0.8074013486025508
+                    ],
+                    [
+                        "new",
+                        0.8405344344917108
+                    ],
+                    [
+                        "terminal",
+                        0.8405344344917108
+                    ],
+                    [
+                        "minute",
+                        0.8434226863645372
+                    ],
+                    [
+                        "stuff",
+                        0.8537324043138721
+                    ],
+                    [
+                        "linter",
+                        0.8617097443323242
+                    ],
+                    [
+                        "cool",
+                        0.8649725919971999
+                    ],
+                    [
+                        "blob",
+                        0.8756120084304456
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "environment",
+                        0.39135598525769366
+                    ],
+                    [
+                        "virtual",
+                        0.39450141964143726
+                    ],
+                    [
+                        "Windows",
+                        0.4201540483767699
+                    ],
+                    [
+                        "Python",
+                        0.6334897426802842
+                    ],
+                    [
+                        "Flask",
+                        0.6605374338429237
+                    ],
+                    [
+                        "way",
+                        0.7778899909340147
+                    ],
+                    [
+                        "cool",
+                        0.8649725919971999
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-990": {
+            "id": "7EXd4_ttIuw-990",
+            "heat": 0.281,
+            "start": 990.0,
+            "text": " One thing that's also different about this folder compared to the last folder we created, is that, I have this requirements.txt file here, and for people who don't know for Python developers this is just the list of all the dependencies that my application needs to function properly. So back to your original point. Depending on the kind of setup you prefer what source control, you may send up your virtual environments so people can download it and just activate it or you might just send up the requirements.txt file and allow people to first create a virtual environment and then install all the packages thing here. So what I'm going to do is I'm going to install those packages from this requirements.txt file, so back to my command line notice again that I'm still inside this virtual environment because I want all these packages contains locally to this application. So I'm going to go pip install -r and then requirements.txt and hit \"Enter\". What you're going to notice is you're going to notice that it's going to find those packages and install them for me. It's getting the list, I've downloaded these before so it's just using the cache diversions of these guys. What's important to note is that when it installs these you're going to notice that these error messages are going to go away, which is really cool. So while it's installing those packages let's explore this application a bit.",
+            "metrics": {
+                "relativeDCReadability": 0.9128545817090131,
+                "lexicalDiversity": 0.4904214559386973,
+                "posComposition": {
+                    "CD": 0.004,
+                    "NN": 0.111,
+                    "WDT": 0.011,
+                    "VBZ": 0.054,
+                    "RB": 0.084,
+                    "JJ": 0.042,
+                    "IN": 0.08,
+                    "DT": 0.096,
+                    "VBN": 0.008,
+                    "TO": 0.057,
+                    "PRP": 0.088,
+                    "VBD": 0.004,
+                    "VBP": 0.054,
+                    "CC": 0.031,
+                    "NNS": 0.057,
+                    "WP": 0.019,
+                    "VB": 0.08,
+                    "NNP": 0.008,
+                    "PDT": 0.011,
+                    "PRP$": 0.015,
+                    "VBG": 0.046,
+                    "MD": 0.011,
+                    "RP": 0.011,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "WRB": 0.004,
+                    "POS": 0.004
+                },
+                "syllableRate": 3.2,
+                "topicScores": [
+                    [
+                        "package",
+                        0.30845339423935203
+                    ],
+                    [
+                        "notice",
+                        0.325580775997232
+                    ],
+                    [
+                        "file",
+                        0.3471419235750873
+                    ],
+                    [
+                        "people",
+                        0.3791682718856496
+                    ],
+                    [
+                        "virtual",
+                        0.3862435309299059
+                    ],
+                    [
+                        "environment",
+                        0.3862435309299059
+                    ],
+                    [
+                        "application",
+                        0.38725097268001035
+                    ],
+                    [
+                        "Python",
+                        0.39505945243166896
+                    ],
+                    [
+                        "Python developer",
+                        0.40373681153400814
+                    ],
+                    [
+                        "folder",
+                        0.44185742405087236
+                    ],
+                    [
+                        "thing",
+                        0.45956804478988716
+                    ],
+                    [
+                        "list",
+                        0.49235732355197886
+                    ],
+                    [
+                        "Enter",
+                        0.5425209553246707
+                    ],
+                    [
+                        "different",
+                        0.7280315536145906
+                    ],
+                    [
+                        "dependency",
+                        0.7280315536145906
+                    ],
+                    [
+                        "virtual environment",
+                        0.7398833600028397
+                    ],
+                    [
+                        "point",
+                        0.7591913622252844
+                    ],
+                    [
+                        "original",
+                        0.7883510540122862
+                    ],
+                    [
+                        "source",
+                        0.8190648572972583
+                    ],
+                    [
+                        "control",
+                        0.8190648572972583
+                    ],
+                    [
+                        "kind",
+                        0.8304001787723687
+                    ],
+                    [
+                        "setup",
+                        0.8304001787723687
+                    ],
+                    [
+                        "guy",
+                        0.8399350971532263
+                    ],
+                    [
+                        "cool",
+                        0.8452131888075514
+                    ],
+                    [
+                        "command",
+                        0.8466249151184563
+                    ],
+                    [
+                        "line",
+                        0.8466249151184563
+                    ],
+                    [
+                        "bit",
+                        0.8495103427666079
+                    ],
+                    [
+                        "pip",
+                        0.8571359050059686
+                    ],
+                    [
+                        "cache",
+                        0.8702250310317751
+                    ],
+                    [
+                        "diversion",
+                        0.8702250310317751
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "notice",
+                        0.325580775997232
+                    ],
+                    [
+                        "virtual",
+                        0.3862435309299059
+                    ],
+                    [
+                        "environment",
+                        0.3862435309299059
+                    ],
+                    [
+                        "application",
+                        0.38725097268001035
+                    ],
+                    [
+                        "Python",
+                        0.39505945243166896
+                    ],
+                    [
+                        "Python developer",
+                        0.40373681153400814
+                    ],
+                    [
+                        "folder",
+                        0.44185742405087236
+                    ],
+                    [
+                        "thing",
+                        0.45956804478988716
+                    ],
+                    [
+                        "cool",
+                        0.8452131888075514
+                    ],
+                    [
+                        "line",
+                        0.8466249151184563
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1080": {
+            "id": "7EXd4_ttIuw-1080",
+            "heat": 0.3,
+            "start": 1080.0,
+            "text": " So what this is, as I said before, is the simple Flask gap. So what I'm doing here is I'm essentially creating a Flask gap that's contained inside this folder called Startup. I have a simple homepage here which is just saying, \"Python loves vstoolbox,\" and this is actually a really cool application because it's not only just a simple web application but it's the sentimentapi is the title of the folder denotes. So what this is going to allow us to do, is it's going to allow us to hit an end point with a Word and this API is going to help us determine the sentiment of that word because maybe I just need help determining what kind of sentiment words have. So very cool it finished installing the packages for us, and notice that my problems went away, and suddenly if I hover over Flask I get documentation for it. Text blob I Get-module text blob which is really cool stuff. So now what I want us to do we explore this application. So let's actually run this application. There are couple of ways you can run it. I want to run it using the debugger, because I also want to use this as a moment to talk about debugging and kind of what that gets you. As I stated previously, this is a sentiment API pretty simple only less than perhaps 10 lines of code if you take out all the comments and the spaces, and that's again the beauty of Python's your earlier point in less than 20 lines of code, essentially, I can create a powerful sentiment API. I have some to do for myself actually,",
+            "metrics": {
+                "relativeDCReadability": 0.9831233480719486,
+                "lexicalDiversity": 0.4709897610921502,
+                "posComposition": {
+                    "RB": 0.099,
+                    "WP": 0.02,
+                    "DT": 0.106,
+                    "VBZ": 0.065,
+                    "IN": 0.099,
+                    "PRP": 0.106,
+                    "VBD": 0.02,
+                    "JJ": 0.027,
+                    "NNP": 0.048,
+                    "NN": 0.126,
+                    "VBP": 0.041,
+                    "VBG": 0.031,
+                    "WDT": 0.01,
+                    "VBN": 0.003,
+                    "``": 0.003,
+                    "''": 0.003,
+                    "CC": 0.027,
+                    "TO": 0.034,
+                    "VB": 0.055,
+                    "NNS": 0.027,
+                    "PRP$": 0.007,
+                    "POS": 0.007,
+                    "EX": 0.003,
+                    "MD": 0.007,
+                    "JJR": 0.007,
+                    "CD": 0.007,
+                    "RP": 0.003,
+                    "PDT": 0.003,
+                    "RBR": 0.003
+                },
+                "syllableRate": 3.525,
+                "topicScores": [
+                    [
+                        "Flask",
+                        0.25079888183126525
+                    ],
+                    [
+                        "application",
+                        0.34751958794640164
+                    ],
+                    [
+                        "Flask gap",
+                        0.35767448260685847
+                    ],
+                    [
+                        "word",
+                        0.35805781205820614
+                    ],
+                    [
+                        "simple",
+                        0.36277685054820313
+                    ],
+                    [
+                        "sentiment",
+                        0.3725220530084047
+                    ],
+                    [
+                        "Python",
+                        0.3798429829013771
+                    ],
+                    [
+                        "api",
+                        0.39521084858341526
+                    ],
+                    [
+                        "cool",
+                        0.41282904964433115
+                    ],
+                    [
+                        "Startup",
+                        0.4713857877355229
+                    ],
+                    [
+                        "folder",
+                        0.5055280043955562
+                    ],
+                    [
+                        "text",
+                        0.5092048337435928
+                    ],
+                    [
+                        "blob",
+                        0.5166312264593683
+                    ],
+                    [
+                        "help",
+                        0.5319924690683997
+                    ],
+                    [
+                        "kind",
+                        0.5398525255005973
+                    ],
+                    [
+                        "code",
+                        0.5449820159591348
+                    ],
+                    [
+                        "point",
+                        0.5486778825217584
+                    ],
+                    [
+                        "line",
+                        0.550240402941782
+                    ],
+                    [
+                        "simple Flask",
+                        0.7316519383810246
+                    ],
+                    [
+                        "vstoolbox",
+                        0.8250154396951256
+                    ],
+                    [
+                        "denote",
+                        0.8250154396951256
+                    ],
+                    [
+                        "homepage",
+                        0.858922716757198
+                    ],
+                    [
+                        "web",
+                        0.858922716757198
+                    ],
+                    [
+                        "sentimentapi",
+                        0.858922716757198
+                    ],
+                    [
+                        "title",
+                        0.858922716757198
+                    ],
+                    [
+                        "stuff",
+                        0.8659005286945963
+                    ],
+                    [
+                        "end",
+                        0.8728366942513809
+                    ],
+                    [
+                        "package",
+                        0.8818021438625233
+                    ],
+                    [
+                        "problem",
+                        0.8818021438625233
+                    ],
+                    [
+                        "documentation",
+                        0.8818021438625233
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "Flask",
+                        0.25079888183126525
+                    ],
+                    [
+                        "application",
+                        0.34751958794640164
+                    ],
+                    [
+                        "sentiment",
+                        0.3725220530084047
+                    ],
+                    [
+                        "Python",
+                        0.3798429829013771
+                    ],
+                    [
+                        "cool",
+                        0.41282904964433115
+                    ],
+                    [
+                        "folder",
+                        0.5055280043955562
+                    ],
+                    [
+                        "line",
+                        0.550240402941782
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1170": {
+            "id": "7EXd4_ttIuw-1170",
+            "heat": 0.229,
+            "start": 1170.0,
+            "text": " I need to actually build the API. So if I scroll down to line 13, this is actually the routes that's creating that endpoint that will allow us to send a word in and get the sentiment back out. So what I want to do is how this module is working is it's saying it's going to take in that message if the sentiment score is greater than zero we're going to determine, we're going to say it's positive. It's less than zero its negative. So what I'm going to do is I'm actually going to write that out. So if textblob I'm using that package and notice I'm getting my IntelliSense here. So I'm going to tap to accept that message. Again, is what I want. So if the message has a sentiment and notice that again this IntelliSense with the documentation which is allowing me to learn as I type.polarity is less than zero, then I'm going to reassign that sentiment, I'm going to say, \"Okay your negative.\" Trying to type at the same time and let's get rid of my comment here. >> So how does text blob have a sentiment property? >> Sorry? >> Textblob.sentiment. >> Oh, it's the beauty of the textblob package. >> Really, it comes with sentiment built-in? >> Yeah. >> That's cool. >> Which is another cool thing about Python, I could very well create my own sentiment",
+            "metrics": {
+                "relativeDCReadability": 0.98266099686158,
+                "lexicalDiversity": 0.4817813765182186,
+                "posComposition": {
+                    "PRP": 0.093,
+                    "VBP": 0.057,
+                    "TO": 0.061,
+                    "RB": 0.061,
+                    "VB": 0.081,
+                    "DT": 0.081,
+                    "NNP": 0.045,
+                    "IN": 0.085,
+                    "NN": 0.121,
+                    "CD": 0.016,
+                    "VBZ": 0.077,
+                    "NNS": 0.004,
+                    "WDT": 0.016,
+                    "VBG": 0.061,
+                    "MD": 0.008,
+                    "CC": 0.016,
+                    "RP": 0.008,
+                    "WP": 0.012,
+                    "WRB": 0.008,
+                    "JJR": 0.012,
+                    "JJ": 0.04,
+                    "PRP$": 0.02,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "POS": 0.008
+                },
+                "syllableRate": 2.925,
+                "topicScores": [
+                    [
+                        "sentiment",
+                        0.2843941067330275
+                    ],
+                    [
+                        "API",
+                        0.37846342738606004
+                    ],
+                    [
+                        "message",
+                        0.4217210049375678
+                    ],
+                    [
+                        "negative",
+                        0.5272768614104808
+                    ],
+                    [
+                        "notice",
+                        0.5512236105093383
+                    ],
+                    [
+                        "IntelliSense",
+                        0.5530993296634882
+                    ],
+                    [
+                        "package",
+                        0.5571871586839534
+                    ],
+                    [
+                        "textblob",
+                        0.5606815625258847
+                    ],
+                    [
+                        "cool",
+                        0.5617283350960636
+                    ],
+                    [
+                        "Python",
+                        0.6903288733627783
+                    ],
+                    [
+                        "line",
+                        0.8544508853482423
+                    ],
+                    [
+                        "positive",
+                        0.8619489872923389
+                    ],
+                    [
+                        "route",
+                        0.8621713555446197
+                    ],
+                    [
+                        "endpoint",
+                        0.8621713555446197
+                    ],
+                    [
+                        "word",
+                        0.8621713555446197
+                    ],
+                    [
+                        "module",
+                        0.8837522384091288
+                    ],
+                    [
+                        "score",
+                        0.8837522384091288
+                    ],
+                    [
+                        "great",
+                        0.8837522384091288
+                    ],
+                    [
+                        "sorry",
+                        0.8919977243333054
+                    ],
+                    [
+                        "textblob.sentiment",
+                        0.9036950762903687
+                    ],
+                    [
+                        "property",
+                        0.9083335377993614
+                    ],
+                    [
+                        "comment",
+                        0.9153494723463839
+                    ],
+                    [
+                        "documentation",
+                        0.9180360620512014
+                    ],
+                    [
+                        "type.polarity",
+                        0.9180360620512014
+                    ],
+                    [
+                        "beauty",
+                        0.9288432660908514
+                    ],
+                    [
+                        "thing",
+                        0.9336471165447574
+                    ],
+                    [
+                        "sentiment score",
+                        3.065070151034255
+                    ],
+                    [
+                        "sentiment property",
+                        3.443933200430921
+                    ],
+                    [
+                        "textblob package",
+                        3.64669821635604
+                    ],
+                    [
+                        "cool thing",
+                        4.925685640578564
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "sentiment",
+                        0.2843941067330275
+                    ],
+                    [
+                        "notice",
+                        0.5512236105093383
+                    ],
+                    [
+                        "cool",
+                        0.5617283350960636
+                    ],
+                    [
+                        "Python",
+                        0.6903288733627783
+                    ],
+                    [
+                        "line",
+                        0.8544508853482423
+                    ],
+                    [
+                        "thing",
+                        0.9336471165447574
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1260": {
+            "id": "7EXd4_ttIuw-1260",
+            "heat": 0.263,
+            "start": 1260.0,
+            "text": " API from scratch if I wanted to, but why reinvent the wheel? >> Because I've never seen a text box that I've ever used have that built into it. >> Right. So what it actually does that passes in that message to the textblock module and then it does some stuff under the hood then with cool sentiment polarity etc. >> Cool. >> So we reassign that sentiment has negative, and then what I'm actually going to do is I'm going to return that sentiment on the page, on the web application page which you'll see in a second. So cool. Let's run the application. >> All right. >> I'm going to run it using the debugger actually because there are a couple of things I want to talk about. So let's set a breakpoint on line 15, notice that I clicked to the left of the line number which is called the gutter. For those of you who are used to debugging it's going to be the same kind of feel, for those who aren't fear not it's super easy to get started with the debugger. So to start this, there are a couple of ways I can run my debugger and I'm going to just collapse that so I can give you full attention here. I can use the toolbar, click \"Debug\" and click \"Start debugging.\" It also has the keyboard shortcut F5 and so what I'm going to do is I'm going to start doing that. Notice that when I click \"Start debugging\" it's going to present to debug configuration menu. We have a list of popular templates that we know Python developers use. Remember earlier I mentioned that this is a Flask gap? >> Yeah. >> So you can see that Flask is in that configuration list, and so that's what I wanted and I'm going to select it.",
+            "metrics": {
+                "relativeDCReadability": 0.9476106018208211,
+                "lexicalDiversity": 0.4634146341463415,
+                "posComposition": {
+                    "NN": 0.143,
+                    "IN": 0.098,
+                    "PRP": 0.104,
+                    "VBD": 0.015,
+                    "TO": 0.052,
+                    "CC": 0.024,
+                    "WRB": 0.006,
+                    "VBP": 0.067,
+                    "DT": 0.104,
+                    "RB": 0.052,
+                    "VBN": 0.018,
+                    "NNP": 0.055,
+                    "WP": 0.018,
+                    "VBZ": 0.04,
+                    "NNS": 0.015,
+                    "JJ": 0.027,
+                    "VBG": 0.037,
+                    "VB": 0.064,
+                    "WDT": 0.006,
+                    "MD": 0.015,
+                    "POS": 0.006,
+                    "EX": 0.006,
+                    "CD": 0.003,
+                    "PRP$": 0.003,
+                    "``": 0.009,
+                    "''": 0.009,
+                    "RBR": 0.003
+                },
+                "syllableRate": 3.692,
+                "topicScores": [
+                    [
+                        "debug",
+                        0.3085377589572384
+                    ],
+                    [
+                        "api",
+                        0.38517302436785134
+                    ],
+                    [
+                        "Flask",
+                        0.43185633536367907
+                    ],
+                    [
+                        "debugger",
+                        0.44544436518075525
+                    ],
+                    [
+                        "sentiment",
+                        0.4455657502282977
+                    ],
+                    [
+                        "cool",
+                        0.5559733802572703
+                    ],
+                    [
+                        "application",
+                        0.5582634962348048
+                    ],
+                    [
+                        "couple",
+                        0.5598537776202411
+                    ],
+                    [
+                        "page",
+                        0.571127888882779
+                    ],
+                    [
+                        "configuration",
+                        0.5737526515980846
+                    ],
+                    [
+                        "line",
+                        0.5769162759500864
+                    ],
+                    [
+                        "list",
+                        0.5771547553835213
+                    ],
+                    [
+                        "F5",
+                        0.6999842158054358
+                    ],
+                    [
+                        "Python",
+                        0.7038337257892264
+                    ],
+                    [
+                        "wheel",
+                        0.7816441014739893
+                    ],
+                    [
+                        "scratch",
+                        0.8191855579637163
+                    ],
+                    [
+                        "text",
+                        0.8923186621603028
+                    ],
+                    [
+                        "box",
+                        0.8923186621603028
+                    ],
+                    [
+                        "second",
+                        0.9084537754291395
+                    ],
+                    [
+                        "polarity",
+                        0.909266945094489
+                    ],
+                    [
+                        "message",
+                        0.9153047572068609
+                    ],
+                    [
+                        "textblock",
+                        0.9153047572068609
+                    ],
+                    [
+                        "module",
+                        0.9153047572068609
+                    ],
+                    [
+                        "stuff",
+                        0.9153047572068609
+                    ],
+                    [
+                        "hood",
+                        0.9153047572068609
+                    ],
+                    [
+                        "gutter",
+                        0.9173434003012026
+                    ],
+                    [
+                        "negative",
+                        0.9209252592450906
+                    ],
+                    [
+                        "menu",
+                        0.9214511854886114
+                    ],
+                    [
+                        "gap",
+                        0.9226899408248207
+                    ],
+                    [
+                        "web",
+                        0.926250195716041
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "debug",
+                        0.3085377589572384
+                    ],
+                    [
+                        "Flask",
+                        0.43185633536367907
+                    ],
+                    [
+                        "sentiment",
+                        0.4455657502282977
+                    ],
+                    [
+                        "cool",
+                        0.5559733802572703
+                    ],
+                    [
+                        "application",
+                        0.5582634962348048
+                    ],
+                    [
+                        "configuration",
+                        0.5737526515980846
+                    ],
+                    [
+                        "line",
+                        0.5769162759500864
+                    ],
+                    [
+                        "Python",
+                        0.7038337257892264
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1350": {
+            "id": "7EXd4_ttIuw-1350",
+            "heat": 0.313,
+            "start": 1350.0,
+            "text": " The next step for debugging a web app is entering the path to my start-up file. Remember I said that this start-up file is contained inside of a folder called Startup, so what I actually want to do is I want to tweak this path a little bit to actually point to my start-up file that is creating my flask gap which is startup/app.py. Once I hit \"Enter\" it's going to start debugging for me and notice that this toolbar down here changes to orange to denote that I'm in debugging mode. Another cool thing is that debug icon here becomes highlighted in white, so you can see that I'm also debugging as well. >> I guess it did. >> It did, yeah. >> Okay. >> I've never noticed that. >> Yeah. It's a pretty cool nifty thing. >> But at the same time, do you remember, I never tend to notice these things back, you remember the big controversy over in Visual Studio the menu choices at the top are all caps and it was a big controversy. >> That actually predates my time in Microsoft. >> Anyway, I discovered that because there was a controversy. >> No, yeah. >> Enough about me, let's get back to the app. >> Yeah. So to debug a web app, another thing that people getting started with web apps may not know is that in order to hit that break point that I've sent on line 15, I actually need to navigate to the URL that it's giving me here. >> Okay. >> So it tells me that it's running on this URL, and what's really cool is that inside VS code",
+            "metrics": {
+                "relativeDCReadability": 1.03448285834407,
+                "lexicalDiversity": 0.5161290322580645,
+                "posComposition": {
+                    "DT": 0.086,
+                    "JJ": 0.068,
+                    "NN": 0.122,
+                    "IN": 0.118,
+                    "VBG": 0.036,
+                    "VBZ": 0.057,
+                    "TO": 0.05,
+                    "PRP$": 0.014,
+                    "NNP": 0.05,
+                    "PRP": 0.097,
+                    "VBD": 0.022,
+                    "VBN": 0.022,
+                    "WP": 0.007,
+                    "RB": 0.075,
+                    "VBP": 0.043,
+                    "VB": 0.065,
+                    "WDT": 0.011,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "CC": 0.014,
+                    "NNS": 0.018,
+                    "MD": 0.007,
+                    "EX": 0.004,
+                    "POS": 0.004,
+                    "CD": 0.004
+                },
+                "syllableRate": 3.225,
+                "topicScores": [
+                    [
+                        "debug",
+                        0.30786565356554796
+                    ],
+                    [
+                        "file",
+                        0.36512733943571646
+                    ],
+                    [
+                        "thing",
+                        0.3729469171896416
+                    ],
+                    [
+                        "app",
+                        0.38014324108031267
+                    ],
+                    [
+                        "url",
+                        0.430674450867415
+                    ],
+                    [
+                        "web",
+                        0.44121265576485486
+                    ],
+                    [
+                        "controversy",
+                        0.4415976632124881
+                    ],
+                    [
+                        "cool",
+                        0.44608236320787786
+                    ],
+                    [
+                        "Startup",
+                        0.4858109223488916
+                    ],
+                    [
+                        "path",
+                        0.5308441805867986
+                    ],
+                    [
+                        "big",
+                        0.5759285795636997
+                    ],
+                    [
+                        "time",
+                        0.5771676942252114
+                    ],
+                    [
+                        "point",
+                        0.5780267179813113
+                    ],
+                    [
+                        "Microsoft",
+                        0.6708168427637292
+                    ],
+                    [
+                        "Visual",
+                        0.6907420835567357
+                    ],
+                    [
+                        "Studio",
+                        0.6907420835567357
+                    ],
+                    [
+                        "VS",
+                        0.7064013928080383
+                    ],
+                    [
+                        "step",
+                        0.8332852922159281
+                    ],
+                    [
+                        "app.py",
+                        0.8749919983293498
+                    ],
+                    [
+                        "folder",
+                        0.8826626180261087
+                    ],
+                    [
+                        "mode",
+                        0.8943461657612894
+                    ],
+                    [
+                        "little",
+                        0.9014019490366387
+                    ],
+                    [
+                        "bit",
+                        0.9014019490366387
+                    ],
+                    [
+                        "flask",
+                        0.9014019490366387
+                    ],
+                    [
+                        "gap",
+                        0.9014019490366387
+                    ],
+                    [
+                        "toolbar",
+                        0.9115577393586108
+                    ],
+                    [
+                        "change",
+                        0.9115577393586108
+                    ],
+                    [
+                        "Visual Studio",
+                        0.912501620305654
+                    ],
+                    [
+                        "white",
+                        0.913143762277654
+                    ],
+                    [
+                        "icon",
+                        0.9180495383749167
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "debug",
+                        0.30786565356554796
+                    ],
+                    [
+                        "thing",
+                        0.3729469171896416
+                    ],
+                    [
+                        "cool",
+                        0.44608236320787786
+                    ],
+                    [
+                        "folder",
+                        0.8826626180261087
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1440": {
+            "id": "7EXd4_ttIuw-1440",
+            "heat": 0.363,
+            "start": 1440.0,
+            "text": " in order to get to that URL, I can either copy and paste it into my browser of choice, or I can just control click, which I'm going to do. >> Oh, look at that. >> You can see it says \"Python loves VS toolbox\". Notice that because I've set this break point inside of the app.py that defines that message, I actually, in order to hit that break point, I need to send a message to this API. So let's do it. What's the phrase that you love or maybe want to know the sentiment of, I don't know. >> Let's say \"Champion\". >> \"Champion\", let's see what the sentiment of champion is. So notice that I have this wheel spinning here. >> Because we are in the middle of the World Series and either today or tomorrow there will be a champion grounds. >> Oh, wow. Well let's see what the sentiment is. So you can tell that VS Code, the icon here is blinking orange, which means that it did something magical. What it's done is it's hit this break point inside of our API. Let's explore the debug menu for a minutes. So notice that it got our message \"Champion\". This is our locals variable window. I can also have my watch window, I have my call stack, all of this good stuff, and I can also step through lines. So to step over, I could actually use the debug toolbar there or I can just \"F10\",",
+            "metrics": {
+                "relativeDCReadability": 0.910478485855165,
+                "lexicalDiversity": 0.5037593984962406,
+                "posComposition": {
+                    "IN": 0.094,
+                    "NN": 0.162,
+                    "TO": 0.03,
+                    "VB": 0.083,
+                    "DT": 0.094,
+                    "NNP": 0.075,
+                    "PRP": 0.09,
+                    "MD": 0.034,
+                    "CC": 0.03,
+                    "PRP$": 0.023,
+                    "RB": 0.056,
+                    "WDT": 0.011,
+                    "VBP": 0.034,
+                    "VBG": 0.011,
+                    "VBZ": 0.049,
+                    "``": 0.019,
+                    "''": 0.019,
+                    "VBN": 0.011,
+                    "POS": 0.019,
+                    "WP": 0.015,
+                    "JJ": 0.015,
+                    "EX": 0.008,
+                    "VBD": 0.008,
+                    "NNS": 0.011
+                },
+                "syllableRate": 2.917,
+                "topicScores": [
+                    [
+                        "Champion",
+                        0.28439796506468745
+                    ],
+                    [
+                        "API",
+                        0.38952085360910843
+                    ],
+                    [
+                        "VS",
+                        0.4136250659547676
+                    ],
+                    [
+                        "URL",
+                        0.4181439764814179
+                    ],
+                    [
+                        "break",
+                        0.43323068621386596
+                    ],
+                    [
+                        "point",
+                        0.4336541552191833
+                    ],
+                    [
+                        "sentiment",
+                        0.43413760244627725
+                    ],
+                    [
+                        "message",
+                        0.4557581018057089
+                    ],
+                    [
+                        "order",
+                        0.5289667957490903
+                    ],
+                    [
+                        "window",
+                        0.577034434967428
+                    ],
+                    [
+                        "debug",
+                        0.5819399411564714
+                    ],
+                    [
+                        "Python",
+                        0.6169558332340932
+                    ],
+                    [
+                        "F10",
+                        0.6724130816699488
+                    ],
+                    [
+                        "World",
+                        0.6943480424707728
+                    ],
+                    [
+                        "Series",
+                        0.6943480424707728
+                    ],
+                    [
+                        "Code",
+                        0.6954834710805186
+                    ],
+                    [
+                        "choice",
+                        0.8239342065263591
+                    ],
+                    [
+                        "browser",
+                        0.8359437757913779
+                    ],
+                    [
+                        "VS Code",
+                        0.8380501585762992
+                    ],
+                    [
+                        "toolbox",
+                        0.8973696090286526
+                    ],
+                    [
+                        "ground",
+                        0.9215238676930633
+                    ],
+                    [
+                        "app.py",
+                        0.9239811615132801
+                    ],
+                    [
+                        "magical",
+                        0.925364294291085
+                    ],
+                    [
+                        "minute",
+                        0.9268134302430829
+                    ],
+                    [
+                        "line",
+                        0.9286069686714276
+                    ],
+                    [
+                        "phrase",
+                        0.9299836745729557
+                    ],
+                    [
+                        "World Series",
+                        0.9309462870298383
+                    ],
+                    [
+                        "spinning",
+                        0.9314336392413025
+                    ],
+                    [
+                        "wheel",
+                        0.9366741668897309
+                    ],
+                    [
+                        "icon",
+                        0.936997843604609
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "sentiment",
+                        0.43413760244627725
+                    ],
+                    [
+                        "debug",
+                        0.5819399411564714
+                    ],
+                    [
+                        "Python",
+                        0.6169558332340932
+                    ],
+                    [
+                        "VS Code",
+                        0.8380501585762992
+                    ],
+                    [
+                        "line",
+                        0.9286069686714276
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1530": {
+            "id": "7EXd4_ttIuw-1530",
+            "heat": 0.386,
+            "start": 1530.0,
+            "text": " so I'm just going to use the [inaudible] there. You notice that as I step, it's said \"okay\" remember we say that we determined all sentiments to be positive at first, and then we run them through this if statement. So I'm just going to step over again. In order to continue, I can either hit the arrow here to continue and run it all the way through, or I can just hit \"F5\". So I'm going to hit \"Continue\" again. If I navigate back to my API, I see that the word \"Champion\" is positive. >> Nice. Yeah, pretty cool. >> All right, let's do another test. >> Let's do another test. >> Yes. Let's test a new message. >> Okay, let's test a new message. This time, I'm going to rerun this, but I'm going to try and rerun it a different way, I'm still using the debugger but a slightly different way. So this time, to run this application with the break point set on line 15, I'm going to use my debug icon that I mentioned earlier. Here's what's really cool about this is that the debug icon gives me access to the configuration menu that I saw before. So if I click this \"drop-down\" and select \"Add configuration\", what it's going to do and then I have to hit the green \"play\" button, start debugging, it's going to send me into that same debug configuration menu. >> Okay. >> You may be wondering, \"Oh Tyrique, why do I have to type this again?\", and it's because our configuration last time wasn't saved, and so by going through these steps we're going through now, we're saving that configuration and I'll prove that to you in a second. So I'm going to navigate to Flask again,",
+            "metrics": {
+                "relativeDCReadability": 0.9695810090378104,
+                "lexicalDiversity": 0.5151515151515151,
+                "posComposition": {
+                    "RB": 0.064,
+                    "PRP": 0.109,
+                    "VBP": 0.061,
+                    "VBG": 0.045,
+                    "TO": 0.058,
+                    "VB": 0.082,
+                    "DT": 0.085,
+                    "JJ": 0.048,
+                    "EX": 0.003,
+                    "IN": 0.091,
+                    "VBZ": 0.027,
+                    "VBD": 0.015,
+                    "``": 0.027,
+                    "NN": 0.112,
+                    "''": 0.021,
+                    "NNS": 0.006,
+                    "CC": 0.036,
+                    "RP": 0.003,
+                    "MD": 0.012,
+                    "PDT": 0.003,
+                    "NNP": 0.048,
+                    "PRP$": 0.009,
+                    "POS": 0.012,
+                    "VBN": 0.006,
+                    "CD": 0.003,
+                    "RBR": 0.003,
+                    "WP": 0.006,
+                    "WRB": 0.003
+                },
+                "syllableRate": 3.742,
+                "topicScores": [
+                    [
+                        "configuration",
+                        0.3547698094402535
+                    ],
+                    [
+                        "test",
+                        0.36474562441252945
+                    ],
+                    [
+                        "debug",
+                        0.3924150620791365
+                    ],
+                    [
+                        "way",
+                        0.4504376746464843
+                    ],
+                    [
+                        "time",
+                        0.4537422422702406
+                    ],
+                    [
+                        "step",
+                        0.45494243118509375
+                    ],
+                    [
+                        "positive",
+                        0.5447249290848607
+                    ],
+                    [
+                        "message",
+                        0.5519699188719333
+                    ],
+                    [
+                        "F5",
+                        0.5595245393175087
+                    ],
+                    [
+                        "new",
+                        0.5620038313677028
+                    ],
+                    [
+                        "different",
+                        0.5750101493672224
+                    ],
+                    [
+                        "cool",
+                        0.5758866517206637
+                    ],
+                    [
+                        "menu",
+                        0.5779375577856669
+                    ],
+                    [
+                        "icon",
+                        0.5790591260335953
+                    ],
+                    [
+                        "Champion",
+                        0.6169300099843502
+                    ],
+                    [
+                        "API",
+                        0.6270273352061352
+                    ],
+                    [
+                        "Tyrique",
+                        0.6971281128343197
+                    ],
+                    [
+                        "Flask",
+                        0.7074965306527027
+                    ],
+                    [
+                        "inaudible",
+                        0.8280305273497165
+                    ],
+                    [
+                        "statement",
+                        0.8701278006538711
+                    ],
+                    [
+                        "sentiment",
+                        0.8936659585614521
+                    ],
+                    [
+                        "Nice",
+                        0.899863724003081
+                    ],
+                    [
+                        "order",
+                        0.9145832802055822
+                    ],
+                    [
+                        "arrow",
+                        0.9200967246266483
+                    ],
+                    [
+                        "word",
+                        0.9252954467060026
+                    ],
+                    [
+                        "second",
+                        0.9381832768750092
+                    ],
+                    [
+                        "play",
+                        0.940898693087898
+                    ],
+                    [
+                        "button",
+                        0.940898693087898
+                    ],
+                    [
+                        "line",
+                        0.9439941956206996
+                    ],
+                    [
+                        "green",
+                        0.9449589955785744
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "configuration",
+                        0.3547698094402535
+                    ],
+                    [
+                        "debug",
+                        0.3924150620791365
+                    ],
+                    [
+                        "way",
+                        0.4504376746464843
+                    ],
+                    [
+                        "cool",
+                        0.5758866517206637
+                    ],
+                    [
+                        "Tyrique",
+                        0.6971281128343197
+                    ],
+                    [
+                        "Flask",
+                        0.7074965306527027
+                    ],
+                    [
+                        "sentiment",
+                        0.8936659585614521
+                    ],
+                    [
+                        "line",
+                        0.9439941956206996
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1620": {
+            "id": "7EXd4_ttIuw-1620",
+            "heat": 0.324,
+            "start": 1620.0,
+            "text": " put that path, and notice that it creates this file called \"launched.json\". We find that this launch file is very scary or intimidating for people who are first starting out with VS code, but fear not, it's simply an array. It's a JSON format, an array with a list of different configurations. But notice that. >> Everything's saved. >> It saves, right, and my startup path is saved. I have some different arguments here which are on by default, and to show you where it gets saved, if you navigate back to your file explorer by using the explorer button here, the dot VS code folder, if there wasn't one created before, it'll be created for you and you'll have that logic configuration saved. This is an important because, again, you don't have to go through the startup steps again to save it. So let's go back to my debugger, and you notice, see it says \"this time\" instead of \"AD configuration\" or \"no configuration\" like it said before, I get Python flask. Another important thing to realize about debugging is that, notice that I'm currently inside of the \"launch.json\" file. If I start the debugger here it will actually throw an error because it thinks I'm trying to debug this JSON. So in order to avoid that, I need to go back actually to the file that I'm trying to debug. So we're going to hit our green \"play\" button.",
+            "metrics": {
+                "relativeDCReadability": 0.9894385630070338,
+                "lexicalDiversity": 0.5171102661596958,
+                "posComposition": {
+                    "NN": 0.152,
+                    "DT": 0.084,
+                    "CC": 0.034,
+                    "IN": 0.11,
+                    "PRP": 0.099,
+                    "VBZ": 0.042,
+                    "VBN": 0.019,
+                    "``": 0.023,
+                    "''": 0.023,
+                    "VBP": 0.057,
+                    "RB": 0.068,
+                    "JJ": 0.038,
+                    "VBG": 0.023,
+                    "NNS": 0.015,
+                    "WP": 0.004,
+                    "RP": 0.004,
+                    "NNP": 0.034,
+                    "POS": 0.008,
+                    "VBD": 0.015,
+                    "PRP$": 0.015,
+                    "WDT": 0.004,
+                    "TO": 0.046,
+                    "VB": 0.061,
+                    "WRB": 0.004,
+                    "EX": 0.004,
+                    "CD": 0.004,
+                    "MD": 0.011
+                },
+                "syllableRate": 3.067,
+                "topicScores": [
+                    [
+                        "file",
+                        0.33824074351700256
+                    ],
+                    [
+                        "configuration",
+                        0.3765985839513047
+                    ],
+                    [
+                        "VS",
+                        0.382201348373312
+                    ],
+                    [
+                        "array",
+                        0.5240502686334566
+                    ],
+                    [
+                        "code",
+                        0.5492139407309015
+                    ],
+                    [
+                        "path",
+                        0.5577248253381121
+                    ],
+                    [
+                        "button",
+                        0.5594014023551998
+                    ],
+                    [
+                        "different",
+                        0.5626262390639702
+                    ],
+                    [
+                        "important",
+                        0.5671890938785037
+                    ],
+                    [
+                        "debugger",
+                        0.572126982324723
+                    ],
+                    [
+                        "startup",
+                        0.5722665712802923
+                    ],
+                    [
+                        "explorer",
+                        0.5786780344957417
+                    ],
+                    [
+                        "json",
+                        0.5922706792247785
+                    ],
+                    [
+                        "ad",
+                        0.6599732206007338
+                    ],
+                    [
+                        "Python",
+                        0.6715794206682958
+                    ],
+                    [
+                        "VS code",
+                        0.7038542717815404
+                    ],
+                    [
+                        "launch",
+                        0.8917588036019384
+                    ],
+                    [
+                        "scary",
+                        0.8917588036019384
+                    ],
+                    [
+                        "people",
+                        0.8917588036019384
+                    ],
+                    [
+                        "format",
+                        0.8950710525244259
+                    ],
+                    [
+                        "list",
+                        0.9028007518921015
+                    ],
+                    [
+                        "flask",
+                        0.9091791375593425
+                    ],
+                    [
+                        "time",
+                        0.9165747922375708
+                    ],
+                    [
+                        "launch.json",
+                        0.9180251585354123
+                    ],
+                    [
+                        "default",
+                        0.9197926755354935
+                    ],
+                    [
+                        "dot",
+                        0.9197926755354935
+                    ],
+                    [
+                        "folder",
+                        0.9197926755354935
+                    ],
+                    [
+                        "play",
+                        0.921472001693799
+                    ],
+                    [
+                        "argument",
+                        0.9258520949995898
+                    ],
+                    [
+                        "logic",
+                        0.9258520949995898
+                    ]
+                ],
+                "topTopicSimilarity": 0.1,
+                "sharedTopicScores": [
+                    [
+                        "configuration",
+                        0.3765985839513047
+                    ],
+                    [
+                        "Python",
+                        0.6715794206682958
+                    ],
+                    [
+                        "folder",
+                        0.9197926755354935
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1710": {
+            "id": "7EXd4_ttIuw-1710",
+            "heat": 0.5,
+            "start": 1710.0,
+            "text": " Again, I need to navigate to. So let's try another word. >> All right. So this is a test of the sentiment. So I'm from Boston. >> Okay. >> In Boston when we like something like this, we'd say \"It's wicked cool\". >> \"Wicked cool\". >> Now \"Wicked\" has the sentiment of negative but \"Cool\" has the sentiment of positive. So let's see what happens. >> Let's see how it's Text bot handles it. So \"Wicked cool\". Okay. Notice again, it's flashing orange, it means it hit the break point, and it's verified that it hits the break point by the yellow line here. What's also really cool is that all of the information you're getting in the variables one here, you can actually hover over variables here. >> Yeah. >> You get the tool tips which it's not playing nice, there we go, it was shy at first, but here we go. You can see all the different properties. Again, to continue, I'm going to press \"F5\". I'm going to navigate back to this. >> Excellent. >> It says \"Wicked cool is positive\". >> All right. Yes. >> It's pretty cool. >> Very good. >> Yes, it's very awesome. Again, to recap that, if you start debugging from the toolbar here, you don't get that configuration saved. So in actually to get that saved, to make you more productive than next time, you want to use the debug icon and then an add a configuration. >> Cool. >> Which is really really cool stuff. So let's recap a little bit of what we",
+            "metrics": {
+                "relativeDCReadability": 0.9719797245612032,
+                "lexicalDiversity": 0.5464285714285714,
+                "posComposition": {
+                    "NN": 0.114,
+                    "PRP": 0.107,
+                    "VBP": 0.05,
+                    "TO": 0.036,
+                    "VB": 0.057,
+                    "NNP": 0.064,
+                    "POS": 0.014,
+                    "DT": 0.082,
+                    "RB": 0.089,
+                    "VBZ": 0.068,
+                    "IN": 0.075,
+                    "WRB": 0.007,
+                    "MD": 0.011,
+                    "``": 0.025,
+                    "JJ": 0.071,
+                    "''": 0.025,
+                    "VBD": 0.021,
+                    "CC": 0.014,
+                    "WP": 0.011,
+                    "VBG": 0.018,
+                    "VBN": 0.007,
+                    "NNS": 0.014,
+                    "CD": 0.004,
+                    "WDT": 0.004,
+                    "EX": 0.004,
+                    "PDT": 0.004,
+                    "RBR": 0.004
+                },
+                "syllableRate": 3.125,
+                "topicScores": [
+                    [
+                        "cool",
+                        0.284290313324943
+                    ],
+                    [
+                        "Wicked",
+                        0.29422485860818387
+                    ],
+                    [
+                        "Boston",
+                        0.3780561081935489
+                    ],
+                    [
+                        "sentiment",
+                        0.44307223005682617
+                    ],
+                    [
+                        "positive",
+                        0.5777672603023067
+                    ],
+                    [
+                        "break",
+                        0.5809139718444509
+                    ],
+                    [
+                        "point",
+                        0.5846960595350162
+                    ],
+                    [
+                        "variable",
+                        0.5878395348489488
+                    ],
+                    [
+                        "configuration",
+                        0.589082200454306
+                    ],
+                    [
+                        "debug",
+                        0.5942739119885758
+                    ],
+                    [
+                        "Wicked cool",
+                        0.6356710544483025
+                    ],
+                    [
+                        "F5",
+                        0.6797075511362305
+                    ],
+                    [
+                        "Text",
+                        0.6859422350096582
+                    ],
+                    [
+                        "word",
+                        0.893541465171485
+                    ],
+                    [
+                        "test",
+                        0.9364435132246249
+                    ],
+                    [
+                        "excellent",
+                        0.9418530723632909
+                    ],
+                    [
+                        "notice",
+                        0.9441660775933439
+                    ],
+                    [
+                        "negative",
+                        0.9485629052786988
+                    ],
+                    [
+                        "property",
+                        0.9496983091414155
+                    ],
+                    [
+                        "good",
+                        0.9502586316916233
+                    ],
+                    [
+                        "orange",
+                        0.9524400091595021
+                    ],
+                    [
+                        "line",
+                        0.9524400091595021
+                    ],
+                    [
+                        "bot",
+                        0.9532306917074754
+                    ],
+                    [
+                        "awesome",
+                        0.9532784249443909
+                    ],
+                    [
+                        "stuff",
+                        0.954188215069026
+                    ],
+                    [
+                        "nice",
+                        0.9544285502800343
+                    ],
+                    [
+                        "different",
+                        0.9547499360242474
+                    ],
+                    [
+                        "yellow",
+                        0.9547985727697228
+                    ],
+                    [
+                        "information",
+                        0.9552365376681365
+                    ],
+                    [
+                        "tool",
+                        0.9566929834271096
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "cool",
+                        0.284290313324943
+                    ],
+                    [
+                        "sentiment",
+                        0.44307223005682617
+                    ],
+                    [
+                        "configuration",
+                        0.589082200454306
+                    ],
+                    [
+                        "debug",
+                        0.5942739119885758
+                    ],
+                    [
+                        "notice",
+                        0.9441660775933439
+                    ],
+                    [
+                        "line",
+                        0.9524400091595021
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1800": {
+            "id": "7EXd4_ttIuw-1800",
+            "heat": 0.785,
+            "start": 1800.0,
+            "text": " talked about because I know that we've covered a lot. So using virtual environments, which we talked about to help you manage packages for different applications. So creating new environments, depending on if you're a Mac or Linux user or a Windows user, the commands are there. >> Okay. >> You can then the command I use, that I didn't really touch on at the time but now I'm going to as the pip install - r. requirements.txt, that's if your file or if your project has one of those, you can create a virtual environment first and then you can install the requirements that are there. You can also install individual module names if you want to. >> Okay. >> Getting started with debugging. Of course there are multiple ways you can do this, but the way that I recommend, in the way that I like to do it, is actually using the bug icon which takes me to the debug configuration menu I can click that \"Drop-down\", hit \"App configuration\", I can choose my configuration of what I want to debug. >> The second time you have to retype all of the actions because you didn't save it, you're going to hit straight to here. >> Right, exactly. Put the path to that web application, and that \"launch.json\" gets created, and then remember, you don't want to debug the \"launch.json\" file, you actually want to go back to the Python file that you are interested in and then hit the green run button. >> Okay. >> Pretty cool stuff and that's about all I have for you guys today. >> All right. >> Just talking about that getting started experience. >> Cool. So for more information, people can go to aka.ms /VST /pythonvscode.",
+            "metrics": {
+                "relativeDCReadability": 1.043989432534905,
+                "lexicalDiversity": 0.48333333333333334,
+                "posComposition": {
+                    "VBN": 0.013,
+                    "IN": 0.11,
+                    "PRP": 0.1,
+                    "VBP": 0.067,
+                    "DT": 0.09,
+                    "NN": 0.12,
+                    "VBG": 0.027,
+                    "JJ": 0.043,
+                    "NNS": 0.033,
+                    "WDT": 0.01,
+                    "VBD": 0.023,
+                    "TO": 0.047,
+                    "VB": 0.067,
+                    "RB": 0.07,
+                    "NNP": 0.05,
+                    "CC": 0.033,
+                    "MD": 0.027,
+                    "VBZ": 0.02,
+                    "PRP$": 0.01,
+                    "CD": 0.003,
+                    "EX": 0.003,
+                    "``": 0.013,
+                    "''": 0.013,
+                    "WP": 0.003,
+                    "JJR": 0.003
+                },
+                "syllableRate": 3.558,
+                "topicScores": [
+                    [
+                        "environment",
+                        0.43429683775124917
+                    ],
+                    [
+                        "debug",
+                        0.44123054628710645
+                    ],
+                    [
+                        "install",
+                        0.4484454317840668
+                    ],
+                    [
+                        "way",
+                        0.4510683437570373
+                    ],
+                    [
+                        "file",
+                        0.4518185284522275
+                    ],
+                    [
+                        "configuration",
+                        0.45460243277676465
+                    ],
+                    [
+                        "virtual",
+                        0.5575867787403985
+                    ],
+                    [
+                        "command",
+                        0.5575867787403985
+                    ],
+                    [
+                        "user",
+                        0.5596582162411712
+                    ],
+                    [
+                        "time",
+                        0.566893566225298
+                    ],
+                    [
+                        "application",
+                        0.5675952882980755
+                    ],
+                    [
+                        "launch.json",
+                        0.5746766783529091
+                    ],
+                    [
+                        "Windows",
+                        0.5892219991869413
+                    ],
+                    [
+                        "Mac",
+                        0.5992594582117597
+                    ],
+                    [
+                        "Linux",
+                        0.5992594582117597
+                    ],
+                    [
+                        "App",
+                        0.6706413393642758
+                    ],
+                    [
+                        "Python",
+                        0.7018490567515776
+                    ],
+                    [
+                        "lot",
+                        0.8592947259658219
+                    ],
+                    [
+                        "different",
+                        0.8964489601924166
+                    ],
+                    [
+                        "package",
+                        0.9030087975608543
+                    ],
+                    [
+                        "new",
+                        0.9070623179219035
+                    ],
+                    [
+                        "Cool",
+                        0.9169532692678088
+                    ],
+                    [
+                        "/pythonvscode",
+                        0.917731202563865
+                    ],
+                    [
+                        "r.",
+                        0.9220405523874583
+                    ],
+                    [
+                        "requirements.txt",
+                        0.9220405523874583
+                    ],
+                    [
+                        "debugging",
+                        0.9243233081505742
+                    ],
+                    [
+                        "pip",
+                        0.9272963136279656
+                    ],
+                    [
+                        "button",
+                        0.9294386269412573
+                    ],
+                    [
+                        "stuff",
+                        0.9316744078583287
+                    ],
+                    [
+                        "project",
+                        0.9320501292086224
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "environment",
+                        0.43429683775124917
+                    ],
+                    [
+                        "debug",
+                        0.44123054628710645
+                    ],
+                    [
+                        "install",
+                        0.4484454317840668
+                    ],
+                    [
+                        "way",
+                        0.4510683437570373
+                    ],
+                    [
+                        "configuration",
+                        0.45460243277676465
+                    ],
+                    [
+                        "virtual",
+                        0.5575867787403985
+                    ],
+                    [
+                        "application",
+                        0.5675952882980755
+                    ],
+                    [
+                        "Windows",
+                        0.5892219991869413
+                    ],
+                    [
+                        "Python",
+                        0.7018490567515776
+                    ]
+                ]
+            }
+        },
+        "7EXd4_ttIuw-1890": {
+            "id": "7EXd4_ttIuw-1890",
+            "heat": 1.0,
+            "start": 1890.0,
+            "text": " >> Yeah. >> There's a Getting Started tutorial there. More information on Python within Visual Studio Code. Where is a good place for people to go to learn Python in general? >> There's a lot of documentation online, our getting started tutorial, we'll teach you links out to other things, other material that is useful, but yes, for example, if you want to learn about Flask, the Flask documentation that they have is excellent. >> Okay. >> If you ever have any questions about getting started though and you want to interact directly with the team, our Twitter handle is at Python VS code. >> Okay. >> All one word, and we are always interacting with users trying to understand what experiences work best and which don't. >> Fantastic. >> Yeah. Awesome. Thanks for having me. >> Thanks for coming on. Those are great introduction to not only Visual Studio code for folks that haven't been playing around with it a lot but also how you get started using Python and it's awesome. >> Perfect. Yes. >> Thanks. >> Awesome. Thank you. >> Hope you guys enjoyed that and we will see you next time on Visual Studio Toolbox. [MUSIC]",
+            "metrics": {
+                "relativeDCReadability": 1.0990758550298199,
+                "lexicalDiversity": 0.5416666666666666,
+                "posComposition": {
+                    "PRP$": 0.016,
+                    "EX": 0.01,
+                    "VBZ": 0.047,
+                    "DT": 0.042,
+                    "NNP": 0.161,
+                    "NN": 0.089,
+                    "RB": 0.047,
+                    "JJR": 0.005,
+                    "IN": 0.125,
+                    "JJ": 0.062,
+                    "NNS": 0.031,
+                    "TO": 0.036,
+                    "VB": 0.036,
+                    "VBG": 0.042,
+                    "VBN": 0.021,
+                    "PRP": 0.078,
+                    "MD": 0.01,
+                    "RP": 0.005,
+                    "WDT": 0.016,
+                    "CC": 0.036,
+                    "VBP": 0.057,
+                    "VBD": 0.005,
+                    "CD": 0.005,
+                    "WP": 0.005,
+                    "JJS": 0.005,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.45,
+                "topicScores": [
+                    [
+                        "Python",
+                        0.269714897009977
+                    ],
+                    [
+                        "Studio",
+                        0.3142692378810659
+                    ],
+                    [
+                        "Visual",
+                        0.32089157262722556
+                    ],
+                    [
+                        "Visual Studio",
+                        0.3380619580985564
+                    ],
+                    [
+                        "thank",
+                        0.35615360292874004
+                    ],
+                    [
+                        "Flask",
+                        0.3834327976830029
+                    ],
+                    [
+                        "Awesome",
+                        0.5410134227248478
+                    ],
+                    [
+                        "tutorial",
+                        0.5537866805127784
+                    ],
+                    [
+                        "documentation",
+                        0.5719337680755668
+                    ],
+                    [
+                        "code",
+                        0.5754222710867598
+                    ],
+                    [
+                        "lot",
+                        0.5754920444374583
+                    ],
+                    [
+                        "Studio Code",
+                        0.5815814162098739
+                    ],
+                    [
+                        "Getting",
+                        0.590350669659471
+                    ],
+                    [
+                        "Fantastic",
+                        0.6511129636746347
+                    ],
+                    [
+                        "Twitter",
+                        0.6622847406915189
+                    ],
+                    [
+                        "VS",
+                        0.6622847406915189
+                    ],
+                    [
+                        "music",
+                        0.6672223324472686
+                    ],
+                    [
+                        "Toolbox",
+                        0.6917280000954537
+                    ],
+                    [
+                        "Python VS",
+                        0.7087051199930581
+                    ],
+                    [
+                        "Visual Studio Code",
+                        0.7252135016982637
+                    ],
+                    [
+                        "Studio Toolbox",
+                        0.7692152879036904
+                    ],
+                    [
+                        "general",
+                        0.9119447411341861
+                    ],
+                    [
+                        "information",
+                        0.9168533461170755
+                    ],
+                    [
+                        "excellent",
+                        0.9188141526447997
+                    ],
+                    [
+                        "example",
+                        0.9234265133177485
+                    ],
+                    [
+                        "Perfect",
+                        0.9235205433857692
+                    ],
+                    [
+                        "good",
+                        0.925694650305776
+                    ],
+                    [
+                        "place",
+                        0.925694650305776
+                    ],
+                    [
+                        "people",
+                        0.925694650305776
+                    ],
+                    [
+                        "thing",
+                        0.9276664144832907
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Python",
+                        0.269714897009977
+                    ],
+                    [
+                        "Flask",
+                        0.3834327976830029
+                    ],
+                    [
+                        "Python VS",
+                        0.7087051199930581
+                    ],
+                    [
+                        "Visual Studio Code",
+                        0.7252135016982637
+                    ],
+                    [
+                        "thing",
+                        0.9276664144832907
+                    ]
+                ]
+            }
+        }
+    }
+}

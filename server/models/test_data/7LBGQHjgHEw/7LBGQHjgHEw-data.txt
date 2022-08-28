@@ -1,0 +1,2717 @@
+{
+    "metadata": {
+        "id": "7LBGQHjgHEw",
+        "avgHeat": 0.0,
+        "runtime": 1125.94,
+        "dale-challReadabilityScore": 8.625318989071038,
+        "lexicalDiversity": 0.5412087912087912,
+        "posComposition": {
+            "NNP": 0.036,
+            "NN": 0.205,
+            "JJ": 0.089,
+            "IN": 0.126,
+            "DT": 0.123,
+            "POS": 0.001,
+            "VBZ": 0.035,
+            "VBN": 0.018,
+            "VBG": 0.028,
+            "NNS": 0.034,
+            "TO": 0.034,
+            "VB": 0.064,
+            "RB": 0.051,
+            "CC": 0.035,
+            "CD": 0.016,
+            "MD": 0.02,
+            "VBP": 0.018,
+            "RP": 0.005,
+            "PRP": 0.035,
+            "PRP$": 0.013,
+            "PDT": 0.001,
+            "EX": 0.001,
+            "WRB": 0.003,
+            "WDT": 0.004,
+            "VBD": 0.004,
+            "JJS": 0.001
+        },
+        "syllableRate": 2.56,
+        "topicScores": [
+            [
+                "solvent",
+                0.12866262363820247
+            ],
+            [
+                "crystal",
+                0.1703417556910843
+            ],
+            [
+                "solution",
+                0.1750782370805188
+            ],
+            [
+                "hot",
+                0.1826752060138688
+            ],
+            [
+                "recrystallization",
+                0.18985548408722713
+            ],
+            [
+                "ALARM BLARING",
+                0.19185487740235166
+            ],
+            [
+                "water",
+                0.19986632655112221
+            ],
+            [
+                "PROFESSOR",
+                0.20801160173381505
+            ],
+            [
+                "dissolve",
+                0.21145757581485503
+            ],
+            [
+                "music playing",
+                0.21303914104046126
+            ],
+            [
+                "sample",
+                0.21591851824320496
+            ],
+            [
+                "flask",
+                0.21614493673266533
+            ],
+            [
+                "filtration",
+                0.2276443334589981
+            ],
+            [
+                "MAN",
+                0.241982129424239
+            ],
+            [
+                "boiling",
+                0.24615055322095372
+            ],
+            [
+                "room",
+                0.24665811685666394
+            ],
+            [
+                "point",
+                0.246807456748902
+            ],
+            [
+                "temperature",
+                0.2472297496258331
+            ],
+            [
+                "naphthalene",
+                0.2476676101646519
+            ],
+            [
+                "compound",
+                0.2494761971027465
+            ],
+            [
+                "small",
+                0.2617647101084914
+            ],
+            [
+                "solubility",
+                0.26497758611983613
+            ],
+            [
+                "filter",
+                0.26762799571987417
+            ],
+            [
+                "bath",
+                0.2836202809642789
+            ],
+            [
+                "insoluble",
+                0.28469333630957355
+            ],
+            [
+                "test",
+                0.28474814397495235
+            ],
+            [
+                "heat",
+                0.28807369021181806
+            ],
+            [
+                "charcoal",
+                0.28916822529962444
+            ],
+            [
+                "caution",
+                0.29314874109546074
+            ],
+            [
+                "ethanol",
+                0.30947322172506214
+            ]
+        ],
+        "topicsList": [
+            "solvent",
+            "crystal",
+            "solution",
+            "hot",
+            "recrystallization",
+            "ALARM BLARING",
+            "water",
+            "PROFESSOR",
+            "dissolve",
+            "music playing",
+            "sample",
+            "flask",
+            "filtration",
+            "MAN",
+            "boiling",
+            "room",
+            "point",
+            "temperature",
+            "naphthalene",
+            "compound",
+            "small",
+            "solubility",
+            "filter",
+            "bath",
+            "insoluble",
+            "test",
+            "heat",
+            "charcoal",
+            "caution",
+            "ethanol"
+        ]
+    },
+    "chunks": {
+        "7LBGQHjgHEw-0": {
+            "id": "7LBGQHjgHEw-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " [MUSIC PLAYING] PROFESSOR: Recrystallization. A large percentage of a chemist's time in the laboratory is spent purifying chemicals. Learning to use a variety of different purification techniques efficiently and effectively is key to becoming a successful experimentalist. Recrystallization is one powerful method for the purification of crystalline solids. This video will outline the purification of naphthalene by recrystallization. The technique of recrystallization involves five main steps. First, an appropriate solvent is determined. Recrystallizations can be carried out using either one or a mixture of two solvents, depending on the solubility of the sample. Next, the sample is dissolved in a minimal amount of the proper solvent. At this point, the solution can be decolorized and insoluble contaminants can be removed by performing a hot filtration.",
+            "metrics": {
+                "relativeDCReadability": 1.1721263085918026,
+                "lexicalDiversity": 0.5873015873015873,
+                "posComposition": {
+                    "NNP": 0.04,
+                    "NN": 0.214,
+                    "JJ": 0.095,
+                    "IN": 0.135,
+                    "DT": 0.143,
+                    "POS": 0.008,
+                    "VBZ": 0.048,
+                    "VBN": 0.04,
+                    "VBG": 0.048,
+                    "NNS": 0.056,
+                    "TO": 0.016,
+                    "VB": 0.04,
+                    "RB": 0.024,
+                    "CC": 0.032,
+                    "CD": 0.032,
+                    "MD": 0.032
+                },
+                "syllableRate": 2.125,
+                "topicScores": [
+                    [
+                        "music playing",
+                        0.1768127616453929
+                    ],
+                    [
+                        "recrystallization",
+                        0.3032063145963193
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.41141299065252557
+                    ],
+                    [
+                        "purification",
+                        0.43019703115179186
+                    ],
+                    [
+                        "solvent",
+                        0.4431221887274965
+                    ],
+                    [
+                        "sample",
+                        0.5369824298523147
+                    ],
+                    [
+                        "technique",
+                        0.5502802817319155
+                    ],
+                    [
+                        "chemical",
+                        0.7848928197228839
+                    ],
+                    [
+                        "experimentalist",
+                        0.8159913346287773
+                    ],
+                    [
+                        "large",
+                        0.8292912374289472
+                    ],
+                    [
+                        "solid",
+                        0.8333178070098666
+                    ],
+                    [
+                        "percentage",
+                        0.8467960047801584
+                    ],
+                    [
+                        "chemist",
+                        0.8467960047801584
+                    ],
+                    [
+                        "time",
+                        0.8467960047801584
+                    ],
+                    [
+                        "laboratory",
+                        0.8467960047801584
+                    ],
+                    [
+                        "step",
+                        0.8525787574267095
+                    ],
+                    [
+                        "successful",
+                        0.8551555001719043
+                    ],
+                    [
+                        "crystalline",
+                        0.8693845246579261
+                    ],
+                    [
+                        "variety",
+                        0.8704225051894902
+                    ],
+                    [
+                        "different",
+                        0.8704225051894902
+                    ],
+                    [
+                        "key",
+                        0.8704225051894902
+                    ],
+                    [
+                        "filtration",
+                        0.8704834311784346
+                    ],
+                    [
+                        "video",
+                        0.8785595004915432
+                    ],
+                    [
+                        "powerful",
+                        0.8833563222506727
+                    ],
+                    [
+                        "method",
+                        0.8833563222506727
+                    ],
+                    [
+                        "main",
+                        0.8850526758817909
+                    ],
+                    [
+                        "appropriate",
+                        0.889937848326249
+                    ],
+                    [
+                        "naphthalene",
+                        0.891672150697532
+                    ],
+                    [
+                        "proper",
+                        0.8968890817544423
+                    ],
+                    [
+                        "point",
+                        0.899478326320874
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "music playing",
+                        0.1768127616453929
+                    ],
+                    [
+                        "recrystallization",
+                        0.3032063145963193
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.41141299065252557
+                    ],
+                    [
+                        "solvent",
+                        0.4431221887274965
+                    ],
+                    [
+                        "sample",
+                        0.5369824298523147
+                    ],
+                    [
+                        "filtration",
+                        0.8704834311784346
+                    ],
+                    [
+                        "naphthalene",
+                        0.891672150697532
+                    ],
+                    [
+                        "point",
+                        0.899478326320874
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-90": {
+            "id": "7LBGQHjgHEw-90",
+            "heat": 0.0,
+            "start": 90.0,
+            "text": " The resulting solution is then cooled to induce crystallization. And finally, the purified crystals are collected by filtration, washed, and dried. This video will first outline the general procedure for carrying out a one solvent recrystallization of naphthalene followed by instructions for adapting the procedure to a two solvent recrystallization. Choosing an appropriate solvent for a recrystallization is a very important step. You won't get acceptable results if you don't pick carefully. It is helpful to have a variety of solvents at your disposal. If solubility data for your compounds has been published, this will help you to narrow the range of potential candidates. Once you have decided on a few prime contenders, you will perform solubility tests to find the ideal choice. You will need a hot water bath for the solubility tests as well as the recrystallization. [ALARM BLARING] MAN: Caution. Organic solvents are flammable. Never heat over an open flame. PROFESSOR: To set up a water bath, place a large crystallizing dish about half full with water on a hot plate. Add some boiling stones and turn on the heat. Don't turn it up all the way. Start halfway and adjust from there.",
+            "metrics": {
+                "relativeDCReadability": 0.927320058917932,
+                "lexicalDiversity": 0.542713567839196,
+                "posComposition": {
+                    "DT": 0.126,
+                    "JJ": 0.095,
+                    "NN": 0.176,
+                    "VBZ": 0.025,
+                    "RB": 0.05,
+                    "VBN": 0.04,
+                    "TO": 0.03,
+                    "VB": 0.065,
+                    "CC": 0.02,
+                    "NNS": 0.055,
+                    "VBP": 0.025,
+                    "IN": 0.111,
+                    "MD": 0.025,
+                    "VBG": 0.02,
+                    "RP": 0.015,
+                    "CD": 0.01,
+                    "PRP": 0.04,
+                    "PRP$": 0.01,
+                    "NNP": 0.045,
+                    "PDT": 0.01,
+                    "EX": 0.005
+                },
+                "syllableRate": 2.725,
+                "topicScores": [
+                    [
+                        "solvent",
+                        0.3286856679566498
+                    ],
+                    [
+                        "recrystallization",
+                        0.35700425009013553
+                    ],
+                    [
+                        "solubility",
+                        0.42981785884861184
+                    ],
+                    [
+                        "water",
+                        0.4336553649763599
+                    ],
+                    [
+                        "result",
+                        0.5209313747437517
+                    ],
+                    [
+                        "procedure",
+                        0.5250938873282003
+                    ],
+                    [
+                        "test",
+                        0.5480777843924353
+                    ],
+                    [
+                        "heat",
+                        0.5481974362450833
+                    ],
+                    [
+                        "hot",
+                        0.548287925949441
+                    ],
+                    [
+                        "bath",
+                        0.548287925949441
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5901468431373602
+                    ],
+                    [
+                        "ALARM",
+                        0.6100109480345178
+                    ],
+                    [
+                        "caution",
+                        0.6100109480345178
+                    ],
+                    [
+                        "BLARING",
+                        0.6405013070807298
+                    ],
+                    [
+                        "MAN",
+                        0.6405013070807298
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.6412621431625376
+                    ],
+                    [
+                        "solution",
+                        0.7746756176075096
+                    ],
+                    [
+                        "purified",
+                        0.8250091633131506
+                    ],
+                    [
+                        "filtration",
+                        0.8250091633131506
+                    ],
+                    [
+                        "step",
+                        0.8409628063456093
+                    ],
+                    [
+                        "video",
+                        0.851405957619408
+                    ],
+                    [
+                        "disposal",
+                        0.8594892976391231
+                    ],
+                    [
+                        "general",
+                        0.8627961933365442
+                    ],
+                    [
+                        "naphthalene",
+                        0.8627961933365442
+                    ],
+                    [
+                        "instruction",
+                        0.8627961933365442
+                    ],
+                    [
+                        "candidate",
+                        0.8652955408834045
+                    ],
+                    [
+                        "important",
+                        0.8659455828263566
+                    ],
+                    [
+                        "choice",
+                        0.8698669421663139
+                    ],
+                    [
+                        "appropriate",
+                        0.8763831246587295
+                    ],
+                    [
+                        "organic",
+                        0.8793035419259976
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "solvent",
+                        0.3286856679566498
+                    ],
+                    [
+                        "recrystallization",
+                        0.35700425009013553
+                    ],
+                    [
+                        "solubility",
+                        0.42981785884861184
+                    ],
+                    [
+                        "water",
+                        0.4336553649763599
+                    ],
+                    [
+                        "test",
+                        0.5480777843924353
+                    ],
+                    [
+                        "heat",
+                        0.5481974362450833
+                    ],
+                    [
+                        "hot",
+                        0.548287925949441
+                    ],
+                    [
+                        "bath",
+                        0.548287925949441
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5901468431373602
+                    ],
+                    [
+                        "caution",
+                        0.6100109480345178
+                    ],
+                    [
+                        "MAN",
+                        0.6405013070807298
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.6412621431625376
+                    ],
+                    [
+                        "solution",
+                        0.7746756176075096
+                    ],
+                    [
+                        "filtration",
+                        0.8250091633131506
+                    ],
+                    [
+                        "naphthalene",
+                        0.8627961933365442
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-180": {
+            "id": "7LBGQHjgHEw-180",
+            "heat": 0.0,
+            "start": 180.0,
+            "text": " To perform a solubility test, place approximately 20 milligrams of your compound in a test tube. Add a half of a milliliter of the appropriate solvent and swirl. Wait a couple of minutes and then make note of whether or not the compound dissolves. For example, at room temperature, naphthalene is insoluble in ethanol and water but soluble in toluene and acetone. If there is still solid remaining, clamp the tube and heat it in the water bath until the solvent boils. Swirl the tube and make note of whether or not the compound dissolves. After heating, naphthalene is still insoluble in water, but it is now soluble in hot ethanol. Now that you have finished the solubility tests, how do you decide which solvent to use for your recrystallization? The ideal solvent is one in which your compound is insoluble at room temperature but soluble at the boiling point. Remember, at room temperature, naphthalene was soluble in both toluene and acetone, so neither of these will work. After heating, naphthalene remained insoluble in water, even at the boiling point.",
+            "metrics": {
+                "relativeDCReadability": 1.04216424425525,
+                "lexicalDiversity": 0.5166666666666667,
+                "posComposition": {
+                    "TO": 0.011,
+                    "VB": 0.039,
+                    "DT": 0.1,
+                    "NN": 0.272,
+                    "RB": 0.061,
+                    "CD": 0.011,
+                    "NNS": 0.011,
+                    "IN": 0.167,
+                    "PRP$": 0.017,
+                    "NNP": 0.022,
+                    "JJ": 0.072,
+                    "CC": 0.067,
+                    "VBZ": 0.056,
+                    "EX": 0.006,
+                    "VBG": 0.022,
+                    "PRP": 0.022,
+                    "VBP": 0.006,
+                    "VBN": 0.006,
+                    "WRB": 0.006,
+                    "WDT": 0.011,
+                    "VBD": 0.011,
+                    "MD": 0.006
+                },
+                "syllableRate": 2.417,
+                "topicScores": [
+                    [
+                        "naphthalene",
+                        0.35958088115225445
+                    ],
+                    [
+                        "compound",
+                        0.3690528109735756
+                    ],
+                    [
+                        "insoluble",
+                        0.3741199020069587
+                    ],
+                    [
+                        "water",
+                        0.3750470507649955
+                    ],
+                    [
+                        "solvent",
+                        0.38572967838212385
+                    ],
+                    [
+                        "room",
+                        0.40660769320714024
+                    ],
+                    [
+                        "temperature",
+                        0.4159023222768506
+                    ],
+                    [
+                        "test",
+                        0.42527196817349566
+                    ],
+                    [
+                        "tube",
+                        0.4277169099440626
+                    ],
+                    [
+                        "dissolve",
+                        0.48786885834159865
+                    ],
+                    [
+                        "point",
+                        0.513718699568418
+                    ],
+                    [
+                        "heating",
+                        0.5230323054730729
+                    ],
+                    [
+                        "boiling",
+                        0.5357601463908763
+                    ],
+                    [
+                        "acetone",
+                        0.5368044987081219
+                    ],
+                    [
+                        "note",
+                        0.5376420568266767
+                    ],
+                    [
+                        "swirl",
+                        0.5380899293106783
+                    ],
+                    [
+                        "solubility",
+                        0.5415959586894108
+                    ],
+                    [
+                        "toluene",
+                        0.5489184632906373
+                    ],
+                    [
+                        "ethanol",
+                        0.5504733073055319
+                    ],
+                    [
+                        "milligram",
+                        0.8199285074413889
+                    ],
+                    [
+                        "half",
+                        0.8726572715594617
+                    ],
+                    [
+                        "milliliter",
+                        0.8726572715594617
+                    ],
+                    [
+                        "appropriate",
+                        0.8726572715594617
+                    ],
+                    [
+                        "example",
+                        0.8812174692433514
+                    ],
+                    [
+                        "recrystallization",
+                        0.8918044383243778
+                    ],
+                    [
+                        "couple",
+                        0.8928004380001
+                    ],
+                    [
+                        "minute",
+                        0.8928004380001
+                    ],
+                    [
+                        "solid",
+                        0.9010183128693494
+                    ],
+                    [
+                        "hot",
+                        0.9105067350127235
+                    ],
+                    [
+                        "bath",
+                        0.9107565464609845
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "naphthalene",
+                        0.35958088115225445
+                    ],
+                    [
+                        "compound",
+                        0.3690528109735756
+                    ],
+                    [
+                        "insoluble",
+                        0.3741199020069587
+                    ],
+                    [
+                        "water",
+                        0.3750470507649955
+                    ],
+                    [
+                        "solvent",
+                        0.38572967838212385
+                    ],
+                    [
+                        "room",
+                        0.40660769320714024
+                    ],
+                    [
+                        "temperature",
+                        0.4159023222768506
+                    ],
+                    [
+                        "test",
+                        0.42527196817349566
+                    ],
+                    [
+                        "dissolve",
+                        0.48786885834159865
+                    ],
+                    [
+                        "point",
+                        0.513718699568418
+                    ],
+                    [
+                        "boiling",
+                        0.5357601463908763
+                    ],
+                    [
+                        "solubility",
+                        0.5415959586894108
+                    ],
+                    [
+                        "ethanol",
+                        0.5504733073055319
+                    ],
+                    [
+                        "recrystallization",
+                        0.8918044383243778
+                    ],
+                    [
+                        "hot",
+                        0.9105067350127235
+                    ],
+                    [
+                        "bath",
+                        0.9107565464609845
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-270": {
+            "id": "7LBGQHjgHEw-270",
+            "heat": 0.0,
+            "start": 270.0,
+            "text": " This means that ethanol is the solvent of choice. It dissolves the sample at its boiling point but not at room temperature. Now that we have decided on a solvent, it is time to dissolve the sample in some hot ethanol. Get ready by heating some ethanol in the water bath. Remember to add some boiling stones and clamp the flask securely so that it doesn't tip over. Place the sample in an Erlenmeyer flask. But before adding solvent, it is a good idea to set aside a small crystal. It may come in handy later if you have trouble getting crystals to form. When dissolving your sample, use a minimal amount of hot solvent. This will ensure a good recovery of crystals in the end. Add hot solvent in small amounts, swirling and heating in between each addition until the sample just dissolves. [ALARM BLARING] MAN: Caution. If it won't dissolve, it's probably an impurity.",
+            "metrics": {
+                "relativeDCReadability": 0.9665423207054965,
+                "lexicalDiversity": 0.5283018867924528,
+                "posComposition": {
+                    "DT": 0.132,
+                    "VBZ": 0.05,
+                    "IN": 0.157,
+                    "NN": 0.182,
+                    "PRP": 0.057,
+                    "PRP$": 0.013,
+                    "VBG": 0.044,
+                    "CC": 0.025,
+                    "RB": 0.05,
+                    "VBP": 0.019,
+                    "VBN": 0.006,
+                    "TO": 0.025,
+                    "VB": 0.057,
+                    "JJ": 0.069,
+                    "NNS": 0.031,
+                    "NNP": 0.05,
+                    "RP": 0.006,
+                    "MD": 0.019,
+                    "WRB": 0.006
+                },
+                "syllableRate": 1.925,
+                "topicScores": [
+                    [
+                        "sample",
+                        0.3324076175754925
+                    ],
+                    [
+                        "dissolve",
+                        0.33454690146426375
+                    ],
+                    [
+                        "solvent",
+                        0.3357276340268211
+                    ],
+                    [
+                        "ethanol",
+                        0.41525982324162825
+                    ],
+                    [
+                        "hot",
+                        0.43604963271017916
+                    ],
+                    [
+                        "crystal",
+                        0.4473318381288218
+                    ],
+                    [
+                        "flask",
+                        0.5540558827710648
+                    ],
+                    [
+                        "small",
+                        0.5620694956608456
+                    ],
+                    [
+                        "good",
+                        0.5638517613515819
+                    ],
+                    [
+                        "ALARM",
+                        0.6346167290398531
+                    ],
+                    [
+                        "caution",
+                        0.6346167290398531
+                    ],
+                    [
+                        "Erlenmeyer",
+                        0.6474207330881996
+                    ],
+                    [
+                        "BLARING",
+                        0.6693387950969216
+                    ],
+                    [
+                        "MAN",
+                        0.6693387950969216
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.7384459308094844
+                    ],
+                    [
+                        "choice",
+                        0.8109283008649755
+                    ],
+                    [
+                        "temperature",
+                        0.839034729190245
+                    ],
+                    [
+                        "bath",
+                        0.8646311942423135
+                    ],
+                    [
+                        "room",
+                        0.8683707547830566
+                    ],
+                    [
+                        "boiling",
+                        0.8802462324724192
+                    ],
+                    [
+                        "point",
+                        0.8802462324724192
+                    ],
+                    [
+                        "ready",
+                        0.889914315831616
+                    ],
+                    [
+                        "water",
+                        0.889914315831616
+                    ],
+                    [
+                        "end",
+                        0.8900655423590124
+                    ],
+                    [
+                        "time",
+                        0.89232079521726
+                    ],
+                    [
+                        "impurity",
+                        0.8955940447533368
+                    ],
+                    [
+                        "stone",
+                        0.9055365454304144
+                    ],
+                    [
+                        "swirling",
+                        0.9128158638148357
+                    ],
+                    [
+                        "idea",
+                        0.9128581059985714
+                    ],
+                    [
+                        "handy",
+                        0.9154651424135022
+                    ]
+                ],
+                "topTopicSimilarity": 0.5666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "sample",
+                        0.3324076175754925
+                    ],
+                    [
+                        "dissolve",
+                        0.33454690146426375
+                    ],
+                    [
+                        "solvent",
+                        0.3357276340268211
+                    ],
+                    [
+                        "ethanol",
+                        0.41525982324162825
+                    ],
+                    [
+                        "hot",
+                        0.43604963271017916
+                    ],
+                    [
+                        "crystal",
+                        0.4473318381288218
+                    ],
+                    [
+                        "flask",
+                        0.5540558827710648
+                    ],
+                    [
+                        "small",
+                        0.5620694956608456
+                    ],
+                    [
+                        "caution",
+                        0.6346167290398531
+                    ],
+                    [
+                        "MAN",
+                        0.6693387950969216
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.7384459308094844
+                    ],
+                    [
+                        "temperature",
+                        0.839034729190245
+                    ],
+                    [
+                        "bath",
+                        0.8646311942423135
+                    ],
+                    [
+                        "room",
+                        0.8683707547830566
+                    ],
+                    [
+                        "boiling",
+                        0.8802462324724192
+                    ],
+                    [
+                        "point",
+                        0.8802462324724192
+                    ],
+                    [
+                        "water",
+                        0.889914315831616
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-360": {
+            "id": "7LBGQHjgHEw-360",
+            "heat": 0.0,
+            "start": 360.0,
+            "text": " PROFESSOR: Now that the sample is in solution, impurities can be removed through decoloration and hot filtration. Take a close look at the solution. Is it the right color? For example, if you're expecting white crystals and your solution is yellow, then there is a soluble impurity. One easy way to remove small amounts of colored impurities is with activated charcoal. Before adding any charcoal, cool your solution to slightly below the boiling point. [ALARM BLARING] MAN: Caution. Adding charcoal to a boiling solution will cause it to boil over. PROFESSOR: Add a small amount of charcoal to absorb the impurity. Do not add too much or the charcoal will also absorb your compound. Swirl the flask. Boil it in the water bath for 2 to 3 minutes. Charcoal is very fine and can be hard to remove by filtration. It is easiest to add a small amount of a filtering agent, such as [INAUDIBLE],, to absorb the charcoal and facilitate the filtration. Add only a small amount, swirl the flask, and heat it once again for 2 to 3 minutes before performing a hot filtration. If the solution is colorless, the decoloration step",
+            "metrics": {
+                "relativeDCReadability": 1.0358871709850188,
+                "lexicalDiversity": 0.5282051282051282,
+                "posComposition": {
+                    "NNP": 0.067,
+                    "RB": 0.051,
+                    "IN": 0.103,
+                    "DT": 0.113,
+                    "NN": 0.195,
+                    "VBZ": 0.041,
+                    "NNS": 0.031,
+                    "MD": 0.021,
+                    "VB": 0.067,
+                    "VBN": 0.005,
+                    "CC": 0.031,
+                    "JJ": 0.113,
+                    "PRP": 0.031,
+                    "VBP": 0.005,
+                    "VBG": 0.021,
+                    "PRP$": 0.015,
+                    "EX": 0.005,
+                    "CD": 0.026,
+                    "TO": 0.051,
+                    "VBD": 0.01
+                },
+                "syllableRate": 2.558,
+                "topicScores": [
+                    [
+                        "charcoal",
+                        0.3027576145315419
+                    ],
+                    [
+                        "solution",
+                        0.3210648209373489
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.33265948814259355
+                    ],
+                    [
+                        "filtration",
+                        0.3622744728077443
+                    ],
+                    [
+                        "small",
+                        0.3629408716435133
+                    ],
+                    [
+                        "impurity",
+                        0.3761577844744188
+                    ],
+                    [
+                        "flask",
+                        0.5554669782251886
+                    ],
+                    [
+                        "color",
+                        0.558998123552563
+                    ],
+                    [
+                        "hot",
+                        0.5605721022224043
+                    ],
+                    [
+                        "minute",
+                        0.5621558047124736
+                    ],
+                    [
+                        "easy",
+                        0.5705219781874457
+                    ],
+                    [
+                        "decoloration",
+                        0.5714753909582455
+                    ],
+                    [
+                        "boiling",
+                        0.5725492147621853
+                    ],
+                    [
+                        "ALARM",
+                        0.6136247740167431
+                    ],
+                    [
+                        "caution",
+                        0.6136247740167431
+                    ],
+                    [
+                        "BLARING",
+                        0.6462433144605437
+                    ],
+                    [
+                        "MAN",
+                        0.6462433144605437
+                    ],
+                    [
+                        "INAUDIBLE",
+                        0.6538491900867806
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.6571406153701141
+                    ],
+                    [
+                        "sample",
+                        0.8787544132329261
+                    ],
+                    [
+                        "point",
+                        0.8970754186256369
+                    ],
+                    [
+                        "example",
+                        0.8973584957472276
+                    ],
+                    [
+                        "close",
+                        0.8980458078702321
+                    ],
+                    [
+                        "look",
+                        0.8980458078702321
+                    ],
+                    [
+                        "right",
+                        0.8996206003618306
+                    ],
+                    [
+                        "yellow",
+                        0.9068991137581438
+                    ],
+                    [
+                        "soluble",
+                        0.9068991137581438
+                    ],
+                    [
+                        "compound",
+                        0.9099104369426017
+                    ],
+                    [
+                        "white",
+                        0.9152067533416309
+                    ],
+                    [
+                        "crystal",
+                        0.9152067533416309
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "charcoal",
+                        0.3027576145315419
+                    ],
+                    [
+                        "solution",
+                        0.3210648209373489
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.33265948814259355
+                    ],
+                    [
+                        "filtration",
+                        0.3622744728077443
+                    ],
+                    [
+                        "small",
+                        0.3629408716435133
+                    ],
+                    [
+                        "flask",
+                        0.5554669782251886
+                    ],
+                    [
+                        "hot",
+                        0.5605721022224043
+                    ],
+                    [
+                        "boiling",
+                        0.5725492147621853
+                    ],
+                    [
+                        "caution",
+                        0.6136247740167431
+                    ],
+                    [
+                        "MAN",
+                        0.6462433144605437
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.6571406153701141
+                    ],
+                    [
+                        "sample",
+                        0.8787544132329261
+                    ],
+                    [
+                        "point",
+                        0.8970754186256369
+                    ],
+                    [
+                        "compound",
+                        0.9099104369426017
+                    ],
+                    [
+                        "crystal",
+                        0.9152067533416309
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-450": {
+            "id": "7LBGQHjgHEw-450",
+            "heat": 0.0,
+            "start": 450.0,
+            "text": " is unnecessary, but you still need to look carefully for any undissolved solid in the flask. If you find any, it can be removed by performing a hot gravity filtration with fluted filter paper. Vacuum filtrations cool the solution too much and crystals are lost on the filter paper and funnel. Before filtering your solution, add some excess solvents and heat it to the boiling point to ensure that the compound stays dissolved during the filtration. Wet the filter paper with some hot solvent and filter the solution. Rinse the flask two or three times with hot solvent, filtering each rinse. Finally, rinse the filter paper with hot solvent to minimize product loss.",
+            "metrics": {
+                "relativeDCReadability": 1.1138559301527797,
+                "lexicalDiversity": 0.5752212389380531,
+                "posComposition": {
+                    "VBZ": 0.027,
+                    "JJ": 0.124,
+                    "CC": 0.053,
+                    "PRP": 0.035,
+                    "RB": 0.035,
+                    "VBP": 0.035,
+                    "TO": 0.035,
+                    "VB": 0.053,
+                    "IN": 0.106,
+                    "DT": 0.142,
+                    "NN": 0.195,
+                    "MD": 0.009,
+                    "VBN": 0.027,
+                    "VBG": 0.035,
+                    "NNP": 0.027,
+                    "NNS": 0.035,
+                    "PRP$": 0.009,
+                    "CD": 0.018
+                },
+                "syllableRate": 1.458,
+                "topicScores": [
+                    [
+                        "filter",
+                        0.293076732771324
+                    ],
+                    [
+                        "paper",
+                        0.35464212218893143
+                    ],
+                    [
+                        "solvent",
+                        0.36407413783781967
+                    ],
+                    [
+                        "hot",
+                        0.375112589895026
+                    ],
+                    [
+                        "solution",
+                        0.4250942754335177
+                    ],
+                    [
+                        "rinse",
+                        0.434701513611572
+                    ],
+                    [
+                        "filtration",
+                        0.4354205446077548
+                    ],
+                    [
+                        "flask",
+                        0.5380512280105882
+                    ],
+                    [
+                        "unnecessary",
+                        0.8223682833150356
+                    ],
+                    [
+                        "Vacuum",
+                        0.8454270008368996
+                    ],
+                    [
+                        "funnel",
+                        0.8454270008368996
+                    ],
+                    [
+                        "solid",
+                        0.8580927737386674
+                    ],
+                    [
+                        "loss",
+                        0.8736417016117819
+                    ],
+                    [
+                        "gravity",
+                        0.88022355226639
+                    ],
+                    [
+                        "crystal",
+                        0.8923001220215026
+                    ],
+                    [
+                        "excess",
+                        0.9000504697569505
+                    ],
+                    [
+                        "boiling",
+                        0.9000504697569505
+                    ],
+                    [
+                        "point",
+                        0.9000504697569505
+                    ],
+                    [
+                        "compound",
+                        0.9000504697569505
+                    ],
+                    [
+                        "stay",
+                        0.9000504697569505
+                    ],
+                    [
+                        "product",
+                        0.9020091464521047
+                    ],
+                    [
+                        "time",
+                        0.909622363528378
+                    ],
+                    [
+                        "filter paper",
+                        1.1297750992441442
+                    ],
+                    [
+                        "hot solvent",
+                        1.396023378341313
+                    ],
+                    [
+                        "excess solvent",
+                        3.1816725489536792
+                    ],
+                    [
+                        "gravity filtration",
+                        3.2832942919099586
+                    ],
+                    [
+                        "hot gravity",
+                        3.28561087563931
+                    ],
+                    [
+                        "product loss",
+                        3.7177111661853837
+                    ],
+                    [
+                        "boiling point",
+                        4.265675666740286
+                    ],
+                    [
+                        "compound stay",
+                        4.265675666740286
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "filter",
+                        0.293076732771324
+                    ],
+                    [
+                        "solvent",
+                        0.36407413783781967
+                    ],
+                    [
+                        "hot",
+                        0.375112589895026
+                    ],
+                    [
+                        "solution",
+                        0.4250942754335177
+                    ],
+                    [
+                        "filtration",
+                        0.4354205446077548
+                    ],
+                    [
+                        "flask",
+                        0.5380512280105882
+                    ],
+                    [
+                        "crystal",
+                        0.8923001220215026
+                    ],
+                    [
+                        "boiling",
+                        0.9000504697569505
+                    ],
+                    [
+                        "point",
+                        0.9000504697569505
+                    ],
+                    [
+                        "compound",
+                        0.9000504697569505
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-540": {
+            "id": "7LBGQHjgHEw-540",
+            "heat": 0.0,
+            "start": 540.0,
+            "text": " Crystals frequently form in the filtrate during the filtration, but they easily dissolve with heating. [ALARM BLARING] MAN: Caution. Your compound is no longer dissolved in a minimum amount of solvent. PROFESSOR: Before proceeding to the next step, you need to boil away the excess solvent. Remember to add a few boiling stones to the solution and boil until solid begins to form. At this point, add a small amount of hot solvent to redissolve the solid. When your sample is once again dissolved in the minimum amount of solvent, set it aside to cool. Cover the flask to prevent contamination with airborne particles and allow it to cool to room temperature undisturbed. The flask can also be placed in a beaker stuffed with a paper towel to slow down the cooling and promote slow crystal",
+            "metrics": {
+                "relativeDCReadability": 1.0404073100260758,
+                "lexicalDiversity": 0.5514705882352942,
+                "posComposition": {
+                    "NNS": 0.029,
+                    "RB": 0.059,
+                    "VBP": 0.022,
+                    "IN": 0.103,
+                    "DT": 0.118,
+                    "NN": 0.191,
+                    "CC": 0.029,
+                    "PRP": 0.029,
+                    "VBG": 0.015,
+                    "NNP": 0.051,
+                    "PRP$": 0.015,
+                    "VBZ": 0.015,
+                    "VBN": 0.029,
+                    "JJ": 0.088,
+                    "TO": 0.081,
+                    "VB": 0.088,
+                    "RP": 0.015,
+                    "WRB": 0.007,
+                    "VBD": 0.007,
+                    "MD": 0.007
+                },
+                "syllableRate": 1.725,
+                "topicScores": [
+                    [
+                        "solvent",
+                        0.3520426062395266
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.38159298901098654
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.4992148417366469
+                    ],
+                    [
+                        "Caution",
+                        0.5032196831406098
+                    ],
+                    [
+                        "minimum",
+                        0.5194030979641061
+                    ],
+                    [
+                        "crystal",
+                        0.5242159439760967
+                    ],
+                    [
+                        "solid",
+                        0.544152365081779
+                    ],
+                    [
+                        "flask",
+                        0.5462739448290043
+                    ],
+                    [
+                        "MAN",
+                        0.5488613458274822
+                    ],
+                    [
+                        "boil",
+                        0.5539724106777105
+                    ],
+                    [
+                        "slow",
+                        0.56394441836459
+                    ],
+                    [
+                        "heating",
+                        0.7663392433356017
+                    ],
+                    [
+                        "filtration",
+                        0.8107387338038212
+                    ],
+                    [
+                        "filtrate",
+                        0.828646741203453
+                    ],
+                    [
+                        "compound",
+                        0.8544244388128707
+                    ],
+                    [
+                        "undisturbed",
+                        0.8579764538327678
+                    ],
+                    [
+                        "step",
+                        0.8716221532195374
+                    ],
+                    [
+                        "excess",
+                        0.8716221532195374
+                    ],
+                    [
+                        "point",
+                        0.8812275366531911
+                    ],
+                    [
+                        "temperature",
+                        0.8875190966606306
+                    ],
+                    [
+                        "boiling",
+                        0.8894918070104484
+                    ],
+                    [
+                        "stone",
+                        0.8894918070104484
+                    ],
+                    [
+                        "solution",
+                        0.8894918070104484
+                    ],
+                    [
+                        "begin",
+                        0.8894918070104484
+                    ],
+                    [
+                        "small",
+                        0.8933432848341065
+                    ],
+                    [
+                        "hot",
+                        0.8933432848341065
+                    ],
+                    [
+                        "sample",
+                        0.8964679339398265
+                    ],
+                    [
+                        "contamination",
+                        0.8990665639130471
+                    ],
+                    [
+                        "airborne",
+                        0.8990665639130471
+                    ],
+                    [
+                        "particle",
+                        0.8990665639130471
+                    ]
+                ],
+                "topTopicSimilarity": 0.5,
+                "sharedTopicScores": [
+                    [
+                        "solvent",
+                        0.3520426062395266
+                    ],
+                    [
+                        "ALARM BLARING",
+                        0.38159298901098654
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.4992148417366469
+                    ],
+                    [
+                        "crystal",
+                        0.5242159439760967
+                    ],
+                    [
+                        "flask",
+                        0.5462739448290043
+                    ],
+                    [
+                        "MAN",
+                        0.5488613458274822
+                    ],
+                    [
+                        "filtration",
+                        0.8107387338038212
+                    ],
+                    [
+                        "compound",
+                        0.8544244388128707
+                    ],
+                    [
+                        "point",
+                        0.8812275366531911
+                    ],
+                    [
+                        "temperature",
+                        0.8875190966606306
+                    ],
+                    [
+                        "boiling",
+                        0.8894918070104484
+                    ],
+                    [
+                        "solution",
+                        0.8894918070104484
+                    ],
+                    [
+                        "small",
+                        0.8933432848341065
+                    ],
+                    [
+                        "hot",
+                        0.8933432848341065
+                    ],
+                    [
+                        "sample",
+                        0.8964679339398265
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-630": {
+            "id": "7LBGQHjgHEw-630",
+            "heat": 0.0,
+            "start": 630.0,
+            "text": " growth. This is especially helpful in a cold laboratory. Ideally, crystals will begin to form as the solution cools. You may want to watch. It can be very beautiful. [MUSIC PLAYING] If the solution reaches room temperature without crystal growth, you may want to try a trick or two to jumpstart the process. First, try scratching the side or bottom of the flask with a glass rod. Don't press too hard or you'll break it. If that doesn't work, try adding the seed crystal that you set aside at the beginning.",
+            "metrics": {
+                "relativeDCReadability": 0.8353502490424887,
+                "lexicalDiversity": 0.5638297872340425,
+                "posComposition": {
+                    "NN": 0.202,
+                    "DT": 0.128,
+                    "VBZ": 0.043,
+                    "RB": 0.064,
+                    "JJ": 0.053,
+                    "IN": 0.096,
+                    "NNP": 0.032,
+                    "NNS": 0.011,
+                    "MD": 0.053,
+                    "VB": 0.128,
+                    "TO": 0.043,
+                    "PRP": 0.064,
+                    "CC": 0.032,
+                    "CD": 0.011,
+                    "VBG": 0.021,
+                    "VBP": 0.021
+                },
+                "syllableRate": 1.058,
+                "topicScores": [
+                    [
+                        "crystal",
+                        0.45400545122498703
+                    ],
+                    [
+                        "growth",
+                        0.5304582474275451
+                    ],
+                    [
+                        "solution",
+                        0.5568102025016429
+                    ],
+                    [
+                        "music playing",
+                        0.5581365137156028
+                    ],
+                    [
+                        "laboratory",
+                        0.8289797112443587
+                    ],
+                    [
+                        "beautiful",
+                        0.863416860797058
+                    ],
+                    [
+                        "cold",
+                        0.8683805051553524
+                    ],
+                    [
+                        "process",
+                        0.8735471064989282
+                    ],
+                    [
+                        "rod",
+                        0.8771719712510415
+                    ],
+                    [
+                        "beginning",
+                        0.882752809467326
+                    ],
+                    [
+                        "helpful",
+                        0.8833661857003162
+                    ],
+                    [
+                        "glass",
+                        0.9067192571025126
+                    ],
+                    [
+                        "room",
+                        0.9152102613545856
+                    ],
+                    [
+                        "temperature",
+                        0.9152102613545856
+                    ],
+                    [
+                        "trick",
+                        0.9152102613545856
+                    ],
+                    [
+                        "flask",
+                        0.9177532681821851
+                    ],
+                    [
+                        "seed",
+                        0.9216549319766711
+                    ],
+                    [
+                        "cold laboratory",
+                        2.569768889155672
+                    ],
+                    [
+                        "crystal growth",
+                        3.226828616810794
+                    ],
+                    [
+                        "glass rod",
+                        3.8863607930165593
+                    ],
+                    [
+                        "seed crystal",
+                        5.130182763054363
+                    ],
+                    [
+                        "room temperature",
+                        5.158007924651677
+                    ]
+                ],
+                "topTopicSimilarity": 0.2727272727272727,
+                "sharedTopicScores": [
+                    [
+                        "crystal",
+                        0.45400545122498703
+                    ],
+                    [
+                        "solution",
+                        0.5568102025016429
+                    ],
+                    [
+                        "music playing",
+                        0.5581365137156028
+                    ],
+                    [
+                        "room",
+                        0.9152102613545856
+                    ],
+                    [
+                        "temperature",
+                        0.9152102613545856
+                    ],
+                    [
+                        "flask",
+                        0.9177532681821851
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-720": {
+            "id": "7LBGQHjgHEw-720",
+            "heat": 0.0,
+            "start": 720.0,
+            "text": " If you forgot to set aside seed crystal, you can also try dipping a glass rod in the solution, letting it dry so that the minute crystals form on the surface, and then dipping it back in. [GONG CLASH] When crystallization has begun and your flask is at room temperature, place it in an ice bath to drive the crystallization to completion. Leave it in the ice bath for at least 15 minutes before collecting the crystals. The final step in a recrystallization is collecting and washing the purified crystals. To do this, you will need a flask of ice cold solvent, ethanol in this case, and a vacuum filtration setup. Always use a clean, dry flask to collect the filtrate. In many cases, a second batch of crystals can be obtained by concentrating the mother liquor and crystalizing a second time. Turn the vacuum on and wet the filter paper with a small amount of cold solvent. Pour the crystals and the mother liquor onto the funnel using cold solvent to transfer all of the crystals from the flask.",
+            "metrics": {
+                "relativeDCReadability": 0.9905306820731583,
+                "lexicalDiversity": 0.5388888888888889,
+                "posComposition": {
+                    "IN": 0.133,
+                    "PRP": 0.039,
+                    "VBP": 0.017,
+                    "TO": 0.033,
+                    "VB": 0.056,
+                    "RB": 0.022,
+                    "NN": 0.239,
+                    "MD": 0.017,
+                    "VBG": 0.05,
+                    "DT": 0.161,
+                    "JJ": 0.072,
+                    "NNS": 0.044,
+                    "CC": 0.039,
+                    "NNP": 0.028,
+                    "WRB": 0.006,
+                    "VBZ": 0.017,
+                    "VBN": 0.011,
+                    "PRP$": 0.006,
+                    "JJS": 0.006,
+                    "CD": 0.006
+                },
+                "syllableRate": 2.167,
+                "topicScores": [
+                    [
+                        "crystal",
+                        0.26368853027773864
+                    ],
+                    [
+                        "GONG CLASH",
+                        0.27469427325251133
+                    ],
+                    [
+                        "flask",
+                        0.353988290508991
+                    ],
+                    [
+                        "ice",
+                        0.3914528442834466
+                    ],
+                    [
+                        "cold",
+                        0.3928008130910593
+                    ],
+                    [
+                        "solvent",
+                        0.3985928301085047
+                    ],
+                    [
+                        "minute",
+                        0.4904913895856779
+                    ],
+                    [
+                        "bath",
+                        0.49103699212598667
+                    ],
+                    [
+                        "crystallization",
+                        0.4982936963256107
+                    ],
+                    [
+                        "dry",
+                        0.5102276371846378
+                    ],
+                    [
+                        "case",
+                        0.5114366449359331
+                    ],
+                    [
+                        "mother",
+                        0.523306382648111
+                    ],
+                    [
+                        "liquor",
+                        0.523306382648111
+                    ],
+                    [
+                        "second",
+                        0.52781537704166
+                    ],
+                    [
+                        "vacuum",
+                        0.5364848261969734
+                    ],
+                    [
+                        "seed",
+                        0.7276003932058623
+                    ],
+                    [
+                        "solution",
+                        0.7276003932058623
+                    ],
+                    [
+                        "surface",
+                        0.7276003932058623
+                    ],
+                    [
+                        "glass",
+                        0.7448602877763889
+                    ],
+                    [
+                        "rod",
+                        0.7448602877763889
+                    ],
+                    [
+                        "completion",
+                        0.7686420112222988
+                    ],
+                    [
+                        "room",
+                        0.8007964214644329
+                    ],
+                    [
+                        "temperature",
+                        0.8007964214644329
+                    ],
+                    [
+                        "setup",
+                        0.831865407687539
+                    ],
+                    [
+                        "cold solvent",
+                        0.8378654901622727
+                    ],
+                    [
+                        "filtrate",
+                        0.8404016838873218
+                    ],
+                    [
+                        "final",
+                        0.8463420833547387
+                    ],
+                    [
+                        "purified",
+                        0.8463420833547387
+                    ],
+                    [
+                        "time",
+                        0.8468561347447693
+                    ],
+                    [
+                        "ethanol",
+                        0.8568691791940429
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "crystal",
+                        0.26368853027773864
+                    ],
+                    [
+                        "flask",
+                        0.353988290508991
+                    ],
+                    [
+                        "solvent",
+                        0.3985928301085047
+                    ],
+                    [
+                        "bath",
+                        0.49103699212598667
+                    ],
+                    [
+                        "solution",
+                        0.7276003932058623
+                    ],
+                    [
+                        "room",
+                        0.8007964214644329
+                    ],
+                    [
+                        "temperature",
+                        0.8007964214644329
+                    ],
+                    [
+                        "ethanol",
+                        0.8568691791940429
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-810": {
+            "id": "7LBGQHjgHEw-810",
+            "heat": 0.0,
+            "start": 810.0,
+            "text": " [VACUUMING] Use cold solvent to wash the crystals and pull air through them to begin the drying process. After pulling air through the crystals for a few minutes, scrape the crystals onto a weighing dish and spread them out to facilitate drying. Depending on the compound, the crystals can be dried in a desiccator, an oven, or on a vacuum line. When one ideal solvent cannot be found for a crystallization, it is possible to use a mixture of two solvents. Once again, you must choose the solvents very carefully. In the first solvent, solvent one, your sample should be soluble even at room temperature. And in the second solvent, solvent two, your sample must remain insoluble even at the boiling point.",
+            "metrics": {
+                "relativeDCReadability": 0.9368479534072985,
+                "lexicalDiversity": 0.5284552845528455,
+                "posComposition": {
+                    "NN": 0.195,
+                    "NNP": 0.008,
+                    "VBD": 0.008,
+                    "TO": 0.033,
+                    "VB": 0.081,
+                    "DT": 0.138,
+                    "NNS": 0.057,
+                    "CC": 0.033,
+                    "JJ": 0.081,
+                    "IN": 0.114,
+                    "PRP": 0.033,
+                    "VBG": 0.024,
+                    "VBP": 0.008,
+                    "RP": 0.008,
+                    "MD": 0.041,
+                    "VBN": 0.016,
+                    "WRB": 0.008,
+                    "CD": 0.033,
+                    "RB": 0.057,
+                    "VBZ": 0.008,
+                    "PRP$": 0.016
+                },
+                "syllableRate": 1.525,
+                "topicScores": [
+                    [
+                        "solvent",
+                        0.285903161742475
+                    ],
+                    [
+                        "crystal",
+                        0.355087322377565
+                    ],
+                    [
+                        "air",
+                        0.49643823263505304
+                    ],
+                    [
+                        "sample",
+                        0.5446218581785034
+                    ],
+                    [
+                        "process",
+                        0.7289482637636042
+                    ],
+                    [
+                        "cold",
+                        0.7816819051132444
+                    ],
+                    [
+                        "line",
+                        0.8310519127404146
+                    ],
+                    [
+                        "minute",
+                        0.8434720701738565
+                    ],
+                    [
+                        "oven",
+                        0.8508542356095976
+                    ],
+                    [
+                        "dish",
+                        0.8597686005423919
+                    ],
+                    [
+                        "temperature",
+                        0.8651396792530955
+                    ],
+                    [
+                        "compound",
+                        0.8675309848730022
+                    ],
+                    [
+                        "desiccator",
+                        0.8675309848730022
+                    ],
+                    [
+                        "vacuum",
+                        0.8675309848730022
+                    ],
+                    [
+                        "point",
+                        0.8707475475290852
+                    ],
+                    [
+                        "crystallization",
+                        0.8807138665677486
+                    ],
+                    [
+                        "ideal",
+                        0.8936220632114105
+                    ],
+                    [
+                        "possible",
+                        0.8936220632114105
+                    ],
+                    [
+                        "mixture",
+                        0.8936220632114105
+                    ],
+                    [
+                        "room",
+                        0.8951868361218822
+                    ],
+                    [
+                        "second",
+                        0.8996901284706286
+                    ],
+                    [
+                        "boiling",
+                        0.8996901284706286
+                    ],
+                    [
+                        "soluble",
+                        0.9066948052132647
+                    ],
+                    [
+                        "insoluble",
+                        0.9107529521439142
+                    ],
+                    [
+                        "cold solvent",
+                        2.4297284718238847
+                    ],
+                    [
+                        "vacuum line",
+                        2.583757777666419
+                    ],
+                    [
+                        "room temperature",
+                        3.433835798137616
+                    ],
+                    [
+                        "boiling point",
+                        3.6168685387690576
+                    ],
+                    [
+                        "ideal solvent",
+                        4.259895429292575
+                    ],
+                    [
+                        "second solvent",
+                        4.41657785558021
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "solvent",
+                        0.285903161742475
+                    ],
+                    [
+                        "crystal",
+                        0.355087322377565
+                    ],
+                    [
+                        "sample",
+                        0.5446218581785034
+                    ],
+                    [
+                        "temperature",
+                        0.8651396792530955
+                    ],
+                    [
+                        "compound",
+                        0.8675309848730022
+                    ],
+                    [
+                        "point",
+                        0.8707475475290852
+                    ],
+                    [
+                        "room",
+                        0.8951868361218822
+                    ],
+                    [
+                        "boiling",
+                        0.8996901284706286
+                    ],
+                    [
+                        "insoluble",
+                        0.9107529521439142
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-900": {
+            "id": "7LBGQHjgHEw-900",
+            "heat": 0.0,
+            "start": 900.0,
+            "text": " The two solvents must also be miscible at all ratios so that they don't separate out into different layers during the recrystallization. We know from our solubility tests that naphthalene is soluble in both toluene and acetone even at room temperature, so which one should we choose to be our solvent one? That depends entirely on our choice for solvent two. We know from our solubility tests that naphthalene is insoluble in water even at the boiling point. That makes water a very good candidate for solvent two. While acetone and water are miscible, toluene and water are not. The recrystallization of naphthalene will be carried out using acetone as solvent one and water as solvent two. As before, dissolve your sample in the minimal amount of hot solvent. In this case, solvent one, acetone. Add just enough hot solvent to obtain a clear solution. Then add solvent two, in this case water, dropwise until the solution turns cloudy. Swirl and heat the solution to make sure",
+            "metrics": {
+                "relativeDCReadability": 0.9597789960567706,
+                "lexicalDiversity": 0.5416666666666666,
+                "posComposition": {
+                    "DT": 0.077,
+                    "CD": 0.042,
+                    "NNS": 0.018,
+                    "MD": 0.018,
+                    "RB": 0.06,
+                    "VB": 0.054,
+                    "JJ": 0.107,
+                    "IN": 0.173,
+                    "PRP": 0.024,
+                    "VBP": 0.03,
+                    "RP": 0.012,
+                    "NN": 0.214,
+                    "PRP$": 0.03,
+                    "VBZ": 0.042,
+                    "CC": 0.03,
+                    "WDT": 0.018,
+                    "TO": 0.018,
+                    "VBG": 0.012,
+                    "VBN": 0.006,
+                    "VBD": 0.006,
+                    "NNP": 0.012
+                },
+                "syllableRate": 2.283,
+                "topicScores": [
+                    [
+                        "solvent",
+                        0.2655667029003248
+                    ],
+                    [
+                        "water",
+                        0.332759061357316
+                    ],
+                    [
+                        "acetone",
+                        0.39455396561319056
+                    ],
+                    [
+                        "naphthalene",
+                        0.43736192233953763
+                    ],
+                    [
+                        "solution",
+                        0.4602173371243769
+                    ],
+                    [
+                        "solubility",
+                        0.521481023855517
+                    ],
+                    [
+                        "test",
+                        0.521481023855517
+                    ],
+                    [
+                        "recrystallization",
+                        0.5445500652518155
+                    ],
+                    [
+                        "miscible",
+                        0.5572270272181605
+                    ],
+                    [
+                        "toluene",
+                        0.5606600121459602
+                    ],
+                    [
+                        "case",
+                        0.5619920795490808
+                    ],
+                    [
+                        "hot",
+                        0.5748433941547544
+                    ],
+                    [
+                        "ratio",
+                        0.8389661984062767
+                    ],
+                    [
+                        "different",
+                        0.8389661984062767
+                    ],
+                    [
+                        "layer",
+                        0.8389661984062767
+                    ],
+                    [
+                        "room",
+                        0.8732800408044525
+                    ],
+                    [
+                        "temperature",
+                        0.8732800408044525
+                    ],
+                    [
+                        "point",
+                        0.8764236448714172
+                    ],
+                    [
+                        "soluble",
+                        0.8868893535524489
+                    ],
+                    [
+                        "boiling",
+                        0.9042350034984076
+                    ],
+                    [
+                        "choice",
+                        0.9050262876226216
+                    ],
+                    [
+                        "cloudy",
+                        0.9071592544982755
+                    ],
+                    [
+                        "swirl",
+                        0.9089571243934599
+                    ],
+                    [
+                        "sure",
+                        0.9089571243934599
+                    ],
+                    [
+                        "insoluble",
+                        0.9148440312286954
+                    ],
+                    [
+                        "good",
+                        0.9211154859651379
+                    ],
+                    [
+                        "candidate",
+                        0.9211154859651379
+                    ],
+                    [
+                        "clear",
+                        0.926973719354967
+                    ],
+                    [
+                        "dropwise",
+                        0.9286168314737895
+                    ],
+                    [
+                        "sample",
+                        0.9314157335329235
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "solvent",
+                        0.2655667029003248
+                    ],
+                    [
+                        "water",
+                        0.332759061357316
+                    ],
+                    [
+                        "naphthalene",
+                        0.43736192233953763
+                    ],
+                    [
+                        "solution",
+                        0.4602173371243769
+                    ],
+                    [
+                        "solubility",
+                        0.521481023855517
+                    ],
+                    [
+                        "test",
+                        0.521481023855517
+                    ],
+                    [
+                        "recrystallization",
+                        0.5445500652518155
+                    ],
+                    [
+                        "hot",
+                        0.5748433941547544
+                    ],
+                    [
+                        "room",
+                        0.8732800408044525
+                    ],
+                    [
+                        "temperature",
+                        0.8732800408044525
+                    ],
+                    [
+                        "point",
+                        0.8764236448714172
+                    ],
+                    [
+                        "boiling",
+                        0.9042350034984076
+                    ],
+                    [
+                        "insoluble",
+                        0.9148440312286954
+                    ],
+                    [
+                        "sample",
+                        0.9314157335329235
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-990": {
+            "id": "7LBGQHjgHEw-990",
+            "heat": 0.0,
+            "start": 990.0,
+            "text": " that the cloudiness persists. And do not confuse cloudiness with the turbidity that is observed upon mixing two solvents together. Once you have obtained a persistently cloudy solution, add hot solvent one dropwise until the solution just turns clear. Now you're ready to set the solution aside to cool. Once the recrystallization is complete, cool down a mixture of solvents in a ratio similar to that which you recrystallized from. This cold mixture will be used to collect and wash your crystals. [MUSIC PLAYING]",
+            "metrics": {
+                "relativeDCReadability": 1.0085722966044246,
+                "lexicalDiversity": 0.5294117647058824,
+                "posComposition": {
+                    "IN": 0.082,
+                    "DT": 0.118,
+                    "NN": 0.141,
+                    "NNS": 0.047,
+                    "CC": 0.024,
+                    "VBP": 0.047,
+                    "RB": 0.106,
+                    "VB": 0.082,
+                    "WDT": 0.024,
+                    "VBZ": 0.035,
+                    "VBN": 0.035,
+                    "VBG": 0.012,
+                    "CD": 0.024,
+                    "PRP": 0.035,
+                    "JJ": 0.094,
+                    "TO": 0.047,
+                    "RP": 0.012,
+                    "MD": 0.012,
+                    "PRP$": 0.012,
+                    "NNP": 0.012
+                },
+                "syllableRate": 1.142,
+                "topicScores": [
+                    [
+                        "solution",
+                        0.460552474669548
+                    ],
+                    [
+                        "solvent",
+                        0.46259248028605193
+                    ],
+                    [
+                        "cloudiness",
+                        0.5609461090377081
+                    ],
+                    [
+                        "mixture",
+                        0.5861091673837449
+                    ],
+                    [
+                        "music",
+                        0.6192767951252833
+                    ],
+                    [
+                        "playing",
+                        0.6192767951252833
+                    ],
+                    [
+                        "music playing",
+                        0.6220698801436834
+                    ],
+                    [
+                        "clear",
+                        0.8463459218685316
+                    ],
+                    [
+                        "crystal",
+                        0.8699823742901673
+                    ],
+                    [
+                        "cloudy",
+                        0.8916363556733204
+                    ],
+                    [
+                        "hot",
+                        0.8916363556733204
+                    ],
+                    [
+                        "turbidity",
+                        0.8967554955300044
+                    ],
+                    [
+                        "complete",
+                        0.9049271587858928
+                    ],
+                    [
+                        "dropwise",
+                        0.9073406826836928
+                    ],
+                    [
+                        "cold",
+                        0.9090544749423674
+                    ],
+                    [
+                        "ready",
+                        0.9141128554200214
+                    ],
+                    [
+                        "recrystallization",
+                        0.9188805860441507
+                    ],
+                    [
+                        "ratio",
+                        0.9188805860441507
+                    ],
+                    [
+                        "similar",
+                        0.9188805860441507
+                    ],
+                    [
+                        "cloudy solution",
+                        4.5956784420932655
+                    ],
+                    [
+                        "hot solvent",
+                        4.711953493263169
+                    ],
+                    [
+                        "ratio similar",
+                        5.424321201736417
+                    ],
+                    [
+                        "cold mixture",
+                        5.429884086193782
+                    ]
+                ],
+                "topTopicSimilarity": 0.2608695652173913,
+                "sharedTopicScores": [
+                    [
+                        "solution",
+                        0.460552474669548
+                    ],
+                    [
+                        "solvent",
+                        0.46259248028605193
+                    ],
+                    [
+                        "music playing",
+                        0.6220698801436834
+                    ],
+                    [
+                        "crystal",
+                        0.8699823742901673
+                    ],
+                    [
+                        "hot",
+                        0.8916363556733204
+                    ],
+                    [
+                        "recrystallization",
+                        0.9188805860441507
+                    ]
+                ]
+            }
+        },
+        "7LBGQHjgHEw-1080": {
+            "id": "7LBGQHjgHEw-1080",
+            "heat": 0.0,
+            "start": 1080.0,
+            "text": " Remember this video is intended to help you prepare for lab by providing a demonstration of the proper experimental technique. It is not intended as a replacement for reading your lab manual or the supplementary material. In order to become a great experimentalist, it is important that you understand both theory and technique. Now it's your turn. Good luck. [MUSIC PLAYING]",
+            "metrics": {
+                "relativeDCReadability": 0.9524058408869275,
+                "lexicalDiversity": 0.5161290322580645,
+                "posComposition": {
+                    "NNP": 0.032,
+                    "DT": 0.113,
+                    "NN": 0.258,
+                    "VBZ": 0.065,
+                    "VBN": 0.032,
+                    "TO": 0.032,
+                    "VB": 0.048,
+                    "PRP": 0.081,
+                    "IN": 0.113,
+                    "VBG": 0.032,
+                    "JJ": 0.081,
+                    "RB": 0.032,
+                    "PRP$": 0.032,
+                    "CC": 0.032,
+                    "VBP": 0.016
+                },
+                "syllableRate": 0.908,
+                "topicScores": [
+                    [
+                        "technique",
+                        0.5166397372000583
+                    ],
+                    [
+                        "lab",
+                        0.573199714151762
+                    ],
+                    [
+                        "music playing",
+                        0.6052299883939436
+                    ],
+                    [
+                        "good",
+                        0.8268312584783657
+                    ],
+                    [
+                        "luck",
+                        0.8268312584783657
+                    ],
+                    [
+                        "material",
+                        0.8270476653454095
+                    ],
+                    [
+                        "turn",
+                        0.8542191028693731
+                    ],
+                    [
+                        "experimental",
+                        0.860100299595509
+                    ],
+                    [
+                        "video",
+                        0.88150329957771
+                    ],
+                    [
+                        "demonstration",
+                        0.88150329957771
+                    ],
+                    [
+                        "proper",
+                        0.88150329957771
+                    ],
+                    [
+                        "supplementary",
+                        0.8819610665369351
+                    ],
+                    [
+                        "order",
+                        0.8938835696476058
+                    ],
+                    [
+                        "great",
+                        0.8938835696476058
+                    ],
+                    [
+                        "replacement",
+                        0.9004068883928227
+                    ],
+                    [
+                        "manual",
+                        0.9004068883928227
+                    ],
+                    [
+                        "important",
+                        0.910655012990434
+                    ],
+                    [
+                        "theory",
+                        0.910655012990434
+                    ],
+                    [
+                        "good luck",
+                        2.1610550931449373
+                    ],
+                    [
+                        "experimental technique",
+                        2.3817726642005574
+                    ],
+                    [
+                        "supplementary material",
+                        2.6958171174947525
+                    ],
+                    [
+                        "proper experimental",
+                        3.135328664645791
+                    ],
+                    [
+                        "great experimentalist",
+                        3.975813468514236
+                    ],
+                    [
+                        "lab manual",
+                        4.495100452212203
+                    ],
+                    [
+                        "proper experimental technique",
+                        10.819982783350737
+                    ]
+                ],
+                "topTopicSimilarity": 0.04,
+                "sharedTopicScores": [
+                    [
+                        "music playing",
+                        0.6052299883939436
+                    ]
+                ]
+            }
+        }
+    }
+}

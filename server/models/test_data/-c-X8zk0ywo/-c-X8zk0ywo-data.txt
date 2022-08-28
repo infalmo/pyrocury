@@ -1,0 +1,3805 @@
+{
+    "metadata": {
+        "id": "-c-X8zk0ywo",
+        "avgHeat": 0.39,
+        "runtime": 1648.59,
+        "dale-challReadabilityScore": 8.165642998680582,
+        "lexicalDiversity": 0.4582226762002043,
+        "posComposition": {
+            "DT": 0.096,
+            "JJ": 0.06,
+            "NN": 0.128,
+            "VBZ": 0.033,
+            "VBN": 0.013,
+            "IN": 0.12,
+            "NNP": 0.037,
+            "PRP$": 0.01,
+            "MD": 0.016,
+            "VB": 0.053,
+            "VBP": 0.037,
+            "TO": 0.035,
+            "NNS": 0.042,
+            "CC": 0.042,
+            "CD": 0.006,
+            "WP": 0.009,
+            "PRP": 0.086,
+            "VBG": 0.022,
+            "RB": 0.067,
+            "VBD": 0.038,
+            "WDT": 0.009,
+            "RP": 0.006,
+            ":": 0.007,
+            "WRB": 0.009,
+            "``": 0.002,
+            "''": 0.002,
+            "POS": 0.001,
+            "RBS": 0.0,
+            "EX": 0.003,
+            "JJR": 0.002,
+            "JJS": 0.001,
+            "PDT": 0.001,
+            "RBR": 0.001,
+            "NNPS": 0.0
+        },
+        "syllableRate": 4.344,
+        "topicScores": [
+            [
+                "PROFESSOR",
+                0.11033653146523417
+            ],
+            [
+                "chemistry",
+                0.11102463064956429
+            ],
+            [
+                "STUDENT",
+                0.13532715096110426
+            ],
+            [
+                "MIT",
+                0.13540323335835772
+            ],
+            [
+                "thing",
+                0.154608549335565
+            ],
+            [
+                "Dr. Taylor",
+                0.16053506108363597
+            ],
+            [
+                "molecule",
+                0.16984483028697103
+            ],
+            [
+                "Tim",
+                0.17538591770512518
+            ],
+            [
+                "course",
+                0.18084064657292379
+            ],
+            [
+                "Creative Commons",
+                0.18132199997029919
+            ],
+            [
+                "reaction",
+                0.1931884779073504
+            ],
+            [
+                "school",
+                0.19630996475909054
+            ],
+            [
+                "Tim Jamison",
+                0.19935566648273742
+            ],
+            [
+                "study",
+                0.216135848848935
+            ],
+            [
+                "start",
+                0.21867205215613902
+            ],
+            [
+                "college",
+                0.220360044738168
+            ],
+            [
+                "high",
+                0.22200592629696242
+            ],
+            [
+                "lot",
+                0.22329799459022567
+            ],
+            [
+                "biology",
+                0.23337002999190926
+            ],
+            [
+                "enzyme",
+                0.23476965577216555
+            ],
+            [
+                "work",
+                0.2353892838035578
+            ],
+            [
+                "way",
+                0.23545308164412848
+            ],
+            [
+                "interested",
+                0.24092779575767995
+            ],
+            [
+                "kind",
+                0.24277091154562788
+            ],
+            [
+                "point",
+                0.24363594883718395
+            ],
+            [
+                "example",
+                0.24438372500188765
+            ],
+            [
+                "Theatre",
+                0.2445387024312352
+            ],
+            [
+                "Lisa",
+                0.24705321991493498
+            ],
+            [
+                "class",
+                0.25401198064292196
+            ],
+            [
+                "year",
+                0.2547396122442395
+            ]
+        ],
+        "topicsList": [
+            "PROFESSOR",
+            "chemistry",
+            "STUDENT",
+            "MIT",
+            "thing",
+            "Dr. Taylor",
+            "molecule",
+            "Tim",
+            "course",
+            "Creative Commons",
+            "reaction",
+            "school",
+            "Tim Jamison",
+            "study",
+            "start",
+            "college",
+            "high",
+            "lot",
+            "biology",
+            "enzyme",
+            "work",
+            "way",
+            "interested",
+            "kind",
+            "point",
+            "example",
+            "Theatre",
+            "Lisa",
+            "class",
+            "year"
+        ]
+    },
+    "chunks": {
+        "-c-X8zk0ywo-0": {
+            "id": "-c-X8zk0ywo-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation, or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. PROFESSOR: Welcome to 5.111, and today what we're going to do is introduce you to the course and the people teaching the course. And we're also going to let you know that you were going to be part of the great web exercise that is OCW, OpenCourseWare. So, this course is being videotaped this year, and this is the announcement that I have to make. So, the videotape is in the back, and if you want to come up front and participate in the class, you know that you'll be videotaped -- if you want to hide your face or whatever, you can do that but please pay attention to the lectures anyway. So, this course will be available on the OCW site in the future, I'm not sure exactly what that date is going to be. So, today we're going to introduce the chemistry topics, which we will cover in 5.111, and give you general information, practical information about the course number of points you need, when the exams are, that kind of thing, policies, and introduce you to the teaching staff. I am, again, Professor Cathy Drennan, and I'm one of the lecturers in this course.",
+            "metrics": {
+                "relativeDCReadability": 1.0262082240619628,
+                "lexicalDiversity": 0.4777327935222672,
+                "posComposition": {
+                    "DT": 0.101,
+                    "JJ": 0.049,
+                    "NN": 0.146,
+                    "VBZ": 0.028,
+                    "VBN": 0.012,
+                    "IN": 0.093,
+                    "NNP": 0.061,
+                    "PRP$": 0.008,
+                    "MD": 0.02,
+                    "VB": 0.089,
+                    "VBP": 0.057,
+                    "TO": 0.057,
+                    "NNS": 0.045,
+                    "CC": 0.049,
+                    "CD": 0.012,
+                    "WP": 0.008,
+                    "PRP": 0.077,
+                    "VBG": 0.028,
+                    "RB": 0.032,
+                    "VBD": 0.004,
+                    "WDT": 0.012,
+                    "RP": 0.004,
+                    ":": 0.004,
+                    "WRB": 0.004
+                },
+                "syllableRate": 3.125,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.18588184772150335
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.23058891876522
+                    ],
+                    [
+                        "MIT",
+                        0.24002906442316085
+                    ],
+                    [
+                        "course",
+                        0.2583011152716657
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.37535211379690775
+                    ],
+                    [
+                        "OCW",
+                        0.3771200671839167
+                    ],
+                    [
+                        "videotape",
+                        0.4140482073429566
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5098729074950009
+                    ],
+                    [
+                        "today",
+                        0.5262421001875723
+                    ],
+                    [
+                        "information",
+                        0.5518647626385855
+                    ],
+                    [
+                        "MIT course",
+                        0.592353265425582
+                    ],
+                    [
+                        "Cathy",
+                        0.6356652666848306
+                    ],
+                    [
+                        "Drennan",
+                        0.6457914768855076
+                    ],
+                    [
+                        "Professor Cathy",
+                        0.6963735931974235
+                    ],
+                    [
+                        "Cathy Drennan",
+                        0.6963735931974235
+                    ],
+                    [
+                        "following",
+                        0.7564323129972105
+                    ],
+                    [
+                        "content",
+                        0.7691292171498442
+                    ],
+                    [
+                        "free",
+                        0.8011981707877913
+                    ],
+                    [
+                        "support",
+                        0.8237575677521077
+                    ],
+                    [
+                        "ocw.mit.edu",
+                        0.830448606005514
+                    ],
+                    [
+                        "high",
+                        0.833716382946782
+                    ],
+                    [
+                        "quality",
+                        0.833716382946782
+                    ],
+                    [
+                        "educational",
+                        0.833716382946782
+                    ],
+                    [
+                        "resource",
+                        0.833716382946782
+                    ],
+                    [
+                        "donation",
+                        0.8503089051130223
+                    ],
+                    [
+                        "additional",
+                        0.8590241622362472
+                    ],
+                    [
+                        "material",
+                        0.8590241622362472
+                    ],
+                    [
+                        "hundred",
+                        0.8590241622362472
+                    ],
+                    [
+                        "staff",
+                        0.8812822347985451
+                    ],
+                    [
+                        "people",
+                        0.8818893995916065
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.18588184772150335
+                    ],
+                    [
+                        "MIT",
+                        0.24002906442316085
+                    ],
+                    [
+                        "course",
+                        0.2583011152716657
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5098729074950009
+                    ],
+                    [
+                        "high",
+                        0.833716382946782
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-90": {
+            "id": "-c-X8zk0ywo-90",
+            "heat": 0.431,
+            "start": 90.0,
+            "text": " So, because this is MIT, we're going to start to quiz. OK, not a quiz for points or anything, don't freak out, but I do want you to tell me who these people are. So, what about this person? That's me -- this is my college yearbook photo. OK, what about this person over here? STUDENT: You? PROFESSOR: It's not me again. Not Elizabeth Taylor. It is Lisa Kudrow, known as Phoebe on \"Friends.\" So, we both went to college at the same time, we went to the same college. Does anybody know what college that was? STUDENT: Vassar. PROFESSOR: Vassar College, very good. And we graduated the same year -- now no one has to say what year that was, even if you know, but we did graduate the same year. All right. So, given what you know about us, what do you think Lisa went to college to study? STUDENT: Computer? PROFESSOR: Computers? No. STUDENT: Theatre?",
+            "metrics": {
+                "relativeDCReadability": 0.9500634299631093,
+                "lexicalDiversity": 0.4451219512195122,
+                "posComposition": {
+                    "RB": 0.073,
+                    "IN": 0.067,
+                    "DT": 0.079,
+                    "VBZ": 0.037,
+                    "NNP": 0.14,
+                    "PRP": 0.104,
+                    "VBP": 0.049,
+                    "VBG": 0.006,
+                    "TO": 0.049,
+                    "VB": 0.061,
+                    "NN": 0.104,
+                    "NNS": 0.018,
+                    "CC": 0.024,
+                    "RP": 0.006,
+                    "WP": 0.037,
+                    ":": 0.012,
+                    "PRP$": 0.006,
+                    "JJ": 0.037,
+                    "VBN": 0.012,
+                    "``": 0.006,
+                    "''": 0.006,
+                    "VBD": 0.049,
+                    "WDT": 0.018
+                },
+                "syllableRate": 1.883,
+                "topicScores": [
+                    [
+                        "PROFESSOR",
+                        0.27756606023820324
+                    ],
+                    [
+                        "STUDENT",
+                        0.2996168448490897
+                    ],
+                    [
+                        "college",
+                        0.357626389887576
+                    ],
+                    [
+                        "MIT",
+                        0.42994098509046436
+                    ],
+                    [
+                        "Lisa",
+                        0.43975638774883935
+                    ],
+                    [
+                        "year",
+                        0.45851814511136246
+                    ],
+                    [
+                        "Vassar",
+                        0.4712442332877994
+                    ],
+                    [
+                        "quiz",
+                        0.527372883428819
+                    ],
+                    [
+                        "person",
+                        0.5448324590465963
+                    ],
+                    [
+                        "friend",
+                        0.6396034565820078
+                    ],
+                    [
+                        "Taylor",
+                        0.6492600825312312
+                    ],
+                    [
+                        "Elizabeth",
+                        0.6633918397225003
+                    ],
+                    [
+                        "Computer",
+                        0.6697245314233192
+                    ],
+                    [
+                        "Theatre",
+                        0.675613264108033
+                    ],
+                    [
+                        "Kudrow",
+                        0.6818014819408608
+                    ],
+                    [
+                        "Phoebe",
+                        0.6818014819408608
+                    ],
+                    [
+                        "Elizabeth Taylor",
+                        0.7565858285916645
+                    ],
+                    [
+                        "people",
+                        0.8841788115199437
+                    ],
+                    [
+                        "point",
+                        0.8938032458103761
+                    ],
+                    [
+                        "photo",
+                        0.8944294079637016
+                    ],
+                    [
+                        "Lisa Kudrow",
+                        0.9055380915621662
+                    ],
+                    [
+                        "yearbook",
+                        0.9127374726830253
+                    ],
+                    [
+                        "good",
+                        0.9191081205414152
+                    ],
+                    [
+                        "time",
+                        0.9364044609681228
+                    ],
+                    [
+                        "Vassar College",
+                        1.0567572931589797
+                    ],
+                    [
+                        "yearbook photo",
+                        4.446007223773062
+                    ],
+                    [
+                        "college yearbook",
+                        5.401265640523345
+                    ],
+                    [
+                        "college yearbook photo",
+                        33.708971594783144
+                    ]
+                ],
+                "topTopicSimilarity": 0.2857142857142857,
+                "sharedTopicScores": [
+                    [
+                        "PROFESSOR",
+                        0.27756606023820324
+                    ],
+                    [
+                        "STUDENT",
+                        0.2996168448490897
+                    ],
+                    [
+                        "college",
+                        0.357626389887576
+                    ],
+                    [
+                        "MIT",
+                        0.42994098509046436
+                    ],
+                    [
+                        "Lisa",
+                        0.43975638774883935
+                    ],
+                    [
+                        "year",
+                        0.45851814511136246
+                    ],
+                    [
+                        "Theatre",
+                        0.675613264108033
+                    ],
+                    [
+                        "point",
+                        0.8938032458103761
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-180": {
+            "id": "-c-X8zk0ywo-180",
+            "heat": 0.346,
+            "start": 180.0,
+            "text": " PROFESSOR: Theatre? Surprisingly, no. STUDENT: Nuclear Engineering? PROFESSOR: Nuclear Engineering at Vassar, no for a variety of reasons. Any other guesses? STUDENT: English? PROFESSOR: English, no. Biology -- I heard it. Biology. What do you think I went to college to study? STUDENT: Theatre. PROFESSOR: Theatre, correct! And/or I hadn't made up my mind exactly -- biopsychology or drama. So, biopsychology was what they called sort of brain and cognitive sciences in those days. So, those were the two things I was thinking about. What do you think Lisa ended up majoring in college? STUDENT: Biopsychology. PROFESSOR: Not biopsychology. STUDENT: Biology. PROFESSOR: Biology, yes. What do you think I majored in college? This should be a bit easier. STUDENT: Chemistry. PROFESSOR: Chemistry, And, of course, our professions, actress and chemistry professor. So, let me ask what happened here? My understanding about Lisa Kudrow is that she came from a Hollywood family. She went to college and said here's my opportunity to study the thing that I find most interesting, and that was biology, and then she went back and participated in the family business, which was of course the acting profession.",
+            "metrics": {
+                "relativeDCReadability": 1.0953916022439443,
+                "lexicalDiversity": 0.533678756476684,
+                "posComposition": {
+                    "NNP": 0.202,
+                    "DT": 0.073,
+                    "IN": 0.073,
+                    "NN": 0.124,
+                    "NNS": 0.031,
+                    "JJ": 0.026,
+                    ":": 0.01,
+                    "PRP": 0.078,
+                    "VBD": 0.078,
+                    "WP": 0.026,
+                    "VBP": 0.026,
+                    "VB": 0.052,
+                    "TO": 0.021,
+                    "RB": 0.052,
+                    "VBN": 0.016,
+                    "RP": 0.01,
+                    "PRP$": 0.016,
+                    "CC": 0.041,
+                    "CD": 0.005,
+                    "VBG": 0.016,
+                    "MD": 0.005,
+                    "VBZ": 0.005,
+                    "POS": 0.005,
+                    "RBS": 0.005,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.808,
+                "topicScores": [
+                    [
+                        "PROFESSOR",
+                        0.17142778372207484
+                    ],
+                    [
+                        "STUDENT",
+                        0.18589329569368765
+                    ],
+                    [
+                        "Theatre",
+                        0.29232725252192077
+                    ],
+                    [
+                        "biology",
+                        0.3450563489177061
+                    ],
+                    [
+                        "biopsychology",
+                        0.354124324307534
+                    ],
+                    [
+                        "Engineering",
+                        0.3567535331358695
+                    ],
+                    [
+                        "college",
+                        0.38428611672438406
+                    ],
+                    [
+                        "Nuclear Engineering",
+                        0.40205740841904103
+                    ],
+                    [
+                        "Chemistry",
+                        0.4227278155181839
+                    ],
+                    [
+                        "Lisa",
+                        0.44939894835076283
+                    ],
+                    [
+                        "English",
+                        0.4536736606299394
+                    ],
+                    [
+                        "course",
+                        0.5815390031100308
+                    ],
+                    [
+                        "thing",
+                        0.5824913717334709
+                    ],
+                    [
+                        "family",
+                        0.5840118018257523
+                    ],
+                    [
+                        "Vassar",
+                        0.6348843241409097
+                    ],
+                    [
+                        "Hollywood",
+                        0.7181018872266747
+                    ],
+                    [
+                        "Kudrow",
+                        0.7278089860229987
+                    ],
+                    [
+                        "reason",
+                        0.9111236415432348
+                    ],
+                    [
+                        "guess",
+                        0.9150072204063106
+                    ],
+                    [
+                        "correct",
+                        0.9235796306537264
+                    ],
+                    [
+                        "variety",
+                        0.9305064600645709
+                    ],
+                    [
+                        "drama",
+                        0.9310212684581172
+                    ],
+                    [
+                        "day",
+                        0.9317796334579188
+                    ],
+                    [
+                        "easy",
+                        0.9361090269417359
+                    ],
+                    [
+                        "mind",
+                        0.9418284893240436
+                    ],
+                    [
+                        "bit",
+                        0.9461652171935955
+                    ],
+                    [
+                        "actress",
+                        0.9468219279445695
+                    ],
+                    [
+                        "brain",
+                        0.9469200791339916
+                    ],
+                    [
+                        "cognitive",
+                        0.9469200791339916
+                    ],
+                    [
+                        "science",
+                        0.9469200791339916
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "PROFESSOR",
+                        0.17142778372207484
+                    ],
+                    [
+                        "STUDENT",
+                        0.18589329569368765
+                    ],
+                    [
+                        "Theatre",
+                        0.29232725252192077
+                    ],
+                    [
+                        "biology",
+                        0.3450563489177061
+                    ],
+                    [
+                        "college",
+                        0.38428611672438406
+                    ],
+                    [
+                        "Lisa",
+                        0.44939894835076283
+                    ],
+                    [
+                        "course",
+                        0.5815390031100308
+                    ],
+                    [
+                        "thing",
+                        0.5824913717334709
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-270": {
+            "id": "-c-X8zk0ywo-270",
+            "heat": 0.317,
+            "start": 270.0,
+            "text": " For me, what happened? Well, I have to say, I did not like chemistry in high school, so I did not think about going to college to study chemistry. So, why did I not like chemistry in high school? I think it was because of images such as this one. You spend a lot of time talking about the transition between alchemy and modern chemistry. I wasn't very interested in that kind of thing, and there's nothing in these photographs that really appealed to me personally. I mean, Avogadro -- I'm fond of his number, and he is, in fact, an interesting, if not frightening looking man -- this just didn't connect with me. But then I got to college and they said, \"Well, if you're thinking about anything bio -- biopsychology, biology -- you have to take chemistry.\" And I said to my advisor, \"No, no. I have taken chemistry in high school, and I can assure you that chemistry has no relevance whatsoever to the life sciences.\" And they said, \"Well, I'm sorry you feel that way, it's incorrect, and you have to take it anyway.\" So, I, like some of you in this room, took freshman chemistry, because we had to, not because we wanted to. And I, like hopefully some of you in this room, discovered that chemistry was actually a lot of fun, and that the",
+            "metrics": {
+                "relativeDCReadability": 0.9583444150819778,
+                "lexicalDiversity": 0.4385245901639344,
+                "posComposition": {
+                    "IN": 0.131,
+                    "PRP": 0.139,
+                    "WP": 0.004,
+                    "VBD": 0.07,
+                    "NNP": 0.02,
+                    "VBP": 0.053,
+                    "TO": 0.045,
+                    "VB": 0.029,
+                    "RB": 0.074,
+                    "JJ": 0.045,
+                    "NN": 0.152,
+                    "VBG": 0.02,
+                    "WRB": 0.004,
+                    "NNS": 0.012,
+                    "DT": 0.07,
+                    "CD": 0.004,
+                    "CC": 0.045,
+                    "EX": 0.004,
+                    "VBZ": 0.016,
+                    "WDT": 0.004,
+                    ":": 0.016,
+                    "PRP$": 0.008,
+                    "``": 0.012,
+                    "''": 0.012,
+                    "VBN": 0.004,
+                    "MD": 0.004
+                },
+                "syllableRate": 2.842,
+                "topicScores": [
+                    [
+                        "chemistry",
+                        0.23729960389254262
+                    ],
+                    [
+                        "high",
+                        0.37515787368404824
+                    ],
+                    [
+                        "school",
+                        0.390321017176397
+                    ],
+                    [
+                        "college",
+                        0.5426693699189891
+                    ],
+                    [
+                        "room",
+                        0.5476916730835614
+                    ],
+                    [
+                        "lot",
+                        0.5491643172206158
+                    ],
+                    [
+                        "Avogadro",
+                        0.5937696882558839
+                    ],
+                    [
+                        "high school",
+                        0.7069365387912833
+                    ],
+                    [
+                        "image",
+                        0.8957550538654729
+                    ],
+                    [
+                        "modern",
+                        0.8980991266209725
+                    ],
+                    [
+                        "time",
+                        0.9032837246874008
+                    ],
+                    [
+                        "transition",
+                        0.9032837246874008
+                    ],
+                    [
+                        "alchemy",
+                        0.9032837246874008
+                    ],
+                    [
+                        "thing",
+                        0.9036621188480168
+                    ],
+                    [
+                        "advisor",
+                        0.9061590130784847
+                    ],
+                    [
+                        "fact",
+                        0.9061592691538715
+                    ],
+                    [
+                        "interesting",
+                        0.9061592691538715
+                    ],
+                    [
+                        "science",
+                        0.9082240938903363
+                    ],
+                    [
+                        "interested",
+                        0.9085924856791721
+                    ],
+                    [
+                        "kind",
+                        0.9085924856791721
+                    ],
+                    [
+                        "photograph",
+                        0.9085924856791721
+                    ],
+                    [
+                        "biopsychology",
+                        0.9089467256677796
+                    ],
+                    [
+                        "biology",
+                        0.9089467256677796
+                    ],
+                    [
+                        "number",
+                        0.9111146998148781
+                    ],
+                    [
+                        "man",
+                        0.9111146998148781
+                    ],
+                    [
+                        "fond",
+                        0.9156992401634856
+                    ],
+                    [
+                        "frightening",
+                        0.9156992401634856
+                    ],
+                    [
+                        "freshman",
+                        0.9163945946178264
+                    ],
+                    [
+                        "life",
+                        0.9178427200525032
+                    ],
+                    [
+                        "way",
+                        0.9194520733416226
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "chemistry",
+                        0.23729960389254262
+                    ],
+                    [
+                        "high",
+                        0.37515787368404824
+                    ],
+                    [
+                        "school",
+                        0.390321017176397
+                    ],
+                    [
+                        "college",
+                        0.5426693699189891
+                    ],
+                    [
+                        "lot",
+                        0.5491643172206158
+                    ],
+                    [
+                        "thing",
+                        0.9036621188480168
+                    ],
+                    [
+                        "interested",
+                        0.9085924856791721
+                    ],
+                    [
+                        "kind",
+                        0.9085924856791721
+                    ],
+                    [
+                        "biology",
+                        0.9089467256677796
+                    ],
+                    [
+                        "way",
+                        0.9194520733416226
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-360": {
+            "id": "-c-X8zk0ywo-360",
+            "heat": 0.33,
+            "start": 360.0,
+            "text": " chemistry I got in college was pretty much nothing like the chemistry I had seen in high school. So, let me introduce you to some of the topics we are going to be covering in chemistry this semester. So, there's more detail on your syllabus -- a detail of what we'll cover every day, but these are the kind of basic things that were covering, and you don't need to write this down, you'll become familiar with it as the semester goes on. We start out with some really basic principles. So, up here, atomic theory, periodic table, bonding, structures and molecules. And there will be a little bit of history in there, but this is mostly modern chemistry and represents the basic properties of matter, and it's basic properties of all matter, including living matter, which was what really interested me, that connection between chemistry and biology. So, then we go to thermodynamics and chemical equilibrium, and this is really about chemical reactions -- weather a reaction will go, will it be spontaneous, if there an equilibrium, what direction will the reaction be shifted in. And then, of course, not just whether the reaction will occur but, how fast it occurs is really important. So, that's kinetics -- how fast a reaction will go, and from the perspective of someone who's a biochemist, I'm interested in kinetics and enzyme kinetics, and thinking about molecules that catalyze reactions in the body. And then, there's acid base equilibrium, and also",
+            "metrics": {
+                "relativeDCReadability": 1.0664046314052862,
+                "lexicalDiversity": 0.4689922480620155,
+                "posComposition": {
+                    "NN": 0.151,
+                    "PRP": 0.062,
+                    "VBD": 0.019,
+                    "IN": 0.109,
+                    "RB": 0.078,
+                    "JJ": 0.078,
+                    "DT": 0.097,
+                    "VBN": 0.008,
+                    "NNP": 0.008,
+                    "VB": 0.05,
+                    "TO": 0.016,
+                    "NNS": 0.054,
+                    "VBP": 0.031,
+                    "VBG": 0.023,
+                    "EX": 0.016,
+                    "VBZ": 0.043,
+                    "JJR": 0.004,
+                    "PRP$": 0.004,
+                    ":": 0.012,
+                    "WP": 0.016,
+                    "MD": 0.031,
+                    "CC": 0.066,
+                    "WDT": 0.012,
+                    "RP": 0.008,
+                    "WRB": 0.008
+                },
+                "syllableRate": 3.417,
+                "topicScores": [
+                    [
+                        "reaction",
+                        0.29386039570907746
+                    ],
+                    [
+                        "chemistry",
+                        0.30298796749169576
+                    ],
+                    [
+                        "basic",
+                        0.34571627392104526
+                    ],
+                    [
+                        "equilibrium",
+                        0.41540480120974793
+                    ],
+                    [
+                        "matter",
+                        0.42089021260151066
+                    ],
+                    [
+                        "kinetic",
+                        0.4307900051746374
+                    ],
+                    [
+                        "semester",
+                        0.4940764417824919
+                    ],
+                    [
+                        "detail",
+                        0.5262575903876299
+                    ],
+                    [
+                        "fast",
+                        0.527898581801408
+                    ],
+                    [
+                        "molecule",
+                        0.5319847475802821
+                    ],
+                    [
+                        "interested",
+                        0.5378035543012767
+                    ],
+                    [
+                        "property",
+                        0.5397225732772984
+                    ],
+                    [
+                        "chemical",
+                        0.5473150938043798
+                    ],
+                    [
+                        "school",
+                        0.7429302579012244
+                    ],
+                    [
+                        "high",
+                        0.7653977309491012
+                    ],
+                    [
+                        "college",
+                        0.7756473930297422
+                    ],
+                    [
+                        "topic",
+                        0.8387932660081239
+                    ],
+                    [
+                        "principle",
+                        0.856309195553748
+                    ],
+                    [
+                        "syllabus",
+                        0.8564744873353677
+                    ],
+                    [
+                        "day",
+                        0.8564744873353677
+                    ],
+                    [
+                        "kind",
+                        0.8634549108481981
+                    ],
+                    [
+                        "thing",
+                        0.8634549108481981
+                    ],
+                    [
+                        "familiar",
+                        0.8634549108481981
+                    ],
+                    [
+                        "atomic",
+                        0.8732319784670637
+                    ],
+                    [
+                        "theory",
+                        0.8732319784670637
+                    ],
+                    [
+                        "periodic",
+                        0.8732319784670637
+                    ],
+                    [
+                        "table",
+                        0.8732319784670637
+                    ],
+                    [
+                        "bonding",
+                        0.8732319784670637
+                    ],
+                    [
+                        "biology",
+                        0.8733172650611628
+                    ],
+                    [
+                        "structure",
+                        0.8796953478437574
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "reaction",
+                        0.29386039570907746
+                    ],
+                    [
+                        "chemistry",
+                        0.30298796749169576
+                    ],
+                    [
+                        "molecule",
+                        0.5319847475802821
+                    ],
+                    [
+                        "interested",
+                        0.5378035543012767
+                    ],
+                    [
+                        "school",
+                        0.7429302579012244
+                    ],
+                    [
+                        "high",
+                        0.7653977309491012
+                    ],
+                    [
+                        "college",
+                        0.7756473930297422
+                    ],
+                    [
+                        "kind",
+                        0.8634549108481981
+                    ],
+                    [
+                        "thing",
+                        0.8634549108481981
+                    ],
+                    [
+                        "biology",
+                        0.8733172650611628
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-450": {
+            "id": "-c-X8zk0ywo-450",
+            "heat": 0.432,
+            "start": 450.0,
+            "text": " oxidation reduction reactions, and what is true is that most reactions that occur are either catalyzed by either some kind of acid base catalysis or involve some kind of oxidation reduction reaction, and so, this sort of represents a lot of the basic way reactions go -- now, whether that's a reaction in your body or a reaction in a test tube -- it doesn't matter, a lot of the same principles are involved. And then, we also cover transition metals, which is something that you often don't see in high school. And transition metals, those all medals in the middle of your periodic table, have some really unique properties, which are exploited again in reactions that occur in your body, and also are utilized in industry, for example, so we'll talk about some of those unique properties. And if we put all of that together, we get the real fundamentals that you need to go on and study -- any kind of curriculum that involves chemistry. So, these are all the fundamentals that are involved in chemistry that relate to physical chemistry, organic chemistry, inorganic chemistry, biological chemistry, and are a solid foundation for studying any kind of life science. So, I congratulate you of being here in this class, this is really good solid foundation for whatever you go on to do, here at MIT. So, normally at this point, we do actually start class with a little bit of history from alchemy to modern chemistry, but I decided to skip that this year. If you are interested in that, it's never required on any",
+            "metrics": {
+                "relativeDCReadability": 1.1292190953596566,
+                "lexicalDiversity": 0.47058823529411764,
+                "posComposition": {
+                    "NN": 0.184,
+                    "NNS": 0.048,
+                    "CC": 0.04,
+                    "WP": 0.004,
+                    "VBZ": 0.033,
+                    "JJ": 0.07,
+                    "IN": 0.162,
+                    "JJS": 0.004,
+                    "VBP": 0.074,
+                    "DT": 0.125,
+                    "VBN": 0.018,
+                    "VB": 0.033,
+                    "RB": 0.059,
+                    ":": 0.011,
+                    "PRP$": 0.011,
+                    "PRP": 0.051,
+                    "WDT": 0.026,
+                    "MD": 0.004,
+                    "TO": 0.018,
+                    "PDT": 0.004,
+                    "VBG": 0.007,
+                    "NNP": 0.011,
+                    "VBD": 0.004
+                },
+                "syllableRate": 3.592,
+                "topicScores": [
+                    [
+                        "reaction",
+                        0.24655502114511957
+                    ],
+                    [
+                        "chemistry",
+                        0.26776030465596007
+                    ],
+                    [
+                        "kind",
+                        0.3225198061782493
+                    ],
+                    [
+                        "reduction",
+                        0.4667134317644966
+                    ],
+                    [
+                        "lot",
+                        0.47423027936614287
+                    ],
+                    [
+                        "oxidation",
+                        0.4789883087722447
+                    ],
+                    [
+                        "body",
+                        0.485574581844483
+                    ],
+                    [
+                        "transition",
+                        0.48628471570869153
+                    ],
+                    [
+                        "metal",
+                        0.4959568715316381
+                    ],
+                    [
+                        "property",
+                        0.5151881573052473
+                    ],
+                    [
+                        "fundamental",
+                        0.5158847719973617
+                    ],
+                    [
+                        "unique",
+                        0.51796225990511
+                    ],
+                    [
+                        "solid",
+                        0.5209629147344152
+                    ],
+                    [
+                        "foundation",
+                        0.5209629147344152
+                    ],
+                    [
+                        "class",
+                        0.5343435325922226
+                    ],
+                    [
+                        "MIT",
+                        0.5921126336304423
+                    ],
+                    [
+                        "reduction reaction",
+                        0.7623047223864092
+                    ],
+                    [
+                        "oxidation reduction",
+                        0.8081758146089524
+                    ],
+                    [
+                        "sort",
+                        0.8204711897248953
+                    ],
+                    [
+                        "test",
+                        0.8204711897248953
+                    ],
+                    [
+                        "tube",
+                        0.8204711897248953
+                    ],
+                    [
+                        "school",
+                        0.8293702223773451
+                    ],
+                    [
+                        "true",
+                        0.8296346953682665
+                    ],
+                    [
+                        "acid",
+                        0.8296346953682665
+                    ],
+                    [
+                        "base",
+                        0.8296346953682665
+                    ],
+                    [
+                        "catalysis",
+                        0.8296346953682665
+                    ],
+                    [
+                        "basic",
+                        0.8296346953682665
+                    ],
+                    [
+                        "way",
+                        0.8296346953682665
+                    ],
+                    [
+                        "principle",
+                        0.8296346953682665
+                    ],
+                    [
+                        "high",
+                        0.8474259265265519
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "reaction",
+                        0.24655502114511957
+                    ],
+                    [
+                        "chemistry",
+                        0.26776030465596007
+                    ],
+                    [
+                        "kind",
+                        0.3225198061782493
+                    ],
+                    [
+                        "lot",
+                        0.47423027936614287
+                    ],
+                    [
+                        "class",
+                        0.5343435325922226
+                    ],
+                    [
+                        "MIT",
+                        0.5921126336304423
+                    ],
+                    [
+                        "school",
+                        0.8293702223773451
+                    ],
+                    [
+                        "way",
+                        0.8296346953682665
+                    ],
+                    [
+                        "high",
+                        0.8474259265265519
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-540": {
+            "id": "-c-X8zk0ywo-540",
+            "heat": 0.459,
+            "start": 540.0,
+            "text": " test, it never has been, but if you're interested in that there is an OCW lecture, which you can listen to that's an excellent lecture by Professor Sylvia Ceyer on that. But today instead, I thought I would give you some examples of modern chemistry -- why people now need to know chemistry, what they're doing with chemistry, what is chemistry research here at MIT, and how does it utilize these basic principles, which we'll be talking about in the course. So, I'll start with my colleague, Professor Joanne Stubbe. She studies molecules, in particular she studies biological molecules. And, so one of the things she's very interested in is how this anti-cancer drug, gemcitabine, works in the body. So, it inhibits an enzyme, and she's interested in knowing how that really works. So, enzymes are made up of amino acids, you have long chains of amino acids that form together into a protein molecules, protein molecules in your body often act as enzymes, catalyzing reactions. So, she is interested in how this molecule, gemcitabine, inhibits an enzyme. So, to do those studies, she needs to know a lot of the stuff on this list. Of course, she needs to know the basic principles, but she's also talking about it an enzyme, so she needs to know about enzyme catalysis. She needs to know this enzyme works by both acid base chemistry, and oxidation reduction. It has two irons that are involved in doing the chemistry, so it includes transition metals. She thinks about how things bind, how the natural",
+            "metrics": {
+                "relativeDCReadability": 1.0441872952979205,
+                "lexicalDiversity": 0.48134328358208955,
+                "posComposition": {
+                    "NN": 0.127,
+                    "PRP": 0.097,
+                    "RB": 0.049,
+                    "VBZ": 0.086,
+                    "VBN": 0.011,
+                    "CC": 0.026,
+                    "IN": 0.127,
+                    "VBP": 0.03,
+                    "JJ": 0.067,
+                    "DT": 0.097,
+                    "EX": 0.004,
+                    "NNP": 0.03,
+                    "WDT": 0.015,
+                    "MD": 0.015,
+                    "VB": 0.041,
+                    "TO": 0.026,
+                    "VBD": 0.004,
+                    "NNS": 0.075,
+                    ":": 0.004,
+                    "WRB": 0.026,
+                    "WP": 0.007,
+                    "VBG": 0.022,
+                    "PRP$": 0.007,
+                    "CD": 0.007
+                },
+                "syllableRate": 3.433,
+                "topicScores": [
+                    [
+                        "Professor Sylvia Ceyer",
+                        0.2539877284710966
+                    ],
+                    [
+                        "enzyme",
+                        0.2730711235265702
+                    ],
+                    [
+                        "chemistry",
+                        0.2950365447070317
+                    ],
+                    [
+                        "molecule",
+                        0.3125687199910029
+                    ],
+                    [
+                        "interested",
+                        0.33491236557372156
+                    ],
+                    [
+                        "Professor Joanne Stubbe",
+                        0.35809601262017715
+                    ],
+                    [
+                        "study",
+                        0.4157366759030461
+                    ],
+                    [
+                        "work",
+                        0.42318462943737695
+                    ],
+                    [
+                        "acid",
+                        0.4291625131919524
+                    ],
+                    [
+                        "OCW",
+                        0.4915863494509546
+                    ],
+                    [
+                        "lecture",
+                        0.5122336696012254
+                    ],
+                    [
+                        "basic",
+                        0.535936141656314
+                    ],
+                    [
+                        "course",
+                        0.535936141656314
+                    ],
+                    [
+                        "gemcitabine",
+                        0.5376064494373705
+                    ],
+                    [
+                        "principle",
+                        0.5379737464075148
+                    ],
+                    [
+                        "body",
+                        0.5379737464075148
+                    ],
+                    [
+                        "MIT",
+                        0.5402507991030543
+                    ],
+                    [
+                        "amino",
+                        0.5507813162265649
+                    ],
+                    [
+                        "protein",
+                        0.5525545225862654
+                    ],
+                    [
+                        "thing",
+                        0.5543697105623533
+                    ],
+                    [
+                        "OCW lecture",
+                        0.6641836457239111
+                    ],
+                    [
+                        "test",
+                        0.829169168203565
+                    ],
+                    [
+                        "excellent",
+                        0.8591890925711464
+                    ],
+                    [
+                        "today",
+                        0.8690336635955757
+                    ],
+                    [
+                        "modern",
+                        0.8753139125146626
+                    ],
+                    [
+                        "people",
+                        0.8753139125146626
+                    ],
+                    [
+                        "example",
+                        0.8811725736721286
+                    ],
+                    [
+                        "research",
+                        0.8811725736721286
+                    ],
+                    [
+                        "colleague",
+                        0.8878224149062729
+                    ],
+                    [
+                        "reaction",
+                        0.8936937678960951
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "enzyme",
+                        0.2730711235265702
+                    ],
+                    [
+                        "chemistry",
+                        0.2950365447070317
+                    ],
+                    [
+                        "molecule",
+                        0.3125687199910029
+                    ],
+                    [
+                        "interested",
+                        0.33491236557372156
+                    ],
+                    [
+                        "study",
+                        0.4157366759030461
+                    ],
+                    [
+                        "work",
+                        0.42318462943737695
+                    ],
+                    [
+                        "course",
+                        0.535936141656314
+                    ],
+                    [
+                        "MIT",
+                        0.5402507991030543
+                    ],
+                    [
+                        "thing",
+                        0.5543697105623533
+                    ],
+                    [
+                        "example",
+                        0.8811725736721286
+                    ],
+                    [
+                        "reaction",
+                        0.8936937678960951
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-630": {
+            "id": "-c-X8zk0ywo-630",
+            "heat": 0.364,
+            "start": 630.0,
+            "text": " reactants binds, how the inhibitor binds, and so she needs to know what happens to the chemical equilibrium, she needs to know about the thermodynamics of those binding events, and, of course, everything, all the basic principles, are required here. So, to do this biochemistry research, she needs to know all of these things, and she has really made tremendous progress in understanding how gemcitabine works, and it is not so toxic, so it's a really good thing to have in chemotherapy. So, in addition to studying molecules, chemists often want to make molecules, such as Tim Jamison, who's an organic chemist. So, you will hear, probably, hopefully, in this presidential debate about the environment and about why saving the environment is important. And one of the things you often hear about in this discussion is about our oceans and about rainforests, and part of the reason why people want to protect those areas is because you find a lot of natural products in those regions. So, a natural product is something that is made by nature, and often natural products, whether it comes from a plant or a marine organism have some really good, useful properties. And so, one particular compound has anti-tumor properties. So, again, along this line of cancer research. So, Tim Jamison's lab figured out how to make this thing. And often that's really important, because you can't get enough of the organism that naturally makes it, to be able to grind that organism up and have enough that you can",
+            "metrics": {
+                "relativeDCReadability": 0.9945599593246597,
+                "lexicalDiversity": 0.4807692307692308,
+                "posComposition": {
+                    "NNS": 0.077,
+                    "VBZ": 0.069,
+                    "WRB": 0.019,
+                    "DT": 0.108,
+                    "NN": 0.123,
+                    "CC": 0.05,
+                    "RB": 0.088,
+                    "PRP": 0.05,
+                    "TO": 0.046,
+                    "VB": 0.046,
+                    "WP": 0.008,
+                    "IN": 0.112,
+                    "VBG": 0.015,
+                    "PDT": 0.004,
+                    "JJ": 0.069,
+                    "VBP": 0.031,
+                    "VBN": 0.015,
+                    "NNP": 0.027,
+                    "MD": 0.012,
+                    "CD": 0.008,
+                    "PRP$": 0.004,
+                    "WDT": 0.008,
+                    "POS": 0.004,
+                    "VBD": 0.004,
+                    "RP": 0.004
+                },
+                "syllableRate": 3.425,
+                "topicScores": [
+                    [
+                        "Tim Jamison",
+                        0.25894598884155695
+                    ],
+                    [
+                        "thing",
+                        0.3379405993649336
+                    ],
+                    [
+                        "natural",
+                        0.4024315920790374
+                    ],
+                    [
+                        "product",
+                        0.40651637222464515
+                    ],
+                    [
+                        "organism",
+                        0.4270480791945705
+                    ],
+                    [
+                        "property",
+                        0.49612156058983514
+                    ],
+                    [
+                        "good",
+                        0.5077009704869213
+                    ],
+                    [
+                        "molecule",
+                        0.5104814269471888
+                    ],
+                    [
+                        "chemist",
+                        0.5128548443589314
+                    ],
+                    [
+                        "research",
+                        0.5134549721879661
+                    ],
+                    [
+                        "important",
+                        0.5169236372600404
+                    ],
+                    [
+                        "environment",
+                        0.5301686588949989
+                    ],
+                    [
+                        "reactant",
+                        0.728419474202025
+                    ],
+                    [
+                        "course",
+                        0.7504352965301598
+                    ],
+                    [
+                        "inhibitor",
+                        0.7605565448922192
+                    ],
+                    [
+                        "chemical",
+                        0.7605565448922192
+                    ],
+                    [
+                        "equilibrium",
+                        0.7605565448922192
+                    ],
+                    [
+                        "event",
+                        0.7605565448922192
+                    ],
+                    [
+                        "basic",
+                        0.7605565448922192
+                    ],
+                    [
+                        "principle",
+                        0.7605565448922192
+                    ],
+                    [
+                        "thermodynamic",
+                        0.7701342950569753
+                    ],
+                    [
+                        "chemotherapy",
+                        0.8105197727120957
+                    ],
+                    [
+                        "biochemistry",
+                        0.8270025267292286
+                    ],
+                    [
+                        "gemcitabine",
+                        0.8270025267292286
+                    ],
+                    [
+                        "toxic",
+                        0.8270025267292286
+                    ],
+                    [
+                        "tremendous",
+                        0.8345007882148747
+                    ],
+                    [
+                        "progress",
+                        0.8345007882148747
+                    ],
+                    [
+                        "addition",
+                        0.853152150554135
+                    ],
+                    [
+                        "organic",
+                        0.853152150554135
+                    ],
+                    [
+                        "region",
+                        0.8643192875799776
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Tim Jamison",
+                        0.25894598884155695
+                    ],
+                    [
+                        "thing",
+                        0.3379405993649336
+                    ],
+                    [
+                        "molecule",
+                        0.5104814269471888
+                    ],
+                    [
+                        "course",
+                        0.7504352965301598
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-720": {
+            "id": "-c-X8zk0ywo-720",
+            "heat": 0.366,
+            "start": 720.0,
+            "text": " actually use as a medicine. So, you have to make more of it, because nature doesn't make enough. So, it's very important to figure out how to do that. So, in doing that, Tim Jamison's lab needs a lot of these things. So, he needs a lot of knowledge of bonding, he wants to form bonds in making this. He needs to know about the structures of the molecules, because if the structure is wrong it's not going to work. And often, if you want to make a lot of it, you have to think about the thermodynamics of the system, how fast the reactions will go and kinetics, and then whether they'll go, the thermodynamics, and sometimes then you need to adjust the reactions, maybe use a transition metal to make it go better. So, these are all the things that Tim Jamison needs to know to do organic chemistry. So, you'll be learning in this class a great preparation for 512, which is organic chemistry. In addition to studying molecules and making molecules, some chemists want to detect molecules, and a chemist who likes to detect molecules is Tim Swager. So, Tim Swager's lab has designed sensors that detect vapors, and so they will detect TNT, for example. And so, he has put this chemistry to use in this robotic arm and they call it Fido, because often dogs are the creatures that have to go out and detect these things, and it's not a great job if you're a dog to be sent out to see whether there was an explosive and discover yes, there was, a little bit too late.",
+            "metrics": {
+                "relativeDCReadability": 0.9580756111417235,
+                "lexicalDiversity": 0.4558303886925795,
+                "posComposition": {
+                    "RB": 0.071,
+                    "IN": 0.102,
+                    "DT": 0.11,
+                    "NN": 0.085,
+                    "PRP": 0.071,
+                    "VBP": 0.039,
+                    "TO": 0.067,
+                    "VB": 0.088,
+                    "JJR": 0.004,
+                    "VBZ": 0.053,
+                    "JJ": 0.042,
+                    "RP": 0.011,
+                    "WRB": 0.007,
+                    "NNP": 0.042,
+                    "VBG": 0.025,
+                    "POS": 0.007,
+                    "NNS": 0.071,
+                    "CC": 0.042,
+                    "MD": 0.014,
+                    "RBR": 0.004,
+                    "PDT": 0.004,
+                    "WDT": 0.011,
+                    "CD": 0.004,
+                    "WP": 0.004,
+                    "VBN": 0.011,
+                    "EX": 0.007,
+                    "VBD": 0.007
+                },
+                "syllableRate": 3.233,
+                "topicScores": [
+                    [
+                        "Tim",
+                        0.22629338598938603
+                    ],
+                    [
+                        "Tim Jamison",
+                        0.2641107888926925
+                    ],
+                    [
+                        "Tim Swager",
+                        0.27983073239228373
+                    ],
+                    [
+                        "molecule",
+                        0.3248930305805211
+                    ],
+                    [
+                        "lot",
+                        0.39390199098376877
+                    ],
+                    [
+                        "thing",
+                        0.415323664586334
+                    ],
+                    [
+                        "chemistry",
+                        0.4155897041259041
+                    ],
+                    [
+                        "organic",
+                        0.535810783743146
+                    ],
+                    [
+                        "lab",
+                        0.5434607783736856
+                    ],
+                    [
+                        "thermodynamic",
+                        0.5463589512835514
+                    ],
+                    [
+                        "great",
+                        0.5502467414279477
+                    ],
+                    [
+                        "reaction",
+                        0.550882036635518
+                    ],
+                    [
+                        "structure",
+                        0.5511403774507206
+                    ],
+                    [
+                        "dog",
+                        0.5638514876273039
+                    ],
+                    [
+                        "TNT",
+                        0.6459545092592477
+                    ],
+                    [
+                        "Fido",
+                        0.6508638760308377
+                    ],
+                    [
+                        "medicine",
+                        0.7590238740366078
+                    ],
+                    [
+                        "nature",
+                        0.8430598821930047
+                    ],
+                    [
+                        "important",
+                        0.8738998917649684
+                    ],
+                    [
+                        "bonding",
+                        0.8888868044942259
+                    ],
+                    [
+                        "example",
+                        0.893396174503038
+                    ],
+                    [
+                        "knowledge",
+                        0.8946482962593021
+                    ],
+                    [
+                        "system",
+                        0.899408325454887
+                    ],
+                    [
+                        "fast",
+                        0.899408325454887
+                    ],
+                    [
+                        "kinetic",
+                        0.899408325454887
+                    ],
+                    [
+                        "wrong",
+                        0.9003787799922178
+                    ],
+                    [
+                        "transition",
+                        0.9046827528369603
+                    ],
+                    [
+                        "metal",
+                        0.9046827528369603
+                    ],
+                    [
+                        "addition",
+                        0.9082125471042386
+                    ],
+                    [
+                        "vapor",
+                        0.9102369140069679
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "Tim",
+                        0.22629338598938603
+                    ],
+                    [
+                        "Tim Jamison",
+                        0.2641107888926925
+                    ],
+                    [
+                        "molecule",
+                        0.3248930305805211
+                    ],
+                    [
+                        "lot",
+                        0.39390199098376877
+                    ],
+                    [
+                        "thing",
+                        0.415323664586334
+                    ],
+                    [
+                        "chemistry",
+                        0.4155897041259041
+                    ],
+                    [
+                        "reaction",
+                        0.550882036635518
+                    ],
+                    [
+                        "example",
+                        0.893396174503038
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-810": {
+            "id": "-c-X8zk0ywo-810",
+            "heat": 0.355,
+            "start": 810.0,
+            "text": " So, this is a much nicer way to detect chemicals with this robotic arm, and here's a picture of it in use in Iraq. So, in doing this, if you go down to kind of a basic principles that Tim needed to know about, oxidation reduction was really key in developing this technology, so we'll talk about that. So, my final example is from Alan Davidson's lab, and Alan is an inorganic chemist -- he loved those transition metals and they're unique properties, and he designed this compound, it's called Cardiolite, and it's used in heart imaging. So, many people have relatives they know of that have had to have their heart imaged -- heart disease is a major problem in the United States, and there's a good chance that they had Cardiolite given to them to help in that imaging process. So, this again, takes advantage of those great unique properties of transition metals, which we'll talk about in this course. So, again, all together, this is the basis for modern chemistry, and examples I just gave you, are some of the things that modern chemists are working on -- some of the issues that our country faces and our world faces, and how chemistry is involved in that. So, not only will you have the fundamental knowledge to go on and take more courses in chemistry, you will also have the fundamental knowledge to go on and do undergraduate research here, and here are some of the 5.111",
+            "metrics": {
+                "relativeDCReadability": 1.0980874939499983,
+                "lexicalDiversity": 0.437984496124031,
+                "posComposition": {
+                    "RB": 0.066,
+                    "DT": 0.12,
+                    "VBZ": 0.054,
+                    "JJ": 0.066,
+                    "NN": 0.128,
+                    "TO": 0.031,
+                    "VB": 0.047,
+                    "NNS": 0.047,
+                    "IN": 0.116,
+                    "CC": 0.047,
+                    "PRP": 0.062,
+                    "NNP": 0.043,
+                    "VBG": 0.019,
+                    "VBP": 0.031,
+                    "WDT": 0.012,
+                    "VBD": 0.023,
+                    "MD": 0.016,
+                    "PRP$": 0.016,
+                    "POS": 0.004,
+                    ":": 0.012,
+                    "VBN": 0.023,
+                    "NNPS": 0.004,
+                    "EX": 0.004,
+                    "WRB": 0.004,
+                    "JJR": 0.004,
+                    "CD": 0.004
+                },
+                "syllableRate": 3.108,
+                "topicScores": [
+                    [
+                        "Alan",
+                        0.32340057887729184
+                    ],
+                    [
+                        "Cardiolite",
+                        0.3246869155563117
+                    ],
+                    [
+                        "Iraq",
+                        0.3601014207928939
+                    ],
+                    [
+                        "Alan Davidson",
+                        0.3813174010597124
+                    ],
+                    [
+                        "heart",
+                        0.3913609623336797
+                    ],
+                    [
+                        "chemistry",
+                        0.410923022737086
+                    ],
+                    [
+                        "United States",
+                        0.4527964230681321
+                    ],
+                    [
+                        "imaging",
+                        0.4746890255758457
+                    ],
+                    [
+                        "Tim",
+                        0.48988464759251515
+                    ],
+                    [
+                        "transition",
+                        0.4931175450798004
+                    ],
+                    [
+                        "unique",
+                        0.4931175450798004
+                    ],
+                    [
+                        "metal",
+                        0.49415790062909376
+                    ],
+                    [
+                        "property",
+                        0.49415790062909376
+                    ],
+                    [
+                        "example",
+                        0.5075819847906988
+                    ],
+                    [
+                        "course",
+                        0.5119200786327853
+                    ],
+                    [
+                        "fundamental",
+                        0.5144693065663467
+                    ],
+                    [
+                        "knowledge",
+                        0.5144693065663467
+                    ],
+                    [
+                        "modern",
+                        0.5363798207377928
+                    ],
+                    [
+                        "robotic",
+                        0.7260058275193847
+                    ],
+                    [
+                        "arm",
+                        0.7260058275193847
+                    ],
+                    [
+                        "nice",
+                        0.7388559584687119
+                    ],
+                    [
+                        "way",
+                        0.7388559584687119
+                    ],
+                    [
+                        "chemical",
+                        0.7388559584687119
+                    ],
+                    [
+                        "picture",
+                        0.7388559584687119
+                    ],
+                    [
+                        "oxidation",
+                        0.7995122645417109
+                    ],
+                    [
+                        "reduction",
+                        0.7995122645417109
+                    ],
+                    [
+                        "technology",
+                        0.7995122645417109
+                    ],
+                    [
+                        "basic",
+                        0.8098180647351023
+                    ],
+                    [
+                        "principle",
+                        0.8098180647351023
+                    ],
+                    [
+                        "key",
+                        0.8098180647351023
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "chemistry",
+                        0.410923022737086
+                    ],
+                    [
+                        "Tim",
+                        0.48988464759251515
+                    ],
+                    [
+                        "example",
+                        0.5075819847906988
+                    ],
+                    [
+                        "course",
+                        0.5119200786327853
+                    ],
+                    [
+                        "way",
+                        0.7388559584687119
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-900": {
+            "id": "-c-X8zk0ywo-900",
+            "heat": 0.403,
+            "start": 900.0,
+            "text": " undergraduate researchers that have come through my lab, in particular, from this class. So, it's a really nice solid foundation. So, I want to encourage you to set some of your likes and dislikes from high school aside when you come to MIT, because at MIT you often see disciplines taught and emphasize a very different fashion than what you've seen before. And you may discover that the thing you came here to study is not the thing that you really want to study after all. One other thing that I'll say to you is that I said these words at one point, it's true, I said, when I was in high school, I said, \"I hate chemistry.\" And now, I do chemistry every day and will for the rest my life. I love chemistry now. Be very careful what you say. Have any of you made that statement about hating a subject? Tell me later what it is you're going to be doing for the rest of your life. So, at MIT things are very different, and keep an open mind, explore new areas -- take advantage of being at this amazing place for science and technology and you may surprise yourself in what you really enjoy learning about. So, that's a little bit about the chemistry that we're going to cover in this class, and now I'm going to talk a little",
+            "metrics": {
+                "relativeDCReadability": 0.8515806968203056,
+                "lexicalDiversity": 0.45081967213114754,
+                "posComposition": {
+                    "JJ": 0.066,
+                    "NNS": 0.029,
+                    "WDT": 0.008,
+                    "VBP": 0.061,
+                    "VBN": 0.008,
+                    "IN": 0.135,
+                    "PRP$": 0.016,
+                    "NN": 0.111,
+                    "DT": 0.078,
+                    "PRP": 0.119,
+                    "VBZ": 0.025,
+                    "RB": 0.061,
+                    "TO": 0.037,
+                    "VB": 0.061,
+                    "CC": 0.037,
+                    "WRB": 0.008,
+                    "NNP": 0.025,
+                    "VBD": 0.033,
+                    "WP": 0.016,
+                    "MD": 0.016,
+                    "CD": 0.008,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "VBG": 0.029,
+                    ":": 0.004
+                },
+                "syllableRate": 2.775,
+                "topicScores": [
+                    [
+                        "MIT",
+                        0.29900042922842723
+                    ],
+                    [
+                        "chemistry",
+                        0.3665318536427073
+                    ],
+                    [
+                        "thing",
+                        0.37080937582701434
+                    ],
+                    [
+                        "life",
+                        0.5235622391878113
+                    ],
+                    [
+                        "high",
+                        0.5277527559868495
+                    ],
+                    [
+                        "school",
+                        0.5288796308625655
+                    ],
+                    [
+                        "class",
+                        0.5295715704589289
+                    ],
+                    [
+                        "different",
+                        0.5444507147307749
+                    ],
+                    [
+                        "rest",
+                        0.5444648649609637
+                    ],
+                    [
+                        "little",
+                        0.5583153856293069
+                    ],
+                    [
+                        "undergraduate",
+                        0.7361886313892584
+                    ],
+                    [
+                        "particular",
+                        0.7556245091407006
+                    ],
+                    [
+                        "researcher",
+                        0.7731911941324522
+                    ],
+                    [
+                        "lab",
+                        0.7731911941324522
+                    ],
+                    [
+                        "foundation",
+                        0.807686888612428
+                    ],
+                    [
+                        "solid",
+                        0.8368830017994433
+                    ],
+                    [
+                        "nice",
+                        0.849189282557751
+                    ],
+                    [
+                        "like",
+                        0.8725022720741137
+                    ],
+                    [
+                        "dislike",
+                        0.8725022720741137
+                    ],
+                    [
+                        "discipline",
+                        0.8725022720741137
+                    ],
+                    [
+                        "fashion",
+                        0.8725022720741137
+                    ],
+                    [
+                        "subject",
+                        0.8826288977217673
+                    ],
+                    [
+                        "point",
+                        0.8842659847453048
+                    ],
+                    [
+                        "true",
+                        0.8842659847453048
+                    ],
+                    [
+                        "word",
+                        0.8934526022144024
+                    ],
+                    [
+                        "new",
+                        0.8977979807780663
+                    ],
+                    [
+                        "day",
+                        0.8992407994302944
+                    ],
+                    [
+                        "open",
+                        0.906410489332265
+                    ],
+                    [
+                        "mind",
+                        0.906410489332265
+                    ],
+                    [
+                        "area",
+                        0.906410489332265
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "MIT",
+                        0.29900042922842723
+                    ],
+                    [
+                        "chemistry",
+                        0.3665318536427073
+                    ],
+                    [
+                        "thing",
+                        0.37080937582701434
+                    ],
+                    [
+                        "high",
+                        0.5277527559868495
+                    ],
+                    [
+                        "school",
+                        0.5288796308625655
+                    ],
+                    [
+                        "class",
+                        0.5295715704589289
+                    ],
+                    [
+                        "point",
+                        0.8842659847453048
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-990": {
+            "id": "-c-X8zk0ywo-990",
+            "heat": 0.475,
+            "start": 990.0,
+            "text": " bit about some of the policies and procedures. But first I need to introduce my co-instructor for this class, and let me just put up her picture, you'll see her in a minute. So, Dr. Beth Vogel Taylor. So, all chemistry courses are team taught, so you have a different lecturer for the first half than the second half, and Dr. Taylor will be doing most of the first half lectures, and I'll be doing most of the second half lectures. So, Dr. Taylor will take you from atomic theory through thermodynamics, and I'll start up with chemical equilibrium, talk to about kinetics, acid base, oxidation reduction and transition metals. So, you will have both of us as lecturers in this class. Now, in the past, sometimes students have found this whole thing a little frustrating, that they just get used to one lecture style, and then all of a sudden there's another lecture style, and that can be true. I mean sometimes the styles of the two professors couldn't be more different -- think McCain/Palin, odd couples. Sometimes they're more similar, and when I first, about a year and a half ago, got to know Dr. Taylor, we sort of realized that we had very similar styles, and we got very excited about the idea that we could teach together, so that there would be much more continuity throughout the semester. And so, Dr. Taylor had been teaching the first half of the material in the Spring, and I had been teaching the second half of the material in the Fall, and we thought wouldn't",
+            "metrics": {
+                "relativeDCReadability": 1.014013290521481,
+                "lexicalDiversity": 0.47985347985347987,
+                "posComposition": {
+                    "NN": 0.139,
+                    "IN": 0.114,
+                    "DT": 0.11,
+                    "NNS": 0.051,
+                    "CC": 0.055,
+                    "JJ": 0.07,
+                    "PRP": 0.07,
+                    "VBP": 0.033,
+                    "TO": 0.015,
+                    "VB": 0.051,
+                    "PRP$": 0.011,
+                    "RB": 0.07,
+                    "VBD": 0.026,
+                    "RP": 0.007,
+                    "MD": 0.04,
+                    "NNP": 0.059,
+                    "VBG": 0.015,
+                    "JJS": 0.007,
+                    "VBN": 0.022,
+                    "CD": 0.007,
+                    "EX": 0.007,
+                    "VBZ": 0.004,
+                    "RBR": 0.004,
+                    ":": 0.004,
+                    "JJR": 0.007,
+                    "WRB": 0.004
+                },
+                "syllableRate": 3.192,
+                "topicScores": [
+                    [
+                        "Dr. Taylor",
+                        0.12086204071635602
+                    ],
+                    [
+                        "half",
+                        0.24251999725510134
+                    ],
+                    [
+                        "Dr. Beth Vogel",
+                        0.27360947130391183
+                    ],
+                    [
+                        "Beth Vogel Taylor",
+                        0.2841197648635839
+                    ],
+                    [
+                        "lecture",
+                        0.34172728460710255
+                    ],
+                    [
+                        "style",
+                        0.34468545372011117
+                    ],
+                    [
+                        "second",
+                        0.3996393698584944
+                    ],
+                    [
+                        "class",
+                        0.5000964559904821
+                    ],
+                    [
+                        "different",
+                        0.5313599140492717
+                    ],
+                    [
+                        "material",
+                        0.5368090458387251
+                    ],
+                    [
+                        "similar",
+                        0.5513215414243285
+                    ],
+                    [
+                        "Palin",
+                        0.6125417612336354
+                    ],
+                    [
+                        "Spring",
+                        0.6356285879400214
+                    ],
+                    [
+                        "fall",
+                        0.6356285879400214
+                    ],
+                    [
+                        "second half",
+                        0.6948094608141581
+                    ],
+                    [
+                        "bit",
+                        0.7386995245380565
+                    ],
+                    [
+                        "procedure",
+                        0.7386995245380565
+                    ],
+                    [
+                        "policy",
+                        0.7727608946886675
+                    ],
+                    [
+                        "minute",
+                        0.8096931905214255
+                    ],
+                    [
+                        "instructor",
+                        0.8282191926040282
+                    ],
+                    [
+                        "picture",
+                        0.8282191926040282
+                    ],
+                    [
+                        "half lecture",
+                        0.8616682364978905
+                    ],
+                    [
+                        "metal",
+                        0.8636879282179702
+                    ],
+                    [
+                        "chemistry",
+                        0.8685243463774329
+                    ],
+                    [
+                        "team",
+                        0.8685243463774329
+                    ],
+                    [
+                        "acid",
+                        0.8709924078233015
+                    ],
+                    [
+                        "base",
+                        0.8709924078233015
+                    ],
+                    [
+                        "couple",
+                        0.8734404541362439
+                    ],
+                    [
+                        "course",
+                        0.8751934329859244
+                    ],
+                    [
+                        "true",
+                        0.8762634202009446
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Dr. Taylor",
+                        0.12086204071635602
+                    ],
+                    [
+                        "class",
+                        0.5000964559904821
+                    ],
+                    [
+                        "chemistry",
+                        0.8685243463774329
+                    ],
+                    [
+                        "course",
+                        0.8751934329859244
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-1080": {
+            "id": "-c-X8zk0ywo-1080",
+            "heat": 0.309,
+            "start": 1080.0,
+            "text": " it be great if we got together and taught in the Fall. So, this was actually, for a variety of reasons, a very complicated thing to request and do, and so we started a campaign and campaigned for a year and a half that we should be allowed to do this course together, and finally just a few weeks ago in August -- we really didn't know up until almost when this course started -- that permission was granted. So, I have to say, I am very excited now to introduce you to Dr. Taylor, who I would be teaching with this semester -- limited engagement -- who will tell you about some of the course policies. PROFESSOR: Okay, so before we get to some of these course policies, I think I'll tell you a little bit about my path to chemistry as well. Professor Drennan explained that not everyone that ends up as a chemist started off that way on their first class freshman year, for example, in chemistry. And in fact, if you talk to a lot of chemists, if you talk to some of the graduate students, maybe your TA, you'll find that that phrase, \"I hate chemistry,\" has maybe been uttered by more than one us at some point in our lives before we realized, and once it happens you don't go back, that actually you love chemistry and it's hard to even remember a point where you didn't see all of these connections that it provided for you. To give a little background of where I was, sitting where maybe you are today on the first day of chemistry, when I",
+            "metrics": {
+                "relativeDCReadability": 1.0077420269321238,
+                "lexicalDiversity": 0.43309859154929575,
+                "posComposition": {
+                    "PRP": 0.106,
+                    "VB": 0.06,
+                    "JJ": 0.035,
+                    "IN": 0.141,
+                    "VBD": 0.042,
+                    "RB": 0.092,
+                    "CC": 0.032,
+                    "DT": 0.099,
+                    "NNP": 0.035,
+                    "NN": 0.12,
+                    "NNS": 0.028,
+                    "TO": 0.039,
+                    "VBN": 0.018,
+                    "MD": 0.018,
+                    ":": 0.014,
+                    "RP": 0.011,
+                    "WRB": 0.018,
+                    "VBP": 0.035,
+                    "WP": 0.007,
+                    "VBG": 0.007,
+                    "PRP$": 0.014,
+                    "WDT": 0.004,
+                    "VBZ": 0.014,
+                    "``": 0.004,
+                    "''": 0.004,
+                    "JJR": 0.004,
+                    "CD": 0.004
+                },
+                "syllableRate": 3.225,
+                "topicScores": [
+                    [
+                        "course",
+                        0.3105402570006154
+                    ],
+                    [
+                        "chemistry",
+                        0.31272664098639225
+                    ],
+                    [
+                        "fall",
+                        0.36386021637315713
+                    ],
+                    [
+                        "Dr. Taylor",
+                        0.40100924847225666
+                    ],
+                    [
+                        "August",
+                        0.4863118284262784
+                    ],
+                    [
+                        "policy",
+                        0.48710096439755585
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5011756453557198
+                    ],
+                    [
+                        "campaign",
+                        0.5038454699493475
+                    ],
+                    [
+                        "year",
+                        0.5104764538105482
+                    ],
+                    [
+                        "little",
+                        0.5236171286922267
+                    ],
+                    [
+                        "point",
+                        0.5479013909065606
+                    ],
+                    [
+                        "Drennan",
+                        0.600079022017106
+                    ],
+                    [
+                        "TA",
+                        0.6117626713846551
+                    ],
+                    [
+                        "great",
+                        0.7474221250438255
+                    ],
+                    [
+                        "course policy",
+                        0.7922589062232851
+                    ],
+                    [
+                        "reason",
+                        0.805490876653384
+                    ],
+                    [
+                        "permission",
+                        0.805490876653384
+                    ],
+                    [
+                        "variety",
+                        0.8166341852900686
+                    ],
+                    [
+                        "complicated",
+                        0.8166341852900686
+                    ],
+                    [
+                        "thing",
+                        0.8166341852900686
+                    ],
+                    [
+                        "half",
+                        0.8166341852900686
+                    ],
+                    [
+                        "week",
+                        0.8166341852900686
+                    ],
+                    [
+                        "limited",
+                        0.8235377300992931
+                    ],
+                    [
+                        "engagement",
+                        0.8235377300992931
+                    ],
+                    [
+                        "semester",
+                        0.8342403822657745
+                    ],
+                    [
+                        "phrase",
+                        0.8392682938403438
+                    ],
+                    [
+                        "excited",
+                        0.844055519529166
+                    ],
+                    [
+                        "example",
+                        0.8588841545220492
+                    ],
+                    [
+                        "freshman",
+                        0.8677871745551222
+                    ],
+                    [
+                        "bit",
+                        0.86897826187765
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "course",
+                        0.3105402570006154
+                    ],
+                    [
+                        "chemistry",
+                        0.31272664098639225
+                    ],
+                    [
+                        "Dr. Taylor",
+                        0.40100924847225666
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.5011756453557198
+                    ],
+                    [
+                        "year",
+                        0.5104764538105482
+                    ],
+                    [
+                        "point",
+                        0.5479013909065606
+                    ],
+                    [
+                        "thing",
+                        0.8166341852900686
+                    ],
+                    [
+                        "example",
+                        0.8588841545220492
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-1170": {
+            "id": "-c-X8zk0ywo-1170",
+            "heat": 0.237,
+            "start": 1170.0,
+            "text": " left high school, I had no interest in chemistry whatsoever. And I have only one strong memory from high school chemistry, and that memory is shown right here, and that is the common ions. Did you guys have to learn the common ions? Does anyone have that in their brain somewhere for ready use? I don't, in fact, so it's actually okay if you don't know all your common ions, if you missed that part. This is the strongest memory I have, and I remembered a) that I didn't learn them, and that was really bad because it kept coming up, but the other thing I remember is that I had no idea why they were important. I didn't really understand what any of these molecules were. I certainly didn't understand how they even connected really to chemical reactions, much less other disciplines that I was interested in. I couldn't have told you, for example, if we look at a phosphate group, that that's going to be incredibly important in DNA, that it's also an incredibly important group when you're dealing with proteins and whether you're turning the function of a protein on or off. So really, I just had no context for the chemistry. So, when I started in college, that wasn't even an option for me and I was interested in a lot of things, chemistry not being one. But one that I was very interested in was biology, and the reason was we did a lot of cool labs in high school, I loved doing the dissections -- it was very interesting to me to think about how different organs worked, how the heart could be a pump, how the lungs worked. And then when we got to more of a cellular level, it was even more interesting to see that we could actually",
+            "metrics": {
+                "relativeDCReadability": 0.9533946097371568,
+                "lexicalDiversity": 0.4200626959247649,
+                "posComposition": {
+                    "VBN": 0.013,
+                    "JJ": 0.072,
+                    "NN": 0.113,
+                    "PRP": 0.116,
+                    "VBD": 0.085,
+                    "DT": 0.091,
+                    "IN": 0.122,
+                    "CC": 0.038,
+                    "VBP": 0.034,
+                    "RB": 0.094,
+                    "CD": 0.009,
+                    "VBZ": 0.022,
+                    "NNS": 0.038,
+                    "NNP": 0.009,
+                    "TO": 0.022,
+                    "VB": 0.034,
+                    "PRP$": 0.006,
+                    "JJS": 0.003,
+                    "VBG": 0.019,
+                    "RP": 0.003,
+                    "WRB": 0.025,
+                    "WP": 0.003,
+                    "JJR": 0.006,
+                    "MD": 0.009,
+                    "WDT": 0.006,
+                    ":": 0.003,
+                    "RBR": 0.003
+                },
+                "syllableRate": 3.767,
+                "topicScores": [
+                    [
+                        "chemistry",
+                        0.3567003541130489
+                    ],
+                    [
+                        "ion",
+                        0.37715338072333576
+                    ],
+                    [
+                        "common",
+                        0.3828529022805951
+                    ],
+                    [
+                        "school",
+                        0.39538535802393976
+                    ],
+                    [
+                        "high",
+                        0.4025500780741566
+                    ],
+                    [
+                        "interested",
+                        0.40645055222643656
+                    ],
+                    [
+                        "memory",
+                        0.4197632419974702
+                    ],
+                    [
+                        "important",
+                        0.4231532556598948
+                    ],
+                    [
+                        "strong",
+                        0.5337038757022262
+                    ],
+                    [
+                        "lot",
+                        0.5473772172825785
+                    ],
+                    [
+                        "thing",
+                        0.5510563024166558
+                    ],
+                    [
+                        "interesting",
+                        0.555013537867401
+                    ],
+                    [
+                        "group",
+                        0.5601183159578246
+                    ],
+                    [
+                        "protein",
+                        0.5636817554056314
+                    ],
+                    [
+                        "DNA",
+                        0.644592035779148
+                    ],
+                    [
+                        "common ion",
+                        0.6836478546804746
+                    ],
+                    [
+                        "use",
+                        0.8686475866821115
+                    ],
+                    [
+                        "high school",
+                        0.8760822531355963
+                    ],
+                    [
+                        "guy",
+                        0.8833064373277715
+                    ],
+                    [
+                        "fact",
+                        0.8835872786015533
+                    ],
+                    [
+                        "ready",
+                        0.8846549447045333
+                    ],
+                    [
+                        "brain",
+                        0.8916253858792226
+                    ],
+                    [
+                        "okay",
+                        0.8975014590756655
+                    ],
+                    [
+                        "example",
+                        0.8981756753691429
+                    ],
+                    [
+                        "molecule",
+                        0.8991949709283147
+                    ],
+                    [
+                        "bad",
+                        0.9019162000425435
+                    ],
+                    [
+                        "idea",
+                        0.9019162000425435
+                    ],
+                    [
+                        "chemical",
+                        0.9021669613651934
+                    ],
+                    [
+                        "reaction",
+                        0.9021669613651934
+                    ],
+                    [
+                        "phosphate",
+                        0.9046377635220011
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "chemistry",
+                        0.3567003541130489
+                    ],
+                    [
+                        "school",
+                        0.39538535802393976
+                    ],
+                    [
+                        "high",
+                        0.4025500780741566
+                    ],
+                    [
+                        "interested",
+                        0.40645055222643656
+                    ],
+                    [
+                        "lot",
+                        0.5473772172825785
+                    ],
+                    [
+                        "thing",
+                        0.5510563024166558
+                    ],
+                    [
+                        "example",
+                        0.8981756753691429
+                    ],
+                    [
+                        "molecule",
+                        0.8991949709283147
+                    ],
+                    [
+                        "reaction",
+                        0.9021669613651934
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-1260": {
+            "id": "-c-X8zk0ywo-1260",
+            "heat": 0.32,
+            "start": 1260.0,
+            "text": " understand how our body worked as low of a level as thinking about cells. And so, that was a clear major for me to pick -- I actually also was considering English and ended up being a minor in English. But, I think what most of you, actually having come to MIT, have probably realized is sometimes it's nice to major in a science, because you can't just pick up a reaction and do it in your kitchen on the weekend, where as you can sometimes join a book group and do that. So, it's kind of nice to major in the thing that you're going to get to have the opportunity to do for the rest of your life. So, I actually also started pre-med. Is anyone else pre-med here? Okay, so a pretty good showing. So maybe you can relate to some of the reasons I wanted to be pretty pre-med -- part of it was the interest in the science and the biology. Also, I wanted to help people -- it seemed like a really clear way that I could have a career that was challenging and involved in science, but also helping others. So, it seemed like a good start for me, pre-med/bio, and I signed up for my bio class -- I found out, as Professor Drennan did, that I had to take chemistry as well. I wasn't as upset, I was sort of a neutral chemistry person at this point, but I thought it was pretty smart to get it over with on the first semester, so that's what I did. And my plan was going along fine until something happened, and what happened was that chemistry was just way more interesting than I anticipated. So, my perfect pre-med/bio plan was getting a little shaken right from the start, and the reason that it was getting taken was because I would learn this new principal in chemistry and because I was taking bio with the same time,",
+            "metrics": {
+                "relativeDCReadability": 0.9382851625339607,
+                "lexicalDiversity": 0.43952802359882004,
+                "posComposition": {
+                    "VB": 0.05,
+                    "WRB": 0.006,
+                    "PRP$": 0.018,
+                    "NN": 0.133,
+                    "VBD": 0.088,
+                    "IN": 0.139,
+                    "DT": 0.088,
+                    "VBG": 0.032,
+                    "NNS": 0.012,
+                    "CC": 0.041,
+                    "RB": 0.071,
+                    "JJ": 0.08,
+                    "PRP": 0.094,
+                    "TO": 0.035,
+                    ":": 0.012,
+                    "RP": 0.015,
+                    "NNP": 0.018,
+                    "VBP": 0.009,
+                    "WP": 0.009,
+                    "JJS": 0.003,
+                    "VBN": 0.012,
+                    "VBZ": 0.015,
+                    "MD": 0.015,
+                    "WDT": 0.003,
+                    "RBR": 0.003
+                },
+                "syllableRate": 3.908,
+                "topicScores": [
+                    [
+                        "med",
+                        0.2721922765475391
+                    ],
+                    [
+                        "pre",
+                        0.3024206573465894
+                    ],
+                    [
+                        "English",
+                        0.32730609236390207
+                    ],
+                    [
+                        "bio",
+                        0.37055275019648365
+                    ],
+                    [
+                        "chemistry",
+                        0.37677802143415
+                    ],
+                    [
+                        "major",
+                        0.39907369315319846
+                    ],
+                    [
+                        "science",
+                        0.41382837357018537
+                    ],
+                    [
+                        "start",
+                        0.4297848249113845
+                    ],
+                    [
+                        "nice",
+                        0.5215571353976797
+                    ],
+                    [
+                        "clear",
+                        0.5398966053758121
+                    ],
+                    [
+                        "good",
+                        0.5437386717356989
+                    ],
+                    [
+                        "plan",
+                        0.5501148447369919
+                    ],
+                    [
+                        "reason",
+                        0.5516707554306995
+                    ],
+                    [
+                        "way",
+                        0.5575455634105749
+                    ],
+                    [
+                        "MIT",
+                        0.5737985769451794
+                    ],
+                    [
+                        "Professor",
+                        0.6497199417676833
+                    ],
+                    [
+                        "Drennan",
+                        0.6497199417676833
+                    ],
+                    [
+                        "Professor Drennan",
+                        0.7305109934609813
+                    ],
+                    [
+                        "cell",
+                        0.8145757453346109
+                    ],
+                    [
+                        "body",
+                        0.8453282044580086
+                    ],
+                    [
+                        "low",
+                        0.8453282044580086
+                    ],
+                    [
+                        "level",
+                        0.8453282044580086
+                    ],
+                    [
+                        "life",
+                        0.8674120260588026
+                    ],
+                    [
+                        "minor",
+                        0.8691460843517491
+                    ],
+                    [
+                        "weekend",
+                        0.8746980445519699
+                    ],
+                    [
+                        "reaction",
+                        0.8821900635558955
+                    ],
+                    [
+                        "kitchen",
+                        0.8821900635558955
+                    ],
+                    [
+                        "book",
+                        0.8821900635558955
+                    ],
+                    [
+                        "group",
+                        0.8821900635558955
+                    ],
+                    [
+                        "showing",
+                        0.8838402359050118
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "chemistry",
+                        0.37677802143415
+                    ],
+                    [
+                        "start",
+                        0.4297848249113845
+                    ],
+                    [
+                        "way",
+                        0.5575455634105749
+                    ],
+                    [
+                        "MIT",
+                        0.5737985769451794
+                    ],
+                    [
+                        "reaction",
+                        0.8821900635558955
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-1350": {
+            "id": "-c-X8zk0ywo-1350",
+            "heat": 0.509,
+            "start": 1350.0,
+            "text": " I could see the connections. And at one point I realized, \"Oh, my gosh, chemistry is just biology, it's just looking at one level deeper.\" So actually, all of my interest in biology was quickly transferred to saying, \"Wow, now I can think about things on the molecular level.\" And one of the molecules that caught my attention first, and I can't remember if this was freshman or sophomore year in high school, was the first time I actually took meaning in looking at a chemical structure, and that was with the structure of penicillin here, and I know that all of you are familiar with penicillin, whether or not you know the structure or not, but the most important part of this structure is the four-membered ring here, the beta-lactam, and this was the first time I thought I could actually understand how a molecule worked because I knew something about chemistry. So, for example with penicillin what it does is it inhibits an enzyme that builds the cell wall in bacteria, the bacterial cell wall, and if I thought about what I'd learned in chemistry -- some of you know this from high school, some of you will be very familiar with this soon, is that this carbon here, for example, is bonded to three things. Does anyone know what angle those would like to be at? 120. They want to get as far away from each other possible, the ideal angle is 120. But what we have here is a four-membered ring, so what angle does that have to be, that bond? 90 degrees. So, we have a problem here if we're thinking about keeping things at the lowest energy, so there's a lot of ring",
+            "metrics": {
+                "relativeDCReadability": 1.0549422222110436,
+                "lexicalDiversity": 0.4429530201342282,
+                "posComposition": {
+                    "PRP": 0.074,
+                    "MD": 0.023,
+                    "VB": 0.037,
+                    "DT": 0.111,
+                    "NNS": 0.023,
+                    "CC": 0.04,
+                    "IN": 0.144,
+                    "CD": 0.023,
+                    "NN": 0.154,
+                    "VBD": 0.037,
+                    "``": 0.007,
+                    "NNP": 0.017,
+                    "PRP$": 0.01,
+                    "JJ": 0.057,
+                    "VBZ": 0.044,
+                    "RB": 0.07,
+                    "VBG": 0.02,
+                    "''": 0.007,
+                    "VBN": 0.013,
+                    "TO": 0.017,
+                    "WDT": 0.01,
+                    "VBP": 0.027,
+                    "RBS": 0.003,
+                    "WRB": 0.003,
+                    "WP": 0.017,
+                    ":": 0.003,
+                    "JJS": 0.003,
+                    "EX": 0.003
+                },
+                "syllableRate": 3.492,
+                "topicScores": [
+                    [
+                        "structure",
+                        0.359402023083037
+                    ],
+                    [
+                        "chemistry",
+                        0.38985925948416555
+                    ],
+                    [
+                        "ring",
+                        0.3963513032011173
+                    ],
+                    [
+                        "thing",
+                        0.40109373795864517
+                    ],
+                    [
+                        "penicillin",
+                        0.406167991970128
+                    ],
+                    [
+                        "angle",
+                        0.41870483833980404
+                    ],
+                    [
+                        "level",
+                        0.4893733982831375
+                    ],
+                    [
+                        "biology",
+                        0.5008916530543828
+                    ],
+                    [
+                        "high",
+                        0.5093699224495839
+                    ],
+                    [
+                        "school",
+                        0.5121298110435264
+                    ],
+                    [
+                        "familiar",
+                        0.5148037282141297
+                    ],
+                    [
+                        "time",
+                        0.5187373851660976
+                    ],
+                    [
+                        "bond",
+                        0.5233801718368888
+                    ],
+                    [
+                        "example",
+                        0.5236440338539524
+                    ],
+                    [
+                        "cell",
+                        0.5278875889558489
+                    ],
+                    [
+                        "wall",
+                        0.5356950009556045
+                    ],
+                    [
+                        "molecule",
+                        0.5396028058742883
+                    ],
+                    [
+                        "connection",
+                        0.7405656121042102
+                    ],
+                    [
+                        "gosh",
+                        0.8210220927925026
+                    ],
+                    [
+                        "point",
+                        0.8386649952060387
+                    ],
+                    [
+                        "molecular",
+                        0.8559183913930642
+                    ],
+                    [
+                        "beta",
+                        0.8627360425006364
+                    ],
+                    [
+                        "lactam",
+                        0.8627360425006364
+                    ],
+                    [
+                        "interest",
+                        0.8633430660976505
+                    ],
+                    [
+                        "attention",
+                        0.8700838576179568
+                    ],
+                    [
+                        "chemical",
+                        0.8700838576179568
+                    ],
+                    [
+                        "freshman",
+                        0.8768835697349268
+                    ],
+                    [
+                        "sophomore",
+                        0.8768835697349268
+                    ],
+                    [
+                        "year",
+                        0.8768835697349268
+                    ],
+                    [
+                        "meaning",
+                        0.8768835697349268
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "chemistry",
+                        0.38985925948416555
+                    ],
+                    [
+                        "thing",
+                        0.40109373795864517
+                    ],
+                    [
+                        "biology",
+                        0.5008916530543828
+                    ],
+                    [
+                        "high",
+                        0.5093699224495839
+                    ],
+                    [
+                        "school",
+                        0.5121298110435264
+                    ],
+                    [
+                        "example",
+                        0.5236440338539524
+                    ],
+                    [
+                        "molecule",
+                        0.5396028058742883
+                    ],
+                    [
+                        "point",
+                        0.8386649952060387
+                    ],
+                    [
+                        "year",
+                        0.8768835697349268
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-1440": {
+            "id": "-c-X8zk0ywo-1440",
+            "heat": 0.289,
+            "start": 1440.0,
+            "text": " strain in the system. And I was incredibly excited that I could look at that and realize it and say \"Wow, that's why it's so reactive, that's why it's such a good medication,\" because when it comes into contact with these bacterial cell wall building enzyme, the enzyme can actually react with this four-membered ring and open up the ring and relieve that ring strain. So, now the angles can open up all the way to 120 if it wants to, and there's no way it's going to form that ring again, right, because it's not going to back to those 90 degree angles, if it can help it. So now, the enzyme is locked up with the penicillin molecule, no more bacterial cell wall being built, and the penicillin has effectively killed the bacteria. So, that, for me, was kind of the first connection that what went, \"Woah, wait a second, I want to be thinking about these molecules all the way down to the level of individual atoms.\" So, at this point, kept the pre-med, just switched the major to chemistry. The next problem came up when I went and took organic chemistry. So, if you're dead set on staying with bio, maybe, I guess you have to take organic, so this might happen to you, just to warn you. We started looking at all sorts of other kinds of molecules that became very interesting to me. I especially love thinking about vitamins and drugs, because I do have that interest in medicine and human health. These are actually all examples that we'll talk about in freshman chemistry at some point, as an example of a connection between a chemical principle we learn, and what we can know about how it functions. But what happened here was I thought \"Oh, my gosh, now I",
+            "metrics": {
+                "relativeDCReadability": 1.0131350518125346,
+                "lexicalDiversity": 0.44375,
+                "posComposition": {
+                    "NN": 0.113,
+                    "IN": 0.122,
+                    "DT": 0.106,
+                    "CC": 0.037,
+                    "PRP": 0.091,
+                    "VBD": 0.044,
+                    "RB": 0.072,
+                    "JJ": 0.066,
+                    "MD": 0.022,
+                    "VB": 0.056,
+                    "``": 0.009,
+                    "NNP": 0.009,
+                    "WDT": 0.006,
+                    "VBZ": 0.037,
+                    "WRB": 0.016,
+                    "''": 0.006,
+                    "RP": 0.016,
+                    "VBG": 0.031,
+                    "NNS": 0.034,
+                    "PDT": 0.006,
+                    "TO": 0.037,
+                    "CD": 0.006,
+                    "EX": 0.003,
+                    "VBN": 0.009,
+                    "RBR": 0.003,
+                    "WP": 0.009,
+                    "VBP": 0.028,
+                    "PRP$": 0.003
+                },
+                "syllableRate": 3.742,
+                "topicScores": [
+                    [
+                        "ring",
+                        0.33320673925145566
+                    ],
+                    [
+                        "enzyme",
+                        0.39476423522662657
+                    ],
+                    [
+                        "way",
+                        0.4031785417540901
+                    ],
+                    [
+                        "chemistry",
+                        0.41341274469375544
+                    ],
+                    [
+                        "molecule",
+                        0.4173527592988935
+                    ],
+                    [
+                        "strain",
+                        0.48614589137601544
+                    ],
+                    [
+                        "wall",
+                        0.5050319650758222
+                    ],
+                    [
+                        "bacterial",
+                        0.5125589640931676
+                    ],
+                    [
+                        "cell",
+                        0.5125589640931676
+                    ],
+                    [
+                        "organic",
+                        0.5328222689217943
+                    ],
+                    [
+                        "angle",
+                        0.5342021348485468
+                    ],
+                    [
+                        "penicillin",
+                        0.535066753983299
+                    ],
+                    [
+                        "point",
+                        0.5353310970049457
+                    ],
+                    [
+                        "kind",
+                        0.5355001467508118
+                    ],
+                    [
+                        "connection",
+                        0.5472445937982893
+                    ],
+                    [
+                        "example",
+                        0.561969257414315
+                    ],
+                    [
+                        "Woah",
+                        0.5749270970278479
+                    ],
+                    [
+                        "system",
+                        0.8203598976393099
+                    ],
+                    [
+                        "medication",
+                        0.8473282347234345
+                    ],
+                    [
+                        "reactive",
+                        0.8615369785437618
+                    ],
+                    [
+                        "good",
+                        0.8615369785437618
+                    ],
+                    [
+                        "excited",
+                        0.8679453190752967
+                    ],
+                    [
+                        "contact",
+                        0.8679453190752967
+                    ],
+                    [
+                        "degree",
+                        0.8752305741271179
+                    ],
+                    [
+                        "atom",
+                        0.8786116918910643
+                    ],
+                    [
+                        "second",
+                        0.8902859532989151
+                    ],
+                    [
+                        "individual",
+                        0.8902859532989151
+                    ],
+                    [
+                        "pre",
+                        0.8949751078384741
+                    ],
+                    [
+                        "level",
+                        0.8955250860389825
+                    ],
+                    [
+                        "health",
+                        0.8960554899021842
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "enzyme",
+                        0.39476423522662657
+                    ],
+                    [
+                        "way",
+                        0.4031785417540901
+                    ],
+                    [
+                        "chemistry",
+                        0.41341274469375544
+                    ],
+                    [
+                        "molecule",
+                        0.4173527592988935
+                    ],
+                    [
+                        "point",
+                        0.5353310970049457
+                    ],
+                    [
+                        "kind",
+                        0.5355001467508118
+                    ],
+                    [
+                        "example",
+                        0.561969257414315
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-1530": {
+            "id": "-c-X8zk0ywo-1530",
+            "heat": 0.502,
+            "start": 1530.0,
+            "text": " could actually, using my chemical knowledge, think about synthesizing these molecules, or maybe coming up with new ways to synthesize them better or synthesize different molecules. And the real clincher was when I started doing some undergraduate research. Any potential UROPs out there -- anyone planning to do a research at some point? Excellent. Okay. So, just to be warned, you might fall in love with the subject you do your UROP in. This is one of our summer students from this past summer, who is also premed. She's continuing to be pre-med, which is fantastic. That didn't happen to me -- once I got into the lab, I didn't want to leave. So, I thought, \"You know what, I think I'll change the medical school plans and now I'm going to go all the way -- chemistry major, chemistry grad school.\" And the reason I was able to do that and keep with what my original intentions were was to have a career that was the fulfilling, in terms of helping people and being engaged in science, is all of a sudden I realized, as chemists, we can think about better ways to build molecules that are important for making medications. Another thing we can do is we can use our chemistry to understand biological systems, so we can help illucinate pathways, maybe, that are implicated in disease. So, the combination of these two things had made my decision and I ended up coming here for graduate school, actually, and working in Professor Imperiali's lab doing bio-organic chemistry, which means that I synthesize molecules, which I loved, and used them to study biological systems.",
+            "metrics": {
+                "relativeDCReadability": 1.0660524220701377,
+                "lexicalDiversity": 0.4840989399293286,
+                "posComposition": {
+                    "MD": 0.025,
+                    "RB": 0.042,
+                    "VBG": 0.042,
+                    "PRP$": 0.021,
+                    "NN": 0.11,
+                    "VBP": 0.028,
+                    "IN": 0.092,
+                    "DT": 0.074,
+                    "NNS": 0.06,
+                    "CC": 0.035,
+                    "RP": 0.007,
+                    "JJ": 0.064,
+                    "TO": 0.042,
+                    "VB": 0.078,
+                    "PRP": 0.081,
+                    "JJR": 0.007,
+                    "VBD": 0.057,
+                    "WRB": 0.004,
+                    "NNP": 0.028,
+                    ":": 0.011,
+                    "VBN": 0.018,
+                    "VBZ": 0.025,
+                    "CD": 0.007,
+                    "WP": 0.011,
+                    "WDT": 0.018,
+                    "``": 0.004,
+                    "PDT": 0.004,
+                    "''": 0.004,
+                    "POS": 0.004
+                },
+                "syllableRate": 3.617,
+                "topicScores": [
+                    [
+                        "molecule",
+                        0.35077860615826434
+                    ],
+                    [
+                        "chemistry",
+                        0.364375510878012
+                    ],
+                    [
+                        "way",
+                        0.4198993618769049
+                    ],
+                    [
+                        "school",
+                        0.43016820767605507
+                    ],
+                    [
+                        "research",
+                        0.513490453598194
+                    ],
+                    [
+                        "biological",
+                        0.5325065490622375
+                    ],
+                    [
+                        "system",
+                        0.537587900466781
+                    ],
+                    [
+                        "plan",
+                        0.5415024990644007
+                    ],
+                    [
+                        "well",
+                        0.5440763997861259
+                    ],
+                    [
+                        "love",
+                        0.548417321529876
+                    ],
+                    [
+                        "lab",
+                        0.5507821260894655
+                    ],
+                    [
+                        "summer",
+                        0.5524007802207676
+                    ],
+                    [
+                        "thing",
+                        0.5527148070107842
+                    ],
+                    [
+                        "UROP",
+                        0.6164934819434248
+                    ],
+                    [
+                        "Professor",
+                        0.6676221371613467
+                    ],
+                    [
+                        "Imperiali",
+                        0.6676221371613467
+                    ],
+                    [
+                        "Professor Imperiali",
+                        0.8041400909770597
+                    ],
+                    [
+                        "chemical",
+                        0.8318898647840804
+                    ],
+                    [
+                        "knowledge",
+                        0.8318898647840804
+                    ],
+                    [
+                        "different",
+                        0.8318898647840804
+                    ],
+                    [
+                        "excellent",
+                        0.836537039833465
+                    ],
+                    [
+                        "new",
+                        0.8408626110502004
+                    ],
+                    [
+                        "point",
+                        0.8552035260727737
+                    ],
+                    [
+                        "undergraduate",
+                        0.8574280953285629
+                    ],
+                    [
+                        "real",
+                        0.86525853759918
+                    ],
+                    [
+                        "clincher",
+                        0.86525853759918
+                    ],
+                    [
+                        "potential",
+                        0.8714674233676011
+                    ],
+                    [
+                        "fantastic",
+                        0.8853002953292632
+                    ],
+                    [
+                        "med",
+                        0.8922364878551206
+                    ],
+                    [
+                        "medication",
+                        0.8926392017964689
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "molecule",
+                        0.35077860615826434
+                    ],
+                    [
+                        "chemistry",
+                        0.364375510878012
+                    ],
+                    [
+                        "way",
+                        0.4198993618769049
+                    ],
+                    [
+                        "school",
+                        0.43016820767605507
+                    ],
+                    [
+                        "thing",
+                        0.5527148070107842
+                    ],
+                    [
+                        "point",
+                        0.8552035260727737
+                    ]
+                ]
+            }
+        },
+        "-c-X8zk0ywo-1620": {
+            "id": "-c-X8zk0ywo-1620",
+            "heat": 0.492,
+            "start": 1620.0,
+            "text": " So, really I'm pretty happy with what I've gotten to do, and I just want to say we're not trying to convert all of them you pre-med people, by any means. My roommate for many years was going to medical school as I was going to graduate school, and we found we had so many interesting conversations about chemistry -- her from the context of practicing and using medications and talking about how they worked on a molecular level, and me talking about my research.",
+            "metrics": {
+                "relativeDCReadability": 1.0457649028401876,
+                "lexicalDiversity": 0.4431818181818182,
+                "posComposition": {
+                    "RB": 0.057,
+                    "PRP": 0.125,
+                    "VBP": 0.045,
+                    "JJ": 0.091,
+                    "IN": 0.125,
+                    "WP": 0.011,
+                    "VBN": 0.011,
+                    "TO": 0.057,
+                    "VB": 0.045,
+                    "CC": 0.057,
+                    "VBG": 0.068,
+                    "DT": 0.045,
+                    "NNS": 0.057,
+                    "PRP$": 0.034,
+                    "NN": 0.091,
+                    "VBD": 0.057,
+                    ":": 0.011,
+                    "WRB": 0.011
+                },
+                "syllableRate": 1.092,
+                "topicScores": [
+                    [
+                        "school",
+                        0.5352597385566694
+                    ],
+                    [
+                        "mean",
+                        0.6293961977407984
+                    ],
+                    [
+                        "med",
+                        0.6824802225901363
+                    ],
+                    [
+                        "people",
+                        0.6824802225901363
+                    ],
+                    [
+                        "research",
+                        0.7187813976169425
+                    ],
+                    [
+                        "pre",
+                        0.7262968066633311
+                    ],
+                    [
+                        "happy",
+                        0.7625180993418805
+                    ],
+                    [
+                        "chemistry",
+                        0.7997467126188664
+                    ],
+                    [
+                        "molecular",
+                        0.7997467126188664
+                    ],
+                    [
+                        "level",
+                        0.7997467126188664
+                    ],
+                    [
+                        "roommate",
+                        0.7997467126188665
+                    ],
+                    [
+                        "year",
+                        0.8285424595310551
+                    ],
+                    [
+                        "medical",
+                        0.8285424595310551
+                    ],
+                    [
+                        "interesting",
+                        0.8285424595310551
+                    ],
+                    [
+                        "conversation",
+                        0.8285424595310551
+                    ],
+                    [
+                        "context",
+                        0.8285424595310551
+                    ],
+                    [
+                        "medication",
+                        0.8285424595310551
+                    ],
+                    [
+                        "med people",
+                        0.871885373063222
+                    ],
+                    [
+                        "molecular level",
+                        1.7746547831579502
+                    ],
+                    [
+                        "interesting conversation",
+                        2.1896157058945436
+                    ],
+                    [
+                        "medical school",
+                        2.365958001848265
+                    ]
+                ],
+                "topTopicSimilarity": 0.14285714285714285,
+                "sharedTopicScores": [
+                    [
+                        "school",
+                        0.5352597385566694
+                    ],
+                    [
+                        "chemistry",
+                        0.7997467126188664
+                    ],
+                    [
+                        "year",
+                        0.8285424595310551
+                    ]
+                ]
+            }
+        }
+    }
+}

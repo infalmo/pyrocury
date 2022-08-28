@@ -1,0 +1,5218 @@
+{
+    "metadata": {
+        "id": "0sKPkJME2Jw",
+        "avgHeat": 0.29,
+        "runtime": 2286.502,
+        "dale-challReadabilityScore": 7.759789927021297,
+        "lexicalDiversity": 0.4629695251594614,
+        "posComposition": {
+            "DT": 0.105,
+            "JJ": 0.07,
+            "NN": 0.111,
+            "VBZ": 0.04,
+            "VBN": 0.016,
+            "IN": 0.109,
+            "NNP": 0.022,
+            "PRP$": 0.004,
+            "MD": 0.022,
+            "VB": 0.052,
+            "VBP": 0.05,
+            "TO": 0.025,
+            "NNS": 0.063,
+            "CC": 0.048,
+            "VBD": 0.019,
+            "PRP": 0.084,
+            "RB": 0.074,
+            "VBG": 0.018,
+            "EX": 0.005,
+            "WDT": 0.012,
+            "JJS": 0.002,
+            "WP": 0.009,
+            "WRB": 0.012,
+            "RP": 0.005,
+            "CD": 0.012,
+            "PDT": 0.002,
+            ":": 0.002,
+            "RBR": 0.001,
+            "JJR": 0.004,
+            "RBS": 0.001,
+            "``": 0.0,
+            "POS": 0.001,
+            "''": 0.0
+        },
+        "syllableRate": 3.546,
+        "topicScores": [
+            [
+                "Lincoln Laboratory",
+                0.11181995092630481
+            ],
+            [
+                "MIT",
+                0.12728771453259213
+            ],
+            [
+                "right",
+                0.12985446561047162
+            ],
+            [
+                "ok",
+                0.14035534610247538
+            ],
+            [
+                "work",
+                0.1620828365236051
+            ],
+            [
+                "machine",
+                0.1715414704023729
+            ],
+            [
+                "linear",
+                0.17451128514189979
+            ],
+            [
+                "learning",
+                0.17493590272095666
+            ],
+            [
+                "datum",
+                0.17566278300266994
+            ],
+            [
+                "thing",
+                0.17920755532175253
+            ],
+            [
+                "Creative Commons",
+                0.18126023710868291
+            ],
+            [
+                "people",
+                0.1848925858307643
+            ],
+            [
+                "problem",
+                0.18869486476292438
+            ],
+            [
+                "way",
+                0.189635976518686
+            ],
+            [
+                "circle",
+                0.19520534155071886
+            ],
+            [
+                "concept",
+                0.2016284978424592
+            ],
+            [
+                "network",
+                0.21716234604444207
+            ],
+            [
+                "field",
+                0.2174310177723957
+            ],
+            [
+                "equation",
+                0.21786218616518208
+            ],
+            [
+                "mathematic",
+                0.2225793496945498
+            ],
+            [
+                "reason",
+                0.22399951084367584
+            ],
+            [
+                "weight",
+                0.2257114549671156
+            ],
+            [
+                "system",
+                0.22662605118975865
+            ],
+            [
+                "matrix",
+                0.22738030874779783
+            ],
+            [
+                "time",
+                0.23289104633727248
+            ],
+            [
+                "neural",
+                0.233731762562104
+            ],
+            [
+                "computer",
+                0.23524209458036482
+            ],
+            [
+                "multiplication",
+                0.2355798328263779
+            ],
+            [
+                "property",
+                0.2409215195278027
+            ],
+            [
+                "big",
+                0.24255723169859303
+            ]
+        ],
+        "topicsList": [
+            "Lincoln Laboratory",
+            "MIT",
+            "right",
+            "ok",
+            "work",
+            "machine",
+            "linear",
+            "learning",
+            "datum",
+            "thing",
+            "Creative Commons",
+            "people",
+            "problem",
+            "way",
+            "circle",
+            "concept",
+            "network",
+            "field",
+            "equation",
+            "mathematic",
+            "reason",
+            "weight",
+            "system",
+            "matrix",
+            "time",
+            "neural",
+            "computer",
+            "multiplication",
+            "property",
+            "big"
+        ]
+    },
+    "chunks": {
+        "0sKPkJME2Jw-0": {
+            "id": "0sKPkJME2Jw-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high-quality educational resources for free. To make a donation or to view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. JEREMY KEPNER: All right, welcome. Thank you so much for coming. I'm Jeremy Kepner. I'm a fellow at Lincoln Laboratory. I lead the Supercomputing Center there, which means I have the privilege of working every day with pretty much everyone at MIT. I think I have the best job at MIT because I get to help you all pursue your research dreams. And as a result of that, I get an opportunity to see what a really wide range of folks are doing and observe patterns between what different folks are doing. So with that, I'll get started. This is meant to be some initial motivational material, why you should be interested in learning about this mathematics, this mathematics of big data and how it relates to machine learning and other really",
+            "metrics": {
+                "relativeDCReadability": 1.1199793865090943,
+                "lexicalDiversity": 0.5168539325842697,
+                "posComposition": {
+                    "DT": 0.101,
+                    "JJ": 0.101,
+                    "NN": 0.096,
+                    "VBZ": 0.022,
+                    "VBN": 0.017,
+                    "IN": 0.112,
+                    "NNP": 0.096,
+                    "PRP$": 0.011,
+                    "MD": 0.017,
+                    "VB": 0.062,
+                    "VBP": 0.067,
+                    "TO": 0.039,
+                    "NNS": 0.056,
+                    "CC": 0.028,
+                    "VBD": 0.006,
+                    "PRP": 0.073,
+                    "RB": 0.028,
+                    "VBG": 0.028,
+                    "EX": 0.006,
+                    "WDT": 0.006,
+                    "JJS": 0.006,
+                    "WP": 0.011,
+                    "WRB": 0.011
+                },
+                "syllableRate": 2.517,
+                "topicScores": [
+                    [
+                        "Creative Commons",
+                        0.2328573920834093
+                    ],
+                    [
+                        "MIT",
+                        0.24548717615480356
+                    ],
+                    [
+                        "Creative Commons license",
+                        0.2890502767904828
+                    ],
+                    [
+                        "JEREMY KEPNER",
+                        0.4628706474949512
+                    ],
+                    [
+                        "OpenCourseWare",
+                        0.522479260393402
+                    ],
+                    [
+                        "mathematic",
+                        0.5560030372725902
+                    ],
+                    [
+                        "folk",
+                        0.5574266382753736
+                    ],
+                    [
+                        "material",
+                        0.5581630159806573
+                    ],
+                    [
+                        "Kepner",
+                        0.5994019676604785
+                    ],
+                    [
+                        "Laboratory",
+                        0.6110925777603265
+                    ],
+                    [
+                        "Jeremy",
+                        0.6386061757954846
+                    ],
+                    [
+                        "Lincoln",
+                        0.6498210881388051
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.6586521805054081
+                    ],
+                    [
+                        "Center",
+                        0.6588217083494656
+                    ],
+                    [
+                        "Supercomputing",
+                        0.6753544110841012
+                    ],
+                    [
+                        "MIT OpenCourseWare",
+                        0.6987375902374269
+                    ],
+                    [
+                        "following",
+                        0.7603298432899237
+                    ],
+                    [
+                        "content",
+                        0.7817234089422743
+                    ],
+                    [
+                        "free",
+                        0.7851987217013418
+                    ],
+                    [
+                        "Supercomputing Center",
+                        0.8016010185678486
+                    ],
+                    [
+                        "support",
+                        0.8268244108528398
+                    ],
+                    [
+                        "high",
+                        0.8268244108528398
+                    ],
+                    [
+                        "quality",
+                        0.8268244108528398
+                    ],
+                    [
+                        "educational",
+                        0.8268244108528398
+                    ],
+                    [
+                        "resource",
+                        0.8435041789975376
+                    ],
+                    [
+                        "course",
+                        0.852996172228153
+                    ],
+                    [
+                        "dream",
+                        0.8674661023470858
+                    ],
+                    [
+                        "donation",
+                        0.8675589333797377
+                    ],
+                    [
+                        "additional",
+                        0.8675589333797377
+                    ],
+                    [
+                        "hundred",
+                        0.8675589333797377
+                    ]
+                ],
+                "topTopicSimilarity": 0.13333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Creative Commons",
+                        0.2328573920834093
+                    ],
+                    [
+                        "MIT",
+                        0.24548717615480356
+                    ],
+                    [
+                        "mathematic",
+                        0.5560030372725902
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.6586521805054081
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-90": {
+            "id": "0sKPkJME2Jw-90",
+            "heat": 0.223,
+            "start": 90.0,
+            "text": " exciting topics. It is a math course. We will be going over a fair amount of math. But we really work hard to make it very accessible to people. So we start out with a really elementary mathematical concept here, probably one that hopefully most of you are familiar with. It's the basic concept of a circle, right? And I bring that up because many of us know many ways to state this mathematically, right? It's all the points that are equal distance from a particular point. There's other ways to describe it. But this is a basic mathematical concept of a circle that many of us have grown up with. But, of course, the other thing we know is that, right, this is the big idea. Although I can write down an equation for circle, which is the equation for a perfect, ideal circle, we know that such things don't actually exist in nature. There is no true perfect circle in nature. Even this circle that we've drawn here, it has pixels. If I zoomed in on it, if I zoomed in on it enough, it wouldn't look like a circle at all. It would look like a series of blocks. And so that approximation process, right, where we have a mathematical concept of an ideal circle, right, but we know that there are not really--",
+            "metrics": {
+                "relativeDCReadability": 0.9368263500243633,
+                "lexicalDiversity": 0.452991452991453,
+                "posComposition": {
+                    "VBG": 0.009,
+                    "NNS": 0.03,
+                    "PRP": 0.107,
+                    "VBZ": 0.043,
+                    "DT": 0.107,
+                    "JJ": 0.107,
+                    "NN": 0.128,
+                    "MD": 0.017,
+                    "VB": 0.034,
+                    "IN": 0.158,
+                    "CC": 0.026,
+                    "RB": 0.081,
+                    "TO": 0.017,
+                    "VBP": 0.056,
+                    "RP": 0.013,
+                    "CD": 0.004,
+                    "WDT": 0.013,
+                    "JJS": 0.004,
+                    "PDT": 0.004,
+                    "EX": 0.013,
+                    "VBN": 0.013,
+                    "VBD": 0.009,
+                    "WRB": 0.004,
+                    ":": 0.004
+                },
+                "syllableRate": 2.717,
+                "topicScores": [
+                    [
+                        "circle",
+                        0.28121265094235304
+                    ],
+                    [
+                        "right",
+                        0.3316486169362054
+                    ],
+                    [
+                        "concept",
+                        0.3689405463733115
+                    ],
+                    [
+                        "mathematical",
+                        0.4394703470262358
+                    ],
+                    [
+                        "nature",
+                        0.543275275868314
+                    ],
+                    [
+                        "course",
+                        0.5538057903419871
+                    ],
+                    [
+                        "ideal",
+                        0.5605644577270272
+                    ],
+                    [
+                        "basic",
+                        0.5622205099435771
+                    ],
+                    [
+                        "way",
+                        0.5687935836358582
+                    ],
+                    [
+                        "point",
+                        0.5730384199733193
+                    ],
+                    [
+                        "perfect",
+                        0.5761234427136936
+                    ],
+                    [
+                        "thing",
+                        0.5786754089817007
+                    ],
+                    [
+                        "equation",
+                        0.579529832616945
+                    ],
+                    [
+                        "exciting",
+                        0.8299577683347126
+                    ],
+                    [
+                        "topic",
+                        0.8299577683347126
+                    ],
+                    [
+                        "people",
+                        0.889550840687024
+                    ],
+                    [
+                        "fair",
+                        0.9074050085374779
+                    ],
+                    [
+                        "familiar",
+                        0.91206358301463
+                    ],
+                    [
+                        "accessible",
+                        0.9141729246147353
+                    ],
+                    [
+                        "pixel",
+                        0.9165633935619812
+                    ],
+                    [
+                        "block",
+                        0.918603835512176
+                    ],
+                    [
+                        "elementary",
+                        0.9189376164057279
+                    ],
+                    [
+                        "really--",
+                        0.9194869141059555
+                    ],
+                    [
+                        "particular",
+                        0.9213657271679555
+                    ],
+                    [
+                        "big",
+                        0.9265883880328489
+                    ],
+                    [
+                        "equal",
+                        0.9275703527035762
+                    ],
+                    [
+                        "distance",
+                        0.9275703527035762
+                    ],
+                    [
+                        "approximation",
+                        0.9325173005175195
+                    ],
+                    [
+                        "process",
+                        0.9325173005175195
+                    ],
+                    [
+                        "true",
+                        0.9346604411535384
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "circle",
+                        0.28121265094235304
+                    ],
+                    [
+                        "right",
+                        0.3316486169362054
+                    ],
+                    [
+                        "concept",
+                        0.3689405463733115
+                    ],
+                    [
+                        "way",
+                        0.5687935836358582
+                    ],
+                    [
+                        "thing",
+                        0.5786754089817007
+                    ],
+                    [
+                        "equation",
+                        0.579529832616945
+                    ],
+                    [
+                        "people",
+                        0.889550840687024
+                    ],
+                    [
+                        "big",
+                        0.9265883880328489
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-180": {
+            "id": "0sKPkJME2Jw-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " they don't really exist nature, but we understand that it is worthwhile to think about these mathematical ideals, manipulate them and then take the results of the manipulation back into the real world. That's a really productive way to think about things and, really, the basis for a lot of what we do here at MIT. This concept is essentially the basis of modern or ancient Western thought on mathematics. If you remember your history courses, this concept of ideal shapes and ideal circles is the foundation of platonic mathematics some 2,500 years ago. And at the time, though, that they were developing that concept, this idea that there are ideal shapes out there and that thinking about them and manipulating them was a more effective way to reason about the real world, there was a lot of skepticism. You could imagine 2,500 years ago someone is walking around and saying, I believe there are these things called ideal circles and ideal squares and ideal shapes. But they don't actually exist in nature. That would probably not be well-received. In fact, it was not well-received. Many of those philosophers who were thinking about this",
+            "metrics": {
+                "relativeDCReadability": 0.970238004326176,
+                "lexicalDiversity": 0.47715736040609136,
+                "posComposition": {
+                    "PRP": 0.066,
+                    "VBP": 0.046,
+                    "RB": 0.086,
+                    "JJ": 0.096,
+                    "NN": 0.112,
+                    "CC": 0.061,
+                    "IN": 0.132,
+                    "VBZ": 0.025,
+                    "TO": 0.015,
+                    "VB": 0.03,
+                    "DT": 0.107,
+                    "NNS": 0.081,
+                    "WDT": 0.01,
+                    "WP": 0.01,
+                    "NNP": 0.01,
+                    "VBN": 0.005,
+                    "PRP$": 0.005,
+                    "CD": 0.01,
+                    "VBD": 0.03,
+                    "VBG": 0.03,
+                    "EX": 0.015,
+                    "RBR": 0.005,
+                    "MD": 0.01
+                },
+                "syllableRate": 2.525,
+                "topicScores": [
+                    [
+                        "ideal",
+                        0.28955344114810194
+                    ],
+                    [
+                        "concept",
+                        0.4172771351109409
+                    ],
+                    [
+                        "shape",
+                        0.42161414396846275
+                    ],
+                    [
+                        "MIT",
+                        0.4863328392450091
+                    ],
+                    [
+                        "world",
+                        0.4912238489078872
+                    ],
+                    [
+                        "real",
+                        0.4967927630890041
+                    ],
+                    [
+                        "basis",
+                        0.5155360011918231
+                    ],
+                    [
+                        "nature",
+                        0.5185578312454077
+                    ],
+                    [
+                        "lot",
+                        0.5264037080474258
+                    ],
+                    [
+                        "year",
+                        0.5288394903882687
+                    ],
+                    [
+                        "mathematic",
+                        0.5339283059807977
+                    ],
+                    [
+                        "way",
+                        0.5374067704628182
+                    ],
+                    [
+                        "thing",
+                        0.5447949059495876
+                    ],
+                    [
+                        "circle",
+                        0.5478153249894929
+                    ],
+                    [
+                        "western",
+                        0.5864454944783946
+                    ],
+                    [
+                        "worthwhile",
+                        0.7935895710740994
+                    ],
+                    [
+                        "result",
+                        0.7935895710740994
+                    ],
+                    [
+                        "manipulation",
+                        0.7935895710740994
+                    ],
+                    [
+                        "productive",
+                        0.8526448500804542
+                    ],
+                    [
+                        "skepticism",
+                        0.8593671555734386
+                    ],
+                    [
+                        "modern",
+                        0.8755019773096153
+                    ],
+                    [
+                        "ancient",
+                        0.8755019773096153
+                    ],
+                    [
+                        "thought",
+                        0.8755019773096153
+                    ],
+                    [
+                        "history",
+                        0.8767793135509024
+                    ],
+                    [
+                        "course",
+                        0.8767793135509024
+                    ],
+                    [
+                        "time",
+                        0.8855032582049948
+                    ],
+                    [
+                        "foundation",
+                        0.8879940272439462
+                    ],
+                    [
+                        "platonic",
+                        0.8879940272439462
+                    ],
+                    [
+                        "fact",
+                        0.8924064174001741
+                    ],
+                    [
+                        "effective",
+                        0.8960181414124598
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "concept",
+                        0.4172771351109409
+                    ],
+                    [
+                        "MIT",
+                        0.4863328392450091
+                    ],
+                    [
+                        "mathematic",
+                        0.5339283059807977
+                    ],
+                    [
+                        "way",
+                        0.5374067704628182
+                    ],
+                    [
+                        "thing",
+                        0.5447949059495876
+                    ],
+                    [
+                        "circle",
+                        0.5478153249894929
+                    ],
+                    [
+                        "time",
+                        0.8855032582049948
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-270": {
+            "id": "0sKPkJME2Jw-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " were very negatively received. And, in fact, if you want to learn about how negative the response was to this, I encourage you to go and read the Allegory of the Cave, which is essentially the story of these philosophers talking about how they're trying to bring the light of this knowledge to the broader world and how they essentially get killed because of it, because people don't want to see it. So that struggle they experienced 2,500 years ago, it exists today. You as people at MIT will try and bring mathematical concepts into environments where people are like, I don't see why that's relevant. And you will experience negative inputs. But you should rest assured that this is a good bet. It's worked well for thousands of years. You know, it's what I base my career on. People ask me, well, what's the basis of it? Well, I'm just betting on math here. It's been a good tool. So this is why we're beginning to think this way when we talk about big data and machine learning. So really looking at the fundamentals, what are the ideals that we need in order to effectively reason about the problems that we're facing today in the virtual world, right, and the fact that this mathematical concept described the natural world so well and also described in the virtual world is sometimes called the unreasonable effectiveness of mathematics. You can look that up. But people talk about math.",
+            "metrics": {
+                "relativeDCReadability": 0.9271302005671043,
+                "lexicalDiversity": 0.4728682170542636,
+                "posComposition": {
+                    "VBD": 0.019,
+                    "RB": 0.066,
+                    "VBN": 0.023,
+                    "CC": 0.039,
+                    "IN": 0.136,
+                    "NN": 0.105,
+                    "PRP": 0.101,
+                    "VBP": 0.066,
+                    "TO": 0.031,
+                    "VB": 0.05,
+                    "WRB": 0.027,
+                    "JJ": 0.047,
+                    "DT": 0.101,
+                    "NNP": 0.019,
+                    "WDT": 0.008,
+                    "VBZ": 0.039,
+                    "NNS": 0.066,
+                    "VBG": 0.023,
+                    "JJR": 0.004,
+                    "CD": 0.004,
+                    "MD": 0.016,
+                    "WP": 0.008,
+                    "PRP$": 0.004
+                },
+                "syllableRate": 3.083,
+                "topicScores": [
+                    [
+                        "world",
+                        0.36930138704711296
+                    ],
+                    [
+                        "people",
+                        0.37414200357471034
+                    ],
+                    [
+                        "good",
+                        0.5310898616542837
+                    ],
+                    [
+                        "year",
+                        0.5325332797687999
+                    ],
+                    [
+                        "negative",
+                        0.5359924500256739
+                    ],
+                    [
+                        "virtual",
+                        0.5424181893131823
+                    ],
+                    [
+                        "fact",
+                        0.5464856609714355
+                    ],
+                    [
+                        "today",
+                        0.5476426629082001
+                    ],
+                    [
+                        "bet",
+                        0.5476426629082001
+                    ],
+                    [
+                        "math",
+                        0.5497561289802236
+                    ],
+                    [
+                        "mathematical",
+                        0.5511975660122758
+                    ],
+                    [
+                        "concept",
+                        0.5511975660122758
+                    ],
+                    [
+                        "Cave",
+                        0.5524901975906397
+                    ],
+                    [
+                        "Allegory",
+                        0.5650970598413377
+                    ],
+                    [
+                        "MIT",
+                        0.6142260063849067
+                    ],
+                    [
+                        "relevant",
+                        0.8601870929842977
+                    ],
+                    [
+                        "input",
+                        0.8675144687229022
+                    ],
+                    [
+                        "response",
+                        0.8676881700453625
+                    ],
+                    [
+                        "story",
+                        0.8676881700453625
+                    ],
+                    [
+                        "philosopher",
+                        0.8676881700453625
+                    ],
+                    [
+                        "light",
+                        0.8676881700453625
+                    ],
+                    [
+                        "knowledge",
+                        0.8676881700453625
+                    ],
+                    [
+                        "broad",
+                        0.8676881700453625
+                    ],
+                    [
+                        "struggle",
+                        0.8808575574588541
+                    ],
+                    [
+                        "tool",
+                        0.8884980505386524
+                    ],
+                    [
+                        "environment",
+                        0.8893292106971611
+                    ],
+                    [
+                        "learning",
+                        0.890378158453967
+                    ],
+                    [
+                        "career",
+                        0.8987175840422211
+                    ],
+                    [
+                        "thousand",
+                        0.9033443913059617
+                    ],
+                    [
+                        "machine",
+                        0.9069164782916457
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "people",
+                        0.37414200357471034
+                    ],
+                    [
+                        "concept",
+                        0.5511975660122758
+                    ],
+                    [
+                        "MIT",
+                        0.6142260063849067
+                    ],
+                    [
+                        "learning",
+                        0.890378158453967
+                    ],
+                    [
+                        "machine",
+                        0.9069164782916457
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-360": {
+            "id": "0sKPkJME2Jw-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " Why does it do such a good job of describing so many things? And people say, well, they don't really know. But it seems to be a good bit of luck that it happens that way. So circles, that gets us a certain way. But in most of the fields that we work with, and I would say that, in almost any introductory course that you take in college, whatever the discipline is, whether it be chemistry or mechanical engineering or electrical engineering or physics or biology, the basic fundamental theoretical ideas that they will introduce to you will be the concept of a linear model. So there we have a linear model, right? And why do we like linear models? And again, it can be physics. It can be as simple as F = MA Or, in chemistry, it can be some kind of chemical rate equation. Or in mechanical engineering it can be basic concepts of friction. The reason we like these basic linear models is because we can project, right? I know that if that solid line represents what I believe to-- you know, if I have evidence to support that that is correct, then I feel pretty good about projecting maybe where I don't have data or into a new domain. So linear models allow us to do this reasoning.",
+            "metrics": {
+                "relativeDCReadability": 1.0374153711697243,
+                "lexicalDiversity": 0.43805309734513276,
+                "posComposition": {
+                    "WRB": 0.013,
+                    "VBZ": 0.035,
+                    "PRP": 0.115,
+                    "VB": 0.071,
+                    "PDT": 0.004,
+                    "DT": 0.08,
+                    "JJ": 0.102,
+                    "NN": 0.119,
+                    "IN": 0.133,
+                    "VBG": 0.009,
+                    "RB": 0.062,
+                    "NNS": 0.053,
+                    "CC": 0.049,
+                    "VBP": 0.058,
+                    "TO": 0.022,
+                    "WDT": 0.004,
+                    "JJS": 0.004,
+                    "MD": 0.035,
+                    "VBN": 0.004,
+                    "NNP": 0.018,
+                    "WP": 0.004,
+                    ":": 0.004
+                },
+                "syllableRate": 2.775,
+                "topicScores": [
+                    [
+                        "model",
+                        0.321260798223679
+                    ],
+                    [
+                        "linear",
+                        0.3215525266261508
+                    ],
+                    [
+                        "good",
+                        0.42890121393498715
+                    ],
+                    [
+                        "engineering",
+                        0.43190307426400787
+                    ],
+                    [
+                        "basic",
+                        0.4443440677998406
+                    ],
+                    [
+                        "way",
+                        0.49890960830613534
+                    ],
+                    [
+                        "right",
+                        0.5095723570934746
+                    ],
+                    [
+                        "mechanical",
+                        0.5463674967209614
+                    ],
+                    [
+                        "concept",
+                        0.5463674967209614
+                    ],
+                    [
+                        "physics",
+                        0.5490889581039977
+                    ],
+                    [
+                        "chemistry",
+                        0.5507210379260453
+                    ],
+                    [
+                        "MA",
+                        0.6558923506211637
+                    ],
+                    [
+                        "F",
+                        0.6689586625902901
+                    ],
+                    [
+                        "thing",
+                        0.739706511666767
+                    ],
+                    [
+                        "job",
+                        0.7945780504978347
+                    ],
+                    [
+                        "people",
+                        0.8265506743804378
+                    ],
+                    [
+                        "linear model",
+                        0.8621419055163247
+                    ],
+                    [
+                        "circle",
+                        0.8671845349028284
+                    ],
+                    [
+                        "bit",
+                        0.8761594004886119
+                    ],
+                    [
+                        "luck",
+                        0.8761594004886119
+                    ],
+                    [
+                        "certain",
+                        0.8785614735992512
+                    ],
+                    [
+                        "equation",
+                        0.884500386885676
+                    ],
+                    [
+                        "college",
+                        0.8871754788574002
+                    ],
+                    [
+                        "discipline",
+                        0.8871754788574002
+                    ],
+                    [
+                        "biology",
+                        0.8871754788574002
+                    ],
+                    [
+                        "friction",
+                        0.8873616573014977
+                    ],
+                    [
+                        "domain",
+                        0.8918842240199465
+                    ],
+                    [
+                        "reasoning",
+                        0.893714065558628
+                    ],
+                    [
+                        "field",
+                        0.8965800246392225
+                    ],
+                    [
+                        "introductory",
+                        0.8965800246392225
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "linear",
+                        0.3215525266261508
+                    ],
+                    [
+                        "way",
+                        0.49890960830613534
+                    ],
+                    [
+                        "right",
+                        0.5095723570934746
+                    ],
+                    [
+                        "concept",
+                        0.5463674967209614
+                    ],
+                    [
+                        "thing",
+                        0.739706511666767
+                    ],
+                    [
+                        "people",
+                        0.8265506743804378
+                    ],
+                    [
+                        "circle",
+                        0.8671845349028284
+                    ],
+                    [
+                        "equation",
+                        0.884500386885676
+                    ],
+                    [
+                        "field",
+                        0.8965800246392225
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-450": {
+            "id": "0sKPkJME2Jw-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " And that's why in the first few weeks of almost any introductory course they begin with these linear models, because they have proven to be so effective. Now, there are many non-linear phenomena that are tremendously important, OK? And as a person who deals with large-scale computation, those are a staple of what people do. But in order to do non-linear calculations or reason about things non-linearly, it usually requires a much more complicated analysis and much more computation, much more data. And so our ability to extrapolate is very limited, OK? It's very limited. So here I am talking about the benefits of thinking mathematically, talking about linearity. What does this have to do with big data and machine learning? So we would like to be able to do the same things that we've been able to do in other fields in this new emerging field of big data. And this often deals with data that doesn't look like the traditional measurements we see in science. This can be data that has to do with words or images, pictures of people, other types of things that don't feel",
+            "metrics": {
+                "relativeDCReadability": 1.0253251736673745,
+                "lexicalDiversity": 0.4381443298969072,
+                "posComposition": {
+                    "CC": 0.046,
+                    "DT": 0.077,
+                    "VBZ": 0.046,
+                    "WRB": 0.005,
+                    "IN": 0.134,
+                    "JJ": 0.119,
+                    "NNS": 0.108,
+                    "RB": 0.082,
+                    "NN": 0.072,
+                    "PRP": 0.041,
+                    "VBP": 0.052,
+                    "VBN": 0.01,
+                    "TO": 0.041,
+                    "VB": 0.067,
+                    "EX": 0.005,
+                    "WDT": 0.021,
+                    "NNP": 0.005,
+                    "WP": 0.015,
+                    "RBR": 0.005,
+                    "JJR": 0.01,
+                    "PRP$": 0.005,
+                    "VBG": 0.021,
+                    "MD": 0.01
+                },
+                "syllableRate": 2.558,
+                "topicScores": [
+                    [
+                        "datum",
+                        0.34317093889487543
+                    ],
+                    [
+                        "linear",
+                        0.41967244912671875
+                    ],
+                    [
+                        "non",
+                        0.4297278201458581
+                    ],
+                    [
+                        "thing",
+                        0.44853777286110896
+                    ],
+                    [
+                        "limited",
+                        0.5244306375082152
+                    ],
+                    [
+                        "computation",
+                        0.540872482953671
+                    ],
+                    [
+                        "people",
+                        0.551062702300228
+                    ],
+                    [
+                        "able",
+                        0.555680091817141
+                    ],
+                    [
+                        "big",
+                        0.5598014231187403
+                    ],
+                    [
+                        "field",
+                        0.5801051262917093
+                    ],
+                    [
+                        "effective",
+                        0.8041803173127293
+                    ],
+                    [
+                        "model",
+                        0.8428637498218016
+                    ],
+                    [
+                        "week",
+                        0.85826348014305
+                    ],
+                    [
+                        "introductory",
+                        0.85826348014305
+                    ],
+                    [
+                        "course",
+                        0.85826348014305
+                    ],
+                    [
+                        "scale",
+                        0.8659402579973838
+                    ],
+                    [
+                        "phenomenon",
+                        0.8670014223452571
+                    ],
+                    [
+                        "important",
+                        0.8670014223452571
+                    ],
+                    [
+                        "linearity",
+                        0.8767403866416889
+                    ],
+                    [
+                        "large",
+                        0.8802297286223308
+                    ],
+                    [
+                        "learning",
+                        0.880286258307517
+                    ],
+                    [
+                        "science",
+                        0.8857440264198438
+                    ],
+                    [
+                        "calculation",
+                        0.8887403851418277
+                    ],
+                    [
+                        "person",
+                        0.8924348371583175
+                    ],
+                    [
+                        "staple",
+                        0.8924348371583175
+                    ],
+                    [
+                        "order",
+                        0.9001765749974423
+                    ],
+                    [
+                        "reason",
+                        0.9001765749974423
+                    ],
+                    [
+                        "complicated",
+                        0.9001765749974423
+                    ],
+                    [
+                        "analysis",
+                        0.9001765749974423
+                    ],
+                    [
+                        "thinking",
+                        0.902821985597018
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "datum",
+                        0.34317093889487543
+                    ],
+                    [
+                        "linear",
+                        0.41967244912671875
+                    ],
+                    [
+                        "thing",
+                        0.44853777286110896
+                    ],
+                    [
+                        "people",
+                        0.551062702300228
+                    ],
+                    [
+                        "big",
+                        0.5598014231187403
+                    ],
+                    [
+                        "field",
+                        0.5801051262917093
+                    ],
+                    [
+                        "learning",
+                        0.880286258307517
+                    ],
+                    [
+                        "reason",
+                        0.9001765749974423
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-540": {
+            "id": "0sKPkJME2Jw-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " like the kinds of data that we traditionally deal with in science and engineering. But we know we want to use linear models. So how are we going to do that? How can we take this concept of linearity, which has been so powerful across so many disciplines, and bring them to this field that just feels completely different than the kinds data that we have? So to begin with, I need to refresh for you what it really means to be linear. Before, I showed you a line and, hence, the line, linear. But mathematically, linearity means something much deeper. And so here's an equation that you may have first seen in elementary school. We basically have to two times three plus four is equal to two times three plus two times four. That is called the distributive property. It basically says multiplication distributes over addition. And this is the fundamental reason why I would say mathematics works in our world, right? If this wasn't true very early on in the earliest days of inventing mathematics, it would not have been very useful, right? To say that I have two of three plus four of something, OK, and then I can change it and do it in this other way, that's really what makes mathematics useful.",
+            "metrics": {
+                "relativeDCReadability": 0.9838706809609228,
+                "lexicalDiversity": 0.4772727272727273,
+                "posComposition": {
+                    "IN": 0.114,
+                    "DT": 0.068,
+                    "NNS": 0.064,
+                    "PRP": 0.095,
+                    "RB": 0.1,
+                    "VBP": 0.036,
+                    "NN": 0.082,
+                    "CC": 0.055,
+                    "TO": 0.041,
+                    "VB": 0.059,
+                    "JJ": 0.073,
+                    "WRB": 0.009,
+                    "VBG": 0.009,
+                    "NNP": 0.009,
+                    "MD": 0.023,
+                    "WDT": 0.014,
+                    "VBZ": 0.055,
+                    "VBN": 0.018,
+                    "WP": 0.009,
+                    "VBD": 0.009,
+                    "JJR": 0.005,
+                    "CD": 0.045,
+                    "PRP$": 0.005,
+                    "JJS": 0.005
+                },
+                "syllableRate": 2.642,
+                "topicScores": [
+                    [
+                        "linear",
+                        0.40278994755367625
+                    ],
+                    [
+                        "time",
+                        0.42370641501435924
+                    ],
+                    [
+                        "datum",
+                        0.4999464314229683
+                    ],
+                    [
+                        "kind",
+                        0.5133951960032818
+                    ],
+                    [
+                        "right",
+                        0.5195088424097805
+                    ],
+                    [
+                        "linearity",
+                        0.5473764073000622
+                    ],
+                    [
+                        "useful",
+                        0.5588363603373724
+                    ],
+                    [
+                        "mathematic",
+                        0.5640958393878311
+                    ],
+                    [
+                        "early",
+                        0.5781394172834065
+                    ],
+                    [
+                        "engineering",
+                        0.7394048212640116
+                    ],
+                    [
+                        "science",
+                        0.7970431239742948
+                    ],
+                    [
+                        "model",
+                        0.8102560837427712
+                    ],
+                    [
+                        "deep",
+                        0.8766594048896413
+                    ],
+                    [
+                        "discipline",
+                        0.8796417105380361
+                    ],
+                    [
+                        "school",
+                        0.8808982380953004
+                    ],
+                    [
+                        "property",
+                        0.887205008834191
+                    ],
+                    [
+                        "addition",
+                        0.8896363943302081
+                    ],
+                    [
+                        "concept",
+                        0.890086819932205
+                    ],
+                    [
+                        "powerful",
+                        0.890086819932205
+                    ],
+                    [
+                        "field",
+                        0.890086819932205
+                    ],
+                    [
+                        "different",
+                        0.890086819932205
+                    ],
+                    [
+                        "elementary",
+                        0.9023325782400448
+                    ],
+                    [
+                        "distributive",
+                        0.9076233650669097
+                    ],
+                    [
+                        "equation",
+                        0.9110077162882413
+                    ],
+                    [
+                        "world",
+                        0.9114136154345324
+                    ],
+                    [
+                        "equal",
+                        0.9136648754616877
+                    ],
+                    [
+                        "way",
+                        0.9142974555905319
+                    ],
+                    [
+                        "multiplication",
+                        0.9177431033657821
+                    ],
+                    [
+                        "fundamental",
+                        0.919354236559831
+                    ],
+                    [
+                        "reason",
+                        0.919354236559831
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "linear",
+                        0.40278994755367625
+                    ],
+                    [
+                        "time",
+                        0.42370641501435924
+                    ],
+                    [
+                        "datum",
+                        0.4999464314229683
+                    ],
+                    [
+                        "right",
+                        0.5195088424097805
+                    ],
+                    [
+                        "mathematic",
+                        0.5640958393878311
+                    ],
+                    [
+                        "property",
+                        0.887205008834191
+                    ],
+                    [
+                        "concept",
+                        0.890086819932205
+                    ],
+                    [
+                        "field",
+                        0.890086819932205
+                    ],
+                    [
+                        "equation",
+                        0.9110077162882413
+                    ],
+                    [
+                        "way",
+                        0.9142974555905319
+                    ],
+                    [
+                        "multiplication",
+                        0.9177431033657821
+                    ],
+                    [
+                        "reason",
+                        0.919354236559831
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-630": {
+            "id": "0sKPkJME2Jw-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " And from a deeper perspective, the distributive property is basically what makes math linear. This is the property that, if this property holds, then we can reason about a system linearly. Now, you're very familiar with this type of mathematics, but there's other types of mathematics. So if you'll allow me, hopefully you will let me just replace those multiplication symbols and addition symbols with this funny circle times and circle plus. And we'll get to why I'm going to do that. Because it turns out that, while you have done most of your careers with traditional arithmetic multiplication and addition, the kind you would do on your calculator or have done in elementary school, it turns out there's other pairs of operations that also obey this property, this distributive property, and, therefore, allow us to potentially build linear models of very different types of data using this property. So, as I mentioned, the classic two are circle plus is just equal to regular arithmetic addition, as we show on the first line, and circle times is equal to regular arithmetic multiplication. So those are the standard ones. And, by far, this pair, this is the most common pair that we use across the world today.",
+            "metrics": {
+                "relativeDCReadability": 1.1187111671594892,
+                "lexicalDiversity": 0.47641509433962265,
+                "posComposition": {
+                    "CC": 0.057,
+                    "IN": 0.127,
+                    "DT": 0.104,
+                    "RBR": 0.005,
+                    "NN": 0.132,
+                    "JJ": 0.108,
+                    "VBZ": 0.052,
+                    "RB": 0.066,
+                    "WP": 0.005,
+                    "PRP": 0.075,
+                    "MD": 0.024,
+                    "VBP": 0.042,
+                    "NNS": 0.066,
+                    "EX": 0.009,
+                    "VB": 0.038,
+                    "TO": 0.024,
+                    "WRB": 0.005,
+                    "VBG": 0.009,
+                    "RP": 0.009,
+                    "VBN": 0.009,
+                    "JJS": 0.005,
+                    "PRP$": 0.009,
+                    "WDT": 0.005,
+                    "VBD": 0.005,
+                    "CD": 0.005,
+                    "RBS": 0.005
+                },
+                "syllableRate": 2.783,
+                "topicScores": [
+                    [
+                        "property",
+                        0.28169209808507856
+                    ],
+                    [
+                        "circle",
+                        0.3587418993497585
+                    ],
+                    [
+                        "multiplication",
+                        0.40553565880107967
+                    ],
+                    [
+                        "type",
+                        0.40857133483372027
+                    ],
+                    [
+                        "arithmetic",
+                        0.4115507010402111
+                    ],
+                    [
+                        "addition",
+                        0.41325550576958164
+                    ],
+                    [
+                        "pair",
+                        0.433542543900476
+                    ],
+                    [
+                        "distributive",
+                        0.49795769372479975
+                    ],
+                    [
+                        "mathematic",
+                        0.5002680268424817
+                    ],
+                    [
+                        "linear",
+                        0.5164477923745593
+                    ],
+                    [
+                        "equal",
+                        0.5390395900872824
+                    ],
+                    [
+                        "regular",
+                        0.5390395900872824
+                    ],
+                    [
+                        "symbol",
+                        0.5472360310686366
+                    ],
+                    [
+                        "deep",
+                        0.7622742104261284
+                    ],
+                    [
+                        "perspective",
+                        0.7622742104261284
+                    ],
+                    [
+                        "system",
+                        0.8283511126579577
+                    ],
+                    [
+                        "familiar",
+                        0.8638259706749812
+                    ],
+                    [
+                        "one",
+                        0.8761549426447195
+                    ],
+                    [
+                        "funny",
+                        0.8773254250901015
+                    ],
+                    [
+                        "time",
+                        0.8773254250901015
+                    ],
+                    [
+                        "today",
+                        0.8797153454635281
+                    ],
+                    [
+                        "kind",
+                        0.8843768241353219
+                    ],
+                    [
+                        "elementary",
+                        0.8843768241353219
+                    ],
+                    [
+                        "school",
+                        0.8843768241353219
+                    ],
+                    [
+                        "classic",
+                        0.8892871267214776
+                    ],
+                    [
+                        "career",
+                        0.8921591734363357
+                    ],
+                    [
+                        "traditional",
+                        0.8921591734363357
+                    ],
+                    [
+                        "calculator",
+                        0.8921591734363357
+                    ],
+                    [
+                        "operation",
+                        0.8921591734363357
+                    ],
+                    [
+                        "model",
+                        0.8921591734363357
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "property",
+                        0.28169209808507856
+                    ],
+                    [
+                        "circle",
+                        0.3587418993497585
+                    ],
+                    [
+                        "multiplication",
+                        0.40553565880107967
+                    ],
+                    [
+                        "mathematic",
+                        0.5002680268424817
+                    ],
+                    [
+                        "linear",
+                        0.5164477923745593
+                    ],
+                    [
+                        "system",
+                        0.8283511126579577
+                    ],
+                    [
+                        "time",
+                        0.8773254250901015
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-720": {
+            "id": "0sKPkJME2Jw-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " But there are others. So, for instance, I can replace the plus operation with max and the multiplication operation with addition, OK? And the above distributive equation will still hold, right? That's a little confusing. I often get confused that multiplications is now addition. But this pair sometimes referred to as max plus-- you'll sometimes hear about it as max plus algebra-- is actually very important in machine learning and neural networks. This is actually the back end of the rectified linear unit, is essentially this operation. If you didn't understand what that meant, that's OK. We'll get to that later. It's very important in finance. There are certain finance operations that rely on this type of mathematics. There are other pairs, also. So here's one. I can replace addition with union and multiplication with intersection, right? Now, that also obeys that linear property. This is essentially the pair of operations that, anytime you make a transaction and work with what's called a relational database, that's the mathematical operation pair that's sitting inside it. It's why those databases work.",
+            "metrics": {
+                "relativeDCReadability": 1.2009907937435182,
+                "lexicalDiversity": 0.53125,
+                "posComposition": {
+                    "CC": 0.047,
+                    "EX": 0.016,
+                    "VBP": 0.042,
+                    "NNS": 0.042,
+                    "RB": 0.099,
+                    "IN": 0.104,
+                    "NN": 0.151,
+                    "PRP": 0.057,
+                    "MD": 0.026,
+                    "VB": 0.031,
+                    "DT": 0.094,
+                    "JJ": 0.099,
+                    "NNP": 0.016,
+                    "VBZ": 0.073,
+                    "VBN": 0.01,
+                    "VBD": 0.016,
+                    "TO": 0.01,
+                    ":": 0.01,
+                    "WP": 0.01,
+                    "WDT": 0.026,
+                    "JJR": 0.005,
+                    "CD": 0.005,
+                    "VBG": 0.005,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.642,
+                "topicScores": [
+                    [
+                        "operation",
+                        0.3131997037038714
+                    ],
+                    [
+                        "ok",
+                        0.3461102358705965
+                    ],
+                    [
+                        "pair",
+                        0.3931211349709358
+                    ],
+                    [
+                        "multiplication",
+                        0.4400378182060525
+                    ],
+                    [
+                        "addition",
+                        0.4400378182060525
+                    ],
+                    [
+                        "max",
+                        0.44270444245235474
+                    ],
+                    [
+                        "right",
+                        0.5222750021274641
+                    ],
+                    [
+                        "important",
+                        0.5558279737008482
+                    ],
+                    [
+                        "plus",
+                        0.5585875867647617
+                    ],
+                    [
+                        "finance",
+                        0.5647495176262278
+                    ],
+                    [
+                        "linear",
+                        0.565365037573218
+                    ],
+                    [
+                        "work",
+                        0.5701810234804777
+                    ],
+                    [
+                        "database",
+                        0.5701810234804777
+                    ],
+                    [
+                        "instance",
+                        0.8654100070311131
+                    ],
+                    [
+                        "confusing",
+                        0.8767082067322385
+                    ],
+                    [
+                        "network",
+                        0.8882379457129618
+                    ],
+                    [
+                        "little",
+                        0.8967651284235462
+                    ],
+                    [
+                        "distributive",
+                        0.8976604732149501
+                    ],
+                    [
+                        "equation",
+                        0.8976604732149501
+                    ],
+                    [
+                        "mathematic",
+                        0.9020546984574682
+                    ],
+                    [
+                        "neural",
+                        0.9066190074320143
+                    ],
+                    [
+                        "property",
+                        0.9077184475793306
+                    ],
+                    [
+                        "unit",
+                        0.9099340028082838
+                    ],
+                    [
+                        "confused",
+                        0.9102867594382653
+                    ],
+                    [
+                        "algebra--",
+                        0.9142034635350342
+                    ],
+                    [
+                        "machine",
+                        0.9142034635350342
+                    ],
+                    [
+                        "learning",
+                        0.9142034635350342
+                    ],
+                    [
+                        "end",
+                        0.9172737809997987
+                    ],
+                    [
+                        "rectified",
+                        0.9172737809997987
+                    ],
+                    [
+                        "intersection",
+                        0.9221676610208067
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.3461102358705965
+                    ],
+                    [
+                        "multiplication",
+                        0.4400378182060525
+                    ],
+                    [
+                        "right",
+                        0.5222750021274641
+                    ],
+                    [
+                        "linear",
+                        0.565365037573218
+                    ],
+                    [
+                        "work",
+                        0.5701810234804777
+                    ],
+                    [
+                        "network",
+                        0.8882379457129618
+                    ],
+                    [
+                        "equation",
+                        0.8976604732149501
+                    ],
+                    [
+                        "mathematic",
+                        0.9020546984574682
+                    ],
+                    [
+                        "neural",
+                        0.9066190074320143
+                    ],
+                    [
+                        "property",
+                        0.9077184475793306
+                    ],
+                    [
+                        "machine",
+                        0.9142034635350342
+                    ],
+                    [
+                        "learning",
+                        0.9142034635350342
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-810": {
+            "id": "0sKPkJME2Jw-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " It allows us to reason about queries, which are just a series of intersections and unions, and then reorder them in such a way. In databases, this is called query planning. And if that property wasn't true, we wouldn't be able to do that. So this is a deep property of that. So we can put all different types of pairs in here and reason about them linearly. And this is why that many, many of the systems we use today work. And so this class is about really exposing that, that, really, the mathematics that allows us to think linearly about data that we haven't really thought of as maybe obeying some kind of linear model. This is essentially the critical point of this class. So it goes beyond that, though. So hopefully you'll allow me to replace those numbers with letters, right? So that's basic algebra there. Just for a refresher, the previous equation, we had A = 2, B = 3, C = 4. But we're not limited to these variables, or these letters, to being just simple scalar numbers, in this case, real numbers or integers or something like that. They can be other things, too. So, for instance, A, B, and C could be spreadsheets.",
+            "metrics": {
+                "relativeDCReadability": 0.9583685460153023,
+                "lexicalDiversity": 0.4460093896713615,
+                "posComposition": {
+                    "PRP": 0.07,
+                    "VBZ": 0.042,
+                    "TO": 0.028,
+                    "NN": 0.103,
+                    "IN": 0.131,
+                    "NNS": 0.085,
+                    "WDT": 0.009,
+                    "VBP": 0.019,
+                    "RB": 0.103,
+                    "DT": 0.131,
+                    "CC": 0.052,
+                    "VB": 0.042,
+                    "PDT": 0.005,
+                    "VBN": 0.014,
+                    "VBD": 0.009,
+                    "JJ": 0.066,
+                    "MD": 0.023,
+                    "NNP": 0.033,
+                    "WRB": 0.005,
+                    "VBG": 0.014,
+                    "CD": 0.014
+                },
+                "syllableRate": 2.533,
+                "topicScores": [
+                    [
+                        "b",
+                        0.394306182001948
+                    ],
+                    [
+                        "c",
+                        0.39989984069273016
+                    ],
+                    [
+                        "number",
+                        0.4400280896935429
+                    ],
+                    [
+                        "query",
+                        0.4809124281618884
+                    ],
+                    [
+                        "property",
+                        0.533609330985961
+                    ],
+                    [
+                        "class",
+                        0.5383315337667047
+                    ],
+                    [
+                        "letter",
+                        0.5536674513479205
+                    ],
+                    [
+                        "way",
+                        0.7559176425249087
+                    ],
+                    [
+                        "union",
+                        0.7822186414630207
+                    ],
+                    [
+                        "series",
+                        0.7939375155071049
+                    ],
+                    [
+                        "intersection",
+                        0.7939375155071049
+                    ],
+                    [
+                        "planning",
+                        0.8233519367987389
+                    ],
+                    [
+                        "database",
+                        0.8340635870229055
+                    ],
+                    [
+                        "true",
+                        0.8678923308900078
+                    ],
+                    [
+                        "able",
+                        0.8757334641630102
+                    ],
+                    [
+                        "work",
+                        0.8807745103321407
+                    ],
+                    [
+                        "model",
+                        0.8858180448029881
+                    ],
+                    [
+                        "right",
+                        0.888113248205059
+                    ],
+                    [
+                        "deep",
+                        0.8882052527948632
+                    ],
+                    [
+                        "today",
+                        0.8954818318476983
+                    ],
+                    [
+                        "different",
+                        0.8962160033249438
+                    ],
+                    [
+                        "type",
+                        0.8962160033249438
+                    ],
+                    [
+                        "pair",
+                        0.8962160033249438
+                    ],
+                    [
+                        "mathematic",
+                        0.8999738659369169
+                    ],
+                    [
+                        "linear",
+                        0.8999738659369169
+                    ],
+                    [
+                        "system",
+                        0.9018705666797688
+                    ],
+                    [
+                        "spreadsheet",
+                        0.9044652511039286
+                    ],
+                    [
+                        "datum",
+                        0.9061168095800757
+                    ],
+                    [
+                        "kind",
+                        0.9061168095800757
+                    ],
+                    [
+                        "previous",
+                        0.9064972679319078
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "property",
+                        0.533609330985961
+                    ],
+                    [
+                        "way",
+                        0.7559176425249087
+                    ],
+                    [
+                        "work",
+                        0.8807745103321407
+                    ],
+                    [
+                        "right",
+                        0.888113248205059
+                    ],
+                    [
+                        "mathematic",
+                        0.8999738659369169
+                    ],
+                    [
+                        "linear",
+                        0.8999738659369169
+                    ],
+                    [
+                        "system",
+                        0.9018705666797688
+                    ],
+                    [
+                        "datum",
+                        0.9061168095800757
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-900": {
+            "id": "0sKPkJME2Jw-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " And that's something we'll go over with extensively in a class, so that I can basically have A, B, and C be whole spreadsheets of data and the linear equation will still hold. And, in fact, that's probably the key concept in big data, is the necessity to reason about data as whole collections and transforming whole collections. Going and looking at things one element at a time is essentially the thing that is extremely difficult to do when you have large amounts of data. A, B, and C can be database tables, right? Those don't differ too much from spreadsheets. And as I talked to you in the previous slide, that union/intersection pair naturally lines up and we can reason about whole tables in a database using linear properties. They can be matrices. I think, for those of you who have had a linear algebra and matrix mathematics, that would have been the first example, right, when I substituted the A, B, and C and had these linear equations. Often, in many of the sciences, we think about matrix operations and linearity",
+            "metrics": {
+                "relativeDCReadability": 1.1719809313596727,
+                "lexicalDiversity": 0.47593582887700536,
+                "posComposition": {
+                    "CC": 0.07,
+                    "DT": 0.086,
+                    "VBZ": 0.027,
+                    "NN": 0.118,
+                    "PRP": 0.059,
+                    "MD": 0.037,
+                    "VB": 0.048,
+                    "IN": 0.128,
+                    "RB": 0.064,
+                    "NNP": 0.048,
+                    "JJ": 0.091,
+                    "NNS": 0.096,
+                    "TO": 0.016,
+                    "VBG": 0.021,
+                    "CD": 0.005,
+                    "WDT": 0.011,
+                    "WRB": 0.011,
+                    "VBP": 0.032,
+                    "VBD": 0.021,
+                    "WP": 0.005,
+                    "VBN": 0.005
+                },
+                "syllableRate": 2.375,
+                "topicScores": [
+                    [
+                        "b",
+                        0.23669156153357382
+                    ],
+                    [
+                        "datum",
+                        0.3481612693425517
+                    ],
+                    [
+                        "C",
+                        0.3549262970313078
+                    ],
+                    [
+                        "linear",
+                        0.36454717448233404
+                    ],
+                    [
+                        "matrix",
+                        0.4279872314459583
+                    ],
+                    [
+                        "collection",
+                        0.5178700129939765
+                    ],
+                    [
+                        "right",
+                        0.5213193977007522
+                    ],
+                    [
+                        "spreadsheet",
+                        0.5241943693706181
+                    ],
+                    [
+                        "equation",
+                        0.5247613904769242
+                    ],
+                    [
+                        "database",
+                        0.5419937820840695
+                    ],
+                    [
+                        "table",
+                        0.5419937820840695
+                    ],
+                    [
+                        "thing",
+                        0.5481106518181891
+                    ],
+                    [
+                        "class",
+                        0.8286828569015458
+                    ],
+                    [
+                        "fact",
+                        0.8432257241087043
+                    ],
+                    [
+                        "big",
+                        0.854623137261225
+                    ],
+                    [
+                        "key",
+                        0.8648826767026817
+                    ],
+                    [
+                        "concept",
+                        0.8648826767026817
+                    ],
+                    [
+                        "necessity",
+                        0.8648826767026817
+                    ],
+                    [
+                        "property",
+                        0.870329070197512
+                    ],
+                    [
+                        "element",
+                        0.87829213518478
+                    ],
+                    [
+                        "time",
+                        0.87829213518478
+                    ],
+                    [
+                        "difficult",
+                        0.87829213518478
+                    ],
+                    [
+                        "large",
+                        0.87829213518478
+                    ],
+                    [
+                        "amount",
+                        0.87829213518478
+                    ],
+                    [
+                        "union",
+                        0.8804724217189146
+                    ],
+                    [
+                        "linearity",
+                        0.881342658762754
+                    ],
+                    [
+                        "previous",
+                        0.8895168083873621
+                    ],
+                    [
+                        "slide",
+                        0.8895168083873621
+                    ],
+                    [
+                        "intersection",
+                        0.8895168083873621
+                    ],
+                    [
+                        "pair",
+                        0.8895168083873621
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "datum",
+                        0.3481612693425517
+                    ],
+                    [
+                        "linear",
+                        0.36454717448233404
+                    ],
+                    [
+                        "matrix",
+                        0.4279872314459583
+                    ],
+                    [
+                        "right",
+                        0.5213193977007522
+                    ],
+                    [
+                        "equation",
+                        0.5247613904769242
+                    ],
+                    [
+                        "thing",
+                        0.5481106518181891
+                    ],
+                    [
+                        "big",
+                        0.854623137261225
+                    ],
+                    [
+                        "concept",
+                        0.8648826767026817
+                    ],
+                    [
+                        "property",
+                        0.870329070197512
+                    ],
+                    [
+                        "time",
+                        0.87829213518478
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-990": {
+            "id": "0sKPkJME2Jw-990",
+            "heat": 0.1,
+            "start": 990.0,
+            "text": " as being coupled together. And through the duality between matrices and graphs and networks, we can represent graphs and networks through matrices. Any time you work with a neural network, you're representing that network as a matrix. And, of course, all these equations apply there as well and you can reason about those systems linearly. So that provides a little motivation there. As we like to say, enough about me, let me tell you about my book. So this will be the text that will we use in the class. We are not going to go through the full text, but we have printed out copies of the first seven chapters that we will go through. And we will hand those out later when you do the class. So let me now switch gears a little bit and talk about how this relates to, I think, one of the most wonderful breakthroughs that we have seen, or I've seen in my career, and many of my colleagues here at MIT have seen, which is what's been going on in machine learning, right, which is-- it's not hype. There's a real real there there and it's tremendously exciting. So let me give you a little history, basic history",
+            "metrics": {
+                "relativeDCReadability": 0.9131209268146033,
+                "lexicalDiversity": 0.4158878504672897,
+                "posComposition": {
+                    "IN": 0.126,
+                    "VBG": 0.019,
+                    "VBN": 0.028,
+                    "RB": 0.065,
+                    "CC": 0.056,
+                    "DT": 0.093,
+                    "NN": 0.107,
+                    "NNS": 0.047,
+                    "PRP": 0.103,
+                    "MD": 0.028,
+                    "VB": 0.061,
+                    "NNP": 0.019,
+                    "VBP": 0.056,
+                    "JJ": 0.061,
+                    "VBZ": 0.037,
+                    "TO": 0.014,
+                    "PRP$": 0.014,
+                    "WDT": 0.014,
+                    "RP": 0.009,
+                    "CD": 0.009,
+                    "WRB": 0.009,
+                    "RBS": 0.005,
+                    "WP": 0.005,
+                    ":": 0.005,
+                    "EX": 0.009
+                },
+                "syllableRate": 2.383,
+                "topicScores": [
+                    [
+                        "network",
+                        0.35866546536925076
+                    ],
+                    [
+                        "matrix",
+                        0.40839183620243413
+                    ],
+                    [
+                        "little",
+                        0.43558758528463243
+                    ],
+                    [
+                        "class",
+                        0.514875397298638
+                    ],
+                    [
+                        "graph",
+                        0.5149713535024125
+                    ],
+                    [
+                        "text",
+                        0.5507801110914632
+                    ],
+                    [
+                        "real",
+                        0.5555327574811884
+                    ],
+                    [
+                        "history",
+                        0.5597734301364461
+                    ],
+                    [
+                        "MIT",
+                        0.6760583125953431
+                    ],
+                    [
+                        "duality",
+                        0.8559363171501675
+                    ],
+                    [
+                        "time",
+                        0.8675387849560866
+                    ],
+                    [
+                        "neural",
+                        0.8675387849560866
+                    ],
+                    [
+                        "course",
+                        0.8695163252017302
+                    ],
+                    [
+                        "book",
+                        0.8737135594509597
+                    ],
+                    [
+                        "system",
+                        0.8807209971391546
+                    ],
+                    [
+                        "motivation",
+                        0.8892011391391512
+                    ],
+                    [
+                        "hype",
+                        0.889384391693718
+                    ],
+                    [
+                        "equation",
+                        0.8905972135814503
+                    ],
+                    [
+                        "exciting",
+                        0.8917745295024527
+                    ],
+                    [
+                        "basic",
+                        0.9036683932145706
+                    ],
+                    [
+                        "career",
+                        0.9084778391680648
+                    ],
+                    [
+                        "machine",
+                        0.9084778391680648
+                    ],
+                    [
+                        "learning",
+                        0.9084778391680648
+                    ],
+                    [
+                        "copy",
+                        0.9114306284039937
+                    ],
+                    [
+                        "chapter",
+                        0.9114306284039937
+                    ],
+                    [
+                        "gear",
+                        0.9162742916088689
+                    ],
+                    [
+                        "bit",
+                        0.9162742916088689
+                    ],
+                    [
+                        "wonderful",
+                        0.9162742916088689
+                    ],
+                    [
+                        "breakthrough",
+                        0.9162742916088689
+                    ],
+                    [
+                        "colleague",
+                        0.9162742916088689
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "network",
+                        0.35866546536925076
+                    ],
+                    [
+                        "matrix",
+                        0.40839183620243413
+                    ],
+                    [
+                        "MIT",
+                        0.6760583125953431
+                    ],
+                    [
+                        "time",
+                        0.8675387849560866
+                    ],
+                    [
+                        "neural",
+                        0.8675387849560866
+                    ],
+                    [
+                        "system",
+                        0.8807209971391546
+                    ],
+                    [
+                        "equation",
+                        0.8905972135814503
+                    ],
+                    [
+                        "machine",
+                        0.9084778391680648
+                    ],
+                    [
+                        "learning",
+                        0.9084778391680648
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1080": {
+            "id": "0sKPkJME2Jw-1080",
+            "heat": 0.1,
+            "start": 1080.0,
+            "text": " of this field. So in a certain sense, before 2010, machine learning looked like this. And then, after 2015, it kind of looks like this. So when people talk about the hype in machine learning, or AI, really deep neural networks are the elephant inside the machine learning snake. It has stormed onto the scene in the last five years and basically allowed us to do things that we had almost taken for granted were impossible. Just the fact that you're able to talk to computers and they can understand you, that we can have computers that can see at least in a way that approximates the way humans do, these are really almost technological miracles that, for those of us who have been working on this field for fifty years, we had almost literally given up on. And then all of a sudden it became possible. So let me give you a little sense of appreciation for this field and its roots. So machine learning, like any field, is defined as a set of techniques and problems. When you ask what defines a field, you ask, well, what are the problems that they work on that other fields don't really work on? And what are the techniques they employ that really are not",
+            "metrics": {
+                "relativeDCReadability": 0.8396416628315365,
+                "lexicalDiversity": 0.4537037037037037,
+                "posComposition": {
+                    "IN": 0.153,
+                    "DT": 0.116,
+                    "NN": 0.093,
+                    "RB": 0.074,
+                    "JJ": 0.06,
+                    "CD": 0.014,
+                    "VBG": 0.019,
+                    "VBD": 0.028,
+                    "CC": 0.037,
+                    "PRP": 0.079,
+                    "NNS": 0.074,
+                    "NNP": 0.019,
+                    "WRB": 0.009,
+                    "VBP": 0.065,
+                    "VB": 0.042,
+                    "VBZ": 0.019,
+                    "VBN": 0.028,
+                    "TO": 0.014,
+                    "MD": 0.014,
+                    "WDT": 0.019,
+                    "JJS": 0.005,
+                    "WP": 0.014,
+                    "RP": 0.005,
+                    "PRP$": 0.005
+                },
+                "syllableRate": 2.408,
+                "topicScores": [
+                    [
+                        "field",
+                        0.3146717071651042
+                    ],
+                    [
+                        "learning",
+                        0.348252096902872
+                    ],
+                    [
+                        "machine",
+                        0.35493662593484604
+                    ],
+                    [
+                        "sense",
+                        0.5399515851008004
+                    ],
+                    [
+                        "year",
+                        0.5511615220692706
+                    ],
+                    [
+                        "problem",
+                        0.5570505346375898
+                    ],
+                    [
+                        "computer",
+                        0.5670508242088025
+                    ],
+                    [
+                        "way",
+                        0.5670508242088025
+                    ],
+                    [
+                        "technique",
+                        0.5672978665917768
+                    ],
+                    [
+                        "AI",
+                        0.5785525302287317
+                    ],
+                    [
+                        "certain",
+                        0.8415596394418174
+                    ],
+                    [
+                        "snake",
+                        0.8549634543540707
+                    ],
+                    [
+                        "machine learning",
+                        0.860362487739395
+                    ],
+                    [
+                        "impossible",
+                        0.8649941191328989
+                    ],
+                    [
+                        "deep",
+                        0.8791912789043914
+                    ],
+                    [
+                        "root",
+                        0.881681052571016
+                    ],
+                    [
+                        "people",
+                        0.8891782172566977
+                    ],
+                    [
+                        "hype",
+                        0.8891782172566977
+                    ],
+                    [
+                        "neural",
+                        0.8891782172566977
+                    ],
+                    [
+                        "network",
+                        0.8891782172566977
+                    ],
+                    [
+                        "elephant",
+                        0.8891782172566977
+                    ],
+                    [
+                        "human",
+                        0.8938267132792798
+                    ],
+                    [
+                        "miracle",
+                        0.8938267132792798
+                    ],
+                    [
+                        "scene",
+                        0.8971273240350809
+                    ],
+                    [
+                        "thing",
+                        0.8971273240350809
+                    ],
+                    [
+                        "fact",
+                        0.9027376235790884
+                    ],
+                    [
+                        "able",
+                        0.9027376235790884
+                    ],
+                    [
+                        "technological",
+                        0.9027376235790884
+                    ],
+                    [
+                        "sudden",
+                        0.9069502183263412
+                    ],
+                    [
+                        "little",
+                        0.9102546197235631
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "field",
+                        0.3146717071651042
+                    ],
+                    [
+                        "learning",
+                        0.348252096902872
+                    ],
+                    [
+                        "machine",
+                        0.35493662593484604
+                    ],
+                    [
+                        "problem",
+                        0.5570505346375898
+                    ],
+                    [
+                        "computer",
+                        0.5670508242088025
+                    ],
+                    [
+                        "way",
+                        0.5670508242088025
+                    ],
+                    [
+                        "people",
+                        0.8891782172566977
+                    ],
+                    [
+                        "neural",
+                        0.8891782172566977
+                    ],
+                    [
+                        "network",
+                        0.8891782172566977
+                    ],
+                    [
+                        "thing",
+                        0.8971273240350809
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1170": {
+            "id": "0sKPkJME2Jw-1170",
+            "heat": 0.1,
+            "start": 1170.0,
+            "text": " really being employed by them? So the core techniques, as I mentioned earlier, are these neural networks. These are meant to crudely approximate maybe the way humans think about problems. We have these circles which are neurons. They have connections to other neurons. You know, those connections have different weights associated with them. As information comes in, they get multiplied by those weights. They get summed together. And if they pass certain thresholds or criteria, then they send a signal on to another neuron. And this is, to a certain degree, how we believe the human brain works and is a natural starting point for, how could we make computers do similar things? The big problems that people have worked on are these classic problems in machine learning, are language, how do we make computers understand human language, vision, how do we make computers see pictures or explain pictures back to us the way we would like, and strategy and games and other types of things like that. So how do we get them to solve problems? This is not new. These core concepts trace back to the earliest days of the field. In fact, these four figures here, each one is taken from a paper that was presented at the very first machine learning conference in the mid-1950s.",
+            "metrics": {
+                "relativeDCReadability": 0.9925299471804208,
+                "lexicalDiversity": 0.4977168949771689,
+                "posComposition": {
+                    "RB": 0.05,
+                    "VBG": 0.009,
+                    "VBN": 0.032,
+                    "IN": 0.087,
+                    "PRP": 0.082,
+                    "DT": 0.119,
+                    "NN": 0.11,
+                    "NNS": 0.137,
+                    "VBD": 0.009,
+                    "RBR": 0.005,
+                    "VBP": 0.091,
+                    "JJ": 0.068,
+                    "TO": 0.032,
+                    "VB": 0.046,
+                    "WDT": 0.014,
+                    "VBZ": 0.023,
+                    "CC": 0.037,
+                    "WRB": 0.023,
+                    "MD": 0.009,
+                    "NNP": 0.005,
+                    "JJS": 0.005,
+                    "CD": 0.009
+                },
+                "syllableRate": 2.608,
+                "topicScores": [
+                    [
+                        "problem",
+                        0.3834227463406334
+                    ],
+                    [
+                        "neuron",
+                        0.3963117217464613
+                    ],
+                    [
+                        "computer",
+                        0.4356151730504719
+                    ],
+                    [
+                        "human",
+                        0.44155700337178466
+                    ],
+                    [
+                        "weight",
+                        0.5542413480183129
+                    ],
+                    [
+                        "connection",
+                        0.5565339066911266
+                    ],
+                    [
+                        "core",
+                        0.5576870061674549
+                    ],
+                    [
+                        "way",
+                        0.5580990142320236
+                    ],
+                    [
+                        "machine",
+                        0.5612709091663758
+                    ],
+                    [
+                        "thing",
+                        0.5617262457656698
+                    ],
+                    [
+                        "learning",
+                        0.5621124038502153
+                    ],
+                    [
+                        "early",
+                        0.5626144076284699
+                    ],
+                    [
+                        "language",
+                        0.5635147342292961
+                    ],
+                    [
+                        "certain",
+                        0.5650720305575198
+                    ],
+                    [
+                        "picture",
+                        0.5764416497281951
+                    ],
+                    [
+                        "network",
+                        0.8427261309703236
+                    ],
+                    [
+                        "technique",
+                        0.8686841822074463
+                    ],
+                    [
+                        "neural",
+                        0.8686841822074463
+                    ],
+                    [
+                        "new",
+                        0.8981458340011462
+                    ],
+                    [
+                        "circle",
+                        0.8993652265669964
+                    ],
+                    [
+                        "field",
+                        0.8995534514200941
+                    ],
+                    [
+                        "mid-1950",
+                        0.9008191546485088
+                    ],
+                    [
+                        "information",
+                        0.9041016571651191
+                    ],
+                    [
+                        "vision",
+                        0.9045357544952636
+                    ],
+                    [
+                        "different",
+                        0.908996108994768
+                    ],
+                    [
+                        "criterion",
+                        0.9093062426706927
+                    ],
+                    [
+                        "fact",
+                        0.9100703379771682
+                    ],
+                    [
+                        "degree",
+                        0.9113088437471784
+                    ],
+                    [
+                        "point",
+                        0.9113088437471784
+                    ],
+                    [
+                        "similar",
+                        0.9113088437471784
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "problem",
+                        0.3834227463406334
+                    ],
+                    [
+                        "computer",
+                        0.4356151730504719
+                    ],
+                    [
+                        "weight",
+                        0.5542413480183129
+                    ],
+                    [
+                        "way",
+                        0.5580990142320236
+                    ],
+                    [
+                        "machine",
+                        0.5612709091663758
+                    ],
+                    [
+                        "thing",
+                        0.5617262457656698
+                    ],
+                    [
+                        "learning",
+                        0.5621124038502153
+                    ],
+                    [
+                        "network",
+                        0.8427261309703236
+                    ],
+                    [
+                        "neural",
+                        0.8686841822074463
+                    ],
+                    [
+                        "circle",
+                        0.8993652265669964
+                    ],
+                    [
+                        "field",
+                        0.8995534514200941
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1260": {
+            "id": "0sKPkJME2Jw-1260",
+            "heat": 0.1,
+            "start": 1260.0,
+            "text": " So there was a machine learning conference in the mid-1950s. It was in Los Angeles. It had four papers presented. These were the four papers. And I will say that three of them were done by folks at MIT Lincoln Laboratory, which is where I work. And so that was basically the neural networks of language and vision. And we didn't play games, so that was it. And you might say, well, why is it? Why was there so much work going on in Lincoln Laboratory in the mid-1950s that they would want to pioneer in these directions? At that time, people were first building computers and computers were very special purpose. So different organizations around the world were building computers to do different things. Some were doing them to simulate complex fluid dynamics systems, think about designing ships or other types of things like that or airplanes. Others were doing them to, say, like what Alan Turing was doing, break codes. And our task was to help people who were watching radar scopes make decisions, right? How could computers enable humans to watch more sensors",
+            "metrics": {
+                "relativeDCReadability": 1.0081316840832262,
+                "lexicalDiversity": 0.48128342245989303,
+                "posComposition": {
+                    "RB": 0.043,
+                    "EX": 0.005,
+                    "VBD": 0.091,
+                    "DT": 0.064,
+                    "NN": 0.075,
+                    "VBG": 0.048,
+                    "IN": 0.107,
+                    "PRP": 0.064,
+                    "NNP": 0.059,
+                    "CD": 0.016,
+                    "NNS": 0.139,
+                    "VBN": 0.011,
+                    "CC": 0.048,
+                    "MD": 0.021,
+                    "VB": 0.064,
+                    "WDT": 0.005,
+                    "VBZ": 0.011,
+                    "WRB": 0.016,
+                    "VBP": 0.016,
+                    "JJ": 0.043,
+                    "TO": 0.032,
+                    "WP": 0.011,
+                    "PRP$": 0.005,
+                    "JJR": 0.005
+                },
+                "syllableRate": 2.242,
+                "topicScores": [
+                    [
+                        "Los Angeles",
+                        0.31017283808726276
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.3510382806898118
+                    ],
+                    [
+                        "computer",
+                        0.3786001590960753
+                    ],
+                    [
+                        "paper",
+                        0.4947756296566137
+                    ],
+                    [
+                        "mid-1950",
+                        0.5047393387235909
+                    ],
+                    [
+                        "work",
+                        0.5361665302000664
+                    ],
+                    [
+                        "people",
+                        0.5446894031189566
+                    ],
+                    [
+                        "thing",
+                        0.5466763761714876
+                    ],
+                    [
+                        "different",
+                        0.5525557092505928
+                    ],
+                    [
+                        "MIT Lincoln",
+                        0.5764689080343781
+                    ],
+                    [
+                        "Alan",
+                        0.6761079176969305
+                    ],
+                    [
+                        "Turing",
+                        0.6761079176969305
+                    ],
+                    [
+                        "machine",
+                        0.7662459546619118
+                    ],
+                    [
+                        "learning",
+                        0.7662459546619118
+                    ],
+                    [
+                        "conference",
+                        0.7662459546619118
+                    ],
+                    [
+                        "Alan Turing",
+                        0.8420342064980461
+                    ],
+                    [
+                        "vision",
+                        0.8553344691756917
+                    ],
+                    [
+                        "code",
+                        0.8687478322093111
+                    ],
+                    [
+                        "direction",
+                        0.8697807855009397
+                    ],
+                    [
+                        "right",
+                        0.8706893982831284
+                    ],
+                    [
+                        "purpose",
+                        0.8729543279350623
+                    ],
+                    [
+                        "airplane",
+                        0.8779758188150162
+                    ],
+                    [
+                        "folk",
+                        0.880195004097401
+                    ],
+                    [
+                        "game",
+                        0.8825312402241852
+                    ],
+                    [
+                        "sensor",
+                        0.883411137714028
+                    ],
+                    [
+                        "neural",
+                        0.8866120184746172
+                    ],
+                    [
+                        "network",
+                        0.8866120184746172
+                    ],
+                    [
+                        "language",
+                        0.8866120184746172
+                    ],
+                    [
+                        "time",
+                        0.8926362875912457
+                    ],
+                    [
+                        "special",
+                        0.8926362875912457
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "Lincoln Laboratory",
+                        0.3510382806898118
+                    ],
+                    [
+                        "computer",
+                        0.3786001590960753
+                    ],
+                    [
+                        "work",
+                        0.5361665302000664
+                    ],
+                    [
+                        "people",
+                        0.5446894031189566
+                    ],
+                    [
+                        "thing",
+                        0.5466763761714876
+                    ],
+                    [
+                        "machine",
+                        0.7662459546619118
+                    ],
+                    [
+                        "learning",
+                        0.7662459546619118
+                    ],
+                    [
+                        "right",
+                        0.8706893982831284
+                    ],
+                    [
+                        "neural",
+                        0.8866120184746172
+                    ],
+                    [
+                        "network",
+                        0.8866120184746172
+                    ],
+                    [
+                        "time",
+                        0.8926362875912457
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1350": {
+            "id": "0sKPkJME2Jw-1350",
+            "heat": 0.1,
+            "start": 1350.0,
+            "text": " and see where they're going? How could we do that? So at Lincoln Laboratory, we were building special purpose computers to do this. And we built the first large computer with reliable, fast memory. This system had 4,096 bytes of memory, which, at the time, people thought was too much. What could you possibly do with 4,096 numbers? The human brain, of course! Right, that's enough, right? Most of us can remember five, six, seven digits, right? So a computer that can remember 4,096 numbers should be able to do things like language and vision and strategy. So why not? So they went out and they started working on these problems, OK? But Lincoln Laboratory, being an applied research laboratory, we are required to get answers to our sponsors in a few years' time frame. If problems are going to take longer than that, then they really are the purview of the basic research community, universities. And it became apparent pretty early on that this problem was going to be more difficult. It was not going to be solved right away. So we did what we often do, is we partnered.",
+            "metrics": {
+                "relativeDCReadability": 1.0158236279801887,
+                "lexicalDiversity": 0.48186528497409326,
+                "posComposition": {
+                    "CC": 0.036,
+                    "VB": 0.057,
+                    "WRB": 0.01,
+                    "PRP": 0.078,
+                    "VBP": 0.041,
+                    "VBG": 0.036,
+                    "NNP": 0.036,
+                    "MD": 0.026,
+                    "DT": 0.073,
+                    "IN": 0.088,
+                    "VBD": 0.057,
+                    "JJ": 0.078,
+                    "NNS": 0.067,
+                    "TO": 0.036,
+                    "NN": 0.098,
+                    "CD": 0.031,
+                    "WDT": 0.016,
+                    "RB": 0.073,
+                    "WP": 0.01,
+                    "VBZ": 0.01,
+                    "JJS": 0.005,
+                    "RP": 0.005,
+                    "VBN": 0.016,
+                    "PRP$": 0.005,
+                    "JJR": 0.005,
+                    "RBR": 0.005
+                },
+                "syllableRate": 2.308,
+                "topicScores": [
+                    [
+                        "right",
+                        0.36636377450006674
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.37482646518721785
+                    ],
+                    [
+                        "problem",
+                        0.4383915637507082
+                    ],
+                    [
+                        "computer",
+                        0.44421087828982436
+                    ],
+                    [
+                        "memory",
+                        0.5370695391893192
+                    ],
+                    [
+                        "number",
+                        0.5513074306082932
+                    ],
+                    [
+                        "time",
+                        0.5558633219088637
+                    ],
+                    [
+                        "research",
+                        0.5661506955203932
+                    ],
+                    [
+                        "course",
+                        0.8814716554654721
+                    ],
+                    [
+                        "fast",
+                        0.8865087803667603
+                    ],
+                    [
+                        "reliable",
+                        0.8955384023856686
+                    ],
+                    [
+                        "frame",
+                        0.895696719131225
+                    ],
+                    [
+                        "special",
+                        0.8960585240873347
+                    ],
+                    [
+                        "purpose",
+                        0.8960585240873347
+                    ],
+                    [
+                        "university",
+                        0.8971343066554438
+                    ],
+                    [
+                        "strategy",
+                        0.8998082539944041
+                    ],
+                    [
+                        "human",
+                        0.9008413115834399
+                    ],
+                    [
+                        "system",
+                        0.9012258152579674
+                    ],
+                    [
+                        "people",
+                        0.9012258152579674
+                    ],
+                    [
+                        "large",
+                        0.9035676374580054
+                    ],
+                    [
+                        "digit",
+                        0.9062044851710939
+                    ],
+                    [
+                        "difficult",
+                        0.9074134957780878
+                    ],
+                    [
+                        "brain",
+                        0.9088478548354951
+                    ],
+                    [
+                        "byte",
+                        0.9088623868242374
+                    ],
+                    [
+                        "laboratory",
+                        0.9200852585335333
+                    ],
+                    [
+                        "year",
+                        0.9200852585335333
+                    ],
+                    [
+                        "community",
+                        0.9212162709171505
+                    ],
+                    [
+                        "thing",
+                        0.9223433069971566
+                    ],
+                    [
+                        "language",
+                        0.9223433069971566
+                    ],
+                    [
+                        "vision",
+                        0.9223433069971566
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.36636377450006674
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.37482646518721785
+                    ],
+                    [
+                        "problem",
+                        0.4383915637507082
+                    ],
+                    [
+                        "computer",
+                        0.44421087828982436
+                    ],
+                    [
+                        "time",
+                        0.5558633219088637
+                    ],
+                    [
+                        "system",
+                        0.9012258152579674
+                    ],
+                    [
+                        "people",
+                        0.9012258152579674
+                    ],
+                    [
+                        "thing",
+                        0.9223433069971566
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1440": {
+            "id": "0sKPkJME2Jw-1440",
+            "heat": 0.1,
+            "start": 1440.0,
+            "text": " We found some bright young people at MIT, people just like yourselves. In this case, we found a young professor named Marvin Minsky. And we said, why don't you go and get some of your friends together and create a meeting where you can lay out what the fundamental challenges are of this field? And then we will figure out how to get that funded so that you can go and do that research. And that was the famous Dartmouth AI conference which kicked off the field. And the person leading this group, Oliver Selfridge at Lincoln Laboratory, basically arranged for that conference to happen and then subsequently arranged for what would became the MIT AI Lab that was founded by Professor Minsky. And likewise, Professor Selfridge also realized that we would need more computing power. So he left Lincoln Laboratory and formed what was called Project MAC, which became the Laboratory for Computer Science. And then those two entities later merged 30 years later to become CSAIL. So that was the initial thing. Now, it was pretty clear that, when this problem was handed off to the basic research community, there was a feeling that these problems would be solved in about a decade. So we were really thinking by the mid-1960s",
+            "metrics": {
+                "relativeDCReadability": 1.0942341495889367,
+                "lexicalDiversity": 0.48598130841121495,
+                "posComposition": {
+                    "PRP": 0.051,
+                    "VBD": 0.093,
+                    "DT": 0.117,
+                    "JJ": 0.037,
+                    "NNS": 0.042,
+                    "IN": 0.089,
+                    "NNP": 0.112,
+                    "RB": 0.075,
+                    "NN": 0.089,
+                    "VBN": 0.028,
+                    "CC": 0.051,
+                    "WRB": 0.019,
+                    "VBP": 0.009,
+                    "VB": 0.056,
+                    "PRP$": 0.005,
+                    "MD": 0.028,
+                    "RP": 0.019,
+                    "WP": 0.014,
+                    "TO": 0.019,
+                    "WDT": 0.019,
+                    "VBG": 0.014,
+                    "JJR": 0.005,
+                    "CD": 0.009
+                },
+                "syllableRate": 2.567,
+                "topicScores": [
+                    [
+                        "Laboratory",
+                        0.3355970889048583
+                    ],
+                    [
+                        "Minsky",
+                        0.3402158835664213
+                    ],
+                    [
+                        "MIT",
+                        0.3826377354716998
+                    ],
+                    [
+                        "Marvin Minsky",
+                        0.3999478256229994
+                    ],
+                    [
+                        "Lincoln",
+                        0.404722222784089
+                    ],
+                    [
+                        "Selfridge",
+                        0.4072748839459346
+                    ],
+                    [
+                        "Professor",
+                        0.4072748839459346
+                    ],
+                    [
+                        "AI",
+                        0.4157031647555863
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.47703485395091294
+                    ],
+                    [
+                        "people",
+                        0.4902227435740519
+                    ],
+                    [
+                        "field",
+                        0.5013040020082554
+                    ],
+                    [
+                        "young",
+                        0.5143418716686369
+                    ],
+                    [
+                        "Professor Minsky",
+                        0.5339326687887482
+                    ],
+                    [
+                        "research",
+                        0.548341388804515
+                    ],
+                    [
+                        "conference",
+                        0.5604647531994389
+                    ],
+                    [
+                        "problem",
+                        0.570572333192461
+                    ],
+                    [
+                        "Science",
+                        0.6232685329067356
+                    ],
+                    [
+                        "CSAIL",
+                        0.6310375375484669
+                    ],
+                    [
+                        "Oliver",
+                        0.6410516141637138
+                    ],
+                    [
+                        "Dartmouth",
+                        0.6437288633054776
+                    ],
+                    [
+                        "Project",
+                        0.6612029263361329
+                    ],
+                    [
+                        "MAC",
+                        0.6612029263361329
+                    ],
+                    [
+                        "Computer",
+                        0.6612029263361329
+                    ],
+                    [
+                        "MIT AI",
+                        0.665514518716967
+                    ],
+                    [
+                        "Computer Science",
+                        0.7009897418833931
+                    ],
+                    [
+                        "Oliver Selfridge",
+                        0.7059277436297526
+                    ],
+                    [
+                        "Professor Selfridge",
+                        0.714354745687192
+                    ],
+                    [
+                        "Dartmouth AI",
+                        0.7365216189593334
+                    ],
+                    [
+                        "AI Lab",
+                        0.765118181085874
+                    ],
+                    [
+                        "Project MAC",
+                        0.776796385364649
+                    ]
+                ],
+                "topTopicSimilarity": 0.16666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "MIT",
+                        0.3826377354716998
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.47703485395091294
+                    ],
+                    [
+                        "people",
+                        0.4902227435740519
+                    ],
+                    [
+                        "field",
+                        0.5013040020082554
+                    ],
+                    [
+                        "problem",
+                        0.570572333192461
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1530": {
+            "id": "0sKPkJME2Jw-1530",
+            "heat": 0.155,
+            "start": 1530.0,
+            "text": " is when these problems would be really solved. So it's like giving someone an assignment, right? You all are given assignments by professors and they give you a week to do it. But it took a little longer. In this case, it took five weeks or, in this case, five decades to solve this problem. But we have. We have now really, using those techniques, made tremendous progress on those problems. But we don't know why it works. So we made this tremendous progress but we don't really understand why this works. So let me show you a little bit what we have learned, and this course will explore the deeper mathematics to help us gain insight. We still don't know why it works. At least we can lay the foundations and maybe you can figure it out. So here I am, fifty years later, a person from Lincoln Laboratory saying, \"All right. Question one has been answered. Here's question two.\" Ha. Why does this work and hopefully you can begin, be the generation figured it out. Hopefully it'll take less than fifty years. Historically this type once we know how it works, it usually takes about twenty years to figure out why. So I mean impasses but maybe maybe you know some people are smarter and they'll figure it out faster. So this is what a neural network looks like.",
+            "metrics": {
+                "relativeDCReadability": 0.8616077469717779,
+                "lexicalDiversity": 0.4875,
+                "posComposition": {
+                    "VBZ": 0.042,
+                    "WRB": 0.029,
+                    "DT": 0.1,
+                    "NNS": 0.062,
+                    "MD": 0.029,
+                    "VB": 0.075,
+                    "RB": 0.092,
+                    "VBN": 0.025,
+                    "IN": 0.05,
+                    "PRP": 0.138,
+                    "VBG": 0.013,
+                    "NN": 0.083,
+                    "VBP": 0.054,
+                    "CC": 0.046,
+                    "TO": 0.017,
+                    "VBD": 0.017,
+                    "JJ": 0.037,
+                    "CD": 0.017,
+                    "WP": 0.008,
+                    "JJR": 0.008,
+                    "JJS": 0.004,
+                    "RP": 0.017,
+                    "NNP": 0.021,
+                    "``": 0.004,
+                    "POS": 0.004,
+                    "''": 0.004,
+                    "RBR": 0.004
+                },
+                "syllableRate": 2.658,
+                "topicScores": [
+                    [
+                        "work",
+                        0.3224580819531881
+                    ],
+                    [
+                        "problem",
+                        0.42700701484274317
+                    ],
+                    [
+                        "year",
+                        0.4400188441466089
+                    ],
+                    [
+                        "right",
+                        0.5267854721310227
+                    ],
+                    [
+                        "assignment",
+                        0.5435120753863154
+                    ],
+                    [
+                        "case",
+                        0.5448705362776868
+                    ],
+                    [
+                        "tremendous",
+                        0.5511883900127152
+                    ],
+                    [
+                        "week",
+                        0.5533392491912483
+                    ],
+                    [
+                        "little",
+                        0.556799038622209
+                    ],
+                    [
+                        "progress",
+                        0.5630888969194118
+                    ],
+                    [
+                        "question",
+                        0.5650291815109071
+                    ],
+                    [
+                        "Laboratory",
+                        0.6755521304467749
+                    ],
+                    [
+                        "Lincoln",
+                        0.6854807718976611
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.8624679045452515
+                    ],
+                    [
+                        "professor",
+                        0.9022572528824833
+                    ],
+                    [
+                        "decade",
+                        0.9080257954933186
+                    ],
+                    [
+                        "insight",
+                        0.9086945131291254
+                    ],
+                    [
+                        "technique",
+                        0.9151724956089788
+                    ],
+                    [
+                        "person",
+                        0.9256939342040581
+                    ],
+                    [
+                        "bit",
+                        0.9271020230918684
+                    ],
+                    [
+                        "course",
+                        0.9271020230918684
+                    ],
+                    [
+                        "deep",
+                        0.9271020230918684
+                    ],
+                    [
+                        "mathematic",
+                        0.9271020230918684
+                    ],
+                    [
+                        "foundation",
+                        0.9298023331423633
+                    ],
+                    [
+                        "generation",
+                        0.9343262769367681
+                    ],
+                    [
+                        "type",
+                        0.9356135132777097
+                    ],
+                    [
+                        "impasse",
+                        0.9361837565185391
+                    ],
+                    [
+                        "people",
+                        0.9361837565185391
+                    ],
+                    [
+                        "smart",
+                        0.9361837565185391
+                    ],
+                    [
+                        "neural",
+                        0.9367130064881355
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "work",
+                        0.3224580819531881
+                    ],
+                    [
+                        "problem",
+                        0.42700701484274317
+                    ],
+                    [
+                        "right",
+                        0.5267854721310227
+                    ],
+                    [
+                        "Lincoln Laboratory",
+                        0.8624679045452515
+                    ],
+                    [
+                        "mathematic",
+                        0.9271020230918684
+                    ],
+                    [
+                        "people",
+                        0.9361837565185391
+                    ],
+                    [
+                        "neural",
+                        0.9367130064881355
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1620": {
+            "id": "0sKPkJME2Jw-1620",
+            "heat": 0.133,
+            "start": 1620.0,
+            "text": " On the left you have your input, in this case, a vector, y zero. It's just these dots that are called features. What is a feature? Anything can be a feature. That is the power of neural networks, is they don't require you to a priori state what the inputs can be. They can be anything. People have said, well, you know, neural networks, machine learning, it's just curve fitting. Yeah, but it's curve fitting without domain knowledge. Because domain knowledge is so costly and expensive to create that having a general system that can do this is really what's so powerful. So the inputs: we have a input feature. It could be a vector, which we call y sub zero. And that can just be an image, right, the canonical thing being an image of a cat, right? And that can just be the pixels, values just rolled out into a vector, and they will be the inputs. And then we have a series of layers. These are called hidden layers. The circles are often referred to as neurons, OK? And each line connecting each dot has a value associated with it, a weight. And the strength of the connection between any two neurons is given by that weight.",
+            "metrics": {
+                "relativeDCReadability": 1.0219356680871423,
+                "lexicalDiversity": 0.4232558139534884,
+                "posComposition": {
+                    "IN": 0.07,
+                    "DT": 0.158,
+                    "NN": 0.172,
+                    "PRP": 0.07,
+                    "VBP": 0.047,
+                    "PRP$": 0.005,
+                    "VBD": 0.014,
+                    "VBZ": 0.051,
+                    "RB": 0.056,
+                    "NNS": 0.065,
+                    "WDT": 0.019,
+                    "VBN": 0.028,
+                    "WP": 0.014,
+                    "MD": 0.037,
+                    "VB": 0.051,
+                    "JJ": 0.051,
+                    "TO": 0.014,
+                    "VBG": 0.028,
+                    "CC": 0.037,
+                    "RP": 0.005,
+                    "NNP": 0.005,
+                    "CD": 0.005
+                },
+                "syllableRate": 2.458,
+                "topicScores": [
+                    [
+                        "feature",
+                        0.303552824479388
+                    ],
+                    [
+                        "input",
+                        0.32778518459762085
+                    ],
+                    [
+                        "vector",
+                        0.4207614671628904
+                    ],
+                    [
+                        "neural",
+                        0.533356876529195
+                    ],
+                    [
+                        "network",
+                        0.5352932482036042
+                    ],
+                    [
+                        "y",
+                        0.5427637621006748
+                    ],
+                    [
+                        "weight",
+                        0.544675334149196
+                    ],
+                    [
+                        "curve",
+                        0.544904862821101
+                    ],
+                    [
+                        "layer",
+                        0.5474834377189497
+                    ],
+                    [
+                        "fitting",
+                        0.548245270846206
+                    ],
+                    [
+                        "domain",
+                        0.5508385910809274
+                    ],
+                    [
+                        "knowledge",
+                        0.5516275924248828
+                    ],
+                    [
+                        "right",
+                        0.557149472992418
+                    ],
+                    [
+                        "image",
+                        0.5616005558915809
+                    ],
+                    [
+                        "dot",
+                        0.5667058960060969
+                    ],
+                    [
+                        "value",
+                        0.5695523875742504
+                    ],
+                    [
+                        "neuron",
+                        0.5709109180097025
+                    ],
+                    [
+                        "case",
+                        0.7980520936823299
+                    ],
+                    [
+                        "left",
+                        0.8099437557155212
+                    ],
+                    [
+                        "People",
+                        0.894009813364419
+                    ],
+                    [
+                        "machine",
+                        0.9015009533009528
+                    ],
+                    [
+                        "learning",
+                        0.9015009533009528
+                    ],
+                    [
+                        "powerful",
+                        0.9032357014979179
+                    ],
+                    [
+                        "priori",
+                        0.905225964723557
+                    ],
+                    [
+                        "state",
+                        0.905225964723557
+                    ],
+                    [
+                        "sub",
+                        0.9198163257277312
+                    ],
+                    [
+                        "canonical",
+                        0.9212151812409768
+                    ],
+                    [
+                        "cat",
+                        0.9212151812409768
+                    ],
+                    [
+                        "costly",
+                        0.9219593653372112
+                    ],
+                    [
+                        "expensive",
+                        0.9219593653372112
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "neural",
+                        0.533356876529195
+                    ],
+                    [
+                        "network",
+                        0.5352932482036042
+                    ],
+                    [
+                        "weight",
+                        0.544675334149196
+                    ],
+                    [
+                        "right",
+                        0.557149472992418
+                    ],
+                    [
+                        "machine",
+                        0.9015009533009528
+                    ],
+                    [
+                        "learning",
+                        0.9015009533009528
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1710": {
+            "id": "0sKPkJME2Jw-1710",
+            "heat": 0.125,
+            "start": 1710.0,
+            "text": " And then, ultimately, the output, in this case, the output classification, the series of blue dots there, are the different possible categories. So if I put in a cat picture, one of those dots would be cat, maybe one would be dog, maybe one would be apple or orange, whatever I desired. And the whole idea is that, if I put in a picture of a cat and I set all these values correctly, then the dot corresponding to cat will end up with the highest score, right? And then I mentioned earlier that each one of these neurons collects inputs. And if it's above a certain threshold, it then chooses to pass on information to the next. And that's where these b values, which are vectors, are just the thresholds associated with each one of those. It's a vector, one value associated with each one of those that does those. This entire system can be represented relatively simply with one equation, which is that yi plus one, which is the next vector in the layer, OK, can be computed by the previous vector, yi matrix multiplied by the weight, W. So whenever you see transformations from one set of neurons to the next layer, you should think,",
+            "metrics": {
+                "relativeDCReadability": 1.1224288342385411,
+                "lexicalDiversity": 0.4786729857819905,
+                "posComposition": {
+                    "CC": 0.038,
+                    "RB": 0.052,
+                    "DT": 0.152,
+                    "NN": 0.137,
+                    "IN": 0.128,
+                    "JJ": 0.066,
+                    "NNS": 0.057,
+                    "EX": 0.005,
+                    "VBP": 0.033,
+                    "PRP": 0.047,
+                    "CD": 0.047,
+                    "MD": 0.033,
+                    "VB": 0.043,
+                    "WDT": 0.024,
+                    "VBD": 0.009,
+                    "VBZ": 0.038,
+                    "PDT": 0.005,
+                    "VBG": 0.005,
+                    "TO": 0.019,
+                    "RP": 0.005,
+                    "JJS": 0.005,
+                    "RBR": 0.005,
+                    "WRB": 0.009,
+                    "VBN": 0.024,
+                    "NNP": 0.014
+                },
+                "syllableRate": 2.542,
+                "topicScores": [
+                    [
+                        "cat",
+                        0.3500332060046682
+                    ],
+                    [
+                        "vector",
+                        0.35615280080154443
+                    ],
+                    [
+                        "dot",
+                        0.39193020033597803
+                    ],
+                    [
+                        "value",
+                        0.40614119359176437
+                    ],
+                    [
+                        "output",
+                        0.47718537073111583
+                    ],
+                    [
+                        "picture",
+                        0.5099951282316143
+                    ],
+                    [
+                        "layer",
+                        0.5359258243172109
+                    ],
+                    [
+                        "threshold",
+                        0.5374887628066884
+                    ],
+                    [
+                        "neuron",
+                        0.5402355438901042
+                    ],
+                    [
+                        "set",
+                        0.5450803692568104
+                    ],
+                    [
+                        "yi",
+                        0.5566561170273875
+                    ],
+                    [
+                        "W.",
+                        0.5875253761685774
+                    ],
+                    [
+                        "category",
+                        0.8105693157414834
+                    ],
+                    [
+                        "case",
+                        0.8308550662656995
+                    ],
+                    [
+                        "classification",
+                        0.8308550662656995
+                    ],
+                    [
+                        "series",
+                        0.8308550662656995
+                    ],
+                    [
+                        "possible",
+                        0.8308550662656995
+                    ],
+                    [
+                        "blue",
+                        0.8398724127586034
+                    ],
+                    [
+                        "different",
+                        0.8398724127586034
+                    ],
+                    [
+                        "right",
+                        0.8449976760216056
+                    ],
+                    [
+                        "dog",
+                        0.8565233844669691
+                    ],
+                    [
+                        "orange",
+                        0.8565233844669691
+                    ],
+                    [
+                        "input",
+                        0.8643571178838911
+                    ],
+                    [
+                        "apple",
+                        0.8643956574830398
+                    ],
+                    [
+                        "high",
+                        0.8706383601639337
+                    ],
+                    [
+                        "score",
+                        0.8706383601639337
+                    ],
+                    [
+                        "idea",
+                        0.8778466228046038
+                    ],
+                    [
+                        "corresponding",
+                        0.8778466228046038
+                    ],
+                    [
+                        "weight",
+                        0.8845486367036786
+                    ],
+                    [
+                        "certain",
+                        0.8861757977440287
+                    ]
+                ],
+                "topTopicSimilarity": 0.06666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.8449976760216056
+                    ],
+                    [
+                        "weight",
+                        0.8845486367036786
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1800": {
+            "id": "0sKPkJME2Jw-1800",
+            "heat": 0.131,
+            "start": 1800.0,
+            "text": " oh, I have a matrix that represents all those weights and I'm going to multiply it by the vector to get the next one. Then we apply these thresholds, all right? So we add these, the bi's, and then we have a function that we pass it through. Typically, this h function has been given the name rectified linear unit. It's much simpler than that. It's just, if the value is greater than what comes out of this matrix multiplied, if the value is greater than zero, don't touch it. Just let it pass through. If it's less than zero, make it zero, right? You know, it's a pretty complicated name for a very simple function. That's actually critical. If you didn't have that h function, this nonlinear function there, then we could roll up all of these together and we would just have one big matrix equation, right? So that's really considered a pretty important part of it. So that's pretty much what's going on. When you want to know what the big deal is of neural networks, that's all that's going on. It's just that equation. The challenge is we don't know what the W's and the b's are. And we don't know how many layers there should be. And we don't know how many neurons there should be in each layer. And although the features can be arbitrary, picking the right ones do matter.",
+            "metrics": {
+                "relativeDCReadability": 0.9478651765443109,
+                "lexicalDiversity": 0.4591439688715953,
+                "posComposition": {
+                    "NN": 0.101,
+                    "PRP": 0.097,
+                    "VBP": 0.054,
+                    "DT": 0.121,
+                    "WDT": 0.012,
+                    "VBZ": 0.07,
+                    "PDT": 0.004,
+                    "NNS": 0.027,
+                    "CC": 0.027,
+                    "VBG": 0.016,
+                    "TO": 0.012,
+                    "VB": 0.062,
+                    "IN": 0.097,
+                    "JJ": 0.054,
+                    "CD": 0.019,
+                    "RB": 0.097,
+                    "POS": 0.012,
+                    "VBN": 0.016,
+                    "VBD": 0.012,
+                    "JJR": 0.016,
+                    "WP": 0.016,
+                    "NNP": 0.016,
+                    "MD": 0.019,
+                    "RP": 0.004,
+                    "WRB": 0.012,
+                    "EX": 0.008
+                },
+                "syllableRate": 2.817,
+                "topicScores": [
+                    [
+                        "function",
+                        0.33297120061720625
+                    ],
+                    [
+                        "right",
+                        0.3628545443026628
+                    ],
+                    [
+                        "matrix",
+                        0.43319018389283065
+                    ],
+                    [
+                        "value",
+                        0.5378788907308582
+                    ],
+                    [
+                        "great",
+                        0.5461341989220728
+                    ],
+                    [
+                        "simple",
+                        0.5579031219948842
+                    ],
+                    [
+                        "equation",
+                        0.5602862565757223
+                    ],
+                    [
+                        "layer",
+                        0.5681094606525731
+                    ],
+                    [
+                        "big",
+                        0.5708870128861487
+                    ],
+                    [
+                        "W",
+                        0.6887827088584195
+                    ],
+                    [
+                        "weight",
+                        0.8128169159508987
+                    ],
+                    [
+                        "vector",
+                        0.8128169159508987
+                    ],
+                    [
+                        "threshold",
+                        0.8583600807817842
+                    ],
+                    [
+                        "unit",
+                        0.8761607890109736
+                    ],
+                    [
+                        "linear",
+                        0.8925110650606913
+                    ],
+                    [
+                        "critical",
+                        0.9048641855981235
+                    ],
+                    [
+                        "nonlinear",
+                        0.9196124520342315
+                    ],
+                    [
+                        "complicated",
+                        0.9212701364021119
+                    ],
+                    [
+                        "neural",
+                        0.9237823064092993
+                    ],
+                    [
+                        "network",
+                        0.9237823064092993
+                    ],
+                    [
+                        "challenge",
+                        0.9258383181820162
+                    ],
+                    [
+                        "important",
+                        0.9264986396526685
+                    ],
+                    [
+                        "arbitrary",
+                        0.9282553782904519
+                    ],
+                    [
+                        "deal",
+                        0.9289296954096806
+                    ],
+                    [
+                        "neuron",
+                        0.9324342719113109
+                    ],
+                    [
+                        "feature",
+                        0.9331225467108749
+                    ],
+                    [
+                        "right one",
+                        2.8045633901150717
+                    ],
+                    [
+                        "simple function",
+                        3.18575911114891
+                    ],
+                    [
+                        "matrix equation",
+                        3.3360264906111308
+                    ],
+                    [
+                        "linear unit",
+                        3.5868024631625786
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.3628545443026628
+                    ],
+                    [
+                        "matrix",
+                        0.43319018389283065
+                    ],
+                    [
+                        "equation",
+                        0.5602862565757223
+                    ],
+                    [
+                        "big",
+                        0.5708870128861487
+                    ],
+                    [
+                        "weight",
+                        0.8128169159508987
+                    ],
+                    [
+                        "linear",
+                        0.8925110650606913
+                    ],
+                    [
+                        "neural",
+                        0.9237823064092993
+                    ],
+                    [
+                        "network",
+                        0.9237823064092993
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1890": {
+            "id": "0sKPkJME2Jw-1890",
+            "heat": 0.15,
+            "start": 1890.0,
+            "text": " And picking the right categories do matter. So when people talk about, I do machine learning or I'm off working on-- they're basically playing with all of these parameters to try and find the ones that will work best for their problem. And there's a lot of trial and error. And you'll hear about there's now systems that try and use machine learning to do that process automatically. You know, how do you make machines that learn how to do machine learning? The basic approach is a trial and error approach. I take a whole bunch of pictures of cats that I now have cats in them, OK, and other things, right? And I randomly set all those weights and thresholds. And I put in the vector and I see what the system-- I guess what I think the number of layers and neurons and all that should be and I run it through the system and I get an estimate or a calculation for what I think these final values should be and I compare it with the truth. That is, I just basically subtract it. And then I use those corrections to very carefully adjust the weights. Basically, with the last weights first, I do what's called back propagate these little changes to try and make a better guess on what these weights should be. So if you hear the term back propagation, that's that process of taking those differences",
+            "metrics": {
+                "relativeDCReadability": 1.03894075982671,
+                "lexicalDiversity": 0.4342629482071713,
+                "posComposition": {
+                    "CC": 0.084,
+                    "VBG": 0.02,
+                    "DT": 0.112,
+                    "JJ": 0.036,
+                    "NNS": 0.084,
+                    "VBP": 0.088,
+                    "RB": 0.06,
+                    "WRB": 0.012,
+                    "IN": 0.084,
+                    "PRP": 0.1,
+                    "NN": 0.112,
+                    "RP": 0.008,
+                    ":": 0.008,
+                    "TO": 0.02,
+                    "VB": 0.056,
+                    "WDT": 0.016,
+                    "MD": 0.02,
+                    "PRP$": 0.004,
+                    "EX": 0.008,
+                    "VBZ": 0.02,
+                    "POS": 0.004,
+                    "NNP": 0.008,
+                    "VBN": 0.008,
+                    "PDT": 0.008,
+                    "WP": 0.02,
+                    "JJR": 0.004
+                },
+                "syllableRate": 2.758,
+                "topicScores": [
+                    [
+                        "machine",
+                        0.34248625247821995
+                    ],
+                    [
+                        "weight",
+                        0.3643725229881967
+                    ],
+                    [
+                        "learning",
+                        0.38066357486039637
+                    ],
+                    [
+                        "error",
+                        0.4907965841545067
+                    ],
+                    [
+                        "right",
+                        0.5069761968433214
+                    ],
+                    [
+                        "trial",
+                        0.5139470299525178
+                    ],
+                    [
+                        "process",
+                        0.5330503422918759
+                    ],
+                    [
+                        "approach",
+                        0.5351104483143031
+                    ],
+                    [
+                        "guess",
+                        0.5375840010569913
+                    ],
+                    [
+                        "system",
+                        0.5415472659949201
+                    ],
+                    [
+                        "well",
+                        0.5428674136595386
+                    ],
+                    [
+                        "cat",
+                        0.5483526834838497
+                    ],
+                    [
+                        "category",
+                        0.751446809258207
+                    ],
+                    [
+                        "machine learning",
+                        0.767199093086406
+                    ],
+                    [
+                        "on--",
+                        0.7789356167492205
+                    ],
+                    [
+                        "problem",
+                        0.8106876491697939
+                    ],
+                    [
+                        "people",
+                        0.8198218756981247
+                    ],
+                    [
+                        "parameter",
+                        0.8468559048243542
+                    ],
+                    [
+                        "one",
+                        0.8468559048243542
+                    ],
+                    [
+                        "lot",
+                        0.8617684600315627
+                    ],
+                    [
+                        "threshold",
+                        0.863183758891473
+                    ],
+                    [
+                        "truth",
+                        0.8693054711138977
+                    ],
+                    [
+                        "basic",
+                        0.8746803819746066
+                    ],
+                    [
+                        "difference",
+                        0.8774073100597852
+                    ],
+                    [
+                        "thing",
+                        0.8789778389268244
+                    ],
+                    [
+                        "bunch",
+                        0.887397589206614
+                    ],
+                    [
+                        "picture",
+                        0.887397589206614
+                    ],
+                    [
+                        "vector",
+                        0.8934018480733265
+                    ],
+                    [
+                        "propagation",
+                        0.8949307493732944
+                    ],
+                    [
+                        "number",
+                        0.8957153569038331
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "machine",
+                        0.34248625247821995
+                    ],
+                    [
+                        "weight",
+                        0.3643725229881967
+                    ],
+                    [
+                        "learning",
+                        0.38066357486039637
+                    ],
+                    [
+                        "right",
+                        0.5069761968433214
+                    ],
+                    [
+                        "system",
+                        0.5415472659949201
+                    ],
+                    [
+                        "problem",
+                        0.8106876491697939
+                    ],
+                    [
+                        "people",
+                        0.8198218756981247
+                    ],
+                    [
+                        "thing",
+                        0.8789778389268244
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-1980": {
+            "id": "0sKPkJME2Jw-1980",
+            "heat": 0.158,
+            "start": 1980.0,
+            "text": " and using them to adjust these weights by about 0.01% at a time. And then we just do this over and over again until eventually we get a set of weights that we think does the problem well enough for our purpose. So that's called back propagation, all right? Once we have the set of weights and we have a new picture that we want to know what it is, we drop it in there and it tells us it's a cat or a dog or whatever. That forward step is called inference. These are two words you'll hear frequently in machine learning, back propagation and inference. And that's all there is to it. There's really nothing else to that. If you can understand this equation, you'll be way ahead of most people in machine learning, you know? You know, there's lots of people who understand about all the software and the packages and the data. All of them are just doing that. And I'd say this is one of the most powerful ways to be ahead in your field, is to actually understand the mathematical principles. Because then the software and what it's doing is much clearer. And other people who don't understand these mathematical principles, they're really guessing. They're like, oh, well, I do this and I throw this module in. They don't really know that all it's doing is making adjustments to these various equations, how many different layers there are and stuff like that. Now, why is this important? You're like, well, what does it matter? As I said before, we have this system. It works but we don't know why.",
+            "metrics": {
+                "relativeDCReadability": 0.8422424269910691,
+                "lexicalDiversity": 0.41237113402061853,
+                "posComposition": {
+                    "CC": 0.058,
+                    "VBG": 0.021,
+                    "PRP": 0.117,
+                    "TO": 0.024,
+                    "VB": 0.041,
+                    "DT": 0.11,
+                    "NNS": 0.055,
+                    "IN": 0.1,
+                    "CD": 0.01,
+                    "NN": 0.089,
+                    "RB": 0.082,
+                    "VBP": 0.079,
+                    "VBZ": 0.065,
+                    "PRP$": 0.007,
+                    "VBN": 0.007,
+                    "RP": 0.003,
+                    "JJ": 0.048,
+                    "NNP": 0.003,
+                    "WP": 0.017,
+                    "EX": 0.017,
+                    "WDT": 0.003,
+                    "MD": 0.014,
+                    "JJS": 0.003,
+                    "PDT": 0.003,
+                    "RBS": 0.003,
+                    "JJR": 0.003,
+                    "WRB": 0.01,
+                    "VBD": 0.003
+                },
+                "syllableRate": 3.258,
+                "topicScores": [
+                    [
+                        "weight",
+                        0.38795556861598646
+                    ],
+                    [
+                        "people",
+                        0.43380726215727033
+                    ],
+                    [
+                        "set",
+                        0.5159681538229856
+                    ],
+                    [
+                        "inference",
+                        0.5196400133326426
+                    ],
+                    [
+                        "propagation",
+                        0.5270651238504049
+                    ],
+                    [
+                        "machine",
+                        0.5313188774905961
+                    ],
+                    [
+                        "learning",
+                        0.534106268448718
+                    ],
+                    [
+                        "mathematical",
+                        0.5429383846139186
+                    ],
+                    [
+                        "principle",
+                        0.547866551706153
+                    ],
+                    [
+                        "software",
+                        0.552544328045552
+                    ],
+                    [
+                        "equation",
+                        0.5585867833421537
+                    ],
+                    [
+                        "way",
+                        0.5626577632135227
+                    ],
+                    [
+                        "time",
+                        0.7641391003092037
+                    ],
+                    [
+                        "purpose",
+                        0.8298133770210145
+                    ],
+                    [
+                        "right",
+                        0.8456488385798537
+                    ],
+                    [
+                        "problem",
+                        0.8584777477101837
+                    ],
+                    [
+                        "new",
+                        0.8926039108577413
+                    ],
+                    [
+                        "picture",
+                        0.8926039108577413
+                    ],
+                    [
+                        "cat",
+                        0.8926039108577413
+                    ],
+                    [
+                        "dog",
+                        0.8926039108577413
+                    ],
+                    [
+                        "forward",
+                        0.8938578875421034
+                    ],
+                    [
+                        "datum",
+                        0.8998117233593937
+                    ],
+                    [
+                        "step",
+                        0.9003348390030783
+                    ],
+                    [
+                        "clear",
+                        0.9055367371487256
+                    ],
+                    [
+                        "word",
+                        0.9057885821991924
+                    ],
+                    [
+                        "important",
+                        0.9114756089917484
+                    ],
+                    [
+                        "system",
+                        0.9131691055831035
+                    ],
+                    [
+                        "field",
+                        0.9160164620943203
+                    ],
+                    [
+                        "lot",
+                        0.9178534542819471
+                    ],
+                    [
+                        "package",
+                        0.9178534542819471
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "weight",
+                        0.38795556861598646
+                    ],
+                    [
+                        "people",
+                        0.43380726215727033
+                    ],
+                    [
+                        "machine",
+                        0.5313188774905961
+                    ],
+                    [
+                        "learning",
+                        0.534106268448718
+                    ],
+                    [
+                        "equation",
+                        0.5585867833421537
+                    ],
+                    [
+                        "way",
+                        0.5626577632135227
+                    ],
+                    [
+                        "time",
+                        0.7641391003092037
+                    ],
+                    [
+                        "right",
+                        0.8456488385798537
+                    ],
+                    [
+                        "problem",
+                        0.8584777477101837
+                    ],
+                    [
+                        "datum",
+                        0.8998117233593937
+                    ],
+                    [
+                        "system",
+                        0.9131691055831035
+                    ],
+                    [
+                        "field",
+                        0.9160164620943203
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-2070": {
+            "id": "0sKPkJME2Jw-2070",
+            "heat": 0.164,
+            "start": 2070.0,
+            "text": " Well, why is it important to know why? Well, there's two reasons. One is that, if we want to be able to apply this incredible innovation to other domains-- so many of you probably want to do that. Many of you want to say, how can I apply machine learning to something else other than language or vision or some of these other standard problems? I kind of need some theory to know. Like, OK, if I have a problem that's like this one over here and I changed it in this way, there's a good chance it'll work. There's some basis for why I'm going to try something, right? Right now there's a lot of trial and error. It's like, well, it's an idea. But if you can have some math that says, you know, I think that will probably work, that really is a great way to guide your reasoning and guide your efforts. Another reason is that-- so here's a picture of a very cute poodle, right? And the machine learning system correctly identifies it as poodle. One thing we realized is that the way you and I see that picture is actually very, very different than the way the neural network sees that picture, all right? And, in fact, I can make changes to that picture that are imperceptible to you or me but will completely change how the neural network-- that is, given our neural network, I can basically make it",
+            "metrics": {
+                "relativeDCReadability": 1.00479423746605,
+                "lexicalDiversity": 0.46332046332046334,
+                "posComposition": {
+                    "RB": 0.077,
+                    "WRB": 0.019,
+                    "VBZ": 0.066,
+                    "PRP": 0.097,
+                    "JJ": 0.066,
+                    "TO": 0.046,
+                    "VB": 0.062,
+                    "NNP": 0.008,
+                    "EX": 0.015,
+                    "CD": 0.015,
+                    "NNS": 0.023,
+                    "IN": 0.089,
+                    "VBP": 0.035,
+                    "DT": 0.104,
+                    "NN": 0.151,
+                    ":": 0.012,
+                    "MD": 0.027,
+                    "VBG": 0.008,
+                    "CC": 0.042,
+                    "WDT": 0.015,
+                    "VBD": 0.008,
+                    "PRP$": 0.012,
+                    "VBN": 0.004
+                },
+                "syllableRate": 2.892,
+                "topicScores": [
+                    [
+                        "right",
+                        0.35427738903916045
+                    ],
+                    [
+                        "picture",
+                        0.37312756253920404
+                    ],
+                    [
+                        "way",
+                        0.38218541950870855
+                    ],
+                    [
+                        "neural",
+                        0.4413815845848727
+                    ],
+                    [
+                        "change",
+                        0.45061500530939685
+                    ],
+                    [
+                        "problem",
+                        0.5448652291686448
+                    ],
+                    [
+                        "reason",
+                        0.5464086707988681
+                    ],
+                    [
+                        "poodle",
+                        0.5558456681051412
+                    ],
+                    [
+                        "machine",
+                        0.556718561199768
+                    ],
+                    [
+                        "learning",
+                        0.556718561199768
+                    ],
+                    [
+                        "network",
+                        0.5600536804473046
+                    ],
+                    [
+                        "important",
+                        0.8571509943359868
+                    ],
+                    [
+                        "able",
+                        0.8915566724607946
+                    ],
+                    [
+                        "incredible",
+                        0.8915566724607946
+                    ],
+                    [
+                        "innovation",
+                        0.8915566724607946
+                    ],
+                    [
+                        "domains--",
+                        0.8915566724607946
+                    ],
+                    [
+                        "standard",
+                        0.8920285465684165
+                    ],
+                    [
+                        "error",
+                        0.8963629420326789
+                    ],
+                    [
+                        "idea",
+                        0.8986194785695736
+                    ],
+                    [
+                        "language",
+                        0.8993544861572497
+                    ],
+                    [
+                        "vision",
+                        0.8993544861572497
+                    ],
+                    [
+                        "effort",
+                        0.9005645951367465
+                    ],
+                    [
+                        "theory",
+                        0.9048562058582036
+                    ],
+                    [
+                        "good",
+                        0.9122253861066657
+                    ],
+                    [
+                        "fact",
+                        0.9132878341642187
+                    ],
+                    [
+                        "basis",
+                        0.9148495859999095
+                    ],
+                    [
+                        "cute",
+                        0.916015123077865
+                    ],
+                    [
+                        "lot",
+                        0.9170295423949737
+                    ],
+                    [
+                        "trial",
+                        0.9170295423949737
+                    ],
+                    [
+                        "thing",
+                        0.9184906520050623
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.35427738903916045
+                    ],
+                    [
+                        "way",
+                        0.38218541950870855
+                    ],
+                    [
+                        "neural",
+                        0.4413815845848727
+                    ],
+                    [
+                        "problem",
+                        0.5448652291686448
+                    ],
+                    [
+                        "reason",
+                        0.5464086707988681
+                    ],
+                    [
+                        "machine",
+                        0.556718561199768
+                    ],
+                    [
+                        "learning",
+                        0.556718561199768
+                    ],
+                    [
+                        "network",
+                        0.5600536804473046
+                    ],
+                    [
+                        "thing",
+                        0.9184906520050623
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-2160": {
+            "id": "0sKPkJME2Jw-2160",
+            "heat": 0.136,
+            "start": 2160.0,
+            "text": " think anything, right? And so, for instance, this is a famous paper. And they got the system to think that that was an ostrich, right? And you can basically show this for anything, right? So what's called robust AI, or robust machine learning, machine learning that can't be tricked, is going to become more and more important. And again, having a deeper understanding of the theory is very, very critical of that. So how are we going to do this? What's the main concept that we are going to go through in this class? This has mostly been motivational. But how are we going to understand the data at a deeper level? You know, what's the big idea? And the big idea is captured now in this, I apologize for this eye chart slide, which is what we call declarative mathematically rigorous data. So we have this mathematical concept called an associative array. And it's corresponding algebra that basically encompasses the data you would put in databases, the data that you would put in graphs, the data that would put in matrices and it makes it all a linear system. And the key operations are outlined there at the bottom. If you recall, we have our basic little addition and multiplication. And then what's going to be very important, probably the real workhorse for this-- and i didn't show it before-- is called essentially array multiplication or matrix multiplication. And that's the far one on the right there, which we often abbreviate just with no symbol, just A B.",
+            "metrics": {
+                "relativeDCReadability": 1.0373803663931724,
+                "lexicalDiversity": 0.45353159851301117,
+                "posComposition": {
+                    "VB": 0.052,
+                    "NN": 0.138,
+                    "JJ": 0.086,
+                    "CC": 0.059,
+                    "RB": 0.082,
+                    "IN": 0.082,
+                    "DT": 0.13,
+                    "VBZ": 0.056,
+                    "PRP": 0.067,
+                    "VBD": 0.015,
+                    "TO": 0.022,
+                    "MD": 0.019,
+                    "NNP": 0.011,
+                    "WP": 0.019,
+                    "VBN": 0.022,
+                    "VBG": 0.03,
+                    "WDT": 0.015,
+                    "JJR": 0.011,
+                    "RBR": 0.004,
+                    "WRB": 0.007,
+                    "VBP": 0.037,
+                    "NNS": 0.019,
+                    "RP": 0.004,
+                    "PDT": 0.004,
+                    "PRP$": 0.004,
+                    ":": 0.007
+                },
+                "syllableRate": 3.375,
+                "topicScores": [
+                    [
+                        "datum",
+                        0.3223670603305728
+                    ],
+                    [
+                        "right",
+                        0.34355598203508436
+                    ],
+                    [
+                        "multiplication",
+                        0.4424994229888389
+                    ],
+                    [
+                        "machine",
+                        0.5431612807139201
+                    ],
+                    [
+                        "learning",
+                        0.5431612807139201
+                    ],
+                    [
+                        "idea",
+                        0.544432578779322
+                    ],
+                    [
+                        "big",
+                        0.5488709551135146
+                    ],
+                    [
+                        "deep",
+                        0.5511355179102191
+                    ],
+                    [
+                        "robust",
+                        0.5514480485495368
+                    ],
+                    [
+                        "important",
+                        0.5538950019066108
+                    ],
+                    [
+                        "system",
+                        0.5544422345314788
+                    ],
+                    [
+                        "array",
+                        0.5628863114868828
+                    ],
+                    [
+                        "concept",
+                        0.5656424839042872
+                    ],
+                    [
+                        "matrix",
+                        0.5671289597599827
+                    ],
+                    [
+                        "AI",
+                        0.6178124340466381
+                    ],
+                    [
+                        "B.",
+                        0.6657677567854824
+                    ],
+                    [
+                        "paper",
+                        0.8507353519826129
+                    ],
+                    [
+                        "instance",
+                        0.8612247077723125
+                    ],
+                    [
+                        "famous",
+                        0.8706978858911479
+                    ],
+                    [
+                        "ostrich",
+                        0.8836078913084402
+                    ],
+                    [
+                        "class",
+                        0.8935840138533926
+                    ],
+                    [
+                        "motivational",
+                        0.8962466519174906
+                    ],
+                    [
+                        "level",
+                        0.8985054337908016
+                    ],
+                    [
+                        "critical",
+                        0.9021749036966068
+                    ],
+                    [
+                        "this--",
+                        0.90828327699661
+                    ],
+                    [
+                        "understanding",
+                        0.90888272700308
+                    ],
+                    [
+                        "theory",
+                        0.90888272700308
+                    ],
+                    [
+                        "main",
+                        0.9147520667523201
+                    ],
+                    [
+                        "chart",
+                        0.9159188159902678
+                    ],
+                    [
+                        "slide",
+                        0.9159188159902678
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "datum",
+                        0.3223670603305728
+                    ],
+                    [
+                        "right",
+                        0.34355598203508436
+                    ],
+                    [
+                        "multiplication",
+                        0.4424994229888389
+                    ],
+                    [
+                        "machine",
+                        0.5431612807139201
+                    ],
+                    [
+                        "learning",
+                        0.5431612807139201
+                    ],
+                    [
+                        "big",
+                        0.5488709551135146
+                    ],
+                    [
+                        "system",
+                        0.5544422345314788
+                    ],
+                    [
+                        "concept",
+                        0.5656424839042872
+                    ],
+                    [
+                        "matrix",
+                        0.5671289597599827
+                    ]
+                ]
+            }
+        },
+        "0sKPkJME2Jw-2250": {
+            "id": "0sKPkJME2Jw-2250",
+            "heat": 0.207,
+            "start": 2250.0,
+            "text": " But if we really want to explicitly call out that its matrix multiplication as a combination of both multiplication and addition, we put in what we call the punch-drunk emoji, which is a plus dot times. You're probably all young enough that you don't even remember emojis when they had to type them out with just little characters and we didn't have icons, right? So that meant you went to the bar and lost to the fight, right? But, anyway, that's really going to be the workhorse of what we're doing here.",
+            "metrics": {
+                "relativeDCReadability": 0.9868486608389242,
+                "lexicalDiversity": 0.4329896907216495,
+                "posComposition": {
+                    "CC": 0.052,
+                    "IN": 0.103,
+                    "PRP": 0.103,
+                    "RB": 0.134,
+                    "VBP": 0.052,
+                    "TO": 0.052,
+                    "VB": 0.052,
+                    "RP": 0.021,
+                    "PRP$": 0.01,
+                    "JJ": 0.041,
+                    "NN": 0.124,
+                    "DT": 0.093,
+                    "VBD": 0.041,
+                    "WP": 0.021,
+                    "WDT": 0.01,
+                    "VBZ": 0.021,
+                    "NNS": 0.031,
+                    "WRB": 0.01,
+                    "VBN": 0.01,
+                    "VBG": 0.021
+                },
+                "syllableRate": 1.133,
+                "topicScores": [
+                    [
+                        "right",
+                        0.4356687904775194
+                    ],
+                    [
+                        "multiplication",
+                        0.5298044629494887
+                    ],
+                    [
+                        "time",
+                        0.6824274587624145
+                    ],
+                    [
+                        "drunk",
+                        0.7262484034633582
+                    ],
+                    [
+                        "emoji",
+                        0.7262484034633582
+                    ],
+                    [
+                        "addition",
+                        0.762474006856653
+                    ],
+                    [
+                        "punch",
+                        0.762474006856653
+                    ],
+                    [
+                        "dot",
+                        0.762474006856653
+                    ],
+                    [
+                        "matrix",
+                        0.7925415920039257
+                    ],
+                    [
+                        "combination",
+                        0.7925415920039257
+                    ],
+                    [
+                        "plus",
+                        0.7925415920039257
+                    ],
+                    [
+                        "icon",
+                        0.8285078686004549
+                    ],
+                    [
+                        "young",
+                        0.8518407268132697
+                    ],
+                    [
+                        "little",
+                        0.8518407268132697
+                    ],
+                    [
+                        "character",
+                        0.8518407268132697
+                    ],
+                    [
+                        "bar",
+                        0.8748042716291979
+                    ],
+                    [
+                        "workhorse",
+                        0.8873573217032443
+                    ],
+                    [
+                        "dot time",
+                        1.0847805135721194
+                    ],
+                    [
+                        "drunk emoji",
+                        1.11611881862422
+                    ],
+                    [
+                        "plus dot",
+                        1.5271182740564495
+                    ],
+                    [
+                        "matrix multiplication",
+                        1.9896545034911017
+                    ],
+                    [
+                        "plus dot time",
+                        2.5888387918471394
+                    ],
+                    [
+                        "little character",
+                        2.64474819878574
+                    ]
+                ],
+                "topTopicSimilarity": 0.17391304347826086,
+                "sharedTopicScores": [
+                    [
+                        "right",
+                        0.4356687904775194
+                    ],
+                    [
+                        "multiplication",
+                        0.5298044629494887
+                    ],
+                    [
+                        "time",
+                        0.6824274587624145
+                    ],
+                    [
+                        "matrix",
+                        0.7925415920039257
+                    ]
+                ]
+            }
+        }
+    }
+}

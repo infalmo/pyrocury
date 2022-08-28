@@ -1,0 +1,2635 @@
+{
+    "metadata": {
+        "id": "2ieG1ka5pBw",
+        "avgHeat": 0.19,
+        "runtime": 1052.3600000000001,
+        "dale-challReadabilityScore": 8.330082727610554,
+        "lexicalDiversity": 0.4758324382384533,
+        "posComposition": {
+            "NNP": 0.056,
+            "RB": 0.072,
+            "TO": 0.035,
+            "NN": 0.127,
+            "IN": 0.105,
+            "PRP": 0.083,
+            "VBP": 0.045,
+            "VBN": 0.013,
+            "VBG": 0.015,
+            "CC": 0.028,
+            "DT": 0.09,
+            "JJ": 0.083,
+            "WDT": 0.01,
+            "MD": 0.014,
+            "VB": 0.054,
+            "WP": 0.006,
+            "VBZ": 0.05,
+            "PRP$": 0.011,
+            "NNS": 0.024,
+            "CD": 0.034,
+            "WRB": 0.005,
+            "JJR": 0.004,
+            "VBD": 0.015,
+            "RP": 0.005,
+            "FW": 0.0,
+            "POS": 0.005,
+            ":": 0.009,
+            "PDT": 0.001,
+            "EX": 0.001,
+            "JJS": 0.0
+        },
+        "syllableRate": 3.53,
+        "topicScores": [
+            [
+                "ok",
+                0.08529135883070653
+            ],
+            [
+                "integral",
+                0.1224712426655439
+            ],
+            [
+                "F",
+                0.1409832962730977
+            ],
+            [
+                "Theorem",
+                0.14655496673058863
+            ],
+            [
+                "Stokes",
+                0.15778021869029898
+            ],
+            [
+                "surface",
+                0.16690745172950466
+            ],
+            [
+                "phi",
+                0.17406719369897383
+            ],
+            [
+                "JOEL LEWIS",
+                0.17878769304974176
+            ],
+            [
+                "cosine",
+                0.18383863038381373
+            ],
+            [
+                "equal",
+                0.1890611270801817
+            ],
+            [
+                "right",
+                0.191849383326219
+            ],
+            [
+                "x",
+                0.19300938540593288
+            ],
+            [
+                "z",
+                0.195999594714382
+            ],
+            [
+                "circle",
+                0.2219273931971191
+            ],
+            [
+                "sphere",
+                0.22238160806258117
+            ],
+            [
+                "pi",
+                0.232026088952584
+            ],
+            [
+                "y",
+                0.2415049114265052
+            ],
+            [
+                "curl",
+                0.2430440061218468
+            ],
+            [
+                "theta",
+                0.24407246551245246
+            ],
+            [
+                "C",
+                0.24692025007096166
+            ],
+            [
+                "parametrization",
+                0.2536118122111291
+            ],
+            [
+                "line",
+                0.2630468289320031
+            ],
+            [
+                "d",
+                0.2657908411137919
+            ],
+            [
+                "hemisphere",
+                0.26810434823697493
+            ],
+            [
+                "thing",
+                0.2690759879177194
+            ],
+            [
+                "half",
+                0.2814919027738218
+            ],
+            [
+                "little",
+                0.2846228089614079
+            ],
+            [
+                "normal",
+                0.30055535252713916
+            ],
+            [
+                "way",
+                0.3041251277427071
+            ],
+            [
+                "F dot",
+                0.317075880771887
+            ]
+        ],
+        "topicsList": [
+            "ok",
+            "integral",
+            "F",
+            "Theorem",
+            "Stokes",
+            "surface",
+            "phi",
+            "JOEL LEWIS",
+            "cosine",
+            "equal",
+            "right",
+            "x",
+            "z",
+            "circle",
+            "sphere",
+            "pi",
+            "y",
+            "curl",
+            "theta",
+            "C",
+            "parametrization",
+            "line",
+            "d",
+            "hemisphere",
+            "thing",
+            "half",
+            "little",
+            "normal",
+            "way",
+            "F dot"
+        ]
+    },
+    "chunks": {
+        "2ieG1ka5pBw-0": {
+            "id": "2ieG1ka5pBw-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " JOEL LEWIS: Hi. Welcome back to recitation. In lecture, you've been learning about Stokes' Theorem. And I have a nice question here for you that can put Stokes' Theorem to the test. So what I'd like you to do is I'd like you to consider this field F. So its components are 2z, x, and y. And the surface S that is the top half of the unit sphere. So it's the sphere of radius 1 centered at the origin, but only its top half. Only the part where z is greater than or equal to 0. So what I'd like you to do is to verify Stokes' Theorem for this surface. So that is, I'd like you to compute the surface integral that comes from Stokes' Theorem for this surface, and the line integral that comes from Stokes' Theorem for the surface, and check that they're really equal to each other. Now, before we start, we should just say one brief thing about compatible orientation. So I didn't give you any orientations, but of course, it doesn't matter as long as you choose ones that are compatible. So if you think about your rules that you have for finding them. So if you imagine yourself walking along this boundary circle with your left hand out over that sphere. So you'll be walking in this counterclockwise direction when your head is sticking out of the sphere. All right? So in other words, the outward orientation on the sphere is compatible with the counterclockwise orientation",
+            "metrics": {
+                "relativeDCReadability": 0.9049730052515798,
+                "lexicalDiversity": 0.42803030303030304,
+                "posComposition": {
+                    "NNP": 0.072,
+                    "RB": 0.068,
+                    "TO": 0.034,
+                    "NN": 0.121,
+                    "IN": 0.133,
+                    "PRP": 0.095,
+                    "VBP": 0.038,
+                    "VBN": 0.008,
+                    "VBG": 0.019,
+                    "CC": 0.03,
+                    "DT": 0.087,
+                    "JJ": 0.061,
+                    "WDT": 0.023,
+                    "MD": 0.027,
+                    "VB": 0.057,
+                    "WP": 0.008,
+                    "VBZ": 0.042,
+                    "PRP$": 0.019,
+                    "NNS": 0.023,
+                    "CD": 0.015,
+                    "WRB": 0.008,
+                    "JJR": 0.004,
+                    "VBD": 0.004,
+                    "RP": 0.004,
+                    "FW": 0.004
+                },
+                "syllableRate": 3.0,
+                "topicScores": [
+                    [
+                        "JOEL LEWIS",
+                        0.1646065148789788
+                    ],
+                    [
+                        "Theorem",
+                        0.19325842522092987
+                    ],
+                    [
+                        "Stokes",
+                        0.22042764520123512
+                    ],
+                    [
+                        "surface",
+                        0.32986781458784414
+                    ],
+                    [
+                        "sphere",
+                        0.34222418875957694
+                    ],
+                    [
+                        "orientation",
+                        0.3884268642562222
+                    ],
+                    [
+                        "compatible",
+                        0.4490735806957148
+                    ],
+                    [
+                        "half",
+                        0.5579484255214702
+                    ],
+                    [
+                        "integral",
+                        0.5636743858275216
+                    ],
+                    [
+                        "equal",
+                        0.5720181432977955
+                    ],
+                    [
+                        "counterclockwise",
+                        0.5796751312833517
+                    ],
+                    [
+                        "F.",
+                        0.6071750923381848
+                    ],
+                    [
+                        "recitation",
+                        0.8320187677531423
+                    ],
+                    [
+                        "y.",
+                        0.8482813664851965
+                    ],
+                    [
+                        "lecture",
+                        0.8709438237041257
+                    ],
+                    [
+                        "test",
+                        0.8715706642525098
+                    ],
+                    [
+                        "field",
+                        0.8806131643920035
+                    ],
+                    [
+                        "nice",
+                        0.9037806292324828
+                    ],
+                    [
+                        "question",
+                        0.9037806292324828
+                    ],
+                    [
+                        "unit",
+                        0.9146470197522983
+                    ],
+                    [
+                        "component",
+                        0.9157227237371834
+                    ],
+                    [
+                        "origin",
+                        0.9172053910756606
+                    ],
+                    [
+                        "radius",
+                        0.9246697640467558
+                    ],
+                    [
+                        "course",
+                        0.9252283098009046
+                    ],
+                    [
+                        "z",
+                        0.9266184775740808
+                    ],
+                    [
+                        "great",
+                        0.9266184775740808
+                    ],
+                    [
+                        "word",
+                        0.9296229836651677
+                    ],
+                    [
+                        "outward",
+                        0.9296229836651677
+                    ],
+                    [
+                        "line",
+                        0.9296897263614317
+                    ],
+                    [
+                        "brief",
+                        0.9309292684914195
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "JOEL LEWIS",
+                        0.1646065148789788
+                    ],
+                    [
+                        "Theorem",
+                        0.19325842522092987
+                    ],
+                    [
+                        "Stokes",
+                        0.22042764520123512
+                    ],
+                    [
+                        "surface",
+                        0.32986781458784414
+                    ],
+                    [
+                        "sphere",
+                        0.34222418875957694
+                    ],
+                    [
+                        "half",
+                        0.5579484255214702
+                    ],
+                    [
+                        "integral",
+                        0.5636743858275216
+                    ],
+                    [
+                        "equal",
+                        0.5720181432977955
+                    ],
+                    [
+                        "z",
+                        0.9266184775740808
+                    ],
+                    [
+                        "line",
+                        0.9296897263614317
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-90": {
+            "id": "2ieG1ka5pBw-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " on the circle that is the boundary. So let's actually put in a little arrow here to just indicate that is our orientation for the circle. And our normal is an outward-pointing normal. And let's call our circle C, and our S is our sphere is our surface. OK. So just so we have the same notation. Good. So why don't you work this out, compute the line integral, compute the surface integral, come back, and we can work them out together. Hopefully you had some luck working on this problem. We have two things to compute. I think I'm going to start with the line integral. So let me write that down: line integral. So what I need to do to compute the line integral is I need to compute the integral over the curve C of F dot dr. And so I know what F is on that circle. So I need to know what dr is. So I need to know what r is. I need a parametrization of that circle. Well, you know, that is a pretty easy circle to parametrize. It's the unit circle in the xy-plane. So we have-- for C, we have-- and we're wandering around it counterclockwise. So it's our usual parametrization.",
+            "metrics": {
+                "relativeDCReadability": 0.9052576877270092,
+                "lexicalDiversity": 0.4429223744292237,
+                "posComposition": {
+                    "IN": 0.073,
+                    "DT": 0.11,
+                    "NN": 0.142,
+                    "WDT": 0.005,
+                    "VBZ": 0.059,
+                    "JJ": 0.073,
+                    "NNP": 0.059,
+                    "POS": 0.009,
+                    "RB": 0.05,
+                    "VBN": 0.009,
+                    "TO": 0.041,
+                    "VB": 0.068,
+                    "PRP$": 0.032,
+                    "CC": 0.027,
+                    "PRP": 0.1,
+                    "VBP": 0.068,
+                    "WRB": 0.005,
+                    "MD": 0.005,
+                    "RP": 0.009,
+                    "VBD": 0.005,
+                    "VBG": 0.014,
+                    "CD": 0.005,
+                    "NNS": 0.005,
+                    "WP": 0.018,
+                    ":": 0.009
+                },
+                "syllableRate": 2.55,
+                "topicScores": [
+                    [
+                        "circle",
+                        0.2883171528215456
+                    ],
+                    [
+                        "integral",
+                        0.2961551651751482
+                    ],
+                    [
+                        "C",
+                        0.32123471912533974
+                    ],
+                    [
+                        "line",
+                        0.3494994797912235
+                    ],
+                    [
+                        "F",
+                        0.4201477927554736
+                    ],
+                    [
+                        "normal",
+                        0.53833923926028
+                    ],
+                    [
+                        "surface",
+                        0.5502599807919601
+                    ],
+                    [
+                        "dr",
+                        0.5652579992652702
+                    ],
+                    [
+                        "parametrization",
+                        0.5725697712752252
+                    ],
+                    [
+                        "S",
+                        0.5979624749663371
+                    ],
+                    [
+                        "boundary",
+                        0.7854187655614707
+                    ],
+                    [
+                        "little",
+                        0.8745598871709556
+                    ],
+                    [
+                        "arrow",
+                        0.8745598871709556
+                    ],
+                    [
+                        "orientation",
+                        0.8745598871709556
+                    ],
+                    [
+                        "good",
+                        0.8753110882274163
+                    ],
+                    [
+                        "line integral",
+                        0.893267723225044
+                    ],
+                    [
+                        "notation",
+                        0.8972362918245678
+                    ],
+                    [
+                        "sphere",
+                        0.9052361368765794
+                    ],
+                    [
+                        "problem",
+                        0.9079486054482689
+                    ],
+                    [
+                        "plane",
+                        0.9152634861911663
+                    ],
+                    [
+                        "counterclockwise",
+                        0.922369079111302
+                    ],
+                    [
+                        "luck",
+                        0.9258352126286217
+                    ],
+                    [
+                        "dot",
+                        0.9270628527514646
+                    ],
+                    [
+                        "thing",
+                        0.9277561327501567
+                    ],
+                    [
+                        "curve",
+                        0.9320049962898603
+                    ],
+                    [
+                        "xy",
+                        0.932445122135348
+                    ],
+                    [
+                        "usual",
+                        0.9336755484507905
+                    ],
+                    [
+                        "easy",
+                        0.936396698004573
+                    ],
+                    [
+                        "unit",
+                        0.9370473337454748
+                    ],
+                    [
+                        "circle C",
+                        1.2507561970845942
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "circle",
+                        0.2883171528215456
+                    ],
+                    [
+                        "integral",
+                        0.2961551651751482
+                    ],
+                    [
+                        "C",
+                        0.32123471912533974
+                    ],
+                    [
+                        "line",
+                        0.3494994797912235
+                    ],
+                    [
+                        "F",
+                        0.4201477927554736
+                    ],
+                    [
+                        "normal",
+                        0.53833923926028
+                    ],
+                    [
+                        "surface",
+                        0.5502599807919601
+                    ],
+                    [
+                        "parametrization",
+                        0.5725697712752252
+                    ],
+                    [
+                        "little",
+                        0.8745598871709556
+                    ],
+                    [
+                        "sphere",
+                        0.9052361368765794
+                    ],
+                    [
+                        "thing",
+                        0.9277561327501567
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-180": {
+            "id": "2ieG1ka5pBw-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " It's the one we like. So we have x equals cosine t, y equals sine t-- where t goes from 0 to 2*pi-- and this is in three dimensions, so the other part of the parametrization is z equals 0. So this is my parametrization of this circle. OK, so let's go ahead and put that in. So the integral over C of F dot dr is the integral from 0 to 2 pi. So we've got three parts. So the first part-- so F is 2z, x, y. So it's 2z*dx plus x*dy plus y*dz. But z is 0 on this whole circle. So that piece just dies. And dz is also 0, so that piece just dies. So we're just left with x*dy. So this is equal to the integral x dy. Oh. So I guess this is not from 0 to 2*pi. This is still over C. Sorry about that. OK. And now I change to my parametrization. OK. Yes. Right. So this is still in dx, dy, dz form, so it's still over C.",
+            "metrics": {
+                "relativeDCReadability": 1.086228478247252,
+                "lexicalDiversity": 0.5025906735751295,
+                "posComposition": {
+                    "PRP": 0.047,
+                    "VBZ": 0.078,
+                    "DT": 0.088,
+                    "CD": 0.073,
+                    "VBP": 0.041,
+                    "RB": 0.073,
+                    "VBN": 0.016,
+                    "NNS": 0.047,
+                    "JJ": 0.067,
+                    "NN": 0.14,
+                    ":": 0.016,
+                    "WRB": 0.005,
+                    "IN": 0.124,
+                    "TO": 0.026,
+                    "CC": 0.036,
+                    "PRP$": 0.01,
+                    "NNP": 0.098,
+                    "POS": 0.005,
+                    "VB": 0.01
+                },
+                "syllableRate": 1.942,
+                "topicScores": [
+                    [
+                        "equal",
+                        0.37618273236594263
+                    ],
+                    [
+                        "F",
+                        0.39020186289667386
+                    ],
+                    [
+                        "C.",
+                        0.4053380247900652
+                    ],
+                    [
+                        "x",
+                        0.4359491685245513
+                    ],
+                    [
+                        "parametrization",
+                        0.43823823431263664
+                    ],
+                    [
+                        "integral",
+                        0.4429728675251888
+                    ],
+                    [
+                        "circle",
+                        0.5264762683931415
+                    ],
+                    [
+                        "piece",
+                        0.5485821555501023
+                    ],
+                    [
+                        "x*dy",
+                        0.566360240387981
+                    ],
+                    [
+                        "dz",
+                        0.5685581576621674
+                    ],
+                    [
+                        "Sorry",
+                        0.6957597416037139
+                    ],
+                    [
+                        "C. Sorry",
+                        0.8082782509244862
+                    ],
+                    [
+                        "cosine",
+                        0.8658362374810611
+                    ],
+                    [
+                        "dimension",
+                        0.8658362374810611
+                    ],
+                    [
+                        "t--",
+                        0.8746896911199012
+                    ],
+                    [
+                        "y.",
+                        0.8773570092932955
+                    ],
+                    [
+                        "y*dz",
+                        0.9072395260640136
+                    ],
+                    [
+                        "dot",
+                        0.9122420430514229
+                    ],
+                    [
+                        "dr",
+                        0.9122420430514229
+                    ],
+                    [
+                        "part--",
+                        0.9207491879951296
+                    ],
+                    [
+                        "2z*dx",
+                        0.925916452086708
+                    ],
+                    [
+                        "form",
+                        0.9294577144036187
+                    ],
+                    [
+                        "F dot",
+                        1.2945302381201407
+                    ],
+                    [
+                        "cosine t",
+                        2.7260284100293006
+                    ],
+                    [
+                        "sine t--",
+                        3.2568055122339996
+                    ],
+                    [
+                        "dot dr",
+                        4.958962239928996
+                    ],
+                    [
+                        "dz form",
+                        5.1566743274652636
+                    ],
+                    [
+                        "F dot dr",
+                        7.48156278900136
+                    ]
+                ],
+                "topTopicSimilarity": 0.2857142857142857,
+                "sharedTopicScores": [
+                    [
+                        "equal",
+                        0.37618273236594263
+                    ],
+                    [
+                        "F",
+                        0.39020186289667386
+                    ],
+                    [
+                        "x",
+                        0.4359491685245513
+                    ],
+                    [
+                        "parametrization",
+                        0.43823823431263664
+                    ],
+                    [
+                        "integral",
+                        0.4429728675251888
+                    ],
+                    [
+                        "circle",
+                        0.5264762683931415
+                    ],
+                    [
+                        "cosine",
+                        0.8658362374810611
+                    ],
+                    [
+                        "F dot",
+                        1.2945302381201407
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-270": {
+            "id": "2ieG1ka5pBw-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " Now we switch to the dt form, so now t is going from 0 to 2*pi. OK, so now we have x*dy. So x is cosine t, and dy-- so y is sine t, so dy is cosine t dt. So this is cosine t times cosine t, is cosine squared t. dt, gosh. So now you have to remember way back in 18.01 when you learned how to compute trig integrals like this. So I think the thing that we do, when we have a cosine squared t, is we use a half-angle formula. So let me come back down here just to finish this off in one board. OK, so cosine squared t is the integral from 0 to 2*pi. So cosine squared t is 1 plus cosine 2t over 2, dt. And now cosine 2t, as t goes between 0 and 2*pi, well, that's two whole loops of it. Right? Two whole periods of cosine 2t. And it's a trig function. It's a nice cosine function. So the positive parts and the negative parts cancel. The cosine 2t part, when we integrate it from 0 to 2*pi, that gives us 0. So we're left with 1/2 integrated from 0 to 2*pi, and that's just going to give us 1/2 of 2*pi, so that's pi. All right. So good. So that was the line integral. A very straightforward thing. We had our circle back here. We had our field. So we parametrized the curve that",
+            "metrics": {
+                "relativeDCReadability": 1.1465284058862888,
+                "lexicalDiversity": 0.4942528735632184,
+                "posComposition": {
+                    "RB": 0.088,
+                    "PRP": 0.077,
+                    "VBP": 0.046,
+                    "TO": 0.034,
+                    "DT": 0.073,
+                    "JJ": 0.088,
+                    "NN": 0.134,
+                    "VBZ": 0.065,
+                    "VBG": 0.008,
+                    "IN": 0.08,
+                    "CD": 0.092,
+                    "NNS": 0.05,
+                    "NNP": 0.031,
+                    "VBN": 0.027,
+                    "CC": 0.023,
+                    ":": 0.004,
+                    "VB": 0.023,
+                    "WRB": 0.015,
+                    "VBD": 0.019,
+                    "RP": 0.004,
+                    "WDT": 0.011,
+                    "PRP$": 0.008
+                },
+                "syllableRate": 2.642,
+                "topicScores": [
+                    [
+                        "t",
+                        0.2200092712912454
+                    ],
+                    [
+                        "cosine",
+                        0.22201332907699367
+                    ],
+                    [
+                        "dt",
+                        0.3657860718194445
+                    ],
+                    [
+                        "integral",
+                        0.4487666223974155
+                    ],
+                    [
+                        "function",
+                        0.5600701525359252
+                    ],
+                    [
+                        "trig",
+                        0.5738043152832007
+                    ],
+                    [
+                        "thing",
+                        0.5761451146412334
+                    ],
+                    [
+                        "form",
+                        0.8333428376210047
+                    ],
+                    [
+                        "x*dy",
+                        0.8650891672421972
+                    ],
+                    [
+                        "dy--",
+                        0.9014387634249222
+                    ],
+                    [
+                        "formula",
+                        0.9032317344401753
+                    ],
+                    [
+                        "board",
+                        0.9143318512750942
+                    ],
+                    [
+                        "angle",
+                        0.9168595735224182
+                    ],
+                    [
+                        "time",
+                        0.9174883180789161
+                    ],
+                    [
+                        "half",
+                        0.9226468097826683
+                    ],
+                    [
+                        "good",
+                        0.9255720750227397
+                    ],
+                    [
+                        "pi",
+                        0.9296244582427672
+                    ],
+                    [
+                        "field",
+                        0.9337188802032843
+                    ],
+                    [
+                        "loop",
+                        0.9372983422191273
+                    ],
+                    [
+                        "period",
+                        0.939951571308434
+                    ],
+                    [
+                        "nice",
+                        0.9410216780379383
+                    ],
+                    [
+                        "line",
+                        0.9414071088895614
+                    ],
+                    [
+                        "positive",
+                        0.9419655429939102
+                    ],
+                    [
+                        "negative",
+                        0.9419655429939102
+                    ],
+                    [
+                        "straightforward",
+                        0.9419669397293774
+                    ],
+                    [
+                        "curve",
+                        0.9434117942789687
+                    ],
+                    [
+                        "circle",
+                        0.9464419386442745
+                    ],
+                    [
+                        "cosine t",
+                        1.04451908867848
+                    ],
+                    [
+                        "dt form",
+                        2.422105054022354
+                    ],
+                    [
+                        "t dt",
+                        2.4655230907047767
+                    ]
+                ],
+                "topTopicSimilarity": 0.23333333333333334,
+                "sharedTopicScores": [
+                    [
+                        "cosine",
+                        0.22201332907699367
+                    ],
+                    [
+                        "integral",
+                        0.4487666223974155
+                    ],
+                    [
+                        "thing",
+                        0.5761451146412334
+                    ],
+                    [
+                        "half",
+                        0.9226468097826683
+                    ],
+                    [
+                        "pi",
+                        0.9296244582427672
+                    ],
+                    [
+                        "line",
+                        0.9414071088895614
+                    ],
+                    [
+                        "circle",
+                        0.9464419386442745
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-360": {
+            "id": "2ieG1ka5pBw-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " is the circle, that is the boundary. And then we just computed the line integral, and it was a nice, easy one to do. You had to remember one little trig identity in order to do it. All right. That's the first one. So let's go on to the surface integral. So the surface integral that you have to compute in Stokes' Theorem is you have to compute the double integral over your surface of the curl of F dot n with respect to surface area. So this is the integral we want to compute here. So OK. So the first thing we're going to need is we're going to need to find the curl of F. So F-- let me just write it here so we don't have to walk all the way back over there. So F is [2z, x, y]. So curl of F-- OK, you should have lots of experience computing curls by now-- So it's going to be this-- I always think of it, so you've got these little 2 by 2 determinants with the partial derivatives in them, but most of those are going to be 0. We've got a d_x x term that's coming up in k, and a d_y y term that's coming up in i, and a d_z 2z term that's coming up in j.",
+            "metrics": {
+                "relativeDCReadability": 0.9342689910183174,
+                "lexicalDiversity": 0.4476987447698745,
+                "posComposition": {
+                    "VBZ": 0.046,
+                    "DT": 0.088,
+                    "NN": 0.105,
+                    "WDT": 0.021,
+                    "JJ": 0.092,
+                    "CC": 0.021,
+                    "RB": 0.046,
+                    "PRP": 0.079,
+                    "VBD": 0.017,
+                    "CD": 0.033,
+                    "TO": 0.059,
+                    "VB": 0.079,
+                    "IN": 0.117,
+                    "NNP": 0.042,
+                    "POS": 0.004,
+                    "VBP": 0.042,
+                    "PRP$": 0.004,
+                    "VBG": 0.033,
+                    ":": 0.017,
+                    "PDT": 0.004,
+                    "EX": 0.004,
+                    "NNS": 0.021,
+                    "MD": 0.004,
+                    "VBN": 0.004,
+                    "JJS": 0.004,
+                    "RP": 0.013
+                },
+                "syllableRate": 2.492,
+                "topicScores": [
+                    [
+                        "integral",
+                        0.3176693829554651
+                    ],
+                    [
+                        "surface",
+                        0.3654582149186048
+                    ],
+                    [
+                        "curl",
+                        0.37299591817847
+                    ],
+                    [
+                        "F",
+                        0.398924942241046
+                    ],
+                    [
+                        "term",
+                        0.4368083094617697
+                    ],
+                    [
+                        "y",
+                        0.5527687982377059
+                    ],
+                    [
+                        "x",
+                        0.5577925701900005
+                    ],
+                    [
+                        "little",
+                        0.5598543592635092
+                    ],
+                    [
+                        "Stokes",
+                        0.6317491415432823
+                    ],
+                    [
+                        "Theorem",
+                        0.6317491415432823
+                    ],
+                    [
+                        "OK",
+                        0.6695710598531842
+                    ],
+                    [
+                        "boundary",
+                        0.7354871963823958
+                    ],
+                    [
+                        "f-- OK",
+                        0.7623424656874626
+                    ],
+                    [
+                        "circle",
+                        0.7708759374101639
+                    ],
+                    [
+                        "line",
+                        0.8350792297423587
+                    ],
+                    [
+                        "nice",
+                        0.8350792297423587
+                    ],
+                    [
+                        "easy",
+                        0.8350792297423587
+                    ],
+                    [
+                        "trig",
+                        0.8705662935780607
+                    ],
+                    [
+                        "identity",
+                        0.8705662935780607
+                    ],
+                    [
+                        "order",
+                        0.8705662935780607
+                    ],
+                    [
+                        "area",
+                        0.8744548304053819
+                    ],
+                    [
+                        "this--",
+                        0.8932701566436857
+                    ],
+                    [
+                        "j.",
+                        0.8960566369392704
+                    ],
+                    [
+                        "double",
+                        0.9020717429658227
+                    ],
+                    [
+                        "dot",
+                        0.9020717429658227
+                    ],
+                    [
+                        "respect",
+                        0.9020717429658227
+                    ],
+                    [
+                        "thing",
+                        0.9106660048165972
+                    ],
+                    [
+                        "way",
+                        0.9126414656324606
+                    ],
+                    [
+                        "lot",
+                        0.915828796580587
+                    ],
+                    [
+                        "experience",
+                        0.915828796580587
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "integral",
+                        0.3176693829554651
+                    ],
+                    [
+                        "surface",
+                        0.3654582149186048
+                    ],
+                    [
+                        "curl",
+                        0.37299591817847
+                    ],
+                    [
+                        "F",
+                        0.398924942241046
+                    ],
+                    [
+                        "y",
+                        0.5527687982377059
+                    ],
+                    [
+                        "x",
+                        0.5577925701900005
+                    ],
+                    [
+                        "little",
+                        0.5598543592635092
+                    ],
+                    [
+                        "Stokes",
+                        0.6317491415432823
+                    ],
+                    [
+                        "Theorem",
+                        0.6317491415432823
+                    ],
+                    [
+                        "circle",
+                        0.7708759374101639
+                    ],
+                    [
+                        "line",
+                        0.8350792297423587
+                    ],
+                    [
+                        "thing",
+                        0.9106660048165972
+                    ],
+                    [
+                        "way",
+                        0.9126414656324606
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-450": {
+            "id": "2ieG1ka5pBw-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " So OK. So almost half the terms are 0. The others are really easy to compute. I trust that you can also compute and get that the curl is [1, 2, 1] here. OK, so this is F. This is curl of F. Great. So OK. So that's curl of F. So now we need n. Well, let's think. So we need the unit normal to our surface. So back at the beginning before we started, we said it was the outward-pointing normal. So we need the outward-pointing normal. Well, this is a sphere, right? So the normal is parallel to the position vector. So that means n should be parallel to the vector [x, y, z]. So n should be parallel to this vector [x, y, z], but in fact, we're even better than that. We're on a unit sphere. So the position vector has length of 1. So n should be pointing in the same direction as this vector, and they both have length 1, so they had better be equal to each other. Great. So this unit normal n is just this very simple vector, [x, y, z]. If it had been a bigger sphere, then you would have to divide this by the radius to scale it appropriately. All right. So we've got curl F. We've got n. So the integral that we want is this double integral",
+            "metrics": {
+                "relativeDCReadability": 1.0130222500097636,
+                "lexicalDiversity": 0.4579831932773109,
+                "posComposition": {
+                    "RB": 0.092,
+                    "NNP": 0.109,
+                    "PDT": 0.004,
+                    "DT": 0.122,
+                    "NNS": 0.013,
+                    "VBP": 0.05,
+                    "CD": 0.025,
+                    "JJ": 0.08,
+                    "TO": 0.034,
+                    "VB": 0.05,
+                    "PRP": 0.076,
+                    "IN": 0.097,
+                    "MD": 0.021,
+                    "CC": 0.013,
+                    "NN": 0.101,
+                    "VBZ": 0.042,
+                    "WDT": 0.004,
+                    "POS": 0.004,
+                    "PRP$": 0.004,
+                    "VBD": 0.021,
+                    "VBN": 0.021,
+                    "JJR": 0.013,
+                    "VBG": 0.004
+                },
+                "syllableRate": 2.558,
+                "topicScores": [
+                    [
+                        "F.",
+                        0.26513638658046684
+                    ],
+                    [
+                        "vector",
+                        0.31126811862171816
+                    ],
+                    [
+                        "normal",
+                        0.3384373794732921
+                    ],
+                    [
+                        "curl",
+                        0.3787681928373595
+                    ],
+                    [
+                        "x",
+                        0.4061635472524007
+                    ],
+                    [
+                        "z",
+                        0.4061635472524007
+                    ],
+                    [
+                        "y",
+                        0.4187147451289044
+                    ],
+                    [
+                        "parallel",
+                        0.43895148608898443
+                    ],
+                    [
+                        "sphere",
+                        0.4477186336053236
+                    ],
+                    [
+                        "unit",
+                        0.45832810535390467
+                    ],
+                    [
+                        "right",
+                        0.5586315188475297
+                    ],
+                    [
+                        "n.",
+                        0.5669629457958648
+                    ],
+                    [
+                        "position",
+                        0.574381795996945
+                    ],
+                    [
+                        "F. Great",
+                        0.5757321829680154
+                    ],
+                    [
+                        "length",
+                        0.5763015193770651
+                    ],
+                    [
+                        "integral",
+                        0.5894721821722413
+                    ],
+                    [
+                        "term",
+                        0.894680171210573
+                    ],
+                    [
+                        "easy",
+                        0.9116922586952847
+                    ],
+                    [
+                        "great",
+                        0.9169635354848966
+                    ],
+                    [
+                        "surface",
+                        0.9244978157705916
+                    ],
+                    [
+                        "beginning",
+                        0.9412999911226961
+                    ],
+                    [
+                        "fact",
+                        0.9431336741181194
+                    ],
+                    [
+                        "simple",
+                        0.945649671609934
+                    ],
+                    [
+                        "big",
+                        0.9460520378097481
+                    ],
+                    [
+                        "double",
+                        0.9471177213990691
+                    ],
+                    [
+                        "direction",
+                        0.9487107754260038
+                    ],
+                    [
+                        "equal",
+                        0.9487107754260038
+                    ],
+                    [
+                        "radius",
+                        0.9499182416894986
+                    ],
+                    [
+                        "curl F.",
+                        1.1806806035928887
+                    ],
+                    [
+                        "position vector",
+                        2.4546174243666945
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "normal",
+                        0.3384373794732921
+                    ],
+                    [
+                        "curl",
+                        0.3787681928373595
+                    ],
+                    [
+                        "x",
+                        0.4061635472524007
+                    ],
+                    [
+                        "z",
+                        0.4061635472524007
+                    ],
+                    [
+                        "y",
+                        0.4187147451289044
+                    ],
+                    [
+                        "sphere",
+                        0.4477186336053236
+                    ],
+                    [
+                        "right",
+                        0.5586315188475297
+                    ],
+                    [
+                        "integral",
+                        0.5894721821722413
+                    ],
+                    [
+                        "surface",
+                        0.9244978157705916
+                    ],
+                    [
+                        "equal",
+                        0.9487107754260038
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-540": {
+            "id": "2ieG1ka5pBw-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " over the surface of curl F dot n. So that's x plus 2y plus z, with respect to surface area. OK. Well, now we've just got a surface integral. It's over a hemisphere. Not a terrible thing to parametrize. So that's what we should do. We should go in, we should parametrize it, and then we should just compute it like a surface integral, like we know how to do. So before we start though, I want to make one little observation. Well, maybe two little observations. We can simplify this. All right? x. We're integrating x over the surface of a hemisphere centered at the origin. This hemisphere is really symmetric. And on the back side-- the part where x is negative-- we're getting negative contributions from x. And on the front side-- where x is positive-- we're getting positive contributions from x. And because this sphere is totally symmetric, those just cancel out completely. So when we integrate x over the whole hemisphere, it just kills itself. I mean, the negative parts kill the positive parts. We just get 0. Similarly, this hemisphere is symmetric between its left side and its right side, and so the parts where y are negative cancel out exactly the parts where y are positive. So as a simplifying step, we can realize,",
+            "metrics": {
+                "relativeDCReadability": 1.0224156257184212,
+                "lexicalDiversity": 0.5021645021645021,
+                "posComposition": {
+                    "IN": 0.082,
+                    "DT": 0.095,
+                    "NN": 0.139,
+                    "NNP": 0.03,
+                    "WDT": 0.009,
+                    "VBZ": 0.039,
+                    "JJ": 0.104,
+                    "CC": 0.035,
+                    "CD": 0.017,
+                    "TO": 0.017,
+                    "VB": 0.052,
+                    "RB": 0.082,
+                    "PRP": 0.091,
+                    "VBP": 0.048,
+                    "VBN": 0.013,
+                    "RP": 0.013,
+                    "WP": 0.004,
+                    "MD": 0.026,
+                    "WRB": 0.026,
+                    "NNS": 0.035,
+                    "VBG": 0.013,
+                    ":": 0.017,
+                    "VBD": 0.004,
+                    "PRP$": 0.009
+                },
+                "syllableRate": 2.8,
+                "topicScores": [
+                    [
+                        "surface",
+                        0.32868238476649625
+                    ],
+                    [
+                        "hemisphere",
+                        0.34411308823607545
+                    ],
+                    [
+                        "x",
+                        0.34528890103194015
+                    ],
+                    [
+                        "symmetric",
+                        0.44768074368577954
+                    ],
+                    [
+                        "positive",
+                        0.452784784939306
+                    ],
+                    [
+                        "negative",
+                        0.4577053179788083
+                    ],
+                    [
+                        "F",
+                        0.521445106759373
+                    ],
+                    [
+                        "observation",
+                        0.5425978730551051
+                    ],
+                    [
+                        "integral",
+                        0.5441710596922036
+                    ],
+                    [
+                        "little",
+                        0.5631276533848816
+                    ],
+                    [
+                        "right",
+                        0.5702729760542464
+                    ],
+                    [
+                        "contribution",
+                        0.5729214116146634
+                    ],
+                    [
+                        "side--",
+                        0.5796763923834575
+                    ],
+                    [
+                        "curl F",
+                        0.7972810157353858
+                    ],
+                    [
+                        "F dot",
+                        0.8362187162189633
+                    ],
+                    [
+                        "n.",
+                        0.8507203854486277
+                    ],
+                    [
+                        "area",
+                        0.8738318556728477
+                    ],
+                    [
+                        "z",
+                        0.8933944703167491
+                    ],
+                    [
+                        "respect",
+                        0.8933944703167491
+                    ],
+                    [
+                        "2y",
+                        0.9015703823528275
+                    ],
+                    [
+                        "origin",
+                        0.9204803771766694
+                    ],
+                    [
+                        "terrible",
+                        0.9261691482977575
+                    ],
+                    [
+                        "thing",
+                        0.9261691482977575
+                    ],
+                    [
+                        "step",
+                        0.9390112017148144
+                    ],
+                    [
+                        "left",
+                        0.9434908760155457
+                    ],
+                    [
+                        "surface integral",
+                        1.7303290568437153
+                    ],
+                    [
+                        "little observation",
+                        2.0836656883430478
+                    ],
+                    [
+                        "surface area",
+                        2.882517987183311
+                    ],
+                    [
+                        "curl F dot",
+                        2.9160086674054004
+                    ],
+                    [
+                        "F dot n.",
+                        2.9160086674054004
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "surface",
+                        0.32868238476649625
+                    ],
+                    [
+                        "hemisphere",
+                        0.34411308823607545
+                    ],
+                    [
+                        "x",
+                        0.34528890103194015
+                    ],
+                    [
+                        "F",
+                        0.521445106759373
+                    ],
+                    [
+                        "integral",
+                        0.5441710596922036
+                    ],
+                    [
+                        "little",
+                        0.5631276533848816
+                    ],
+                    [
+                        "right",
+                        0.5702729760542464
+                    ],
+                    [
+                        "F dot",
+                        0.8362187162189633
+                    ],
+                    [
+                        "z",
+                        0.8933944703167491
+                    ],
+                    [
+                        "thing",
+                        0.9261691482977575
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-630": {
+            "id": "2ieG1ka5pBw-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " right at the beginning, that this is actually just the integral over S of z with respect to surface area. Now, if you didn't realize that, that's OK. What you would have done is you would have done the parametrization that we're about to do. And in doing that parametrization, you would have found that you were integrating something like cosine theta between 0 and 2*pi, or something like this. And that would have given you 0. So you would have found this symmetry, even if you didn't realize it right now, you would have found it in the process of computing this integral, but it's a little bit easier on us if we can recognize that symmetry first. Now, notice that z doesn't cancel, because this is just the top hemisphere, so it doesn't have a bottom half to cancel out with. Right? So the z part we can't use this easy analysis on. If we integrated this z over the whole sphere-- if we had the other half of the sphere-- well, then that would also give us 0. But we only have the top half of the sphere. So it's going to give us something positive, because z is always positive up there. OK, so let's actually set about parametrizing it. We want to parametrize the unit sphere. Well, OK. So we have our standard parametrization that comes from spherical coordinates. So rho is just 1. Right? So x is equal to, it's going to be cosine-- You know what? I always get a little confused, so I'm just going to check, carefully, that I'm doing this perfectly right.",
+            "metrics": {
+                "relativeDCReadability": 0.9351184392192086,
+                "lexicalDiversity": 0.47058823529411764,
+                "posComposition": {
+                    "RB": 0.104,
+                    "IN": 0.135,
+                    "DT": 0.093,
+                    "NN": 0.107,
+                    "VBZ": 0.045,
+                    "JJ": 0.066,
+                    "NNP": 0.031,
+                    "TO": 0.028,
+                    "VB": 0.073,
+                    "PRP": 0.107,
+                    "VBD": 0.017,
+                    "RP": 0.007,
+                    "WP": 0.007,
+                    "MD": 0.031,
+                    "VBN": 0.024,
+                    "VBP": 0.028,
+                    "CC": 0.021,
+                    "VBG": 0.028,
+                    "CD": 0.017,
+                    "WDT": 0.007,
+                    "JJR": 0.003,
+                    ":": 0.01,
+                    "POS": 0.003,
+                    "PRP$": 0.003,
+                    "NNS": 0.003
+                },
+                "syllableRate": 3.375,
+                "topicScores": [
+                    [
+                        "ok",
+                        0.29409348231064136
+                    ],
+                    [
+                        "right",
+                        0.3285430235224175
+                    ],
+                    [
+                        "z",
+                        0.34896148247334446
+                    ],
+                    [
+                        "s",
+                        0.42535883776550093
+                    ],
+                    [
+                        "parametrization",
+                        0.43883476309696723
+                    ],
+                    [
+                        "half",
+                        0.4404854289199644
+                    ],
+                    [
+                        "sphere",
+                        0.5439312424566372
+                    ],
+                    [
+                        "integral",
+                        0.5499534112246798
+                    ],
+                    [
+                        "easy",
+                        0.5651826235561876
+                    ],
+                    [
+                        "symmetry",
+                        0.5655854329548088
+                    ],
+                    [
+                        "little",
+                        0.5695644100913377
+                    ],
+                    [
+                        "positive",
+                        0.5795177948146876
+                    ],
+                    [
+                        "area",
+                        0.7889555700128685
+                    ],
+                    [
+                        "beginning",
+                        0.8164777999677348
+                    ],
+                    [
+                        "surface",
+                        0.8164777999677348
+                    ],
+                    [
+                        "respect",
+                        0.8283968908079706
+                    ],
+                    [
+                        "cosine",
+                        0.9087130092772495
+                    ],
+                    [
+                        "theta",
+                        0.9087130092772495
+                    ],
+                    [
+                        "hemisphere",
+                        0.9176589196091581
+                    ],
+                    [
+                        "process",
+                        0.9200970523426375
+                    ],
+                    [
+                        "bit",
+                        0.9200970523426375
+                    ],
+                    [
+                        "coordinate",
+                        0.9205728075704406
+                    ],
+                    [
+                        "analysis",
+                        0.9230108258012811
+                    ],
+                    [
+                        "unit",
+                        0.930513807794429
+                    ],
+                    [
+                        "spherical",
+                        0.9324015215052661
+                    ],
+                    [
+                        "rho",
+                        0.9332098132321691
+                    ],
+                    [
+                        "equal",
+                        0.9346197807280905
+                    ],
+                    [
+                        "confused",
+                        0.9352400006002418
+                    ],
+                    [
+                        "standard",
+                        0.9373693170917131
+                    ],
+                    [
+                        "surface area",
+                        1.8102889811578828
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "ok",
+                        0.29409348231064136
+                    ],
+                    [
+                        "right",
+                        0.3285430235224175
+                    ],
+                    [
+                        "z",
+                        0.34896148247334446
+                    ],
+                    [
+                        "parametrization",
+                        0.43883476309696723
+                    ],
+                    [
+                        "half",
+                        0.4404854289199644
+                    ],
+                    [
+                        "sphere",
+                        0.5439312424566372
+                    ],
+                    [
+                        "integral",
+                        0.5499534112246798
+                    ],
+                    [
+                        "little",
+                        0.5695644100913377
+                    ],
+                    [
+                        "surface",
+                        0.8164777999677348
+                    ],
+                    [
+                        "cosine",
+                        0.9087130092772495
+                    ],
+                    [
+                        "theta",
+                        0.9087130092772495
+                    ],
+                    [
+                        "hemisphere",
+                        0.9176589196091581
+                    ],
+                    [
+                        "equal",
+                        0.9346197807280905
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-720": {
+            "id": "2ieG1ka5pBw-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " x is going to be cosine theta sine phi. Good. y is going to be sine theta sine phi. And z is going to be cosine phi. So that's our parametrization. But we need bounds, of course, on theta and phi in order to properly describe just this hemisphere. So let's think. So for phi, we want the hemisphere that goes from the z-axis down to the xy-plane. So that means we want 0 to be less than or equal to phi to be less than or equal to pi over 2. Right? That will give us just that top half. And we want the whole thing. We want to go all the way around. So we want 0 less than or equal to theta less than or equal to 2*pi. OK, so this is what x, y, and z are. These are the bounds for our parameters phi and theta. Now, the only other thing we need is we need to know what dS is. So in spherical coordinates, we know that dS-- I'll put it right above here-- so dS is equal to sine phi d phi d theta. Let me again just double-check that, that I'm not doing anything silly.",
+            "metrics": {
+                "relativeDCReadability": 0.9816140433175847,
+                "lexicalDiversity": 0.4714285714285714,
+                "posComposition": {
+                    "NN": 0.157,
+                    "VBZ": 0.048,
+                    "VBG": 0.019,
+                    "TO": 0.067,
+                    "VB": 0.076,
+                    "JJ": 0.081,
+                    "NNP": 0.038,
+                    "CC": 0.048,
+                    "WDT": 0.014,
+                    "PRP$": 0.01,
+                    "PRP": 0.067,
+                    "VBP": 0.067,
+                    "NNS": 0.024,
+                    "IN": 0.09,
+                    "RB": 0.062,
+                    "DT": 0.057,
+                    "POS": 0.005,
+                    "CD": 0.019,
+                    "JJR": 0.019,
+                    "MD": 0.01,
+                    "PDT": 0.005,
+                    "WP": 0.01,
+                    ":": 0.01
+                },
+                "syllableRate": 2.2,
+                "topicScores": [
+                    [
+                        "phi",
+                        0.26613636294971466
+                    ],
+                    [
+                        "theta",
+                        0.30834159655737875
+                    ],
+                    [
+                        "equal",
+                        0.33148653146764684
+                    ],
+                    [
+                        "z",
+                        0.43064091127499027
+                    ],
+                    [
+                        "cosine",
+                        0.5228600028660216
+                    ],
+                    [
+                        "y",
+                        0.5588320894834806
+                    ],
+                    [
+                        "x",
+                        0.5614867860614609
+                    ],
+                    [
+                        "hemisphere",
+                        0.5634964994791508
+                    ],
+                    [
+                        "right",
+                        0.5656012051114817
+                    ],
+                    [
+                        "ds",
+                        0.5738022915470508
+                    ],
+                    [
+                        "thing",
+                        0.5741962509870719
+                    ],
+                    [
+                        "bound",
+                        0.5744262430372721
+                    ],
+                    [
+                        "parametrization",
+                        0.8937431049771817
+                    ],
+                    [
+                        "plane",
+                        0.8987143438733484
+                    ],
+                    [
+                        "course",
+                        0.907619782864585
+                    ],
+                    [
+                        "half",
+                        0.9142501066126513
+                    ],
+                    [
+                        "order",
+                        0.9212124321967103
+                    ],
+                    [
+                        "axis",
+                        0.9214739663532296
+                    ],
+                    [
+                        "xy",
+                        0.9214739663532296
+                    ],
+                    [
+                        "silly",
+                        0.9234215597310315
+                    ],
+                    [
+                        "pi",
+                        0.9296214657070202
+                    ],
+                    [
+                        "check",
+                        0.929747053336683
+                    ],
+                    [
+                        "way",
+                        0.9301676260958693
+                    ],
+                    [
+                        "spherical",
+                        0.9346696823919984
+                    ],
+                    [
+                        "coordinate",
+                        0.9346696823919984
+                    ],
+                    [
+                        "double",
+                        0.935336764817388
+                    ],
+                    [
+                        "parameter",
+                        0.9382597689545368
+                    ],
+                    [
+                        "here--",
+                        0.9396788967607853
+                    ],
+                    [
+                        "cosine theta",
+                        2.538001286374754
+                    ],
+                    [
+                        "cosine phi",
+                        2.7404695580744693
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "phi",
+                        0.26613636294971466
+                    ],
+                    [
+                        "theta",
+                        0.30834159655737875
+                    ],
+                    [
+                        "equal",
+                        0.33148653146764684
+                    ],
+                    [
+                        "z",
+                        0.43064091127499027
+                    ],
+                    [
+                        "cosine",
+                        0.5228600028660216
+                    ],
+                    [
+                        "y",
+                        0.5588320894834806
+                    ],
+                    [
+                        "x",
+                        0.5614867860614609
+                    ],
+                    [
+                        "hemisphere",
+                        0.5634964994791508
+                    ],
+                    [
+                        "right",
+                        0.5656012051114817
+                    ],
+                    [
+                        "thing",
+                        0.5741962509870719
+                    ],
+                    [
+                        "parametrization",
+                        0.8937431049771817
+                    ],
+                    [
+                        "half",
+                        0.9142501066126513
+                    ],
+                    [
+                        "pi",
+                        0.9296214657070202
+                    ],
+                    [
+                        "way",
+                        0.9301676260958693
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-810": {
+            "id": "2ieG1ka5pBw-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " So dS is equal to sine phi d phi d theta. So we've got our parametrization. We've got our bounds on our parameters. We know what dS is. And we have the integral that we want to compute. So now we just have to substitute everything in and actually compute it as an iterated integral. Great. So let's do that. So, this integral that we want, I'm going to write a big equal sign that's going to carry me all the way up here. That's an equal sign. All right. So our integral, the integral over S of z with respect to surface area. So z becomes cosine phi. So we've got our double integral becomes an iterated integral. z becomes cosine phi. dS becomes sine phi d phi d theta. And our bounds. So let's see: phi we said is going from 0 to pi over 2. Zero, pi over 2. And theta is going from 0 to 2*pi. OK. So now we just have a nice, straightforward iterated integral here to compute. So let's do the inner one first. So we're computing-- the inner integral is the integral from 0 to pi over 2, of cosine phi sine phi",
+            "metrics": {
+                "relativeDCReadability": 1.143535923516201,
+                "lexicalDiversity": 0.5258215962441315,
+                "posComposition": {
+                    "RB": 0.066,
+                    "JJ": 0.113,
+                    "VBZ": 0.047,
+                    "TO": 0.047,
+                    "VB": 0.07,
+                    "NN": 0.15,
+                    "IN": 0.085,
+                    "PRP": 0.066,
+                    "VBP": 0.052,
+                    "VBN": 0.014,
+                    "PRP$": 0.028,
+                    "NNS": 0.028,
+                    "WP": 0.005,
+                    "CC": 0.019,
+                    "DT": 0.061,
+                    "NNP": 0.052,
+                    "POS": 0.014,
+                    "VBG": 0.023,
+                    "WDT": 0.005,
+                    "PDT": 0.005,
+                    "VBD": 0.009,
+                    "CD": 0.038,
+                    ":": 0.005
+                },
+                "syllableRate": 2.508,
+                "topicScores": [
+                    [
+                        "phi",
+                        0.2499387748228167
+                    ],
+                    [
+                        "integral",
+                        0.2531849477832964
+                    ],
+                    [
+                        "d",
+                        0.3559805256094989
+                    ],
+                    [
+                        "cosine",
+                        0.4309735705056567
+                    ],
+                    [
+                        "theta",
+                        0.43185536502222316
+                    ],
+                    [
+                        "pi",
+                        0.4350535481590533
+                    ],
+                    [
+                        "equal",
+                        0.4360410401412545
+                    ],
+                    [
+                        "z",
+                        0.44046836740664175
+                    ],
+                    [
+                        "ds",
+                        0.5262405941226483
+                    ],
+                    [
+                        "sign",
+                        0.5627905560781328
+                    ],
+                    [
+                        "bound",
+                        0.563614174933274
+                    ],
+                    [
+                        "inner",
+                        0.5798111782824407
+                    ],
+                    [
+                        "parametrization",
+                        0.8609872754922917
+                    ],
+                    [
+                        "parameter",
+                        0.8827283408299726
+                    ],
+                    [
+                        "great",
+                        0.8897120865928043
+                    ],
+                    [
+                        "area",
+                        0.9227567862056131
+                    ],
+                    [
+                        "big",
+                        0.9324172294501195
+                    ],
+                    [
+                        "way",
+                        0.9324172294501195
+                    ],
+                    [
+                        "surface",
+                        0.9326811165420943
+                    ],
+                    [
+                        "respect",
+                        0.9369561056219201
+                    ],
+                    [
+                        "double",
+                        0.9390640295534217
+                    ],
+                    [
+                        "nice",
+                        0.9399070752635027
+                    ],
+                    [
+                        "straightforward",
+                        0.9399070752635027
+                    ],
+                    [
+                        "phi d",
+                        0.942111902203168
+                    ],
+                    [
+                        "computing--",
+                        0.9446590635765928
+                    ],
+                    [
+                        "cosine phi",
+                        1.2584352918042583
+                    ],
+                    [
+                        "d theta",
+                        1.5744225190737808
+                    ],
+                    [
+                        "equal sign",
+                        2.209802430506903
+                    ],
+                    [
+                        "inner integral",
+                        4.125882482730189
+                    ],
+                    [
+                        "big equal",
+                        4.35172491848891
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "phi",
+                        0.2499387748228167
+                    ],
+                    [
+                        "integral",
+                        0.2531849477832964
+                    ],
+                    [
+                        "d",
+                        0.3559805256094989
+                    ],
+                    [
+                        "cosine",
+                        0.4309735705056567
+                    ],
+                    [
+                        "theta",
+                        0.43185536502222316
+                    ],
+                    [
+                        "pi",
+                        0.4350535481590533
+                    ],
+                    [
+                        "equal",
+                        0.4360410401412545
+                    ],
+                    [
+                        "z",
+                        0.44046836740664175
+                    ],
+                    [
+                        "parametrization",
+                        0.8609872754922917
+                    ],
+                    [
+                        "way",
+                        0.9324172294501195
+                    ],
+                    [
+                        "surface",
+                        0.9326811165420943
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-900": {
+            "id": "2ieG1ka5pBw-900",
+            "heat": 0.1,
+            "start": 900.0,
+            "text": " d phi. And OK. So there are a bunch of different ways you could do this. If you wanted to get fancy, you could do a double-angle formula here, but that's really more fancy than you need. Because this is like sine phi times d sine phi, right? So this is equal to-- another way of saying that is you can make the substitution u equals sine phi. Anyhow, this is all Calc I stuff that hopefully you're pretty familiar with. So OK. So this is equal to-- in the end, we get sine squared phi over 2, between 0 and pi over 2. OK. So we plug this in. So sine squared pi over 2, that's 1/2, minus-- sine squared 0 over 2 is 0 over 2. So it's just 1/2. So the inner integral is 1/2. So let's see about the outer one. The outer integral is just the integral from 0 to 2*pi d theta of whatever the inner integral was. Well, the inner integral was 1/2. So the integral from 0 to 2*pi of 1/2 is pi. Straightforward. Good. So OK. So that's what the surface integral gives us. So let's go back here and compare. So way back at the beginning of this recitation, we did the line integral for this circle",
+            "metrics": {
+                "relativeDCReadability": 1.0597933964575386,
+                "lexicalDiversity": 0.519650655021834,
+                "posComposition": {
+                    "NN": 0.135,
+                    "CC": 0.017,
+                    "NNP": 0.066,
+                    "EX": 0.004,
+                    "VBP": 0.035,
+                    "DT": 0.114,
+                    "IN": 0.118,
+                    "JJ": 0.1,
+                    "NNS": 0.017,
+                    "PRP": 0.052,
+                    "MD": 0.013,
+                    "VB": 0.035,
+                    "VBD": 0.026,
+                    "TO": 0.022,
+                    "RB": 0.052,
+                    "VBZ": 0.057,
+                    "JJR": 0.004,
+                    ":": 0.013,
+                    "VBG": 0.004,
+                    "VBN": 0.004,
+                    "CD": 0.079,
+                    "WDT": 0.013,
+                    "POS": 0.013,
+                    "WP": 0.004
+                },
+                "syllableRate": 2.525,
+                "topicScores": [
+                    [
+                        "integral",
+                        0.26841642426044865
+                    ],
+                    [
+                        "sine",
+                        0.3074868853588623
+                    ],
+                    [
+                        "phi",
+                        0.31987640861507044
+                    ],
+                    [
+                        "inner",
+                        0.42681655760288506
+                    ],
+                    [
+                        "d",
+                        0.43569204915813003
+                    ],
+                    [
+                        "equal",
+                        0.4388877377188046
+                    ],
+                    [
+                        "pi",
+                        0.4411366657473557
+                    ],
+                    [
+                        "way",
+                        0.45095754149133
+                    ],
+                    [
+                        "fancy",
+                        0.5535651233146166
+                    ],
+                    [
+                        "to--",
+                        0.5596052130502188
+                    ],
+                    [
+                        "outer",
+                        0.5681073783368346
+                    ],
+                    [
+                        "Calc",
+                        0.6444055830276837
+                    ],
+                    [
+                        "right",
+                        0.8917915323351172
+                    ],
+                    [
+                        "formula",
+                        0.8989785946953256
+                    ],
+                    [
+                        "bunch",
+                        0.9015207770239262
+                    ],
+                    [
+                        "different",
+                        0.9015207770239262
+                    ],
+                    [
+                        "double",
+                        0.9056299866551496
+                    ],
+                    [
+                        "angle",
+                        0.9056299866551496
+                    ],
+                    [
+                        "Straightforward",
+                        0.9084921611772694
+                    ],
+                    [
+                        "good",
+                        0.9093361933602637
+                    ],
+                    [
+                        "times",
+                        0.9181501248925092
+                    ],
+                    [
+                        "familiar",
+                        0.9209980980070852
+                    ],
+                    [
+                        "substitution",
+                        0.9227126890422275
+                    ],
+                    [
+                        "end",
+                        0.9261504345017978
+                    ],
+                    [
+                        "circle",
+                        0.9305923668222374
+                    ],
+                    [
+                        "minus--",
+                        0.9310790803276342
+                    ],
+                    [
+                        "theta",
+                        0.9394567477879839
+                    ],
+                    [
+                        "recitation",
+                        0.9398990354332808
+                    ],
+                    [
+                        "surface",
+                        0.9430141967948464
+                    ],
+                    [
+                        "beginning",
+                        0.9438786796289201
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "integral",
+                        0.26841642426044865
+                    ],
+                    [
+                        "phi",
+                        0.31987640861507044
+                    ],
+                    [
+                        "d",
+                        0.43569204915813003
+                    ],
+                    [
+                        "equal",
+                        0.4388877377188046
+                    ],
+                    [
+                        "pi",
+                        0.4411366657473557
+                    ],
+                    [
+                        "way",
+                        0.45095754149133
+                    ],
+                    [
+                        "right",
+                        0.8917915323351172
+                    ],
+                    [
+                        "circle",
+                        0.9305923668222374
+                    ],
+                    [
+                        "theta",
+                        0.9394567477879839
+                    ],
+                    [
+                        "surface",
+                        0.9430141967948464
+                    ]
+                ]
+            }
+        },
+        "2ieG1ka5pBw-990": {
+            "id": "2ieG1ka5pBw-990",
+            "heat": 0.1,
+            "start": 990.0,
+            "text": " that's the boundary of this hemisphere, and we got pi. And just now what we did is we had the surface integral-- the associated surface integral that we get from Stokes' Theorem, this curl F dot n dS. So we computed F and curl F and n. And then we'd noticed a little nice symmetry here. Although if you didn't notice it, you should have had no trouble computing the extra terms in the integral that you actually ended up with it. It would've been another couple of trig terms there after you made the substitution. So we parametrized our surface nicely. Because it's a sphere, it's easy to do. And then we computed the double integral and we also came out with pi. And we better have also come out with pi, because Stokes' Theorem tells us that the line integral and the surface integral have to give us the same value. So that's great. So that's exactly what we were hoping would happen. And now we've sort of convinced ourselves, hopefully, that through an example now, we have a feel for what sorts of things Stokes' Theorem can do for us. I'll end there.",
+            "metrics": {
+                "relativeDCReadability": 0.9034968061927379,
+                "lexicalDiversity": 0.45893719806763283,
+                "posComposition": {
+                    "DT": 0.097,
+                    "VBZ": 0.034,
+                    "NN": 0.092,
+                    "IN": 0.116,
+                    "CC": 0.048,
+                    "PRP": 0.126,
+                    "VBD": 0.058,
+                    "JJ": 0.087,
+                    "RB": 0.082,
+                    "WP": 0.014,
+                    ":": 0.005,
+                    "VBP": 0.034,
+                    "NNP": 0.048,
+                    "NNS": 0.034,
+                    "VB": 0.043,
+                    "MD": 0.029,
+                    "VBG": 0.01,
+                    "RP": 0.014,
+                    "VBN": 0.01,
+                    "PRP$": 0.005,
+                    "TO": 0.01,
+                    "WDT": 0.005
+                },
+                "syllableRate": 2.367,
+                "topicScores": [
+                    [
+                        "F",
+                        0.2816616141643628
+                    ],
+                    [
+                        "Theorem",
+                        0.3018232704422419
+                    ],
+                    [
+                        "integral",
+                        0.3254893895569863
+                    ],
+                    [
+                        "Stokes",
+                        0.3660908831763338
+                    ],
+                    [
+                        "surface",
+                        0.36735823230246023
+                    ],
+                    [
+                        "pi",
+                        0.4085316004048503
+                    ],
+                    [
+                        "term",
+                        0.5557066566332576
+                    ],
+                    [
+                        "sort",
+                        0.5680248271596764
+                    ],
+                    [
+                        "dS.",
+                        0.8356245283745617
+                    ],
+                    [
+                        "hemisphere",
+                        0.8363316197875342
+                    ],
+                    [
+                        "boundary",
+                        0.8486719772618248
+                    ],
+                    [
+                        "n.",
+                        0.8514388915699574
+                    ],
+                    [
+                        "associated",
+                        0.8720528854669315
+                    ],
+                    [
+                        "dot",
+                        0.8720528854669315
+                    ],
+                    [
+                        "substitution",
+                        0.8744081555754548
+                    ],
+                    [
+                        "symmetry",
+                        0.8838525416987462
+                    ],
+                    [
+                        "value",
+                        0.8875916338855375
+                    ],
+                    [
+                        "great",
+                        0.8897223686308174
+                    ],
+                    [
+                        "little",
+                        0.8930680084522405
+                    ],
+                    [
+                        "nice",
+                        0.8930680084522405
+                    ],
+                    [
+                        "trouble",
+                        0.8988747339790738
+                    ],
+                    [
+                        "extra",
+                        0.8988747339790738
+                    ],
+                    [
+                        "couple",
+                        0.9032367033303177
+                    ],
+                    [
+                        "trig",
+                        0.9032367033303177
+                    ],
+                    [
+                        "easy",
+                        0.9094334927368855
+                    ],
+                    [
+                        "convinced",
+                        0.910872100415391
+                    ],
+                    [
+                        "example",
+                        0.910872100415391
+                    ],
+                    [
+                        "thing",
+                        0.910872100415391
+                    ],
+                    [
+                        "double",
+                        0.9117387305739463
+                    ],
+                    [
+                        "line",
+                        0.913692718154434
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "F",
+                        0.2816616141643628
+                    ],
+                    [
+                        "Theorem",
+                        0.3018232704422419
+                    ],
+                    [
+                        "integral",
+                        0.3254893895569863
+                    ],
+                    [
+                        "Stokes",
+                        0.3660908831763338
+                    ],
+                    [
+                        "surface",
+                        0.36735823230246023
+                    ],
+                    [
+                        "pi",
+                        0.4085316004048503
+                    ],
+                    [
+                        "hemisphere",
+                        0.8363316197875342
+                    ],
+                    [
+                        "little",
+                        0.8930680084522405
+                    ],
+                    [
+                        "thing",
+                        0.910872100415391
+                    ],
+                    [
+                        "line",
+                        0.913692718154434
+                    ]
+                ]
+            }
+        }
+    }
+}

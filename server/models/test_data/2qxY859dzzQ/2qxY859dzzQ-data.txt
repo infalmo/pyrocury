@@ -1,0 +1,4647 @@
+{
+    "metadata": {
+        "id": "2qxY859dzzQ",
+        "avgHeat": 0.01,
+        "runtime": 2239.0,
+        "dale-challReadabilityScore": 7.949804009867781,
+        "lexicalDiversity": 0.47297297297297297,
+        "posComposition": {
+            "NNP": 0.024,
+            "IN": 0.091,
+            "PRP": 0.08,
+            "VBP": 0.043,
+            "JJ": 0.052,
+            "DT": 0.113,
+            "MD": 0.02,
+            "VB": 0.06,
+            "NN": 0.138,
+            "RB": 0.066,
+            "CD": 0.05,
+            "NNS": 0.02,
+            "CC": 0.036,
+            "WDT": 0.009,
+            "VBZ": 0.054,
+            "WP": 0.014,
+            "JJR": 0.007,
+            "VBD": 0.017,
+            "RP": 0.007,
+            "WRB": 0.007,
+            "TO": 0.033,
+            "VBN": 0.01,
+            "VBG": 0.026,
+            "PDT": 0.001,
+            "PRP$": 0.004,
+            "JJS": 0.001,
+            "RBS": 0.0,
+            "POS": 0.008,
+            "EX": 0.002,
+            ":": 0.005,
+            "RBR": 0.001,
+            "UH": 0.0
+        },
+        "syllableRate": 2.422,
+        "topicScores": [
+            [
+                "x",
+                0.10881332352393894
+            ],
+            [
+                "delta",
+                0.12909986186017053
+            ],
+            [
+                "y",
+                0.13344415106702257
+            ],
+            [
+                "slope",
+                0.13465397968214585
+            ],
+            [
+                "function",
+                0.16291044345679728
+            ],
+            [
+                "start",
+                0.1828403581261763
+            ],
+            [
+                "area",
+                0.18613368418881435
+            ],
+            [
+                "step",
+                0.18794183068300188
+            ],
+            [
+                "minus",
+                0.19546300770474032
+            ],
+            [
+                "small",
+                0.19736968774990737
+            ],
+            [
+                "time",
+                0.1987157787304615
+            ],
+            [
+                "height",
+                0.20264286252928998
+            ],
+            [
+                "way",
+                0.20630090329974837
+            ],
+            [
+                "delta x",
+                0.20662952783819669
+            ],
+            [
+                "change",
+                0.207592220811007
+            ],
+            [
+                "limit",
+                0.21117580821058077
+            ],
+            [
+                "piece",
+                0.21979666040899706
+            ],
+            [
+                "speed",
+                0.2330675076792352
+            ],
+            [
+                "graph",
+                0.24178475515368816
+            ],
+            [
+                "equal",
+                0.24911347151422714
+            ],
+            [
+                "end",
+                0.2612046062038704
+            ],
+            [
+                "distance",
+                0.26196317109818296
+            ],
+            [
+                "point",
+                0.2626928061695643
+            ],
+            [
+                "right",
+                0.2627152924637955
+            ],
+            [
+                "power",
+                0.27365499990579806
+            ],
+            [
+                "course",
+                0.27422576231206347
+            ],
+            [
+                "sum",
+                0.2757660317374241
+            ],
+            [
+                "little",
+                0.2761380339191239
+            ],
+            [
+                "dx",
+                0.2898131290593416
+            ],
+            [
+                "thing",
+                0.29083527849496366
+            ]
+        ],
+        "topicsList": [
+            "x",
+            "delta",
+            "y",
+            "slope",
+            "function",
+            "start",
+            "area",
+            "step",
+            "minus",
+            "small",
+            "time",
+            "height",
+            "way",
+            "delta x",
+            "change",
+            "limit",
+            "piece",
+            "speed",
+            "graph",
+            "equal",
+            "end",
+            "distance",
+            "point",
+            "right",
+            "power",
+            "course",
+            "sum",
+            "little",
+            "dx",
+            "thing"
+        ]
+    },
+    "chunks": {
+        "2qxY859dzzQ-0": {
+            "id": "2qxY859dzzQ-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " PROFESSOR: Hi. Well, if you're ready, this will be the other big side of calculus. We still have two functions, as before. Let me call them the height and the slope: y of x and the slope, s of x. Function one and function two. That's what calculus is about. And earlier, we figured out how to go from function one if we knew that, how to find the slope. Of course, it was easy when function one was just a straight line. Then the slope was just up divided by across. But when function one was curving, we had to do something. We had to take just a small distance across, a small distance up and divide, and then let small get smaller and smaller. The result of that was function two, the derivative.",
+            "metrics": {
+                "relativeDCReadability": 0.8954401976750705,
+                "lexicalDiversity": 0.44525547445255476,
+                "posComposition": {
+                    "NNP": 0.036,
+                    "IN": 0.109,
+                    "PRP": 0.066,
+                    "VBP": 0.015,
+                    "JJ": 0.073,
+                    "DT": 0.095,
+                    "MD": 0.007,
+                    "VB": 0.058,
+                    "NN": 0.161,
+                    "RB": 0.066,
+                    "CD": 0.051,
+                    "NNS": 0.007,
+                    "CC": 0.058,
+                    "WDT": 0.007,
+                    "VBZ": 0.015,
+                    "WP": 0.007,
+                    "JJR": 0.022,
+                    "VBD": 0.066,
+                    "RP": 0.007,
+                    "WRB": 0.029,
+                    "TO": 0.029,
+                    "VBN": 0.007,
+                    "VBG": 0.007
+                },
+                "syllableRate": 1.442,
+                "topicScores": [
+                    [
+                        "function",
+                        0.32637494191466865
+                    ],
+                    [
+                        "small",
+                        0.36138414990471435
+                    ],
+                    [
+                        "slope",
+                        0.38392934560687697
+                    ],
+                    [
+                        "PROFESSOR",
+                        0.4373595201804055
+                    ],
+                    [
+                        "calculus",
+                        0.5724766103589533
+                    ],
+                    [
+                        "distance",
+                        0.5808654959578768
+                    ],
+                    [
+                        "derivative",
+                        0.90553670492357
+                    ],
+                    [
+                        "ready",
+                        0.9100707370175933
+                    ],
+                    [
+                        "line",
+                        0.9101146204648528
+                    ],
+                    [
+                        "big",
+                        0.9195129761182418
+                    ],
+                    [
+                        "height",
+                        0.9296544581415956
+                    ],
+                    [
+                        "x",
+                        0.9296544581415956
+                    ],
+                    [
+                        "straight",
+                        0.9297005150705892
+                    ],
+                    [
+                        "result",
+                        0.9355711204751458
+                    ],
+                    [
+                        "easy",
+                        0.9372238705271045
+                    ],
+                    [
+                        "small distance",
+                        3.8769526803187606
+                    ],
+                    [
+                        "straight line",
+                        5.49916293528205
+                    ]
+                ],
+                "topTopicSimilarity": 0.35294117647058826,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.32637494191466865
+                    ],
+                    [
+                        "small",
+                        0.36138414990471435
+                    ],
+                    [
+                        "slope",
+                        0.38392934560687697
+                    ],
+                    [
+                        "distance",
+                        0.5808654959578768
+                    ],
+                    [
+                        "height",
+                        0.9296544581415956
+                    ],
+                    [
+                        "x",
+                        0.9296544581415956
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-90": {
+            "id": "2qxY859dzzQ-90",
+            "heat": 0.303,
+            "start": 90.0,
+            "text": " Today, we're going the other way. We know the slope. We know s of x, and we want to find the height, y of x, of the graph. We know how the graph is sloping at every point, and we have to put all that information together to find its height. OK. Let me say the easiest way to do it, when it works, is to recognize if we are given a formula for the slope, to recognize maybe we know a height that goes with it. Let me take an example. So the one, and most important case of a height is x to some power. x to n. That's one that everybody learns. When y is x to the nth, the result of this process that produces function two going in that direction is dy/dx is that n comes down and we have one lower power. So if we happen to have that as our slope, that would be our height. Nothing more to do. But many other slopes are possible.",
+            "metrics": {
+                "relativeDCReadability": 0.9131807572823107,
+                "lexicalDiversity": 0.4342857142857143,
+                "posComposition": {
+                    "NN": 0.166,
+                    "PRP": 0.086,
+                    "VBP": 0.063,
+                    "VBG": 0.017,
+                    "DT": 0.12,
+                    "JJ": 0.051,
+                    "NNS": 0.011,
+                    "IN": 0.08,
+                    "CC": 0.029,
+                    "TO": 0.063,
+                    "VB": 0.074,
+                    "WRB": 0.017,
+                    "VBZ": 0.069,
+                    "PDT": 0.006,
+                    "RB": 0.023,
+                    "PRP$": 0.017,
+                    "NNP": 0.017,
+                    "JJS": 0.006,
+                    "VBN": 0.017,
+                    "WDT": 0.023,
+                    "CD": 0.023,
+                    "RBS": 0.006,
+                    "JJR": 0.011,
+                    "MD": 0.006
+                },
+                "syllableRate": 1.85,
+                "topicScores": [
+                    [
+                        "x",
+                        0.3347116319016373
+                    ],
+                    [
+                        "height",
+                        0.34266020923608304
+                    ],
+                    [
+                        "slope",
+                        0.34904893557525346
+                    ],
+                    [
+                        "today",
+                        0.37787220265024113
+                    ],
+                    [
+                        "way",
+                        0.5390640051351567
+                    ],
+                    [
+                        "graph",
+                        0.5390640051351567
+                    ],
+                    [
+                        "power",
+                        0.5447370511154225
+                    ],
+                    [
+                        "example",
+                        0.8928456922551583
+                    ],
+                    [
+                        "point",
+                        0.896704385276304
+                    ],
+                    [
+                        "information",
+                        0.9062994547896871
+                    ],
+                    [
+                        "possible",
+                        0.9077663100499745
+                    ],
+                    [
+                        "easy",
+                        0.9179573085110322
+                    ],
+                    [
+                        "formula",
+                        0.9179573085110322
+                    ],
+                    [
+                        "nth",
+                        0.9210751216973703
+                    ],
+                    [
+                        "result",
+                        0.9210751216973703
+                    ],
+                    [
+                        "dx",
+                        0.9210751216973703
+                    ],
+                    [
+                        "low",
+                        0.9210751216973703
+                    ],
+                    [
+                        "important",
+                        0.9243965509248638
+                    ],
+                    [
+                        "case",
+                        0.9243965509248638
+                    ],
+                    [
+                        "process",
+                        0.928586694826615
+                    ],
+                    [
+                        "function",
+                        0.928586694826615
+                    ],
+                    [
+                        "direction",
+                        0.928586694826615
+                    ],
+                    [
+                        "easy way",
+                        3.6360528598957456
+                    ],
+                    [
+                        "low power",
+                        3.8838861399847895
+                    ],
+                    [
+                        "important case",
+                        5.8732765988338915
+                    ]
+                ],
+                "topTopicSimilarity": 0.36,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.3347116319016373
+                    ],
+                    [
+                        "height",
+                        0.34266020923608304
+                    ],
+                    [
+                        "slope",
+                        0.34904893557525346
+                    ],
+                    [
+                        "way",
+                        0.5390640051351567
+                    ],
+                    [
+                        "graph",
+                        0.5390640051351567
+                    ],
+                    [
+                        "power",
+                        0.5447370511154225
+                    ],
+                    [
+                        "point",
+                        0.896704385276304
+                    ],
+                    [
+                        "dx",
+                        0.9210751216973703
+                    ],
+                    [
+                        "function",
+                        0.928586694826615
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-180": {
+            "id": "2qxY859dzzQ-180",
+            "heat": 0.0,
+            "start": 180.0,
+            "text": " Let's just stay with this another minute. What if the slope was x to the nth itself? What if we started with function two as x to the nth. Suppose dy/dx is x to the nth power, like x squared. Where does x squared come from? Well, look at this rule. That rule said that for these power functions, the power drops by one. So if I want to end up with x to the nth, going backwards, function one had better be, involve an x to the n plus 1. But that's not perfect, of course, because when I take the slope of that one, this factor, this power, this exponent, n plus n will come down. Just as n came down to here, n plus 1 will come down, and therefore I'd better divide by n plus 1 so that when I do take the slope, when I do go to number two, the n plus 1's will cancel. The power will drop by one, and I'll have x to the nth. OK, there's an example-- quite a useful one-- of going from step two to step one just by kind of",
+            "metrics": {
+                "relativeDCReadability": 1.092041533456691,
+                "lexicalDiversity": 0.5148514851485149,
+                "posComposition": {
+                    "VB": 0.074,
+                    "POS": 0.01,
+                    "RB": 0.054,
+                    "IN": 0.124,
+                    "DT": 0.119,
+                    "NN": 0.129,
+                    "WP": 0.01,
+                    "VBD": 0.025,
+                    "VBN": 0.025,
+                    "TO": 0.05,
+                    "JJ": 0.064,
+                    "PRP": 0.04,
+                    "CD": 0.064,
+                    "NNS": 0.025,
+                    "NNP": 0.025,
+                    "VBZ": 0.02,
+                    "VBP": 0.025,
+                    "RP": 0.005,
+                    "VBG": 0.01,
+                    "JJR": 0.005,
+                    "CC": 0.04,
+                    "WRB": 0.015,
+                    "MD": 0.03,
+                    "EX": 0.005,
+                    ":": 0.01
+                },
+                "syllableRate": 1.958,
+                "topicScores": [
+                    [
+                        "n",
+                        0.29178395617823
+                    ],
+                    [
+                        "nth",
+                        0.2918621175934005
+                    ],
+                    [
+                        "power",
+                        0.33028546123600633
+                    ],
+                    [
+                        "slope",
+                        0.42944613530248815
+                    ],
+                    [
+                        "function",
+                        0.43904437410791114
+                    ],
+                    [
+                        "rule",
+                        0.5519795546278687
+                    ],
+                    [
+                        "step",
+                        0.5830393358167489
+                    ],
+                    [
+                        "minute",
+                        0.7755696027448853
+                    ],
+                    [
+                        "dx",
+                        0.8952652075420547
+                    ],
+                    [
+                        "course",
+                        0.9108764941218007
+                    ],
+                    [
+                        "factor",
+                        0.9108764941218007
+                    ],
+                    [
+                        "exponent",
+                        0.9108764941218007
+                    ],
+                    [
+                        "perfect",
+                        0.9178349631920786
+                    ],
+                    [
+                        "number",
+                        0.919945178249321
+                    ],
+                    [
+                        "example--",
+                        0.9290893884730238
+                    ],
+                    [
+                        "useful",
+                        0.9290893884730238
+                    ],
+                    [
+                        "one--",
+                        0.9290893884730238
+                    ],
+                    [
+                        "nth power",
+                        1.8100401205955208
+                    ],
+                    [
+                        "power function",
+                        2.9950571235728716
+                    ],
+                    [
+                        "useful one--",
+                        6.310320490751272
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "power",
+                        0.33028546123600633
+                    ],
+                    [
+                        "slope",
+                        0.42944613530248815
+                    ],
+                    [
+                        "function",
+                        0.43904437410791114
+                    ],
+                    [
+                        "step",
+                        0.5830393358167489
+                    ],
+                    [
+                        "dx",
+                        0.8952652075420547
+                    ],
+                    [
+                        "course",
+                        0.9108764941218007
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-270": {
+            "id": "2qxY859dzzQ-270",
+            "heat": 0.0,
+            "start": 270.0,
+            "text": " recognizing what you want there. So this is one set that everybody learns. Another is sines and cosines, if you can fit it into that. Another is either the x or logx. That's pretty much the list. And then you learn, in the future, ways to change things around to fit into one of those forms. But then, of course, there are many, many cases-- many, many functions, too-- that you don't fit, can't fit into a form where you can recognize from some list which you either have learned or you find on the web or you find in the calculator. A lot of lists have been made to help you go from two to one, but today we have to understand what is the actual process. What is the, what is the the reverse process to this one? And of course, this one involved a limit as delta x went to 0, because always I have to remember that things can be curving, things can be changing, I can't assume that they're saying the same. And then, the reverse direction. Maybe I just tell you first what the symbol is. If I have this s of x and I want to get back to y of x--",
+            "metrics": {
+                "relativeDCReadability": 0.8514216857087155,
+                "lexicalDiversity": 0.4377880184331797,
+                "posComposition": {
+                    "VBG": 0.018,
+                    "WP": 0.023,
+                    "PRP": 0.083,
+                    "VBP": 0.069,
+                    "EX": 0.009,
+                    "RB": 0.06,
+                    "DT": 0.115,
+                    "VBZ": 0.046,
+                    "CD": 0.032,
+                    "NN": 0.111,
+                    "WDT": 0.009,
+                    "NNS": 0.046,
+                    "CC": 0.051,
+                    "IN": 0.101,
+                    "MD": 0.028,
+                    "VB": 0.069,
+                    "JJ": 0.037,
+                    "TO": 0.046,
+                    ":": 0.014,
+                    "WRB": 0.005,
+                    "VBN": 0.014,
+                    "VBD": 0.009,
+                    "NNP": 0.005
+                },
+                "syllableRate": 2.258,
+                "topicScores": [
+                    [
+                        "list",
+                        0.4392148657433138
+                    ],
+                    [
+                        "thing",
+                        0.4411723143584451
+                    ],
+                    [
+                        "x",
+                        0.4495400249130451
+                    ],
+                    [
+                        "reverse",
+                        0.5421888935846375
+                    ],
+                    [
+                        "course",
+                        0.5432322380451637
+                    ],
+                    [
+                        "process",
+                        0.5503441422308322
+                    ],
+                    [
+                        "form",
+                        0.5530204412969844
+                    ],
+                    [
+                        "set",
+                        0.8620600062744816
+                    ],
+                    [
+                        "logx",
+                        0.8646211794190668
+                    ],
+                    [
+                        "cosine",
+                        0.8737440420227999
+                    ],
+                    [
+                        "calculator",
+                        0.8858256146271202
+                    ],
+                    [
+                        "cases--",
+                        0.8957976362191659
+                    ],
+                    [
+                        "function",
+                        0.8957976362191659
+                    ],
+                    [
+                        "direction",
+                        0.8979504662633419
+                    ],
+                    [
+                        "future",
+                        0.9002519206912264
+                    ],
+                    [
+                        "way",
+                        0.9002519206912264
+                    ],
+                    [
+                        "lot",
+                        0.9079414354970456
+                    ],
+                    [
+                        "today",
+                        0.9079414354970456
+                    ],
+                    [
+                        "actual",
+                        0.9079414354970456
+                    ],
+                    [
+                        "web",
+                        0.9122962472444247
+                    ],
+                    [
+                        "symbol",
+                        0.9165491964684185
+                    ],
+                    [
+                        "limit",
+                        0.9200727038971783
+                    ],
+                    [
+                        "delta",
+                        0.9200727038971783
+                    ],
+                    [
+                        "reverse process",
+                        2.993427736238023
+                    ],
+                    [
+                        "reverse direction",
+                        3.3792978783274488
+                    ],
+                    [
+                        "actual process",
+                        3.8071020375401066
+                    ],
+                    [
+                        "delta x",
+                        4.7876738306565905
+                    ]
+                ],
+                "topTopicSimilarity": 0.2962962962962963,
+                "sharedTopicScores": [
+                    [
+                        "thing",
+                        0.4411723143584451
+                    ],
+                    [
+                        "x",
+                        0.4495400249130451
+                    ],
+                    [
+                        "course",
+                        0.5432322380451637
+                    ],
+                    [
+                        "function",
+                        0.8957976362191659
+                    ],
+                    [
+                        "way",
+                        0.9002519206912264
+                    ],
+                    [
+                        "limit",
+                        0.9200727038971783
+                    ],
+                    [
+                        "delta",
+                        0.9200727038971783
+                    ],
+                    [
+                        "delta x",
+                        4.7876738306565905
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-360": {
+            "id": "2qxY859dzzQ-360",
+            "heat": 0.0,
+            "start": 360.0,
+            "text": " so this is from two to one-- one will be y of x. The symbol for y of x will be-- it's, I'm just really wanting to draw that integral symbol. The integral, I would say the integral of s of x dx. And you'll see why-- this is, that's an s-- you'll see why that's a reasonable way to write it. But of course, first, we need the idea behind it. OK, so how am I going to proceed? Step one, I'll take steps, I won't try to get immediately to the case of continuous change. I'll take single, individual steps. Let me do that. And then, I'm going to take smaller steps. And then in the limit, I'm taking continuous steps. OK, so first, big steps. So let me put down, for example, suppose I have y's. Suppose the y's stepped up like 0, 1, 4, 9, 16, whatever.",
+            "metrics": {
+                "relativeDCReadability": 0.9955907237455511,
+                "lexicalDiversity": 0.5238095238095238,
+                "posComposition": {
+                    "RB": 0.054,
+                    "DT": 0.089,
+                    "VBZ": 0.036,
+                    "IN": 0.089,
+                    "CD": 0.06,
+                    "TO": 0.042,
+                    ":": 0.024,
+                    "MD": 0.048,
+                    "VB": 0.101,
+                    "PDT": 0.006,
+                    "NN": 0.095,
+                    "NNP": 0.036,
+                    "PRP": 0.107,
+                    "VBP": 0.036,
+                    "VBG": 0.024,
+                    "JJ": 0.06,
+                    "CC": 0.024,
+                    "WRB": 0.018,
+                    "NNS": 0.03,
+                    "JJR": 0.006,
+                    "RP": 0.006,
+                    "POS": 0.006,
+                    "VBD": 0.006
+                },
+                "syllableRate": 1.775,
+                "topicScores": [
+                    [
+                        "step",
+                        0.28178061650714137
+                    ],
+                    [
+                        "y",
+                        0.37606991926110356
+                    ],
+                    [
+                        "integral",
+                        0.42071587762764795
+                    ],
+                    [
+                        "x",
+                        0.5347365566789374
+                    ],
+                    [
+                        "symbol",
+                        0.5379834039471196
+                    ],
+                    [
+                        "continuous",
+                        0.5620227207097046
+                    ],
+                    [
+                        "dx",
+                        0.8770311133496269
+                    ],
+                    [
+                        "change",
+                        0.9001582882503099
+                    ],
+                    [
+                        "course",
+                        0.9069558529047048
+                    ],
+                    [
+                        "why--",
+                        0.9083078953724035
+                    ],
+                    [
+                        "s--",
+                        0.9083078953724035
+                    ],
+                    [
+                        "reasonable",
+                        0.9083078953724035
+                    ],
+                    [
+                        "way",
+                        0.9083078953724035
+                    ],
+                    [
+                        "individual",
+                        0.910302121529216
+                    ],
+                    [
+                        "idea",
+                        0.9133673287754469
+                    ],
+                    [
+                        "single",
+                        0.9167489879712185
+                    ],
+                    [
+                        "big",
+                        0.9176491679872449
+                    ],
+                    [
+                        "example",
+                        0.9189348546802583
+                    ],
+                    [
+                        "case",
+                        0.9201354798152771
+                    ],
+                    [
+                        "small",
+                        0.9206941764875943
+                    ],
+                    [
+                        "limit",
+                        0.922252404899575
+                    ],
+                    [
+                        "integral symbol",
+                        2.5395096773768584
+                    ],
+                    [
+                        "continuous step",
+                        3.048874548791943
+                    ],
+                    [
+                        "individual step",
+                        3.338704979084353
+                    ],
+                    [
+                        "big step",
+                        3.4588563575482687
+                    ],
+                    [
+                        "small step",
+                        3.5106267252426746
+                    ],
+                    [
+                        "continuous change",
+                        4.046616708270318
+                    ],
+                    [
+                        "reasonable way",
+                        4.715044436917992
+                    ]
+                ],
+                "topTopicSimilarity": 0.32142857142857145,
+                "sharedTopicScores": [
+                    [
+                        "step",
+                        0.28178061650714137
+                    ],
+                    [
+                        "y",
+                        0.37606991926110356
+                    ],
+                    [
+                        "x",
+                        0.5347365566789374
+                    ],
+                    [
+                        "dx",
+                        0.8770311133496269
+                    ],
+                    [
+                        "change",
+                        0.9001582882503099
+                    ],
+                    [
+                        "course",
+                        0.9069558529047048
+                    ],
+                    [
+                        "way",
+                        0.9083078953724035
+                    ],
+                    [
+                        "small",
+                        0.9206941764875943
+                    ],
+                    [
+                        "limit",
+                        0.922252404899575
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-450": {
+            "id": "2qxY859dzzQ-450",
+            "heat": 0.0,
+            "start": 450.0,
+            "text": " So those are heights, and, of a graph that's sort of pieces of straight lines, only changing a few times. What would be the slopes? Going now, this is one going to two. The slope is s. Well, the slope, if the step size is one and I go up by one, the slope will be 1. Here I go up by 3. Here I go up by 5. Here I go up by 7. So if I, to go from there to there, I'm taking differences. I'm taking delta y's. These s's are delta y's. How do I go backwards? Suppose I gave you 1, 3, 5, 7, and I started y off at 0. How could you recover the rest of the y's? Well, that I would, that 1 plus 3 is the 4, 1 plus 3 plus 5 is the 9, 1 plus 3 adds 7 more. You're up to 16 and onwards. So if going this way is a subtraction at each step, going this way is a kind of running addition. I add up all the slopes to see how far I've climbed.",
+            "metrics": {
+                "relativeDCReadability": 1.0890783042152865,
+                "lexicalDiversity": 0.467005076142132,
+                "posComposition": {
+                    "RB": 0.081,
+                    "DT": 0.102,
+                    "VBP": 0.056,
+                    "NNS": 0.046,
+                    "CC": 0.041,
+                    "IN": 0.086,
+                    "NN": 0.102,
+                    "WDT": 0.005,
+                    "VBZ": 0.046,
+                    "VBG": 0.041,
+                    "JJ": 0.01,
+                    "WP": 0.005,
+                    "MD": 0.02,
+                    "VB": 0.036,
+                    "CD": 0.122,
+                    "TO": 0.025,
+                    "PRP": 0.086,
+                    "RP": 0.015,
+                    "EX": 0.005,
+                    "POS": 0.02,
+                    "NNP": 0.015,
+                    "VBD": 0.01,
+                    "WRB": 0.01,
+                    "JJR": 0.005,
+                    "PDT": 0.005,
+                    "VBN": 0.005
+                },
+                "syllableRate": 1.85,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.3183998461902539
+                    ],
+                    [
+                        "y",
+                        0.3799834652437641
+                    ],
+                    [
+                        "delta",
+                        0.5626143656740383
+                    ],
+                    [
+                        "way",
+                        0.5684635080875408
+                    ],
+                    [
+                        "step",
+                        0.5767793394988877
+                    ],
+                    [
+                        "time",
+                        0.7954406457251688
+                    ],
+                    [
+                        "height",
+                        0.8234620525005603
+                    ],
+                    [
+                        "straight",
+                        0.8234620525005603
+                    ],
+                    [
+                        "line",
+                        0.8234620525005603
+                    ],
+                    [
+                        "graph",
+                        0.8354973976374382
+                    ],
+                    [
+                        "piece",
+                        0.8354973976374382
+                    ],
+                    [
+                        "s.",
+                        0.8877041969810433
+                    ],
+                    [
+                        "difference",
+                        0.9151081998433156
+                    ],
+                    [
+                        "size",
+                        0.919245920507953
+                    ],
+                    [
+                        "addition",
+                        0.925139430797634
+                    ],
+                    [
+                        "rest",
+                        0.93948996694713
+                    ],
+                    [
+                        "subtraction",
+                        0.9416612981671573
+                    ],
+                    [
+                        "kind",
+                        0.9416612981671573
+                    ],
+                    [
+                        "straight line",
+                        2.106455932759117
+                    ],
+                    [
+                        "delta y",
+                        2.3278731290265657
+                    ],
+                    [
+                        "step size",
+                        5.2637165515571
+                    ]
+                ],
+                "topTopicSimilarity": 0.42857142857142855,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.3183998461902539
+                    ],
+                    [
+                        "y",
+                        0.3799834652437641
+                    ],
+                    [
+                        "delta",
+                        0.5626143656740383
+                    ],
+                    [
+                        "way",
+                        0.5684635080875408
+                    ],
+                    [
+                        "step",
+                        0.5767793394988877
+                    ],
+                    [
+                        "time",
+                        0.7954406457251688
+                    ],
+                    [
+                        "height",
+                        0.8234620525005603
+                    ],
+                    [
+                        "graph",
+                        0.8354973976374382
+                    ],
+                    [
+                        "piece",
+                        0.8354973976374382
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-540": {
+            "id": "2qxY859dzzQ-540",
+            "heat": 0.0,
+            "start": 540.0,
+            "text": " Let me do a second example, just to make that point. Let me start you this time, let me start you with the slopes, because that's today's job. Suppose the slopes are 4, 3, 2, 1, 0. So if these were speeds, I would say, OK, I'm slowing down. I'm slowing down, but I'm still moving forward. Positive speeds, but putting the brakes on. What would be the distances? If the trip meter starts, start the trip meter at 0. OK. Then in the first second or hour, the first delta x we would go 4. And what goes there? 7, right? I'm doing, I'm accumulating, adding up the distances. Here I was at 4. I went another three to 7, to 9, 10. Here's, I didn't move. No speed, zero slope, stays flat, hit the top at 10. OK, I could do this with any bunch of numbers and I can do",
+            "metrics": {
+                "relativeDCReadability": 1.023971267692901,
+                "lexicalDiversity": 0.5370370370370371,
+                "posComposition": {
+                    "VB": 0.08,
+                    "PRP": 0.105,
+                    "DT": 0.111,
+                    "JJ": 0.037,
+                    "NN": 0.105,
+                    "RB": 0.056,
+                    "TO": 0.019,
+                    "IN": 0.074,
+                    "NNS": 0.049,
+                    "VBZ": 0.025,
+                    "POS": 0.012,
+                    "NNP": 0.025,
+                    "VBP": 0.043,
+                    "CD": 0.093,
+                    "VBD": 0.031,
+                    "MD": 0.031,
+                    "VBG": 0.043,
+                    "RP": 0.019,
+                    "CC": 0.031,
+                    "WP": 0.012
+                },
+                "syllableRate": 1.642,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.4334991345415237
+                    ],
+                    [
+                        "speed",
+                        0.4354391368384552
+                    ],
+                    [
+                        "distance",
+                        0.5432033413460674
+                    ],
+                    [
+                        "second",
+                        0.5584642749351303
+                    ],
+                    [
+                        "meter",
+                        0.5628881668324155
+                    ],
+                    [
+                        "trip",
+                        0.5665349133777364
+                    ],
+                    [
+                        "point",
+                        0.7983421720633723
+                    ],
+                    [
+                        "example",
+                        0.820373920170132
+                    ],
+                    [
+                        "job",
+                        0.8562839482210443
+                    ],
+                    [
+                        "time",
+                        0.8729924610998931
+                    ],
+                    [
+                        "today",
+                        0.8803220664407685
+                    ],
+                    [
+                        "positive",
+                        0.897508492233745
+                    ],
+                    [
+                        "right",
+                        0.9156989644617488
+                    ],
+                    [
+                        "brake",
+                        0.9159262318088027
+                    ],
+                    [
+                        "hour",
+                        0.9267977784256993
+                    ],
+                    [
+                        "delta",
+                        0.9267977784256993
+                    ],
+                    [
+                        "flat",
+                        0.9311813547351206
+                    ],
+                    [
+                        "bunch",
+                        0.9401355902447284
+                    ],
+                    [
+                        "number",
+                        0.9401355902447284
+                    ],
+                    [
+                        "trip meter",
+                        2.5411669844872082
+                    ],
+                    [
+                        "second example",
+                        2.6516316958150163
+                    ],
+                    [
+                        "positive speed",
+                        3.579187469786605
+                    ]
+                ],
+                "topTopicSimilarity": 0.3181818181818182,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.4334991345415237
+                    ],
+                    [
+                        "speed",
+                        0.4354391368384552
+                    ],
+                    [
+                        "distance",
+                        0.5432033413460674
+                    ],
+                    [
+                        "point",
+                        0.7983421720633723
+                    ],
+                    [
+                        "time",
+                        0.8729924610998931
+                    ],
+                    [
+                        "right",
+                        0.9156989644617488
+                    ],
+                    [
+                        "delta",
+                        0.9267977784256993
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-630": {
+            "id": "2qxY859dzzQ-630",
+            "heat": 0.0,
+            "start": 630.0,
+            "text": " it with letters. So now I move from arithmetic to algebra. Algebra just means I'll do it with any letters, but I'm not yet doing it continuously, which is what calculus will do. So with letters, I have here y0, y1, y2, y3, y4, let's say. So those are the y's. Now what are the slopes between them if the step across is 1? So what are the steps upward, what are the delta y's? Well, y1 minus y0, y2 minus y1, y3 minus y2, y4 minus y3. And then my question is these are the s's, these are the delta y's, you could say. These are the y's. What happens if I add all those delta y's? Do you see what happens? What happens if I add those four changes to get the total change? Well, when I add those, do you see that y1 will cancel minus y1, y2 will cancel minus y2, y3 will cancel minus y3.",
+            "metrics": {
+                "relativeDCReadability": 1.1930363000310624,
+                "lexicalDiversity": 0.46153846153846156,
+                "posComposition": {
+                    "PRP": 0.083,
+                    "IN": 0.059,
+                    "NNS": 0.041,
+                    "RB": 0.071,
+                    "VBP": 0.083,
+                    "JJ": 0.041,
+                    "TO": 0.012,
+                    "VB": 0.071,
+                    "NNP": 0.03,
+                    "VBZ": 0.041,
+                    "MD": 0.036,
+                    "DT": 0.107,
+                    "CC": 0.041,
+                    "VBG": 0.006,
+                    "WDT": 0.018,
+                    "WP": 0.03,
+                    "NN": 0.142,
+                    "VBN": 0.006,
+                    "POS": 0.041,
+                    "CD": 0.012,
+                    "PRP$": 0.006,
+                    "PDT": 0.006,
+                    "WRB": 0.006,
+                    "JJR": 0.012
+                },
+                "syllableRate": 1.742,
+                "topicScores": [
+                    [
+                        "minus",
+                        0.2860510528711115
+                    ],
+                    [
+                        "y",
+                        0.29522186608658507
+                    ],
+                    [
+                        "y3",
+                        0.34100298292040016
+                    ],
+                    [
+                        "y2",
+                        0.34161181422590803
+                    ],
+                    [
+                        "y1",
+                        0.34701518680653093
+                    ],
+                    [
+                        "letter",
+                        0.40651681007400836
+                    ],
+                    [
+                        "delta",
+                        0.427401166696443
+                    ],
+                    [
+                        "y4",
+                        0.5593704612801347
+                    ],
+                    [
+                        "step",
+                        0.5631635438269053
+                    ],
+                    [
+                        "y0",
+                        0.5637037217035571
+                    ],
+                    [
+                        "change",
+                        0.5838981565547439
+                    ],
+                    [
+                        "algebra",
+                        0.8589441419766195
+                    ],
+                    [
+                        "arithmetic",
+                        0.8871760366428068
+                    ],
+                    [
+                        "calculus",
+                        0.905271911877427
+                    ],
+                    [
+                        "slope",
+                        0.925723117598789
+                    ],
+                    [
+                        "question",
+                        0.933685379731016
+                    ],
+                    [
+                        "total",
+                        0.9344155304306285
+                    ],
+                    [
+                        "delta y",
+                        0.9381522994141029
+                    ],
+                    [
+                        "y3 minus",
+                        3.1058450828042474
+                    ],
+                    [
+                        "total change",
+                        6.394322018400286
+                    ],
+                    [
+                        "y3 minus y2",
+                        15.41667187711852
+                    ]
+                ],
+                "topTopicSimilarity": 0.2857142857142857,
+                "sharedTopicScores": [
+                    [
+                        "minus",
+                        0.2860510528711115
+                    ],
+                    [
+                        "y",
+                        0.29522186608658507
+                    ],
+                    [
+                        "delta",
+                        0.427401166696443
+                    ],
+                    [
+                        "step",
+                        0.5631635438269053
+                    ],
+                    [
+                        "change",
+                        0.5838981565547439
+                    ],
+                    [
+                        "slope",
+                        0.925723117598789
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-720": {
+            "id": "2qxY859dzzQ-720",
+            "heat": 0.0,
+            "start": 720.0,
+            "text": " So the sum-- and I use just a sigma symbol, but I'll just say sum and you know what I mean-- of these delta y's is what? What happened after all those cancellations? Did everything cancel? No way. y4 is still there, minus y0 is still there. So it was y4 minus y0. The last y minus the first y. I'll just write y last minus y 0, y first. y end minus y start is the sum of the delta y's. Simple algebra. Reminding us again and again and again that the opposite, the inverse to go the other way from two to one, we add pieces to get back to the y's. Now I'm coming closer to what I want, but I'm moving toward calculus now. So calculus, I got there by delta y's over delta x's.",
+            "metrics": {
+                "relativeDCReadability": 1.132721284121637,
+                "lexicalDiversity": 0.48,
+                "posComposition": {
+                    "IN": 0.067,
+                    "DT": 0.093,
+                    "NN": 0.193,
+                    ":": 0.013,
+                    "CC": 0.04,
+                    "PRP": 0.08,
+                    "VBP": 0.053,
+                    "RB": 0.087,
+                    "JJ": 0.087,
+                    "MD": 0.013,
+                    "VB": 0.027,
+                    "WP": 0.027,
+                    "POS": 0.033,
+                    "VBZ": 0.033,
+                    "VBD": 0.033,
+                    "NNS": 0.013,
+                    "EX": 0.013,
+                    "CD": 0.02,
+                    "NNP": 0.013,
+                    "VBG": 0.02,
+                    "TO": 0.033,
+                    "JJR": 0.007
+                },
+                "syllableRate": 1.592,
+                "topicScores": [
+                    [
+                        "y",
+                        0.2677900158171749
+                    ],
+                    [
+                        "delta",
+                        0.39353342514770223
+                    ],
+                    [
+                        "y0",
+                        0.56550022890991
+                    ],
+                    [
+                        "way",
+                        0.5777068594162257
+                    ],
+                    [
+                        "y4",
+                        0.5804828451331008
+                    ],
+                    [
+                        "calculus",
+                        0.581943164923388
+                    ],
+                    [
+                        "sum",
+                        0.5853750172897021
+                    ],
+                    [
+                        "sigma",
+                        0.8801781637522945
+                    ],
+                    [
+                        "symbol",
+                        0.8801781637522945
+                    ],
+                    [
+                        "cancellation",
+                        0.8915007948279946
+                    ],
+                    [
+                        "simple",
+                        0.9006728976154298
+                    ],
+                    [
+                        "algebra",
+                        0.9006728976154298
+                    ],
+                    [
+                        "mean--",
+                        0.9103736350549089
+                    ],
+                    [
+                        "end",
+                        0.932734669476317
+                    ],
+                    [
+                        "opposite",
+                        0.9352409074189308
+                    ],
+                    [
+                        "inverse",
+                        0.9352409074189308
+                    ],
+                    [
+                        "x",
+                        0.9371885978280647
+                    ],
+                    [
+                        "start",
+                        0.9403945698610662
+                    ],
+                    [
+                        "piece",
+                        0.9426329609770806
+                    ],
+                    [
+                        "delta y",
+                        2.7574349154929596
+                    ],
+                    [
+                        "sigma symbol",
+                        3.4387943513763206
+                    ],
+                    [
+                        "simple algebra",
+                        4.296937538719483
+                    ],
+                    [
+                        "y end",
+                        6.357624181864252
+                    ],
+                    [
+                        "y start",
+                        6.76293264481151
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "y",
+                        0.2677900158171749
+                    ],
+                    [
+                        "delta",
+                        0.39353342514770223
+                    ],
+                    [
+                        "way",
+                        0.5777068594162257
+                    ],
+                    [
+                        "sum",
+                        0.5853750172897021
+                    ],
+                    [
+                        "end",
+                        0.932734669476317
+                    ],
+                    [
+                        "x",
+                        0.9371885978280647
+                    ],
+                    [
+                        "start",
+                        0.9403945698610662
+                    ],
+                    [
+                        "piece",
+                        0.9426329609770806
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-810": {
+            "id": "2qxY859dzzQ-810",
+            "heat": 0.0,
+            "start": 810.0,
+            "text": " So in moving toward calculus, what am I doing? I'm thinking of the changes delta y over smaller steps delta x. So I just want to take this step. I want to divide by delta x and multiply by delta x. Why do I do that? That's because it's this delta y over delta x that is-- it's those ratios, whatever the size of delta x is. And it's going to get smaller and smaller. I'm going to look at the change over very short steps. Then it's that ratio that make sense. Delta y over delta x is a reasonable number. It's close to the s. It's close to dy dx, but it hasn't got there yet. I'm multiplying by the delta x, the small step that's going to 0 but hasn't got there yet. And I'm adding and I get the last one minus the first one. Now here comes the limiting step. So the limiting step will be the limit of this left hand",
+            "metrics": {
+                "relativeDCReadability": 1.0330947305077405,
+                "lexicalDiversity": 0.5,
+                "posComposition": {
+                    "RB": 0.077,
+                    "IN": 0.088,
+                    "VBG": 0.044,
+                    "NN": 0.137,
+                    "WP": 0.005,
+                    "VBP": 0.082,
+                    "PRP": 0.088,
+                    "DT": 0.093,
+                    "NNS": 0.022,
+                    "JJR": 0.016,
+                    "TO": 0.038,
+                    "VB": 0.038,
+                    "JJ": 0.077,
+                    "CC": 0.038,
+                    "NNP": 0.011,
+                    "WRB": 0.005,
+                    "VBZ": 0.077,
+                    "WDT": 0.016,
+                    ":": 0.005,
+                    "VBN": 0.011,
+                    "CD": 0.016,
+                    "VBD": 0.005,
+                    "MD": 0.005
+                },
+                "syllableRate": 1.95,
+                "topicScores": [
+                    [
+                        "delta",
+                        0.25892266004333325
+                    ],
+                    [
+                        "step",
+                        0.302628229270423
+                    ],
+                    [
+                        "x",
+                        0.33412117847098827
+                    ],
+                    [
+                        "small",
+                        0.3810068416540686
+                    ],
+                    [
+                        "y",
+                        0.42097000683352603
+                    ],
+                    [
+                        "limit",
+                        0.4448824672889379
+                    ],
+                    [
+                        "change",
+                        0.5547429106256229
+                    ],
+                    [
+                        "ratio",
+                        0.5585581196245002
+                    ],
+                    [
+                        "close",
+                        0.5618848377942719
+                    ],
+                    [
+                        "multiply",
+                        0.5651676820909425
+                    ],
+                    [
+                        "calculus",
+                        0.7978609316890101
+                    ],
+                    [
+                        "sense",
+                        0.8995684024996622
+                    ],
+                    [
+                        "number",
+                        0.903654068188443
+                    ],
+                    [
+                        "hand",
+                        0.9102932910331807
+                    ],
+                    [
+                        "short",
+                        0.9140634266295139
+                    ],
+                    [
+                        "size",
+                        0.9156230096675764
+                    ],
+                    [
+                        "reasonable",
+                        0.9197288312285645
+                    ],
+                    [
+                        "dy",
+                        0.9211290822562836
+                    ],
+                    [
+                        "dx",
+                        0.9211290822562836
+                    ],
+                    [
+                        "left",
+                        0.9253518431391938
+                    ],
+                    [
+                        "s.",
+                        0.9276290971392118
+                    ],
+                    [
+                        "delta x",
+                        1.2443241999871575
+                    ],
+                    [
+                        "small step",
+                        1.9090721424268255
+                    ],
+                    [
+                        "step delta",
+                        2.7139791737125845
+                    ],
+                    [
+                        "change delta",
+                        3.1027297746955633
+                    ],
+                    [
+                        "short step",
+                        3.4757636159768026
+                    ],
+                    [
+                        "reasonable number",
+                        4.921248577104641
+                    ],
+                    [
+                        "left hand",
+                        5.342826257527518
+                    ],
+                    [
+                        "dy dx",
+                        5.599735936492398
+                    ],
+                    [
+                        "small step delta",
+                        13.01635069906638
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "delta",
+                        0.25892266004333325
+                    ],
+                    [
+                        "step",
+                        0.302628229270423
+                    ],
+                    [
+                        "x",
+                        0.33412117847098827
+                    ],
+                    [
+                        "small",
+                        0.3810068416540686
+                    ],
+                    [
+                        "y",
+                        0.42097000683352603
+                    ],
+                    [
+                        "limit",
+                        0.4448824672889379
+                    ],
+                    [
+                        "change",
+                        0.5547429106256229
+                    ],
+                    [
+                        "dx",
+                        0.9211290822562836
+                    ],
+                    [
+                        "delta x",
+                        1.2443241999871575
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-900": {
+            "id": "2qxY859dzzQ-900",
+            "heat": 0.0,
+            "start": 900.0,
+            "text": " side, this sum. So in the limit, I'll have more and more and more things. As delta x gets smaller, if I'm thinking of some fixed total change in x, I'm chopping that up into smaller and smaller pieces, more and more pieces. So more and more pieces of the slopes at different points along times the size of the piece give this answer. So now can I jump to the way that I would write this in the limit? So now let delta x go to 0. And I ask the right hand side, y last minus y first is not changing. y at the end-- I'll write something different, y end minus y start, just to make that same point again. But it's this that's changing. As delta x goes to 0, this becomes dy dx.",
+            "metrics": {
+                "relativeDCReadability": 0.9585464669699861,
+                "lexicalDiversity": 0.4827586206896552,
+                "posComposition": {
+                    "NN": 0.172,
+                    "DT": 0.103,
+                    "RB": 0.069,
+                    "IN": 0.103,
+                    "PRP": 0.055,
+                    "MD": 0.028,
+                    "VB": 0.048,
+                    "JJR": 0.062,
+                    "CC": 0.048,
+                    "NNS": 0.048,
+                    "JJ": 0.083,
+                    "NNP": 0.014,
+                    "VBZ": 0.041,
+                    "VBP": 0.028,
+                    "VBG": 0.028,
+                    "RP": 0.007,
+                    "RBR": 0.007,
+                    "TO": 0.028,
+                    "CD": 0.014,
+                    ":": 0.007,
+                    "WDT": 0.007
+                },
+                "syllableRate": 1.442,
+                "topicScores": [
+                    [
+                        "y",
+                        0.3593141346061661
+                    ],
+                    [
+                        "piece",
+                        0.38647124331483396
+                    ],
+                    [
+                        "x",
+                        0.38726564953299775
+                    ],
+                    [
+                        "delta",
+                        0.4367502233212322
+                    ],
+                    [
+                        "change",
+                        0.4503929842164351
+                    ],
+                    [
+                        "small",
+                        0.45850503590100283
+                    ],
+                    [
+                        "limit",
+                        0.5299752240820637
+                    ],
+                    [
+                        "different",
+                        0.5812155786365005
+                    ],
+                    [
+                        "point",
+                        0.5812155786365005
+                    ],
+                    [
+                        "sum",
+                        0.7429054465301611
+                    ],
+                    [
+                        "thing",
+                        0.8380710462235897
+                    ],
+                    [
+                        "answer",
+                        0.876409586660464
+                    ],
+                    [
+                        "dx",
+                        0.9071483223761228
+                    ],
+                    [
+                        "total",
+                        0.9076474259311921
+                    ],
+                    [
+                        "slope",
+                        0.9172189976769405
+                    ],
+                    [
+                        "time",
+                        0.9172189976769405
+                    ],
+                    [
+                        "size",
+                        0.9172189976769405
+                    ],
+                    [
+                        "hand",
+                        0.9214157839506367
+                    ],
+                    [
+                        "way",
+                        0.9233302024555724
+                    ],
+                    [
+                        "start",
+                        0.9265430525085019
+                    ],
+                    [
+                        "right",
+                        0.930843960143044
+                    ],
+                    [
+                        "delta x",
+                        1.8305048849033094
+                    ],
+                    [
+                        "total change",
+                        4.482337884249727
+                    ],
+                    [
+                        "small piece",
+                        4.646104179850527
+                    ],
+                    [
+                        "different point",
+                        5.605825350891839
+                    ],
+                    [
+                        "right hand",
+                        6.027126259629255
+                    ],
+                    [
+                        "y start",
+                        6.172868153746944
+                    ]
+                ],
+                "topTopicSimilarity": 0.6296296296296297,
+                "sharedTopicScores": [
+                    [
+                        "y",
+                        0.3593141346061661
+                    ],
+                    [
+                        "piece",
+                        0.38647124331483396
+                    ],
+                    [
+                        "x",
+                        0.38726564953299775
+                    ],
+                    [
+                        "delta",
+                        0.4367502233212322
+                    ],
+                    [
+                        "change",
+                        0.4503929842164351
+                    ],
+                    [
+                        "small",
+                        0.45850503590100283
+                    ],
+                    [
+                        "limit",
+                        0.5299752240820637
+                    ],
+                    [
+                        "point",
+                        0.5812155786365005
+                    ],
+                    [
+                        "sum",
+                        0.7429054465301611
+                    ],
+                    [
+                        "thing",
+                        0.8380710462235897
+                    ],
+                    [
+                        "dx",
+                        0.9071483223761228
+                    ],
+                    [
+                        "slope",
+                        0.9172189976769405
+                    ],
+                    [
+                        "time",
+                        0.9172189976769405
+                    ],
+                    [
+                        "way",
+                        0.9233302024555724
+                    ],
+                    [
+                        "start",
+                        0.9265430525085019
+                    ],
+                    [
+                        "right",
+                        0.930843960143044
+                    ],
+                    [
+                        "delta x",
+                        1.8305048849033094
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-990": {
+            "id": "2qxY859dzzQ-990",
+            "heat": 0.0,
+            "start": 990.0,
+            "text": " The little delta x's are going to 0. Here's the way I write it. So in that limit, I can't legally write that sigma, so this integral symbol is kind of copied from that sigma. But it's telling you that a limit has happened. And in that limit, this is dy dx and this, the notation, is dx. I've got what I predicted here, with s of x there. So what I hope this discussion has, by starting with numbers, by going to algebra, by looking at the sum of those things, which was simple, and then by going to the limit, which was not simple. So a whole lot of limit has been not fully explained, and I think the right thing to do now is to do an example. So let me move to an example. So I'll take a particular function and follow this",
+            "metrics": {
+                "relativeDCReadability": 0.9680092661436847,
+                "lexicalDiversity": 0.4117647058823529,
+                "posComposition": {
+                    "DT": 0.137,
+                    "JJ": 0.065,
+                    "NN": 0.144,
+                    "POS": 0.007,
+                    "VBP": 0.033,
+                    "VBG": 0.039,
+                    "TO": 0.039,
+                    "CD": 0.007,
+                    "RB": 0.078,
+                    "VBZ": 0.059,
+                    "PRP": 0.072,
+                    "IN": 0.111,
+                    "MD": 0.013,
+                    "VB": 0.052,
+                    "VBN": 0.026,
+                    "CC": 0.039,
+                    "VBD": 0.026,
+                    "WP": 0.013,
+                    "EX": 0.007,
+                    "NNS": 0.013,
+                    "WDT": 0.013,
+                    "NNP": 0.007
+                },
+                "syllableRate": 1.642,
+                "topicScores": [
+                    [
+                        "limit",
+                        0.3304893681920731
+                    ],
+                    [
+                        "example",
+                        0.5168462359257282
+                    ],
+                    [
+                        "sigma",
+                        0.5257069248489276
+                    ],
+                    [
+                        "dx",
+                        0.5410911987928405
+                    ],
+                    [
+                        "simple",
+                        0.5504792713727421
+                    ],
+                    [
+                        "thing",
+                        0.5624804275625445
+                    ],
+                    [
+                        "little",
+                        0.7832831430914584
+                    ],
+                    [
+                        "delta",
+                        0.8010766389910849
+                    ],
+                    [
+                        "way",
+                        0.8583721112363855
+                    ],
+                    [
+                        "notation",
+                        0.8784283004049221
+                    ],
+                    [
+                        "integral",
+                        0.8804653948916739
+                    ],
+                    [
+                        "symbol",
+                        0.8804653948916739
+                    ],
+                    [
+                        "discussion",
+                        0.9005359760496341
+                    ],
+                    [
+                        "number",
+                        0.9005359760496341
+                    ],
+                    [
+                        "algebra",
+                        0.9005359760496341
+                    ],
+                    [
+                        "sum",
+                        0.9098109286029195
+                    ],
+                    [
+                        "lot",
+                        0.9130234824052481
+                    ],
+                    [
+                        "right",
+                        0.9130234824052481
+                    ],
+                    [
+                        "particular",
+                        0.917787893338312
+                    ],
+                    [
+                        "function",
+                        0.917787893338312
+                    ],
+                    [
+                        "little delta",
+                        1.6843463273894288
+                    ],
+                    [
+                        "delta x",
+                        2.2362748463144877
+                    ],
+                    [
+                        "integral symbol",
+                        3.4487807521448612
+                    ],
+                    [
+                        "right thing",
+                        4.375474657407854
+                    ],
+                    [
+                        "particular function",
+                        5.342546359745389
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "limit",
+                        0.3304893681920731
+                    ],
+                    [
+                        "dx",
+                        0.5410911987928405
+                    ],
+                    [
+                        "thing",
+                        0.5624804275625445
+                    ],
+                    [
+                        "little",
+                        0.7832831430914584
+                    ],
+                    [
+                        "delta",
+                        0.8010766389910849
+                    ],
+                    [
+                        "way",
+                        0.8583721112363855
+                    ],
+                    [
+                        "sum",
+                        0.9098109286029195
+                    ],
+                    [
+                        "right",
+                        0.9130234824052481
+                    ],
+                    [
+                        "function",
+                        0.917787893338312
+                    ],
+                    [
+                        "delta x",
+                        2.2362748463144877
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1080": {
+            "id": "2qxY859dzzQ-1080",
+            "heat": 0.0,
+            "start": 1080.0,
+            "text": " process, this limiting process and see what it gives. And it will give us function one and, as a bonus, it will give us a new meaning for function one. Let's do it. So now I'm going to take a particular s of x. So here's x. Let me take s of x to be 2 minus 2x. I didn't want to take one totally simple that I already had started the lecture with, but it's not difficult either. We'll be able to see what's happening here. OK, so let me graph it, because I want to do this now with the graph. So at x equal 1, s of x has dropped to 0, where when x was 0, it started at 2. So it started somewhere here. Here was 1, halfway down. It's going to come down in a straight line. And let me stop there. It could continue, but let me call y end is going to be 0 and y start is going to be-- well, we'll see about that, sorry. s at the end is 0.",
+            "metrics": {
+                "relativeDCReadability": 0.9669550032792305,
+                "lexicalDiversity": 0.4712041884816754,
+                "posComposition": {
+                    "NN": 0.094,
+                    "DT": 0.052,
+                    "CC": 0.047,
+                    "VB": 0.131,
+                    "WP": 0.01,
+                    "PRP": 0.115,
+                    "VBZ": 0.047,
+                    "MD": 0.026,
+                    "CD": 0.063,
+                    "IN": 0.084,
+                    "JJ": 0.058,
+                    "NNP": 0.031,
+                    "POS": 0.005,
+                    "RB": 0.084,
+                    "VBP": 0.01,
+                    "VBG": 0.026,
+                    "TO": 0.047,
+                    "VBD": 0.031,
+                    "VBN": 0.01,
+                    "WRB": 0.01,
+                    "RP": 0.005,
+                    "EX": 0.005,
+                    ":": 0.005
+                },
+                "syllableRate": 1.925,
+                "topicScores": [
+                    [
+                        "s",
+                        0.38289032108345233
+                    ],
+                    [
+                        "process",
+                        0.5022568657758193
+                    ],
+                    [
+                        "function",
+                        0.5413866274550266
+                    ],
+                    [
+                        "x.",
+                        0.561365088934704
+                    ],
+                    [
+                        "graph",
+                        0.574470250043605
+                    ],
+                    [
+                        "y",
+                        0.5778335100825726
+                    ],
+                    [
+                        "end",
+                        0.5820898463124544
+                    ],
+                    [
+                        "bonus",
+                        0.8758958923602403
+                    ],
+                    [
+                        "new",
+                        0.8866241783506799
+                    ],
+                    [
+                        "meaning",
+                        0.8866241783506799
+                    ],
+                    [
+                        "2x",
+                        0.8937775978657435
+                    ],
+                    [
+                        "sorry",
+                        0.9104429551814208
+                    ],
+                    [
+                        "particular",
+                        0.9146380848175577
+                    ],
+                    [
+                        "line",
+                        0.9159513578815046
+                    ],
+                    [
+                        "lecture",
+                        0.9179404410067874
+                    ],
+                    [
+                        "difficult",
+                        0.9179404410067874
+                    ],
+                    [
+                        "simple",
+                        0.9253439392752494
+                    ],
+                    [
+                        "equal",
+                        0.9266708974215656
+                    ],
+                    [
+                        "able",
+                        0.9286547986371185
+                    ],
+                    [
+                        "straight",
+                        0.9315673746331562
+                    ],
+                    [
+                        "new meaning",
+                        3.675135005034775
+                    ],
+                    [
+                        "y end",
+                        5.449509797892768
+                    ],
+                    [
+                        "straight line",
+                        5.815257534604579
+                    ]
+                ],
+                "topTopicSimilarity": 0.21739130434782608,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.5413866274550266
+                    ],
+                    [
+                        "graph",
+                        0.574470250043605
+                    ],
+                    [
+                        "y",
+                        0.5778335100825726
+                    ],
+                    [
+                        "end",
+                        0.5820898463124544
+                    ],
+                    [
+                        "equal",
+                        0.9266708974215656
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1170": {
+            "id": "2qxY859dzzQ-1170",
+            "heat": 0.0,
+            "start": 1170.0,
+            "text": " S at the end is 0. I don't yet know what y at the end is. It's not 0. So what's my idea? Well, not mine. Newton and Leibniz and a lot of people had these ideas. It's kind of interesting. So Archimedes. He goes way, way back, before Newton or Leibniz or anybody conceived of them. Archimedes figured out how to deal with a curve with a parabola. Archimedes got from a parabola, he got from x squared, the parabola, back to a height by special ideas. He was one of the great mathematicians of all time. But even Archimedes didn't see what you now see, this connection between function one and function two. If he had seen that, he would have gone further. All right, now let's see it. Let me take a delta x equal to 1/4. So this is delta x here, and this one is two delta x's, and",
+            "metrics": {
+                "relativeDCReadability": 0.8987472291778604,
+                "lexicalDiversity": 0.4906832298136646,
+                "posComposition": {
+                    "NN": 0.149,
+                    "IN": 0.106,
+                    "DT": 0.093,
+                    "VBZ": 0.05,
+                    "CD": 0.05,
+                    "PRP": 0.081,
+                    "VBP": 0.019,
+                    "RB": 0.099,
+                    "VB": 0.05,
+                    "WP": 0.019,
+                    "PRP$": 0.006,
+                    "NNP": 0.062,
+                    "CC": 0.05,
+                    "NNS": 0.025,
+                    "VBD": 0.05,
+                    "VBG": 0.006,
+                    "VBN": 0.019,
+                    "RP": 0.006,
+                    "WRB": 0.006,
+                    "TO": 0.019,
+                    "JJ": 0.025,
+                    "MD": 0.006,
+                    "POS": 0.006
+                },
+                "syllableRate": 1.817,
+                "topicScores": [
+                    [
+                        "x",
+                        0.39020227822835835
+                    ],
+                    [
+                        "S",
+                        0.39417284177390494
+                    ],
+                    [
+                        "Leibniz",
+                        0.4078595127190132
+                    ],
+                    [
+                        "Archimedes",
+                        0.4107391982769239
+                    ],
+                    [
+                        "idea",
+                        0.4199920466009049
+                    ],
+                    [
+                        "parabola",
+                        0.44256900802934795
+                    ],
+                    [
+                        "Newton",
+                        0.45423032901389476
+                    ],
+                    [
+                        "delta",
+                        0.45439625428641917
+                    ],
+                    [
+                        "end",
+                        0.4804105081037514
+                    ],
+                    [
+                        "way",
+                        0.5708618968318997
+                    ],
+                    [
+                        "function",
+                        0.5833004857462544
+                    ],
+                    [
+                        "interesting",
+                        0.8985629057961848
+                    ],
+                    [
+                        "time",
+                        0.9112307852022894
+                    ],
+                    [
+                        "lot",
+                        0.919880611781039
+                    ],
+                    [
+                        "people",
+                        0.919880611781039
+                    ],
+                    [
+                        "special",
+                        0.9253901127327181
+                    ],
+                    [
+                        "connection",
+                        0.9281489213479359
+                    ],
+                    [
+                        "curve",
+                        0.9302797421705253
+                    ],
+                    [
+                        "height",
+                        0.9318539363215604
+                    ],
+                    [
+                        "great",
+                        0.9332088007597344
+                    ],
+                    [
+                        "mathematician",
+                        0.9332088007597344
+                    ],
+                    [
+                        "equal",
+                        0.9371964699600064
+                    ],
+                    [
+                        "delta x",
+                        2.941429077842244
+                    ],
+                    [
+                        "special idea",
+                        3.4906073834365015
+                    ],
+                    [
+                        "great mathematician",
+                        6.744653556402276
+                    ]
+                ],
+                "topTopicSimilarity": 0.36,
+                "sharedTopicScores": [
+                    [
+                        "x",
+                        0.39020227822835835
+                    ],
+                    [
+                        "delta",
+                        0.45439625428641917
+                    ],
+                    [
+                        "end",
+                        0.4804105081037514
+                    ],
+                    [
+                        "way",
+                        0.5708618968318997
+                    ],
+                    [
+                        "function",
+                        0.5833004857462544
+                    ],
+                    [
+                        "time",
+                        0.9112307852022894
+                    ],
+                    [
+                        "height",
+                        0.9318539363215604
+                    ],
+                    [
+                        "equal",
+                        0.9371964699600064
+                    ],
+                    [
+                        "delta x",
+                        2.941429077842244
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1260": {
+            "id": "2qxY859dzzQ-1260",
+            "heat": 0.0,
+            "start": 1260.0,
+            "text": " this one is three delta x's, and the one is four delta x's in my original delta x, which is 1/4, which is small but not really small. So now what do I do? Look at this first period. The slope, the s function, function two-- see, over here is going to be function one. This is going to be the y, the integral of that. But I don't know what it is yet, so it's pretty open to question. OK, so now let's get there. So the point is that over this interval, the slope is changing. It's changing a significant amount. Not too much, but it's changing. And I don't know, from the algebra, I don't know how to deal with that. I'm just going to take a value within this sum value and stay with it within that interval, and I'll take the starting value. So over this first delta x, I'm going to pretend that the slope stays at 2. So I'm pretending that this is my slope function.",
+            "metrics": {
+                "relativeDCReadability": 0.9573318803295429,
+                "lexicalDiversity": 0.45989304812834225,
+                "posComposition": {
+                    "DT": 0.118,
+                    "CD": 0.043,
+                    "VBZ": 0.075,
+                    "NN": 0.134,
+                    "NNP": 0.011,
+                    "POS": 0.016,
+                    "CC": 0.037,
+                    "IN": 0.091,
+                    "PRP$": 0.011,
+                    "JJ": 0.064,
+                    "WDT": 0.011,
+                    "RB": 0.091,
+                    "WP": 0.011,
+                    "VBP": 0.048,
+                    "PRP": 0.07,
+                    "VB": 0.075,
+                    ":": 0.005,
+                    "VBG": 0.048,
+                    "TO": 0.032,
+                    "WRB": 0.005,
+                    "MD": 0.005
+                },
+                "syllableRate": 1.967,
+                "topicScores": [
+                    [
+                        "delta",
+                        0.35835522387847984
+                    ],
+                    [
+                        "x",
+                        0.3634355020711892
+                    ],
+                    [
+                        "slope",
+                        0.37592039120909254
+                    ],
+                    [
+                        "function",
+                        0.37790352047228326
+                    ],
+                    [
+                        "value",
+                        0.45877775290408573
+                    ],
+                    [
+                        "small",
+                        0.5331284872810381
+                    ],
+                    [
+                        "interval",
+                        0.5689076133780558
+                    ],
+                    [
+                        "original",
+                        0.8760604800272628
+                    ],
+                    [
+                        "two--",
+                        0.8813400208931667
+                    ],
+                    [
+                        "period",
+                        0.8823515950600698
+                    ],
+                    [
+                        "question",
+                        0.9045869895929551
+                    ],
+                    [
+                        "y",
+                        0.9155597465160565
+                    ],
+                    [
+                        "integral",
+                        0.9155597465160565
+                    ],
+                    [
+                        "open",
+                        0.9244867283423682
+                    ],
+                    [
+                        "significant",
+                        0.9247950333284192
+                    ],
+                    [
+                        "algebra",
+                        0.9275741237240582
+                    ],
+                    [
+                        "point",
+                        0.9286722600150266
+                    ],
+                    [
+                        "starting",
+                        0.9287168955853383
+                    ],
+                    [
+                        "sum",
+                        0.9339362876132138
+                    ],
+                    [
+                        "delta x",
+                        1.0153430750098609
+                    ],
+                    [
+                        "original delta",
+                        2.6893300529614503
+                    ],
+                    [
+                        "slope function",
+                        3.2717523047512636
+                    ],
+                    [
+                        "function two--",
+                        3.411988802743896
+                    ],
+                    [
+                        "starting value",
+                        5.763579786645708
+                    ],
+                    [
+                        "sum value",
+                        5.989995076157313
+                    ]
+                ],
+                "topTopicSimilarity": 0.36,
+                "sharedTopicScores": [
+                    [
+                        "delta",
+                        0.35835522387847984
+                    ],
+                    [
+                        "x",
+                        0.3634355020711892
+                    ],
+                    [
+                        "slope",
+                        0.37592039120909254
+                    ],
+                    [
+                        "function",
+                        0.37790352047228326
+                    ],
+                    [
+                        "small",
+                        0.5331284872810381
+                    ],
+                    [
+                        "y",
+                        0.9155597465160565
+                    ],
+                    [
+                        "point",
+                        0.9286722600150266
+                    ],
+                    [
+                        "sum",
+                        0.9339362876132138
+                    ],
+                    [
+                        "delta x",
+                        1.0153430750098609
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1350": {
+            "id": "2qxY859dzzQ-1350",
+            "heat": 0.0,
+            "start": 1350.0,
+            "text": " Then over my next delta x, I'm going to pretend that it stays at probably 1 1/2. And then I'm going to pretend that it stays at 1, and I'm going to pretend that it stays at 1/2. If you allow me to go back to distance and speed, I'm chopping up the full time, the day, let's say, into four pieces and in each piece, the speed is changing, which I'm not ready to deal with, which algebra isn't ready to deal with. So the best I could do was say OK, so suppose the speed is constant at what it was at the start of that short time. So those would be delta t's rather than delta x's. The s would be representing speed, but no difference in the picture. So now let me do these things. Now I'm going to do this addition, which won't give me exactly the right y because those rectangles are not exactly right. But I'll get them better by taking smaller delta x's.",
+            "metrics": {
+                "relativeDCReadability": 0.9128195170978352,
+                "lexicalDiversity": 0.4782608695652174,
+                "posComposition": {
+                    "RB": 0.087,
+                    "IN": 0.103,
+                    "PRP$": 0.005,
+                    "JJ": 0.038,
+                    "NN": 0.12,
+                    "PRP": 0.092,
+                    "VBP": 0.043,
+                    "VBG": 0.043,
+                    "TO": 0.043,
+                    "VB": 0.098,
+                    "VBZ": 0.033,
+                    "CD": 0.027,
+                    "CC": 0.033,
+                    "RP": 0.005,
+                    "DT": 0.087,
+                    "POS": 0.022,
+                    "NNS": 0.016,
+                    "WDT": 0.016,
+                    "NNP": 0.022,
+                    "JJS": 0.005,
+                    "MD": 0.027,
+                    "VBD": 0.016,
+                    "WP": 0.005,
+                    "JJR": 0.011
+                },
+                "syllableRate": 1.917,
+                "topicScores": [
+                    [
+                        "speed",
+                        0.3630643248166033
+                    ],
+                    [
+                        "delta",
+                        0.3639854930010908
+                    ],
+                    [
+                        "x",
+                        0.40189572495899745
+                    ],
+                    [
+                        "ready",
+                        0.5078507626460009
+                    ],
+                    [
+                        "time",
+                        0.5243561937753788
+                    ],
+                    [
+                        "piece",
+                        0.5462095347204097
+                    ],
+                    [
+                        "right",
+                        0.556197130635502
+                    ],
+                    [
+                        "day",
+                        0.8494345766590817
+                    ],
+                    [
+                        "algebra",
+                        0.8627484356273281
+                    ],
+                    [
+                        "picture",
+                        0.867772656096023
+                    ],
+                    [
+                        "thing",
+                        0.8732870738252643
+                    ],
+                    [
+                        "distance",
+                        0.8744503543395132
+                    ],
+                    [
+                        "short",
+                        0.8763394184380378
+                    ],
+                    [
+                        "good",
+                        0.8870343083353687
+                    ],
+                    [
+                        "constant",
+                        0.8870343083353687
+                    ],
+                    [
+                        "start",
+                        0.8870343083353687
+                    ],
+                    [
+                        "addition",
+                        0.8995817877805783
+                    ],
+                    [
+                        "difference",
+                        0.9008267720557851
+                    ],
+                    [
+                        "rectangle",
+                        0.9084764771896496
+                    ],
+                    [
+                        "well",
+                        0.9112018480607417
+                    ],
+                    [
+                        "small",
+                        0.9112018480607417
+                    ],
+                    [
+                        "delta x",
+                        1.059200588884441
+                    ],
+                    [
+                        "short time",
+                        2.6806988123724054
+                    ],
+                    [
+                        "small delta",
+                        3.3497276588495737
+                    ],
+                    [
+                        "right y",
+                        4.021816971133981
+                    ]
+                ],
+                "topTopicSimilarity": 0.44,
+                "sharedTopicScores": [
+                    [
+                        "speed",
+                        0.3630643248166033
+                    ],
+                    [
+                        "delta",
+                        0.3639854930010908
+                    ],
+                    [
+                        "x",
+                        0.40189572495899745
+                    ],
+                    [
+                        "time",
+                        0.5243561937753788
+                    ],
+                    [
+                        "piece",
+                        0.5462095347204097
+                    ],
+                    [
+                        "right",
+                        0.556197130635502
+                    ],
+                    [
+                        "thing",
+                        0.8732870738252643
+                    ],
+                    [
+                        "distance",
+                        0.8744503543395132
+                    ],
+                    [
+                        "start",
+                        0.8870343083353687
+                    ],
+                    [
+                        "small",
+                        0.9112018480607417
+                    ],
+                    [
+                        "delta x",
+                        1.059200588884441
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1440": {
+            "id": "2qxY859dzzQ-1440",
+            "heat": 0.0,
+            "start": 1440.0,
+            "text": " Let me see, what do I have here? Over this first time, I have my slope, which I'm taking to b 2. So that's the delta y over delta x, that's the s, and then times the delta x. And what is that? We might as well just face it, that that 2 times that delta x, we can think of that as the area in that tall, thin rectangle. Well, I've introduced the word area for the first time. It never showed up on the previous board. It's the extra insight that's coming today. Now over the second short period, I'm going to keep fix my speed at 1 1/2. 1 1/2 times delta x, because my speed I'm setting at 1 1/2, and this is how long I go so this is a distance or a change in height, a change in y. And you see what's coming. The next one will be a 1 times the delta x, and the last will be 1/2 times the delta x.",
+            "metrics": {
+                "relativeDCReadability": 1.0181012494074024,
+                "lexicalDiversity": 0.4777777777777778,
+                "posComposition": {
+                    "VB": 0.044,
+                    "PRP": 0.078,
+                    "WP": 0.017,
+                    "VBP": 0.061,
+                    "RB": 0.044,
+                    "IN": 0.083,
+                    "DT": 0.133,
+                    "JJ": 0.072,
+                    "NN": 0.167,
+                    "PRP$": 0.017,
+                    "WDT": 0.028,
+                    "VBG": 0.028,
+                    "TO": 0.011,
+                    "CD": 0.056,
+                    "NNP": 0.011,
+                    "VBZ": 0.05,
+                    "CC": 0.033,
+                    "MD": 0.022,
+                    "NNS": 0.022,
+                    "VBN": 0.006,
+                    "VBD": 0.006,
+                    "RP": 0.006,
+                    "WRB": 0.006
+                },
+                "syllableRate": 1.783,
+                "topicScores": [
+                    [
+                        "delta",
+                        0.2727942191891846
+                    ],
+                    [
+                        "time",
+                        0.28630271816747643
+                    ],
+                    [
+                        "x",
+                        0.36948230218391603
+                    ],
+                    [
+                        "area",
+                        0.5577522419115701
+                    ],
+                    [
+                        "change",
+                        0.5644467983770641
+                    ],
+                    [
+                        "speed",
+                        0.5678120922691245
+                    ],
+                    [
+                        "slope",
+                        0.8562224620803852
+                    ],
+                    [
+                        "b",
+                        0.8562224620803852
+                    ],
+                    [
+                        "rectangle",
+                        0.8628078185625968
+                    ],
+                    [
+                        "board",
+                        0.8880828020428743
+                    ],
+                    [
+                        "thin",
+                        0.888387534678063
+                    ],
+                    [
+                        "y",
+                        0.8891274963895586
+                    ],
+                    [
+                        "today",
+                        0.8919774233670048
+                    ],
+                    [
+                        "tall",
+                        0.8986678498201339
+                    ],
+                    [
+                        "previous",
+                        0.908358671636821
+                    ],
+                    [
+                        "word",
+                        0.9127281669999925
+                    ],
+                    [
+                        "short",
+                        0.9142585839777976
+                    ],
+                    [
+                        "period",
+                        0.9142585839777976
+                    ],
+                    [
+                        "height",
+                        0.9164522889917598
+                    ],
+                    [
+                        "extra",
+                        0.9195418536654686
+                    ],
+                    [
+                        "insight",
+                        0.9195418536654686
+                    ],
+                    [
+                        "second",
+                        0.9219660245434977
+                    ],
+                    [
+                        "distance",
+                        0.9239789306476162
+                    ],
+                    [
+                        "delta x",
+                        1.0150307671797523
+                    ],
+                    [
+                        "time delta",
+                        2.366046118886847
+                    ],
+                    [
+                        "thin rectangle",
+                        3.2827966763738643
+                    ],
+                    [
+                        "previous board",
+                        4.173244572490294
+                    ],
+                    [
+                        "word area",
+                        4.177769862044945
+                    ],
+                    [
+                        "short period",
+                        5.092685281072053
+                    ],
+                    [
+                        "second short",
+                        5.365994469911748
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "delta",
+                        0.2727942191891846
+                    ],
+                    [
+                        "time",
+                        0.28630271816747643
+                    ],
+                    [
+                        "x",
+                        0.36948230218391603
+                    ],
+                    [
+                        "area",
+                        0.5577522419115701
+                    ],
+                    [
+                        "change",
+                        0.5644467983770641
+                    ],
+                    [
+                        "speed",
+                        0.5678120922691245
+                    ],
+                    [
+                        "slope",
+                        0.8562224620803852
+                    ],
+                    [
+                        "y",
+                        0.8891274963895586
+                    ],
+                    [
+                        "height",
+                        0.9164522889917598
+                    ],
+                    [
+                        "distance",
+                        0.9239789306476162
+                    ],
+                    [
+                        "delta x",
+                        1.0150307671797523
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1530": {
+            "id": "2qxY859dzzQ-1530",
+            "heat": 0.0,
+            "start": 1530.0,
+            "text": " This is adding the way I did in the algebra. And what do I get? Well, this, again, is the area of that piece. This one is the area of that piece, this one is the area of that piece. I get an overestimate because the true slopes dropped a little within each piece. I get some quantity which I can figure out, but it's not the right answer. It's not the final answer. And what is now the main step to get there? Chop delta x into half, you could say. Why not cut it in half? Now I'll have a different picture. Can you see what this picture is doing? Now over the first little half of the old step I am up here, but then I drop to here. Can I do this with an eraser? A little bit got chopped away, a little bit got chopped away. Where has it gone? I'm going to have this zig zag. That wasn't too bad.",
+            "metrics": {
+                "relativeDCReadability": 0.8403880980640354,
+                "lexicalDiversity": 0.4093567251461988,
+                "posComposition": {
+                    "DT": 0.17,
+                    "VBZ": 0.058,
+                    "VBG": 0.018,
+                    "NN": 0.152,
+                    "PRP": 0.094,
+                    "VBD": 0.029,
+                    "IN": 0.064,
+                    "CC": 0.023,
+                    "WP": 0.018,
+                    "VBP": 0.041,
+                    "VB": 0.053,
+                    "RB": 0.094,
+                    "CD": 0.012,
+                    "JJ": 0.064,
+                    "NNS": 0.006,
+                    "WDT": 0.012,
+                    "MD": 0.023,
+                    "RP": 0.012,
+                    "TO": 0.018,
+                    "NNP": 0.018,
+                    "WRB": 0.006,
+                    "VBN": 0.018
+                },
+                "syllableRate": 1.75,
+                "topicScores": [
+                    [
+                        "piece",
+                        0.3540207060331152
+                    ],
+                    [
+                        "little",
+                        0.3892939743442741
+                    ],
+                    [
+                        "area",
+                        0.39374573515529465
+                    ],
+                    [
+                        "half",
+                        0.45846363097385856
+                    ],
+                    [
+                        "answer",
+                        0.5318685321689276
+                    ],
+                    [
+                        "bit",
+                        0.566792350679924
+                    ],
+                    [
+                        "picture",
+                        0.5792229904636021
+                    ],
+                    [
+                        "step",
+                        0.5802576486994089
+                    ],
+                    [
+                        "algebra",
+                        0.783809346786837
+                    ],
+                    [
+                        "way",
+                        0.8392486481171664
+                    ],
+                    [
+                        "Chop",
+                        0.9071495514143523
+                    ],
+                    [
+                        "eraser",
+                        0.9160577166611114
+                    ],
+                    [
+                        "right",
+                        0.9174118102119992
+                    ],
+                    [
+                        "zag",
+                        0.9192659422780933
+                    ],
+                    [
+                        "bad",
+                        0.9201424620504854
+                    ],
+                    [
+                        "final",
+                        0.9210444294874597
+                    ],
+                    [
+                        "overestimate",
+                        0.9212673695650389
+                    ],
+                    [
+                        "true",
+                        0.9212673695650389
+                    ],
+                    [
+                        "slope",
+                        0.9212673695650389
+                    ],
+                    [
+                        "quantity",
+                        0.9256702362002533
+                    ],
+                    [
+                        "delta",
+                        0.926193986486485
+                    ],
+                    [
+                        "different",
+                        0.9297258955919494
+                    ],
+                    [
+                        "main",
+                        0.9315492588940731
+                    ],
+                    [
+                        "zig",
+                        0.9360005295794757
+                    ],
+                    [
+                        "old",
+                        0.9392010744314653
+                    ],
+                    [
+                        "little bit",
+                        2.725526573410491
+                    ],
+                    [
+                        "right answer",
+                        3.412488653346613
+                    ],
+                    [
+                        "final answer",
+                        3.4729278474821315
+                    ],
+                    [
+                        "little half",
+                        4.841876305757416
+                    ],
+                    [
+                        "Chop delta",
+                        5.257683628406459
+                    ]
+                ],
+                "topTopicSimilarity": 0.26666666666666666,
+                "sharedTopicScores": [
+                    [
+                        "piece",
+                        0.3540207060331152
+                    ],
+                    [
+                        "little",
+                        0.3892939743442741
+                    ],
+                    [
+                        "area",
+                        0.39374573515529465
+                    ],
+                    [
+                        "step",
+                        0.5802576486994089
+                    ],
+                    [
+                        "way",
+                        0.8392486481171664
+                    ],
+                    [
+                        "right",
+                        0.9174118102119992
+                    ],
+                    [
+                        "slope",
+                        0.9212673695650389
+                    ],
+                    [
+                        "delta",
+                        0.926193986486485
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1620": {
+            "id": "2qxY859dzzQ-1620",
+            "heat": 0.0,
+            "start": 1620.0,
+            "text": " I'm replacing that with a sum of eight pieces, because delta x is now down to 1/8. This is what we said about that sum. That sum has got more and more terms because it has a term for every little delta x, and the size of that term is about like delta x multiplied by an s. So what I getting in the limit is a kind of running sum, a running counter, a mileage meter, a trip mileage, that's adding up distance based on speed. Do you see what I'm getting in the graph picture? What happens to the shaded part as delta x gets smaller and smaller? This shaded part is going to be the curve. These little long pieces are going to get reduced, reduced, reduced, and in the end the total height at",
+            "metrics": {
+                "relativeDCReadability": 0.9652708766391228,
+                "lexicalDiversity": 0.48936170212765956,
+                "posComposition": {
+                    "PRP": 0.043,
+                    "VBP": 0.028,
+                    "VBG": 0.05,
+                    "IN": 0.135,
+                    "DT": 0.149,
+                    "NN": 0.213,
+                    "CD": 0.014,
+                    "NNS": 0.021,
+                    "VBZ": 0.071,
+                    "RB": 0.021,
+                    "TO": 0.028,
+                    "WP": 0.028,
+                    "VBD": 0.007,
+                    "VBN": 0.043,
+                    "JJR": 0.028,
+                    "CC": 0.028,
+                    "JJ": 0.043,
+                    "NNP": 0.014,
+                    "WDT": 0.007,
+                    "RP": 0.007,
+                    "VB": 0.021
+                },
+                "syllableRate": 1.517,
+                "topicScores": [
+                    [
+                        "sum",
+                        0.3616641465247342
+                    ],
+                    [
+                        "delta",
+                        0.36790260369792627
+                    ],
+                    [
+                        "x",
+                        0.3724297737808475
+                    ],
+                    [
+                        "term",
+                        0.4506804281558284
+                    ],
+                    [
+                        "mileage",
+                        0.5351461824742696
+                    ],
+                    [
+                        "shaded",
+                        0.553763456077675
+                    ],
+                    [
+                        "piece",
+                        0.5552237788112211
+                    ],
+                    [
+                        "little",
+                        0.559861644880647
+                    ],
+                    [
+                        "small",
+                        0.5652393155491713
+                    ],
+                    [
+                        "s.",
+                        0.8265856239331386
+                    ],
+                    [
+                        "speed",
+                        0.8431063321825818
+                    ],
+                    [
+                        "picture",
+                        0.853816819619019
+                    ],
+                    [
+                        "running",
+                        0.8617308373721777
+                    ],
+                    [
+                        "trip",
+                        0.8617308373721777
+                    ],
+                    [
+                        "curve",
+                        0.8671629106999452
+                    ],
+                    [
+                        "counter",
+                        0.8773667041522634
+                    ],
+                    [
+                        "meter",
+                        0.8773667041522634
+                    ],
+                    [
+                        "size",
+                        0.8783501275351868
+                    ],
+                    [
+                        "graph",
+                        0.8860544665294673
+                    ],
+                    [
+                        "limit",
+                        0.8905921088891421
+                    ],
+                    [
+                        "kind",
+                        0.8905921088891421
+                    ],
+                    [
+                        "distance",
+                        0.8905921088891421
+                    ],
+                    [
+                        "height",
+                        0.9004379283563699
+                    ],
+                    [
+                        "long",
+                        0.9114263991135559
+                    ],
+                    [
+                        "end",
+                        0.9114263991135559
+                    ],
+                    [
+                        "total",
+                        0.9114263991135559
+                    ],
+                    [
+                        "delta x",
+                        1.4135926918260648
+                    ],
+                    [
+                        "trip mileage",
+                        2.716209109602378
+                    ],
+                    [
+                        "mileage meter",
+                        2.90885655832499
+                    ],
+                    [
+                        "running counter",
+                        3.099266940684103
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "sum",
+                        0.3616641465247342
+                    ],
+                    [
+                        "delta",
+                        0.36790260369792627
+                    ],
+                    [
+                        "x",
+                        0.3724297737808475
+                    ],
+                    [
+                        "piece",
+                        0.5552237788112211
+                    ],
+                    [
+                        "little",
+                        0.559861644880647
+                    ],
+                    [
+                        "small",
+                        0.5652393155491713
+                    ],
+                    [
+                        "speed",
+                        0.8431063321825818
+                    ],
+                    [
+                        "graph",
+                        0.8860544665294673
+                    ],
+                    [
+                        "limit",
+                        0.8905921088891421
+                    ],
+                    [
+                        "distance",
+                        0.8905921088891421
+                    ],
+                    [
+                        "height",
+                        0.9004379283563699
+                    ],
+                    [
+                        "end",
+                        0.9114263991135559
+                    ],
+                    [
+                        "delta x",
+                        1.4135926918260648
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1710": {
+            "id": "2qxY859dzzQ-1710",
+            "heat": 0.0,
+            "start": 1710.0,
+            "text": " 1 is going to be-- ta-da, this is the moment-- the area under the slope curve. This y turns out to be the area under the s of x curve, or y. So at x equal 1, what is it? What's the area out to 1? Well, we've got a triangle there. Its base is 1, its height is 2. The area of a triangle is 1/2 the base times the height, so I have 1/2 times 1 times 2. I've got 1. The area at the end is 1. But-- well, I shouldn't say but. I should let you applaud first. What if I only went that far, halfway? What if that was s end? What if I want to know what is y at x equal 1/2? Then it'll be of course, just the area up to that point. Can I remove this part of the picture for a moment? I'm always looking at area. And the area of that, do we know what that area would be?",
+            "metrics": {
+                "relativeDCReadability": 1.0686397124559723,
+                "lexicalDiversity": 0.4245810055865922,
+                "posComposition": {
+                    "CD": 0.067,
+                    "VBZ": 0.061,
+                    "VBG": 0.011,
+                    "TO": 0.028,
+                    "VB": 0.061,
+                    ":": 0.017,
+                    "JJ": 0.022,
+                    "DT": 0.128,
+                    "NN": 0.162,
+                    "IN": 0.101,
+                    "RP": 0.006,
+                    "NNP": 0.022,
+                    "CC": 0.022,
+                    "RB": 0.061,
+                    "WP": 0.039,
+                    "PRP": 0.073,
+                    "VBP": 0.034,
+                    "VBD": 0.022,
+                    "EX": 0.006,
+                    "PRP$": 0.011,
+                    "NNS": 0.011,
+                    "MD": 0.028,
+                    "VBN": 0.006
+                },
+                "syllableRate": 1.8,
+                "topicScores": [
+                    [
+                        "area",
+                        0.2679938897288952
+                    ],
+                    [
+                        "time",
+                        0.4598649576457326
+                    ],
+                    [
+                        "curve",
+                        0.5128553915407943
+                    ],
+                    [
+                        "equal",
+                        0.5540522744165768
+                    ],
+                    [
+                        "triangle",
+                        0.5601042185563115
+                    ],
+                    [
+                        "height",
+                        0.5647024375814538
+                    ],
+                    [
+                        "base",
+                        0.56938820442322
+                    ],
+                    [
+                        "end",
+                        0.574607243647641
+                    ],
+                    [
+                        "y",
+                        0.5746667357212144
+                    ],
+                    [
+                        "da",
+                        0.8054557726478171
+                    ],
+                    [
+                        "ta",
+                        0.8218428557077543
+                    ],
+                    [
+                        "slope",
+                        0.8218428557077543
+                    ],
+                    [
+                        "moment--",
+                        0.8363708869648604
+                    ],
+                    [
+                        "But--",
+                        0.8981187849642208
+                    ],
+                    [
+                        "point",
+                        0.9174638434998276
+                    ],
+                    [
+                        "course",
+                        0.9328194555356495
+                    ],
+                    [
+                        "picture",
+                        0.9398510210885725
+                    ],
+                    [
+                        "slope curve",
+                        2.012414398414553
+                    ],
+                    [
+                        "s end",
+                        4.812635765402742
+                    ],
+                    [
+                        "base time",
+                        4.882993004293572
+                    ]
+                ],
+                "topTopicSimilarity": 0.45,
+                "sharedTopicScores": [
+                    [
+                        "area",
+                        0.2679938897288952
+                    ],
+                    [
+                        "time",
+                        0.4598649576457326
+                    ],
+                    [
+                        "equal",
+                        0.5540522744165768
+                    ],
+                    [
+                        "height",
+                        0.5647024375814538
+                    ],
+                    [
+                        "end",
+                        0.574607243647641
+                    ],
+                    [
+                        "y",
+                        0.5746667357212144
+                    ],
+                    [
+                        "slope",
+                        0.8218428557077543
+                    ],
+                    [
+                        "point",
+                        0.9174638434998276
+                    ],
+                    [
+                        "course",
+                        0.9328194555356495
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1800": {
+            "id": "2qxY859dzzQ-1800",
+            "heat": 0.0,
+            "start": 1800.0,
+            "text": " It's not a triangle anymore, it's some kind of a trapezoid. As delta x goes to 0, I'm going to get the correct area, which will be what? Let's see, I have 1/2 as the base and the average height is about 1 1/2. Can I do that little calculation? The base is 1/2 and the average height is 1 1/2. I think I get 3/4. So halfway along, it's got up to 3/4. Where is 3/4? So this is 1, this is 3/4, this is 1/2, this is 1/4. So at 1, it's at 3/4. Halfway along, its at 3/4. I would like to know that graph now. I'm ready to jump to the limit. Let me do it the way I said at the very start of the lecture. Let me take this and try to guess. So, I'm taking a shortcut. Because do we go through this horrible process every time we want to do an integral? Of course we don't. The best way is, can we find a y function, a function, one,",
+            "metrics": {
+                "relativeDCReadability": 1.043599133736758,
+                "lexicalDiversity": 0.46236559139784944,
+                "posComposition": {
+                    "PRP": 0.108,
+                    "VBZ": 0.075,
+                    "RB": 0.048,
+                    "DT": 0.134,
+                    "NN": 0.145,
+                    "IN": 0.086,
+                    "JJ": 0.038,
+                    "TO": 0.043,
+                    "CD": 0.097,
+                    "VBP": 0.054,
+                    "VBG": 0.011,
+                    "VB": 0.07,
+                    "WDT": 0.005,
+                    "MD": 0.016,
+                    "WP": 0.005,
+                    "NNP": 0.022,
+                    "POS": 0.005,
+                    "CC": 0.016,
+                    "VBD": 0.011,
+                    "PRP$": 0.005,
+                    "JJS": 0.005
+                },
+                "syllableRate": 1.883,
+                "topicScores": [
+                    [
+                        "average",
+                        0.523604160457448
+                    ],
+                    [
+                        "height",
+                        0.5343945471004622
+                    ],
+                    [
+                        "base",
+                        0.5456139181723464
+                    ],
+                    [
+                        "function",
+                        0.5707234695237308
+                    ],
+                    [
+                        "way",
+                        0.5725195661830066
+                    ],
+                    [
+                        "trapezoid",
+                        0.7815597654035371
+                    ],
+                    [
+                        "triangle",
+                        0.8123571300596798
+                    ],
+                    [
+                        "kind",
+                        0.8255343580906652
+                    ],
+                    [
+                        "delta",
+                        0.8669431731679426
+                    ],
+                    [
+                        "correct",
+                        0.8669431731679426
+                    ],
+                    [
+                        "area",
+                        0.8669431731679426
+                    ],
+                    [
+                        "x",
+                        0.8768681222135692
+                    ],
+                    [
+                        "calculation",
+                        0.8806386709259092
+                    ],
+                    [
+                        "little",
+                        0.8992675398831527
+                    ],
+                    [
+                        "limit",
+                        0.9136933527334217
+                    ],
+                    [
+                        "lecture",
+                        0.9150350805498441
+                    ],
+                    [
+                        "shortcut",
+                        0.9173059307944142
+                    ],
+                    [
+                        "integral",
+                        0.9182789040125746
+                    ],
+                    [
+                        "graph",
+                        0.9262927731445247
+                    ],
+                    [
+                        "good",
+                        0.9329338898335133
+                    ],
+                    [
+                        "ready",
+                        0.9333367523491208
+                    ],
+                    [
+                        "start",
+                        0.9343950295020145
+                    ],
+                    [
+                        "horrible",
+                        0.9369506503070352
+                    ],
+                    [
+                        "process",
+                        0.9369506503070352
+                    ],
+                    [
+                        "time",
+                        0.9369506503070352
+                    ],
+                    [
+                        "average height",
+                        1.492808271918016
+                    ],
+                    [
+                        "correct area",
+                        3.025610377729157
+                    ],
+                    [
+                        "delta x",
+                        3.170051920404337
+                    ],
+                    [
+                        "little calculation",
+                        3.8060695921204664
+                    ],
+                    [
+                        "good way",
+                        5.517408309940451
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "height",
+                        0.5343945471004622
+                    ],
+                    [
+                        "function",
+                        0.5707234695237308
+                    ],
+                    [
+                        "way",
+                        0.5725195661830066
+                    ],
+                    [
+                        "delta",
+                        0.8669431731679426
+                    ],
+                    [
+                        "area",
+                        0.8669431731679426
+                    ],
+                    [
+                        "x",
+                        0.8768681222135692
+                    ],
+                    [
+                        "little",
+                        0.8992675398831527
+                    ],
+                    [
+                        "limit",
+                        0.9136933527334217
+                    ],
+                    [
+                        "graph",
+                        0.9262927731445247
+                    ],
+                    [
+                        "start",
+                        0.9343950295020145
+                    ],
+                    [
+                        "time",
+                        0.9369506503070352
+                    ],
+                    [
+                        "delta x",
+                        3.170051920404337
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1890": {
+            "id": "2qxY859dzzQ-1890",
+            "heat": 0.0,
+            "start": 1890.0,
+            "text": " that has that derivative? Let's just try it. I'm allowed to take it in two pieces, that's a very valuable fact. So what has the derivative 2? If the slope is 2, what's the function? If the speed is 2, what's the distance? It's constant speed, 2, times the total distance. The slope of the 2x line is 2, clearly. What about the 2x? Which function has the slope 2x? Well, we saw it over here. The function that has the slope 2x is x squared, because when I take the slope of x squared, the 2 comes down. The 2 shows up, I have one smaller power, x to the first power. This is the correct y, and I hope that my graph gets those points right. At x equal to 1, this is 2 minus 1, this is the correct height, 1. At x equal to 1/2, all right, here is the moment of truth. Now set x equal to 1/2, and what do you get for this y?",
+            "metrics": {
+                "relativeDCReadability": 1.1141605528147462,
+                "lexicalDiversity": 0.480225988700565,
+                "posComposition": {
+                    "DT": 0.158,
+                    "VBZ": 0.107,
+                    "JJ": 0.079,
+                    "NNP": 0.028,
+                    "POS": 0.006,
+                    "RB": 0.045,
+                    "VB": 0.017,
+                    "PRP": 0.056,
+                    "VBP": 0.028,
+                    "VBN": 0.017,
+                    "TO": 0.028,
+                    "IN": 0.073,
+                    "CD": 0.107,
+                    "NNS": 0.017,
+                    "WDT": 0.017,
+                    "NN": 0.141,
+                    "WP": 0.023,
+                    "VBD": 0.011,
+                    "WRB": 0.006,
+                    "RP": 0.011,
+                    "JJR": 0.006,
+                    "CC": 0.011,
+                    "PRP$": 0.006
+                },
+                "syllableRate": 1.742,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.32832951375932634
+                    ],
+                    [
+                        "2x",
+                        0.3635686377471277
+                    ],
+                    [
+                        "function",
+                        0.43261645987981034
+                    ],
+                    [
+                        "equal",
+                        0.43379765705036716
+                    ],
+                    [
+                        "derivative",
+                        0.5335282694120721
+                    ],
+                    [
+                        "distance",
+                        0.5358915280780188
+                    ],
+                    [
+                        "speed",
+                        0.5623257049047977
+                    ],
+                    [
+                        "correct",
+                        0.563153045337244
+                    ],
+                    [
+                        "y",
+                        0.5723317047968163
+                    ],
+                    [
+                        "power",
+                        0.5770538804911629
+                    ],
+                    [
+                        "fact",
+                        0.8884944140956526
+                    ],
+                    [
+                        "piece",
+                        0.9046053632197835
+                    ],
+                    [
+                        "valuable",
+                        0.9046053632197835
+                    ],
+                    [
+                        "constant",
+                        0.9230018541797405
+                    ],
+                    [
+                        "time",
+                        0.9230018541797405
+                    ],
+                    [
+                        "total",
+                        0.9230018541797405
+                    ],
+                    [
+                        "truth",
+                        0.9238715159933665
+                    ],
+                    [
+                        "line",
+                        0.9307791244464859
+                    ],
+                    [
+                        "small",
+                        0.9326236851777041
+                    ],
+                    [
+                        "point",
+                        0.9335900527101806
+                    ],
+                    [
+                        "height",
+                        0.9344581176853549
+                    ],
+                    [
+                        "graph",
+                        0.9384762668080397
+                    ],
+                    [
+                        "moment",
+                        0.940015899899948
+                    ],
+                    [
+                        "slope 2x",
+                        2.526991133064128
+                    ],
+                    [
+                        "total distance",
+                        3.6289485131042136
+                    ],
+                    [
+                        "valuable fact",
+                        4.0951990086191525
+                    ],
+                    [
+                        "correct y",
+                        4.254247430384205
+                    ],
+                    [
+                        "constant speed",
+                        4.638230529203092
+                    ],
+                    [
+                        "correct height",
+                        5.026830889132774
+                    ],
+                    [
+                        "small power",
+                        5.802063723199166
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.32832951375932634
+                    ],
+                    [
+                        "function",
+                        0.43261645987981034
+                    ],
+                    [
+                        "equal",
+                        0.43379765705036716
+                    ],
+                    [
+                        "distance",
+                        0.5358915280780188
+                    ],
+                    [
+                        "speed",
+                        0.5623257049047977
+                    ],
+                    [
+                        "y",
+                        0.5723317047968163
+                    ],
+                    [
+                        "power",
+                        0.5770538804911629
+                    ],
+                    [
+                        "piece",
+                        0.9046053632197835
+                    ],
+                    [
+                        "time",
+                        0.9230018541797405
+                    ],
+                    [
+                        "small",
+                        0.9326236851777041
+                    ],
+                    [
+                        "point",
+                        0.9335900527101806
+                    ],
+                    [
+                        "height",
+                        0.9344581176853549
+                    ],
+                    [
+                        "graph",
+                        0.9384762668080397
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-1980": {
+            "id": "2qxY859dzzQ-1980",
+            "heat": 0.0,
+            "start": 1980.0,
+            "text": " You get 2 times 1/2-- that's 1-- minus 1/2 squared, 1/4. Hey, miracle. 3/4. This area I figured to be 3/4 and this approach also gave 3/4. Either way, multiplying those is 3/4, subtracting those is 3/4. What does my graph look like? What does the graph of that look like? What's the slope at the start? The slope at the start is s at the start. And s at the start, when x is 0, the slope is 2. So it starts out with a slope of 2. But it's slowing down, it's a little bit like this one where the car was slowing down, we're not picking up distance so quickly, we're not picking up height so quickly. But we're still going forward, we're still picking up some height. So it starts with a slope of 2, bends around to there, and I guess maybe that is-- yes. That picture is almost good, but not great.",
+            "metrics": {
+                "relativeDCReadability": 0.9561848341858598,
+                "lexicalDiversity": 0.5088757396449705,
+                "posComposition": {
+                    "PRP": 0.065,
+                    "VBP": 0.036,
+                    "CD": 0.089,
+                    "NNS": 0.012,
+                    ":": 0.018,
+                    "DT": 0.13,
+                    "VBZ": 0.089,
+                    "CC": 0.041,
+                    "VBD": 0.03,
+                    "NNP": 0.012,
+                    "NN": 0.13,
+                    "TO": 0.012,
+                    "VB": 0.006,
+                    "RB": 0.083,
+                    "VBG": 0.047,
+                    "WP": 0.018,
+                    "PRP$": 0.006,
+                    "JJ": 0.024,
+                    "IN": 0.089,
+                    "VBN": 0.006,
+                    "WRB": 0.012,
+                    "RP": 0.036,
+                    "EX": 0.006,
+                    "UH": 0.006
+                },
+                "syllableRate": 1.65,
+                "topicScores": [
+                    [
+                        "start",
+                        0.29576397289903766
+                    ],
+                    [
+                        "slope",
+                        0.31836448528531175
+                    ],
+                    [
+                        "graph",
+                        0.5602395177478948
+                    ],
+                    [
+                        "height",
+                        0.5616949672068483
+                    ],
+                    [
+                        "minus",
+                        0.768989234196557
+                    ],
+                    [
+                        "time",
+                        0.8026245942264774
+                    ],
+                    [
+                        "miracle",
+                        0.818062542853649
+                    ],
+                    [
+                        "way",
+                        0.8920875090015642
+                    ],
+                    [
+                        "area",
+                        0.8934515728046506
+                    ],
+                    [
+                        "approach",
+                        0.9019898805194546
+                    ],
+                    [
+                        "great",
+                        0.9105231803552502
+                    ],
+                    [
+                        "bend",
+                        0.9244723512736008
+                    ],
+                    [
+                        "picture",
+                        0.9255462985831302
+                    ],
+                    [
+                        "good",
+                        0.9255462985831302
+                    ],
+                    [
+                        "little",
+                        0.9283429431355363
+                    ],
+                    [
+                        "bit",
+                        0.9283429431355363
+                    ],
+                    [
+                        "car",
+                        0.9283429431355363
+                    ],
+                    [
+                        "distance",
+                        0.9283429431355363
+                    ],
+                    [
+                        "little bit",
+                        6.23696980333338
+                    ]
+                ],
+                "topTopicSimilarity": 0.5263157894736842,
+                "sharedTopicScores": [
+                    [
+                        "start",
+                        0.29576397289903766
+                    ],
+                    [
+                        "slope",
+                        0.31836448528531175
+                    ],
+                    [
+                        "graph",
+                        0.5602395177478948
+                    ],
+                    [
+                        "height",
+                        0.5616949672068483
+                    ],
+                    [
+                        "minus",
+                        0.768989234196557
+                    ],
+                    [
+                        "time",
+                        0.8026245942264774
+                    ],
+                    [
+                        "way",
+                        0.8920875090015642
+                    ],
+                    [
+                        "area",
+                        0.8934515728046506
+                    ],
+                    [
+                        "little",
+                        0.9283429431355363
+                    ],
+                    [
+                        "distance",
+                        0.9283429431355363
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-2070": {
+            "id": "2qxY859dzzQ-2070",
+            "heat": 0.0,
+            "start": 2070.0,
+            "text": " So the slope is 2 and there. And what is the slope at this point? You can't tell from my picture, which isn't perfect. The slope, I'm told what it is. When x is 1, the slope is 2 minus 2. Slope 0. The slope is 0. We're not picking up any more height, any more area. And of course, that's right. At this point, we're not picking up more area. If I continue beyond here, we're losing area because below the axis, I'll count as negative area just because if it was speed, I'd be going backwards. That's what will happen here. I'll start down. If that continued, this would still be the correct thing to graph. If I do graph it, that's actually the top at x equal 1, and then it starts down and probably by, I don't know where, x equal something, maybe by x equal 2. Oh yeah, you can see. By x equal to 2, it's got down to 0 again. When x is 2, this is now 0 and you can see that when x is 2, we'll have the bad area-- the car going backwards-- will be identical to the forward area.",
+            "metrics": {
+                "relativeDCReadability": 1.0113041955844952,
+                "lexicalDiversity": 0.4700460829493088,
+                "posComposition": {
+                    "IN": 0.092,
+                    "DT": 0.088,
+                    "NN": 0.106,
+                    "VBZ": 0.069,
+                    "CD": 0.06,
+                    "CC": 0.028,
+                    "RB": 0.083,
+                    "WP": 0.014,
+                    "PRP": 0.088,
+                    "MD": 0.046,
+                    "VB": 0.065,
+                    "PRP$": 0.005,
+                    "WDT": 0.014,
+                    "VBP": 0.032,
+                    "JJ": 0.069,
+                    "WRB": 0.018,
+                    "NNP": 0.023,
+                    "VBG": 0.023,
+                    "RP": 0.014,
+                    "JJR": 0.009,
+                    "RBR": 0.005,
+                    "VBD": 0.014,
+                    "VBN": 0.005,
+                    "TO": 0.018,
+                    ":": 0.009,
+                    "NNS": 0.005
+                },
+                "syllableRate": 2.25,
+                "topicScores": [
+                    [
+                        "slope",
+                        0.2707807620704546
+                    ],
+                    [
+                        "area",
+                        0.339459725538703
+                    ],
+                    [
+                        "equal",
+                        0.37112253061590944
+                    ],
+                    [
+                        "point",
+                        0.5426069349402077
+                    ],
+                    [
+                        "perfect",
+                        0.8825005620361245
+                    ],
+                    [
+                        "picture",
+                        0.8975457703356783
+                    ],
+                    [
+                        "right",
+                        0.9171189108710939
+                    ],
+                    [
+                        "height",
+                        0.9258434441063015
+                    ],
+                    [
+                        "course",
+                        0.9280925978859462
+                    ],
+                    [
+                        "bad",
+                        0.9302132134290323
+                    ],
+                    [
+                        "axis",
+                        0.9315403665663848
+                    ],
+                    [
+                        "speed",
+                        0.9315403665663848
+                    ],
+                    [
+                        "negative",
+                        0.9360358216783822
+                    ],
+                    [
+                        "correct",
+                        0.9394098942712664
+                    ],
+                    [
+                        "thing",
+                        0.9394098942712664
+                    ],
+                    [
+                        "forward",
+                        0.9401048870509028
+                    ],
+                    [
+                        "car",
+                        0.9440717116671392
+                    ],
+                    [
+                        "backwards--",
+                        0.9440717116671392
+                    ],
+                    [
+                        "identical",
+                        0.9440717116671392
+                    ],
+                    [
+                        "negative area",
+                        4.597934780066427
+                    ],
+                    [
+                        "forward area",
+                        4.712107239604185
+                    ],
+                    [
+                        "bad area--",
+                        6.455357577895829
+                    ],
+                    [
+                        "correct thing",
+                        7.509982808642792
+                    ]
+                ],
+                "topTopicSimilarity": 0.391304347826087,
+                "sharedTopicScores": [
+                    [
+                        "slope",
+                        0.2707807620704546
+                    ],
+                    [
+                        "area",
+                        0.339459725538703
+                    ],
+                    [
+                        "equal",
+                        0.37112253061590944
+                    ],
+                    [
+                        "point",
+                        0.5426069349402077
+                    ],
+                    [
+                        "right",
+                        0.9171189108710939
+                    ],
+                    [
+                        "height",
+                        0.9258434441063015
+                    ],
+                    [
+                        "course",
+                        0.9280925978859462
+                    ],
+                    [
+                        "speed",
+                        0.9315403665663848
+                    ],
+                    [
+                        "thing",
+                        0.9394098942712664
+                    ]
+                ]
+            }
+        },
+        "2qxY859dzzQ-2160": {
+            "id": "2qxY859dzzQ-2160",
+            "heat": 0.0,
+            "start": 2160.0,
+            "text": " The total area is 0, and I'll be at this point when x is 2. Let me just recap a moment. Today was about going from function two back to function one. The quickest way to do it is to find a function one that gives that function two and then you're in. But if you can't do that or if you want to understand what the real, behind it, limiting process is, it's like the algebra but it's this expression here that's concealing so much mathematics. Delta x going to 0, these ratios going to the actual function, and the delta x I replaced by the symbol dx, indicating an infinitesimal. We'll see it more. Thank you. NARRATOR: This has been a production of MIT OpenCourseWare and Gilbert Strang. Funding for this video was provided by the Lord Foundation. To help OCW continue to provide free and open access to MIT courses, please make a donation at ocw.mit.edu/donate.",
+            "metrics": {
+                "relativeDCReadability": 1.1347361167744119,
+                "lexicalDiversity": 0.5120481927710844,
+                "posComposition": {
+                    "DT": 0.12,
+                    "JJ": 0.036,
+                    "NN": 0.151,
+                    "VBZ": 0.054,
+                    "CD": 0.042,
+                    "CC": 0.048,
+                    "PRP": 0.078,
+                    "MD": 0.018,
+                    "VB": 0.072,
+                    "IN": 0.078,
+                    "WRB": 0.006,
+                    "NNP": 0.072,
+                    "RB": 0.036,
+                    "VBD": 0.012,
+                    "VBG": 0.036,
+                    "TO": 0.054,
+                    "JJS": 0.006,
+                    "WDT": 0.006,
+                    "VBP": 0.024,
+                    "WP": 0.006,
+                    "NNS": 0.018,
+                    "VBN": 0.018,
+                    "RBR": 0.006
+                },
+                "syllableRate": 2.05,
+                "topicScores": [
+                    [
+                        "function",
+                        0.33740221767608514
+                    ],
+                    [
+                        "x",
+                        0.42542682692098344
+                    ],
+                    [
+                        "MIT",
+                        0.4398748000852028
+                    ],
+                    [
+                        "narrator",
+                        0.5818190855070156
+                    ],
+                    [
+                        "Strang",
+                        0.652456313163002
+                    ],
+                    [
+                        "Foundation",
+                        0.6563317014180181
+                    ],
+                    [
+                        "Gilbert",
+                        0.6863661290679711
+                    ],
+                    [
+                        "Lord",
+                        0.690043026904153
+                    ],
+                    [
+                        "OCW",
+                        0.7078440646599463
+                    ],
+                    [
+                        "total",
+                        0.7753769726520718
+                    ],
+                    [
+                        "area",
+                        0.7946592467256327
+                    ],
+                    [
+                        "point",
+                        0.7946592467256327
+                    ],
+                    [
+                        "moment",
+                        0.8017705182740771
+                    ],
+                    [
+                        "Gilbert Strang",
+                        0.8110164953676358
+                    ],
+                    [
+                        "Lord Foundation",
+                        0.827809769251637
+                    ],
+                    [
+                        "today",
+                        0.8309545097975981
+                    ],
+                    [
+                        "mathematic",
+                        0.8650587377369077
+                    ],
+                    [
+                        "Delta",
+                        0.8706694686342247
+                    ],
+                    [
+                        "quick",
+                        0.8768182397775868
+                    ],
+                    [
+                        "infinitesimal",
+                        0.8786717322398393
+                    ],
+                    [
+                        "process",
+                        0.8794290869675907
+                    ],
+                    [
+                        "way",
+                        0.8886431219973431
+                    ],
+                    [
+                        "funding",
+                        0.8899807274481283
+                    ],
+                    [
+                        "real",
+                        0.8917057465123551
+                    ],
+                    [
+                        "ratio",
+                        0.8963412847486324
+                    ],
+                    [
+                        "actual",
+                        0.8963412847486324
+                    ],
+                    [
+                        "algebra",
+                        0.9022608023814203
+                    ],
+                    [
+                        "expression",
+                        0.9022608023814203
+                    ],
+                    [
+                        "symbol",
+                        0.9029322056895099
+                    ],
+                    [
+                        "dx",
+                        0.9029322056895099
+                    ]
+                ],
+                "topTopicSimilarity": 0.2,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.33740221767608514
+                    ],
+                    [
+                        "x",
+                        0.42542682692098344
+                    ],
+                    [
+                        "area",
+                        0.7946592467256327
+                    ],
+                    [
+                        "point",
+                        0.7946592467256327
+                    ],
+                    [
+                        "way",
+                        0.8886431219973431
+                    ],
+                    [
+                        "dx",
+                        0.9029322056895099
+                    ]
+                ]
+            }
+        }
+    }
+}

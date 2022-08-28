@@ -1,0 +1,2687 @@
+{
+    "metadata": {
+        "id": "3gxNrc_EEN8",
+        "avgHeat": 0.01,
+        "runtime": 1074.19,
+        "dale-challReadabilityScore": 9.550933767153289,
+        "lexicalDiversity": 0.5135726795096323,
+        "posComposition": {
+            "IN": 0.126,
+            "DT": 0.123,
+            "NN": 0.186,
+            "NNP": 0.039,
+            "CD": 0.017,
+            "POS": 0.002,
+            "VBD": 0.01,
+            "RB": 0.031,
+            "PRP": 0.048,
+            "RP": 0.003,
+            "TO": 0.034,
+            "WDT": 0.01,
+            "JJR": 0.0,
+            "CC": 0.028,
+            "NNS": 0.05,
+            "VBN": 0.019,
+            "JJ": 0.085,
+            "WRB": 0.005,
+            "MD": 0.023,
+            "VB": 0.055,
+            "PRP$": 0.014,
+            "VBZ": 0.037,
+            "VBP": 0.032,
+            "VBG": 0.015,
+            "WP": 0.005,
+            "EX": 0.0,
+            ":": 0.001,
+            "RBS": 0.0,
+            "WP$": 0.0,
+            "JJS": 0.001
+        },
+        "syllableRate": 3.498,
+        "topicScores": [
+            [
+                "Mars",
+                0.11326891465572728
+            ],
+            [
+                "variable",
+                0.12809808146513998
+            ],
+            [
+                "Earth",
+                0.12854690083844514
+            ],
+            [
+                "dimension",
+                0.1345515214678802
+            ],
+            [
+                "velocity",
+                0.1581779537198784
+            ],
+            [
+                "Pacific Daylight Time",
+                0.16316650306561786
+            ],
+            [
+                "parachute",
+                0.17177465488578197
+            ],
+            [
+                "Rover",
+                0.17283731211902492
+            ],
+            [
+                "function",
+                0.17600938920178869
+            ],
+            [
+                "mass",
+                0.1776611941773195
+            ],
+            [
+                "time",
+                0.18271875945531144
+            ],
+            [
+                "terminal",
+                0.18612807658880037
+            ],
+            [
+                "independent",
+                0.18771035919865134
+            ],
+            [
+                "diameter",
+                0.19211200948823245
+            ],
+            [
+                "canopy",
+                0.20619578917339795
+            ],
+            [
+                "formula",
+                0.20752896431318985
+            ],
+            [
+                "fundamental",
+                0.21676714691966628
+            ],
+            [
+                "length",
+                0.21694666317557612
+            ],
+            [
+                "NASA",
+                0.2194997786750352
+            ],
+            [
+                "video",
+                0.2205976476228189
+            ],
+            [
+                "analysis",
+                0.2265564992692068
+            ],
+            [
+                "dimensionless",
+                0.24351801320498068
+            ],
+            [
+                "phi",
+                0.24401272893652712
+            ],
+            [
+                "expression",
+                0.24482404694185456
+            ],
+            [
+                "design",
+                0.25230629518118775
+            ],
+            [
+                "L",
+                0.25710023397735565
+            ],
+            [
+                "Mars Rover",
+                0.2646248618046166
+            ],
+            [
+                "unit",
+                0.26688909140139483
+            ],
+            [
+                "density",
+                0.2669641242897233
+            ],
+            [
+                "square",
+                0.2687193079145229
+            ]
+        ],
+        "topicsList": [
+            "Mars",
+            "variable",
+            "Earth",
+            "dimension",
+            "velocity",
+            "Pacific Daylight Time",
+            "parachute",
+            "Rover",
+            "function",
+            "mass",
+            "time",
+            "terminal",
+            "independent",
+            "diameter",
+            "canopy",
+            "formula",
+            "fundamental",
+            "length",
+            "NASA",
+            "video",
+            "analysis",
+            "dimensionless",
+            "phi",
+            "expression",
+            "design",
+            "L",
+            "Mars Rover",
+            "unit",
+            "density",
+            "square"
+        ]
+    },
+    "chunks": {
+        "3gxNrc_EEN8-0": {
+            "id": "3gxNrc_EEN8-0",
+            "heat": 0.1,
+            "start": 0.0,
+            "text": " On the evening of August 5, 2012 Pacific Daylight Time, NASA's Mars Rover, named Curiosity, entered Mars' atmosphere at 20,000km/h. Drag slowed it down to around 1600km/hr, at which point a parachute opened. This parachute slowed the Rover more, to about 320km/hr, or 90 m/s. Finally, after rockets decelerated it completely, the rover was lowered to the surface of Mars. Every step of this dance was carefully choreographed and rehearsed in many experiments here on Earth. But how could NASA engineers be sure that their designs would work on a totally different planet? The answer is a problem-solving method called dimensional analysis. This video is part of the Problem Solving video series. Problem-solving skills, in combination with an understanding of the natural and human-made world, are critical to the design and optimization of systems and processes. Hi, my name is Ken Kamrin, and I am a professor of mechanical engineering at MIT. Dimensional analysis is a powerful tool; I use it, NASA uses it, and you will too. Before watching this video, you should be familiar with unit analysis, and understand the difference between dependent and independent variables. By the end of this video, you will be able to use dimensional analysis to estimate the",
+            "metrics": {
+                "relativeDCReadability": 1.0448477097233546,
+                "lexicalDiversity": 0.5485436893203883,
+                "posComposition": {
+                    "IN": 0.117,
+                    "DT": 0.107,
+                    "NN": 0.16,
+                    "NNP": 0.112,
+                    "CD": 0.029,
+                    "POS": 0.005,
+                    "VBD": 0.039,
+                    "RB": 0.039,
+                    "PRP": 0.044,
+                    "RP": 0.005,
+                    "TO": 0.029,
+                    "WDT": 0.005,
+                    "JJR": 0.005,
+                    "CC": 0.049,
+                    "NNS": 0.039,
+                    "VBN": 0.019,
+                    "JJ": 0.073,
+                    "WRB": 0.005,
+                    "MD": 0.024,
+                    "VB": 0.039,
+                    "PRP$": 0.01,
+                    "VBZ": 0.029,
+                    "VBP": 0.015,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.95,
+                "topicScores": [
+                    [
+                        "Pacific Daylight Time",
+                        0.09656844827100096
+                    ],
+                    [
+                        "Mars",
+                        0.21391416847265804
+                    ],
+                    [
+                        "Mars Rover",
+                        0.25386359860360475
+                    ],
+                    [
+                        "NASA",
+                        0.2902026197996951
+                    ],
+                    [
+                        "video",
+                        0.35116175657571885
+                    ],
+                    [
+                        "analysis",
+                        0.3550690724050254
+                    ],
+                    [
+                        "Curiosity",
+                        0.38470910603477043
+                    ],
+                    [
+                        "August",
+                        0.3976894736520465
+                    ],
+                    [
+                        "dimensional",
+                        0.4094736419679763
+                    ],
+                    [
+                        "hr",
+                        0.48042340489606733
+                    ],
+                    [
+                        "parachute",
+                        0.4967470366566926
+                    ],
+                    [
+                        "problem",
+                        0.5060062190937021
+                    ],
+                    [
+                        "design",
+                        0.5431097903530959
+                    ],
+                    [
+                        "Earth",
+                        0.5490141445252988
+                    ],
+                    [
+                        "MIT",
+                        0.6140307557033069
+                    ],
+                    [
+                        "Solving",
+                        0.635307725878906
+                    ],
+                    [
+                        "Ken",
+                        0.6401949567608443
+                    ],
+                    [
+                        "Kamrin",
+                        0.6401949567608443
+                    ],
+                    [
+                        "Problem Solving",
+                        0.6767717499544601
+                    ],
+                    [
+                        "Ken Kamrin",
+                        0.6944832548128105
+                    ],
+                    [
+                        "km/h",
+                        0.7123121056810285
+                    ],
+                    [
+                        "atmosphere",
+                        0.748114897281533
+                    ],
+                    [
+                        "evening",
+                        0.7638136545722729
+                    ],
+                    [
+                        "Drag",
+                        0.7884216351177903
+                    ],
+                    [
+                        "1600km",
+                        0.8171835551868366
+                    ],
+                    [
+                        "point",
+                        0.8295583374486801
+                    ],
+                    [
+                        "s.",
+                        0.8325052787734637
+                    ],
+                    [
+                        "320km",
+                        0.8445383740066796
+                    ],
+                    [
+                        "rocket",
+                        0.8445383740066796
+                    ],
+                    [
+                        "rover",
+                        0.8445383740066796
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "Pacific Daylight Time",
+                        0.09656844827100096
+                    ],
+                    [
+                        "Mars",
+                        0.21391416847265804
+                    ],
+                    [
+                        "Mars Rover",
+                        0.25386359860360475
+                    ],
+                    [
+                        "NASA",
+                        0.2902026197996951
+                    ],
+                    [
+                        "video",
+                        0.35116175657571885
+                    ],
+                    [
+                        "analysis",
+                        0.3550690724050254
+                    ],
+                    [
+                        "parachute",
+                        0.4967470366566926
+                    ],
+                    [
+                        "design",
+                        0.5431097903530959
+                    ],
+                    [
+                        "Earth",
+                        0.5490141445252988
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-90": {
+            "id": "3gxNrc_EEN8-90",
+            "heat": 0.1,
+            "start": 90.0,
+            "text": " size of a parachute canopy that can slow the Rover down to 90 m/s on its descent to Mars. Before we talk about dimensional analysis, we need to know what dimension is. Dimensions and units are related, but different, concepts. Physical quantities are measured in units. The dimension of the physical quantity is independent of the particular units choosen. For example: Both grams and kilograms are units, but they are units of mass.And mass is what we'll call the dimension. There are 5 fundamental dimensions that we commonly deal with: length, mass, time, temperature, and charge. All other dimensions are obtained by taking products and powers of these fundamental dimensions. In this video, we'll be dealing with length, which we denote by the letter L, mass, which we denote M, and time, T. For example, no matter how you measure the physical quantity velocity, it has the dimension, which we denote with square brackets, of length divided by time, or length times time to the negative 1 power. Pause the video here and determine the dimension of energy.",
+            "metrics": {
+                "relativeDCReadability": 1.0278657217715828,
+                "lexicalDiversity": 0.5166666666666667,
+                "posComposition": {
+                    "NN": 0.183,
+                    "IN": 0.117,
+                    "DT": 0.083,
+                    "WDT": 0.022,
+                    "MD": 0.017,
+                    "VB": 0.033,
+                    "NNP": 0.05,
+                    "RB": 0.017,
+                    "TO": 0.022,
+                    "CD": 0.017,
+                    "NNS": 0.094,
+                    "PRP$": 0.006,
+                    "PRP": 0.061,
+                    "VBP": 0.078,
+                    "JJ": 0.072,
+                    "WP": 0.011,
+                    "VBZ": 0.022,
+                    "CC": 0.05,
+                    "VBN": 0.022,
+                    "EX": 0.006,
+                    "VBG": 0.011,
+                    "WRB": 0.006
+                },
+                "syllableRate": 2.4,
+                "topicScores": [
+                    [
+                        "dimension",
+                        0.25626952422514754
+                    ],
+                    [
+                        "unit",
+                        0.3324467955422505
+                    ],
+                    [
+                        "time",
+                        0.3375813014855297
+                    ],
+                    [
+                        "mass",
+                        0.36551296521937465
+                    ],
+                    [
+                        "length",
+                        0.3680962486197025
+                    ],
+                    [
+                        "quantity",
+                        0.4098261312679014
+                    ],
+                    [
+                        "physical",
+                        0.4105968133393228
+                    ],
+                    [
+                        "Mars",
+                        0.48177263393959274
+                    ],
+                    [
+                        "Rover",
+                        0.5196972438581718
+                    ],
+                    [
+                        "example",
+                        0.534355204743632
+                    ],
+                    [
+                        "fundamental",
+                        0.5531038768237797
+                    ],
+                    [
+                        "power",
+                        0.558698501209281
+                    ],
+                    [
+                        "video",
+                        0.5642189354253395
+                    ],
+                    [
+                        "T.",
+                        0.6239980484893299
+                    ],
+                    [
+                        "L",
+                        0.660604619192269
+                    ],
+                    [
+                        "size",
+                        0.8250610278801161
+                    ],
+                    [
+                        "concept",
+                        0.8548173870438921
+                    ],
+                    [
+                        "parachute",
+                        0.8589609813434617
+                    ],
+                    [
+                        "canopy",
+                        0.8589609813434617
+                    ],
+                    [
+                        "descent",
+                        0.8589609813434617
+                    ],
+                    [
+                        "analysis",
+                        0.8721443500897172
+                    ],
+                    [
+                        "different",
+                        0.8759733352418997
+                    ],
+                    [
+                        "charge",
+                        0.8849836231575013
+                    ],
+                    [
+                        "temperature",
+                        0.9022464479913272
+                    ],
+                    [
+                        "energy",
+                        0.902650848416899
+                    ],
+                    [
+                        "gram",
+                        0.9033083475174372
+                    ],
+                    [
+                        "independent",
+                        0.9061279354744587
+                    ],
+                    [
+                        "particular",
+                        0.9061279354744587
+                    ],
+                    [
+                        "kilogram",
+                        0.9102082957845
+                    ],
+                    [
+                        "letter",
+                        0.9137573598302687
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "dimension",
+                        0.25626952422514754
+                    ],
+                    [
+                        "unit",
+                        0.3324467955422505
+                    ],
+                    [
+                        "time",
+                        0.3375813014855297
+                    ],
+                    [
+                        "mass",
+                        0.36551296521937465
+                    ],
+                    [
+                        "length",
+                        0.3680962486197025
+                    ],
+                    [
+                        "Mars",
+                        0.48177263393959274
+                    ],
+                    [
+                        "Rover",
+                        0.5196972438581718
+                    ],
+                    [
+                        "fundamental",
+                        0.5531038768237797
+                    ],
+                    [
+                        "video",
+                        0.5642189354253395
+                    ],
+                    [
+                        "L",
+                        0.660604619192269
+                    ],
+                    [
+                        "parachute",
+                        0.8589609813434617
+                    ],
+                    [
+                        "canopy",
+                        0.8589609813434617
+                    ],
+                    [
+                        "analysis",
+                        0.8721443500897172
+                    ],
+                    [
+                        "independent",
+                        0.9061279354744587
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-180": {
+            "id": "3gxNrc_EEN8-180",
+            "heat": 0.1,
+            "start": 180.0,
+            "text": " Energy has dimension Mass times Length squared over Time squared. Okay, great, so what's the big deal? How is this useful? Remember NASA's rover? Part of the landing sequence calls for a parachute to slow the vehicle down. Suppose it is our job to design the parachute to slow the Rover to exactly 90m/s. The terminal velocity of the Rover depends on the mass of the rover itself and its heat shield, and several different variables related to the parachute design: the material of the canopy, the diameter of the hemispherical parachute canopy, the number of suspension lines, etc. For simplicity, let's suppose that all parachute parameters other than the diameter of the canopy have already been determined. Our goal is to find the canopy diameter that is as small as possible, but will correspond to the desired terminal velocity of 90 m/s. Clearly, we can't test our designs on Mars. The question is: how can we get meaningful data here on Earth that will allow us to appropriately size the parachute for use on Mars? How do we predict the behavior of a parachute on Mars based on an Earth experiment? And what variables do we need to consider in designing our experiment on Earth? This is where a problem",
+            "metrics": {
+                "relativeDCReadability": 0.9979671482129817,
+                "lexicalDiversity": 0.5162790697674419,
+                "posComposition": {
+                    "NNP": 0.079,
+                    "VBZ": 0.056,
+                    "NN": 0.181,
+                    "NNS": 0.033,
+                    "VBD": 0.005,
+                    "RP": 0.009,
+                    "JJ": 0.07,
+                    "IN": 0.112,
+                    "WP": 0.009,
+                    "DT": 0.135,
+                    "WRB": 0.014,
+                    "POS": 0.009,
+                    "TO": 0.042,
+                    "VB": 0.051,
+                    "PRP": 0.033,
+                    "PRP$": 0.023,
+                    "RB": 0.033,
+                    "CD": 0.009,
+                    "CC": 0.019,
+                    "VBN": 0.023,
+                    "VBP": 0.023,
+                    "WDT": 0.009,
+                    "MD": 0.019,
+                    "VBG": 0.005
+                },
+                "syllableRate": 2.933,
+                "topicScores": [
+                    [
+                        "Mass time Length",
+                        0.22206697198884576
+                    ],
+                    [
+                        "parachute",
+                        0.2613042284629458
+                    ],
+                    [
+                        "Mars",
+                        0.27551352415974945
+                    ],
+                    [
+                        "Earth",
+                        0.28312310067641644
+                    ],
+                    [
+                        "canopy",
+                        0.33027306684326185
+                    ],
+                    [
+                        "design",
+                        0.34975789907668275
+                    ],
+                    [
+                        "Energy",
+                        0.3578140107284151
+                    ],
+                    [
+                        "Rover",
+                        0.3599988876210409
+                    ],
+                    [
+                        "Time",
+                        0.38029402402700146
+                    ],
+                    [
+                        "diameter",
+                        0.3803822231260185
+                    ],
+                    [
+                        "terminal",
+                        0.49254642515716346
+                    ],
+                    [
+                        "velocity",
+                        0.5109994377492906
+                    ],
+                    [
+                        "experiment",
+                        0.5275980366580928
+                    ],
+                    [
+                        "variable",
+                        0.5331218451383569
+                    ],
+                    [
+                        "NASA",
+                        0.5585828321150708
+                    ],
+                    [
+                        "deal",
+                        0.7618943097092074
+                    ],
+                    [
+                        "great",
+                        0.7758310239952841
+                    ],
+                    [
+                        "big",
+                        0.7886846974855085
+                    ],
+                    [
+                        "useful",
+                        0.79545126481702
+                    ],
+                    [
+                        "m/s",
+                        0.8352984366821659
+                    ],
+                    [
+                        "s.",
+                        0.8407693619970793
+                    ],
+                    [
+                        "vehicle",
+                        0.8475175500348298
+                    ],
+                    [
+                        "landing",
+                        0.8566815675531045
+                    ],
+                    [
+                        "sequence",
+                        0.8566815675531045
+                    ],
+                    [
+                        "simplicity",
+                        0.8570282060515679
+                    ],
+                    [
+                        "heat",
+                        0.8613453522689656
+                    ],
+                    [
+                        "shield",
+                        0.8613453522689656
+                    ],
+                    [
+                        "material",
+                        0.8613453522689656
+                    ],
+                    [
+                        "number",
+                        0.8613453522689656
+                    ],
+                    [
+                        "suspension",
+                        0.8613453522689656
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "parachute",
+                        0.2613042284629458
+                    ],
+                    [
+                        "Mars",
+                        0.27551352415974945
+                    ],
+                    [
+                        "Earth",
+                        0.28312310067641644
+                    ],
+                    [
+                        "canopy",
+                        0.33027306684326185
+                    ],
+                    [
+                        "design",
+                        0.34975789907668275
+                    ],
+                    [
+                        "Rover",
+                        0.3599988876210409
+                    ],
+                    [
+                        "diameter",
+                        0.3803822231260185
+                    ],
+                    [
+                        "terminal",
+                        0.49254642515716346
+                    ],
+                    [
+                        "velocity",
+                        0.5109994377492906
+                    ],
+                    [
+                        "variable",
+                        0.5331218451383569
+                    ],
+                    [
+                        "NASA",
+                        0.5585828321150708
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-270": {
+            "id": "3gxNrc_EEN8-270",
+            "heat": 0.1,
+            "start": 270.0,
+            "text": " solving method called dimensional analysis can help us. Before we get started, we must first determine what the dependent and independent variables are in our system. The dependent variable is terminal velocity. This is the quantity that we wish to constrain by our parachute design. So what variables affect the terminal velocity of the parachute and rover system? The diameter of the parachute canopy is one such independent variable. Take a moment to pause the video and identify others. Ok. Here's our list: canopy diameter, mass of the Rover (we assume the mass of the parachute to be negligible), acceleration due to gravity, and the density and viscosity of the atmosphere. For this problem, we can assume that the dependence of the terminal velocity on atmospheric viscosity is negligible, because the atmosphere on Mars like the atmosphere on Earth is not very viscous. If we wanted to derive a functional relationship that would work, for example, underwater, it would be important that we include viscosity as an independent variable. Why didn't we include the surface area of the parachute canopy in our list of independent",
+            "metrics": {
+                "relativeDCReadability": 1.0834305179527783,
+                "lexicalDiversity": 0.5187165775401069,
+                "posComposition": {
+                    "VBG": 0.005,
+                    "NN": 0.23,
+                    "VBN": 0.011,
+                    "JJ": 0.107,
+                    "MD": 0.027,
+                    "VB": 0.059,
+                    "PRP": 0.053,
+                    "IN": 0.128,
+                    "VBP": 0.037,
+                    "RB": 0.027,
+                    "WP": 0.011,
+                    "DT": 0.128,
+                    "CC": 0.027,
+                    "NNS": 0.016,
+                    "PRP$": 0.021,
+                    "VBZ": 0.037,
+                    "TO": 0.027,
+                    "NNP": 0.021,
+                    "CD": 0.005,
+                    "VBD": 0.011,
+                    "WDT": 0.005,
+                    "WRB": 0.005
+                },
+                "syllableRate": 2.892,
+                "topicScores": [
+                    [
+                        "parachute",
+                        0.29474390309459275
+                    ],
+                    [
+                        "variable",
+                        0.3037045045853026
+                    ],
+                    [
+                        "independent",
+                        0.34258001798341686
+                    ],
+                    [
+                        "velocity",
+                        0.3921611838438879
+                    ],
+                    [
+                        "terminal",
+                        0.3964764972459272
+                    ],
+                    [
+                        "atmosphere",
+                        0.4082616789422798
+                    ],
+                    [
+                        "canopy",
+                        0.40852356525657385
+                    ],
+                    [
+                        "viscosity",
+                        0.43074292417347887
+                    ],
+                    [
+                        "system",
+                        0.47328017543251794
+                    ],
+                    [
+                        "negligible",
+                        0.520643071696089
+                    ],
+                    [
+                        "diameter",
+                        0.5245248203671133
+                    ],
+                    [
+                        "mass",
+                        0.5328673083105141
+                    ],
+                    [
+                        "list",
+                        0.535418559254853
+                    ],
+                    [
+                        "Rover",
+                        0.6356554344565906
+                    ],
+                    [
+                        "Mars",
+                        0.6535951891321112
+                    ],
+                    [
+                        "Earth",
+                        0.6535951891321112
+                    ],
+                    [
+                        "method",
+                        0.7390320158818416
+                    ],
+                    [
+                        "dimensional",
+                        0.7544683554079143
+                    ],
+                    [
+                        "analysis",
+                        0.7544683554079143
+                    ],
+                    [
+                        "terminal velocity",
+                        0.8225091080245133
+                    ],
+                    [
+                        "design",
+                        0.8307052443512213
+                    ],
+                    [
+                        "independent variable",
+                        0.8314754879868478
+                    ],
+                    [
+                        "quantity",
+                        0.8636921495501898
+                    ],
+                    [
+                        "acceleration",
+                        0.865090835881446
+                    ],
+                    [
+                        "viscous",
+                        0.8683613773965605
+                    ],
+                    [
+                        "example",
+                        0.8807949036049928
+                    ],
+                    [
+                        "underwater",
+                        0.8807949036049928
+                    ],
+                    [
+                        "gravity",
+                        0.8841423272254728
+                    ],
+                    [
+                        "moment",
+                        0.8850227485747499
+                    ],
+                    [
+                        "video",
+                        0.8850227485747499
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "parachute",
+                        0.29474390309459275
+                    ],
+                    [
+                        "variable",
+                        0.3037045045853026
+                    ],
+                    [
+                        "independent",
+                        0.34258001798341686
+                    ],
+                    [
+                        "velocity",
+                        0.3921611838438879
+                    ],
+                    [
+                        "terminal",
+                        0.3964764972459272
+                    ],
+                    [
+                        "canopy",
+                        0.40852356525657385
+                    ],
+                    [
+                        "diameter",
+                        0.5245248203671133
+                    ],
+                    [
+                        "mass",
+                        0.5328673083105141
+                    ],
+                    [
+                        "Rover",
+                        0.6356554344565906
+                    ],
+                    [
+                        "Mars",
+                        0.6535951891321112
+                    ],
+                    [
+                        "Earth",
+                        0.6535951891321112
+                    ],
+                    [
+                        "analysis",
+                        0.7544683554079143
+                    ],
+                    [
+                        "design",
+                        0.8307052443512213
+                    ],
+                    [
+                        "video",
+                        0.8850227485747499
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-360": {
+            "id": "3gxNrc_EEN8-360",
+            "heat": 0.1,
+            "start": 360.0,
+            "text": " variables? Pause the video and take a moment to discuss with a classmate. We didn't include the surface area of the canopy, because it is not independent from the diameter of the canopy. In fact, we can determine the area as a function of diameter. So we don't need both! Question: Could we use the surface area instead of the diameter? Absolutely. We need the variables to be independent, but it doesn't matter which variables we use! The key is to have identified all of the correct variables to begin with. This is where human error can come into play. If our list of variables isn't exhaustive, the relationship we develop through dimensional analysis may not be correct! Once we have the full list of independent variables, we can express the terminal velocity as some function of these independent variables. In order to find the function that describes the relationship, we need do several experiments involving 4 independent variables, and fit the data. Phew, that's a lot of work! Especially because we don't know what the function might look like. But whenever you have an equation, all terms in the equation must have the same dimension. Multiplying two terms multiplies the dimensions. This restricts the possible form that a function describing the terminal velocity in terms",
+            "metrics": {
+                "relativeDCReadability": 0.8910805671538268,
+                "lexicalDiversity": 0.4954954954954955,
+                "posComposition": {
+                    "NNS": 0.059,
+                    "VBP": 0.05,
+                    "DT": 0.162,
+                    "NN": 0.158,
+                    "CC": 0.018,
+                    "VB": 0.077,
+                    "TO": 0.023,
+                    "IN": 0.122,
+                    "PRP": 0.063,
+                    "VBD": 0.005,
+                    "RB": 0.045,
+                    "JJ": 0.077,
+                    "VBZ": 0.045,
+                    "MD": 0.027,
+                    "NNP": 0.014,
+                    "WDT": 0.014,
+                    "VBN": 0.005,
+                    "WRB": 0.009,
+                    "PRP$": 0.005,
+                    "VBG": 0.014,
+                    "CD": 0.009,
+                    "WP": 0.005
+                },
+                "syllableRate": 3.1,
+                "topicScores": [
+                    [
+                        "variable",
+                        0.247605875033693
+                    ],
+                    [
+                        "independent",
+                        0.3091317129757715
+                    ],
+                    [
+                        "function",
+                        0.3193732935575601
+                    ],
+                    [
+                        "diameter",
+                        0.3809926027881402
+                    ],
+                    [
+                        "area",
+                        0.38616980668479345
+                    ],
+                    [
+                        "term",
+                        0.42155982329150005
+                    ],
+                    [
+                        "canopy",
+                        0.4838231888802751
+                    ],
+                    [
+                        "surface",
+                        0.5122107849509585
+                    ],
+                    [
+                        "dimension",
+                        0.5184687911571826
+                    ],
+                    [
+                        "relationship",
+                        0.5256083868985906
+                    ],
+                    [
+                        "correct",
+                        0.5394508932570827
+                    ],
+                    [
+                        "terminal",
+                        0.5422504077730851
+                    ],
+                    [
+                        "velocity",
+                        0.5422504077730852
+                    ],
+                    [
+                        "list",
+                        0.5444711583562262
+                    ],
+                    [
+                        "equation",
+                        0.5580989911348979
+                    ],
+                    [
+                        "classmate",
+                        0.7989813363793103
+                    ],
+                    [
+                        "video",
+                        0.8317860273173606
+                    ],
+                    [
+                        "moment",
+                        0.8317860273173606
+                    ],
+                    [
+                        "independent variable",
+                        0.8412104993778099
+                    ],
+                    [
+                        "question",
+                        0.8534673668010346
+                    ],
+                    [
+                        "fact",
+                        0.8544994330592826
+                    ],
+                    [
+                        "play",
+                        0.8798244682128076
+                    ],
+                    [
+                        "Phew",
+                        0.8802337513386612
+                    ],
+                    [
+                        "datum",
+                        0.8865476006757121
+                    ],
+                    [
+                        "work",
+                        0.8882597281274377
+                    ],
+                    [
+                        "key",
+                        0.8919359525579361
+                    ],
+                    [
+                        "exhaustive",
+                        0.8969247986256564
+                    ],
+                    [
+                        "order",
+                        0.9006231213808386
+                    ],
+                    [
+                        "human",
+                        0.901069745762473
+                    ],
+                    [
+                        "error",
+                        0.901069745762473
+                    ]
+                ],
+                "topTopicSimilarity": 0.3,
+                "sharedTopicScores": [
+                    [
+                        "variable",
+                        0.247605875033693
+                    ],
+                    [
+                        "independent",
+                        0.3091317129757715
+                    ],
+                    [
+                        "function",
+                        0.3193732935575601
+                    ],
+                    [
+                        "diameter",
+                        0.3809926027881402
+                    ],
+                    [
+                        "canopy",
+                        0.4838231888802751
+                    ],
+                    [
+                        "dimension",
+                        0.5184687911571826
+                    ],
+                    [
+                        "terminal",
+                        0.5422504077730851
+                    ],
+                    [
+                        "velocity",
+                        0.5422504077730852
+                    ],
+                    [
+                        "video",
+                        0.8317860273173606
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-450": {
+            "id": "3gxNrc_EEN8-450",
+            "heat": 0.1,
+            "start": 450.0,
+            "text": " of our 4 other variables can take, because the function must combine the variables in some way that has the same dimension as velocity. And many functions\u2014exponential, logarithmic, trigonometric --cannot have input variables that have dimension. What would e to the 1kg mean? What units could it possibly have? We're going to show you a problem solving method that will allow you to find the most general form of such a function. This method is called dimensional analysis. We begin this process by creating dimensionless versions of the variables in our system. We create these dimensionless expressions out of the variables in our system, so we don't introduce any new physical parameters. The first step is to take our list of variables, and distill them down to their fundamental dimensions. Remember our fundamental dimensions are length, mass, and time. Distilling gravity to its fundamental dimension, we get length per time squared. Now you distill the remaining variables of velocity, diameter, mass, and density into their fundamental dimensions. Pause the video here.",
+            "metrics": {
+                "relativeDCReadability": 1.036376544700299,
+                "lexicalDiversity": 0.52,
+                "posComposition": {
+                    "IN": 0.091,
+                    "PRP$": 0.046,
+                    "CD": 0.011,
+                    "JJ": 0.109,
+                    "NNS": 0.08,
+                    "MD": 0.034,
+                    "VB": 0.057,
+                    "DT": 0.097,
+                    "NN": 0.166,
+                    "WDT": 0.017,
+                    "VBZ": 0.017,
+                    "CC": 0.023,
+                    ":": 0.006,
+                    "RB": 0.029,
+                    "VBP": 0.057,
+                    "WP": 0.011,
+                    "TO": 0.034,
+                    "PRP": 0.057,
+                    "VBG": 0.023,
+                    "RBS": 0.006,
+                    "VBN": 0.011,
+                    "RP": 0.006,
+                    "NNP": 0.011
+                },
+                "syllableRate": 2.575,
+                "topicScores": [
+                    [
+                        "variable",
+                        0.299616148175353
+                    ],
+                    [
+                        "dimension",
+                        0.3163860220397004
+                    ],
+                    [
+                        "fundamental",
+                        0.37170103448295694
+                    ],
+                    [
+                        "function",
+                        0.431500152024207
+                    ],
+                    [
+                        "system",
+                        0.540264328050534
+                    ],
+                    [
+                        "mass",
+                        0.5481161099509136
+                    ],
+                    [
+                        "velocity",
+                        0.5599817627446811
+                    ],
+                    [
+                        "time",
+                        0.5621279216852205
+                    ],
+                    [
+                        "method",
+                        0.5680869308444169
+                    ],
+                    [
+                        "dimensionless",
+                        0.571018736495494
+                    ],
+                    [
+                        "length",
+                        0.5781500160429184
+                    ],
+                    [
+                        "way",
+                        0.8233027951752454
+                    ],
+                    [
+                        "exponential",
+                        0.8451893328171456
+                    ],
+                    [
+                        "logarithmic",
+                        0.8451893328171456
+                    ],
+                    [
+                        "trigonometric",
+                        0.8613364666658859
+                    ],
+                    [
+                        "input",
+                        0.8751938949294532
+                    ],
+                    [
+                        "analysis",
+                        0.8828740605038363
+                    ],
+                    [
+                        "kg",
+                        0.8830303391749913
+                    ],
+                    [
+                        "parameter",
+                        0.8917421267833784
+                    ],
+                    [
+                        "unit",
+                        0.8948577159155461
+                    ],
+                    [
+                        "problem",
+                        0.9126102456820383
+                    ],
+                    [
+                        "general",
+                        0.9126102456820383
+                    ],
+                    [
+                        "form",
+                        0.9126102456820383
+                    ],
+                    [
+                        "diameter",
+                        0.9132714617071341
+                    ],
+                    [
+                        "physical",
+                        0.9149572821224334
+                    ],
+                    [
+                        "process",
+                        0.9210847852285515
+                    ],
+                    [
+                        "version",
+                        0.9210847852285515
+                    ],
+                    [
+                        "gravity",
+                        0.9214195301488973
+                    ],
+                    [
+                        "density",
+                        0.9229646990373931
+                    ],
+                    [
+                        "expression",
+                        0.9239293383437691
+                    ]
+                ],
+                "topTopicSimilarity": 0.4666666666666667,
+                "sharedTopicScores": [
+                    [
+                        "variable",
+                        0.299616148175353
+                    ],
+                    [
+                        "dimension",
+                        0.3163860220397004
+                    ],
+                    [
+                        "fundamental",
+                        0.37170103448295694
+                    ],
+                    [
+                        "function",
+                        0.431500152024207
+                    ],
+                    [
+                        "mass",
+                        0.5481161099509136
+                    ],
+                    [
+                        "velocity",
+                        0.5599817627446811
+                    ],
+                    [
+                        "time",
+                        0.5621279216852205
+                    ],
+                    [
+                        "dimensionless",
+                        0.571018736495494
+                    ],
+                    [
+                        "length",
+                        0.5781500160429184
+                    ],
+                    [
+                        "analysis",
+                        0.8828740605038363
+                    ],
+                    [
+                        "unit",
+                        0.8948577159155461
+                    ],
+                    [
+                        "diameter",
+                        0.9132714617071341
+                    ],
+                    [
+                        "density",
+                        0.9229646990373931
+                    ],
+                    [
+                        "expression",
+                        0.9239293383437691
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-540": {
+            "id": "3gxNrc_EEN8-540",
+            "heat": 0.1,
+            "start": 540.0,
+            "text": " Velocity is length per time; diameter is length; mass is mass; and density is mass per length cubed. The second step is to express the fundamental dimensions of mass, length, and time in terms of our independent variables. We can write M as little m. We can write L as mass divided by density to the 1/3 power. We can write T as velocity divided by gravity. We had many choices as to how to write these fundamental dimensions in terms of our variables. In the end, it doesn't matter which expressions you choose. The third step is to use these fundamental dimensions to turn all of the variables involved into dimensionless quantities. For example, the terminal velocity v has dimension of length over time. So we multiply v by the dimension of time, and divide by the dimension of length to get a dimension of one. We define a new dimensionless variable vbar as this dimensionless version of v. Now you try; find dbar, mbar, gbar, and rhobar. Pause the video here.",
+            "metrics": {
+                "relativeDCReadability": 0.9975764498411877,
+                "lexicalDiversity": 0.5344827586206896,
+                "posComposition": {
+                    "NNP": 0.029,
+                    "VBZ": 0.046,
+                    "VBN": 0.029,
+                    "IN": 0.167,
+                    "NN": 0.207,
+                    "JJ": 0.098,
+                    "CC": 0.023,
+                    "VBD": 0.011,
+                    "DT": 0.092,
+                    "TO": 0.04,
+                    "VB": 0.057,
+                    "NNS": 0.057,
+                    "PRP$": 0.011,
+                    "PRP": 0.052,
+                    "MD": 0.017,
+                    "CD": 0.011,
+                    "WRB": 0.006,
+                    "RB": 0.017,
+                    "WDT": 0.006,
+                    "VBP": 0.023
+                },
+                "syllableRate": 2.258,
+                "topicScores": [
+                    [
+                        "dimension",
+                        0.2973716371307714
+                    ],
+                    [
+                        "length",
+                        0.31283453572718306
+                    ],
+                    [
+                        "mass",
+                        0.32994627511313196
+                    ],
+                    [
+                        "time",
+                        0.3785289164257885
+                    ],
+                    [
+                        "variable",
+                        0.3799749258478495
+                    ],
+                    [
+                        "Velocity",
+                        0.3998725718885534
+                    ],
+                    [
+                        "fundamental",
+                        0.43758935806501226
+                    ],
+                    [
+                        "dimensionless",
+                        0.46264173645208634
+                    ],
+                    [
+                        "term",
+                        0.5317250385038587
+                    ],
+                    [
+                        "density",
+                        0.5386632532010437
+                    ],
+                    [
+                        "step",
+                        0.539710882481292
+                    ],
+                    [
+                        "M",
+                        0.6059004424793636
+                    ],
+                    [
+                        "L",
+                        0.6059004424793636
+                    ],
+                    [
+                        "T",
+                        0.6341396203229515
+                    ],
+                    [
+                        "cubed",
+                        0.7585577868900584
+                    ],
+                    [
+                        "diameter",
+                        0.804057826192633
+                    ],
+                    [
+                        "power",
+                        0.851775697481814
+                    ],
+                    [
+                        "second",
+                        0.8606440075487577
+                    ],
+                    [
+                        "independent",
+                        0.8606440075487577
+                    ],
+                    [
+                        "gravity",
+                        0.8662848262748086
+                    ],
+                    [
+                        "rhobar",
+                        0.8824874696798423
+                    ],
+                    [
+                        "quantity",
+                        0.8872626603860521
+                    ],
+                    [
+                        "little",
+                        0.8944390802492559
+                    ],
+                    [
+                        "example",
+                        0.9038593034144409
+                    ],
+                    [
+                        "dbar",
+                        0.9090757191397939
+                    ],
+                    [
+                        "mbar",
+                        0.9090757191397939
+                    ],
+                    [
+                        "gbar",
+                        0.9090757191397939
+                    ],
+                    [
+                        "choice",
+                        0.9121477219488734
+                    ],
+                    [
+                        "terminal",
+                        0.9145060167343483
+                    ],
+                    [
+                        "expression",
+                        0.9170146369866218
+                    ]
+                ],
+                "topTopicSimilarity": 0.43333333333333335,
+                "sharedTopicScores": [
+                    [
+                        "dimension",
+                        0.2973716371307714
+                    ],
+                    [
+                        "length",
+                        0.31283453572718306
+                    ],
+                    [
+                        "mass",
+                        0.32994627511313196
+                    ],
+                    [
+                        "time",
+                        0.3785289164257885
+                    ],
+                    [
+                        "variable",
+                        0.3799749258478495
+                    ],
+                    [
+                        "fundamental",
+                        0.43758935806501226
+                    ],
+                    [
+                        "dimensionless",
+                        0.46264173645208634
+                    ],
+                    [
+                        "density",
+                        0.5386632532010437
+                    ],
+                    [
+                        "L",
+                        0.6059004424793636
+                    ],
+                    [
+                        "diameter",
+                        0.804057826192633
+                    ],
+                    [
+                        "independent",
+                        0.8606440075487577
+                    ],
+                    [
+                        "terminal",
+                        0.9145060167343483
+                    ],
+                    [
+                        "expression",
+                        0.9170146369866218
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-630": {
+            "id": "3gxNrc_EEN8-630",
+            "heat": 0.1,
+            "start": 630.0,
+            "text": " You should have found that dbar is d times rho over m to the 1/3. Mbar is 1. Gbar is v squared over g times rho over m to the 1/3., and rho bar is 1. Now we can rewrite the equation for velocity in terms of the new dimensionless variables. It is a new function, because the variables have been modified. Notice that vbar is equal to gbar. This means that vbar and gbar are not independent! So our function for vbar cannot depend on gbar. Also, notice that mbar and rho bar are both equal to one, so our function doesn't depend on them either. This has simplified our relationship: vbar is a function of only one variable, dbar. And remember that dbar is dimensionless, so it is just a real number. This means that, phi can be any function. The forth and final step is to rearrange to find a formula for the terminal velocity. The key here is that this equation for the terminal velocity has the correct units.",
+            "metrics": {
+                "relativeDCReadability": 0.9322931133358424,
+                "lexicalDiversity": 0.45714285714285713,
+                "posComposition": {
+                    "PRP": 0.029,
+                    "MD": 0.023,
+                    "VB": 0.051,
+                    "VBN": 0.029,
+                    "IN": 0.114,
+                    "NN": 0.189,
+                    "VBZ": 0.097,
+                    "JJ": 0.086,
+                    "NNS": 0.034,
+                    "VBP": 0.029,
+                    "TO": 0.034,
+                    "DT": 0.12,
+                    "CD": 0.034,
+                    "NNP": 0.017,
+                    "CC": 0.034,
+                    "RB": 0.063,
+                    "PRP$": 0.017
+                },
+                "syllableRate": 2.075,
+                "topicScores": [
+                    [
+                        "function",
+                        0.33576580263610784
+                    ],
+                    [
+                        "rho",
+                        0.3495918159591328
+                    ],
+                    [
+                        "gbar",
+                        0.36365655027877825
+                    ],
+                    [
+                        "vbar",
+                        0.37975907246323437
+                    ],
+                    [
+                        "dbar",
+                        0.4253160039326619
+                    ],
+                    [
+                        "variable",
+                        0.4366724184386402
+                    ],
+                    [
+                        "velocity",
+                        0.43685435410398604
+                    ],
+                    [
+                        "m",
+                        0.47860670261587107
+                    ],
+                    [
+                        "time",
+                        0.5073126299384687
+                    ],
+                    [
+                        "notice",
+                        0.5424412274744446
+                    ],
+                    [
+                        "terminal",
+                        0.5460281110775961
+                    ],
+                    [
+                        "new",
+                        0.5510936924606444
+                    ],
+                    [
+                        "equal",
+                        0.5518129532500757
+                    ],
+                    [
+                        "dimensionless",
+                        0.5572917652082008
+                    ],
+                    [
+                        "equation",
+                        0.5630543284060477
+                    ],
+                    [
+                        "Mbar",
+                        0.8219655480757153
+                    ],
+                    [
+                        "independent",
+                        0.8848533469865915
+                    ],
+                    [
+                        "number",
+                        0.8970694519912416
+                    ],
+                    [
+                        "unit",
+                        0.9022844026264287
+                    ],
+                    [
+                        "relationship",
+                        0.9130352466932666
+                    ],
+                    [
+                        "real",
+                        0.9149632082331873
+                    ],
+                    [
+                        "phi",
+                        0.9166238435131807
+                    ],
+                    [
+                        "forth",
+                        0.9180734332666548
+                    ],
+                    [
+                        "key",
+                        0.9193530783230874
+                    ],
+                    [
+                        "correct",
+                        0.9193530783230874
+                    ],
+                    [
+                        "final",
+                        0.9251198450617445
+                    ],
+                    [
+                        "step",
+                        0.9251198450617445
+                    ],
+                    [
+                        "formula",
+                        0.9251198450617445
+                    ],
+                    [
+                        "time rho",
+                        1.1856708580835744
+                    ],
+                    [
+                        "rho bar",
+                        1.410109036863905
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "function",
+                        0.33576580263610784
+                    ],
+                    [
+                        "variable",
+                        0.4366724184386402
+                    ],
+                    [
+                        "velocity",
+                        0.43685435410398604
+                    ],
+                    [
+                        "time",
+                        0.5073126299384687
+                    ],
+                    [
+                        "terminal",
+                        0.5460281110775961
+                    ],
+                    [
+                        "dimensionless",
+                        0.5572917652082008
+                    ],
+                    [
+                        "independent",
+                        0.8848533469865915
+                    ],
+                    [
+                        "unit",
+                        0.9022844026264287
+                    ],
+                    [
+                        "phi",
+                        0.9166238435131807
+                    ],
+                    [
+                        "formula",
+                        0.9251198450617445
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-720": {
+            "id": "3gxNrc_EEN8-720",
+            "heat": 0.1,
+            "start": 720.0,
+            "text": " And this formula is so general, that any expression with dimension of Length over Time can be written in terms of this formula by defining phi in different ways. Let's see how. First, create an expression from the independent variables that has the same dimension as velocity. One such expression is the square root of g times d. By setting the formula for v equal to the square root of gd, we see that by setting phi equal to the identity function phi(x) = x, the two sides of the equation can be made equal. And in fact, we claim that any expression with the correct dimension of Length over time created using these variables can be written in terms of this formula by simply changing the definition of phi! It can be fun to try this. Come up with different formulas that have the correct dimension. You can even add them together. Then see if you can find a way to define phi so that our formula is equal to the expression you wrote. Pause the video here. Now you may be concerned because this formula is not unique. We made some choices about how to represent our fundamental dimensions. What happens if we make different choices?",
+            "metrics": {
+                "relativeDCReadability": 0.8518410142350267,
+                "lexicalDiversity": 0.4880382775119617,
+                "posComposition": {
+                    "CC": 0.01,
+                    "DT": 0.115,
+                    "NN": 0.153,
+                    "VBZ": 0.033,
+                    "RB": 0.038,
+                    "JJ": 0.096,
+                    "IN": 0.158,
+                    "NNP": 0.033,
+                    "MD": 0.033,
+                    "VB": 0.067,
+                    "VBN": 0.029,
+                    "NNS": 0.053,
+                    "VBG": 0.024,
+                    "POS": 0.005,
+                    "WRB": 0.01,
+                    "WDT": 0.01,
+                    "CD": 0.01,
+                    "TO": 0.029,
+                    "PRP": 0.048,
+                    "VBP": 0.019,
+                    "RP": 0.005,
+                    "PRP$": 0.01,
+                    "VBD": 0.01,
+                    "WP": 0.005
+                },
+                "syllableRate": 2.617,
+                "topicScores": [
+                    [
+                        "formula",
+                        0.29905850800747324
+                    ],
+                    [
+                        "dimension",
+                        0.3293536147496938
+                    ],
+                    [
+                        "expression",
+                        0.33894507035163524
+                    ],
+                    [
+                        "equal",
+                        0.36615679731558093
+                    ],
+                    [
+                        "Length",
+                        0.36687957408130806
+                    ],
+                    [
+                        "phi",
+                        0.3798051111772026
+                    ],
+                    [
+                        "different",
+                        0.4494062268259411
+                    ],
+                    [
+                        "term",
+                        0.5204318674270041
+                    ],
+                    [
+                        "square",
+                        0.5363087256245311
+                    ],
+                    [
+                        "root",
+                        0.5363087256245311
+                    ],
+                    [
+                        "Time",
+                        0.542798312064883
+                    ],
+                    [
+                        "correct",
+                        0.5501286033799536
+                    ],
+                    [
+                        "way",
+                        0.5585245407690275
+                    ],
+                    [
+                        "choice",
+                        0.5629801023170257
+                    ],
+                    [
+                        "variable",
+                        0.5657410497925759
+                    ],
+                    [
+                        "general",
+                        0.8502328583066086
+                    ],
+                    [
+                        "velocity",
+                        0.8600587324342527
+                    ],
+                    [
+                        "=",
+                        0.867758013264074
+                    ],
+                    [
+                        "d.",
+                        0.869790677894921
+                    ],
+                    [
+                        "phi(x",
+                        0.8766868971883549
+                    ],
+                    [
+                        "independent",
+                        0.8965511795041258
+                    ],
+                    [
+                        "unique",
+                        0.8997102862968314
+                    ],
+                    [
+                        "gd",
+                        0.8999788241209628
+                    ],
+                    [
+                        "function",
+                        0.8999788241209628
+                    ],
+                    [
+                        "fact",
+                        0.9076872329846001
+                    ],
+                    [
+                        "identity",
+                        0.9093004980449193
+                    ],
+                    [
+                        "side",
+                        0.9132561572361362
+                    ],
+                    [
+                        "equation",
+                        0.9132561572361362
+                    ],
+                    [
+                        "definition",
+                        0.916357273408064
+                    ],
+                    [
+                        "video",
+                        0.917771024729104
+                    ]
+                ],
+                "topTopicSimilarity": 0.3333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "formula",
+                        0.29905850800747324
+                    ],
+                    [
+                        "dimension",
+                        0.3293536147496938
+                    ],
+                    [
+                        "expression",
+                        0.33894507035163524
+                    ],
+                    [
+                        "phi",
+                        0.3798051111772026
+                    ],
+                    [
+                        "square",
+                        0.5363087256245311
+                    ],
+                    [
+                        "variable",
+                        0.5657410497925759
+                    ],
+                    [
+                        "velocity",
+                        0.8600587324342527
+                    ],
+                    [
+                        "independent",
+                        0.8965511795041258
+                    ],
+                    [
+                        "function",
+                        0.8999788241209628
+                    ],
+                    [
+                        "video",
+                        0.917771024729104
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-810": {
+            "id": "3gxNrc_EEN8-810",
+            "heat": 0.1,
+            "start": 810.0,
+            "text": " Here we chose M, L, and T this way: M was little m, L was d, and T was v over g. Running through the dimensional analysis process with this choice of fundamental dimensions, we obtain an equation for v that looks like this. To see that these two formulas are equivalent, we set the arguments under the square root equal, and find that we can express phi as a function of psi. So any formula with the correct dimension can be expressed by this general formula. And this general formula works for any rover on any planet whose terminal velocity through the atmosphere depends on the same variables. Because it is a general law! Of course, we still don't know what this function phi is! In order to find phi, we can fit experimental data from any planet, for example, Earth. On Earth, we know the gravity and atmospheric density. We can specify the mass of a test rover to be 10kg.",
+            "metrics": {
+                "relativeDCReadability": 0.9819321986686731,
+                "lexicalDiversity": 0.4695121951219512,
+                "posComposition": {
+                    "RB": 0.018,
+                    "PRP": 0.055,
+                    "VBP": 0.03,
+                    "NNP": 0.055,
+                    "CC": 0.03,
+                    "DT": 0.14,
+                    "NN": 0.183,
+                    "VBD": 0.018,
+                    "JJ": 0.104,
+                    "VBN": 0.012,
+                    "IN": 0.146,
+                    "VBG": 0.006,
+                    "NNS": 0.043,
+                    "VB": 0.061,
+                    "WDT": 0.006,
+                    "VBZ": 0.024,
+                    "TO": 0.018,
+                    "CD": 0.012,
+                    "MD": 0.024,
+                    "WP$": 0.006,
+                    "WP": 0.006
+                },
+                "syllableRate": 2.05,
+                "topicScores": [
+                    [
+                        "t",
+                        0.24894044801848458
+                    ],
+                    [
+                        "L",
+                        0.25820977889838626
+                    ],
+                    [
+                        "M",
+                        0.2670805776826978
+                    ],
+                    [
+                        "formula",
+                        0.36797460340365645
+                    ],
+                    [
+                        "Earth",
+                        0.3847388209614681
+                    ],
+                    [
+                        "general",
+                        0.4179549645709578
+                    ],
+                    [
+                        "phi",
+                        0.43702086194154927
+                    ],
+                    [
+                        "v",
+                        0.5076975624552672
+                    ],
+                    [
+                        "dimension",
+                        0.5321198829636946
+                    ],
+                    [
+                        "planet",
+                        0.5444720270679748
+                    ],
+                    [
+                        "function",
+                        0.5538482355141608
+                    ],
+                    [
+                        "rover",
+                        0.5623499297876541
+                    ],
+                    [
+                        "g.",
+                        0.714659445074535
+                    ],
+                    [
+                        "way",
+                        0.7628645540424972
+                    ],
+                    [
+                        "little",
+                        0.7628645540424972
+                    ],
+                    [
+                        "psi",
+                        0.820822573886237
+                    ],
+                    [
+                        "fundamental",
+                        0.8288142174998105
+                    ],
+                    [
+                        "analysis",
+                        0.8444296567104967
+                    ],
+                    [
+                        "process",
+                        0.8444296567104967
+                    ],
+                    [
+                        "choice",
+                        0.8444296567104967
+                    ],
+                    [
+                        "equation",
+                        0.8444296567104967
+                    ],
+                    [
+                        "variable",
+                        0.8487931936563262
+                    ],
+                    [
+                        "equivalent",
+                        0.8547380942699427
+                    ],
+                    [
+                        "root",
+                        0.8547380942699427
+                    ],
+                    [
+                        "equal",
+                        0.8547380942699427
+                    ],
+                    [
+                        "law",
+                        0.8566181710757163
+                    ],
+                    [
+                        "argument",
+                        0.8683643570729569
+                    ],
+                    [
+                        "square",
+                        0.8683643570729569
+                    ],
+                    [
+                        "density",
+                        0.8709556369097508
+                    ],
+                    [
+                        "kg",
+                        0.874104691618213
+                    ]
+                ],
+                "topTopicSimilarity": 0.36666666666666664,
+                "sharedTopicScores": [
+                    [
+                        "L",
+                        0.25820977889838626
+                    ],
+                    [
+                        "formula",
+                        0.36797460340365645
+                    ],
+                    [
+                        "Earth",
+                        0.3847388209614681
+                    ],
+                    [
+                        "phi",
+                        0.43702086194154927
+                    ],
+                    [
+                        "dimension",
+                        0.5321198829636946
+                    ],
+                    [
+                        "function",
+                        0.5538482355141608
+                    ],
+                    [
+                        "fundamental",
+                        0.8288142174998105
+                    ],
+                    [
+                        "analysis",
+                        0.8444296567104967
+                    ],
+                    [
+                        "variable",
+                        0.8487931936563262
+                    ],
+                    [
+                        "square",
+                        0.8683643570729569
+                    ],
+                    [
+                        "density",
+                        0.8709556369097508
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-900": {
+            "id": "3gxNrc_EEN8-900",
+            "heat": 0.0,
+            "start": 900.0,
+            "text": " Then we might set up Earth bound experiments by varying the canopy diameter of a parachute between 1m to 20m and measuring the terminal velocity. For example, suppose we obtained the following data on Earth. Then we could convert this data to the dbar, vbar axes, by scaling the variables v and d according to the Earth values for the mass, gravity, and atmospheric density. We can fit this data to some best-fit curve. And this best fit curve is our best approximation to the function phi. Now that we have phi, we can transform the axes again to represent the canopy diameter and terminal velocity on Mars. This is done by converting vbar and dbar to v and d by scaling according to known values of the gravity, atmospheric density, and mass of the rover on Mars! To find the diameter, we find the point on the v-axis that corresponds to a terminal velocity of 90m/s, and use our curve to determine the diameter that corresponds to this terminal velocity! Now we have the specification we need to design the size of our parachute to be used on the descent to Mars!",
+            "metrics": {
+                "relativeDCReadability": 1.063655473475646,
+                "lexicalDiversity": 0.49222797927461137,
+                "posComposition": {
+                    "RB": 0.026,
+                    "PRP": 0.047,
+                    "MD": 0.021,
+                    "VB": 0.062,
+                    "RP": 0.005,
+                    "NNP": 0.021,
+                    "IN": 0.098,
+                    "NNS": 0.041,
+                    "VBG": 0.036,
+                    "DT": 0.14,
+                    "NN": 0.218,
+                    "CD": 0.016,
+                    "TO": 0.078,
+                    "CC": 0.047,
+                    "JJ": 0.041,
+                    "VBD": 0.005,
+                    "JJS": 0.01,
+                    "VBZ": 0.021,
+                    "PRP$": 0.016,
+                    "VBP": 0.021,
+                    "VBN": 0.021,
+                    "WDT": 0.01
+                },
+                "syllableRate": 2.55,
+                "topicScores": [
+                    [
+                        "Mars",
+                        0.25519189640303164
+                    ],
+                    [
+                        "Earth",
+                        0.2556634564239517
+                    ],
+                    [
+                        "terminal",
+                        0.3388339660717118
+                    ],
+                    [
+                        "velocity",
+                        0.3388339660717118
+                    ],
+                    [
+                        "diameter",
+                        0.3448343465478968
+                    ],
+                    [
+                        "datum",
+                        0.3941586447260782
+                    ],
+                    [
+                        "curve",
+                        0.4009216707954032
+                    ],
+                    [
+                        "fit",
+                        0.4068218676114392
+                    ],
+                    [
+                        "axis",
+                        0.4083583725077383
+                    ],
+                    [
+                        "atmospheric",
+                        0.4905256924456556
+                    ],
+                    [
+                        "density",
+                        0.49339610380264765
+                    ],
+                    [
+                        "canopy",
+                        0.5037984271245959
+                    ],
+                    [
+                        "gravity",
+                        0.5137102020177104
+                    ],
+                    [
+                        "phi",
+                        0.5161546872748106
+                    ],
+                    [
+                        "vbar",
+                        0.5202613814826651
+                    ],
+                    [
+                        "mass",
+                        0.5202613814826651
+                    ],
+                    [
+                        "parachute",
+                        0.5233467988777682
+                    ],
+                    [
+                        "value",
+                        0.5233467988777682
+                    ],
+                    [
+                        "dbar",
+                        0.5263133463527913
+                    ],
+                    [
+                        "good",
+                        0.5427567347922528
+                    ],
+                    [
+                        "terminal velocity",
+                        0.6996267661984436
+                    ],
+                    [
+                        "Earth value",
+                        0.7365272458352853
+                    ],
+                    [
+                        "experiment",
+                        0.8151066322650328
+                    ],
+                    [
+                        "example",
+                        0.8193258276010046
+                    ],
+                    [
+                        "variable",
+                        0.8579607645869071
+                    ],
+                    [
+                        "function",
+                        0.8655830084397358
+                    ],
+                    [
+                        "approximation",
+                        0.8748019267065387
+                    ],
+                    [
+                        "m/s",
+                        0.8791505026750535
+                    ],
+                    [
+                        "rover",
+                        0.8842010037231846
+                    ],
+                    [
+                        "point",
+                        0.8875597770627167
+                    ]
+                ],
+                "topTopicSimilarity": 0.4,
+                "sharedTopicScores": [
+                    [
+                        "Mars",
+                        0.25519189640303164
+                    ],
+                    [
+                        "Earth",
+                        0.2556634564239517
+                    ],
+                    [
+                        "terminal",
+                        0.3388339660717118
+                    ],
+                    [
+                        "velocity",
+                        0.3388339660717118
+                    ],
+                    [
+                        "diameter",
+                        0.3448343465478968
+                    ],
+                    [
+                        "density",
+                        0.49339610380264765
+                    ],
+                    [
+                        "canopy",
+                        0.5037984271245959
+                    ],
+                    [
+                        "phi",
+                        0.5161546872748106
+                    ],
+                    [
+                        "mass",
+                        0.5202613814826651
+                    ],
+                    [
+                        "parachute",
+                        0.5233467988777682
+                    ],
+                    [
+                        "variable",
+                        0.8579607645869071
+                    ],
+                    [
+                        "function",
+                        0.8655830084397358
+                    ]
+                ]
+            }
+        },
+        "3gxNrc_EEN8-990": {
+            "id": "3gxNrc_EEN8-990",
+            "heat": 0.0,
+            "start": 990.0,
+            "text": " In this example, we used dimensional analysis to restrict the possible form of a function describing the terminal velocity of the Mars rover as a function of parachute canopy diameter, gravitational acceleration, atmospheric density, and the mass of the rover. This allowed us to design a parachute for use on Mars based on Earth bound experiments. In general, the process of dimensional analysis involves... 1. Identifying the dependent variable and independent variables, 2. Expressing the relevant fundamental dimensions in terms of the variables found in step (1), 3. Generating dimensionless expressions for all of the variables using expressions from step (2). 4. Producing a functional relationship between the dimensionless dependent variable in terms of the remaining independent dimensionless expressions. 5. Rearranging to determine a formula for the variable of interest. And 6. Performing experiments to determine the form of the general real valued function that appears in the formula. We've just shown you a powerful tool which can save you a lot of time. So the next time you encounter a difficult challenge, you might just want to try... Dimensional Analysis.",
+            "metrics": {
+                "relativeDCReadability": 1.1171546614889203,
+                "lexicalDiversity": 0.6032608695652174,
+                "posComposition": {
+                    "IN": 0.141,
+                    "DT": 0.152,
+                    "NN": 0.212,
+                    "PRP": 0.038,
+                    "VBD": 0.011,
+                    "JJ": 0.103,
+                    "TO": 0.027,
+                    "VB": 0.038,
+                    "VBG": 0.049,
+                    "NNP": 0.016,
+                    "CC": 0.016,
+                    "NNS": 0.065,
+                    "VBN": 0.022,
+                    "VBZ": 0.011,
+                    ":": 0.011,
+                    "CD": 0.043,
+                    "WDT": 0.011,
+                    "VBP": 0.011,
+                    "RB": 0.011,
+                    "MD": 0.011
+                },
+                "syllableRate": 2.908,
+                "topicScores": [
+                    [
+                        "Mars",
+                        0.29167337504923185
+                    ],
+                    [
+                        "variable",
+                        0.2958382101531954
+                    ],
+                    [
+                        "dimensional",
+                        0.40900324406949545
+                    ],
+                    [
+                        "function",
+                        0.4189389173878648
+                    ],
+                    [
+                        "expression",
+                        0.4245854914848654
+                    ],
+                    [
+                        "dimensionless",
+                        0.4250247020743443
+                    ],
+                    [
+                        "rover",
+                        0.43756086580736164
+                    ],
+                    [
+                        "Mars rover",
+                        0.47190251265825056
+                    ],
+                    [
+                        "analysis",
+                        0.48400901265142926
+                    ],
+                    [
+                        "parachute",
+                        0.4865115840922942
+                    ],
+                    [
+                        "Earth",
+                        0.5153013061456541
+                    ],
+                    [
+                        "term",
+                        0.5199843957620157
+                    ],
+                    [
+                        "form",
+                        0.5236653934927019
+                    ],
+                    [
+                        "experiment",
+                        0.5262328822903612
+                    ],
+                    [
+                        "dependent",
+                        0.5284683074898912
+                    ],
+                    [
+                        "general",
+                        0.5347823114184822
+                    ],
+                    [
+                        "step",
+                        0.5347823114184822
+                    ],
+                    [
+                        "formula",
+                        0.5434703444707406
+                    ],
+                    [
+                        "time",
+                        0.5471152508283349
+                    ],
+                    [
+                        "gravitational",
+                        0.7332774688956424
+                    ],
+                    [
+                        "acceleration",
+                        0.7332774688956424
+                    ],
+                    [
+                        "atmospheric",
+                        0.7332774688956424
+                    ],
+                    [
+                        "density",
+                        0.7332774688956424
+                    ],
+                    [
+                        "example",
+                        0.7510752662738002
+                    ],
+                    [
+                        "canopy",
+                        0.7510752662738002
+                    ],
+                    [
+                        "diameter",
+                        0.7510752662738002
+                    ],
+                    [
+                        "possible",
+                        0.7673233942932423
+                    ],
+                    [
+                        "terminal",
+                        0.7673233942932423
+                    ],
+                    [
+                        "velocity",
+                        0.7673233942932423
+                    ],
+                    [
+                        "mass",
+                        0.7673233942932423
+                    ]
+                ],
+                "topTopicSimilarity": 0.5333333333333333,
+                "sharedTopicScores": [
+                    [
+                        "Mars",
+                        0.29167337504923185
+                    ],
+                    [
+                        "variable",
+                        0.2958382101531954
+                    ],
+                    [
+                        "function",
+                        0.4189389173878648
+                    ],
+                    [
+                        "expression",
+                        0.4245854914848654
+                    ],
+                    [
+                        "dimensionless",
+                        0.4250247020743443
+                    ],
+                    [
+                        "analysis",
+                        0.48400901265142926
+                    ],
+                    [
+                        "parachute",
+                        0.4865115840922942
+                    ],
+                    [
+                        "Earth",
+                        0.5153013061456541
+                    ],
+                    [
+                        "formula",
+                        0.5434703444707406
+                    ],
+                    [
+                        "time",
+                        0.5471152508283349
+                    ],
+                    [
+                        "density",
+                        0.7332774688956424
+                    ],
+                    [
+                        "canopy",
+                        0.7510752662738002
+                    ],
+                    [
+                        "diameter",
+                        0.7510752662738002
+                    ],
+                    [
+                        "terminal",
+                        0.7673233942932423
+                    ],
+                    [
+                        "velocity",
+                        0.7673233942932423
+                    ],
+                    [
+                        "mass",
+                        0.7673233942932423
+                    ]
+                ]
+            }
+        }
+    }
+}

@@ -12,7 +12,6 @@ def add_topics(text: str):
 
     except:
         doc = textacy.make_spacy_doc(text, lang="en_core_web_sm")
-        topics = keyterms.yake(doc, normalize="lemma", topn=20)
+        topics = keyterms.yake(doc, normalize="lemma", topn=30)
     return topics
-
 
