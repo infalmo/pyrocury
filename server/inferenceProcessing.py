@@ -1,7 +1,7 @@
 from scipy.signal import savgol_filter
 import numpy as np
-import runModel
-from runModel import ComplexityDataset, ComplexityNN
+from models import runModel
+from models.runModel import ComplexityDataset, ComplexityNN
 import json
 import requests
 import symbl
@@ -10,13 +10,13 @@ def processInferenceHeatmap(arr: list, speedupFactor: float, interval: float = 9
     """
     Smoothens and normalizes the speedup factor & curve
     """
-    smoothenedHeatmap = savgol_filter(arr, 5, 4)
-    smoothenedHeatmap = np.array(smoothenedHeatmap)
+    smoothenedHeatmap = np.array(arr)
+    smoothenedHeatmap *= 10
+    smoothenedHeatmap = savgol_filter(smoothenedHeatmap, 7, 5)
     maxVal = max(smoothenedHeatmap)
-    finalVals = (1-smoothenedHeatmap)/(1-maxVal) * interval * 1/speedupFactor
-    return finalVals 
+    finalVals = (1.0 - smoothenedHeatmap)/(1.0 - maxVal) * float(interval) * 1.0/speedupFactor
+    return list(finalVals)
 
-def s
 
 def frontendConnection(videoPath: str, speedupFactor: float):
     """
@@ -24,10 +24,11 @@ def frontendConnection(videoPath: str, speedupFactor: float):
     """
     
     inputCSV = 'inferenceTable.csv'
-    inferredHeatmap = runModel.runInferenceModel('model.pt', 'inferenceTable.csv')
+    inferredHeatmap = runModel.runInferenceModel('models\\model.pt', 'models\\inferenceTable.csv')
     print(inferredHeatmap)
     proceessedHeatmap = processInferenceHeatmap(inferredHeatmap, speedupFactor, 90)
     print(proceessedHeatmap)
+    
 
 
 frontendConnection('', 1)
