@@ -1,22 +1,39 @@
-from scipy.signal import savgol_filter
 import numpy as np
 from models import runModel
 from models.runModel import ComplexityDataset, ComplexityNN
 import json
 import requests
 import symbl
+import speedener
 
-def processInferenceHeatmap(arr: list, speedupFactor: float, interval: float = 90)->list:
+def processInferenceHeatmap(arr: list, speedupFactor: float)->list:
     """
     Smoothens and normalizes the speedup factor & curve
     """
     smoothenedHeatmap = np.array(arr)
-    smoothenedHeatmap *= 10
-    smoothenedHeatmap = savgol_filter(smoothenedHeatmap, 7, 5)
+    smoothenedHeatmap = smoothenedHeatmap * 10
     maxVal = max(smoothenedHeatmap)
-    finalVals = (1.0 - smoothenedHeatmap)/(1.0 - maxVal) * float(interval) * 1.0/speedupFactor
-    return list(finalVals)
+    smoothenedHeatmap = (1.0 - smoothenedHeatmap)/(1.0 - maxVal)
+    #calculate moving average
+    window_size = 3\
+    movingAvgs = []
+    for i in range(window):
 
+    
+    i = 0
+    while i < len(smoothenedHeatmap) - window_size + 1:
+  
+        # Calculate the average of current window
+        window_average = round(np.sum(smoothenedHeatmap[
+        i:i+window_size]) / window_size, 2)
+        
+        # Store the average of current
+        # window in moving average list
+        movingAvgs.append(window_average)
+        
+        # Shift window to right by one position
+        i += 1
+    return movingAvgs
 
 def frontendConnection(videoPath: str, speedupFactor: float):
     """
@@ -26,9 +43,5 @@ def frontendConnection(videoPath: str, speedupFactor: float):
     inputCSV = 'inferenceTable.csv'
     inferredHeatmap = runModel.runInferenceModel('models\\model.pt', 'models\\inferenceTable.csv')
     print(inferredHeatmap)
-    proceessedHeatmap = processInferenceHeatmap(inferredHeatmap, speedupFactor, 90)
+    proceessedHeatmap = processInferenceHeatmap(inferredHeatmap, speedupFactor)
     print(proceessedHeatmap)
-    
-
-
-frontendConnection('', 1)
