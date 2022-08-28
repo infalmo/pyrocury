@@ -12,7 +12,7 @@ def download_youtube_video(url: str, workingDir: str):
     yt = pytube.YouTube(url)
     yt.streams.get_highest_resolution().download(workingDir)
 
-    return os.path.join(workingDir, os.listdir(workingDir)[0])
+    return os.path.join(workingDir, os.listdir(workingDir)[-1])
 
 def convert_raw_heatmap(raw: list[float]):
     # Invert
@@ -36,16 +36,16 @@ def convert_raw_heatmap(raw: list[float]):
 
 def speeden_video(video_file_path: str, speeds: list[float], outFile: str = "pyrocury-output.mp4") -> str:
     video = VideoFileClip(video_file_path)
-    output = None
 
+    output = None
     l = 0.0
     for x in range(len(speeds)):
         r = None
         if x != len(speeds)-1:
             r = l+90.0
-
+        speeds[x] = max(speeds[x], 0.5)
         sub_video: VideoClip = video.subclip(l, r)
-        sub_video = sub_video.set_fps(video.fps*speeds[x])
+        #sub_video = sub_video.set_fps(video.fps*speeds[x])
         sub_video = sub_video.fx(vfx.speedx, speeds[x])
 
         if output == None:
@@ -67,8 +67,8 @@ def process(url:str):
         shutil.rmtree('temp')
     rawHeatmap = transcriptProcessor(url)
     videoPath = download_youtube_video(url, 'temp\\' + os.listdir('temp')[0])
-    print(processedHeatmap)
     processedHeatmap = convert_raw_heatmap(rawHeatmap)
+    print(processedHeatmap)
     print(videoPath)
     return speeden_video(videoPath, processedHeatmap)
     
