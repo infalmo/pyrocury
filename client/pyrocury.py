@@ -7,7 +7,7 @@ from tkinter import messagebox
 from tkinter.ttk import *
 import customtkinter
 import time
-
+from server.models.server import process
 customtkinter.set_appearance_mode("Light")
 customtkinter.set_default_color_theme("customcolor.json")
 
@@ -63,10 +63,10 @@ videoURLStr = ""
 def findURL():
 	def returnURL():
 		videoURLStr = url_entrybox.get()
-		# do something to get mp4...
+		process(videoURLStr)
 		videoFilePathVar.set(
-			# file path to downloaded mp4
-			)
+			
+		)
 		videoPlayerScreen.configure(state=NORMAL)
 		url_window.destroy()
 

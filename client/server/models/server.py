@@ -1,10 +1,9 @@
-from transcriptProcessing import transcriptProcessor
+from .transcriptProcessing import transcriptProcessor
 import os
-from tempfile import tempdir
-from uuid import uuid4
 import pytube
 import numpy as np
-from runModel import ComplexityNN
+from .runModel import ComplexityNN
+from moviepy.editor import *
 
 def download_youtube_video(url: str, workingDir: str):
     os.makedirs(workingDir, exist_ok=True)
@@ -34,16 +33,41 @@ def convert_raw_heatmap(raw: list[float]):
     return np.array(F)
 
 
-def process(url:str):
+def speeden_video(video_file_path: str, speeds: list[float], outFile: str = "pyrocury-output.mp4") -> str:
+    video = VideoFileClip(video_file_path)
+    video.write_videofile("hello.mp4")
+    output = None
+
+    l = 0.0
+    for x in range(len(speeds)):
+        r = None
+        if x != len(speeds)-1:
+            r = l+90.0
+
+        sub_video: VideoClip = video.subclip(l, r)
+        sub_video = sub_video.set_fps(video.fps*speeds[x])
+        sub_video = sub_video.fx(vfx.speedx, speeds[x])
+
+        if output == None:
+            output = sub_video
+        else:
+            output = concatenate_videoclips([output, sub_video])
+
+    output.write_videofile(outFile)
+    return outFile
+
+
+
+def process(url:str, savedir:str):
     """
     takes a single YT URL and processes it to send to the frontend.
     """
     rawHeatmap = transcriptProcessor(url)
     download_youtube_video(url, 'temp\\' + os.listdir('temp')[0])
     processedHeatmap = convert_raw_heatmap(rawHeatmap)
-    print(processedHeatmap)
+    print(speeden_video('temp\\' + os.listdir('temp')[0], processedHeatmap))
+    
     #delete folder when done
+    
     os.removedirs('temp')
 
-
-process('https://www.youtube.com/watch?v=VYQVlVoWoPY&ab_channel=3Blue1Brown')

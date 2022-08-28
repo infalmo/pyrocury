@@ -1,6 +1,6 @@
 from asyncore import read
-import languageHeuristics as lh
-import yakeProcessing
+from . import languageHeuristics as lh
+from . import yakeProcessing
 import csv
 from readability import Readability
 import nltk
